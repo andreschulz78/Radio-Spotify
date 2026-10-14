@@ -1,8 +1,8 @@
 {
-"updated": "2026-10-14T15:59:15.909030+02:00",
+"updated": "2026-10-14T16:10:15.910323+02:00",
 "matcher": 2,
 "blocked_until": "2026-10-15T12:31:19.967087+02:00",
-"snapshot": "AAAAq/siqdF0GY0+4g8L1QrTLreX0Prx",
+"snapshot": "AAAAs7f/d2FeI9fLor0Esjf47A2/mCkK",
 "playlist": [
 [
 "2026-10-14T15:45|Sofie Royer|Cowboy Mouth",
@@ -2947,13 +2947,21 @@
 [
 "2026-10-07T16:46|Planningtorock feat. Romy|The One",
 "spotify:track:7DNlr75yw0OcYLgYXvmGY1"
-],
-[
-"2026-10-07T16:06|Linka Moja|Men R Dogs",
-"spotify:track:7AgfOLYDB7GrgIWg60PBw7"
 ]
 ],
 "entries": [
+{
+"id": "2026-10-14T16:07|Inxs|New Sensation",
+"t": "2026-10-14T16:07:00+02:00",
+"artist": "Inxs",
+"title": "New Sensation"
+},
+{
+"id": "2026-10-14T15:58|Rodriguez|Rich folks hoax",
+"t": "2026-10-14T15:58:00+02:00",
+"artist": "Rodriguez",
+"title": "Rich folks hoax"
+},
 {
 "id": "2026-10-14T15:53|Barry Can't Swim|Cars Pass By Like Childhood Sweethearts",
 "t": "2026-10-14T15:53:00+02:00",
@@ -7933,18 +7941,6 @@
 "t": "2026-10-07T16:19:00+02:00",
 "artist": "Propellerheads feat. Shirley Bassey",
 "title": "History Repeating"
-},
-{
-"id": "2026-10-07T16:08|Young Rebel Set|If I Was",
-"t": "2026-10-07T16:08:00+02:00",
-"artist": "Young Rebel Set",
-"title": "If I Was"
-},
-{
-"id": "2026-10-07T16:06|Linka Moja|Men R Dogs",
-"t": "2026-10-07T16:06:00+02:00",
-"artist": "Linka Moja",
-"title": "Men R Dogs"
 }
 ],
 "cache": {
