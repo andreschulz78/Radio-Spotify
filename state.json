@@ -1,9 +1,13 @@
 {
-"updated": "2026-10-14T15:48:15.908023+02:00",
+"updated": "2026-10-14T15:59:15.909030+02:00",
 "matcher": 2,
 "blocked_until": "2026-10-15T12:31:19.967087+02:00",
-"snapshot": "AAAAm3uzKzOUvLbGxGHri9HckW2TkaFN",
+"snapshot": "AAAAq/siqdF0GY0+4g8L1QrTLreX0Prx",
 "playlist": [
+[
+"2026-10-14T15:45|Sofie Royer|Cowboy Mouth",
+"spotify:track:7qgYR8fHsHyyS5WKvA9srS"
+],
 [
 "2026-10-14T15:23|Ethan French|reckless and arranged - day 56 (extended)",
 "spotify:track:6H2ZSdZkYYW63UM6K2GcFh"
@@ -2947,13 +2951,21 @@
 [
 "2026-10-07T16:06|Linka Moja|Men R Dogs",
 "spotify:track:7AgfOLYDB7GrgIWg60PBw7"
-],
-[
-"2026-10-07T15:57|Death Cab For Cutie|Pep Talk",
-"spotify:track:3ra7fDLqfUHBWBL702fOAn"
 ]
 ],
 "entries": [
+{
+"id": "2026-10-14T15:53|Barry Can't Swim|Cars Pass By Like Childhood Sweethearts",
+"t": "2026-10-14T15:53:00+02:00",
+"artist": "Barry Can't Swim",
+"title": "Cars Pass By Like Childhood Sweethearts"
+},
+{
+"id": "2026-10-14T15:45|Sofie Royer|Cowboy Mouth",
+"t": "2026-10-14T15:45:00+02:00",
+"artist": "Sofie Royer",
+"title": "Cowboy Mouth"
+},
 {
 "id": "2026-10-14T15:32|Bronson feat. Lau.ra|Heart Attack",
 "t": "2026-10-14T15:32:00+02:00",
@@ -7933,18 +7945,6 @@
 "t": "2026-10-07T16:06:00+02:00",
 "artist": "Linka Moja",
 "title": "Men R Dogs"
-},
-{
-"id": "2026-10-07T15:57|Death Cab For Cutie|Pep Talk",
-"t": "2026-10-07T15:57:00+02:00",
-"artist": "Death Cab For Cutie",
-"title": "Pep Talk"
-},
-{
-"id": "2026-10-07T15:52|Bad Bunny|Moscow Mule",
-"t": "2026-10-07T15:52:00+02:00",
-"artist": "Bad Bunny",
-"title": "Moscow Mule"
 }
 ],
 "cache": {
