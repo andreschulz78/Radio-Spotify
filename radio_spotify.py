@@ -27,6 +27,7 @@ BASE = "https://example.invalid"
 WINDOW = timedelta(days=7)
 MAX_LOOKUPS = 600          # Spotify-Suchen pro Lauf (Rest folgt im nächsten Lauf)
 RETRY_NOT_FOUND = timedelta(days=3)
+MATCHER = 2               # erhöhen, wenn find_uri verbessert wird -> Nicht-Gefundene neu suchen
 STATE_FILE = Path(__file__).with_name("state.json")
 UA = "Mozilla/5.0 (Radio-spotify; private Playlist)"
 
@@ -148,23 +149,51 @@ def main_artist(a):
 
 
 def base_title(t):
+    t = re.sub(r"^Rubrik\s*[-/:]\s*", "", t.strip(), flags=re.I)   # Radio-Rubrik vor dem Titel
     t = re.sub(r"\s*[\(\[][^)\]]*(edit|version|mix|remaster|single|radio|feat|live|mono|stereo)[^)\]]*[\)\]]",
                "", t, flags=re.I)
     return re.sub(r"\s+-\s+.*(edit|version|remaster).*$", "", t, flags=re.I).strip() or t
 
 
+def strip_the(s):
+    return s[4:] if s.startswith("the ") else s
+
+
+def bare_title(t):
+    """Titel ohne jede Klammer und ohne ' - Zusatz'."""
+    return norm(re.sub(r"\s*[\(\[].*?[\)\]]|\s+-\s+.*$", "", base_title(t))) or norm(t)
+
+
+def title_score(found, wanted):
+    a, b = bare_title(found), bare_title(wanted)
+    if a == b:
+        return 1.0
+    return max(difflib.SequenceMatcher(None, norm(base_title(found)), norm(base_title(wanted))).ratio(),
+               difflib.SequenceMatcher(None, a, b).ratio(),
+               0.85 if a.startswith(b + " ") or b.startswith(a + " ") else 0.0)
+
+
 def find_uri(sp, artist, title):
     a_main, t_base = main_artist(artist), base_title(title)
-    na_full, na, nt = norm(artist), norm(a_main), norm(t_base)
+    swapped = re.fullmatch(r"([^,&]+),\s*([^,&]+)", a_main)   # "Green, Adam" -> "Adam Green"
+    alts = {strip_the(norm(a_main))} | ({strip_the(norm(f"{swapped[2]} {swapped[1]}"))} if swapped else set())
+    na_full = norm(artist)
+
+    def artist_ok(n):
+        n = strip_the(n)
+        return n and (n in alts or n in na_full or any(a in n or difflib.SequenceMatcher(None, n, a).ratio() > 0.85
+                                                       for a in alts))
+
+    queries = [f"track:{t_base} artist:{a_main}", f"{a_main} {t_base}", f"{a_main} {bare_title(title)}"]
+    if swapped:
+        queries.append(f"{swapped[2]} {swapped[1]} {t_base}")
     best, best_score = None, 0.0
-    for q in (f"track:{t_base} artist:{a_main}", f"{a_main} {t_base}"):
+    for q in dict.fromkeys(queries):
         res = sp.call("GET", "/search", {"q": q, "type": "track", "limit": 10, "market": "DE"})
         for tr in res.get("tracks", {}).get("items", []):
-            names = [norm(x["name"]) for x in tr.get("artists", [])]
-            if not any(n and (n == na or n in na_full or difflib.SequenceMatcher(None, n, na).ratio() > 0.85)
-                       for n in names):
+            if not any(artist_ok(norm(x["name"])) for x in tr.get("artists", [])):
                 continue
-            score = difflib.SequenceMatcher(None, norm(base_title(tr["name"])), nt).ratio()
+            score = title_score(tr["name"], title)
             if score > best_score:
                 best, best_score = tr["uri"], score
         if best_score >= 0.9:
@@ -221,6 +250,8 @@ def main():
     state = json.loads(STATE_FILE.read_text()) if STATE_FILE.exists() else {}
     entries = {e["id"]: e for e in state.get("entries", [])}
     cache = state.get("cache", {})
+    if state.get("matcher") != MATCHER:
+        cache = {k: v for k, v in cache.items() if v["u"]}
 
     latest = max((datetime.fromisoformat(e["t"]) for e in entries.values()), default=None)
     new = [e for e in scrape(now, latest) if e["id"] not in entries]
@@ -257,7 +288,7 @@ def main():
     snapshot = sync_playlist(sp, pid, state.get("playlist"), desired, state.get("snapshot"))
 
     STATE_FILE.write_text(json.dumps({
-        "updated": now.isoformat(), "snapshot": snapshot, "playlist": desired,
+        "updated": now.isoformat(), "matcher": MATCHER, "snapshot": snapshot, "playlist": desired,
         "entries": [{k: e[k] for k in ("id", "t", "artist", "title")} for e in ordered],
         "cache": cache}, ensure_ascii=False, indent=0))
 
