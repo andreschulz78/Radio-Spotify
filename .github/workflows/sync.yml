@@ -1,8 +1,11 @@
 name: Radio → Spotify
 
+# Dauerlauf: ein Job synchronisiert ~5 h 40 min lang jede Minute.
+# Der Zeitplan stellt alle 30 Min. einen Nachfolger in die Warteschlange (concurrency),
+# der direkt nach Ende des laufenden Jobs startet.
 on:
   schedule:
-    - cron: "7,37 * * * *"   # alle 30 Min. (GitHub verzögert teils um einige Minuten)
+    - cron: "7,37 * * * *"
   workflow_dispatch:
 
 concurrency:
@@ -15,19 +18,16 @@ permissions:
 jobs:
   sync:
     runs-on: ubuntu-latest
-    timeout-minutes: 20
+    timeout-minutes: 355
     steps:
       - uses: actions/checkout@v4
-      - name: Synchronisieren
-        run: python3 radio_spotify.py
+      - name: Dauerlauf
+        run: |
+          git config user.name "Radio-bot"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          python3 -u radio_spotify.py --loop 340
         env:
           SPOTIFY_CLIENT_ID: ${{ secrets.SPOTIFY_CLIENT_ID }}
           SPOTIFY_CLIENT_SECRET: ${{ secrets.SPOTIFY_CLIENT_SECRET }}
           SPOTIFY_REFRESH_TOKEN: ${{ secrets.SPOTIFY_REFRESH_TOKEN }}
           SPOTIFY_PLAYLIST_ID: ${{ secrets.SPOTIFY_PLAYLIST_ID }}
-      - name: Stand speichern
-        run: |
-          git config user.name "Radio-bot"
-          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add state.json
-          git diff --cached --quiet || (git commit -q -m "Stand $(date -u +%FT%RZ)" && git push -q)

@@ -1,7 +1,7 @@
 # Radio → Spotify
 
 Spiegelt die Radio-Playlist  in eine Spotify-Playlist: jede Ausstrahlung der letzten 7 Tage, neueste oben.
-Läuft alle 30 Minuten per GitHub Actions; `state.json` hält den Stand.
+Aktualisiert jede Minute per GitHub-Actions-Dauerlauf (Jobs à ~5 h 40 min, nahtlos aneinandergereiht); `state.json` hält den Stand.
 
 - `radio_spotify.py` – Sync (`--dry-run` liest nur Radio aus)
 - `auth.py` – einmalige Spotify-Anmeldung, legt die Playlist an

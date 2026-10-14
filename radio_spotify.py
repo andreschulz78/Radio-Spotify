@@ -4,6 +4,7 @@
 Umgebungsvariablen: SPOTIFY_CLIENT_ID, SPOTIFY_CLIENT_SECRET, SPOTIFY_REFRESH_TOKEN, SPOTIFY_PLAYLIST_ID
 Aufruf:  python3 radio_spotify.py            # synchronisieren
          python3 radio_spotify.py --dry-run  # nur Radio auslesen, nichts an Spotify senden
+         python3 radio_spotify.py --loop 340 # Dauerlauf: 340 Min. lang jede Minute
 """
 import base64
 import difflib
@@ -12,6 +13,7 @@ import json
 import os
 import re
 import socket
+import subprocess
 import sys
 import time
 import unicodedata
@@ -25,7 +27,7 @@ from zoneinfo import ZoneInfo
 TZ = ZoneInfo("Europe/Berlin")
 BASE = "https://example.invalid"
 WINDOW = timedelta(days=7)
-MAX_LOOKUPS = 600          # Spotify-Suchen pro Lauf (Rest folgt im nächsten Lauf)
+MAX_LOOKUPS = 300          # Spotify-Suchen pro Lauf (Rest folgt im nächsten Lauf)
 RETRY_NOT_FOUND = timedelta(days=3)
 MATCHER = 2               # erhöhen, wenn find_uri verbessert wird -> Nicht-Gefundene neu suchen
 STATE_FILE = Path(__file__).with_name("state.json")
@@ -87,17 +89,21 @@ def show_tracks(path, start):
 
 def scrape(now, latest):
     """Neue Ausstrahlungen seit `latest` (bzw. der letzten 7 Tage)."""
-    since = max(now - WINDOW, latest - timedelta(hours=6)) if latest else now - WINDOW
+    since = max(now - WINDOW, latest) - timedelta(hours=6) if latest else now - WINDOW - timedelta(hours=6)
     day, found = since.date(), []
     while day <= now.date():
         for path, start in sorted(day_shows(day).items(), key=lambda x: x[1]):
-            if start >= since - timedelta(hours=6) and start <= now:
+            if since <= start <= now:
                 found += show_tracks(path, start)
         day += timedelta(days=1)
     return found
 
 
 # ---------- Spotify ----------
+
+class RateLimited(RuntimeError):
+    pass
+
 
 class Spotify:
     def __init__(self):
@@ -128,7 +134,10 @@ class Spotify:
                     return json.loads(raw) if raw else {}
             except urllib.error.HTTPError as e:
                 if e.code == 429:
-                    time.sleep(int(e.headers.get("Retry-After", "5")) + 1)
+                    wait = int(e.headers.get("Retry-After", "5")) + 1
+                    if wait > 60:
+                        raise RateLimited(f"{method} {path}: Spotify verlangt {wait} s Pause") from e
+                    time.sleep(wait)
                 elif e.code == 401 and attempt == 0:
                     self.refresh()
                 elif e.code >= 500 and attempt < 5:
@@ -189,6 +198,7 @@ def find_uri(sp, artist, title):
         queries.append(f"{swapped[2]} {swapped[1]} {t_base}")
     best, best_score = None, 0.0
     for q in dict.fromkeys(queries):
+        time.sleep(0.3)   # Spotify-Ratenlimit schonen
         res = sp.call("GET", "/search", {"q": q, "type": "track", "limit": 10, "market": "DE"})
         for tr in res.get("tracks", {}).get("items", []):
             if not any(artist_ok(norm(x["name"])) for x in tr.get("artists", [])):
@@ -244,8 +254,7 @@ def rebuild(sp, pid, desired, why):
 
 # ---------- Ablauf ----------
 
-def main():
-    dry = "--dry-run" in sys.argv
+def run_once(sp=None, dry=False):
     now = datetime.now(TZ)
     state = json.loads(STATE_FILE.read_text()) if STATE_FILE.exists() else {}
     entries = {e["id"]: e for e in state.get("entries", [])}
@@ -259,33 +268,39 @@ def main():
         entries[e["id"]] = e
     cutoff = now - WINDOW
     entries = {i: e for i, e in entries.items() if datetime.fromisoformat(e["t"]) >= cutoff}
-    print(f"Radio: {len(new)} neue Ausstrahlungen, {len(entries)} im 7-Tage-Fenster")
-
+    if new or dry:
+        print(f"{now:%H:%M} Radio: {len(new)} neu, {len(entries)} im 7-Tage-Fenster")
     if dry:
         for e in sorted(new, key=lambda e: e["t"])[-15:]:
             print(f"  {e['t'][:16]}  {e['artist']} – {e['title']}")
         return
 
-    sp = Spotify()
-    lookups = 0
+    lookups, limited = 0, False
     for e in sorted(entries.values(), key=lambda e: e["t"], reverse=True):
         key = norm(e["artist"]) + "|" + norm(e["title"])
         c = cache.get(key)
         stale = c and c["u"] is None and now - datetime.fromisoformat(c["d"]) > RETRY_NOT_FOUND
-        if (c is None or stale) and lookups < MAX_LOOKUPS:
-            cache[key] = c = {"u": find_uri(sp, e["artist"], e["title"]), "d": now.isoformat()}
+        if (c is None or stale) and lookups < MAX_LOOKUPS and not limited:
+            try:
+                cache[key] = c = {"u": find_uri(sp, e["artist"], e["title"]), "d": now.isoformat()}
+            except RateLimited as err:
+                print(f"  Suche abgebrochen: {err}")
+                limited = True
+                continue
             lookups += 1
             if c["u"] is None:
                 print(f"  nicht gefunden: {e['artist']} – {e['title']}")
         e["uri"] = c["u"] if c else None
     used = {norm(e["artist"]) + "|" + norm(e["title"]) for e in entries.values()}
     cache = {k: v for k, v in cache.items() if k in used}
-    print(f"Spotify-Suchen: {lookups}")
+    if lookups:
+        print(f"  Spotify-Suchen: {lookups}")
 
     ordered = sorted(entries.values(), key=lambda e: e["id"], reverse=True)
     desired = [[e["id"], e["uri"]] for e in ordered if e.get("uri")]
-    pid = os.environ["SPOTIFY_PLAYLIST_ID"]
-    snapshot = sync_playlist(sp, pid, state.get("playlist"), desired, state.get("snapshot"))
+    snapshot = state.get("snapshot")
+    if desired != state.get("playlist"):
+        snapshot = sync_playlist(sp, os.environ["SPOTIFY_PLAYLIST_ID"], state.get("playlist"), desired, snapshot)
 
     STATE_FILE.write_text(json.dumps({
         "updated": now.isoformat(), "matcher": MATCHER, "snapshot": snapshot, "playlist": desired,
@@ -293,5 +308,42 @@ def main():
         "cache": cache}, ensure_ascii=False, indent=0))
 
 
+def commit_state():
+    """Stand ins Repo schreiben (nur in GitHub Actions)."""
+    if not os.environ.get("GITHUB_ACTIONS"):
+        return
+    git = lambda *a: subprocess.run(["git", *a], cwd=STATE_FILE.parent, capture_output=True, text=True)
+    git("add", STATE_FILE.name)
+    if git("diff", "--cached", "--quiet").returncode:
+        git("commit", "-q", "-m", f"Stand {datetime.now(TZ):%Y-%m-%d %H:%M}")
+        git("pull", "-q", "--rebase")
+        r = git("push", "-q")
+        if r.returncode:
+            print("  git push fehlgeschlagen:", r.stderr.strip())
+
+
+def loop(minutes, every=60, commit_every=600):
+    """Dauerlauf: jede Minute synchronisieren, Stand alle 10 Min. sichern."""
+    sp = Spotify()
+    end, last_commit = time.monotonic() + minutes * 60, time.monotonic()
+    while time.monotonic() < end:
+        t0, pause = time.monotonic(), every
+        try:
+            run_once(sp)
+        except Exception as err:   # nächster Versuch im nächsten Takt
+            print(f"{datetime.now(TZ):%H:%M} Fehler: {err}")
+            pause = 300 if isinstance(err, RateLimited) else every
+        if time.monotonic() - last_commit > commit_every:
+            commit_state()
+            last_commit = time.monotonic()
+        time.sleep(max(5, min(pause - (time.monotonic() - t0), end - time.monotonic())))
+    commit_state()
+
+
 if __name__ == "__main__":
-    main()
+    if "--dry-run" in sys.argv:
+        run_once(dry=True)
+    elif "--loop" in sys.argv:
+        loop(int(sys.argv[sys.argv.index("--loop") + 1]))
+    else:
+        run_once(Spotify())
