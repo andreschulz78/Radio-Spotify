@@ -4,6 +4,7 @@ Spiegelt die Radio-Playlist  minütlich in eine Spotify-Playlist (7 Tage rollier
 
 - Repo: https://github.com/andreschulz78/Radio-spotify (öffentlich), `gh` als andreschulz78
 - Playlist: https://open.spotify.com/playlist/4co4S71IZsWv5QRNfET54J
+- Einmaliger Neustart 15.10.2026 12:35 (`FRESH_START`): Playlist geleert, danach nur neue Ausstrahlungen
 - Läuft als GitHub-Actions-Dauerlauf (`--loop 340`, Jobs nahtlos per concurrency); Reset: Workflow manuell mit `reset=true`
 - `state.json` wird vom Bot committet – vor eigenen Pushes `git pull --rebase`
 - Titelabgleich: Deezer → ISRC → `isrc:`-Suche bei Spotify; max. 3 neue Titel pro Minute.

@@ -31,6 +31,7 @@ WINDOW = timedelta(days=7)
 MAX_LOOKUPS = 3            # neue Titel pro Durchlauf (je 1–2 Spotify-Anfragen; zu viele -> 24 h Sperre)
 RETRY_NOT_FOUND = timedelta(days=3)
 MATCHER = 3               # erhöhen, wenn find_uri verbessert wird -> Nicht-Gefundene neu suchen
+FRESH_START = datetime(2026, 10, 15, 12, 35, tzinfo=ZoneInfo("Europe/Berlin"))   # einmalig: Playlist leeren, nur noch Neues
 STATE_FILE = Path(__file__).with_name("state.json")
 UA = "Mozilla/5.0 (Radio-spotify; private Playlist)"
 
@@ -88,9 +89,10 @@ def show_tracks(path, start):
     return out
 
 
-def scrape(now, latest):
-    """Neue Ausstrahlungen seit `latest` (bzw. der letzten 7 Tage)."""
-    since = max(now - WINDOW, latest) - timedelta(hours=6) if latest else now - WINDOW - timedelta(hours=6)
+def scrape(now, latest, start=None):
+    """Neue Ausstrahlungen seit `latest` (bzw. der letzten 7 Tage, frühestens ab `start`)."""
+    floor = max(now - WINDOW, start) if start else now - WINDOW
+    since = max(floor, latest or floor) - timedelta(hours=6)
     day, found = since.date(), []
     while day <= now.date():
         for path, start in sorted(day_shows(day).items(), key=lambda x: x[1]):
@@ -291,9 +293,16 @@ def run_once(sp=None, dry=False):
     cache = state.get("cache", {})
     if state.get("matcher") != MATCHER:
         cache = {k: v for k, v in cache.items() if v["u"]}
+    if sp and FRESH_START and now >= FRESH_START and state.get("fresh") != FRESH_START.isoformat():
+        sp.call("PUT", f"/playlists/{os.environ['SPOTIFY_PLAYLIST_ID']}/items", body={"uris": []})
+        state = {"fresh": FRESH_START.isoformat(), "start": now.isoformat(), "playlist": None}
+        entries = {}
+        print(f"{now:%H:%M} Neustart: Playlist geleert, ab jetzt nur neue Ausstrahlungen")
+    start = datetime.fromisoformat(state["start"]) if state.get("start") else None
 
     latest = max((datetime.fromisoformat(e["t"]) for e in entries.values()), default=None)
-    new = [e for e in scrape(now, latest) if e["id"] not in entries]
+    new = [e for e in scrape(now, latest, start)
+           if e["id"] not in entries and (not start or datetime.fromisoformat(e["t"]) >= start)]
     for e in new:
         entries[e["id"]] = e
     cutoff = now - WINDOW
@@ -334,7 +343,8 @@ def run_once(sp=None, dry=False):
         snapshot = sync_playlist(sp, os.environ["SPOTIFY_PLAYLIST_ID"], state.get("playlist"), desired, snapshot)
 
     STATE_FILE.write_text(json.dumps({
-        "updated": now.isoformat(), "matcher": MATCHER, "blocked_until": blocked, "snapshot": snapshot, "playlist": desired,
+        "updated": now.isoformat(), "matcher": MATCHER, "blocked_until": blocked,
+        "fresh": state.get("fresh"), "start": state.get("start"), "snapshot": snapshot, "playlist": desired,
         "entries": [{k: e[k] for k in ("id", "t", "artist", "title")} for e in ordered],
         "cache": cache}, ensure_ascii=False, indent=0))
 
