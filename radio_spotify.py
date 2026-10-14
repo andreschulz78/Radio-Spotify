@@ -5,6 +5,7 @@ Umgebungsvariablen: SPOTIFY_CLIENT_ID, SPOTIFY_CLIENT_SECRET, SPOTIFY_REFRESH_TO
 Aufruf:  python3 radio_spotify.py            # synchronisieren
          python3 radio_spotify.py --dry-run  # nur Radio auslesen, nichts an Spotify senden
          python3 radio_spotify.py --loop 340 # Dauerlauf: 340 Min. lang jede Minute
+         … --reset                               # vorher Playlist leeren, Stand löschen
 """
 import base64
 import difflib
@@ -340,7 +341,16 @@ def loop(minutes, every=60, commit_every=600):
     commit_state()
 
 
+def reset():
+    """Playlist leeren und gespeicherten Stand verwerfen."""
+    Spotify().call("PUT", f"/playlists/{os.environ['SPOTIFY_PLAYLIST_ID']}/items", body={"uris": []})
+    STATE_FILE.unlink(missing_ok=True)
+    print("Reset: Playlist geleert, Stand gelöscht")
+
+
 if __name__ == "__main__":
+    if "--reset" in sys.argv:
+        reset()
     if "--dry-run" in sys.argv:
         run_once(dry=True)
     elif "--loop" in sys.argv:
