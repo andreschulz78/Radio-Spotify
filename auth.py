@@ -40,7 +40,7 @@ class Handler(http.server.BaseHTTPRequestHandler):
 
 url = "https://accounts.spotify.com/authorize?" + urllib.parse.urlencode(
     {"client_id": cid, "response_type": "code", "redirect_uri": REDIRECT, "scope": SCOPES, "state": state})
-print("Browser öffnet sich für die Spotify-Anmeldung …")
+print("Diesen Link im Browser öffnen (falls er nicht von selbst aufgeht):\n\n" + url + "\n")
 webbrowser.open(url)
 http.server.HTTPServer(("127.0.0.1", 8888), Handler).handle_request()
 if not code:
