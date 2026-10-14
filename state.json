@@ -1,8 +1,8 @@
 {
-"updated": "2026-10-14T13:16:15.894147+02:00",
+"updated": "2026-10-14T13:27:15.895169+02:00",
 "matcher": 2,
 "blocked_until": "2026-10-15T12:31:19.967087+02:00",
-"snapshot": "AAAAIsn9fkBiMDdSNBoTjsqL3knOv8Gw",
+"snapshot": "AAAAKxDS3kdL4trwQ+gqZaHq3M/YHoUz",
 "playlist": [
 [
 "2026-10-14T13:05|Keshavara|Oracular",
@@ -2959,13 +2959,15 @@
 [
 "2026-10-07T13:39|Neal Francis|Hide",
 "spotify:track:197QlBcwTnJNU8DAf3BNLo"
-],
-[
-"2026-10-07T13:24|Ibeyi|Hurry Hurry",
-"spotify:track:4BGA7VW330Eu1kaFNi98cG"
 ]
 ],
 "entries": [
+{
+"id": "2026-10-14T13:18|Getdown Services|I'm Not Feeling It",
+"t": "2026-10-14T13:18:00+02:00",
+"artist": "Getdown Services",
+"title": "I'm Not Feeling It"
+},
 {
 "id": "2026-10-14T13:08|Jonathan Jeremiah|Youngblood",
 "t": "2026-10-14T13:08:00+02:00",
@@ -7939,24 +7941,6 @@
 "t": "2026-10-07T13:30:00+02:00",
 "artist": "Red Hot Chili Peppers",
 "title": "Dark Necessities"
-},
-{
-"id": "2026-10-07T13:24|Ibeyi|Hurry Hurry",
-"t": "2026-10-07T13:24:00+02:00",
-"artist": "Ibeyi",
-"title": "Hurry Hurry"
-},
-{
-"id": "2026-10-07T13:21|Andy Shauf|Halloween Store",
-"t": "2026-10-07T13:21:00+02:00",
-"artist": "Andy Shauf",
-"title": "Halloween Store"
-},
-{
-"id": "2026-10-07T13:17|Lee \"Scratch\" Perry & Mouse On Mars|Rockcurry",
-"t": "2026-10-07T13:17:00+02:00",
-"artist": "Lee \"Scratch\" Perry & Mouse On Mars",
-"title": "Rockcurry"
 }
 ],
 "cache": {
