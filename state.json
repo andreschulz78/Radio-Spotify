@@ -1,8 +1,8 @@
 {
-"updated": "2026-10-14T16:43:15.913663+02:00",
+"updated": "2026-10-14T16:54:15.914762+02:00",
 "matcher": 2,
 "blocked_until": "2026-10-15T12:31:19.967087+02:00",
-"snapshot": "AAAAwyzblG6WR3kk2aXKzQBBoIdKlBds",
+"snapshot": "AAAAy8CtC3IjxmwXZMPpQyJXtl1Laopi",
 "playlist": [
 [
 "2026-10-14T16:25|Alewya|Cairo FM",
@@ -2951,13 +2951,15 @@
 [
 "2026-10-07T17:06|Sassy 009 feat. Blood Orange|Tell Me (Jam City Remix) (Edit)",
 "spotify:track:1FKkOiN5akroSoNPJ07FFL"
-],
-[
-"2026-10-07T16:46|Planningtorock feat. Romy|The One",
-"spotify:track:7DNlr75yw0OcYLgYXvmGY1"
 ]
 ],
 "entries": [
+{
+"id": "2026-10-14T16:45|Timmy Thomas|Why Can't We Live Together",
+"t": "2026-10-14T16:45:00+02:00",
+"artist": "Timmy Thomas",
+"title": "Why Can't We Live Together"
+},
 {
 "id": "2026-10-14T16:37|Sandra Isabel|Kalender",
 "t": "2026-10-14T16:37:00+02:00",
@@ -7937,18 +7939,6 @@
 "t": "2026-10-07T16:57:00+02:00",
 "artist": "Ela Minus",
 "title": "They Told Us It Was Hard, But They Were Wrong"
-},
-{
-"id": "2026-10-07T16:51|Bobby Womack|Please Forgive My Heart",
-"t": "2026-10-07T16:51:00+02:00",
-"artist": "Bobby Womack",
-"title": "Please Forgive My Heart"
-},
-{
-"id": "2026-10-07T16:46|Planningtorock feat. Romy|The One",
-"t": "2026-10-07T16:46:00+02:00",
-"artist": "Planningtorock feat. Romy",
-"title": "The One"
 }
 ],
 "cache": {
