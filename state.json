@@ -1,9 +1,13 @@
 {
-"updated": "2026-10-14T13:05:15.892930+02:00",
+"updated": "2026-10-14T13:16:15.894147+02:00",
 "matcher": 2,
 "blocked_until": "2026-10-15T12:31:19.967087+02:00",
-"snapshot": "AAAAGq8dz/0v95/OFdBHPaoGfx6GJ5FV",
+"snapshot": "AAAAIsn9fkBiMDdSNBoTjsqL3knOv8Gw",
 "playlist": [
+[
+"2026-10-14T13:05|Keshavara|Oracular",
+"spotify:track:41sGSIiPi1QAYaL6nUWSDg"
+],
 [
 "2026-10-14T12:50|Mike D|I Don't Care",
 "spotify:track:6l5d7It5CpY5FlDhTMMKkq"
@@ -2962,6 +2966,18 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-10-14T13:08|Jonathan Jeremiah|Youngblood",
+"t": "2026-10-14T13:08:00+02:00",
+"artist": "Jonathan Jeremiah",
+"title": "Youngblood"
+},
+{
+"id": "2026-10-14T13:05|Keshavara|Oracular",
+"t": "2026-10-14T13:05:00+02:00",
+"artist": "Keshavara",
+"title": "Oracular"
+},
 {
 "id": "2026-10-14T12:53|Alice Costelloe|How Can I",
 "t": "2026-10-14T12:53:00+02:00",
@@ -7941,18 +7957,6 @@
 "t": "2026-10-07T13:17:00+02:00",
 "artist": "Lee \"Scratch\" Perry & Mouse On Mars",
 "title": "Rockcurry"
-},
-{
-"id": "2026-10-07T13:09|The House of Love|Shine On",
-"t": "2026-10-07T13:09:00+02:00",
-"artist": "The House of Love",
-"title": "Shine On"
-},
-{
-"id": "2026-10-07T13:06|Lizzo|Juice",
-"t": "2026-10-07T13:06:00+02:00",
-"artist": "Lizzo",
-"title": "Juice"
 }
 ],
 "cache": {
