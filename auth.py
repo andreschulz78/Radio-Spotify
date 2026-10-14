@@ -7,6 +7,7 @@ Aufruf: python3 auth.py
 import base64
 import getpass
 import json
+import socket
 import subprocess
 import urllib.parse
 import urllib.request
@@ -16,6 +17,10 @@ REDIRECT = "http://127.0.0.1:8888/callback"
 SCOPES = "playlist-modify-public playlist-modify-private playlist-read-private"
 REPO = "andreschulz78/Radio-spotify"
 NAME = "Radio – Live (7 Tage)"
+
+# IPv6 hängt auf diesem Mac -> nur IPv4
+_gai = socket.getaddrinfo
+socket.getaddrinfo = lambda *a, **k: [x for x in _gai(*a, **k) if x[0] == socket.AF_INET] or _gai(*a, **k)
 
 cid = input("Client ID: ").strip()
 sec = getpass.getpass("Client Secret (wird nicht angezeigt): ").strip()
