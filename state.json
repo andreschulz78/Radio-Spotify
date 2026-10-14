@@ -1,9 +1,17 @@
 {
-"updated": "2026-10-14T17:15:15.917375+02:00",
+"updated": "2026-10-14T17:26:15.918664+02:00",
 "matcher": 2,
 "blocked_until": "2026-10-15T12:31:19.967087+02:00",
-"snapshot": "AAAA44sI6UbPVk2m/DK2ttbbRdMISd38",
+"snapshot": "AAAA8+exT1yKCX2EgVa2Jt2cQLuDNOr/",
 "playlist": [
+[
+"2026-10-14T17:15|Death Cab For Cutie|Pep Talk",
+"spotify:track:3ra7fDLqfUHBWBL702fOAn"
+],
+[
+"2026-10-14T17:09|Ibeyi|Hurry Hurry",
+"spotify:track:4BGA7VW330Eu1kaFNi98cG"
+],
 [
 "2026-10-14T16:25|Alewya|Cairo FM",
 "spotify:track:6v7hCIRoJkuYShT0wls1gD"
@@ -2942,6 +2950,24 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-10-14T17:21|Röyksopp|Remind Me",
+"t": "2026-10-14T17:21:00+02:00",
+"artist": "Röyksopp",
+"title": "Remind Me"
+},
+{
+"id": "2026-10-14T17:15|Death Cab For Cutie|Pep Talk",
+"t": "2026-10-14T17:15:00+02:00",
+"artist": "Death Cab For Cutie",
+"title": "Pep Talk"
+},
+{
+"id": "2026-10-14T17:09|Ibeyi|Hurry Hurry",
+"t": "2026-10-14T17:09:00+02:00",
+"artist": "Ibeyi",
+"title": "Hurry Hurry"
+},
 {
 "id": "2026-10-14T17:05|John Grant|Down Here",
 "t": "2026-10-14T17:05:00+02:00",
@@ -7915,12 +7941,6 @@
 "t": "2026-10-07T17:34:00+02:00",
 "artist": "Phoenix",
 "title": "After Midnight"
-},
-{
-"id": "2026-10-07T17:23|Fleetwood Mac|Peacekeeper",
-"t": "2026-10-07T17:23:00+02:00",
-"artist": "Fleetwood Mac",
-"title": "Peacekeeper"
 }
 ],
 "cache": {
