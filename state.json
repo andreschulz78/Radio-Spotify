@@ -1,9 +1,13 @@
 {
-"updated": "2026-10-14T15:26:15.906019+02:00",
+"updated": "2026-10-14T15:37:15.906987+02:00",
 "matcher": 2,
 "blocked_until": "2026-10-15T12:31:19.967087+02:00",
-"snapshot": "AAAAi4kt84OxjLGjAqB1fi3eCryB5gJU",
+"snapshot": "AAAAm3uzKzOUvLbGxGHri9HckW2TkaFN",
 "playlist": [
+[
+"2026-10-14T15:23|Ethan French|reckless and arranged - day 56 (extended)",
+"spotify:track:6H2ZSdZkYYW63UM6K2GcFh"
+],
 [
 "2026-10-14T15:06|Overmono feat. Ruthven|Gem Lingo (ovr now)",
 "spotify:track:0ZrmVPdFFSH3AqTpqeK1ZG"
@@ -2947,13 +2951,27 @@
 [
 "2026-10-07T15:57|Death Cab For Cutie|Pep Talk",
 "spotify:track:3ra7fDLqfUHBWBL702fOAn"
-],
-[
-"2026-10-07T15:34|Grace Cummings|I'm Not Crazy",
-"spotify:track:1iqhFZL2vGN4V83iCh0FI1"
 ]
 ],
 "entries": [
+{
+"id": "2026-10-14T15:32|Bronson feat. Lau.ra|Heart Attack",
+"t": "2026-10-14T15:32:00+02:00",
+"artist": "Bronson feat. Lau.ra",
+"title": "Heart Attack"
+},
+{
+"id": "2026-10-14T15:26|Al Green|Tired Of Being Alone",
+"t": "2026-10-14T15:26:00+02:00",
+"artist": "Al Green",
+"title": "Tired Of Being Alone"
+},
+{
+"id": "2026-10-14T15:23|Ethan French|reckless and arranged - day 56 (extended)",
+"t": "2026-10-14T15:23:00+02:00",
+"artist": "Ethan French",
+"title": "reckless and arranged - day 56 (extended)"
+},
 {
 "id": "2026-10-14T15:17|Christine And The Queens|Je disparais dans tes bras",
 "t": "2026-10-14T15:17:00+02:00",
@@ -7933,18 +7951,6 @@
 "t": "2026-10-07T15:47:00+02:00",
 "artist": "New Order",
 "title": "Crystal"
-},
-{
-"id": "2026-10-07T15:34|Grace Cummings|I'm Not Crazy",
-"t": "2026-10-07T15:34:00+02:00",
-"artist": "Grace Cummings",
-"title": "I'm Not Crazy"
-},
-{
-"id": "2026-10-07T15:28|Faithless feat. Dido|One Step Too Far",
-"t": "2026-10-07T15:28:00+02:00",
-"artist": "Faithless feat. Dido",
-"title": "One Step Too Far"
 }
 ],
 "cache": {
