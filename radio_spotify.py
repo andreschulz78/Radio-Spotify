@@ -28,9 +28,9 @@ from zoneinfo import ZoneInfo
 TZ = ZoneInfo("Europe/Berlin")
 BASE = "https://example.invalid"
 WINDOW = timedelta(days=7)
-MAX_LOOKUPS = 15           # Spotify-Suchen pro Durchlauf (Dev-Mode-Limit: zu viele -> 24 h Sperre)
+MAX_LOOKUPS = 3            # neue Titel pro Durchlauf (je 1–2 Spotify-Anfragen; zu viele -> 24 h Sperre)
 RETRY_NOT_FOUND = timedelta(days=3)
-MATCHER = 2               # erhöhen, wenn find_uri verbessert wird -> Nicht-Gefundene neu suchen
+MATCHER = 3               # erhöhen, wenn find_uri verbessert wird -> Nicht-Gefundene neu suchen
 STATE_FILE = Path(__file__).with_name("state.json")
 UA = "Mozilla/5.0 (Radio-spotify; private Playlist)"
 
@@ -185,33 +185,60 @@ def title_score(found, wanted):
                0.85 if a.startswith(b + " ") or b.startswith(a + " ") else 0.0)
 
 
-def find_uri(sp, artist, title):
-    a_main, t_base = main_artist(artist), base_title(title)
+def best_match(cands, artist, title):
+    """cands: [(Künstlernamen, Titel, Wert)] -> Wert des besten Treffers (oder None)."""
+    a_main = main_artist(artist)
     swapped = re.fullmatch(r"([^,&]+),\s*([^,&]+)", a_main)   # "Green, Adam" -> "Adam Green"
     alts = {strip_the(norm(a_main))} | ({strip_the(norm(f"{swapped[2]} {swapped[1]}"))} if swapped else set())
     na_full = norm(artist)
 
     def artist_ok(n):
-        n = strip_the(n)
+        n = strip_the(norm(n))
         return n and (n in alts or n in na_full or any(a in n or difflib.SequenceMatcher(None, n, a).ratio() > 0.85
                                                        for a in alts))
 
-    queries = [f"track:{t_base} artist:{a_main}", f"{a_main} {t_base}", f"{a_main} {bare_title(title)}"]
+    best, best_score = None, 0.0
+    for names, name, value in cands:
+        if value and any(artist_ok(n) for n in names):
+            score = title_score(name, title)
+            if score > best_score:
+                best, best_score = value, score
+    return best if best_score >= 0.7 else None
+
+
+def deezer_isrc(artist, title):
+    """Abgleich über Deezer (frei, großzügige Limits) -> ISRC der Aufnahme."""
+    a_main, t_base = main_artist(artist), base_title(title)
+    swapped = re.fullmatch(r"([^,&]+),\s*([^,&]+)", a_main)
+    queries = [f"{a_main} {t_base}", f"{a_main} {bare_title(title)}"]
     if swapped:
         queries.append(f"{swapped[2]} {swapped[1]} {t_base}")
-    best, best_score = None, 0.0
     for q in dict.fromkeys(queries):
-        time.sleep(1)   # Spotify-Ratenlimit schonen
-        res = sp.call("GET", "/search", {"q": q, "type": "track", "limit": 10, "market": "DE"})
-        for tr in res.get("tracks", {}).get("items", []):
-            if not any(artist_ok(norm(x["name"])) for x in tr.get("artists", [])):
-                continue
-            score = title_score(tr["name"], title)
-            if score > best_score:
-                best, best_score = tr["uri"], score
-        if best_score >= 0.9:
-            break
-    return best if best_score >= 0.7 else None
+        res = json.loads(fetch("https://api.deezer.com/search?" + urllib.parse.urlencode({"q": q, "limit": 10})))
+        isrc = best_match([([x["artist"]["name"]], x["title"], x.get("isrc")) for x in res.get("data", [])],
+                          artist, title)
+        if isrc:
+            return isrc
+    return None
+
+
+def find_uri(sp, artist, title):
+    """Deezer -> ISRC -> eine exakte Spotify-Abfrage; sonst eine Spotify-Textsuche."""
+    try:
+        isrc = deezer_isrc(artist, title)
+    except (urllib.error.URLError, TimeoutError, ValueError) as err:
+        print(f"  Deezer nicht erreichbar: {err}")
+        isrc = None
+    if isrc:
+        res = sp.call("GET", "/search", {"q": f"isrc:{isrc}", "type": "track", "limit": 1, "market": "DE"})
+        items = res.get("tracks", {}).get("items", [])
+        if items:
+            return items[0]["uri"]
+    time.sleep(1)
+    q = f"{main_artist(artist)} {base_title(title)}"
+    res = sp.call("GET", "/search", {"q": q, "type": "track", "limit": 10, "market": "DE"})
+    return best_match([([x["name"] for x in tr.get("artists", [])], tr["name"], tr["uri"])
+                       for tr in res.get("tracks", {}).get("items", [])], artist, title)
 
 
 def sync_playlist(sp, pid, old, desired, old_snapshot):
