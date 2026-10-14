@@ -6,45 +6,29 @@ Aufruf: python3 auth.py
 """
 import base64
 import getpass
-import http.server
 import json
-import secrets
+import subprocess
 import urllib.parse
 import urllib.request
 import webbrowser
 
 REDIRECT = "http://127.0.0.1:8888/callback"
 SCOPES = "playlist-modify-public playlist-modify-private playlist-read-private"
+REPO = "andreschulz78/Radio-spotify"
 NAME = "Radio – Live (7 Tage)"
 
 cid = input("Client ID: ").strip()
 sec = getpass.getpass("Client Secret (wird nicht angezeigt): ").strip()
-state = secrets.token_urlsafe(16)
-code = None
-
-
-class Handler(http.server.BaseHTTPRequestHandler):
-    def do_GET(self):
-        global code
-        q = urllib.parse.parse_qs(urllib.parse.urlparse(self.path).query)
-        ok = q.get("state", [""])[0] == state and "code" in q
-        code = q["code"][0] if ok else None
-        self.send_response(200)
-        self.send_header("Content-Type", "text/plain; charset=utf-8")
-        self.end_headers()
-        self.wfile.write("Fertig – Fenster schließen.".encode() if ok else "Fehler bei der Anmeldung.".encode())
-
-    def log_message(self, *a):
-        pass
-
-
 url = "https://accounts.spotify.com/authorize?" + urllib.parse.urlencode(
-    {"client_id": cid, "response_type": "code", "redirect_uri": REDIRECT, "scope": SCOPES, "state": state})
-print("Diesen Link im Browser öffnen (falls er nicht von selbst aufgeht):\n\n" + url + "\n")
+    {"client_id": cid, "response_type": "code", "redirect_uri": REDIRECT, "scope": SCOPES})
+print("\n1. Diesen Link im Browser öffnen und zustimmen:\n\n" + url)
+print("\n2. Der Browser landet auf einer Fehlerseite (127.0.0.1 …) – das ist richtig.")
 webbrowser.open(url)
-http.server.HTTPServer(("127.0.0.1", 8888), Handler).handle_request()
-if not code:
-    raise SystemExit("Anmeldung fehlgeschlagen.")
+back = input("3. Komplette Adresse aus der Adresszeile hier einfügen: ").strip()
+q = urllib.parse.parse_qs(urllib.parse.urlparse(back).query)
+if "code" not in q:
+    raise SystemExit("Kein code in der Adresse gefunden.")
+code = q["code"][0]
 
 req = urllib.request.Request("https://accounts.spotify.com/api/token", data=urllib.parse.urlencode(
     {"grant_type": "authorization_code", "code": code, "redirect_uri": REDIRECT}).encode(), headers={
@@ -59,8 +43,8 @@ req = urllib.request.Request("https://api.spotify.com/v1/me/playlists", method="
 pl = json.load(urllib.request.urlopen(req))
 
 print("\nPlaylist angelegt:", pl["external_urls"]["spotify"])
-print("\nDiese vier Werte als GitHub-Secrets eintragen (Repo → Settings → Secrets and variables → Actions):")
-print("  SPOTIFY_CLIENT_ID      =", cid)
-print("  SPOTIFY_CLIENT_SECRET  = (dein Client Secret)")
-print("  SPOTIFY_REFRESH_TOKEN  =", tok["refresh_token"])
-print("  SPOTIFY_PLAYLIST_ID    =", pl["id"])
+values = {"SPOTIFY_CLIENT_ID": cid, "SPOTIFY_CLIENT_SECRET": sec,
+          "SPOTIFY_REFRESH_TOKEN": tok["refresh_token"], "SPOTIFY_PLAYLIST_ID": pl["id"]}
+for name, val in values.items():
+    r = subprocess.run(["gh", "secret", "set", name, "-R", REPO], input=val, text=True, capture_output=True)
+    print(f"  GitHub-Secret {name}: {'gesetzt' if r.returncode == 0 else 'FEHLER ' + r.stderr.strip()}")
