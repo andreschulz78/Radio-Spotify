@@ -1,8 +1,8 @@
 {
-"updated": "2026-10-14T17:05:15.916089+02:00",
+"updated": "2026-10-14T17:15:15.917375+02:00",
 "matcher": 2,
 "blocked_until": "2026-10-15T12:31:19.967087+02:00",
-"snapshot": "AAAAy8CtC3IjxmwXZMPpQyJXtl1Laopi",
+"snapshot": "AAAA44sI6UbPVk2m/DK2ttbbRdMISd38",
 "playlist": [
 [
 "2026-10-14T16:25|Alewya|Cairo FM",
@@ -2939,21 +2939,15 @@
 [
 "2026-10-07T18:10|JGrrey feat. Bel Cobain|Take My Hand",
 "spotify:track:0i4SCqKHjbBrPjUX4RPRq3"
-],
-[
-"2026-10-07T17:15|Father John Misty|The Payoff (Radio Edit)",
-"spotify:track:2WIcSjSoGt78KKBnzViTdC"
-],
-[
-"2026-10-07T17:09|Courtney Barnett|Wonder",
-"spotify:track:5QraYxwAgy8LloNZeIiuQ5"
-],
-[
-"2026-10-07T17:06|Sassy 009 feat. Blood Orange|Tell Me (Jam City Remix) (Edit)",
-"spotify:track:1FKkOiN5akroSoNPJ07FFL"
 ]
 ],
 "entries": [
+{
+"id": "2026-10-14T17:05|John Grant|Down Here",
+"t": "2026-10-14T17:05:00+02:00",
+"artist": "John Grant",
+"title": "Down Here"
+},
 {
 "id": "2026-10-14T16:56|CATT|Wild Heart",
 "t": "2026-10-14T16:56:00+02:00",
@@ -7927,24 +7921,6 @@
 "t": "2026-10-07T17:23:00+02:00",
 "artist": "Fleetwood Mac",
 "title": "Peacekeeper"
-},
-{
-"id": "2026-10-07T17:15|Father John Misty|The Payoff (Radio Edit)",
-"t": "2026-10-07T17:15:00+02:00",
-"artist": "Father John Misty",
-"title": "The Payoff (Radio Edit)"
-},
-{
-"id": "2026-10-07T17:09|Courtney Barnett|Wonder",
-"t": "2026-10-07T17:09:00+02:00",
-"artist": "Courtney Barnett",
-"title": "Wonder"
-},
-{
-"id": "2026-10-07T17:06|Sassy 009 feat. Blood Orange|Tell Me (Jam City Remix) (Edit)",
-"t": "2026-10-07T17:06:00+02:00",
-"artist": "Sassy 009 feat. Blood Orange",
-"title": "Tell Me (Jam City Remix) (Edit)"
 }
 ],
 "cache": {
