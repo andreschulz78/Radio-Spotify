@@ -1,8 +1,8 @@
 {
-"updated": "2026-10-14T14:20:15.899903+02:00",
+"updated": "2026-10-14T14:31:15.900989+02:00",
 "matcher": 2,
 "blocked_until": "2026-10-15T12:31:19.967087+02:00",
-"snapshot": "AAAAYyAJx6K7ontUisLeCe1zr7Y2tTy7",
+"snapshot": "AAAAa3DXjp+WIZrci31TNACircj20Ro/",
 "playlist": [
 [
 "2026-10-14T14:10|Jungle|Someday, Somewhere",
@@ -2951,13 +2951,15 @@
 [
 "2026-10-07T15:05|Pamela.|Better than Before",
 "spotify:track:30ewsn0jSF9Jme7Altrz9X"
-],
-[
-"2026-10-07T14:21|Jungle|The Wave",
-"spotify:track:6Ln44Up5lBxNgCsaLoXY6W"
 ]
 ],
 "entries": [
+{
+"id": "2026-10-14T14:20|Apparat|Little Feet (Radio Edit)",
+"t": "2026-10-14T14:20:00+02:00",
+"artist": "Apparat",
+"title": "Little Feet (Radio Edit)"
+},
 {
 "id": "2026-10-14T14:16|Bob Marley & The Wailers|Could You Be Loved",
 "t": "2026-10-14T14:16:00+02:00",
@@ -7925,24 +7927,6 @@
 "t": "2026-10-07T14:35:00+02:00",
 "artist": "The O'Jays",
 "title": "Backstabbers"
-},
-{
-"id": "2026-10-07T14:31|The War On Drugs|Who's That",
-"t": "2026-10-07T14:31:00+02:00",
-"artist": "The War On Drugs",
-"title": "Who's That"
-},
-{
-"id": "2026-10-07T14:24|Hell feat. Bryan Ferry|U Can Dance",
-"t": "2026-10-07T14:24:00+02:00",
-"artist": "Hell feat. Bryan Ferry",
-"title": "U Can Dance"
-},
-{
-"id": "2026-10-07T14:21|Jungle|The Wave",
-"t": "2026-10-07T14:21:00+02:00",
-"artist": "Jungle",
-"title": "The Wave"
 }
 ],
 "cache": {
