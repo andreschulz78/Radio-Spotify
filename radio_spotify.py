@@ -103,7 +103,9 @@ def scrape(now, latest):
 # ---------- Spotify ----------
 
 class RateLimited(RuntimeError):
-    pass
+    def __init__(self, msg, wait):
+        super().__init__(msg)
+        self.wait = wait
 
 
 class Spotify:
@@ -137,7 +139,7 @@ class Spotify:
                 if e.code == 429:
                     wait = int(e.headers.get("Retry-After", "5")) + 1
                     if wait > 60:
-                        raise RateLimited(f"{method} {path}: Spotify verlangt {wait} s Pause") from e
+                        raise RateLimited(f"{method} {path}: Spotify verlangt {wait} s Pause", wait) from e
                     time.sleep(wait)
                 elif e.code == 401 and attempt == 0:
                     self.refresh()
@@ -276,7 +278,8 @@ def run_once(sp=None, dry=False):
             print(f"  {e['t'][:16]}  {e['artist']} – {e['title']}")
         return
 
-    lookups, limited = 0, False
+    blocked = state.get("blocked_until")
+    lookups, limited = 0, bool(blocked and now < datetime.fromisoformat(blocked))
     for e in sorted(entries.values(), key=lambda e: e["t"], reverse=True):
         key = norm(e["artist"]) + "|" + norm(e["title"])
         c = cache.get(key)
@@ -286,7 +289,7 @@ def run_once(sp=None, dry=False):
                 cache[key] = c = {"u": find_uri(sp, e["artist"], e["title"]), "d": now.isoformat()}
             except RateLimited as err:
                 print(f"  Suche abgebrochen: {err}")
-                limited = True
+                limited, blocked = True, (now + timedelta(seconds=err.wait)).isoformat()
                 continue
             lookups += 1
             if c["u"] is None:
@@ -304,7 +307,7 @@ def run_once(sp=None, dry=False):
         snapshot = sync_playlist(sp, os.environ["SPOTIFY_PLAYLIST_ID"], state.get("playlist"), desired, snapshot)
 
     STATE_FILE.write_text(json.dumps({
-        "updated": now.isoformat(), "matcher": MATCHER, "snapshot": snapshot, "playlist": desired,
+        "updated": now.isoformat(), "matcher": MATCHER, "blocked_until": blocked, "snapshot": snapshot, "playlist": desired,
         "entries": [{k: e[k] for k in ("id", "t", "artist", "title")} for e in ordered],
         "cache": cache}, ensure_ascii=False, indent=0))
 
