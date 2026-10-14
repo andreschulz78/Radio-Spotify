@@ -326,7 +326,7 @@ def commit_state():
 def loop(minutes, every=60, commit_every=600):
     """Dauerlauf: jede Minute synchronisieren, Stand alle 10 Min. sichern."""
     sp = Spotify()
-    end, last_commit = time.monotonic() + minutes * 60, time.monotonic()
+    end, last_commit = time.monotonic() + minutes * 60, time.monotonic() - commit_every   # erster Stand sofort
     while time.monotonic() < end:
         t0, pause = time.monotonic(), every
         try:
