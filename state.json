@@ -1,9 +1,13 @@
 {
-"updated": "2026-10-14T16:10:15.910323+02:00",
+"updated": "2026-10-14T16:21:15.911442+02:00",
 "matcher": 2,
 "blocked_until": "2026-10-15T12:31:19.967087+02:00",
-"snapshot": "AAAAs7f/d2FeI9fLor0Esjf47A2/mCkK",
+"snapshot": "AAAAu38nxkmTolks/JardqF+cuLJ6JVG",
 "playlist": [
+[
+"2026-10-14T16:17|Yard Act|You're Gonna Need A Little Music",
+"spotify:track:43KS2LpjMVkvJdprLaoQxQ"
+],
 [
 "2026-10-14T15:45|Sofie Royer|Cowboy Mouth",
 "spotify:track:7qgYR8fHsHyyS5WKvA9srS"
@@ -2950,6 +2954,12 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-10-14T16:17|Yard Act|You're Gonna Need A Little Music",
+"t": "2026-10-14T16:17:00+02:00",
+"artist": "Yard Act",
+"title": "You're Gonna Need A Little Music"
+},
 {
 "id": "2026-10-14T16:07|Inxs|New Sensation",
 "t": "2026-10-14T16:07:00+02:00",
@@ -7935,12 +7945,6 @@
 "t": "2026-10-07T16:23:00+02:00",
 "artist": "Sohn",
 "title": "Artifice"
-},
-{
-"id": "2026-10-07T16:19|Propellerheads feat. Shirley Bassey|History Repeating",
-"t": "2026-10-07T16:19:00+02:00",
-"artist": "Propellerheads feat. Shirley Bassey",
-"title": "History Repeating"
 }
 ],
 "cache": {
