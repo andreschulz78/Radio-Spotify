@@ -1,9 +1,13 @@
 {
-"updated": "2026-10-14T13:38:15.896101+02:00",
+"updated": "2026-10-14T13:48:15.896945+02:00",
 "matcher": 2,
 "blocked_until": "2026-10-15T12:31:19.967087+02:00",
-"snapshot": "AAAAKxDS3kdL4trwQ+gqZaHq3M/YHoUz",
+"snapshot": "AAAAQ1T9aBO2GfupvtNXM5lRYkuJmzzK",
 "playlist": [
+[
+"2026-10-14T13:33|MorMor feat. Celeste|Like Heaven",
+"spotify:track:5pZGuhprytXKB7QRMul3jq"
+],
 [
 "2026-10-14T13:05|Keshavara|Oracular",
 "spotify:track:41sGSIiPi1QAYaL6nUWSDg"
@@ -2951,17 +2955,21 @@
 [
 "2026-10-07T14:07|Keshavara|Oracular",
 "spotify:track:41sGSIiPi1QAYaL6nUWSDg"
-],
-[
-"2026-10-07T13:48|Mother Soki|Thicken",
-"spotify:track:1uQYHgPrjPBYG1d0D4RoTD"
-],
-[
-"2026-10-07T13:39|Neal Francis|Hide",
-"spotify:track:197QlBcwTnJNU8DAf3BNLo"
 ]
 ],
 "entries": [
+{
+"id": "2026-10-14T13:37|The War On Drugs|Who's That",
+"t": "2026-10-14T13:37:00+02:00",
+"artist": "The War On Drugs",
+"title": "Who's That"
+},
+{
+"id": "2026-10-14T13:33|MorMor feat. Celeste|Like Heaven",
+"t": "2026-10-14T13:33:00+02:00",
+"artist": "MorMor feat. Celeste",
+"title": "Like Heaven"
+},
 {
 "id": "2026-10-14T13:29|Maya Jane Coles feat. Kim Ann Foxman|Burning Bright",
 "t": "2026-10-14T13:29:00+02:00",
@@ -7923,24 +7931,6 @@
 "t": "2026-10-07T13:55:00+02:00",
 "artist": "Jürgen Paape feat. Hella",
 "title": "Grace (A Tale)"
-},
-{
-"id": "2026-10-07T13:48|Mother Soki|Thicken",
-"t": "2026-10-07T13:48:00+02:00",
-"artist": "Mother Soki",
-"title": "Thicken"
-},
-{
-"id": "2026-10-07T13:43|Langoth feat. Melinda Stoika|Watch What You Say",
-"t": "2026-10-07T13:43:00+02:00",
-"artist": "Langoth feat. Melinda Stoika",
-"title": "Watch What You Say"
-},
-{
-"id": "2026-10-07T13:39|Neal Francis|Hide",
-"t": "2026-10-07T13:39:00+02:00",
-"artist": "Neal Francis",
-"title": "Hide"
 }
 ],
 "cache": {
