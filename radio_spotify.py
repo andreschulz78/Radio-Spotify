@@ -28,7 +28,7 @@ from zoneinfo import ZoneInfo
 TZ = ZoneInfo("Europe/Berlin")
 BASE = "https://example.invalid"
 WINDOW = timedelta(days=7)
-MAX_LOOKUPS = 300          # Spotify-Suchen pro Lauf (Rest folgt im nächsten Lauf)
+MAX_LOOKUPS = 15           # Spotify-Suchen pro Durchlauf (Dev-Mode-Limit: zu viele -> 24 h Sperre)
 RETRY_NOT_FOUND = timedelta(days=3)
 MATCHER = 2               # erhöhen, wenn find_uri verbessert wird -> Nicht-Gefundene neu suchen
 STATE_FILE = Path(__file__).with_name("state.json")
@@ -201,7 +201,7 @@ def find_uri(sp, artist, title):
         queries.append(f"{swapped[2]} {swapped[1]} {t_base}")
     best, best_score = None, 0.0
     for q in dict.fromkeys(queries):
-        time.sleep(0.3)   # Spotify-Ratenlimit schonen
+        time.sleep(1)   # Spotify-Ratenlimit schonen
         res = sp.call("GET", "/search", {"q": q, "type": "track", "limit": 10, "market": "DE"})
         for tr in res.get("tracks", {}).get("items", []):
             if not any(artist_ok(norm(x["name"])) for x in tr.get("artists", [])):
