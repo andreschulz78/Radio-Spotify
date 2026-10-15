@@ -1,11 +1,15 @@
 {
-"updated": "2026-10-15T13:12:52.078945+02:00",
+"updated": "2026-10-15T13:23:52.080243+02:00",
 "matcher": 3,
 "blocked_until": null,
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAACN4TTNfNIUVX/Zwq6wHG5NhlUgcB+",
+"snapshot": "AAACOL7O6QkPB5uBcXTESIJ7wCay3+Q1",
 "playlist": [
+[
+"2026-10-15T13:12|Lena Stoehrfaktor|One in a Million (feat. Shanel)",
+"spotify:track:3dl1PWc0on5OmxlprzmWz3"
+],
 [
 "2026-10-15T13:03|Santigold|My Horror",
 "spotify:track:7qaFdrjVYpKH9lFPaWBBix"
@@ -28,6 +32,12 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-10-15T13:12|Lena Stoehrfaktor|One in a Million (feat. Shanel)",
+"t": "2026-10-15T13:12:00+02:00",
+"artist": "Lena Stoehrfaktor",
+"title": "One in a Million (feat. Shanel)"
+},
 {
 "id": "2026-10-15T13:03|Santigold|My Horror",
 "t": "2026-10-15T13:03:00+02:00",
@@ -79,6 +89,10 @@
 "santigold|my horror": {
 "u": "spotify:track:7qaFdrjVYpKH9lFPaWBBix",
 "d": "2026-10-15T13:05:52.078074+02:00"
+},
+"lena stoehrfaktor|one in a million feat shanel": {
+"u": "spotify:track:3dl1PWc0on5OmxlprzmWz3",
+"d": "2026-10-15T13:17:52.079562+02:00"
 }
 }
 }
