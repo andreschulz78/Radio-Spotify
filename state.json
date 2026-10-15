@@ -1,11 +1,15 @@
 {
-"updated": "2026-10-15T05:22:33.942872+02:00",
+"updated": "2026-10-15T05:33:33.943793+02:00",
 "matcher": 3,
 "blocked_until": "2026-10-15T12:31:19.967087+02:00",
 "fresh": null,
 "start": null,
-"snapshot": "AAABc2vKRwLJ+842/5Fv42xuNBoR7Ywx",
+"snapshot": "AAABk/25VHVF1bUjJmMKHsw96Vh3W3Hd",
 "playlist": [
+[
+"2026-10-15T05:17|The Avalanches feat. Karen O|Blue Shadows",
+"spotify:track:5bN5To0VLbNBKQDzJ1Lk6c"
+],
 [
 "2026-10-15T05:07|Freedom Fry|She Fell In Love On The Dance Floor",
 "spotify:track:22uuH9uHRSdS2y2zvS5uEt"
@@ -2921,21 +2925,27 @@
 [
 "2026-10-08T05:41|Juliette Gréco|Déshabillez-moi",
 "spotify:track:0nnt8ILIhBlaxGJBZJzfWQ"
-],
-[
-"2026-10-08T05:33|Vampire Weekend|Giving Up The Gun",
-"spotify:track:3NXjRgj22vkWCp5yzjU4af"
-],
-[
-"2026-10-08T05:27|Travis|The Beautiful Occupation",
-"spotify:track:79WYMrXMqGan77U6ndBnt1"
-],
-[
-"2026-10-08T05:24|The Allergies|Felony",
-"spotify:track:1o9mPAHKGHB2xYnEIE4jtb"
 ]
 ],
 "entries": [
+{
+"id": "2026-10-15T05:25|Calypso Rose|Calypso Blues",
+"t": "2026-10-15T05:25:00+02:00",
+"artist": "Calypso Rose",
+"title": "Calypso Blues"
+},
+{
+"id": "2026-10-15T05:22|The Meters|Hand Clapping Song",
+"t": "2026-10-15T05:22:00+02:00",
+"artist": "The Meters",
+"title": "Hand Clapping Song"
+},
+{
+"id": "2026-10-15T05:17|The Avalanches feat. Karen O|Blue Shadows",
+"t": "2026-10-15T05:17:00+02:00",
+"artist": "The Avalanches feat. Karen O",
+"title": "Blue Shadows"
+},
 {
 "id": "2026-10-15T05:10|Smash Mouth|Walkin' On The Sun",
 "t": "2026-10-15T05:10:00+02:00",
@@ -7807,24 +7817,6 @@
 "t": "2026-10-08T05:41:00+02:00",
 "artist": "Juliette Gréco",
 "title": "Déshabillez-moi"
-},
-{
-"id": "2026-10-08T05:33|Vampire Weekend|Giving Up The Gun",
-"t": "2026-10-08T05:33:00+02:00",
-"artist": "Vampire Weekend",
-"title": "Giving Up The Gun"
-},
-{
-"id": "2026-10-08T05:27|Travis|The Beautiful Occupation",
-"t": "2026-10-08T05:27:00+02:00",
-"artist": "Travis",
-"title": "The Beautiful Occupation"
-},
-{
-"id": "2026-10-08T05:24|The Allergies|Felony",
-"t": "2026-10-08T05:24:00+02:00",
-"artist": "The Allergies",
-"title": "Felony"
 }
 ],
 "cache": {
@@ -10098,18 +10090,6 @@
 },
 "juliette greco|deshabillez moi": {
 "u": "spotify:track:0nnt8ILIhBlaxGJBZJzfWQ",
-"d": "2026-10-14T12:30:35.233280+02:00"
-},
-"vampire weekend|giving up the gun": {
-"u": "spotify:track:3NXjRgj22vkWCp5yzjU4af",
-"d": "2026-10-14T12:30:35.233280+02:00"
-},
-"travis|the beautiful occupation": {
-"u": "spotify:track:79WYMrXMqGan77U6ndBnt1",
-"d": "2026-10-14T12:30:35.233280+02:00"
-},
-"the allergies|felony": {
-"u": "spotify:track:1o9mPAHKGHB2xYnEIE4jtb",
 "d": "2026-10-14T12:30:35.233280+02:00"
 },
 "ethan french|reckless and arranged day 56 extended": {
