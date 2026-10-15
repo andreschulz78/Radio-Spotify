@@ -1,11 +1,19 @@
 {
-"updated": "2026-10-15T12:50:52.076201+02:00",
+"updated": "2026-10-15T13:01:52.077588+02:00",
 "matcher": 3,
 "blocked_until": null,
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAACNPFD8Dw42mbJJrQ6JNx3CUGFrK7Z",
+"snapshot": "AAACNs/LWNuRKd6YZbyQaZI3hnJ6vh22",
 "playlist": [
+[
+"2026-10-15T12:50|Thin Lizzy|Whiskey In The Jar",
+"spotify:track:6YH9hWz9ypmvbHl1LpCMFz"
+],
+[
+"2026-10-15T12:47|Grace Cummings|I'm Not Crazy",
+"spotify:track:70QaE9UJ2uTVwC4IGS6yvU"
+],
 [
 "2026-10-15T12:42|Temples|The Golden Throne",
 "spotify:track:5KXtkjPFiKhgUw07zTEYeV"
@@ -16,6 +24,18 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-10-15T12:50|Thin Lizzy|Whiskey In The Jar",
+"t": "2026-10-15T12:50:00+02:00",
+"artist": "Thin Lizzy",
+"title": "Whiskey In The Jar"
+},
+{
+"id": "2026-10-15T12:47|Grace Cummings|I'm Not Crazy",
+"t": "2026-10-15T12:47:00+02:00",
+"artist": "Grace Cummings",
+"title": "I'm Not Crazy"
+},
 {
 "id": "2026-10-15T12:42|Temples|The Golden Throne",
 "t": "2026-10-15T12:42:00+02:00",
@@ -37,6 +57,14 @@
 "avalon emerson|hot evening": {
 "u": "spotify:track:1A0Cw6bYJirHpsxqbcun5d",
 "d": "2026-10-15T12:46:52.075673+02:00"
+},
+"grace cummings|i m not crazy": {
+"u": "spotify:track:70QaE9UJ2uTVwC4IGS6yvU",
+"d": "2026-10-15T12:51:52.076322+02:00"
+},
+"thin lizzy|whiskey in the jar": {
+"u": "spotify:track:6YH9hWz9ypmvbHl1LpCMFz",
+"d": "2026-10-15T12:56:52.076973+02:00"
 }
 }
 }
