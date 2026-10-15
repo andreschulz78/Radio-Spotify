@@ -1,11 +1,19 @@
 {
-"updated": "2026-10-15T16:04:52.100637+02:00",
+"updated": "2026-10-15T16:15:52.102087+02:00",
 "matcher": 3,
 "blocked_until": null,
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAACT8xN6cojF4hOsfUgwIZD7+3cX3hZ",
+"snapshot": "AAACUcACKv9s2edePAh138fUbrMR2lPR",
 "playlist": [
+[
+"2026-10-15T16:05|Gena feat. Liv.e, Karriem Riggins|Circlesz",
+"spotify:track:0TWqzeAGWe1utMzN7MIJPb"
+],
+[
+"2026-10-15T15:58|Erika De Casier|Delusional",
+"spotify:track:6M5Y8sn5cXePK58bH1WKon"
+],
 [
 "2026-10-15T15:50|Meshell Ndegeocello feat. Cat Power|Don’t You Want Me",
 "spotify:track:5sbCqST9M4Q1sRSJM6L6oT"
@@ -144,6 +152,18 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-10-15T16:05|Gena feat. Liv.e, Karriem Riggins|Circlesz",
+"t": "2026-10-15T16:05:00+02:00",
+"artist": "Gena feat. Liv.e, Karriem Riggins",
+"title": "Circlesz"
+},
+{
+"id": "2026-10-15T15:58|Erika De Casier|Delusional",
+"t": "2026-10-15T15:58:00+02:00",
+"artist": "Erika De Casier",
+"title": "Delusional"
+},
 {
 "id": "2026-10-15T15:50|Meshell Ndegeocello feat. Cat Power|Don’t You Want Me",
 "t": "2026-10-15T15:50:00+02:00",
@@ -485,6 +505,14 @@
 "meshell ndegeocello feat cat power|don t you want me": {
 "u": "spotify:track:5sbCqST9M4Q1sRSJM6L6oT",
 "d": "2026-10-15T15:56:52.099614+02:00"
+},
+"erika de casier|delusional": {
+"u": "spotify:track:6M5Y8sn5cXePK58bH1WKon",
+"d": "2026-10-15T16:07:52.101050+02:00"
+},
+"gena feat liv e karriem riggins|circlesz": {
+"u": "spotify:track:0TWqzeAGWe1utMzN7MIJPb",
+"d": "2026-10-15T16:11:52.101536+02:00"
 }
 }
 }
