@@ -1,11 +1,23 @@
 {
-"updated": "2026-10-15T14:48:52.090868+02:00",
+"updated": "2026-10-15T14:59:52.092262+02:00",
 "matcher": 3,
 "blocked_until": null,
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAACRmWuSNqAnf0+FxrH4tuyfOCIQ4lv",
+"snapshot": "AAACSJ8JEo28ML6B7Ipfay+2rji6agjT",
 "playlist": [
+[
+"2026-10-15T14:50|Kevin Morby|PBJ (Edit)",
+"spotify:track:5rjtzSA5VBWg7zmuOGg5Dz"
+],
+[
+"2026-10-15T14:47|Jordan Rakei|Enemies",
+"spotify:track:0X9GwAax0c0HPe3iIoDVW6"
+],
+[
+"2026-10-15T14:44|Bilderbuch|Push Reality",
+"spotify:track:7hYJY9aMcjSUtjdWmIe9PE"
+],
 [
 "2026-10-15T14:38|Gorillaz feat. Mos Def & Bobby Womack|Stylo",
 "spotify:track:6LUfuyLgvgqrykiTE6sJHY"
@@ -100,6 +112,24 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-10-15T14:50|Kevin Morby|PBJ (Edit)",
+"t": "2026-10-15T14:50:00+02:00",
+"artist": "Kevin Morby",
+"title": "PBJ (Edit)"
+},
+{
+"id": "2026-10-15T14:47|Jordan Rakei|Enemies",
+"t": "2026-10-15T14:47:00+02:00",
+"artist": "Jordan Rakei",
+"title": "Enemies"
+},
+{
+"id": "2026-10-15T14:44|Bilderbuch|Push Reality",
+"t": "2026-10-15T14:44:00+02:00",
+"artist": "Bilderbuch",
+"title": "Push Reality"
+},
 {
 "id": "2026-10-15T14:38|Gorillaz feat. Mos Def & Bobby Womack|Stylo",
 "t": "2026-10-15T14:38:00+02:00",
@@ -331,6 +361,18 @@
 "gorillaz feat mos def bobby womack|stylo": {
 "u": "spotify:track:6LUfuyLgvgqrykiTE6sJHY",
 "d": "2026-10-15T14:46:52.090598+02:00"
+},
+"bilderbuch|push reality": {
+"u": "spotify:track:7hYJY9aMcjSUtjdWmIe9PE",
+"d": "2026-10-15T14:51:52.091237+02:00"
+},
+"kevin morby|pbj edit": {
+"u": "spotify:track:5rjtzSA5VBWg7zmuOGg5Dz",
+"d": "2026-10-15T14:56:52.091854+02:00"
+},
+"jordan rakei|enemies": {
+"u": "spotify:track:0X9GwAax0c0HPe3iIoDVW6",
+"d": "2026-10-15T14:56:52.091854+02:00"
 }
 }
 }
