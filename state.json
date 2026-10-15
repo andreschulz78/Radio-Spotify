@@ -1,10 +1,10 @@
 {
-"updated": "2026-10-15T23:06:09.857924+02:00",
+"updated": "2026-10-15T23:17:09.859157+02:00",
 "matcher": 3,
 "blocked_until": null,
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAACXq0DbZK7sXReHySzLcl0U/9l4/6D",
+"snapshot": "AAACZRX50E3R3cYy9YyzSaSjWx0/HBTC",
 "playlist": [
 [
 "2026-10-15T20:43|Jamiroquai|Virtual Insanity",
@@ -17,6 +17,94 @@
 [
 "2026-10-15T20:26|Yard Act|You're Gonna Need A Little Music",
 "spotify:track:43KS2LpjMVkvJdprLaoQxQ"
+],
+[
+"2026-10-15T20:15|Yazoo|Nobody's Diary",
+"spotify:track:7azd8VmLYMJ5XhnmT8hpWj"
+],
+[
+"2026-10-15T20:05|Data MC|Fever",
+"spotify:track:1VjC547pW6rannBcgsug6I"
+],
+[
+"2026-10-15T19:55|The Beauty Of Gemina|Ghosts",
+"spotify:track:1JjLoElCdNXA9HbJrgGDH6"
+],
+[
+"2026-10-15T19:51|LA Priest|Rayon",
+"spotify:track:2weT26RNcHVHWcLiIpsk4l"
+],
+[
+"2026-10-15T19:40|Spiritualized|Do It All Over Again",
+"spotify:track:0ZNe4ar47OP0ztxhSOkMqX"
+],
+[
+"2026-10-15T19:29|Genesis Owusu|Human Again",
+"spotify:track:3uP7jqdt4haiuL4acLhrDY"
+],
+[
+"2026-10-15T19:07|Madonna|Danceteria",
+"spotify:track:6oFNBxTVpYNpNCRehH05Ly"
+],
+[
+"2026-10-15T18:56|Florence + The Machine|What The Water Gave Me",
+"spotify:track:10H6mvk1cPPTzs3IHsHSHi"
+],
+[
+"2026-10-15T18:41|Aurora|All My Demons Greeting Me As A Friend",
+"spotify:track:5O1tikYb6HKrP5cxSQv0iV"
+],
+[
+"2026-10-15T18:35|Skinshape|Amnesia",
+"spotify:track:5dPUsGMQNCOreRx8jYrOpn"
+],
+[
+"2026-10-15T18:32|Hannah Jadagu|My Love",
+"spotify:track:7lsaIknmHdm6MGA8AhJZcR"
+],
+[
+"2026-10-15T18:23|Talking Heads|Take Me To The River",
+"spotify:track:1DgMJfHxwxypi3CpC8veV3"
+],
+[
+"2026-10-15T18:20|Paul Kalkbrenner|Sky And Sand",
+"spotify:track:3ZSqMer9RLSglvi18bWXYV"
+],
+[
+"2026-10-15T18:17|Alexander IV & IYAMAH|About Us",
+"spotify:track:0c3tXpFKZilDSR3yAphPZt"
+],
+[
+"2026-10-15T18:08|Antony Szmierek|Chalk (Radio Edit)",
+"spotify:track:1mAaDhWHxhdj0BMI2uipeA"
+],
+[
+"2026-10-15T18:05|Muse|Plug In Baby",
+"spotify:track:3w1KoEKYKrbG0sfx7MbIeh"
+],
+[
+"2026-10-15T17:56|Amanda Blank|A Love Song",
+"spotify:track:2Dwz1vCTk9OC91Z8j0yLQv"
+],
+[
+"2026-10-15T17:49|Sheila E. & Prince|A Love Bizarre",
+"spotify:track:5R6ol4f8WCUCWNrB7Ymf99"
+],
+[
+"2026-10-15T17:46|Kronstad 23|Høytrykk",
+"spotify:track:5s2ici8F3BjqrBhjVhwWGU"
+],
+[
+"2026-10-15T17:38|Future Islands|Ran",
+"spotify:track:7BTaDw9yXTknLItNtuZFgF"
+],
+[
+"2026-10-15T17:34|Getdown Services|The Radiator (Edit)",
+"spotify:track:3g6Astr82PPXwupemm4FRR"
+],
+[
+"2026-10-15T17:24|Jamie T.|Power Over Men",
+"spotify:track:4YYbZODiJA7j53777zUjFj"
 ],
 [
 "2026-10-15T17:14|49th & Main|Insomnia",
@@ -855,6 +943,94 @@
 "yard act|you re gonna need a little music": {
 "u": "spotify:track:43KS2LpjMVkvJdprLaoQxQ",
 "d": "2026-10-15T23:06:09.857924+02:00"
+},
+"yazoo|nobody s diary": {
+"u": "spotify:track:7azd8VmLYMJ5XhnmT8hpWj",
+"d": "2026-10-15T23:07:09.858036+02:00"
+},
+"data mc|fever": {
+"u": "spotify:track:1VjC547pW6rannBcgsug6I",
+"d": "2026-10-15T23:07:09.858036+02:00"
+},
+"the beauty of gemina|ghosts": {
+"u": "spotify:track:1JjLoElCdNXA9HbJrgGDH6",
+"d": "2026-10-15T23:07:09.858036+02:00"
+},
+"la priest|rayon": {
+"u": "spotify:track:2weT26RNcHVHWcLiIpsk4l",
+"d": "2026-10-15T23:08:09.858132+02:00"
+},
+"spiritualized|do it all over again": {
+"u": "spotify:track:0ZNe4ar47OP0ztxhSOkMqX",
+"d": "2026-10-15T23:08:09.858132+02:00"
+},
+"genesis owusu|human again": {
+"u": "spotify:track:3uP7jqdt4haiuL4acLhrDY",
+"d": "2026-10-15T23:08:09.858132+02:00"
+},
+"madonna|danceteria": {
+"u": "spotify:track:6oFNBxTVpYNpNCRehH05Ly",
+"d": "2026-10-15T23:09:09.858237+02:00"
+},
+"florence the machine|what the water gave me": {
+"u": "spotify:track:10H6mvk1cPPTzs3IHsHSHi",
+"d": "2026-10-15T23:09:09.858237+02:00"
+},
+"aurora|all my demons greeting me as a friend": {
+"u": "spotify:track:5O1tikYb6HKrP5cxSQv0iV",
+"d": "2026-10-15T23:09:09.858237+02:00"
+},
+"skinshape|amnesia": {
+"u": "spotify:track:5dPUsGMQNCOreRx8jYrOpn",
+"d": "2026-10-15T23:10:09.858346+02:00"
+},
+"hannah jadagu|my love": {
+"u": "spotify:track:7lsaIknmHdm6MGA8AhJZcR",
+"d": "2026-10-15T23:10:09.858346+02:00"
+},
+"talking heads|take me to the river": {
+"u": "spotify:track:1DgMJfHxwxypi3CpC8veV3",
+"d": "2026-10-15T23:10:09.858346+02:00"
+},
+"paul kalkbrenner|sky and sand": {
+"u": "spotify:track:3ZSqMer9RLSglvi18bWXYV",
+"d": "2026-10-15T23:11:09.858447+02:00"
+},
+"alexander iv iyamah|about us": {
+"u": "spotify:track:0c3tXpFKZilDSR3yAphPZt",
+"d": "2026-10-15T23:11:09.858447+02:00"
+},
+"antony szmierek|chalk radio edit": {
+"u": "spotify:track:1mAaDhWHxhdj0BMI2uipeA",
+"d": "2026-10-15T23:11:09.858447+02:00"
+},
+"muse|plug in baby": {
+"u": "spotify:track:3w1KoEKYKrbG0sfx7MbIeh",
+"d": "2026-10-15T23:12:09.858544+02:00"
+},
+"amanda blank|a love song": {
+"u": "spotify:track:2Dwz1vCTk9OC91Z8j0yLQv",
+"d": "2026-10-15T23:12:09.858544+02:00"
+},
+"sheila e prince|a love bizarre": {
+"u": "spotify:track:5R6ol4f8WCUCWNrB7Ymf99",
+"d": "2026-10-15T23:12:09.858544+02:00"
+},
+"kronstad 23|h ytrykk": {
+"u": "spotify:track:5s2ici8F3BjqrBhjVhwWGU",
+"d": "2026-10-15T23:13:09.858696+02:00"
+},
+"future islands|ran": {
+"u": "spotify:track:7BTaDw9yXTknLItNtuZFgF",
+"d": "2026-10-15T23:13:09.858696+02:00"
+},
+"getdown services|the radiator edit": {
+"u": "spotify:track:3g6Astr82PPXwupemm4FRR",
+"d": "2026-10-15T23:13:09.858696+02:00"
+},
+"jamie t|power over men": {
+"u": "spotify:track:4YYbZODiJA7j53777zUjFj",
+"d": "2026-10-15T23:14:09.858769+02:00"
 }
 }
 }
