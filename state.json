@@ -1,11 +1,19 @@
 {
-"updated": "2026-10-15T13:34:52.081618+02:00",
+"updated": "2026-10-15T13:45:52.082992+02:00",
 "matcher": 3,
 "blocked_until": null,
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAACOg6fRlSXVri3C5JNgzC9KGBJEwW6",
+"snapshot": "AAACPB1x3Hyd7m/TyW0E3PTBrn+yZ/at",
 "playlist": [
+[
+"2026-10-15T13:33|Django Django|Cameos",
+"spotify:track:6q1og9CkTnFTTYqOSN9ed3"
+],
+[
+"2026-10-15T13:30|Poliça|Chain My Name",
+"spotify:track:0tOlVRiBH0bYs4mAqal8FM"
+],
 [
 "2026-10-15T13:25|Devendra Banhart|Heard Somebody Say",
 "spotify:track:1Wy4vSxjoy97jmXPLv3wHC"
@@ -40,6 +48,18 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-10-15T13:33|Django Django|Cameos",
+"t": "2026-10-15T13:33:00+02:00",
+"artist": "Django Django",
+"title": "Cameos"
+},
+{
+"id": "2026-10-15T13:30|Poliça|Chain My Name",
+"t": "2026-10-15T13:30:00+02:00",
+"artist": "Poliça",
+"title": "Chain My Name"
+},
 {
 "id": "2026-10-15T13:25|Devendra Banhart|Heard Somebody Say",
 "t": "2026-10-15T13:25:00+02:00",
@@ -121,6 +141,14 @@
 "devendra banhart|heard somebody say": {
 "u": "spotify:track:1Wy4vSxjoy97jmXPLv3wHC",
 "d": "2026-10-15T13:31:52.081249+02:00"
+},
+"polica|chain my name": {
+"u": "spotify:track:0tOlVRiBH0bYs4mAqal8FM",
+"d": "2026-10-15T13:36:52.081876+02:00"
+},
+"django django|cameos": {
+"u": "spotify:track:6q1og9CkTnFTTYqOSN9ed3",
+"d": "2026-10-15T13:41:52.082483+02:00"
 }
 }
 }
