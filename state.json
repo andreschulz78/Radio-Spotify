@@ -1,11 +1,15 @@
 {
-"updated": "2026-10-15T17:19:52.110289+02:00",
+"updated": "2026-10-15T17:24:52.110944+02:00",
 "matcher": 3,
 "blocked_until": null,
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAACW9y8dJH+LPob8n1vZ3XzXI34NOsd",
+"snapshot": "AAACXPBaJ04Jw4dvLybaDWTt7G1TH/IG",
 "playlist": [
+[
+"2026-10-15T17:14|49th & Main|Insomnia",
+"spotify:track:6JGrKJtW3CxLscWj7OJMYt"
+],
 [
 "2026-10-15T17:10|Fuffifufzich|New Era",
 "spotify:track:0sF1TJMDGYxKvu9pp1JQkQ"
@@ -196,6 +200,12 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-10-15T17:14|49th & Main|Insomnia",
+"t": "2026-10-15T17:14:00+02:00",
+"artist": "49th & Main",
+"title": "Insomnia"
+},
 {
 "id": "2026-10-15T17:10|Fuffifufzich|New Era",
 "t": "2026-10-15T17:10:00+02:00",
@@ -667,6 +677,10 @@
 "fuffifufzich|new era": {
 "u": "spotify:track:0sF1TJMDGYxKvu9pp1JQkQ",
 "d": "2026-10-15T17:15:52.109754+02:00"
+},
+"49th main|insomnia": {
+"u": "spotify:track:6JGrKJtW3CxLscWj7OJMYt",
+"d": "2026-10-15T17:21:52.110548+02:00"
 }
 }
 }
