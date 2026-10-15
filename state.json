@@ -1,11 +1,19 @@
 {
-"updated": "2026-10-15T14:37:52.089469+02:00",
+"updated": "2026-10-15T14:48:52.090868+02:00",
 "matcher": 3,
 "blocked_until": null,
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAACRBLTUlrcYpxltC6Wk1Zlc4M3OFNE",
+"snapshot": "AAACRmWuSNqAnf0+FxrH4tuyfOCIQ4lv",
 "playlist": [
+[
+"2026-10-15T14:38|Gorillaz feat. Mos Def & Bobby Womack|Stylo",
+"spotify:track:6LUfuyLgvgqrykiTE6sJHY"
+],
+[
+"2026-10-15T14:34|Oscar Farrell feat. Sampha|Dream Therapy",
+"spotify:track:1WCiaKkadXRQjK5LapkGtu"
+],
 [
 "2026-10-15T14:30|Metric|All Comes Crashing (Radio Edit)",
 "spotify:track:4XRvI0XtqdOGYeC36VkbwA"
@@ -92,6 +100,18 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-10-15T14:38|Gorillaz feat. Mos Def & Bobby Womack|Stylo",
+"t": "2026-10-15T14:38:00+02:00",
+"artist": "Gorillaz feat. Mos Def & Bobby Womack",
+"title": "Stylo"
+},
+{
+"id": "2026-10-15T14:34|Oscar Farrell feat. Sampha|Dream Therapy",
+"t": "2026-10-15T14:34:00+02:00",
+"artist": "Oscar Farrell feat. Sampha",
+"title": "Dream Therapy"
+},
 {
 "id": "2026-10-15T14:30|Metric|All Comes Crashing (Radio Edit)",
 "t": "2026-10-15T14:30:00+02:00",
@@ -303,6 +323,14 @@
 "kaktus einarsson feat john grant|follow": {
 "u": "spotify:track:0bbPqdrMN94XmIlBQS21B3",
 "d": "2026-10-15T14:37:52.089469+02:00"
+},
+"oscar farrell feat sampha|dream therapy": {
+"u": "spotify:track:1WCiaKkadXRQjK5LapkGtu",
+"d": "2026-10-15T14:41:52.090002+02:00"
+},
+"gorillaz feat mos def bobby womack|stylo": {
+"u": "spotify:track:6LUfuyLgvgqrykiTE6sJHY",
+"d": "2026-10-15T14:46:52.090598+02:00"
 }
 }
 }
