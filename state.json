@@ -1,11 +1,15 @@
 {
-"updated": "2026-10-15T14:59:52.092262+02:00",
+"updated": "2026-10-15T15:10:52.093683+02:00",
 "matcher": 3,
 "blocked_until": null,
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAACSJ8JEo28ML6B7Ipfay+2rji6agjT",
+"snapshot": "AAACSaNR93owz5ogAshdAyv92K46+gqW",
 "playlist": [
+[
+"2026-10-15T14:56|Naim, Yael|New soul",
+"spotify:track:09nEPqqMCJ5gNioi7M2dth"
+],
 [
 "2026-10-15T14:50|Kevin Morby|PBJ (Edit)",
 "spotify:track:5rjtzSA5VBWg7zmuOGg5Dz"
@@ -112,6 +116,12 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-10-15T14:56|Naim, Yael|New soul",
+"t": "2026-10-15T14:56:00+02:00",
+"artist": "Naim, Yael",
+"title": "New soul"
+},
 {
 "id": "2026-10-15T14:50|Kevin Morby|PBJ (Edit)",
 "t": "2026-10-15T14:50:00+02:00",
@@ -373,6 +383,10 @@
 "jordan rakei|enemies": {
 "u": "spotify:track:0X9GwAax0c0HPe3iIoDVW6",
 "d": "2026-10-15T14:56:52.091854+02:00"
+},
+"naim yael|new soul": {
+"u": "spotify:track:09nEPqqMCJ5gNioi7M2dth",
+"d": "2026-10-15T15:01:52.092541+02:00"
 }
 }
 }
