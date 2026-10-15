@@ -1,11 +1,27 @@
 {
-"updated": "2026-10-15T13:45:52.082992+02:00",
+"updated": "2026-10-15T13:55:52.084267+02:00",
 "matcher": 3,
 "blocked_until": null,
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAACPB1x3Hyd7m/TyW0E3PTBrn+yZ/at",
+"snapshot": "AAACP38eHSdTrbwq4MvbQXEDouji/xPe",
 "playlist": [
+[
+"2026-10-15T13:50|BICEP feat. SOARR|Air (Radio Edit)",
+"spotify:track:2infXICqVSUM3bbGSOgFOY"
+],
+[
+"2026-10-15T13:48|Joshua Idehen|Could Be Forever",
+"spotify:track:65RaK4ZQILvLlz16t7gI21"
+],
+[
+"2026-10-15T13:44|Fuffifufzich|Ich liebe dich evtl. für immer (Single Edit)",
+"spotify:track:5bLD6DbKNW70LLq1qqq8HE"
+],
+[
+"2026-10-15T13:38|Fischmob|Susanne zur Freiheit",
+"spotify:track:20QcNlK3hAXszEYL324DPw"
+],
 [
 "2026-10-15T13:33|Django Django|Cameos",
 "spotify:track:6q1og9CkTnFTTYqOSN9ed3"
@@ -48,6 +64,30 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-10-15T13:50|BICEP feat. SOARR|Air (Radio Edit)",
+"t": "2026-10-15T13:50:00+02:00",
+"artist": "BICEP feat. SOARR",
+"title": "Air (Radio Edit)"
+},
+{
+"id": "2026-10-15T13:48|Joshua Idehen|Could Be Forever",
+"t": "2026-10-15T13:48:00+02:00",
+"artist": "Joshua Idehen",
+"title": "Could Be Forever"
+},
+{
+"id": "2026-10-15T13:44|Fuffifufzich|Ich liebe dich evtl. für immer (Single Edit)",
+"t": "2026-10-15T13:44:00+02:00",
+"artist": "Fuffifufzich",
+"title": "Ich liebe dich evtl. für immer (Single Edit)"
+},
+{
+"id": "2026-10-15T13:38|Fischmob|Susanne zur Freiheit",
+"t": "2026-10-15T13:38:00+02:00",
+"artist": "Fischmob",
+"title": "Susanne zur Freiheit"
+},
 {
 "id": "2026-10-15T13:33|Django Django|Cameos",
 "t": "2026-10-15T13:33:00+02:00",
@@ -149,6 +189,22 @@
 "django django|cameos": {
 "u": "spotify:track:6q1og9CkTnFTTYqOSN9ed3",
 "d": "2026-10-15T13:41:52.082483+02:00"
+},
+"fischmob|susanne zur freiheit": {
+"u": "spotify:track:20QcNlK3hAXszEYL324DPw",
+"d": "2026-10-15T13:46:52.083129+02:00"
+},
+"fuffifufzich|ich liebe dich evtl fur immer single edit": {
+"u": "spotify:track:5bLD6DbKNW70LLq1qqq8HE",
+"d": "2026-10-15T13:52:52.083902+02:00"
+},
+"bicep feat soarr|air radio edit": {
+"u": "spotify:track:2infXICqVSUM3bbGSOgFOY",
+"d": "2026-10-15T13:55:52.084267+02:00"
+},
+"joshua idehen|could be forever": {
+"u": "spotify:track:65RaK4ZQILvLlz16t7gI21",
+"d": "2026-10-15T13:55:52.084267+02:00"
 }
 }
 }
