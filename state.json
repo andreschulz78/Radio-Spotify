@@ -1,11 +1,23 @@
 {
-"updated": "2026-10-15T16:15:52.102087+02:00",
+"updated": "2026-10-15T16:25:52.103334+02:00",
 "matcher": 3,
 "blocked_until": null,
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAACUcACKv9s2edePAh138fUbrMR2lPR",
+"snapshot": "AAACU0HVPo3Y8PBX+VYEeCtD1u2YBSdb",
 "playlist": [
+[
+"2026-10-15T16:21|Anne Clark|Sleeper In Metropolis",
+"spotify:track:0BnMXGSKIOTqroiBpXgLTV"
+],
+[
+"2026-10-15T16:17|Arcade Fire|Put Your Money On Me",
+"spotify:track:0SaEmR2rdtfsZawPjMYkWg"
+],
+[
+"2026-10-15T16:08|Sassy 009 feat. Blood Orange|Tell Me (Jam City Remix) (Edit)",
+"spotify:track:1pDiRrLro0tlhsPSexB3Zv"
+],
 [
 "2026-10-15T16:05|Gena feat. Liv.e, Karriem Riggins|Circlesz",
 "spotify:track:0TWqzeAGWe1utMzN7MIJPb"
@@ -152,6 +164,24 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-10-15T16:21|Anne Clark|Sleeper In Metropolis",
+"t": "2026-10-15T16:21:00+02:00",
+"artist": "Anne Clark",
+"title": "Sleeper In Metropolis"
+},
+{
+"id": "2026-10-15T16:17|Arcade Fire|Put Your Money On Me",
+"t": "2026-10-15T16:17:00+02:00",
+"artist": "Arcade Fire",
+"title": "Put Your Money On Me"
+},
+{
+"id": "2026-10-15T16:08|Sassy 009 feat. Blood Orange|Tell Me (Jam City Remix) (Edit)",
+"t": "2026-10-15T16:08:00+02:00",
+"artist": "Sassy 009 feat. Blood Orange",
+"title": "Tell Me (Jam City Remix) (Edit)"
+},
 {
 "id": "2026-10-15T16:05|Gena feat. Liv.e, Karriem Riggins|Circlesz",
 "t": "2026-10-15T16:05:00+02:00",
@@ -513,6 +543,18 @@
 "gena feat liv e karriem riggins|circlesz": {
 "u": "spotify:track:0TWqzeAGWe1utMzN7MIJPb",
 "d": "2026-10-15T16:11:52.101536+02:00"
+},
+"sassy 009 feat blood orange|tell me jam city remix edit": {
+"u": "spotify:track:1pDiRrLro0tlhsPSexB3Zv",
+"d": "2026-10-15T16:16:52.102223+02:00"
+},
+"anne clark|sleeper in metropolis": {
+"u": "spotify:track:0BnMXGSKIOTqroiBpXgLTV",
+"d": "2026-10-15T16:25:52.103334+02:00"
+},
+"arcade fire|put your money on me": {
+"u": "spotify:track:0SaEmR2rdtfsZawPjMYkWg",
+"d": "2026-10-15T16:25:52.103334+02:00"
 }
 }
 }
