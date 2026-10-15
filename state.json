@@ -1,11 +1,15 @@
 {
-"updated": "2026-10-15T16:25:52.103334+02:00",
+"updated": "2026-10-15T16:36:52.104645+02:00",
 "matcher": 3,
 "blocked_until": null,
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAACU0HVPo3Y8PBX+VYEeCtD1u2YBSdb",
+"snapshot": "AAACVNK+8pnkSNQKjAwJP7nOc1okr73L",
 "playlist": [
+[
+"2026-10-15T16:26|L'Rain|Elmyra (Edit)",
+"spotify:track:5nXBMoWougORhcgX60YoZC"
+],
 [
 "2026-10-15T16:21|Anne Clark|Sleeper In Metropolis",
 "spotify:track:0BnMXGSKIOTqroiBpXgLTV"
@@ -164,6 +168,12 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-10-15T16:26|L'Rain|Elmyra (Edit)",
+"t": "2026-10-15T16:26:00+02:00",
+"artist": "L'Rain",
+"title": "Elmyra (Edit)"
+},
 {
 "id": "2026-10-15T16:21|Anne Clark|Sleeper In Metropolis",
 "t": "2026-10-15T16:21:00+02:00",
@@ -555,6 +565,10 @@
 "arcade fire|put your money on me": {
 "u": "spotify:track:0SaEmR2rdtfsZawPjMYkWg",
 "d": "2026-10-15T16:25:52.103334+02:00"
+},
+"l rain|elmyra edit": {
+"u": "spotify:track:5nXBMoWougORhcgX60YoZC",
+"d": "2026-10-15T16:31:52.104030+02:00"
 }
 }
 }
