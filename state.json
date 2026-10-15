@@ -1,11 +1,19 @@
 {
-"updated": "2026-10-15T17:08:52.108880+02:00",
+"updated": "2026-10-15T17:19:52.110289+02:00",
 "matcher": 3,
 "blocked_until": null,
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAACWSPhxlVLInVPSPdHUdCqBXWomIqy",
+"snapshot": "AAACW9y8dJH+LPob8n1vZ3XzXI34NOsd",
 "playlist": [
+[
+"2026-10-15T17:10|Fuffifufzich|New Era",
+"spotify:track:0sF1TJMDGYxKvu9pp1JQkQ"
+],
+[
+"2026-10-15T17:06|SBTRKT feat. Toro y Moi|Days Go By (Radio Edit)",
+"spotify:track:0IngWDycujRx7MPYCqImO0"
+],
 [
 "2026-10-15T16:57|The KLF|Justified And Ancient",
 "spotify:track:7E81YAfHOaSlnevLjKMghT"
@@ -188,6 +196,18 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-10-15T17:10|Fuffifufzich|New Era",
+"t": "2026-10-15T17:10:00+02:00",
+"artist": "Fuffifufzich",
+"title": "New Era"
+},
+{
+"id": "2026-10-15T17:06|SBTRKT feat. Toro y Moi|Days Go By (Radio Edit)",
+"t": "2026-10-15T17:06:00+02:00",
+"artist": "SBTRKT feat. Toro y Moi",
+"title": "Days Go By (Radio Edit)"
+},
 {
 "id": "2026-10-15T16:57|The KLF|Justified And Ancient",
 "t": "2026-10-15T16:57:00+02:00",
@@ -639,6 +659,14 @@
 "the klf|justified and ancient": {
 "u": "spotify:track:7E81YAfHOaSlnevLjKMghT",
 "d": "2026-10-15T17:07:52.108708+02:00"
+},
+"sbtrkt feat toro y moi|days go by radio edit": {
+"u": "spotify:track:0IngWDycujRx7MPYCqImO0",
+"d": "2026-10-15T17:11:52.109242+02:00"
+},
+"fuffifufzich|new era": {
+"u": "spotify:track:0sF1TJMDGYxKvu9pp1JQkQ",
+"d": "2026-10-15T17:15:52.109754+02:00"
 }
 }
 }
