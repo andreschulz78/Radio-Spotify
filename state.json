@@ -1,11 +1,15 @@
 {
-"updated": "2026-10-15T15:31:52.096384+02:00",
+"updated": "2026-10-15T15:42:52.097808+02:00",
 "matcher": 3,
 "blocked_until": null,
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAACTUw2WQhgqHKmV2hj1Mqk9rLzUv1i",
+"snapshot": "AAACTvTW/pz7YrKBbLV4CK/wDlgEIdQ4",
 "playlist": [
+[
+"2026-10-15T15:32|LCD Soundsystem|Daft Punk Is Playing At My House",
+"spotify:track:73mlvsfJM2qwlDUJxeaatI"
+],
 [
 "2026-10-15T15:25|The Ting Tings|Shut Up And Let Me Go",
 "spotify:track:45gJ4ncmYXXqPlFn8btmrr"
@@ -136,6 +140,12 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-10-15T15:32|LCD Soundsystem|Daft Punk Is Playing At My House",
+"t": "2026-10-15T15:32:00+02:00",
+"artist": "LCD Soundsystem",
+"title": "Daft Punk Is Playing At My House"
+},
 {
 "id": "2026-10-15T15:25|The Ting Tings|Shut Up And Let Me Go",
 "t": "2026-10-15T15:25:00+02:00",
@@ -457,6 +467,10 @@
 "the ting tings|shut up and let me go": {
 "u": "spotify:track:45gJ4ncmYXXqPlFn8btmrr",
 "d": "2026-10-15T15:31:52.096384+02:00"
+},
+"lcd soundsystem|daft punk is playing at my house": {
+"u": "spotify:track:73mlvsfJM2qwlDUJxeaatI",
+"d": "2026-10-15T15:36:52.097047+02:00"
 }
 }
 }
