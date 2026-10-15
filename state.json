@@ -1,11 +1,23 @@
 {
-"updated": "2026-10-15T17:24:52.110944+02:00",
+"updated": "2026-10-15T23:06:09.857924+02:00",
 "matcher": 3,
 "blocked_until": null,
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAACXPBaJ04Jw4dvLybaDWTt7G1TH/IG",
+"snapshot": "AAACXq0DbZK7sXReHySzLcl0U/9l4/6D",
 "playlist": [
+[
+"2026-10-15T20:43|Jamiroquai|Virtual Insanity",
+"spotify:track:4UQDZlZhGUDoYMohwrY28v"
+],
+[
+"2026-10-15T20:40|Grim104|Monstera",
+"spotify:track:3rSiXUS27EJxisY62sEqmJ"
+],
+[
+"2026-10-15T20:26|Yard Act|You're Gonna Need A Little Music",
+"spotify:track:43KS2LpjMVkvJdprLaoQxQ"
+],
 [
 "2026-10-15T17:14|49th & Main|Insomnia",
 "spotify:track:6JGrKJtW3CxLscWj7OJMYt"
@@ -200,6 +212,156 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-10-15T20:43|Jamiroquai|Virtual Insanity",
+"t": "2026-10-15T20:43:00+02:00",
+"artist": "Jamiroquai",
+"title": "Virtual Insanity"
+},
+{
+"id": "2026-10-15T20:40|Grim104|Monstera",
+"t": "2026-10-15T20:40:00+02:00",
+"artist": "Grim104",
+"title": "Monstera"
+},
+{
+"id": "2026-10-15T20:26|Yard Act|You're Gonna Need A Little Music",
+"t": "2026-10-15T20:26:00+02:00",
+"artist": "Yard Act",
+"title": "You're Gonna Need A Little Music"
+},
+{
+"id": "2026-10-15T20:15|Yazoo|Nobody's Diary",
+"t": "2026-10-15T20:15:00+02:00",
+"artist": "Yazoo",
+"title": "Nobody's Diary"
+},
+{
+"id": "2026-10-15T20:05|Data MC|Fever",
+"t": "2026-10-15T20:05:00+02:00",
+"artist": "Data MC",
+"title": "Fever"
+},
+{
+"id": "2026-10-15T19:55|The Beauty Of Gemina|Ghosts",
+"t": "2026-10-15T19:55:00+02:00",
+"artist": "The Beauty Of Gemina",
+"title": "Ghosts"
+},
+{
+"id": "2026-10-15T19:51|LA Priest|Rayon",
+"t": "2026-10-15T19:51:00+02:00",
+"artist": "LA Priest",
+"title": "Rayon"
+},
+{
+"id": "2026-10-15T19:40|Spiritualized|Do It All Over Again",
+"t": "2026-10-15T19:40:00+02:00",
+"artist": "Spiritualized",
+"title": "Do It All Over Again"
+},
+{
+"id": "2026-10-15T19:29|Genesis Owusu|Human Again",
+"t": "2026-10-15T19:29:00+02:00",
+"artist": "Genesis Owusu",
+"title": "Human Again"
+},
+{
+"id": "2026-10-15T19:07|Madonna|Danceteria",
+"t": "2026-10-15T19:07:00+02:00",
+"artist": "Madonna",
+"title": "Danceteria"
+},
+{
+"id": "2026-10-15T18:56|Florence + The Machine|What The Water Gave Me",
+"t": "2026-10-15T18:56:00+02:00",
+"artist": "Florence + The Machine",
+"title": "What The Water Gave Me"
+},
+{
+"id": "2026-10-15T18:41|Aurora|All My Demons Greeting Me As A Friend",
+"t": "2026-10-15T18:41:00+02:00",
+"artist": "Aurora",
+"title": "All My Demons Greeting Me As A Friend"
+},
+{
+"id": "2026-10-15T18:35|Skinshape|Amnesia",
+"t": "2026-10-15T18:35:00+02:00",
+"artist": "Skinshape",
+"title": "Amnesia"
+},
+{
+"id": "2026-10-15T18:32|Hannah Jadagu|My Love",
+"t": "2026-10-15T18:32:00+02:00",
+"artist": "Hannah Jadagu",
+"title": "My Love"
+},
+{
+"id": "2026-10-15T18:23|Talking Heads|Take Me To The River",
+"t": "2026-10-15T18:23:00+02:00",
+"artist": "Talking Heads",
+"title": "Take Me To The River"
+},
+{
+"id": "2026-10-15T18:20|Paul Kalkbrenner|Sky And Sand",
+"t": "2026-10-15T18:20:00+02:00",
+"artist": "Paul Kalkbrenner",
+"title": "Sky And Sand"
+},
+{
+"id": "2026-10-15T18:17|Alexander IV & IYAMAH|About Us",
+"t": "2026-10-15T18:17:00+02:00",
+"artist": "Alexander IV & IYAMAH",
+"title": "About Us"
+},
+{
+"id": "2026-10-15T18:08|Antony Szmierek|Chalk (Radio Edit)",
+"t": "2026-10-15T18:08:00+02:00",
+"artist": "Antony Szmierek",
+"title": "Chalk (Radio Edit)"
+},
+{
+"id": "2026-10-15T18:05|Muse|Plug In Baby",
+"t": "2026-10-15T18:05:00+02:00",
+"artist": "Muse",
+"title": "Plug In Baby"
+},
+{
+"id": "2026-10-15T17:56|Amanda Blank|A Love Song",
+"t": "2026-10-15T17:56:00+02:00",
+"artist": "Amanda Blank",
+"title": "A Love Song"
+},
+{
+"id": "2026-10-15T17:49|Sheila E. & Prince|A Love Bizarre",
+"t": "2026-10-15T17:49:00+02:00",
+"artist": "Sheila E. & Prince",
+"title": "A Love Bizarre"
+},
+{
+"id": "2026-10-15T17:46|Kronstad 23|Høytrykk",
+"t": "2026-10-15T17:46:00+02:00",
+"artist": "Kronstad 23",
+"title": "Høytrykk"
+},
+{
+"id": "2026-10-15T17:38|Future Islands|Ran",
+"t": "2026-10-15T17:38:00+02:00",
+"artist": "Future Islands",
+"title": "Ran"
+},
+{
+"id": "2026-10-15T17:34|Getdown Services|The Radiator (Edit)",
+"t": "2026-10-15T17:34:00+02:00",
+"artist": "Getdown Services",
+"title": "The Radiator (Edit)"
+},
+{
+"id": "2026-10-15T17:24|Jamie T.|Power Over Men",
+"t": "2026-10-15T17:24:00+02:00",
+"artist": "Jamie T.",
+"title": "Power Over Men"
+},
 {
 "id": "2026-10-15T17:14|49th & Main|Insomnia",
 "t": "2026-10-15T17:14:00+02:00",
@@ -681,6 +843,18 @@
 "49th main|insomnia": {
 "u": "spotify:track:6JGrKJtW3CxLscWj7OJMYt",
 "d": "2026-10-15T17:21:52.110548+02:00"
+},
+"jamiroquai|virtual insanity": {
+"u": "spotify:track:4UQDZlZhGUDoYMohwrY28v",
+"d": "2026-10-15T23:06:09.857924+02:00"
+},
+"grim104|monstera": {
+"u": "spotify:track:3rSiXUS27EJxisY62sEqmJ",
+"d": "2026-10-15T23:06:09.857924+02:00"
+},
+"yard act|you re gonna need a little music": {
+"u": "spotify:track:43KS2LpjMVkvJdprLaoQxQ",
+"d": "2026-10-15T23:06:09.857924+02:00"
 }
 }
 }
