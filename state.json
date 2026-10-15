@@ -1,11 +1,15 @@
 {
-"updated": "2026-10-15T12:17:52.071975+02:00",
+"updated": "2026-10-15T12:28:52.073398+02:00",
 "matcher": 3,
 "blocked_until": "2026-10-15T12:31:19.967087+02:00",
 "fresh": null,
 "start": null,
-"snapshot": "AAAB/3fSAjQvZHr8KVCiUdKf0bLVf5nK",
+"snapshot": "AAACDefnpKEtiAKrOscqYAN/x9y9x/UF",
 "playlist": [
+[
+"2026-10-15T12:20|Σtella|Belinda",
+"spotify:track:1rs2lOYfBKNW5OCpeTIiVf"
+],
 [
 "2026-10-15T12:10|Alewya|Cairo FM",
 "spotify:track:6v7hCIRoJkuYShT0wls1gD"
@@ -2789,13 +2793,21 @@
 [
 "2026-10-08T12:29|Ethan French|Reckless And Arranged - Day 56",
 "spotify:track:5brYKTgX2J3dZgu8dwjJfb"
-],
-[
-"2026-10-08T12:20|Big Thief|All Night All Day",
-"spotify:track:3gVrDEjo68KtplLuZuATTI"
 ]
 ],
 "entries": [
+{
+"id": "2026-10-15T12:20|Σtella|Belinda",
+"t": "2026-10-15T12:20:00+02:00",
+"artist": "Σtella",
+"title": "Belinda"
+},
+{
+"id": "2026-10-15T12:17|Shapeshifters|Lola's Theme",
+"t": "2026-10-15T12:17:00+02:00",
+"artist": "Shapeshifters",
+"title": "Lola's Theme"
+},
 {
 "id": "2026-10-15T12:10|Alewya|Cairo FM",
 "t": "2026-10-15T12:10:00+02:00",
@@ -7703,12 +7715,6 @@
 "t": "2026-10-08T12:29:00+02:00",
 "artist": "Ethan French",
 "title": "Reckless And Arranged - Day 56"
-},
-{
-"id": "2026-10-08T12:20|Big Thief|All Night All Day",
-"t": "2026-10-08T12:20:00+02:00",
-"artist": "Big Thief",
-"title": "All Night All Day"
 }
 ],
 "cache": {
@@ -9822,10 +9828,6 @@
 },
 "ethan french|reckless and arranged day 56": {
 "u": "spotify:track:5brYKTgX2J3dZgu8dwjJfb",
-"d": "2026-10-14T12:30:35.233280+02:00"
-},
-"big thief|all night all day": {
-"u": "spotify:track:3gVrDEjo68KtplLuZuATTI",
 "d": "2026-10-14T12:30:35.233280+02:00"
 },
 "keshavara|oracular": {
