@@ -1,11 +1,19 @@
 {
-"updated": "2026-10-15T14:06:52.085620+02:00",
+"updated": "2026-10-15T14:16:52.086824+02:00",
 "matcher": 3,
 "blocked_until": null,
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAACQMTsouPgTgTtlzUmxL+WCFapJLID",
+"snapshot": "AAACQtRuOGKqBvZdThn7utwyyMRKLBqt",
 "playlist": [
+[
+"2026-10-15T14:09|Super Furry Animals|Northern Lites",
+"spotify:track:708I0Efq1q9DVoSFYsfIKj"
+],
+[
+"2026-10-15T14:05|Die Sauna|ich liebe dich",
+"spotify:track:55JZWQSsRloNp5qzrIRp1G"
+],
 [
 "2026-10-15T13:56|Interpol|Iron City",
 "spotify:track:58N4hiH9cKYLkHEhzAdIP1"
@@ -68,6 +76,18 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-10-15T14:09|Super Furry Animals|Northern Lites",
+"t": "2026-10-15T14:09:00+02:00",
+"artist": "Super Furry Animals",
+"title": "Northern Lites"
+},
+{
+"id": "2026-10-15T14:05|Die Sauna|ich liebe dich",
+"t": "2026-10-15T14:05:00+02:00",
+"artist": "Die Sauna",
+"title": "ich liebe dich"
+},
 {
 "id": "2026-10-15T13:56|Interpol|Iron City",
 "t": "2026-10-15T13:56:00+02:00",
@@ -219,6 +239,14 @@
 "interpol|iron city": {
 "u": "spotify:track:58N4hiH9cKYLkHEhzAdIP1",
 "d": "2026-10-15T14:01:52.085020+02:00"
+},
+"die sauna|ich liebe dich": {
+"u": "spotify:track:55JZWQSsRloNp5qzrIRp1G",
+"d": "2026-10-15T14:10:52.086107+02:00"
+},
+"super furry animals|northern lites": {
+"u": "spotify:track:708I0Efq1q9DVoSFYsfIKj",
+"d": "2026-10-15T14:16:52.086824+02:00"
 }
 }
 }
