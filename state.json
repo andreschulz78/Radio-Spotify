@@ -1,11 +1,19 @@
 {
-"updated": "2026-10-15T14:27:52.088164+02:00",
+"updated": "2026-10-15T14:37:52.089469+02:00",
 "matcher": 3,
 "blocked_until": null,
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAACQzSNhT2fYxXhObFmnIE5WQj70Db0",
+"snapshot": "AAACRBLTUlrcYpxltC6Wk1Zlc4M3OFNE",
 "playlist": [
+[
+"2026-10-15T14:30|Metric|All Comes Crashing (Radio Edit)",
+"spotify:track:4XRvI0XtqdOGYeC36VkbwA"
+],
+[
+"2026-10-15T14:26|Kaktus Einarsson feat. John Grant|Follow",
+"spotify:track:0bbPqdrMN94XmIlBQS21B3"
+],
 [
 "2026-10-15T14:23|Cold War Kids|Finally Begin",
 "spotify:track:4FHBl3JvHCrOwYj0izEuD5"
@@ -84,6 +92,18 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-10-15T14:30|Metric|All Comes Crashing (Radio Edit)",
+"t": "2026-10-15T14:30:00+02:00",
+"artist": "Metric",
+"title": "All Comes Crashing (Radio Edit)"
+},
+{
+"id": "2026-10-15T14:26|Kaktus Einarsson feat. John Grant|Follow",
+"t": "2026-10-15T14:26:00+02:00",
+"artist": "Kaktus Einarsson feat. John Grant",
+"title": "Follow"
+},
 {
 "id": "2026-10-15T14:23|Cold War Kids|Finally Begin",
 "t": "2026-10-15T14:23:00+02:00",
@@ -275,6 +295,14 @@
 "uche yara|hello hello": {
 "u": "spotify:track:3hadpAb0vS5uYSrfidLaDr",
 "d": "2026-10-15T14:26:52.088051+02:00"
+},
+"metric|all comes crashing radio edit": {
+"u": "spotify:track:4XRvI0XtqdOGYeC36VkbwA",
+"d": "2026-10-15T14:37:52.089469+02:00"
+},
+"kaktus einarsson feat john grant|follow": {
+"u": "spotify:track:0bbPqdrMN94XmIlBQS21B3",
+"d": "2026-10-15T14:37:52.089469+02:00"
 }
 }
 }
