@@ -1,11 +1,23 @@
 {
-"updated": "2026-10-15T15:21:52.095133+02:00",
+"updated": "2026-10-15T15:31:52.096384+02:00",
 "matcher": 3,
 "blocked_until": null,
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAACS8Fhe3eJ8XwELM0xb3WYILjo7H4o",
+"snapshot": "AAACTUw2WQhgqHKmV2hj1Mqk9rLzUv1i",
 "playlist": [
+[
+"2026-10-15T15:25|The Ting Tings|Shut Up And Let Me Go",
+"spotify:track:45gJ4ncmYXXqPlFn8btmrr"
+],
+[
+"2026-10-15T15:21|Devo|Whip It",
+"spotify:track:6QG0wcgoCsa9pqFyTg0rRO"
+],
+[
+"2026-10-15T15:18|Ben Howard|Couldn’t Make It Up",
+"spotify:track:4tzcqWOSnJhmiE0NbY6K8I"
+],
 [
 "2026-10-15T15:09|Kelela|the bridge (feat. PinkPantheress)",
 "spotify:track:1PpODh3GDSFoG7EGOekVu2"
@@ -124,6 +136,24 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-10-15T15:25|The Ting Tings|Shut Up And Let Me Go",
+"t": "2026-10-15T15:25:00+02:00",
+"artist": "The Ting Tings",
+"title": "Shut Up And Let Me Go"
+},
+{
+"id": "2026-10-15T15:21|Devo|Whip It",
+"t": "2026-10-15T15:21:00+02:00",
+"artist": "Devo",
+"title": "Whip It"
+},
+{
+"id": "2026-10-15T15:18|Ben Howard|Couldn’t Make It Up",
+"t": "2026-10-15T15:18:00+02:00",
+"artist": "Ben Howard",
+"title": "Couldn’t Make It Up"
+},
 {
 "id": "2026-10-15T15:09|Kelela|the bridge (feat. PinkPantheress)",
 "t": "2026-10-15T15:09:00+02:00",
@@ -415,6 +445,18 @@
 "kelela|the bridge feat pinkpantheress": {
 "u": "spotify:track:1PpODh3GDSFoG7EGOekVu2",
 "d": "2026-10-15T15:16:52.094470+02:00"
+},
+"devo|whip it": {
+"u": "spotify:track:6QG0wcgoCsa9pqFyTg0rRO",
+"d": "2026-10-15T15:26:52.095767+02:00"
+},
+"ben howard|couldn t make it up": {
+"u": "spotify:track:4tzcqWOSnJhmiE0NbY6K8I",
+"d": "2026-10-15T15:26:52.095767+02:00"
+},
+"the ting tings|shut up and let me go": {
+"u": "spotify:track:45gJ4ncmYXXqPlFn8btmrr",
+"d": "2026-10-15T15:31:52.096384+02:00"
 }
 }
 }
