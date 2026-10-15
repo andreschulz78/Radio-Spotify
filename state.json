@@ -1,11 +1,19 @@
 {
-"updated": "2026-10-15T16:46:52.105901+02:00",
+"updated": "2026-10-15T16:57:52.107423+02:00",
 "matcher": 3,
 "blocked_until": null,
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAACVgeHQNKes/jg/kjJLAYB7ak4ks3a",
+"snapshot": "AAACWDYLgqU2TdenvomFyuOUcG+Nppeu",
 "playlist": [
+[
+"2026-10-15T16:51|Beach Fossils|Don't Fade Away",
+"spotify:track:55YY7cmB3jkIJq54cC7G4W"
+],
+[
+"2026-10-15T16:46|Primitive Radio Gods|Standing Outside A Broken Phone Booth With Money In My Hand",
+"spotify:track:3B9VlwE7LzAwCGhpcNB37b"
+],
 [
 "2026-10-15T16:43|Mother Soki|Thicken",
 "spotify:track:1uQYHgPrjPBYG1d0D4RoTD"
@@ -176,6 +184,18 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-10-15T16:51|Beach Fossils|Don't Fade Away",
+"t": "2026-10-15T16:51:00+02:00",
+"artist": "Beach Fossils",
+"title": "Don't Fade Away"
+},
+{
+"id": "2026-10-15T16:46|Primitive Radio Gods|Standing Outside A Broken Phone Booth With Money In My Hand",
+"t": "2026-10-15T16:46:00+02:00",
+"artist": "Primitive Radio Gods",
+"title": "Standing Outside A Broken Phone Booth With Money In My Hand"
+},
 {
 "id": "2026-10-15T16:43|Mother Soki|Thicken",
 "t": "2026-10-15T16:43:00+02:00",
@@ -597,6 +617,14 @@
 "mother soki|thicken": {
 "u": "spotify:track:1uQYHgPrjPBYG1d0D4RoTD",
 "d": "2026-10-15T16:46:52.105901+02:00"
+},
+"primitive radio gods|standing outside a broken phone booth with money in my hand": {
+"u": "spotify:track:3B9VlwE7LzAwCGhpcNB37b",
+"d": "2026-10-15T16:52:52.106735+02:00"
+},
+"beach fossils|don t fade away": {
+"u": "spotify:track:55YY7cmB3jkIJq54cC7G4W",
+"d": "2026-10-15T16:56:52.107256+02:00"
 }
 }
 }
