@@ -1,11 +1,15 @@
 {
-"updated": "2026-10-15T05:11:33.941792+02:00",
+"updated": "2026-10-15T05:22:33.942872+02:00",
 "matcher": 3,
 "blocked_until": "2026-10-15T12:31:19.967087+02:00",
 "fresh": null,
 "start": null,
-"snapshot": "AAABWwl9s4aJy4/T9p+3oLQIbmmzzWt1",
+"snapshot": "AAABc2vKRwLJ+842/5Fv42xuNBoR7Ywx",
 "playlist": [
+[
+"2026-10-15T05:07|Freedom Fry|She Fell In Love On The Dance Floor",
+"spotify:track:22uuH9uHRSdS2y2zvS5uEt"
+],
 [
 "2026-10-15T05:03|1-800 Girls feat. Art School Girlfriend|sometimes",
 "spotify:track:4akb3UnPEbDpUBc8JdQ5ED"
@@ -2929,17 +2933,21 @@
 [
 "2026-10-08T05:24|The Allergies|Felony",
 "spotify:track:1o9mPAHKGHB2xYnEIE4jtb"
-],
-[
-"2026-10-08T05:18|Ethan French|reckless and arranged - day 56 (extended)",
-"spotify:track:6H2ZSdZkYYW63UM6K2GcFh"
-],
-[
-"2026-10-08T05:14|Groove Armada|At The River (Radio Edit)",
-"spotify:track:0KIPa0YuQ5QFmlAqRyXNd9"
 ]
 ],
 "entries": [
+{
+"id": "2026-10-15T05:10|Smash Mouth|Walkin' On The Sun",
+"t": "2026-10-15T05:10:00+02:00",
+"artist": "Smash Mouth",
+"title": "Walkin' On The Sun"
+},
+{
+"id": "2026-10-15T05:07|Freedom Fry|She Fell In Love On The Dance Floor",
+"t": "2026-10-15T05:07:00+02:00",
+"artist": "Freedom Fry",
+"title": "She Fell In Love On The Dance Floor"
+},
 {
 "id": "2026-10-15T05:03|1-800 Girls feat. Art School Girlfriend|sometimes",
 "t": "2026-10-15T05:03:00+02:00",
@@ -7817,18 +7825,6 @@
 "t": "2026-10-08T05:24:00+02:00",
 "artist": "The Allergies",
 "title": "Felony"
-},
-{
-"id": "2026-10-08T05:18|Ethan French|reckless and arranged - day 56 (extended)",
-"t": "2026-10-08T05:18:00+02:00",
-"artist": "Ethan French",
-"title": "reckless and arranged - day 56 (extended)"
-},
-{
-"id": "2026-10-08T05:14|Groove Armada|At The River (Radio Edit)",
-"t": "2026-10-08T05:14:00+02:00",
-"artist": "Groove Armada",
-"title": "At The River (Radio Edit)"
 }
 ],
 "cache": {
@@ -10118,10 +10114,6 @@
 },
 "ethan french|reckless and arranged day 56 extended": {
 "u": "spotify:track:6H2ZSdZkYYW63UM6K2GcFh",
-"d": "2026-10-14T12:30:35.233280+02:00"
-},
-"groove armada|at the river radio edit": {
-"u": "spotify:track:0KIPa0YuQ5QFmlAqRyXNd9",
 "d": "2026-10-14T12:30:35.233280+02:00"
 }
 }
