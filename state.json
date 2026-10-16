@@ -1,11 +1,19 @@
 {
-"updated": "2026-10-16T13:21:25.493502+02:00",
+"updated": "2026-10-16T13:31:25.494714+02:00",
 "matcher": 3,
 "blocked_until": null,
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAACpzQ4PEPbIKQLDPvuTAU38YkdFihQ",
+"snapshot": "AAACq+TjpzHdRT4W4gsP2kTM/jvI+EZz",
 "playlist": [
+[
+"2026-10-16T13:26|Anna Calvi|Don't Beat The Girl Out Of My Boy",
+"spotify:track:0WAefSWgoOXB19hnexiss7"
+],
+[
+"2026-10-16T13:22|Fontaines D.C.|Marianne",
+"spotify:track:69rHKcrQpYGfToPThOV1UB"
+],
 [
 "2026-10-16T13:08|Tindersticks|Man alone (can't stop the fadin') - Charles Webster Mix",
 "spotify:track:1Ge3dLQf3D15GYtiOrEyk0"
@@ -608,6 +616,18 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-10-16T13:26|Anna Calvi|Don't Beat The Girl Out Of My Boy",
+"t": "2026-10-16T13:26:00+02:00",
+"artist": "Anna Calvi",
+"title": "Don't Beat The Girl Out Of My Boy"
+},
+{
+"id": "2026-10-16T13:22|Fontaines D.C.|Marianne",
+"t": "2026-10-16T13:22:00+02:00",
+"artist": "Fontaines D.C.",
+"title": "Marianne"
+},
 {
 "id": "2026-10-16T13:08|Tindersticks|Man alone (can't stop the fadin') - Charles Webster Mix",
 "t": "2026-10-16T13:08:00+02:00",
@@ -2093,6 +2113,14 @@
 "tindersticks|man alone can t stop the fadin charles webster mix": {
 "u": "spotify:track:1Ge3dLQf3D15GYtiOrEyk0",
 "d": "2026-10-16T13:15:25.492839+02:00"
+},
+"fontaines d c|marianne": {
+"u": "spotify:track:69rHKcrQpYGfToPThOV1UB",
+"d": "2026-10-16T13:25:25.493978+02:00"
+},
+"anna calvi|don t beat the girl out of my boy": {
+"u": "spotify:track:0WAefSWgoOXB19hnexiss7",
+"d": "2026-10-16T13:31:25.494714+02:00"
 }
 }
 }
