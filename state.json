@@ -1,12 +1,16 @@
 {
-"updated": "2026-10-16T21:51:30.842748+02:00",
+"updated": "2026-10-16T22:01:30.844308+02:00",
 "matcher": 4,
 "blocked_until": null,
 "details": "51e4e36c2ea1",
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAADFJPT1zqB5fXFucq18rZSR00JKM0C",
+"snapshot": "AAADF7ZQHV05cByXI1ewUd3bd0D6aZVn",
 "playlist": [
+[
+"2026-10-16T21:50|Fontaines D.C.|Where Is Gone (with Rosalia)",
+"spotify:track:6ZH1yeWUf3Xp2XO0EZk91i"
+],
 [
 "2026-10-16T21:43|Fontaines D.C.|Mimesis",
 "spotify:track:0nLkVbVlIYIPsCTUYYiOuu"
@@ -841,6 +845,18 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-10-16T21:55|Fichtenholz|Akryl",
+"t": "2026-10-16T21:55:00+02:00",
+"artist": "Fichtenholz",
+"title": "Akryl"
+},
+{
+"id": "2026-10-16T21:50|Fontaines D.C.|Where Is Gone (with Rosalia)",
+"t": "2026-10-16T21:50:00+02:00",
+"artist": "Fontaines D.C.",
+"title": "Where Is Gone (with Rosalia)"
+},
 {
 "id": "2026-10-16T21:43|Fontaines D.C.|Mimesis",
 "t": "2026-10-16T21:43:00+02:00",
@@ -2234,6 +2250,14 @@
 "fontaines d c|mimesis": {
 "u": "spotify:track:0nLkVbVlIYIPsCTUYYiOuu",
 "d": "2026-10-16T21:45:30.841817+02:00"
+},
+"fontaines d c|where is gone with rosalia": {
+"u": "spotify:track:6ZH1yeWUf3Xp2XO0EZk91i",
+"d": "2026-10-16T21:55:30.843340+02:00"
+},
+"fichtenholz|akryl": {
+"u": null,
+"d": "2026-10-16T22:01:30.844308+02:00"
 }
 }
 }
