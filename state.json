@@ -1,11 +1,19 @@
 {
-"updated": "2026-10-16T13:53:25.497512+02:00",
+"updated": "2026-10-16T14:04:25.499162+02:00",
 "matcher": 3,
 "blocked_until": null,
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAACs9RD2Go1JIIVqioMSAGMWMZ21siQ",
+"snapshot": "AAACtz/c8cPHYdcMTLyeDDAASvuNkoim",
 "playlist": [
+[
+"2026-10-16T13:54|Yard Act|You're Gonna Need A Little Music",
+"spotify:track:43KS2LpjMVkvJdprLaoQxQ"
+],
+[
+"2026-10-16T13:51|Mari Froes|Eu vou pro samba, viu?",
+"spotify:track:0ZirVpVEx943xdUD9bivHe"
+],
 [
 "2026-10-16T13:44|Red Hot Chili Peppers|Californication (Edit)",
 "spotify:track:59oRPezhuT0QBpaNkR2QNo"
@@ -632,6 +640,18 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-10-16T13:54|Yard Act|You're Gonna Need A Little Music",
+"t": "2026-10-16T13:54:00+02:00",
+"artist": "Yard Act",
+"title": "You're Gonna Need A Little Music"
+},
+{
+"id": "2026-10-16T13:51|Mari Froes|Eu vou pro samba, viu?",
+"t": "2026-10-16T13:51:00+02:00",
+"artist": "Mari Froes",
+"title": "Eu vou pro samba, viu?"
+},
 {
 "id": "2026-10-16T13:44|Red Hot Chili Peppers|Californication (Edit)",
 "t": "2026-10-16T13:44:00+02:00",
@@ -2177,6 +2197,10 @@
 "red hot chili peppers|californication edit": {
 "u": "spotify:track:59oRPezhuT0QBpaNkR2QNo",
 "d": "2026-10-16T13:50:25.497139+02:00"
+},
+"mari froes|eu vou pro samba viu": {
+"u": "spotify:track:0ZirVpVEx943xdUD9bivHe",
+"d": "2026-10-16T13:56:25.497869+02:00"
 }
 }
 }
