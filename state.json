@@ -1,12 +1,16 @@
 {
-"updated": "2026-10-16T20:02:30.826893+02:00",
+"updated": "2026-10-16T20:13:30.828520+02:00",
 "matcher": 4,
 "blocked_until": null,
 "details": "51e4e36c2ea1",
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAC9Uccgst9ZTN23gA9XsrWC37D5C+v",
+"snapshot": "AAAC90tp43B/sw3dLdW78lYAfj7nAz4h",
 "playlist": [
+[
+"2026-10-16T20:06|Bilderbuch|Maschin",
+"spotify:track:2Lg1njXKvhgv72U9QkrwXi"
+],
 [
 "2026-10-16T19:55|New Order|Krafty",
 "spotify:track:0tlHS1hqbezqx1ucn1hSMh"
@@ -789,6 +793,12 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-10-16T20:06|Bilderbuch|Maschin",
+"t": "2026-10-16T20:06:00+02:00",
+"artist": "Bilderbuch",
+"title": "Maschin"
+},
 {
 "id": "2026-10-16T19:55|New Order|Krafty",
 "t": "2026-10-16T19:55:00+02:00",
@@ -2052,6 +2062,10 @@
 "new order|krafty": {
 "u": "spotify:track:0tlHS1hqbezqx1ucn1hSMh",
 "d": "2026-10-16T20:02:30.826893+02:00"
+},
+"bilderbuch|maschin": {
+"u": "spotify:track:2Lg1njXKvhgv72U9QkrwXi",
+"d": "2026-10-16T20:10:30.828099+02:00"
 }
 }
 }
