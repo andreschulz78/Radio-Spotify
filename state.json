@@ -1,11 +1,19 @@
 {
-"updated": "2026-10-16T12:37:25.488100+02:00",
+"updated": "2026-10-16T12:48:25.489485+02:00",
 "matcher": 3,
 "blocked_until": null,
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAACmzLII6oLjlVCjdiv+Peey1pZPwEK",
+"snapshot": "AAACnxneGK89MlA3bapeC9GPhZf8jwmn",
 "playlist": [
+[
+"2026-10-16T12:42|Aurora|All My Demons Greeting Me As A Friend",
+"spotify:track:5O1tikYb6HKrP5cxSQv0iV"
+],
+[
+"2026-10-16T12:35|Spoon|Guess I'm Fallin In Love",
+"spotify:track:6NkeAbY0dQThFJ1SV3RoOZ"
+],
 [
 "2026-10-16T12:33|Spoon|Guess I'm Fallin In Love",
 "spotify:track:6NkeAbY0dQThFJ1SV3RoOZ"
@@ -584,6 +592,18 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-10-16T12:42|Aurora|All My Demons Greeting Me As A Friend",
+"t": "2026-10-16T12:42:00+02:00",
+"artist": "Aurora",
+"title": "All My Demons Greeting Me As A Friend"
+},
+{
+"id": "2026-10-16T12:35|Spoon|Guess I'm Fallin In Love",
+"t": "2026-10-16T12:35:00+02:00",
+"artist": "Spoon",
+"title": "Guess I'm Fallin In Love"
+},
 {
 "id": "2026-10-16T12:33|Spoon|Guess I'm Fallin In Love",
 "t": "2026-10-16T12:33:00+02:00",
