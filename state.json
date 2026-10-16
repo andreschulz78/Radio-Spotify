@@ -1,11 +1,19 @@
 {
-"updated": "2026-10-16T14:26:25.502059+02:00",
+"updated": "2026-10-16T14:37:25.503564+02:00",
 "matcher": 3,
 "blocked_until": null,
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAACvcYeaCincBmLYh6PBOsWzNUZ7FHo",
+"snapshot": "AAACv79zsuUhTWJ+yjaXtfy32MW8Yr2W",
 "playlist": [
+[
+"2026-10-16T14:30|Erykah Badu|Appletree",
+"spotify:track:2jAn0rAOyLW6hIEuIDNcoT"
+],
+[
+"2026-10-16T14:28|Eels|I Like Birds",
+"spotify:track:6N0iywQuqCluRkE6F7WqGg"
+],
 [
 "2026-10-16T14:23|Ibeyi|Hurry Hurry",
 "spotify:track:4BGA7VW330Eu1kaFNi98cG"
@@ -656,6 +664,18 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-10-16T14:30|Erykah Badu|Appletree",
+"t": "2026-10-16T14:30:00+02:00",
+"artist": "Erykah Badu",
+"title": "Appletree"
+},
+{
+"id": "2026-10-16T14:28|Eels|I Like Birds",
+"t": "2026-10-16T14:28:00+02:00",
+"artist": "Eels",
+"title": "I Like Birds"
+},
 {
 "id": "2026-10-16T14:23|Ibeyi|Hurry Hurry",
 "t": "2026-10-16T14:23:00+02:00",
@@ -2257,6 +2277,14 @@
 "depeche mode|wagging tongue": {
 "u": "spotify:track:5g2GhW0Xdc0HHwUCaKkmRQ",
 "d": "2026-10-16T14:25:25.501936+02:00"
+},
+"erykah badu|appletree": {
+"u": "spotify:track:2jAn0rAOyLW6hIEuIDNcoT",
+"d": "2026-10-16T14:35:25.503352+02:00"
+},
+"eels|i like birds": {
+"u": "spotify:track:6N0iywQuqCluRkE6F7WqGg",
+"d": "2026-10-16T14:35:25.503352+02:00"
 }
 }
 }
