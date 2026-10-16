@@ -1,11 +1,19 @@
 {
-"updated": "2026-10-16T10:48:25.474431+02:00",
+"updated": "2026-10-16T10:59:25.475864+02:00",
 "matcher": 3,
 "blocked_until": null,
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAACf7GQQGs+yQp61PfyEunvFf7cra23",
+"snapshot": "AAACg5cfInxffrgrypZU/ykTLH/t8rX+",
 "playlist": [
+[
+"2026-10-16T10:50|Chet Faker|Over You (Radio Edit)",
+"spotify:track:036QOmnlr52hgeH1WmQ5OB"
+],
+[
+"2026-10-16T10:44|Tears For Fears|Sowing The Seeds Of Love",
+"spotify:track:62vx6uOYO7PrqKqKTKg9RY"
+],
 [
 "2026-10-16T10:36|Emilíana Torrini|Black Lion Lane",
 "spotify:track:4NoG0rapgc8pL8S5lPfbSt"
@@ -520,6 +528,18 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-10-16T10:50|Chet Faker|Over You (Radio Edit)",
+"t": "2026-10-16T10:50:00+02:00",
+"artist": "Chet Faker",
+"title": "Over You (Radio Edit)"
+},
+{
+"id": "2026-10-16T10:44|Tears For Fears|Sowing The Seeds Of Love",
+"t": "2026-10-16T10:44:00+02:00",
+"artist": "Tears For Fears",
+"title": "Sowing The Seeds Of Love"
+},
 {
 "id": "2026-10-16T10:36|Emilíana Torrini|Black Lion Lane",
 "t": "2026-10-16T10:36:00+02:00",
@@ -1793,6 +1813,14 @@
 "sepalot|my own way": {
 "u": "spotify:track:1fZWCdpLnT98Lf5DeGkMSB",
 "d": "2026-10-16T10:42:25.473644+02:00"
+},
+"tears for fears|sowing the seeds of love": {
+"u": "spotify:track:62vx6uOYO7PrqKqKTKg9RY",
+"d": "2026-10-16T10:51:25.474779+02:00"
+},
+"chet faker|over you radio edit": {
+"u": "spotify:track:036QOmnlr52hgeH1WmQ5OB",
+"d": "2026-10-16T10:55:25.475351+02:00"
 }
 }
 }
