@@ -1,12 +1,16 @@
 {
-"updated": "2026-10-16T22:12:30.845906+02:00",
+"updated": "2026-10-16T22:23:30.847344+02:00",
 "matcher": 4,
 "blocked_until": null,
 "details": "51e4e36c2ea1",
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAADGo6BtPBHeKt4ENIGy8ODf7+hBU2I",
+"snapshot": "AAADHRcdvNWOE1pdDFRC+p3l2FstYGM/",
 "playlist": [
+[
+"2026-10-16T22:13|Endless Wellness|Die Katze",
+"spotify:track:6BxrRV7AdnDzMcArGl2RUX"
+],
 [
 "2026-10-16T22:03|Michael Kiwanuka|Sing",
 "spotify:track:4dTf6qu0IVqLROkGCoM2yt"
@@ -849,6 +853,12 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-10-16T22:13|Endless Wellness|Die Katze",
+"t": "2026-10-16T22:13:00+02:00",
+"artist": "Endless Wellness",
+"title": "Die Katze"
+},
 {
 "id": "2026-10-16T22:03|Michael Kiwanuka|Sing",
 "t": "2026-10-16T22:03:00+02:00",
@@ -2272,6 +2282,10 @@
 "michael kiwanuka|sing": {
 "u": "spotify:track:4dTf6qu0IVqLROkGCoM2yt",
 "d": "2026-10-16T22:05:30.844914+02:00"
+},
+"endless wellness|die katze": {
+"u": "spotify:track:6BxrRV7AdnDzMcArGl2RUX",
+"d": "2026-10-16T22:15:30.846290+02:00"
 }
 }
 }
