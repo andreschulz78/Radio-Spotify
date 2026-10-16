@@ -1,11 +1,19 @@
 {
-"updated": "2026-10-16T11:54:25.482620+02:00",
+"updated": "2026-10-16T12:05:25.484040+02:00",
 "matcher": 3,
 "blocked_until": null,
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAACkcnB3quelQtQdv5J9FbI1rSxFrAo",
+"snapshot": "AAAClXan82qHVTPtRMpnMZ/DNXu/Cayx",
 "playlist": [
+[
+"2026-10-16T11:57|Timo Maas feat. Kelis|Help Me",
+"spotify:track:0pMf7kQNcbr63W0Cb2Sfyx"
+],
+[
+"2026-10-16T11:51|Friedberg|Goodwife",
+"spotify:track:1H89j9NLse1E0Kmjb3tzW6"
+],
 [
 "2026-10-16T11:46|The Chemical Brothers & Beck|Wide Open",
 "spotify:track:702bgtK1RC080O8pozq94S"
@@ -560,6 +568,18 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-10-16T11:57|Timo Maas feat. Kelis|Help Me",
+"t": "2026-10-16T11:57:00+02:00",
+"artist": "Timo Maas feat. Kelis",
+"title": "Help Me"
+},
+{
+"id": "2026-10-16T11:51|Friedberg|Goodwife",
+"t": "2026-10-16T11:51:00+02:00",
+"artist": "Friedberg",
+"title": "Goodwife"
+},
 {
 "id": "2026-10-16T11:46|The Chemical Brothers & Beck|Wide Open",
 "t": "2026-10-16T11:46:00+02:00",
@@ -1933,6 +1953,14 @@
 "the chemical brothers beck|wide open": {
 "u": "spotify:track:702bgtK1RC080O8pozq94S",
 "d": "2026-10-16T11:51:25.482325+02:00"
+},
+"friedberg|goodwife": {
+"u": "spotify:track:1H89j9NLse1E0Kmjb3tzW6",
+"d": "2026-10-16T11:55:25.482746+02:00"
+},
+"timo maas feat kelis|help me": {
+"u": "spotify:track:0pMf7kQNcbr63W0Cb2Sfyx",
+"d": "2026-10-16T12:01:25.483533+02:00"
 }
 }
 }
