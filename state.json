@@ -1,11 +1,11 @@
 {
-"updated": "2026-10-16T17:28:30.805455+02:00",
+"updated": "2026-10-16T17:39:30.807060+02:00",
 "matcher": 4,
 "blocked_until": null,
 "details": "51e4e36c2ea1",
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAC5m931SWgz8kSDpmrNSiRsQeMQ+48",
+"snapshot": "AAAC6AZjYJKZWmm3nddEPOgXBwhfXkdm",
 "playlist": [
 [
 "2026-10-16T16:58|Anderson .Paak & Cordae|A Good Day",
@@ -18,6 +18,22 @@
 [
 "2026-10-16T16:52|Olive|You're Not Alone",
 "spotify:track:4AJWkU9WQeFytNaJExtyRj"
+],
+[
+"2026-10-16T16:44|The Sisters Of Mercy|This Corrosion",
+"spotify:track:2ZiAhZOpTjNgh3JpTGYAyh"
+],
+[
+"2026-10-16T16:36|Cassia|lovedrunk",
+"spotify:track:73HM4oXqEBDbeKn8GexF3c"
+],
+[
+"2026-10-16T16:33|Smerz|Feisty",
+"spotify:track:7Laa4tXNvO1QC63Qac53Gp"
+],
+[
+"2026-10-16T16:24|Waldeck|One Of These Days",
+"spotify:track:37wmHUvJl1XFdwcXADvDSs"
 ],
 [
 "2026-10-16T16:12|Ebow feat. FAYIM|Club 1990",
@@ -1936,6 +1952,22 @@
 "olive|you re not alone": {
 "u": "spotify:track:4AJWkU9WQeFytNaJExtyRj",
 "d": "2026-10-16T17:28:30.805455+02:00"
+},
+"the sisters of mercy|this corrosion": {
+"u": "spotify:track:2ZiAhZOpTjNgh3JpTGYAyh",
+"d": "2026-10-16T17:29:30.805606+02:00"
+},
+"cassia|lovedrunk": {
+"u": "spotify:track:73HM4oXqEBDbeKn8GexF3c",
+"d": "2026-10-16T17:29:30.805606+02:00"
+},
+"smerz|feisty": {
+"u": "spotify:track:7Laa4tXNvO1QC63Qac53Gp",
+"d": "2026-10-16T17:29:30.805606+02:00"
+},
+"waldeck|one of these days": {
+"u": "spotify:track:37wmHUvJl1XFdwcXADvDSs",
+"d": "2026-10-16T17:30:30.805753+02:00"
 }
 }
 }
