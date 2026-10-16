@@ -1,12 +1,24 @@
 {
-"updated": "2026-10-16T20:46:30.833195+02:00",
+"updated": "2026-10-16T20:56:30.834594+02:00",
 "matcher": 4,
 "blocked_until": null,
 "details": "51e4e36c2ea1",
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAC+z/LGe7ZRFwgARKbxb91LqS390m5",
+"snapshot": "AAAC/6GbrtnLMOhcyIv05dSyopW7WhPc",
 "playlist": [
+[
+"2026-10-16T20:53|Sparkling & COMA|It Won't Be Like This Forever",
+"spotify:track:1w6NksiUfe5WNa5wZAJXYO"
+],
+[
+"2026-10-16T20:47|Dan Auerbach|King Of A One Horse Town",
+"spotify:track:4QF8w44G6fU4VNxQJK1OJn"
+],
+[
+"2026-10-16T20:44|Fuffifufzich|New Era",
+"spotify:track:0sF1TJMDGYxKvu9pp1JQkQ"
+],
 [
 "2026-10-16T20:25|Austra & Patrick Holland|Siren Reprise",
 "spotify:track:678wI419HyRL4qSTbXdyLu"
@@ -801,6 +813,24 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-10-16T20:53|Sparkling & COMA|It Won't Be Like This Forever",
+"t": "2026-10-16T20:53:00+02:00",
+"artist": "Sparkling & COMA",
+"title": "It Won't Be Like This Forever"
+},
+{
+"id": "2026-10-16T20:47|Dan Auerbach|King Of A One Horse Town",
+"t": "2026-10-16T20:47:00+02:00",
+"artist": "Dan Auerbach",
+"title": "King Of A One Horse Town"
+},
+{
+"id": "2026-10-16T20:44|Fuffifufzich|New Era",
+"t": "2026-10-16T20:44:00+02:00",
+"artist": "Fuffifufzich",
+"title": "New Era"
+},
 {
 "id": "2026-10-16T20:25|Austra & Patrick Holland|Siren Reprise",
 "t": "2026-10-16T20:25:00+02:00",
@@ -2094,6 +2124,18 @@
 "austra patrick holland|siren reprise": {
 "u": "spotify:track:678wI419HyRL4qSTbXdyLu",
 "d": "2026-10-16T20:30:30.830976+02:00"
+},
+"dan auerbach|king of a one horse town": {
+"u": "spotify:track:4QF8w44G6fU4VNxQJK1OJn",
+"d": "2026-10-16T20:50:30.833766+02:00"
+},
+"fuffifufzich|new era": {
+"u": "spotify:track:0sF1TJMDGYxKvu9pp1JQkQ",
+"d": "2026-10-16T20:50:30.833766+02:00"
+},
+"sparkling coma|it won t be like this forever": {
+"u": "spotify:track:1w6NksiUfe5WNa5wZAJXYO",
+"d": "2026-10-16T20:56:30.834594+02:00"
 }
 }
 }
