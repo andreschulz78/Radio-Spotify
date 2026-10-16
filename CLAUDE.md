@@ -1,8 +1,9 @@
 # Radio → Spotify
 
-Spiegelt die Radio-Playlist  minütlich in eine Spotify-Playlist (7 Tage rollierend, neueste oben, jede Ausstrahlung einzeln).
+Spiegelt die Playlist eines Radiosenders minütlich in eine Spotify-Playlist (7 Tage rollierend, neueste oben, jede Ausstrahlung einzeln).
 
-- Repo: https://github.com/andreschulz78/Radio-spotify (öffentlich), `gh` als andreschulz78
+- Repo: https://github.com/andreschulz78/radio-spotify (öffentlich), `gh` als andreschulz78
+- Anonym halten: Sender nirgends im Repo, in Commits oder Logs nennen. URL steht nur im Secret `RADIO_URL`, Rubrik-Präfix im Secret `RADIO_TITLE_PREFIX`.
 - Playlist: https://open.spotify.com/playlist/4co4S71IZsWv5QRNfET54J
 - Einmaliger Neustart 15.10.2026 12:35 (`FRESH_START`): Playlist geleert, danach nur neue Ausstrahlungen
 - Läuft als GitHub-Actions-Dauerlauf (`--loop 340`, Jobs nahtlos per concurrency); Reset: Workflow manuell mit `reset=true`

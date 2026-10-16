@@ -1,11 +1,12 @@
 #!/usr/bin/env python3
 """Radio-Playlist -> Spotify (rollierend 7 Tage, neueste oben, jede Ausstrahlung einzeln).
 
-Umgebungsvariablen: SPOTIFY_CLIENT_ID, SPOTIFY_CLIENT_SECRET, SPOTIFY_REFRESH_TOKEN, SPOTIFY_PLAYLIST_ID
+Umgebungsvariablen: RADIO_URL (Basis-URL des Senders), RADIO_TITLE_PREFIX (optional, Regex für
+                    Rubrik vor dem Titel), SPOTIFY_CLIENT_ID, SPOTIFY_CLIENT_SECRET, SPOTIFY_REFRESH_TOKEN, SPOTIFY_PLAYLIST_ID
 Aufruf:  python3 radio_spotify.py            # synchronisieren
-         python3 radio_spotify.py --dry-run  # nur Radio auslesen, nichts an Spotify senden
+         python3 radio_spotify.py --dry-run  # nur Radio-Playlist auslesen, nichts an Spotify senden
          python3 radio_spotify.py --loop 340 # Dauerlauf: 340 Min. lang jede Minute
-         … --reset                               # vorher Playlist leeren, Stand löschen
+         … --reset                           # vorher Playlist leeren, Stand löschen
 """
 import base64
 import difflib
@@ -26,16 +27,19 @@ from pathlib import Path
 from zoneinfo import ZoneInfo
 
 TZ = ZoneInfo("Europe/Berlin")
-BASE = "https://example.invalid"
+BASE = os.environ.get("RADIO_URL", "").rstrip("/")   # bewusst nicht im Repo
 WINDOW = timedelta(days=7)
 MAX_LOOKUPS = 3            # neue Titel pro Durchlauf (je 1–2 Spotify-Anfragen; zu viele -> 24 h Sperre)
 RETRY_NOT_FOUND = timedelta(days=3)
 MATCHER = 4               # erhöhen, wenn find_uri geändert wird -> Cache verwerfen (Titel in der Playlist bleiben)
 FRESH_START = datetime(2026, 10, 15, 12, 35, tzinfo=ZoneInfo("Europe/Berlin"))   # einmalig: Playlist leeren, nur noch Neues
 STATE_FILE = Path(__file__).with_name("state.json")
-UA = "Mozilla/5.0 (Radio-spotify; private Playlist)"
+UA = "Mozilla/5.0 (radio-spotify; private Playlist)"
+TITLE_PREFIX = os.environ.get("RADIO_TITLE_PREFIX", "")
+PLAYLIST_NAME = "Radio – Live (7 Tage)"
+PLAYLIST_DESC = "Was im Radio in den letzten 7 Tagen lief – neueste oben, automatisch aktualisiert."
 
-# IPv6 zu Radio hängt teils 40 s -> nur IPv4
+# IPv6 zum Sender hängt teils 40 s -> nur IPv4
 _getaddrinfo = socket.getaddrinfo
 socket.getaddrinfo = lambda *a, **k: [x for x in _getaddrinfo(*a, **k) if x[0] == socket.AF_INET] or _getaddrinfo(*a, **k)
 
@@ -163,7 +167,9 @@ def main_artist(a):
 
 
 def base_title(t):
-    t = re.sub(r"^Rubrik\s*[-/:]\s*", "", t.strip(), flags=re.I)   # Radio-Rubrik vor dem Titel
+    t = t.strip()
+    if TITLE_PREFIX:   # Rubrik des Senders vor dem Titel
+        t = re.sub(rf"^(?:{TITLE_PREFIX})\s*[-/:]\s*", "", t, flags=re.I)
     t = re.sub(r"\s*[\(\[][^)\]]*(edit|version|mix|remaster|single|radio|feat|live|mono|stereo)[^)\]]*[\)\]]",
                "", t, flags=re.I)
     return re.sub(r"\s+-\s+.*(edit|version|remaster).*$", "", t, flags=re.I).strip() or t
@@ -354,12 +360,18 @@ def run_once(sp=None, dry=False):
 
     ordered = sorted(entries.values(), key=lambda e: e["id"], reverse=True)
     desired = [[e["id"], e["uri"]] for e in ordered if e.get("uri")]
-    snapshot = state.get("snapshot")
+    pid, snapshot = os.environ["SPOTIFY_PLAYLIST_ID"], state.get("snapshot")
+    if state.get("title") != PLAYLIST_NAME:   # Name/Beschreibung setzen, ohne Neuaufbau auszulösen
+        before = sp.call("GET", f"/playlists/{pid}", {"fields": "snapshot_id"})["snapshot_id"]
+        sp.call("PUT", f"/playlists/{pid}", body={"name": PLAYLIST_NAME, "description": PLAYLIST_DESC})
+        if before == snapshot:
+            snapshot = sp.call("GET", f"/playlists/{pid}", {"fields": "snapshot_id"})["snapshot_id"]
+        print(f"Spotify: Playlist heißt jetzt „{PLAYLIST_NAME}“")
     if desired != state.get("playlist"):
-        snapshot = sync_playlist(sp, os.environ["SPOTIFY_PLAYLIST_ID"], state.get("playlist"), desired, snapshot)
+        snapshot = sync_playlist(sp, pid, state.get("playlist"), desired, snapshot)
 
     STATE_FILE.write_text(json.dumps({
-        "updated": now.isoformat(), "matcher": MATCHER, "blocked_until": blocked,
+        "updated": now.isoformat(), "matcher": MATCHER, "blocked_until": blocked, "title": PLAYLIST_NAME,
         "fresh": state.get("fresh"), "start": state.get("start"), "snapshot": snapshot, "playlist": desired,
         "entries": [{k: e[k] for k in ("id", "t", "artist", "title")} for e in ordered],
         "cache": cache}, ensure_ascii=False, indent=0))
@@ -405,6 +417,8 @@ def reset():
 
 
 if __name__ == "__main__":
+    if not BASE:
+        sys.exit("RADIO_URL fehlt (Basis-URL des Senders, als GitHub-Secret bzw. Umgebungsvariable)")
     if "--reset" in sys.argv:
         reset()
     if "--dry-run" in sys.argv:

@@ -15,7 +15,7 @@ import webbrowser
 
 REDIRECT = "http://127.0.0.1:8888/callback"
 SCOPES = "playlist-modify-public playlist-modify-private playlist-read-private"
-REPO = "andreschulz78/Radio-spotify"
+REPO = "andreschulz78/radio-spotify"
 NAME = "Radio – Live (7 Tage)"
 
 # IPv6 hängt auf diesem Mac -> nur IPv4
@@ -43,7 +43,7 @@ tok = json.load(urllib.request.urlopen(req))
 
 req = urllib.request.Request("https://api.spotify.com/v1/me/playlists", method="POST", data=json.dumps({
     "name": NAME, "public": True,
-    "description": "Was Radio  in den letzten 7 Tagen gespielt hat – neueste oben, automatisch aktualisiert."
+    "description": "Was im Radio in den letzten 7 Tagen lief – neueste oben, automatisch aktualisiert."
 }).encode(), headers={"Authorization": f"Bearer {tok['access_token']}", "Content-Type": "application/json"})
 pl = json.load(urllib.request.urlopen(req))
 

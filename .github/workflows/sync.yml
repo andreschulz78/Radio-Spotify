@@ -32,6 +32,8 @@ jobs:
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           python3 -u radio_spotify.py --loop 340 ${{ inputs.reset && '--reset' || '' }}
         env:
+          RADIO_URL: ${{ secrets.RADIO_URL }}
+          RADIO_TITLE_PREFIX: ${{ secrets.RADIO_TITLE_PREFIX }}
           SPOTIFY_CLIENT_ID: ${{ secrets.SPOTIFY_CLIENT_ID }}
           SPOTIFY_CLIENT_SECRET: ${{ secrets.SPOTIFY_CLIENT_SECRET }}
           SPOTIFY_REFRESH_TOKEN: ${{ secrets.SPOTIFY_REFRESH_TOKEN }}
