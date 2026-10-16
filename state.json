@@ -1,12 +1,20 @@
 {
-"updated": "2026-10-16T21:29:30.839351+02:00",
+"updated": "2026-10-16T21:40:30.841038+02:00",
 "matcher": 4,
 "blocked_until": null,
 "details": "51e4e36c2ea1",
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAADCweW1k8iLAYAiEkJ9Q5Tmhp2Bp5P",
+"snapshot": "AAADEfhNVKUmZP9ThcPEZEs/1P+iEezg",
 "playlist": [
+[
+"2026-10-16T21:33|Fontaines D.C.|Six Shot Morning",
+"spotify:track:3GOOBbC0uedCdUQZfSrwOp"
+],
+[
+"2026-10-16T21:26|Rachel Chinouriri|Shiver",
+"spotify:track:4lgquSdodKUtbuMxpxtIod"
+],
 [
 "2026-10-16T21:21|Rachel Chinouriri|BrokenChair",
 "spotify:track:7tkVtE5Tf2vM2W4oZD0hqd"
@@ -829,6 +837,18 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-10-16T21:33|Fontaines D.C.|Six Shot Morning",
+"t": "2026-10-16T21:33:00+02:00",
+"artist": "Fontaines D.C.",
+"title": "Six Shot Morning"
+},
+{
+"id": "2026-10-16T21:26|Rachel Chinouriri|Shiver",
+"t": "2026-10-16T21:26:00+02:00",
+"artist": "Rachel Chinouriri",
+"title": "Shiver"
+},
 {
 "id": "2026-10-16T21:21|Rachel Chinouriri|BrokenChair",
 "t": "2026-10-16T21:21:00+02:00",
@@ -2192,6 +2212,14 @@
 "rachel chinouriri|brokenchair": {
 "u": "spotify:track:7tkVtE5Tf2vM2W4oZD0hqd",
 "d": "2026-10-16T21:26:30.838910+02:00"
+},
+"rachel chinouriri|shiver": {
+"u": "spotify:track:4lgquSdodKUtbuMxpxtIod",
+"d": "2026-10-16T21:30:30.839523+02:00"
+},
+"fontaines d c|six shot morning": {
+"u": "spotify:track:3GOOBbC0uedCdUQZfSrwOp",
+"d": "2026-10-16T21:35:30.840285+02:00"
 }
 }
 }
