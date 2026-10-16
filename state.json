@@ -1,11 +1,19 @@
 {
-"updated": "2026-10-16T14:48:25.505022+02:00",
+"updated": "2026-10-16T14:59:25.506399+02:00",
 "matcher": 3,
 "blocked_until": null,
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAACwauEK2MDP+qvInPL4S5j12e2jSi8",
+"snapshot": "AAACxT792sMd7PmQou9Rm0fwg/IPhM/B",
 "playlist": [
+[
+"2026-10-16T14:50|Lola Young|One Thing",
+"spotify:track:4x4pzInO5rUivQWMkWY56l"
+],
+[
+"2026-10-16T14:44|Kitty Solaris|Follow the Beatniks",
+"spotify:track:38oVCXcvj4KySVWJ5dIZEY"
+],
 [
 "2026-10-16T14:41|Getdown Services|Get Back Jamie",
 "spotify:track:3Ip04l0qehmtnTNlplcTix"
@@ -668,6 +676,18 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-10-16T14:50|Lola Young|One Thing",
+"t": "2026-10-16T14:50:00+02:00",
+"artist": "Lola Young",
+"title": "One Thing"
+},
+{
+"id": "2026-10-16T14:44|Kitty Solaris|Follow the Beatniks",
+"t": "2026-10-16T14:44:00+02:00",
+"artist": "Kitty Solaris",
+"title": "Follow the Beatniks"
+},
 {
 "id": "2026-10-16T14:41|Getdown Services|Get Back Jamie",
 "t": "2026-10-16T14:41:00+02:00",
@@ -2299,6 +2319,14 @@
 "getdown services|get back jamie": {
 "u": "spotify:track:3Ip04l0qehmtnTNlplcTix",
 "d": "2026-10-16T14:46:25.504764+02:00"
+},
+"kitty solaris|follow the beatniks": {
+"u": "spotify:track:38oVCXcvj4KySVWJ5dIZEY",
+"d": "2026-10-16T14:50:25.505212+02:00"
+},
+"lola young|one thing": {
+"u": "spotify:track:4x4pzInO5rUivQWMkWY56l",
+"d": "2026-10-16T14:56:25.506035+02:00"
 }
 }
 }
