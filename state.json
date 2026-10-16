@@ -1,5 +1,5 @@
 {
-"updated": "2026-10-16T15:59:26.606190+02:00",
+"updated": "2026-10-16T16:10:26.607691+02:00",
 "matcher": 4,
 "blocked_until": null,
 "title": "Radio – Live (7 Tage)",
@@ -7,6 +7,14 @@
 "start": "2026-10-15T12:35:52.074302+02:00",
 "snapshot": "AAAC3Bjknp6Hl/9yGofJUkeGGh06sm5H",
 "playlist": [
+[
+"2026-10-16T15:57|Django Django ft. Max Pope|Feel Alright",
+"spotify:track:1TU9gJekTIXiu3RVb9wrzN"
+],
+[
+"2026-10-16T15:54|Supergrass|St. Petersburg",
+"spotify:track:2HT7zy0XKhs09hNZKYOAWq"
+],
 [
 "2026-10-16T15:52|Sublime|What I Got",
 "spotify:track:1Ut0PcWguWEdmYuMmurqfw"
@@ -721,6 +729,18 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-10-16T15:57|Django Django ft. Max Pope|Feel Alright",
+"t": "2026-10-16T15:57:00+02:00",
+"artist": "Django Django ft. Max Pope",
+"title": "Feel Alright"
+},
+{
+"id": "2026-10-16T15:54|Supergrass|St. Petersburg",
+"t": "2026-10-16T15:54:00+02:00",
+"artist": "Supergrass",
+"title": "St. Petersburg"
+},
 {
 "id": "2026-10-16T15:52|Sublime|What I Got",
 "t": "2026-10-16T15:52:00+02:00",
@@ -1814,6 +1834,14 @@
 "united balls|pogo in togo": {
 "u": null,
 "d": "2026-10-16T15:59:26.606190+02:00"
+},
+"django django ft max pope|feel alright": {
+"u": "spotify:track:1TU9gJekTIXiu3RVb9wrzN",
+"d": "2026-10-16T16:00:26.606317+02:00"
+},
+"supergrass|st petersburg": {
+"u": "spotify:track:2HT7zy0XKhs09hNZKYOAWq",
+"d": "2026-10-16T16:00:26.606317+02:00"
 }
 }
 }
