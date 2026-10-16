@@ -1,12 +1,16 @@
 {
-"updated": "2026-10-16T21:40:30.841038+02:00",
+"updated": "2026-10-16T21:51:30.842748+02:00",
 "matcher": 4,
 "blocked_until": null,
 "details": "51e4e36c2ea1",
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAADEfhNVKUmZP9ThcPEZEs/1P+iEezg",
+"snapshot": "AAADFJPT1zqB5fXFucq18rZSR00JKM0C",
 "playlist": [
+[
+"2026-10-16T21:43|Fontaines D.C.|Mimesis",
+"spotify:track:0nLkVbVlIYIPsCTUYYiOuu"
+],
 [
 "2026-10-16T21:33|Fontaines D.C.|Six Shot Morning",
 "spotify:track:3GOOBbC0uedCdUQZfSrwOp"
@@ -837,6 +841,12 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-10-16T21:43|Fontaines D.C.|Mimesis",
+"t": "2026-10-16T21:43:00+02:00",
+"artist": "Fontaines D.C.",
+"title": "Mimesis"
+},
 {
 "id": "2026-10-16T21:33|Fontaines D.C.|Six Shot Morning",
 "t": "2026-10-16T21:33:00+02:00",
@@ -2220,6 +2230,10 @@
 "fontaines d c|six shot morning": {
 "u": "spotify:track:3GOOBbC0uedCdUQZfSrwOp",
 "d": "2026-10-16T21:35:30.840285+02:00"
+},
+"fontaines d c|mimesis": {
+"u": "spotify:track:0nLkVbVlIYIPsCTUYYiOuu",
+"d": "2026-10-16T21:45:30.841817+02:00"
 }
 }
 }
