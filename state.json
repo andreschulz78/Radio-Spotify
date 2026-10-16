@@ -1,11 +1,19 @@
 {
-"updated": "2026-10-16T15:21:25.509056+02:00",
+"updated": "2026-10-16T15:32:25.510387+02:00",
 "matcher": 3,
 "blocked_until": null,
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAACzQ4lSth74C4j0UTkD2q8esWt3z07",
+"snapshot": "AAACz8zQbGIpQV33RzTicGUfh7/PEgXT",
 "playlist": [
+[
+"2026-10-16T15:22|Neal Francis|Hide",
+"spotify:track:197QlBcwTnJNU8DAf3BNLo"
+],
+[
+"2026-10-16T15:18|Rio Reiser|Alles Lüge",
+"spotify:track:2xGbCNQI0JNTQFwydbDHz7"
+],
 [
 "2026-10-16T15:09|Feist|1234",
 "spotify:track:3EjunV64KClOUVAY5bh1br"
@@ -692,6 +700,18 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-10-16T15:22|Neal Francis|Hide",
+"t": "2026-10-16T15:22:00+02:00",
+"artist": "Neal Francis",
+"title": "Hide"
+},
+{
+"id": "2026-10-16T15:18|Rio Reiser|Alles Lüge",
+"t": "2026-10-16T15:18:00+02:00",
+"artist": "Rio Reiser",
+"title": "Alles Lüge"
+},
 {
 "id": "2026-10-16T15:09|Feist|1234",
 "t": "2026-10-16T15:09:00+02:00",
@@ -2383,6 +2403,14 @@
 "feist|1234": {
 "u": "spotify:track:3EjunV64KClOUVAY5bh1br",
 "d": "2026-10-16T15:16:25.508529+02:00"
+},
+"neal francis|hide": {
+"u": "spotify:track:197QlBcwTnJNU8DAf3BNLo",
+"d": "2026-10-16T15:25:25.509610+02:00"
+},
+"rio reiser|alles luge": {
+"u": "spotify:track:2xGbCNQI0JNTQFwydbDHz7",
+"d": "2026-10-16T15:25:25.509610+02:00"
 }
 }
 }
