@@ -1,12 +1,16 @@
 {
-"updated": "2026-10-16T22:01:30.844308+02:00",
+"updated": "2026-10-16T22:12:30.845906+02:00",
 "matcher": 4,
 "blocked_until": null,
 "details": "51e4e36c2ea1",
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAADF7ZQHV05cByXI1ewUd3bd0D6aZVn",
+"snapshot": "AAADGo6BtPBHeKt4ENIGy8ODf7+hBU2I",
 "playlist": [
+[
+"2026-10-16T22:03|Michael Kiwanuka|Sing",
+"spotify:track:4dTf6qu0IVqLROkGCoM2yt"
+],
 [
 "2026-10-16T21:50|Fontaines D.C.|Where Is Gone (with Rosalia)",
 "spotify:track:6ZH1yeWUf3Xp2XO0EZk91i"
@@ -845,6 +849,12 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-10-16T22:03|Michael Kiwanuka|Sing",
+"t": "2026-10-16T22:03:00+02:00",
+"artist": "Michael Kiwanuka",
+"title": "Sing"
+},
 {
 "id": "2026-10-16T21:55|Fichtenholz|Akryl",
 "t": "2026-10-16T21:55:00+02:00",
@@ -2258,6 +2268,10 @@
 "fichtenholz|akryl": {
 "u": null,
 "d": "2026-10-16T22:01:30.844308+02:00"
+},
+"michael kiwanuka|sing": {
+"u": "spotify:track:4dTf6qu0IVqLROkGCoM2yt",
+"d": "2026-10-16T22:05:30.844914+02:00"
 }
 }
 }
