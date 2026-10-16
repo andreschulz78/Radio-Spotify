@@ -1,11 +1,19 @@
 {
-"updated": "2026-10-16T14:04:25.499162+02:00",
+"updated": "2026-10-16T14:15:25.500676+02:00",
 "matcher": 3,
 "blocked_until": null,
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAACtz/c8cPHYdcMTLyeDDAASvuNkoim",
+"snapshot": "AAACu67dwekwf3kiipvvF3SR0a8K+3S1",
 "playlist": [
+[
+"2026-10-16T14:10|Alison Moyet|Love Resurrection",
+"spotify:track:6ouOdKaCbfbRbjW1W9yZZQ"
+],
+[
+"2026-10-16T14:05|Tikhet|Burndowner",
+"spotify:track:76iRkapw7dHIlJhSoy7PCv"
+],
 [
 "2026-10-16T13:54|Yard Act|You're Gonna Need A Little Music",
 "spotify:track:43KS2LpjMVkvJdprLaoQxQ"
@@ -640,6 +648,18 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-10-16T14:10|Alison Moyet|Love Resurrection",
+"t": "2026-10-16T14:10:00+02:00",
+"artist": "Alison Moyet",
+"title": "Love Resurrection"
+},
+{
+"id": "2026-10-16T14:05|Tikhet|Burndowner",
+"t": "2026-10-16T14:05:00+02:00",
+"artist": "Tikhet",
+"title": "Burndowner"
+},
 {
 "id": "2026-10-16T13:54|Yard Act|You're Gonna Need A Little Music",
 "t": "2026-10-16T13:54:00+02:00",
@@ -2201,6 +2221,14 @@
 "mari froes|eu vou pro samba viu": {
 "u": "spotify:track:0ZirVpVEx943xdUD9bivHe",
 "d": "2026-10-16T13:56:25.497869+02:00"
+},
+"tikhet|burndowner": {
+"u": "spotify:track:76iRkapw7dHIlJhSoy7PCv",
+"d": "2026-10-16T14:11:25.500055+02:00"
+},
+"alison moyet|love resurrection": {
+"u": "spotify:track:6ouOdKaCbfbRbjW1W9yZZQ",
+"d": "2026-10-16T14:15:25.500676+02:00"
 }
 }
 }
