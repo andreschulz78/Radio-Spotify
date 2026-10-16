@@ -1,11 +1,23 @@
 {
-"updated": "2026-10-16T14:59:25.506399+02:00",
+"updated": "2026-10-16T15:10:25.507822+02:00",
 "matcher": 3,
 "blocked_until": null,
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAACxT792sMd7PmQou9Rm0fwg/IPhM/B",
+"snapshot": "AAACyxAK9rZspBLHuntcdh5mgPLxtUIy",
 "playlist": [
+[
+"2026-10-16T15:05|Get Well Soon|Siri, What Ruined The West ?",
+"spotify:track:3XY1xxFHeGHDDt33V6GoE2"
+],
+[
+"2026-10-16T14:57|John Maus|Because We Built It",
+"spotify:track:3Qv9irQWmhbYFKR13d0dJ5"
+],
+[
+"2026-10-16T14:54|Steve Lacy|Show You Me",
+"spotify:track:4f50UTC41M2Ah5itifSGE5"
+],
 [
 "2026-10-16T14:50|Lola Young|One Thing",
 "spotify:track:4x4pzInO5rUivQWMkWY56l"
@@ -676,6 +688,24 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-10-16T15:05|Get Well Soon|Siri, What Ruined The West ?",
+"t": "2026-10-16T15:05:00+02:00",
+"artist": "Get Well Soon",
+"title": "Siri, What Ruined The West ?"
+},
+{
+"id": "2026-10-16T14:57|John Maus|Because We Built It",
+"t": "2026-10-16T14:57:00+02:00",
+"artist": "John Maus",
+"title": "Because We Built It"
+},
+{
+"id": "2026-10-16T14:54|Steve Lacy|Show You Me",
+"t": "2026-10-16T14:54:00+02:00",
+"artist": "Steve Lacy",
+"title": "Show You Me"
+},
 {
 "id": "2026-10-16T14:50|Lola Young|One Thing",
 "t": "2026-10-16T14:50:00+02:00",
@@ -2327,6 +2357,18 @@
 "lola young|one thing": {
 "u": "spotify:track:4x4pzInO5rUivQWMkWY56l",
 "d": "2026-10-16T14:56:25.506035+02:00"
+},
+"steve lacy|show you me": {
+"u": "spotify:track:4f50UTC41M2Ah5itifSGE5",
+"d": "2026-10-16T15:02:25.506847+02:00"
+},
+"john maus|because we built it": {
+"u": "spotify:track:3Qv9irQWmhbYFKR13d0dJ5",
+"d": "2026-10-16T15:06:25.507288+02:00"
+},
+"get well soon|siri what ruined the west": {
+"u": "spotify:track:3XY1xxFHeGHDDt33V6GoE2",
+"d": "2026-10-16T15:10:25.507822+02:00"
 }
 }
 }
