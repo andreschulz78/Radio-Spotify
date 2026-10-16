@@ -1,11 +1,19 @@
 {
-"updated": "2026-10-16T10:26:25.471327+02:00",
+"updated": "2026-10-16T10:37:25.472922+02:00",
 "matcher": 3,
 "blocked_until": null,
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAACZ/JLt9UkMvv3JXldwif1VlHGS+a3",
+"snapshot": "AAACdmJXTviGS/XLpG940dNs+Ofmap0Q",
 "playlist": [
+[
+"2026-10-16T10:30|Boy Harsher|Tough Luck (When You Don't Call)",
+"spotify:track:2TyZQCEGojwynP4EWdPtwP"
+],
+[
+"2026-10-16T10:25|Dekker|Pick It Up, Put It Back",
+"spotify:track:0LhuToBNSlvYc4IwVJpYWH"
+],
 [
 "2026-10-16T10:19|Crash Test Dummies|Mmm Mmm Mmm Mmm",
 "spotify:track:76nvqWPFucUra1xCkN1tnD"
@@ -23,16 +31,108 @@
 "spotify:track:0bbPqdrMN94XmIlBQS21B3"
 ],
 [
+"2026-10-16T09:57|M|Pop Muzik",
+"spotify:track:7hCV6TW1OqL0UO4zzbNxT1"
+],
+[
+"2026-10-16T09:49|Phoebe Bridgers|Motion Sickness",
+"spotify:track:5xo8RrjJ9CVNrtRg2S3B1R"
+],
+[
+"2026-10-16T09:45|Yeasayer|O.N.E.",
+"spotify:track:7pDsJ09zkRr6A2KdLW6m9A"
+],
+[
+"2026-10-16T09:41|54 Ultra|Tell Me",
+"spotify:track:6iXIvHGsLMJ89TuW1S9E3C"
+],
+[
+"2026-10-16T09:34|Erobique & Jacques Palminger|Discoroller",
+"spotify:track:0ulXWUvcC4IKZOWyqZ7BfN"
+],
+[
+"2026-10-16T09:26|Gurr|She Says",
+"spotify:track:0Hb5NwLVSM02pLpUksLDtN"
+],
+[
+"2026-10-16T09:19|Buzzcocks|You say you don't love me",
+"spotify:track:3svwN7z2Gp8lm0QAlXGfXO"
+],
+[
 "2026-10-16T09:15|Django Django|Cameos",
 "spotify:track:6q1og9CkTnFTTYqOSN9ed3"
+],
+[
+"2026-10-16T09:06|Billie Eilish|Bad Guy",
+"spotify:track:1hewNsVmijBqjKvFRQfk4m"
+],
+[
+"2026-10-16T08:57|Weezer|Island In The Sun",
+"spotify:track:2QPGLd2gbEJ3WiQrFjbvTR"
 ],
 [
 "2026-10-16T08:50|Alexander IV & IYAMAH|About Us",
 "spotify:track:0c3tXpFKZilDSR3yAphPZt"
 ],
 [
+"2026-10-16T08:47|Superspace|Superspace Feeling (House Version)",
+"spotify:track:4gVlkx1BUOFnjqbhUNKrNC"
+],
+[
+"2026-10-16T08:43|Tessa Rose Jackson|Fear Bangs The Drum",
+"spotify:track:2iONUJDB9r4XZRwflcXpbR"
+],
+[
+"2026-10-16T08:35|Soulwax|Run Free (Radio Edit)",
+"spotify:track:6FpGarU82UbiZXyI7Dyh6M"
+],
+[
+"2026-10-16T08:18|Lloyd Cole & The Commotions|Perfect Skin",
+"spotify:track:4YnHY5YzUWMBY8fRLTooKC"
+],
+[
+"2026-10-16T08:13|Keshavara|Moondram Sevi",
+"spotify:track:0jpeIdUkge4S8dMS0nkZ6r"
+],
+[
+"2026-10-16T08:04|Travis|Walking In The Sun",
+"spotify:track:2Ca6NK93f4betnPpqTDYGC"
+],
+[
 "2026-10-16T07:55|Interpol|Iron City",
 "spotify:track:58N4hiH9cKYLkHEhzAdIP1"
+],
+[
+"2026-10-16T07:47|The Verve|Bitter Sweet Symphony (Radio Edit)",
+"spotify:track:0Dmao2oWlAZzIBX2Q1B5AH"
+],
+[
+"2026-10-16T07:41|The Strokes|Going Shopping",
+"spotify:track:18bHbpAKgsf8dor8F6qXHF"
+],
+[
+"2026-10-16T07:33|Olivia Dean|Man I Need",
+"spotify:track:3MLlxhJ7oGGBnUZwulNz1u"
+],
+[
+"2026-10-16T07:25|Serebii|Even In The Quiet",
+"spotify:track:5ZIYdecFkCGyT6Tbyk7rAq"
+],
+[
+"2026-10-16T07:17|Beginner|Gustav Gans",
+"spotify:track:5gOR97U90jW0lGtlQMYcab"
+],
+[
+"2026-10-16T07:14|Bat For Lashes|Home",
+"spotify:track:43PX3zDv42PbdzM126xKpH"
+],
+[
+"2026-10-16T07:05|Jim James|Come Again",
+"spotify:track:6S3Ao3HkuLpHffHWL8oRsz"
+],
+[
+"2026-10-16T06:56|Ciara Lea|Feel It",
+"spotify:track:2pgT2k8GEnq6ITpy3lVJmi"
 ],
 [
 "2026-10-16T06:50|Kevin Morby|PBJ (Edit)",
@@ -41,6 +141,34 @@
 [
 "2026-10-16T06:47|Mother Soki|Thicken",
 "spotify:track:1uQYHgPrjPBYG1d0D4RoTD"
+],
+[
+"2026-10-16T06:38|Fat Freddy’s Drop|Trickle Down",
+"spotify:track:0zGBVwsUYDsB70eip2CjDv"
+],
+[
+"2026-10-16T06:33|Antony Szmierek|Seminal (Edit)",
+"spotify:track:7JQpWD7MgXAwXuIPDFK8VS"
+],
+[
+"2026-10-16T06:26|The Beach Boys|God Only Knows",
+"spotify:track:6iGU74CwXuT4XVepjc9Emf"
+],
+[
+"2026-10-16T06:23|Belle & Sebastian|She's Losing It",
+"spotify:track:06xG2oejI6qt4MzUw44SUP"
+],
+[
+"2026-10-16T06:16|Gaz Coombes|Walk The Walk",
+"spotify:track:0gD6YmnQexNO8cXYduOSLC"
+],
+[
+"2026-10-16T06:11|Billy Nomates|Saboteur Forcefield",
+"spotify:track:4BOHAJgzfBZod9EI6ME2AJ"
+],
+[
+"2026-10-16T06:05|Nada Surf|Blankest Year",
+"spotify:track:1hv5cVQ0IOvR4S0H5JKrQo"
 ],
 [
 "2026-10-16T05:39|Jordan Rakei|Enemies",
@@ -340,6 +468,18 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-10-16T10:30|Boy Harsher|Tough Luck (When You Don't Call)",
+"t": "2026-10-16T10:30:00+02:00",
+"artist": "Boy Harsher",
+"title": "Tough Luck (When You Don't Call)"
+},
+{
+"id": "2026-10-16T10:25|Dekker|Pick It Up, Put It Back",
+"t": "2026-10-16T10:25:00+02:00",
+"artist": "Dekker",
+"title": "Pick It Up, Put It Back"
+},
 {
 "id": "2026-10-16T10:19|Crash Test Dummies|Mmm Mmm Mmm Mmm",
 "t": "2026-10-16T10:19:00+02:00",
@@ -1407,6 +1547,138 @@
 "sophie hunger|she makes president": {
 "u": "spotify:track:1Q4QAt3dezsqhVkcGpxNeH",
 "d": "2026-10-16T10:26:25.471327+02:00"
+},
+"m|pop muzik": {
+"u": "spotify:track:7hCV6TW1OqL0UO4zzbNxT1",
+"d": "2026-10-16T10:27:25.471505+02:00"
+},
+"phoebe bridgers|motion sickness": {
+"u": "spotify:track:5xo8RrjJ9CVNrtRg2S3B1R",
+"d": "2026-10-16T10:27:25.471505+02:00"
+},
+"yeasayer|o n e": {
+"u": "spotify:track:7pDsJ09zkRr6A2KdLW6m9A",
+"d": "2026-10-16T10:27:25.471505+02:00"
+},
+"54 ultra|tell me": {
+"u": "spotify:track:6iXIvHGsLMJ89TuW1S9E3C",
+"d": "2026-10-16T10:28:25.471616+02:00"
+},
+"erobique jacques palminger|discoroller": {
+"u": "spotify:track:0ulXWUvcC4IKZOWyqZ7BfN",
+"d": "2026-10-16T10:28:25.471616+02:00"
+},
+"gurr|she says": {
+"u": "spotify:track:0Hb5NwLVSM02pLpUksLDtN",
+"d": "2026-10-16T10:28:25.471616+02:00"
+},
+"buzzcocks|you say you don t love me": {
+"u": "spotify:track:3svwN7z2Gp8lm0QAlXGfXO",
+"d": "2026-10-16T10:29:25.471796+02:00"
+},
+"billie eilish|bad guy": {
+"u": "spotify:track:1hewNsVmijBqjKvFRQfk4m",
+"d": "2026-10-16T10:29:25.471796+02:00"
+},
+"weezer|island in the sun": {
+"u": "spotify:track:2QPGLd2gbEJ3WiQrFjbvTR",
+"d": "2026-10-16T10:29:25.471796+02:00"
+},
+"superspace|superspace feeling house version": {
+"u": "spotify:track:4gVlkx1BUOFnjqbhUNKrNC",
+"d": "2026-10-16T10:30:25.471939+02:00"
+},
+"tessa rose jackson|fear bangs the drum": {
+"u": "spotify:track:2iONUJDB9r4XZRwflcXpbR",
+"d": "2026-10-16T10:30:25.471939+02:00"
+},
+"soulwax|run free radio edit": {
+"u": "spotify:track:6FpGarU82UbiZXyI7Dyh6M",
+"d": "2026-10-16T10:30:25.471939+02:00"
+},
+"dekker|pick it up put it back": {
+"u": "spotify:track:0LhuToBNSlvYc4IwVJpYWH",
+"d": "2026-10-16T10:31:25.472102+02:00"
+},
+"tegan sara|back in your head": {
+"u": null,
+"d": "2026-10-16T10:31:25.472102+02:00"
+},
+"lloyd cole the commotions|perfect skin": {
+"u": "spotify:track:4YnHY5YzUWMBY8fRLTooKC",
+"d": "2026-10-16T10:31:25.472102+02:00"
+},
+"keshavara|moondram sevi": {
+"u": "spotify:track:0jpeIdUkge4S8dMS0nkZ6r",
+"d": "2026-10-16T10:32:25.472242+02:00"
+},
+"travis|walking in the sun": {
+"u": "spotify:track:2Ca6NK93f4betnPpqTDYGC",
+"d": "2026-10-16T10:32:25.472242+02:00"
+},
+"the verve|bitter sweet symphony radio edit": {
+"u": "spotify:track:0Dmao2oWlAZzIBX2Q1B5AH",
+"d": "2026-10-16T10:32:25.472242+02:00"
+},
+"the strokes|going shopping": {
+"u": "spotify:track:18bHbpAKgsf8dor8F6qXHF",
+"d": "2026-10-16T10:33:25.472384+02:00"
+},
+"olivia dean|man i need": {
+"u": "spotify:track:3MLlxhJ7oGGBnUZwulNz1u",
+"d": "2026-10-16T10:33:25.472384+02:00"
+},
+"serebii|even in the quiet": {
+"u": "spotify:track:5ZIYdecFkCGyT6Tbyk7rAq",
+"d": "2026-10-16T10:33:25.472384+02:00"
+},
+"beginner|gustav gans": {
+"u": "spotify:track:5gOR97U90jW0lGtlQMYcab",
+"d": "2026-10-16T10:34:25.472509+02:00"
+},
+"bat for lashes|home": {
+"u": "spotify:track:43PX3zDv42PbdzM126xKpH",
+"d": "2026-10-16T10:34:25.472509+02:00"
+},
+"jim james|come again": {
+"u": "spotify:track:6S3Ao3HkuLpHffHWL8oRsz",
+"d": "2026-10-16T10:34:25.472509+02:00"
+},
+"boy harsher|tough luck when you don t call": {
+"u": "spotify:track:2TyZQCEGojwynP4EWdPtwP",
+"d": "2026-10-16T10:35:25.472648+02:00"
+},
+"ciara lea|feel it": {
+"u": "spotify:track:2pgT2k8GEnq6ITpy3lVJmi",
+"d": "2026-10-16T10:35:25.472648+02:00"
+},
+"fat freddy s drop|trickle down": {
+"u": "spotify:track:0zGBVwsUYDsB70eip2CjDv",
+"d": "2026-10-16T10:35:25.472648+02:00"
+},
+"antony szmierek|seminal edit": {
+"u": "spotify:track:7JQpWD7MgXAwXuIPDFK8VS",
+"d": "2026-10-16T10:36:25.472797+02:00"
+},
+"the beach boys|god only knows": {
+"u": "spotify:track:6iGU74CwXuT4XVepjc9Emf",
+"d": "2026-10-16T10:36:25.472797+02:00"
+},
+"belle sebastian|she s losing it": {
+"u": "spotify:track:06xG2oejI6qt4MzUw44SUP",
+"d": "2026-10-16T10:36:25.472797+02:00"
+},
+"gaz coombes|walk the walk": {
+"u": "spotify:track:0gD6YmnQexNO8cXYduOSLC",
+"d": "2026-10-16T10:37:25.472922+02:00"
+},
+"billy nomates|saboteur forcefield": {
+"u": "spotify:track:4BOHAJgzfBZod9EI6ME2AJ",
+"d": "2026-10-16T10:37:25.472922+02:00"
+},
+"nada surf|blankest year": {
+"u": "spotify:track:1hv5cVQ0IOvR4S0H5JKrQo",
+"d": "2026-10-16T10:37:25.472922+02:00"
 }
 }
 }
