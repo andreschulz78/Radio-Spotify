@@ -1,12 +1,16 @@
 {
-"updated": "2026-10-16T20:56:30.834594+02:00",
+"updated": "2026-10-16T21:07:30.836086+02:00",
 "matcher": 4,
 "blocked_until": null,
 "details": "51e4e36c2ea1",
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAC/6GbrtnLMOhcyIv05dSyopW7WhPc",
+"snapshot": "AAADAsy8DtcW8rbxQ/+UKCLbDMjrxk0P",
 "playlist": [
+[
+"2026-10-16T20:56|Baxter Dury|I'm Not Your Dog",
+"spotify:track:0akzU7VdwCaGjDWZnvK1G1"
+],
 [
 "2026-10-16T20:53|Sparkling & COMA|It Won't Be Like This Forever",
 "spotify:track:1w6NksiUfe5WNa5wZAJXYO"
@@ -813,6 +817,12 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-10-16T20:56|Baxter Dury|I'm Not Your Dog",
+"t": "2026-10-16T20:56:00+02:00",
+"artist": "Baxter Dury",
+"title": "I'm Not Your Dog"
+},
 {
 "id": "2026-10-16T20:53|Sparkling & COMA|It Won't Be Like This Forever",
 "t": "2026-10-16T20:53:00+02:00",
@@ -2136,6 +2146,10 @@
 "sparkling coma|it won t be like this forever": {
 "u": "spotify:track:1w6NksiUfe5WNa5wZAJXYO",
 "d": "2026-10-16T20:56:30.834594+02:00"
+},
+"baxter dury|i m not your dog": {
+"u": "spotify:track:0akzU7VdwCaGjDWZnvK1G1",
+"d": "2026-10-16T21:00:30.835137+02:00"
 }
 }
 }
