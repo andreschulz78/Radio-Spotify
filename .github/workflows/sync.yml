@@ -34,6 +34,8 @@ jobs:
         env:
           RADIO_URL: ${{ secrets.RADIO_URL }}
           RADIO_TITLE_PREFIX: ${{ secrets.RADIO_TITLE_PREFIX }}
+          RADIO_PLAYLIST_NAME: ${{ secrets.RADIO_PLAYLIST_NAME }}
+          RADIO_PLAYLIST_DESC: ${{ secrets.RADIO_PLAYLIST_DESC }}
           SPOTIFY_CLIENT_ID: ${{ secrets.SPOTIFY_CLIENT_ID }}
           SPOTIFY_CLIENT_SECRET: ${{ secrets.SPOTIFY_CLIENT_SECRET }}
           SPOTIFY_REFRESH_TOKEN: ${{ secrets.SPOTIFY_REFRESH_TOKEN }}
