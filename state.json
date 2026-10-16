@@ -1,12 +1,20 @@
 {
-"updated": "2026-10-16T19:51:30.825309+02:00",
+"updated": "2026-10-16T20:02:30.826893+02:00",
 "matcher": 4,
 "blocked_until": null,
 "details": "51e4e36c2ea1",
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAC8S9gK2pBmzDi7FwNtnGxUn1Bn/2B",
+"snapshot": "AAAC9Uccgst9ZTN23gA9XsrWC37D5C+v",
 "playlist": [
+[
+"2026-10-16T19:55|New Order|Krafty",
+"spotify:track:0tlHS1hqbezqx1ucn1hSMh"
+],
+[
+"2026-10-16T19:51|Inner City|Good Life",
+"spotify:track:5sJiLlgQKBL81QCTOkoLB5"
+],
 [
 "2026-10-16T19:30|Alewya|Cairo FM",
 "spotify:track:6v7hCIRoJkuYShT0wls1gD"
@@ -781,6 +789,18 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-10-16T19:55|New Order|Krafty",
+"t": "2026-10-16T19:55:00+02:00",
+"artist": "New Order",
+"title": "Krafty"
+},
+{
+"id": "2026-10-16T19:51|Inner City|Good Life",
+"t": "2026-10-16T19:51:00+02:00",
+"artist": "Inner City",
+"title": "Good Life"
+},
 {
 "id": "2026-10-16T19:30|Alewya|Cairo FM",
 "t": "2026-10-16T19:30:00+02:00",
@@ -2024,6 +2044,14 @@
 "alewya|cairo fm": {
 "u": "spotify:track:6v7hCIRoJkuYShT0wls1gD",
 "d": "2026-10-16T19:35:30.823020+02:00"
+},
+"inner city|good life": {
+"u": "spotify:track:5sJiLlgQKBL81QCTOkoLB5",
+"d": "2026-10-16T19:56:30.826031+02:00"
+},
+"new order|krafty": {
+"u": "spotify:track:0tlHS1hqbezqx1ucn1hSMh",
+"d": "2026-10-16T20:02:30.826893+02:00"
 }
 }
 }
