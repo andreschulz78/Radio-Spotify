@@ -1,11 +1,51 @@
 {
-"updated": "2026-10-16T04:45:09.895914+02:00",
+"updated": "2026-10-16T10:26:25.471327+02:00",
 "matcher": 3,
 "blocked_until": null,
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAACZRX50E3R3cYy9YyzSaSjWx0/HBTC",
+"snapshot": "AAACZ/JLt9UkMvv3JXldwif1VlHGS+a3",
 "playlist": [
+[
+"2026-10-16T10:19|Crash Test Dummies|Mmm Mmm Mmm Mmm",
+"spotify:track:76nvqWPFucUra1xCkN1tnD"
+],
+[
+"2026-10-16T10:16|Superpunk|In der Bibliothek (CD 5 Die Seele des Menschen unter Superpunk)",
+"spotify:track:5ZQAMhUPRlTwSvjv7Osoqe"
+],
+[
+"2026-10-16T10:10|Sophie Hunger|She Makes President",
+"spotify:track:1Q4QAt3dezsqhVkcGpxNeH"
+],
+[
+"2026-10-16T10:05|Kaktus Einarsson feat. John Grant|Follow",
+"spotify:track:0bbPqdrMN94XmIlBQS21B3"
+],
+[
+"2026-10-16T09:15|Django Django|Cameos",
+"spotify:track:6q1og9CkTnFTTYqOSN9ed3"
+],
+[
+"2026-10-16T08:50|Alexander IV & IYAMAH|About Us",
+"spotify:track:0c3tXpFKZilDSR3yAphPZt"
+],
+[
+"2026-10-16T07:55|Interpol|Iron City",
+"spotify:track:58N4hiH9cKYLkHEhzAdIP1"
+],
+[
+"2026-10-16T06:50|Kevin Morby|PBJ (Edit)",
+"spotify:track:5rjtzSA5VBWg7zmuOGg5Dz"
+],
+[
+"2026-10-16T06:47|Mother Soki|Thicken",
+"spotify:track:1uQYHgPrjPBYG1d0D4RoTD"
+],
+[
+"2026-10-16T05:39|Jordan Rakei|Enemies",
+"spotify:track:0X9GwAax0c0HPe3iIoDVW6"
+],
 [
 "2026-10-15T20:43|Jamiroquai|Virtual Insanity",
 "spotify:track:4UQDZlZhGUDoYMohwrY28v"
@@ -300,6 +340,330 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-10-16T10:19|Crash Test Dummies|Mmm Mmm Mmm Mmm",
+"t": "2026-10-16T10:19:00+02:00",
+"artist": "Crash Test Dummies",
+"title": "Mmm Mmm Mmm Mmm"
+},
+{
+"id": "2026-10-16T10:16|Superpunk|In der Bibliothek (CD 5 Die Seele des Menschen unter Superpunk)",
+"t": "2026-10-16T10:16:00+02:00",
+"artist": "Superpunk",
+"title": "In der Bibliothek (CD 5 Die Seele des Menschen unter Superpunk)"
+},
+{
+"id": "2026-10-16T10:10|Sophie Hunger|She Makes President",
+"t": "2026-10-16T10:10:00+02:00",
+"artist": "Sophie Hunger",
+"title": "She Makes President"
+},
+{
+"id": "2026-10-16T10:05|Kaktus Einarsson feat. John Grant|Follow",
+"t": "2026-10-16T10:05:00+02:00",
+"artist": "Kaktus Einarsson feat. John Grant",
+"title": "Follow"
+},
+{
+"id": "2026-10-16T09:57|M|Pop Muzik",
+"t": "2026-10-16T09:57:00+02:00",
+"artist": "M",
+"title": "Pop Muzik"
+},
+{
+"id": "2026-10-16T09:49|Phoebe Bridgers|Motion Sickness",
+"t": "2026-10-16T09:49:00+02:00",
+"artist": "Phoebe Bridgers",
+"title": "Motion Sickness"
+},
+{
+"id": "2026-10-16T09:45|Yeasayer|O.N.E.",
+"t": "2026-10-16T09:45:00+02:00",
+"artist": "Yeasayer",
+"title": "O.N.E."
+},
+{
+"id": "2026-10-16T09:41|54 Ultra|Tell Me",
+"t": "2026-10-16T09:41:00+02:00",
+"artist": "54 Ultra",
+"title": "Tell Me"
+},
+{
+"id": "2026-10-16T09:34|Erobique & Jacques Palminger|Discoroller",
+"t": "2026-10-16T09:34:00+02:00",
+"artist": "Erobique & Jacques Palminger",
+"title": "Discoroller"
+},
+{
+"id": "2026-10-16T09:26|Gurr|She Says",
+"t": "2026-10-16T09:26:00+02:00",
+"artist": "Gurr",
+"title": "She Says"
+},
+{
+"id": "2026-10-16T09:19|Buzzcocks|You say you don't love me",
+"t": "2026-10-16T09:19:00+02:00",
+"artist": "Buzzcocks",
+"title": "You say you don't love me"
+},
+{
+"id": "2026-10-16T09:15|Django Django|Cameos",
+"t": "2026-10-16T09:15:00+02:00",
+"artist": "Django Django",
+"title": "Cameos"
+},
+{
+"id": "2026-10-16T09:06|Billie Eilish|Bad Guy",
+"t": "2026-10-16T09:06:00+02:00",
+"artist": "Billie Eilish",
+"title": "Bad Guy"
+},
+{
+"id": "2026-10-16T08:57|Weezer|Island In The Sun",
+"t": "2026-10-16T08:57:00+02:00",
+"artist": "Weezer",
+"title": "Island In The Sun"
+},
+{
+"id": "2026-10-16T08:50|Alexander IV & IYAMAH|About Us",
+"t": "2026-10-16T08:50:00+02:00",
+"artist": "Alexander IV & IYAMAH",
+"title": "About Us"
+},
+{
+"id": "2026-10-16T08:47|Superspace|Superspace Feeling (House Version)",
+"t": "2026-10-16T08:47:00+02:00",
+"artist": "Superspace",
+"title": "Superspace Feeling (House Version)"
+},
+{
+"id": "2026-10-16T08:43|Tessa Rose Jackson|Fear Bangs The Drum",
+"t": "2026-10-16T08:43:00+02:00",
+"artist": "Tessa Rose Jackson",
+"title": "Fear Bangs The Drum"
+},
+{
+"id": "2026-10-16T08:35|Soulwax|Run Free (Radio Edit)",
+"t": "2026-10-16T08:35:00+02:00",
+"artist": "Soulwax",
+"title": "Run Free (Radio Edit)"
+},
+{
+"id": "2026-10-16T08:25|Tegan & Sara|Back In Your Head",
+"t": "2026-10-16T08:25:00+02:00",
+"artist": "Tegan & Sara",
+"title": "Back In Your Head"
+},
+{
+"id": "2026-10-16T08:18|Lloyd Cole & The Commotions|Perfect Skin",
+"t": "2026-10-16T08:18:00+02:00",
+"artist": "Lloyd Cole & The Commotions",
+"title": "Perfect Skin"
+},
+{
+"id": "2026-10-16T08:13|Keshavara|Moondram Sevi",
+"t": "2026-10-16T08:13:00+02:00",
+"artist": "Keshavara",
+"title": "Moondram Sevi"
+},
+{
+"id": "2026-10-16T08:04|Travis|Walking In The Sun",
+"t": "2026-10-16T08:04:00+02:00",
+"artist": "Travis",
+"title": "Walking In The Sun"
+},
+{
+"id": "2026-10-16T07:55|Interpol|Iron City",
+"t": "2026-10-16T07:55:00+02:00",
+"artist": "Interpol",
+"title": "Iron City"
+},
+{
+"id": "2026-10-16T07:47|The Verve|Bitter Sweet Symphony (Radio Edit)",
+"t": "2026-10-16T07:47:00+02:00",
+"artist": "The Verve",
+"title": "Bitter Sweet Symphony (Radio Edit)"
+},
+{
+"id": "2026-10-16T07:41|The Strokes|Going Shopping",
+"t": "2026-10-16T07:41:00+02:00",
+"artist": "The Strokes",
+"title": "Going Shopping"
+},
+{
+"id": "2026-10-16T07:33|Olivia Dean|Man I Need",
+"t": "2026-10-16T07:33:00+02:00",
+"artist": "Olivia Dean",
+"title": "Man I Need"
+},
+{
+"id": "2026-10-16T07:25|Serebii|Even In The Quiet",
+"t": "2026-10-16T07:25:00+02:00",
+"artist": "Serebii",
+"title": "Even In The Quiet"
+},
+{
+"id": "2026-10-16T07:17|Beginner|Gustav Gans",
+"t": "2026-10-16T07:17:00+02:00",
+"artist": "Beginner",
+"title": "Gustav Gans"
+},
+{
+"id": "2026-10-16T07:14|Bat For Lashes|Home",
+"t": "2026-10-16T07:14:00+02:00",
+"artist": "Bat For Lashes",
+"title": "Home"
+},
+{
+"id": "2026-10-16T07:05|Jim James|Come Again",
+"t": "2026-10-16T07:05:00+02:00",
+"artist": "Jim James",
+"title": "Come Again"
+},
+{
+"id": "2026-10-16T06:56|Ciara Lea|Feel It",
+"t": "2026-10-16T06:56:00+02:00",
+"artist": "Ciara Lea",
+"title": "Feel It"
+},
+{
+"id": "2026-10-16T06:50|Kevin Morby|PBJ (Edit)",
+"t": "2026-10-16T06:50:00+02:00",
+"artist": "Kevin Morby",
+"title": "PBJ (Edit)"
+},
+{
+"id": "2026-10-16T06:47|Mother Soki|Thicken",
+"t": "2026-10-16T06:47:00+02:00",
+"artist": "Mother Soki",
+"title": "Thicken"
+},
+{
+"id": "2026-10-16T06:38|Fat Freddy’s Drop|Trickle Down",
+"t": "2026-10-16T06:38:00+02:00",
+"artist": "Fat Freddy’s Drop",
+"title": "Trickle Down"
+},
+{
+"id": "2026-10-16T06:33|Antony Szmierek|Seminal (Edit)",
+"t": "2026-10-16T06:33:00+02:00",
+"artist": "Antony Szmierek",
+"title": "Seminal (Edit)"
+},
+{
+"id": "2026-10-16T06:26|The Beach Boys|God Only Knows",
+"t": "2026-10-16T06:26:00+02:00",
+"artist": "The Beach Boys",
+"title": "God Only Knows"
+},
+{
+"id": "2026-10-16T06:23|Belle & Sebastian|She's Losing It",
+"t": "2026-10-16T06:23:00+02:00",
+"artist": "Belle & Sebastian",
+"title": "She's Losing It"
+},
+{
+"id": "2026-10-16T06:16|Gaz Coombes|Walk The Walk",
+"t": "2026-10-16T06:16:00+02:00",
+"artist": "Gaz Coombes",
+"title": "Walk The Walk"
+},
+{
+"id": "2026-10-16T06:11|Billy Nomates|Saboteur Forcefield",
+"t": "2026-10-16T06:11:00+02:00",
+"artist": "Billy Nomates",
+"title": "Saboteur Forcefield"
+},
+{
+"id": "2026-10-16T06:05|Nada Surf|Blankest Year",
+"t": "2026-10-16T06:05:00+02:00",
+"artist": "Nada Surf",
+"title": "Blankest Year"
+},
+{
+"id": "2026-10-16T05:56|Σtella|Belinda",
+"t": "2026-10-16T05:56:00+02:00",
+"artist": "Σtella",
+"title": "Belinda"
+},
+{
+"id": "2026-10-16T05:52|Benny Sings|Pyjamas",
+"t": "2026-10-16T05:52:00+02:00",
+"artist": "Benny Sings",
+"title": "Pyjamas"
+},
+{
+"id": "2026-10-16T05:48|Thievery Corporation|All That We Perceive",
+"t": "2026-10-16T05:48:00+02:00",
+"artist": "Thievery Corporation",
+"title": "All That We Perceive"
+},
+{
+"id": "2026-10-16T05:42|Wanda|Columbo",
+"t": "2026-10-16T05:42:00+02:00",
+"artist": "Wanda",
+"title": "Columbo"
+},
+{
+"id": "2026-10-16T05:39|Jordan Rakei|Enemies",
+"t": "2026-10-16T05:39:00+02:00",
+"artist": "Jordan Rakei",
+"title": "Enemies"
+},
+{
+"id": "2026-10-16T05:36|United Balls|Pogo in Togo",
+"t": "2026-10-16T05:36:00+02:00",
+"artist": "United Balls",
+"title": "Pogo in Togo"
+},
+{
+"id": "2026-10-16T05:31|Hiss Golden Messenger|Standing In The Doorway",
+"t": "2026-10-16T05:31:00+02:00",
+"artist": "Hiss Golden Messenger",
+"title": "Standing In The Doorway"
+},
+{
+"id": "2026-10-16T05:26|Joy Crookes feat. Jafaris|Early",
+"t": "2026-10-16T05:26:00+02:00",
+"artist": "Joy Crookes feat. Jafaris",
+"title": "Early"
+},
+{
+"id": "2026-10-16T05:24|Tank And The Bangas|Ain’t That Deep",
+"t": "2026-10-16T05:24:00+02:00",
+"artist": "Tank And The Bangas",
+"title": "Ain’t That Deep"
+},
+{
+"id": "2026-10-16T05:19|The Kinks|Nothin’ in the World Can Stop Me Worryin’ ’Bout That Girl",
+"t": "2026-10-16T05:19:00+02:00",
+"artist": "The Kinks",
+"title": "Nothin’ in the World Can Stop Me Worryin’ ’Bout That Girl"
+},
+{
+"id": "2026-10-16T05:15|Kitty Solaris|James Bond (Edit)",
+"t": "2026-10-16T05:15:00+02:00",
+"artist": "Kitty Solaris",
+"title": "James Bond (Edit)"
+},
+{
+"id": "2026-10-16T05:09|Moby feat. Jennifer Price|In This World",
+"t": "2026-10-16T05:09:00+02:00",
+"artist": "Moby feat. Jennifer Price",
+"title": "In This World"
+},
+{
+"id": "2026-10-16T05:06|Fleet Foxes|He Doesn't Know Why",
+"t": "2026-10-16T05:06:00+02:00",
+"artist": "Fleet Foxes",
+"title": "He Doesn't Know Why"
+},
+{
+"id": "2026-10-16T05:03|Sepalot|My Own Way",
+"t": "2026-10-16T05:03:00+02:00",
+"artist": "Sepalot",
+"title": "My Own Way"
+},
 {
 "id": "2026-10-15T20:43|Jamiroquai|Virtual Insanity",
 "t": "2026-10-15T20:43:00+02:00",
@@ -1031,6 +1395,18 @@
 "jamie t|power over men": {
 "u": "spotify:track:4YYbZODiJA7j53777zUjFj",
 "d": "2026-10-15T23:14:09.858769+02:00"
+},
+"crash test dummies|mmm mmm mmm mmm": {
+"u": "spotify:track:76nvqWPFucUra1xCkN1tnD",
+"d": "2026-10-16T10:26:25.471327+02:00"
+},
+"superpunk|in der bibliothek cd 5 die seele des menschen unter superpunk": {
+"u": "spotify:track:5ZQAMhUPRlTwSvjv7Osoqe",
+"d": "2026-10-16T10:26:25.471327+02:00"
+},
+"sophie hunger|she makes president": {
+"u": "spotify:track:1Q4QAt3dezsqhVkcGpxNeH",
+"d": "2026-10-16T10:26:25.471327+02:00"
 }
 }
 }
