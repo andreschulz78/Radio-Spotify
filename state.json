@@ -1,11 +1,19 @@
 {
-"updated": "2026-10-16T14:15:25.500676+02:00",
+"updated": "2026-10-16T14:26:25.502059+02:00",
 "matcher": 3,
 "blocked_until": null,
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAACu67dwekwf3kiipvvF3SR0a8K+3S1",
+"snapshot": "AAACvcYeaCincBmLYh6PBOsWzNUZ7FHo",
 "playlist": [
+[
+"2026-10-16T14:23|Ibeyi|Hurry Hurry",
+"spotify:track:4BGA7VW330Eu1kaFNi98cG"
+],
+[
+"2026-10-16T14:20|Depeche Mode|Wagging Tongue",
+"spotify:track:5g2GhW0Xdc0HHwUCaKkmRQ"
+],
 [
 "2026-10-16T14:10|Alison Moyet|Love Resurrection",
 "spotify:track:6ouOdKaCbfbRbjW1W9yZZQ"
@@ -648,6 +656,18 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-10-16T14:23|Ibeyi|Hurry Hurry",
+"t": "2026-10-16T14:23:00+02:00",
+"artist": "Ibeyi",
+"title": "Hurry Hurry"
+},
+{
+"id": "2026-10-16T14:20|Depeche Mode|Wagging Tongue",
+"t": "2026-10-16T14:20:00+02:00",
+"artist": "Depeche Mode",
+"title": "Wagging Tongue"
+},
 {
 "id": "2026-10-16T14:10|Alison Moyet|Love Resurrection",
 "t": "2026-10-16T14:10:00+02:00",
@@ -2229,6 +2249,14 @@
 "alison moyet|love resurrection": {
 "u": "spotify:track:6ouOdKaCbfbRbjW1W9yZZQ",
 "d": "2026-10-16T14:15:25.500676+02:00"
+},
+"ibeyi|hurry hurry": {
+"u": "spotify:track:4BGA7VW330Eu1kaFNi98cG",
+"d": "2026-10-16T14:25:25.501936+02:00"
+},
+"depeche mode|wagging tongue": {
+"u": "spotify:track:5g2GhW0Xdc0HHwUCaKkmRQ",
+"d": "2026-10-16T14:25:25.501936+02:00"
 }
 }
 }
