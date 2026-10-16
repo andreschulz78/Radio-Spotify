@@ -1,11 +1,23 @@
 {
-"updated": "2026-10-16T11:32:25.479847+02:00",
+"updated": "2026-10-16T11:43:25.481265+02:00",
 "matcher": 3,
 "blocked_until": null,
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAACiwPnS2cue6jDHiPgvjE7zSwUpukD",
+"snapshot": "AAACj/lpceloE5d2+S9aDa5wB7/sBlrL",
 "playlist": [
+[
+"2026-10-16T11:36|Moonlight Breakfast|If Not Now, Then When?!",
+"spotify:track:7rqjXsHITwfxR5XoKIGsaJ"
+],
+[
+"2026-10-16T11:31|Blumfeld|Verstärker (Edit)",
+"spotify:track:1YXqPvCnLIJMlpenH9y25L"
+],
+[
+"2026-10-16T11:27|Wet Leg|Wet Dream",
+"spotify:track:260Ub1Yuj4CobdISTOBvM9"
+],
 [
 "2026-10-16T11:21|Neneh Cherry|Buffalo Stance (Edit)",
 "spotify:track:3XWgwgbWDI56mf1Wl3cLzb"
@@ -544,6 +556,24 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-10-16T11:36|Moonlight Breakfast|If Not Now, Then When?!",
+"t": "2026-10-16T11:36:00+02:00",
+"artist": "Moonlight Breakfast",
+"title": "If Not Now, Then When?!"
+},
+{
+"id": "2026-10-16T11:31|Blumfeld|Verstärker (Edit)",
+"t": "2026-10-16T11:31:00+02:00",
+"artist": "Blumfeld",
+"title": "Verstärker (Edit)"
+},
+{
+"id": "2026-10-16T11:27|Wet Leg|Wet Dream",
+"t": "2026-10-16T11:27:00+02:00",
+"artist": "Wet Leg",
+"title": "Wet Dream"
+},
 {
 "id": "2026-10-16T11:21|Neneh Cherry|Buffalo Stance (Edit)",
 "t": "2026-10-16T11:21:00+02:00",
@@ -1877,6 +1907,18 @@
 "neneh cherry|buffalo stance edit": {
 "u": "spotify:track:3XWgwgbWDI56mf1Wl3cLzb",
 "d": "2026-10-16T11:25:25.478995+02:00"
+},
+"blumfeld|verstarker edit": {
+"u": "spotify:track:1YXqPvCnLIJMlpenH9y25L",
+"d": "2026-10-16T11:35:25.480204+02:00"
+},
+"wet leg|wet dream": {
+"u": "spotify:track:260Ub1Yuj4CobdISTOBvM9",
+"d": "2026-10-16T11:35:25.480204+02:00"
+},
+"moonlight breakfast|if not now then when": {
+"u": "spotify:track:7rqjXsHITwfxR5XoKIGsaJ",
+"d": "2026-10-16T11:41:25.480983+02:00"
 }
 }
 }
