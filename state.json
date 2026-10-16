@@ -1,11 +1,15 @@
 {
-"updated": "2026-10-16T11:43:25.481265+02:00",
+"updated": "2026-10-16T11:54:25.482620+02:00",
 "matcher": 3,
 "blocked_until": null,
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAACj/lpceloE5d2+S9aDa5wB7/sBlrL",
+"snapshot": "AAACkcnB3quelQtQdv5J9FbI1rSxFrAo",
 "playlist": [
+[
+"2026-10-16T11:46|The Chemical Brothers & Beck|Wide Open",
+"spotify:track:702bgtK1RC080O8pozq94S"
+],
 [
 "2026-10-16T11:36|Moonlight Breakfast|If Not Now, Then When?!",
 "spotify:track:7rqjXsHITwfxR5XoKIGsaJ"
@@ -556,6 +560,12 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-10-16T11:46|The Chemical Brothers & Beck|Wide Open",
+"t": "2026-10-16T11:46:00+02:00",
+"artist": "The Chemical Brothers & Beck",
+"title": "Wide Open"
+},
 {
 "id": "2026-10-16T11:36|Moonlight Breakfast|If Not Now, Then When?!",
 "t": "2026-10-16T11:36:00+02:00",
@@ -1919,6 +1929,10 @@
 "moonlight breakfast|if not now then when": {
 "u": "spotify:track:7rqjXsHITwfxR5XoKIGsaJ",
 "d": "2026-10-16T11:41:25.480983+02:00"
+},
+"the chemical brothers beck|wide open": {
+"u": "spotify:track:702bgtK1RC080O8pozq94S",
+"d": "2026-10-16T11:51:25.482325+02:00"
 }
 }
 }
