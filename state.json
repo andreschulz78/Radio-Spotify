@@ -1,12 +1,16 @@
 {
-"updated": "2026-10-16T19:07:30.819176+02:00",
+"updated": "2026-10-16T19:18:30.820689+02:00",
 "matcher": 4,
 "blocked_until": null,
 "details": "51e4e36c2ea1",
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAC6+koCN+J30T6as4vbM082dQ5ZPr5",
+"snapshot": "AAAC7f/Ve83Lc4dZYqdrovygEl3KDJUZ",
 "playlist": [
+[
+"2026-10-16T19:05|Ghost Woman|The End of a Gun",
+"spotify:track:0cow9NyrQyJvaFxmnWGyQq"
+],
 [
 "2026-10-16T18:57|Jonathan Jeremiah|Kolkata Bear",
 "spotify:track:6GVyNJOivLDoFeQ6hhttwb"
@@ -769,6 +773,12 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-10-16T19:05|Ghost Woman|The End of a Gun",
+"t": "2026-10-16T19:05:00+02:00",
+"artist": "Ghost Woman",
+"title": "The End of a Gun"
+},
 {
 "id": "2026-10-16T18:57|Jonathan Jeremiah|Kolkata Bear",
 "t": "2026-10-16T18:57:00+02:00",
@@ -1982,6 +1992,10 @@
 "jonathan jeremiah|kolkata bear": {
 "u": "spotify:track:6GVyNJOivLDoFeQ6hhttwb",
 "d": "2026-10-16T19:05:30.818847+02:00"
+},
+"ghost woman|the end of a gun": {
+"u": "spotify:track:0cow9NyrQyJvaFxmnWGyQq",
+"d": "2026-10-16T19:10:30.819571+02:00"
 }
 }
 }
