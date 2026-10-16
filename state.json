@@ -1,12 +1,20 @@
 {
-"updated": "2026-10-16T21:07:30.836086+02:00",
+"updated": "2026-10-16T21:18:30.837689+02:00",
 "matcher": 4,
 "blocked_until": null,
 "details": "51e4e36c2ea1",
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAADAsy8DtcW8rbxQ/+UKCLbDMjrxk0P",
+"snapshot": "AAADCKy9KxoYukTFLuH0+nlQ7uuV4QLI",
 "playlist": [
+[
+"2026-10-16T21:13|Rachel Chinouriri|One Song Away From Crying",
+"spotify:track:7EzqmGOTlrzy1NxZRjeuVV"
+],
+[
+"2026-10-16T21:05|Felice County Fair, Phoebe Bridgers|Life In The Dark",
+"spotify:track:3nPe8kguVhPkgApTQrxC71"
+],
 [
 "2026-10-16T20:56|Baxter Dury|I'm Not Your Dog",
 "spotify:track:0akzU7VdwCaGjDWZnvK1G1"
@@ -817,6 +825,18 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-10-16T21:13|Rachel Chinouriri|One Song Away From Crying",
+"t": "2026-10-16T21:13:00+02:00",
+"artist": "Rachel Chinouriri",
+"title": "One Song Away From Crying"
+},
+{
+"id": "2026-10-16T21:05|Felice County Fair, Phoebe Bridgers|Life In The Dark",
+"t": "2026-10-16T21:05:00+02:00",
+"artist": "Felice County Fair, Phoebe Bridgers",
+"title": "Life In The Dark"
+},
 {
 "id": "2026-10-16T20:56|Baxter Dury|I'm Not Your Dog",
 "t": "2026-10-16T20:56:00+02:00",
@@ -2150,6 +2170,14 @@
 "baxter dury|i m not your dog": {
 "u": "spotify:track:0akzU7VdwCaGjDWZnvK1G1",
 "d": "2026-10-16T21:00:30.835137+02:00"
+},
+"felice county fair phoebe bridgers|life in the dark": {
+"u": "spotify:track:3nPe8kguVhPkgApTQrxC71",
+"d": "2026-10-16T21:11:30.836618+02:00"
+},
+"rachel chinouriri|one song away from crying": {
+"u": "spotify:track:7EzqmGOTlrzy1NxZRjeuVV",
+"d": "2026-10-16T21:15:30.837241+02:00"
 }
 }
 }
