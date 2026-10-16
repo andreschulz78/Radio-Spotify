@@ -1,11 +1,19 @@
 {
-"updated": "2026-10-16T12:59:25.490955+02:00",
+"updated": "2026-10-16T13:10:25.492305+02:00",
 "matcher": 3,
 "blocked_until": null,
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAACoR0WGMwEgprqEy6kpgbDkzv1tQUa",
+"snapshot": "AAACpXJYgTaHc8epeFoXXBa3S7hS9zjI",
 "playlist": [
+[
+"2026-10-16T13:05|Just Jack|Starz In Their Eyes",
+"spotify:track:59j7J5LKoEKJVfdLWQWtmH"
+],
+[
+"2026-10-16T12:58|Liam Lynch|United States Of Whatever",
+"spotify:track:6Jub05dvpbF4Im83NqMCUg"
+],
 [
 "2026-10-16T12:50|Tracy Chapman|Telling Stories",
 "spotify:track:3AGByugnI0dN0Di08NPh5n"
@@ -596,6 +604,18 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-10-16T13:05|Just Jack|Starz In Their Eyes",
+"t": "2026-10-16T13:05:00+02:00",
+"artist": "Just Jack",
+"title": "Starz In Their Eyes"
+},
+{
+"id": "2026-10-16T12:58|Liam Lynch|United States Of Whatever",
+"t": "2026-10-16T12:58:00+02:00",
+"artist": "Liam Lynch",
+"title": "United States Of Whatever"
+},
 {
 "id": "2026-10-16T12:50|Tracy Chapman|Telling Stories",
 "t": "2026-10-16T12:50:00+02:00",
@@ -2051,6 +2071,14 @@
 "tracy chapman|telling stories": {
 "u": "spotify:track:3AGByugnI0dN0Di08NPh5n",
 "d": "2026-10-16T12:55:25.490329+02:00"
+},
+"liam lynch|united states of whatever": {
+"u": "spotify:track:6Jub05dvpbF4Im83NqMCUg",
+"d": "2026-10-16T13:06:25.491824+02:00"
+},
+"just jack|starz in their eyes": {
+"u": "spotify:track:59j7J5LKoEKJVfdLWQWtmH",
+"d": "2026-10-16T13:10:25.492305+02:00"
 }
 }
 }
