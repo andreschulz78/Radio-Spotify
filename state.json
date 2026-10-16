@@ -1,11 +1,19 @@
 {
-"updated": "2026-10-16T12:26:25.486743+02:00",
+"updated": "2026-10-16T12:37:25.488100+02:00",
 "matcher": 3,
 "blocked_until": null,
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAACmZ9ce63Thvv/AOKZZIxmxR0N+Ejl",
+"snapshot": "AAACmzLII6oLjlVCjdiv+Peey1pZPwEK",
 "playlist": [
+[
+"2026-10-16T12:33|Spoon|Guess I'm Fallin In Love",
+"spotify:track:6NkeAbY0dQThFJ1SV3RoOZ"
+],
+[
+"2026-10-16T12:30|Jungle|The Wave",
+"spotify:track:0T0MpMfY1qUj7dfyLSaIHo"
+],
 [
 "2026-10-16T12:12|White Town|Your Woman",
 "spotify:track:3UBItNVbFQiVC5hBQlBvnr"
@@ -576,6 +584,18 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-10-16T12:33|Spoon|Guess I'm Fallin In Love",
+"t": "2026-10-16T12:33:00+02:00",
+"artist": "Spoon",
+"title": "Guess I'm Fallin In Love"
+},
+{
+"id": "2026-10-16T12:30|Jungle|The Wave",
+"t": "2026-10-16T12:30:00+02:00",
+"artist": "Jungle",
+"title": "The Wave"
+},
 {
 "id": "2026-10-16T12:12|White Town|Your Woman",
 "t": "2026-10-16T12:12:00+02:00",
@@ -1989,6 +2009,14 @@
 "white town|your woman": {
 "u": "spotify:track:3UBItNVbFQiVC5hBQlBvnr",
 "d": "2026-10-16T12:15:25.485435+02:00"
+},
+"spoon|guess i m fallin in love": {
+"u": "spotify:track:6NkeAbY0dQThFJ1SV3RoOZ",
+"d": "2026-10-16T12:35:25.487856+02:00"
+},
+"jungle|the wave": {
+"u": "spotify:track:0T0MpMfY1qUj7dfyLSaIHo",
+"d": "2026-10-16T12:35:25.487856+02:00"
 }
 }
 }
