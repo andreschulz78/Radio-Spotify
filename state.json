@@ -1,11 +1,19 @@
 {
-"updated": "2026-10-16T10:59:25.475864+02:00",
+"updated": "2026-10-16T11:10:25.477097+02:00",
 "matcher": 3,
 "blocked_until": null,
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAACg5cfInxffrgrypZU/ykTLH/t8rX+",
+"snapshot": "AAACh3UJKauxGsShukdSqqZsBXP4oO8/",
 "playlist": [
+[
+"2026-10-16T11:05|Sampha|Blood On Me",
+"spotify:track:2D9aPhceBfcp7sVIcmFMZS"
+],
+[
+"2026-10-16T10:57|Lucy Rose|Pale Blue Eyes",
+"spotify:track:4aK4bJInGOV0Skp8uYrWuE"
+],
 [
 "2026-10-16T10:50|Chet Faker|Over You (Radio Edit)",
 "spotify:track:036QOmnlr52hgeH1WmQ5OB"
@@ -528,6 +536,18 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-10-16T11:05|Sampha|Blood On Me",
+"t": "2026-10-16T11:05:00+02:00",
+"artist": "Sampha",
+"title": "Blood On Me"
+},
+{
+"id": "2026-10-16T10:57|Lucy Rose|Pale Blue Eyes",
+"t": "2026-10-16T10:57:00+02:00",
+"artist": "Lucy Rose",
+"title": "Pale Blue Eyes"
+},
 {
 "id": "2026-10-16T10:50|Chet Faker|Over You (Radio Edit)",
 "t": "2026-10-16T10:50:00+02:00",
@@ -1821,6 +1841,14 @@
 "chet faker|over you radio edit": {
 "u": "spotify:track:036QOmnlr52hgeH1WmQ5OB",
 "d": "2026-10-16T10:55:25.475351+02:00"
+},
+"lucy rose|pale blue eyes": {
+"u": "spotify:track:4aK4bJInGOV0Skp8uYrWuE",
+"d": "2026-10-16T11:01:25.476137+02:00"
+},
+"sampha|blood on me": {
+"u": "spotify:track:2D9aPhceBfcp7sVIcmFMZS",
+"d": "2026-10-16T11:10:25.477097+02:00"
 }
 }
 }
