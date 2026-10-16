@@ -30,7 +30,7 @@ BASE = "https://example.invalid"
 WINDOW = timedelta(days=7)
 MAX_LOOKUPS = 3            # neue Titel pro Durchlauf (je 1–2 Spotify-Anfragen; zu viele -> 24 h Sperre)
 RETRY_NOT_FOUND = timedelta(days=3)
-MATCHER = 3               # erhöhen, wenn find_uri verbessert wird -> Nicht-Gefundene neu suchen
+MATCHER = 4               # erhöhen, wenn find_uri geändert wird -> Cache verwerfen (Titel in der Playlist bleiben)
 FRESH_START = datetime(2026, 10, 15, 12, 35, tzinfo=ZoneInfo("Europe/Berlin"))   # einmalig: Playlist leeren, nur noch Neues
 STATE_FILE = Path(__file__).with_name("state.json")
 UA = "Mozilla/5.0 (Radio-spotify; private Playlist)"
@@ -224,23 +224,35 @@ def deezer_isrc(artist, title):
     return None
 
 
+def own_release(tr):
+    """Titel stammt von einem Album/einer Single des Künstlers selbst – keine Compilation, kein Sampler."""
+    al = tr.get("album") or {}
+    if (al.get("album_type") or "album").lower() not in ("album", "single"):
+        return False
+    ids = {a.get("id") for a in tr.get("artists", [])}
+    return any(a.get("id") in ids for a in al.get("artists", []))
+
+
 def find_uri(sp, artist, title):
-    """Deezer -> ISRC -> eine exakte Spotify-Abfrage; sonst eine Spotify-Textsuche."""
+    """Deezer -> ISRC -> eine exakte Spotify-Abfrage; sonst eine Spotify-Textsuche.
+    Nur Veröffentlichungen des Künstlers (Album/Single); Sampler teilen die ISRC und werden übergangen."""
     try:
         isrc = deezer_isrc(artist, title)
     except (urllib.error.URLError, TimeoutError, ValueError) as err:
         print(f"  Deezer nicht erreichbar: {err}")
         isrc = None
     if isrc:
-        res = sp.call("GET", "/search", {"q": f"isrc:{isrc}", "type": "track", "limit": 1, "market": "DE"})
-        items = res.get("tracks", {}).get("items", [])
-        if items:
-            return items[0]["uri"]
+        res = sp.call("GET", "/search", {"q": f"isrc:{isrc}", "type": "track", "limit": 10, "market": "DE"})
+        own = [tr for tr in res.get("tracks", {}).get("items", []) if own_release(tr)]
+        if own:   # älteste Veröffentlichung = Original; bei Gleichstand Album vor Single
+            own.sort(key=lambda tr: (tr["album"].get("release_date") or "9999",
+                                     tr["album"].get("album_type", "album").lower() != "album"))
+            return own[0]["uri"]
     time.sleep(1)
     q = f"{main_artist(artist)} {base_title(title)}"
     res = sp.call("GET", "/search", {"q": q, "type": "track", "limit": 10, "market": "DE"})
     return best_match([([x["name"] for x in tr.get("artists", [])], tr["name"], tr["uri"])
-                       for tr in res.get("tracks", {}).get("items", [])], artist, title)
+                       for tr in res.get("tracks", {}).get("items", []) if own_release(tr)], artist, title)
 
 
 def sync_playlist(sp, pid, old, desired, old_snapshot):
@@ -292,13 +304,14 @@ def run_once(sp=None, dry=False):
     entries = {e["id"]: e for e in state.get("entries", [])}
     cache = state.get("cache", {})
     if state.get("matcher") != MATCHER:
-        cache = {k: v for k, v in cache.items() if v["u"]}
+        cache = {}
     if sp and FRESH_START and now >= FRESH_START and state.get("fresh") != FRESH_START.isoformat():
         sp.call("PUT", f"/playlists/{os.environ['SPOTIFY_PLAYLIST_ID']}/items", body={"uris": []})
         state = {"fresh": FRESH_START.isoformat(), "start": now.isoformat(), "playlist": None}
         entries = {}
         print(f"{now:%H:%M} Neustart: Playlist geleert, ab jetzt nur neue Ausstrahlungen")
     start = datetime.fromisoformat(state["start"]) if state.get("start") else None
+    pinned = {i: u for i, u in state.get("playlist") or []}   # schon in der Playlist -> nicht mehr anfassen
 
     latest = max((datetime.fromisoformat(e["t"]) for e in entries.values()), default=None)
     new = [e for e in scrape(now, latest, start)
@@ -317,6 +330,9 @@ def run_once(sp=None, dry=False):
     blocked = state.get("blocked_until")
     lookups, limited = 0, bool(blocked and now < datetime.fromisoformat(blocked))
     for e in sorted(entries.values(), key=lambda e: e["t"], reverse=True):
+        if e["id"] in pinned:
+            e["uri"] = pinned[e["id"]]
+            continue
         key = norm(e["artist"]) + "|" + norm(e["title"])
         c = cache.get(key)
         stale = c and c["u"] is None and now - datetime.fromisoformat(c["d"]) > RETRY_NOT_FOUND

@@ -8,6 +8,7 @@ Aktualisiert jede Minute per GitHub-Actions-Dauerlauf (Jobs à ~5 h 40 min, naht
 - Secrets: `SPOTIFY_CLIENT_ID`, `SPOTIFY_CLIENT_SECRET`, `SPOTIFY_REFRESH_TOKEN`, `SPOTIFY_PLAYLIST_ID`
 
 Titelabgleich über Deezer (ISRC), dann eine exakte Spotify-Abfrage – höchstens 3 neue Titel pro Minute, weil Spotify bei zu vielen Suchen die App 24 h sperrt.
+Genommen wird nur die Version vom Album oder der Single des Künstlers, nie ein Sampler wie „Rock Mix“.
 
 Hinweis: Spotify-Apps im Development Mode brauchen ein aktives Premium-Abo des App-Inhabers.
 Manuelle Änderungen an der Playlist lösen beim nächsten Lauf einen Neuaufbau aus.
