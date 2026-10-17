@@ -1,12 +1,20 @@
 {
-"updated": "2026-10-17T09:33:45.065468+02:00",
+"updated": "2026-10-17T09:44:45.067006+02:00",
 "matcher": 4,
 "blocked_until": null,
 "details": "51e4e36c2ea1",
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAADizGuZ1iUTkPV5I0hH6447ZAoTfts",
+"snapshot": "AAADkcUySXXbLdf+lvfZydthNJWSkDvX",
 "playlist": [
+[
+"2026-10-17T09:33|Mari Froes|Eu vou pro samba, viu?",
+"spotify:track:0ZirVpVEx943xdUD9bivHe"
+],
+[
+"2026-10-17T09:31|Gerry Read feat. Gregor|Taking All My Clothes Off",
+"spotify:track:0a1BTzQAc7NuYreRDWMV63"
+],
 [
 "2026-10-17T09:22|Loma|How It Starts (Radio Edit)",
 "spotify:track:72G1uutjkmbaW6XJR6bfyH"
@@ -1017,6 +1025,18 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-10-17T09:33|Mari Froes|Eu vou pro samba, viu?",
+"t": "2026-10-17T09:33:00+02:00",
+"artist": "Mari Froes",
+"title": "Eu vou pro samba, viu?"
+},
+{
+"id": "2026-10-17T09:31|Gerry Read feat. Gregor|Taking All My Clothes Off",
+"t": "2026-10-17T09:31:00+02:00",
+"artist": "Gerry Read feat. Gregor",
+"title": "Taking All My Clothes Off"
+},
 {
 "id": "2026-10-17T09:22|Loma|How It Starts (Radio Edit)",
 "t": "2026-10-17T09:22:00+02:00",
@@ -2860,6 +2880,14 @@
 "loma|how it starts radio edit": {
 "u": "spotify:track:72G1uutjkmbaW6XJR6bfyH",
 "d": "2026-10-17T09:26:45.064566+02:00"
+},
+"gerry read feat gregor|taking all my clothes off": {
+"u": "spotify:track:0a1BTzQAc7NuYreRDWMV63",
+"d": "2026-10-17T09:36:45.065893+02:00"
+},
+"mari froes|eu vou pro samba viu": {
+"u": "spotify:track:0ZirVpVEx943xdUD9bivHe",
+"d": "2026-10-17T09:41:45.066553+02:00"
 }
 }
 }
