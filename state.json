@@ -1,12 +1,24 @@
 {
-"updated": "2026-10-17T09:55:45.068538+02:00",
+"updated": "2026-10-17T10:06:45.070016+02:00",
 "matcher": 4,
 "blocked_until": null,
 "details": "51e4e36c2ea1",
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAADlB3p886tQU2WkgaVVqxYWoeTtUmD",
+"snapshot": "AAADmsYNIPEvPxi0+2AZ8VvRahOsJaGi",
 "playlist": [
+[
+"2026-10-17T09:57|Nihils|Lavender",
+"spotify:track:24IHKK4RZRa5WYOEigkp5h"
+],
+[
+"2026-10-17T09:51|Getdown Services|I Cant Die Like That",
+"spotify:track:1sz8JVpCkXEHr9QtK8Xlvw"
+],
+[
+"2026-10-17T09:49|Mother Soki|Thicken",
+"spotify:track:1uQYHgPrjPBYG1d0D4RoTD"
+],
 [
 "2026-10-17T09:45|Villagers|Sweet Saviour",
 "spotify:track:2eDH8J52FuZnVGQaYjmGOw"
@@ -1029,6 +1041,24 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-10-17T09:57|Nihils|Lavender",
+"t": "2026-10-17T09:57:00+02:00",
+"artist": "Nihils",
+"title": "Lavender"
+},
+{
+"id": "2026-10-17T09:51|Getdown Services|I Cant Die Like That",
+"t": "2026-10-17T09:51:00+02:00",
+"artist": "Getdown Services",
+"title": "I Cant Die Like That"
+},
+{
+"id": "2026-10-17T09:49|Mother Soki|Thicken",
+"t": "2026-10-17T09:49:00+02:00",
+"artist": "Mother Soki",
+"title": "Thicken"
+},
 {
 "id": "2026-10-17T09:45|Villagers|Sweet Saviour",
 "t": "2026-10-17T09:45:00+02:00",
@@ -2902,6 +2932,18 @@
 "villagers|sweet saviour": {
 "u": "spotify:track:2eDH8J52FuZnVGQaYjmGOw",
 "d": "2026-10-17T09:51:45.067985+02:00"
+},
+"getdown services|i cant die like that": {
+"u": "spotify:track:1sz8JVpCkXEHr9QtK8Xlvw",
+"d": "2026-10-17T09:56:45.068668+02:00"
+},
+"mother soki|thicken": {
+"u": "spotify:track:1uQYHgPrjPBYG1d0D4RoTD",
+"d": "2026-10-17T09:56:45.068668+02:00"
+},
+"nihils|lavender": {
+"u": "spotify:track:24IHKK4RZRa5WYOEigkp5h",
+"d": "2026-10-17T10:01:45.069366+02:00"
 }
 }
 }
