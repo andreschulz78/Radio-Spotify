@@ -1,12 +1,24 @@
 {
-"updated": "2026-10-17T08:49:45.059608+02:00",
+"updated": "2026-10-17T09:00:45.061039+02:00",
 "matcher": 4,
 "blocked_until": null,
 "details": "51e4e36c2ea1",
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAADebSi2mmLXXW/ezZet5NsYlt4ANnr",
+"snapshot": "AAADfx5FJERuFyKnea+F/YpO0cfIf1nt",
 "playlist": [
+[
+"2026-10-17T08:50|Courtney Barnett|Wonder",
+"spotify:track:5QraYxwAgy8LloNZeIiuQ5"
+],
+[
+"2026-10-17T08:47|Carrtoons feat. Hailé Supreme|Labor Of Love",
+"spotify:track:0Vh4cYw0m2xqUzihLHpK61"
+],
+[
+"2026-10-17T08:43|Ibibio Sound Machine|Love",
+"spotify:track:0JGa4KrhqriWUuPcni3I8D"
+],
 [
 "2026-10-17T08:34|Day One|Bedroom Dancing",
 "spotify:track:1nQ8pIPieoDCG2MSZNZ13J"
@@ -989,6 +1001,24 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-10-17T08:50|Courtney Barnett|Wonder",
+"t": "2026-10-17T08:50:00+02:00",
+"artist": "Courtney Barnett",
+"title": "Wonder"
+},
+{
+"id": "2026-10-17T08:47|Carrtoons feat. Hailé Supreme|Labor Of Love",
+"t": "2026-10-17T08:47:00+02:00",
+"artist": "Carrtoons feat. Hailé Supreme",
+"title": "Labor Of Love"
+},
+{
+"id": "2026-10-17T08:43|Ibibio Sound Machine|Love",
+"t": "2026-10-17T08:43:00+02:00",
+"artist": "Ibibio Sound Machine",
+"title": "Love"
+},
 {
 "id": "2026-10-17T08:34|Day One|Bedroom Dancing",
 "t": "2026-10-17T08:34:00+02:00",
@@ -2762,6 +2792,18 @@
 "day one|bedroom dancing": {
 "u": "spotify:track:1nQ8pIPieoDCG2MSZNZ13J",
 "d": "2026-10-17T08:41:45.058560+02:00"
+},
+"carrtoons feat haile supreme|labor of love": {
+"u": "spotify:track:0Vh4cYw0m2xqUzihLHpK61",
+"d": "2026-10-17T08:51:45.059894+02:00"
+},
+"ibibio sound machine|love": {
+"u": "spotify:track:0JGa4KrhqriWUuPcni3I8D",
+"d": "2026-10-17T08:51:45.059894+02:00"
+},
+"courtney barnett|wonder": {
+"u": "spotify:track:5QraYxwAgy8LloNZeIiuQ5",
+"d": "2026-10-17T08:56:45.060525+02:00"
 }
 }
 }
