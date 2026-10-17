@@ -1,12 +1,20 @@
 {
-"updated": "2026-10-17T09:00:45.061039+02:00",
+"updated": "2026-10-17T09:11:45.062586+02:00",
 "matcher": 4,
 "blocked_until": null,
 "details": "51e4e36c2ea1",
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAADfx5FJERuFyKnea+F/YpO0cfIf1nt",
+"snapshot": "AAADhYGSb8pirxcxHFo3MDNhiiYP4Dno",
 "playlist": [
+[
+"2026-10-17T09:04|Ethan French|reckless and arranged - day 56 (extended)",
+"spotify:track:6H2ZSdZkYYW63UM6K2GcFh"
+],
+[
+"2026-10-17T08:57|N.E.R.D.|She Wants To Move",
+"spotify:track:3CQQSBe4GOxnkHpz9Czx3K"
+],
 [
 "2026-10-17T08:50|Courtney Barnett|Wonder",
 "spotify:track:5QraYxwAgy8LloNZeIiuQ5"
@@ -1001,6 +1009,18 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-10-17T09:04|Ethan French|reckless and arranged - day 56 (extended)",
+"t": "2026-10-17T09:04:00+02:00",
+"artist": "Ethan French",
+"title": "reckless and arranged - day 56 (extended)"
+},
+{
+"id": "2026-10-17T08:57|N.E.R.D.|She Wants To Move",
+"t": "2026-10-17T08:57:00+02:00",
+"artist": "N.E.R.D.",
+"title": "She Wants To Move"
+},
 {
 "id": "2026-10-17T08:50|Courtney Barnett|Wonder",
 "t": "2026-10-17T08:50:00+02:00",
@@ -2804,6 +2824,14 @@
 "courtney barnett|wonder": {
 "u": "spotify:track:5QraYxwAgy8LloNZeIiuQ5",
 "d": "2026-10-17T08:56:45.060525+02:00"
+},
+"n e r d|she wants to move": {
+"u": "spotify:track:3CQQSBe4GOxnkHpz9Czx3K",
+"d": "2026-10-17T09:01:45.061175+02:00"
+},
+"ethan french|reckless and arranged day 56 extended": {
+"u": "spotify:track:6H2ZSdZkYYW63UM6K2GcFh",
+"d": "2026-10-17T09:11:45.062586+02:00"
 }
 }
 }
