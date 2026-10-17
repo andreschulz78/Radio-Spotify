@@ -386,11 +386,12 @@ def commit_state():
     if not os.environ.get("GITHUB_ACTIONS"):
         return
     git = lambda *a: subprocess.run(["git", *a], cwd=STATE_FILE.parent, capture_output=True, text=True)
-    git("add", STATE_FILE.name)
+    git("fetch", "-q", "origin", "main")
+    git("reset", "-q", "origin/main")   # auf neuesten Repo-Stand setzen (Dateien bleiben) – kein Rebase-Konflikt
+    git("add", STATE_FILE.name)         # state.json ist ein vollständiger Stand und gewinnt
     if git("diff", "--cached", "--quiet").returncode:
         git("commit", "-q", "-m", f"Stand {datetime.now(TZ):%Y-%m-%d %H:%M}")
-        git("pull", "-q", "--rebase")
-        r = git("push", "-q")
+        r = git("push", "-q", "origin", "HEAD:main")
         if r.returncode:
             print("  git push fehlgeschlagen:", r.stderr.strip())
 

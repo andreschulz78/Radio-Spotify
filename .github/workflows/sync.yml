@@ -26,6 +26,8 @@ jobs:
     timeout-minutes: 355
     steps:
       - uses: actions/checkout@v4
+        with:
+          ref: main   # neuester Stand statt des Commits, als der Lauf eingereiht wurde
       - name: Dauerlauf
         run: |
           git config user.name "radio-bot"
