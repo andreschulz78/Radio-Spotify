@@ -1,12 +1,28 @@
 {
-"updated": "2026-10-17T07:10:45.046836+02:00",
+"updated": "2026-10-17T07:21:45.048233+02:00",
 "matcher": 4,
 "blocked_until": null,
 "details": "51e4e36c2ea1",
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAADSY7JXWcoTkJEopFnnTTKkyPuueYK",
+"snapshot": "AAADUuKdmQzbxqVbcKLvuj45Ara7eAIs",
 "playlist": [
+[
+"2026-10-17T07:17|Pulp|Help the aged",
+"spotify:track:5cPmGsmp67ehE2XEKr27PZ"
+],
+[
+"2026-10-17T07:13|Ella Eyre|Kintsugi",
+"spotify:track:3x6gA8SG2NB2XQ9gmgggT9"
+],
+[
+"2026-10-17T07:10|The Avalanches feat. Karen O|Blue Shadows",
+"spotify:track:5bN5To0VLbNBKQDzJ1Lk6c"
+],
+[
+"2026-10-17T07:04|Pachyman|Trago Coqueto",
+"spotify:track:54SKhrxbRKvXuB3C3SGGoC"
+],
 [
 "2026-10-17T06:57|Kutiman & Dekel|Everybody Needs to Be",
 "spotify:track:57nR701tskrQisI9GZJ9oq"
@@ -917,6 +933,30 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-10-17T07:17|Pulp|Help the aged",
+"t": "2026-10-17T07:17:00+02:00",
+"artist": "Pulp",
+"title": "Help the aged"
+},
+{
+"id": "2026-10-17T07:13|Ella Eyre|Kintsugi",
+"t": "2026-10-17T07:13:00+02:00",
+"artist": "Ella Eyre",
+"title": "Kintsugi"
+},
+{
+"id": "2026-10-17T07:10|The Avalanches feat. Karen O|Blue Shadows",
+"t": "2026-10-17T07:10:00+02:00",
+"artist": "The Avalanches feat. Karen O",
+"title": "Blue Shadows"
+},
+{
+"id": "2026-10-17T07:04|Pachyman|Trago Coqueto",
+"t": "2026-10-17T07:04:00+02:00",
+"artist": "Pachyman",
+"title": "Trago Coqueto"
+},
 {
 "id": "2026-10-17T06:57|Kutiman & Dekel|Everybody Needs to Be",
 "t": "2026-10-17T06:57:00+02:00",
@@ -2510,6 +2550,22 @@
 "erykah badu|on on": {
 "u": "spotify:track:0tNuJpBgtE65diL6Q8Q7fI",
 "d": "2026-10-17T07:00:45.045525+02:00"
+},
+"pachyman|trago coqueto": {
+"u": "spotify:track:54SKhrxbRKvXuB3C3SGGoC",
+"d": "2026-10-17T07:11:45.046971+02:00"
+},
+"ella eyre|kintsugi": {
+"u": "spotify:track:3x6gA8SG2NB2XQ9gmgggT9",
+"d": "2026-10-17T07:15:45.047479+02:00"
+},
+"the avalanches feat karen o|blue shadows": {
+"u": "spotify:track:5bN5To0VLbNBKQDzJ1Lk6c",
+"d": "2026-10-17T07:15:45.047479+02:00"
+},
+"pulp|help the aged": {
+"u": "spotify:track:5cPmGsmp67ehE2XEKr27PZ",
+"d": "2026-10-17T07:21:45.048233+02:00"
 }
 }
 }
