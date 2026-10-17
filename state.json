@@ -1,12 +1,24 @@
 {
-"updated": "2026-10-17T07:43:45.051083+02:00",
+"updated": "2026-10-17T07:54:45.052499+02:00",
 "matcher": 4,
 "blocked_until": null,
 "details": "51e4e36c2ea1",
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAADW/0UYybPKbf5rqWYqidBwyrHm7t4",
+"snapshot": "AAADYQCiqOEdjuLPYrOO7NfH/e55Tnqc",
 "playlist": [
+[
+"2026-10-17T07:47|Freedom Fry|She Fell In Love On The Dance Floor",
+"spotify:track:22uuH9uHRSdS2y2zvS5uEt"
+],
+[
+"2026-10-17T07:44|Sydney Minsky Sargeant|I Don't Wanna",
+"spotify:track:4hHizy49Hzl7QfP3mGVJOY"
+],
+[
+"2026-10-17T07:38|Balu Brigada|Backseat (Edit)",
+"spotify:track:7yT4NJt5rgmVoMJMGPULcj"
+],
 [
 "2026-10-17T07:35|Ibeyi|Hurry Hurry",
 "spotify:track:4BGA7VW330Eu1kaFNi98cG"
@@ -945,6 +957,24 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-10-17T07:47|Freedom Fry|She Fell In Love On The Dance Floor",
+"t": "2026-10-17T07:47:00+02:00",
+"artist": "Freedom Fry",
+"title": "She Fell In Love On The Dance Floor"
+},
+{
+"id": "2026-10-17T07:44|Sydney Minsky Sargeant|I Don't Wanna",
+"t": "2026-10-17T07:44:00+02:00",
+"artist": "Sydney Minsky Sargeant",
+"title": "I Don't Wanna"
+},
+{
+"id": "2026-10-17T07:38|Balu Brigada|Backseat (Edit)",
+"t": "2026-10-17T07:38:00+02:00",
+"artist": "Balu Brigada",
+"title": "Backseat (Edit)"
+},
 {
 "id": "2026-10-17T07:35|Ibeyi|Hurry Hurry",
 "t": "2026-10-17T07:35:00+02:00",
@@ -2608,6 +2638,18 @@
 "ibeyi|hurry hurry": {
 "u": "spotify:track:4BGA7VW330Eu1kaFNi98cG",
 "d": "2026-10-17T07:41:45.050874+02:00"
+},
+"balu brigada|backseat edit": {
+"u": "spotify:track:7yT4NJt5rgmVoMJMGPULcj",
+"d": "2026-10-17T07:46:45.051476+02:00"
+},
+"freedom fry|she fell in love on the dance floor": {
+"u": "spotify:track:22uuH9uHRSdS2y2zvS5uEt",
+"d": "2026-10-17T07:51:45.052140+02:00"
+},
+"sydney minsky sargeant|i don t wanna": {
+"u": "spotify:track:4hHizy49Hzl7QfP3mGVJOY",
+"d": "2026-10-17T07:51:45.052140+02:00"
 }
 }
 }
