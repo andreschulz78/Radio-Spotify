@@ -1,12 +1,20 @@
 {
-"updated": "2026-10-17T08:05:45.053901+02:00",
+"updated": "2026-10-17T08:16:45.055276+02:00",
 "matcher": 4,
 "blocked_until": null,
 "details": "51e4e36c2ea1",
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAADZA+W2CRF/pmRVnTLVuQHTDPyQ/P9",
+"snapshot": "AAADauk3dfJP32jTwdVNr1MxfXUxQesx",
 "playlist": [
+[
+"2026-10-17T08:07|Lola Young|From Down Here (Radio Edit)",
+"spotify:track:7Hg7l5aOygIHuaNDVFp3ox"
+],
+[
+"2026-10-17T08:04|DJ Shadow|This Time (I'm Gonna Try It My Way)",
+"spotify:track:212sQNOrgr0v9kCr9Fuqi4"
+],
 [
 "2026-10-17T07:55|Big Thief|All Night All Day",
 "spotify:track:3gVrDEjo68KtplLuZuATTI"
@@ -961,6 +969,18 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-10-17T08:07|Lola Young|From Down Here (Radio Edit)",
+"t": "2026-10-17T08:07:00+02:00",
+"artist": "Lola Young",
+"title": "From Down Here (Radio Edit)"
+},
+{
+"id": "2026-10-17T08:04|DJ Shadow|This Time (I'm Gonna Try It My Way)",
+"t": "2026-10-17T08:04:00+02:00",
+"artist": "DJ Shadow",
+"title": "This Time (I'm Gonna Try It My Way)"
+},
 {
 "id": "2026-10-17T07:55|Big Thief|All Night All Day",
 "t": "2026-10-17T07:55:00+02:00",
@@ -2664,6 +2684,14 @@
 "big thief|all night all day": {
 "u": "spotify:track:3gVrDEjo68KtplLuZuATTI",
 "d": "2026-10-17T08:01:45.053378+02:00"
+},
+"dj shadow|this time i m gonna try it my way": {
+"u": "spotify:track:212sQNOrgr0v9kCr9Fuqi4",
+"d": "2026-10-17T08:11:45.054663+02:00"
+},
+"lola young|from down here radio edit": {
+"u": "spotify:track:7Hg7l5aOygIHuaNDVFp3ox",
+"d": "2026-10-17T08:16:45.055276+02:00"
 }
 }
 }
