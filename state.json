@@ -1,12 +1,20 @@
 {
-"updated": "2026-10-17T07:32:45.049672+02:00",
+"updated": "2026-10-17T07:43:45.051083+02:00",
 "matcher": 4,
 "blocked_until": null,
 "details": "51e4e36c2ea1",
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAADVXDV0GKVraHaMms2bK5CwjeBWQ78",
+"snapshot": "AAADW/0UYybPKbf5rqWYqidBwyrHm7t4",
 "playlist": [
+[
+"2026-10-17T07:35|Ibeyi|Hurry Hurry",
+"spotify:track:4BGA7VW330Eu1kaFNi98cG"
+],
+[
+"2026-10-17T07:31|Eels|Fresh Feeling",
+"spotify:track:7iNjxpUUFTG3TvssgrgKwZ"
+],
 [
 "2026-10-17T07:23|Vince Staples|Cotton",
 "spotify:track:2Dh62ulfuwM2lOWPy4TLEb"
@@ -937,6 +945,18 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-10-17T07:35|Ibeyi|Hurry Hurry",
+"t": "2026-10-17T07:35:00+02:00",
+"artist": "Ibeyi",
+"title": "Hurry Hurry"
+},
+{
+"id": "2026-10-17T07:31|Eels|Fresh Feeling",
+"t": "2026-10-17T07:31:00+02:00",
+"artist": "Eels",
+"title": "Fresh Feeling"
+},
 {
 "id": "2026-10-17T07:23|Vince Staples|Cotton",
 "t": "2026-10-17T07:23:00+02:00",
@@ -2580,6 +2600,14 @@
 "vince staples|cotton": {
 "u": "spotify:track:2Dh62ulfuwM2lOWPy4TLEb",
 "d": "2026-10-17T07:26:45.048871+02:00"
+},
+"eels|fresh feeling": {
+"u": "spotify:track:7iNjxpUUFTG3TvssgrgKwZ",
+"d": "2026-10-17T07:36:45.050203+02:00"
+},
+"ibeyi|hurry hurry": {
+"u": "spotify:track:4BGA7VW330Eu1kaFNi98cG",
+"d": "2026-10-17T07:41:45.050874+02:00"
 }
 }
 }
