@@ -1,12 +1,20 @@
 {
-"updated": "2026-10-17T08:27:45.056793+02:00",
+"updated": "2026-10-17T08:38:45.058185+02:00",
 "matcher": 4,
 "blocked_until": null,
 "details": "51e4e36c2ea1",
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAADcG8G5oMx5k404VurV6sASwCNWmCc",
+"snapshot": "AAADdkwelxHL5Si0qsUnniGYsuqM3aU8",
 "playlist": [
+[
+"2026-10-17T08:32|Róisín Murphy|The Universe (Radio Edit)",
+"spotify:track:031Jwhjt6zAuBLeWlY3AvH"
+],
+[
+"2026-10-17T08:25|Baxter Dury|Mr W4",
+"spotify:track:4lMutNwoqKN9Nu3OH4YoN5"
+],
 [
 "2026-10-17T08:20|Captain Sensible|Wot (Radioedit)",
 "spotify:track:31O9LmpDT9jA8CHE1uIdA7"
@@ -977,6 +985,18 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-10-17T08:32|Róisín Murphy|The Universe (Radio Edit)",
+"t": "2026-10-17T08:32:00+02:00",
+"artist": "Róisín Murphy",
+"title": "The Universe (Radio Edit)"
+},
+{
+"id": "2026-10-17T08:25|Baxter Dury|Mr W4",
+"t": "2026-10-17T08:25:00+02:00",
+"artist": "Baxter Dury",
+"title": "Mr W4"
+},
 {
 "id": "2026-10-17T08:20|Captain Sensible|Wot (Radioedit)",
 "t": "2026-10-17T08:20:00+02:00",
@@ -2720,6 +2740,14 @@
 "captain sensible|wot radioedit": {
 "u": "spotify:track:31O9LmpDT9jA8CHE1uIdA7",
 "d": "2026-10-17T08:26:45.056630+02:00"
+},
+"baxter dury|mr w4": {
+"u": "spotify:track:4lMutNwoqKN9Nu3OH4YoN5",
+"d": "2026-10-17T08:31:45.057329+02:00"
+},
+"roisin murphy|the universe radio edit": {
+"u": "spotify:track:031Jwhjt6zAuBLeWlY3AvH",
+"d": "2026-10-17T08:36:45.057922+02:00"
 }
 }
 }
