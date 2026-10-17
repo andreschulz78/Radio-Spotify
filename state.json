@@ -1,12 +1,16 @@
 {
-"updated": "2026-10-17T07:21:45.048233+02:00",
+"updated": "2026-10-17T07:32:45.049672+02:00",
 "matcher": 4,
 "blocked_until": null,
 "details": "51e4e36c2ea1",
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAADUuKdmQzbxqVbcKLvuj45Ara7eAIs",
+"snapshot": "AAADVXDV0GKVraHaMms2bK5CwjeBWQ78",
 "playlist": [
+[
+"2026-10-17T07:23|Vince Staples|Cotton",
+"spotify:track:2Dh62ulfuwM2lOWPy4TLEb"
+],
 [
 "2026-10-17T07:17|Pulp|Help the aged",
 "spotify:track:5cPmGsmp67ehE2XEKr27PZ"
@@ -933,6 +937,12 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-10-17T07:23|Vince Staples|Cotton",
+"t": "2026-10-17T07:23:00+02:00",
+"artist": "Vince Staples",
+"title": "Cotton"
+},
 {
 "id": "2026-10-17T07:17|Pulp|Help the aged",
 "t": "2026-10-17T07:17:00+02:00",
@@ -2566,6 +2576,10 @@
 "pulp|help the aged": {
 "u": "spotify:track:5cPmGsmp67ehE2XEKr27PZ",
 "d": "2026-10-17T07:21:45.048233+02:00"
+},
+"vince staples|cotton": {
+"u": "spotify:track:2Dh62ulfuwM2lOWPy4TLEb",
+"d": "2026-10-17T07:26:45.048871+02:00"
 }
 }
 }
