@@ -1,12 +1,20 @@
 {
-"updated": "2026-10-17T08:16:45.055276+02:00",
+"updated": "2026-10-17T08:27:45.056793+02:00",
 "matcher": 4,
 "blocked_until": null,
 "details": "51e4e36c2ea1",
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAADauk3dfJP32jTwdVNr1MxfXUxQesx",
+"snapshot": "AAADcG8G5oMx5k404VurV6sASwCNWmCc",
 "playlist": [
+[
+"2026-10-17T08:20|Captain Sensible|Wot (Radioedit)",
+"spotify:track:31O9LmpDT9jA8CHE1uIdA7"
+],
+[
+"2026-10-17T08:15|The Drums feat. Mareux|It Didn't Matter",
+"spotify:track:10kxTiNUTo4nlEbH1EzoX1"
+],
 [
 "2026-10-17T08:07|Lola Young|From Down Here (Radio Edit)",
 "spotify:track:7Hg7l5aOygIHuaNDVFp3ox"
@@ -969,6 +977,18 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-10-17T08:20|Captain Sensible|Wot (Radioedit)",
+"t": "2026-10-17T08:20:00+02:00",
+"artist": "Captain Sensible",
+"title": "Wot (Radioedit)"
+},
+{
+"id": "2026-10-17T08:15|The Drums feat. Mareux|It Didn't Matter",
+"t": "2026-10-17T08:15:00+02:00",
+"artist": "The Drums feat. Mareux",
+"title": "It Didn't Matter"
+},
 {
 "id": "2026-10-17T08:07|Lola Young|From Down Here (Radio Edit)",
 "t": "2026-10-17T08:07:00+02:00",
@@ -2692,6 +2712,14 @@
 "lola young|from down here radio edit": {
 "u": "spotify:track:7Hg7l5aOygIHuaNDVFp3ox",
 "d": "2026-10-17T08:16:45.055276+02:00"
+},
+"the drums feat mareux|it didn t matter": {
+"u": "spotify:track:10kxTiNUTo4nlEbH1EzoX1",
+"d": "2026-10-17T08:21:45.055990+02:00"
+},
+"captain sensible|wot radioedit": {
+"u": "spotify:track:31O9LmpDT9jA8CHE1uIdA7",
+"d": "2026-10-17T08:26:45.056630+02:00"
 }
 }
 }
