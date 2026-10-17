@@ -1,12 +1,16 @@
 {
-"updated": "2026-10-17T07:54:45.052499+02:00",
+"updated": "2026-10-17T08:05:45.053901+02:00",
 "matcher": 4,
 "blocked_until": null,
 "details": "51e4e36c2ea1",
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAADYQCiqOEdjuLPYrOO7NfH/e55Tnqc",
+"snapshot": "AAADZA+W2CRF/pmRVnTLVuQHTDPyQ/P9",
 "playlist": [
+[
+"2026-10-17T07:55|Big Thief|All Night All Day",
+"spotify:track:3gVrDEjo68KtplLuZuATTI"
+],
 [
 "2026-10-17T07:47|Freedom Fry|She Fell In Love On The Dance Floor",
 "spotify:track:22uuH9uHRSdS2y2zvS5uEt"
@@ -957,6 +961,12 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-10-17T07:55|Big Thief|All Night All Day",
+"t": "2026-10-17T07:55:00+02:00",
+"artist": "Big Thief",
+"title": "All Night All Day"
+},
 {
 "id": "2026-10-17T07:47|Freedom Fry|She Fell In Love On The Dance Floor",
 "t": "2026-10-17T07:47:00+02:00",
@@ -2650,6 +2660,10 @@
 "sydney minsky sargeant|i don t wanna": {
 "u": "spotify:track:4hHizy49Hzl7QfP3mGVJOY",
 "d": "2026-10-17T07:51:45.052140+02:00"
+},
+"big thief|all night all day": {
+"u": "spotify:track:3gVrDEjo68KtplLuZuATTI",
+"d": "2026-10-17T08:01:45.053378+02:00"
 }
 }
 }
