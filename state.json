@@ -1,12 +1,16 @@
 {
-"updated": "2026-10-18T08:03:18.866908+02:00",
+"updated": "2026-10-18T08:14:18.868251+02:00",
 "matcher": 4,
 "blocked_until": null,
 "details": "51e4e36c2ea1",
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAD899wM/Ap2R0UhyUFQE44syo7cLHZ",
+"snapshot": "AAAD95mje55BQuow4DyUXx1HeJspi0N1",
 "playlist": [
+[
+"2026-10-18T08:04|DJ Koze|Spiralen (Radio Edit)",
+"spotify:track:03ra0kWWPT8fW3sy6onMfc"
+],
 [
 "2026-10-18T07:56|Toad The Wet Sprocket|Walk On The Ocean",
 "spotify:track:2JAECj9kBYQHb8AqJ2rsxt"
@@ -1217,6 +1221,12 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-10-18T08:04|DJ Koze|Spiralen (Radio Edit)",
+"t": "2026-10-18T08:04:00+02:00",
+"artist": "DJ Koze",
+"title": "Spiralen (Radio Edit)"
+},
 {
 "id": "2026-10-18T07:56|Toad The Wet Sprocket|Walk On The Ocean",
 "t": "2026-10-18T07:56:00+02:00",
@@ -3554,6 +3564,10 @@
 "toad the wet sprocket|walk on the ocean": {
 "u": "spotify:track:2JAECj9kBYQHb8AqJ2rsxt",
 "d": "2026-10-18T08:00:18.866578+02:00"
+},
+"dj koze|spiralen radio edit": {
+"u": "spotify:track:03ra0kWWPT8fW3sy6onMfc",
+"d": "2026-10-18T08:10:18.867808+02:00"
 }
 }
 }
