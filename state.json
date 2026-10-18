@@ -1,12 +1,16 @@
 {
-"updated": "2026-10-18T08:36:18.870611+02:00",
+"updated": "2026-10-18T08:47:18.871717+02:00",
 "matcher": 4,
 "blocked_until": null,
 "details": "51e4e36c2ea1",
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAEBzy8PhRIxHG8LbL5kvdW/SsdKwwU",
+"snapshot": "AAAEC9L5PxBMw3DGT2jhEOofq0SNQtTC",
 "playlist": [
+[
+"2026-10-18T08:42|Fleetwood Mac|Thrown Down",
+"spotify:track:4ffoKyYY6ElVpxUpE48jOc"
+],
 [
 "2026-10-18T08:31|Neal Francis|Hide",
 "spotify:track:197QlBcwTnJNU8DAf3BNLo"
@@ -1241,6 +1245,12 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-10-18T08:42|Fleetwood Mac|Thrown Down",
+"t": "2026-10-18T08:42:00+02:00",
+"artist": "Fleetwood Mac",
+"title": "Thrown Down"
+},
 {
 "id": "2026-10-18T08:31|Neal Francis|Hide",
 "t": "2026-10-18T08:31:00+02:00",
@@ -3634,6 +3644,10 @@
 "mia|linker haken": {
 "u": "spotify:track:2ExYpZvG3nJmNEhqZBYEKv",
 "d": "2026-10-18T08:36:18.870611+02:00"
+},
+"fleetwood mac|thrown down": {
+"u": "spotify:track:4ffoKyYY6ElVpxUpE48jOc",
+"d": "2026-10-18T08:46:18.871623+02:00"
 }
 }
 }
