@@ -1,12 +1,24 @@
 {
-"updated": "2026-10-18T06:47:18.858724+02:00",
+"updated": "2026-10-18T06:58:18.859936+02:00",
 "matcher": 4,
 "blocked_until": null,
 "details": "51e4e36c2ea1",
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAADy6jv2UEXA/dnAyaVdN4lMT7j//xc",
+"snapshot": "AAAD0Zge1sx/NUo3+BQjrzjQj7RKTBJ7",
 "playlist": [
+[
+"2026-10-18T06:52|Cults|Trials",
+"spotify:track:0jXyPhXThA9Dx6aV2IDven"
+],
+[
+"2026-10-18T06:49|Oscar Farrell feat. Sampha|Dream Therapy",
+"spotify:track:1WCiaKkadXRQjK5LapkGtu"
+],
+[
+"2026-10-18T06:43|The Zombies|Time of the season",
+"spotify:track:6lx1n63qJmhzPpirxxksbI"
+],
 [
 "2026-10-18T06:40|Basia Bulat|Infamous",
 "spotify:track:3flhzsS8bfzsNPhTr4klCH"
@@ -1153,6 +1165,24 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-10-18T06:52|Cults|Trials",
+"t": "2026-10-18T06:52:00+02:00",
+"artist": "Cults",
+"title": "Trials"
+},
+{
+"id": "2026-10-18T06:49|Oscar Farrell feat. Sampha|Dream Therapy",
+"t": "2026-10-18T06:49:00+02:00",
+"artist": "Oscar Farrell feat. Sampha",
+"title": "Dream Therapy"
+},
+{
+"id": "2026-10-18T06:43|The Zombies|Time of the season",
+"t": "2026-10-18T06:43:00+02:00",
+"artist": "The Zombies",
+"title": "Time of the season"
+},
 {
 "id": "2026-10-18T06:40|Basia Bulat|Infamous",
 "t": "2026-10-18T06:40:00+02:00",
@@ -3338,6 +3368,18 @@
 "basia bulat|infamous": {
 "u": "spotify:track:3flhzsS8bfzsNPhTr4klCH",
 "d": "2026-10-18T06:46:10.763165+02:00"
+},
+"the zombies|time of the season": {
+"u": "spotify:track:6lx1n63qJmhzPpirxxksbI",
+"d": "2026-10-18T06:50:18.859062+02:00"
+},
+"cults|trials": {
+"u": "spotify:track:0jXyPhXThA9Dx6aV2IDven",
+"d": "2026-10-18T06:56:18.859763+02:00"
+},
+"oscar farrell feat sampha|dream therapy": {
+"u": "spotify:track:1WCiaKkadXRQjK5LapkGtu",
+"d": "2026-10-18T06:56:18.859763+02:00"
 }
 }
 }
