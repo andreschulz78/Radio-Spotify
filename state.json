@@ -1,12 +1,20 @@
 {
-"updated": "2026-10-18T08:47:18.871717+02:00",
+"updated": "2026-10-18T08:58:18.872929+02:00",
 "matcher": 4,
 "blocked_until": null,
 "details": "51e4e36c2ea1",
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAEC9L5PxBMw3DGT2jhEOofq0SNQtTC",
+"snapshot": "AAAED0dWLXm2EO2n0h1oF2/mJiYxqTRD",
 "playlist": [
+[
+"2026-10-18T08:51|Widowspeak|Soft Cover (Edit)",
+"spotify:track:4O6f5Bgs94sUNNkNAdNyhW"
+],
+[
+"2026-10-18T08:46|Madonna|Frozen",
+"spotify:track:5P1qYxFEcGteX6a2vkSMQC"
+],
 [
 "2026-10-18T08:42|Fleetwood Mac|Thrown Down",
 "spotify:track:4ffoKyYY6ElVpxUpE48jOc"
@@ -1245,6 +1253,18 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-10-18T08:51|Widowspeak|Soft Cover (Edit)",
+"t": "2026-10-18T08:51:00+02:00",
+"artist": "Widowspeak",
+"title": "Soft Cover (Edit)"
+},
+{
+"id": "2026-10-18T08:46|Madonna|Frozen",
+"t": "2026-10-18T08:46:00+02:00",
+"artist": "Madonna",
+"title": "Frozen"
+},
 {
 "id": "2026-10-18T08:42|Fleetwood Mac|Thrown Down",
 "t": "2026-10-18T08:42:00+02:00",
@@ -3648,6 +3668,14 @@
 "fleetwood mac|thrown down": {
 "u": "spotify:track:4ffoKyYY6ElVpxUpE48jOc",
 "d": "2026-10-18T08:46:18.871623+02:00"
+},
+"widowspeak|soft cover edit": {
+"u": "spotify:track:4O6f5Bgs94sUNNkNAdNyhW",
+"d": "2026-10-18T08:56:18.872676+02:00"
+},
+"madonna|frozen": {
+"u": "spotify:track:5P1qYxFEcGteX6a2vkSMQC",
+"d": "2026-10-18T08:56:18.872676+02:00"
 }
 }
 }
