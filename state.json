@@ -1,12 +1,20 @@
 {
-"updated": "2026-10-18T06:33:10.761553+02:00",
+"updated": "2026-10-18T06:44:10.762901+02:00",
 "matcher": 4,
 "blocked_until": null,
 "details": "51e4e36c2ea1",
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAADwoDSl8cnU9Rmewyfcw6z0lEDzGeM",
+"snapshot": "AAADyIuusOeHca6mukwky6tDPp6HyeXz",
 "playlist": [
+[
+"2026-10-18T06:35|SBTRKT feat. Ezra Koenig|New Dorp New York",
+"spotify:track:2QFHyK2SV2YWyJzu6kpGhk"
+],
+[
+"2026-10-18T06:32|Kaktus Einarsson feat. John Grant|Follow",
+"spotify:track:0bbPqdrMN94XmIlBQS21B3"
+],
 [
 "2026-10-18T06:27|Muse|Something Human",
 "spotify:track:1esX5rtwwssnsEQNQk0HGg"
@@ -1141,6 +1149,18 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-10-18T06:35|SBTRKT feat. Ezra Koenig|New Dorp New York",
+"t": "2026-10-18T06:35:00+02:00",
+"artist": "SBTRKT feat. Ezra Koenig",
+"title": "New Dorp New York"
+},
+{
+"id": "2026-10-18T06:32|Kaktus Einarsson feat. John Grant|Follow",
+"t": "2026-10-18T06:32:00+02:00",
+"artist": "Kaktus Einarsson feat. John Grant",
+"title": "Follow"
+},
 {
 "id": "2026-10-18T06:27|Muse|Something Human",
 "t": "2026-10-18T06:27:00+02:00",
@@ -3296,6 +3316,14 @@
 "muse|something human": {
 "u": "spotify:track:1esX5rtwwssnsEQNQk0HGg",
 "d": "2026-10-18T06:31:10.761310+02:00"
+},
+"kaktus einarsson feat john grant|follow": {
+"u": "spotify:track:0bbPqdrMN94XmIlBQS21B3",
+"d": "2026-10-18T06:36:10.761918+02:00"
+},
+"sbtrkt feat ezra koenig|new dorp new york": {
+"u": "spotify:track:2QFHyK2SV2YWyJzu6kpGhk",
+"d": "2026-10-18T06:41:10.762544+02:00"
 }
 }
 }
