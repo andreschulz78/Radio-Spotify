@@ -1,12 +1,24 @@
 {
-"updated": "2026-10-18T07:20:18.862240+02:00",
+"updated": "2026-10-18T07:30:18.863327+02:00",
 "matcher": 4,
 "blocked_until": null,
 "details": "51e4e36c2ea1",
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAD2smgGFWNA+C94InyN0riaybYpRi+",
+"snapshot": "AAAD4HARBKqiBLzu87/B/TFD5U3v6vfz",
 "playlist": [
+[
+"2026-10-18T07:26|CECI feat. Lords of Lounge|Honey Honey",
+"spotify:track:1I3D3G5pwYFKNYGIYTLRCq"
+],
+[
+"2026-10-18T07:23|I Am Kloot|Ferris Wheels",
+"spotify:track:3ZlyoG9nZnLzjQfxZA5IXm"
+],
+[
+"2026-10-18T07:15|Joachim Witt|Goldener Reiter",
+"spotify:track:7sgbBeINoJ4TDUDIloK9li"
+],
 [
 "2026-10-18T07:11|Madness|C'est La Vie",
 "spotify:track:4ZPEvKHyMzItLq02Y7UnQH"
@@ -1177,6 +1189,24 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-10-18T07:26|CECI feat. Lords of Lounge|Honey Honey",
+"t": "2026-10-18T07:26:00+02:00",
+"artist": "CECI feat. Lords of Lounge",
+"title": "Honey Honey"
+},
+{
+"id": "2026-10-18T07:23|I Am Kloot|Ferris Wheels",
+"t": "2026-10-18T07:23:00+02:00",
+"artist": "I Am Kloot",
+"title": "Ferris Wheels"
+},
+{
+"id": "2026-10-18T07:15|Joachim Witt|Goldener Reiter",
+"t": "2026-10-18T07:15:00+02:00",
+"artist": "Joachim Witt",
+"title": "Goldener Reiter"
+},
 {
 "id": "2026-10-18T07:11|Madness|C'est La Vie",
 "t": "2026-10-18T07:11:00+02:00",
@@ -3418,6 +3448,18 @@
 "madness|c est la vie": {
 "u": "spotify:track:4ZPEvKHyMzItLq02Y7UnQH",
 "d": "2026-10-18T07:15:18.861723+02:00"
+},
+"joachim witt|goldener reiter": {
+"u": "spotify:track:7sgbBeINoJ4TDUDIloK9li",
+"d": "2026-10-18T07:21:18.862335+02:00"
+},
+"ceci feat lords of lounge|honey honey": {
+"u": "spotify:track:1I3D3G5pwYFKNYGIYTLRCq",
+"d": "2026-10-18T07:30:18.863327+02:00"
+},
+"i am kloot|ferris wheels": {
+"u": "spotify:track:3ZlyoG9nZnLzjQfxZA5IXm",
+"d": "2026-10-18T07:30:18.863327+02:00"
 }
 }
 }
