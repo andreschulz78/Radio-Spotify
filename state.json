@@ -1,12 +1,24 @@
 {
-"updated": "2026-10-18T09:09:18.874270+02:00",
+"updated": "2026-10-18T09:20:18.875861+02:00",
 "matcher": 4,
 "blocked_until": null,
 "details": "51e4e36c2ea1",
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAEE7a/ROoE+68ptq6S2vw44RpVJEjH",
+"snapshot": "AAAEH8qCijlA1ytCzLSAFTy38TZzsvp4",
 "playlist": [
+[
+"2026-10-18T09:13|The Beatles|While My Guitar Gently Weeps",
+"spotify:track:389QX9Q1eUOEZ19vtzzI9O"
+],
+[
+"2026-10-18T09:10|D-Troit|Do The Right Thing",
+"spotify:track:3YG33HJ4Jm3F1hfWSTgy1Y"
+],
+[
+"2026-10-18T09:04|Pamela.|Better than Before",
+"spotify:track:30ewsn0jSF9Jme7Altrz9X"
+],
 [
 "2026-10-18T08:55|The Divine Comedy|Come Home Billy Bird",
 "spotify:track:78od2XAVYrjy3DFzlu4Lh2"
@@ -1257,6 +1269,24 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-10-18T09:13|The Beatles|While My Guitar Gently Weeps",
+"t": "2026-10-18T09:13:00+02:00",
+"artist": "The Beatles",
+"title": "While My Guitar Gently Weeps"
+},
+{
+"id": "2026-10-18T09:10|D-Troit|Do The Right Thing",
+"t": "2026-10-18T09:10:00+02:00",
+"artist": "D-Troit",
+"title": "Do The Right Thing"
+},
+{
+"id": "2026-10-18T09:04|Pamela.|Better than Before",
+"t": "2026-10-18T09:04:00+02:00",
+"artist": "Pamela.",
+"title": "Better than Before"
+},
 {
 "id": "2026-10-18T08:55|The Divine Comedy|Come Home Billy Bird",
 "t": "2026-10-18T08:55:00+02:00",
@@ -3690,6 +3720,18 @@
 "the divine comedy|come home billy bird": {
 "u": "spotify:track:78od2XAVYrjy3DFzlu4Lh2",
 "d": "2026-10-18T09:01:18.873256+02:00"
+},
+"pamela|better than before": {
+"u": "spotify:track:30ewsn0jSF9Jme7Altrz9X",
+"d": "2026-10-18T09:11:18.874567+02:00"
+},
+"d troit|do the right thing": {
+"u": "spotify:track:3YG33HJ4Jm3F1hfWSTgy1Y",
+"d": "2026-10-18T09:15:18.875133+02:00"
+},
+"the beatles|while my guitar gently weeps": {
+"u": "spotify:track:389QX9Q1eUOEZ19vtzzI9O",
+"d": "2026-10-18T09:20:18.875861+02:00"
 }
 }
 }
