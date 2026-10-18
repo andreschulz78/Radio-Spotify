@@ -1,12 +1,20 @@
 {
-"updated": "2026-10-18T10:26:18.883406+02:00",
+"updated": "2026-10-18T10:36:18.884460+02:00",
 "matcher": 4,
 "blocked_until": null,
 "details": "51e4e36c2ea1",
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAEP119G5Iqz143h3BmZqiBm1L0AeJY",
+"snapshot": "AAAER30tGVclLpNHp+xuCkjPH9ovdlDW",
 "playlist": [
+[
+"2026-10-18T10:31|Mando Diao|All The People",
+"spotify:track:5DI2M71rsrUI97Y5v2fvtz"
+],
+[
+"2026-10-18T10:25|Eels|That Look You Give That Guy",
+"spotify:track:0z0SJq32rKZWGjrECfGuRE"
+],
 [
 "2026-10-18T10:16|Freedom Fry|She Fell In Love On The Dance Floor",
 "spotify:track:22uuH9uHRSdS2y2zvS5uEt"
@@ -1301,6 +1309,18 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-10-18T10:31|Mando Diao|All The People",
+"t": "2026-10-18T10:31:00+02:00",
+"artist": "Mando Diao",
+"title": "All The People"
+},
+{
+"id": "2026-10-18T10:25|Eels|That Look You Give That Guy",
+"t": "2026-10-18T10:25:00+02:00",
+"artist": "Eels",
+"title": "That Look You Give That Guy"
+},
 {
 "id": "2026-10-18T10:16|Freedom Fry|She Fell In Love On The Dance Floor",
 "t": "2026-10-18T10:16:00+02:00",
@@ -3840,6 +3860,14 @@
 "49th main|insomnia": {
 "u": "spotify:track:6JGrKJtW3CxLscWj7OJMYt",
 "d": "2026-10-18T10:16:18.882112+02:00"
+},
+"eels|that look you give that guy": {
+"u": "spotify:track:0z0SJq32rKZWGjrECfGuRE",
+"d": "2026-10-18T10:31:18.883967+02:00"
+},
+"mando diao|all the people": {
+"u": "spotify:track:5DI2M71rsrUI97Y5v2fvtz",
+"d": "2026-10-18T10:36:18.884460+02:00"
 }
 }
 }
