@@ -1,12 +1,24 @@
 {
-"updated": "2026-10-18T08:25:18.869512+02:00",
+"updated": "2026-10-18T08:36:18.870611+02:00",
 "matcher": 4,
 "blocked_until": null,
 "details": "51e4e36c2ea1",
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAD/x6GWNn3RnzsHYqzoN04+UO4A+pE",
+"snapshot": "AAAEBzy8PhRIxHG8LbL5kvdW/SsdKwwU",
 "playlist": [
+[
+"2026-10-18T08:31|Neal Francis|Hide",
+"spotify:track:197QlBcwTnJNU8DAf3BNLo"
+],
+[
+"2026-10-18T08:27|MiA.|Linker Haken",
+"spotify:track:2ExYpZvG3nJmNEhqZBYEKv"
+],
+[
+"2026-10-18T08:18|Jamiroquai|Shake It On",
+"spotify:track:4bL5GNTF2zw5WyEle7irMf"
+],
 [
 "2026-10-18T08:14|Grace Cummings|I'm Not Crazy",
 "spotify:track:70QaE9UJ2uTVwC4IGS6yvU"
@@ -1229,6 +1241,24 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-10-18T08:31|Neal Francis|Hide",
+"t": "2026-10-18T08:31:00+02:00",
+"artist": "Neal Francis",
+"title": "Hide"
+},
+{
+"id": "2026-10-18T08:27|MiA.|Linker Haken",
+"t": "2026-10-18T08:27:00+02:00",
+"artist": "MiA.",
+"title": "Linker Haken"
+},
+{
+"id": "2026-10-18T08:18|Jamiroquai|Shake It On",
+"t": "2026-10-18T08:18:00+02:00",
+"artist": "Jamiroquai",
+"title": "Shake It On"
+},
 {
 "id": "2026-10-18T08:14|Grace Cummings|I'm Not Crazy",
 "t": "2026-10-18T08:14:00+02:00",
@@ -3592,6 +3622,18 @@
 "grace cummings|i m not crazy": {
 "u": "spotify:track:70QaE9UJ2uTVwC4IGS6yvU",
 "d": "2026-10-18T08:21:18.869005+02:00"
+},
+"jamiroquai|shake it on": {
+"u": "spotify:track:4bL5GNTF2zw5WyEle7irMf",
+"d": "2026-10-18T08:26:18.869618+02:00"
+},
+"neal francis|hide": {
+"u": "spotify:track:197QlBcwTnJNU8DAf3BNLo",
+"d": "2026-10-18T08:36:18.870611+02:00"
+},
+"mia|linker haken": {
+"u": "spotify:track:2ExYpZvG3nJmNEhqZBYEKv",
+"d": "2026-10-18T08:36:18.870611+02:00"
 }
 }
 }
