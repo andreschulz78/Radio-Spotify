@@ -1,12 +1,16 @@
 {
-"updated": "2026-10-18T08:58:18.872929+02:00",
+"updated": "2026-10-18T09:09:18.874270+02:00",
 "matcher": 4,
 "blocked_until": null,
 "details": "51e4e36c2ea1",
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAED0dWLXm2EO2n0h1oF2/mJiYxqTRD",
+"snapshot": "AAAEE7a/ROoE+68ptq6S2vw44RpVJEjH",
 "playlist": [
+[
+"2026-10-18T08:55|The Divine Comedy|Come Home Billy Bird",
+"spotify:track:78od2XAVYrjy3DFzlu4Lh2"
+],
 [
 "2026-10-18T08:51|Widowspeak|Soft Cover (Edit)",
 "spotify:track:4O6f5Bgs94sUNNkNAdNyhW"
@@ -1253,6 +1257,12 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-10-18T08:55|The Divine Comedy|Come Home Billy Bird",
+"t": "2026-10-18T08:55:00+02:00",
+"artist": "The Divine Comedy",
+"title": "Come Home Billy Bird"
+},
 {
 "id": "2026-10-18T08:51|Widowspeak|Soft Cover (Edit)",
 "t": "2026-10-18T08:51:00+02:00",
@@ -3676,6 +3686,10 @@
 "madonna|frozen": {
 "u": "spotify:track:5P1qYxFEcGteX6a2vkSMQC",
 "d": "2026-10-18T08:56:18.872676+02:00"
+},
+"the divine comedy|come home billy bird": {
+"u": "spotify:track:78od2XAVYrjy3DFzlu4Lh2",
+"d": "2026-10-18T09:01:18.873256+02:00"
 }
 }
 }
