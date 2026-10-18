@@ -1,12 +1,24 @@
 {
-"updated": "2026-10-18T06:11:10.758735+02:00",
+"updated": "2026-10-18T06:22:10.760169+02:00",
 "matcher": 4,
 "blocked_until": null,
 "details": "51e4e36c2ea1",
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAADtijWhuT7O35l7tXfVRZmSg9w8ga8",
+"snapshot": "AAADvGJ5tkZMNobKdOFQgTSx5F0Hk7Uz",
 "playlist": [
+[
+"2026-10-18T06:16|Whirlpool Productions|The Cold Song",
+"spotify:track:55e8f1eVF4mgnnSgIxDZ42"
+],
+[
+"2026-10-18T06:11|Johnny Marr|Lightning People",
+"spotify:track:6oSc21PMomTLgFUDCH5V5w"
+],
+[
+"2026-10-18T06:08|Bedouine|Deghma Cheega",
+"spotify:track:5mz2vo9T3jeGlnLcbfFhjG"
+],
 [
 "2026-10-18T06:04|Westside Cowboy|Kick Stones (The Boys)",
 "spotify:track:6qIdkfxjme3OEkdgsA8ANp"
@@ -1117,6 +1129,24 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-10-18T06:16|Whirlpool Productions|The Cold Song",
+"t": "2026-10-18T06:16:00+02:00",
+"artist": "Whirlpool Productions",
+"title": "The Cold Song"
+},
+{
+"id": "2026-10-18T06:11|Johnny Marr|Lightning People",
+"t": "2026-10-18T06:11:00+02:00",
+"artist": "Johnny Marr",
+"title": "Lightning People"
+},
+{
+"id": "2026-10-18T06:08|Bedouine|Deghma Cheega",
+"t": "2026-10-18T06:08:00+02:00",
+"artist": "Bedouine",
+"title": "Deghma Cheega"
+},
 {
 "id": "2026-10-18T06:04|Westside Cowboy|Kick Stones (The Boys)",
 "t": "2026-10-18T06:04:00+02:00",
@@ -3216,6 +3246,18 @@
 "westside cowboy|kick stones the boys": {
 "u": "spotify:track:6qIdkfxjme3OEkdgsA8ANp",
 "d": "2026-10-18T06:11:10.758735+02:00"
+},
+"johnny marr|lightning people": {
+"u": "spotify:track:6oSc21PMomTLgFUDCH5V5w",
+"d": "2026-10-18T06:15:10.759254+02:00"
+},
+"bedouine|deghma cheega": {
+"u": "spotify:track:5mz2vo9T3jeGlnLcbfFhjG",
+"d": "2026-10-18T06:15:10.759254+02:00"
+},
+"whirlpool productions|the cold song": {
+"u": "spotify:track:55e8f1eVF4mgnnSgIxDZ42",
+"d": "2026-10-18T06:21:10.760046+02:00"
 }
 }
 }
