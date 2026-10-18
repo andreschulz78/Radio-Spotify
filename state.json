@@ -1,12 +1,16 @@
 {
-"updated": "2026-10-18T06:44:10.762901+02:00",
+"updated": "2026-10-18T06:46:10.763165+02:00",
 "matcher": 4,
 "blocked_until": null,
 "details": "51e4e36c2ea1",
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAADyIuusOeHca6mukwky6tDPp6HyeXz",
+"snapshot": "AAADy6jv2UEXA/dnAyaVdN4lMT7j//xc",
 "playlist": [
+[
+"2026-10-18T06:40|Basia Bulat|Infamous",
+"spotify:track:3flhzsS8bfzsNPhTr4klCH"
+],
 [
 "2026-10-18T06:35|SBTRKT feat. Ezra Koenig|New Dorp New York",
 "spotify:track:2QFHyK2SV2YWyJzu6kpGhk"
@@ -1149,6 +1153,12 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-10-18T06:40|Basia Bulat|Infamous",
+"t": "2026-10-18T06:40:00+02:00",
+"artist": "Basia Bulat",
+"title": "Infamous"
+},
 {
 "id": "2026-10-18T06:35|SBTRKT feat. Ezra Koenig|New Dorp New York",
 "t": "2026-10-18T06:35:00+02:00",
@@ -3324,6 +3334,10 @@
 "sbtrkt feat ezra koenig|new dorp new york": {
 "u": "spotify:track:2QFHyK2SV2YWyJzu6kpGhk",
 "d": "2026-10-18T06:41:10.762544+02:00"
+},
+"basia bulat|infamous": {
+"u": "spotify:track:3flhzsS8bfzsNPhTr4klCH",
+"d": "2026-10-18T06:46:10.763165+02:00"
 }
 }
 }
