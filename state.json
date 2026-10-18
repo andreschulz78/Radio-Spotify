@@ -1,12 +1,20 @@
 {
-"updated": "2026-10-18T10:15:18.881987+02:00",
+"updated": "2026-10-18T10:26:18.883406+02:00",
 "matcher": 4,
 "blocked_until": null,
 "details": "51e4e36c2ea1",
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAENz6UsYhGJ6UbQnVlcVafXqaAayHf",
+"snapshot": "AAAEP119G5Iqz143h3BmZqiBm1L0AeJY",
 "playlist": [
+[
+"2026-10-18T10:16|Freedom Fry|She Fell In Love On The Dance Floor",
+"spotify:track:22uuH9uHRSdS2y2zvS5uEt"
+],
+[
+"2026-10-18T10:09|49th & Main|Insomnia",
+"spotify:track:6JGrKJtW3CxLscWj7OJMYt"
+],
 [
 "2026-10-18T10:04|Pet Shop Boys|Being Boring",
 "spotify:track:6utJDOqzWj8FggDp1R2Wi2"
@@ -1293,6 +1301,18 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-10-18T10:16|Freedom Fry|She Fell In Love On The Dance Floor",
+"t": "2026-10-18T10:16:00+02:00",
+"artist": "Freedom Fry",
+"title": "She Fell In Love On The Dance Floor"
+},
+{
+"id": "2026-10-18T10:09|49th & Main|Insomnia",
+"t": "2026-10-18T10:09:00+02:00",
+"artist": "49th & Main",
+"title": "Insomnia"
+},
 {
 "id": "2026-10-18T10:04|Pet Shop Boys|Being Boring",
 "t": "2026-10-18T10:04:00+02:00",
@@ -3816,6 +3836,10 @@
 "pet shop boys|being boring": {
 "u": "spotify:track:6utJDOqzWj8FggDp1R2Wi2",
 "d": "2026-10-18T10:11:18.881562+02:00"
+},
+"49th main|insomnia": {
+"u": "spotify:track:6JGrKJtW3CxLscWj7OJMYt",
+"d": "2026-10-18T10:16:18.882112+02:00"
 }
 }
 }
