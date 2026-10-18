@@ -1,12 +1,20 @@
 {
-"updated": "2026-10-18T11:30:18.890511+02:00",
+"updated": "2026-10-18T11:41:18.891850+02:00",
 "matcher": 4,
 "blocked_until": null,
 "details": "51e4e36c2ea1",
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAEZ9LabIoYTtFNU5pWoS2PkZGbJI7D",
+"snapshot": "AAAEb9wGEvzQ47/CRgIyy9RjMIOVoB4g",
 "playlist": [
+[
+"2026-10-18T11:36|MGMT|The Youth",
+"spotify:track:5nv854ey1k43KaZ0kHmE4Z"
+],
+[
+"2026-10-18T11:32|Tank And The Bangas|Ain’t That Deep",
+"spotify:track:0PokJfPldX6FgGR7covt03"
+],
 [
 "2026-10-18T11:26|Nichtseattle|Ich mit Brille",
 "spotify:track:1C0Lpji3kKe7rZie1LC4bx"
@@ -1341,6 +1349,18 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-10-18T11:36|MGMT|The Youth",
+"t": "2026-10-18T11:36:00+02:00",
+"artist": "MGMT",
+"title": "The Youth"
+},
+{
+"id": "2026-10-18T11:32|Tank And The Bangas|Ain’t That Deep",
+"t": "2026-10-18T11:32:00+02:00",
+"artist": "Tank And The Bangas",
+"title": "Ain’t That Deep"
+},
 {
 "id": "2026-10-18T11:26|Nichtseattle|Ich mit Brille",
 "t": "2026-10-18T11:26:00+02:00",
@@ -3980,6 +4000,14 @@
 "nichtseattle|ich mit brille": {
 "u": "spotify:track:1C0Lpji3kKe7rZie1LC4bx",
 "d": "2026-10-18T11:30:18.890511+02:00"
+},
+"tank and the bangas|ain t that deep": {
+"u": "spotify:track:0PokJfPldX6FgGR7covt03",
+"d": "2026-10-18T11:35:18.891140+02:00"
+},
+"mgmt|the youth": {
+"u": "spotify:track:5nv854ey1k43KaZ0kHmE4Z",
+"d": "2026-10-18T11:41:18.891850+02:00"
 }
 }
 }
