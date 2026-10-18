@@ -1,12 +1,20 @@
 {
-"updated": "2026-10-18T08:14:18.868251+02:00",
+"updated": "2026-10-18T08:25:18.869512+02:00",
 "matcher": 4,
 "blocked_until": null,
 "details": "51e4e36c2ea1",
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAD95mje55BQuow4DyUXx1HeJspi0N1",
+"snapshot": "AAAD/x6GWNn3RnzsHYqzoN04+UO4A+pE",
 "playlist": [
+[
+"2026-10-18T08:14|Grace Cummings|I'm Not Crazy",
+"spotify:track:70QaE9UJ2uTVwC4IGS6yvU"
+],
+[
+"2026-10-18T08:08|Fuffifufzich|New Era",
+"spotify:track:0sF1TJMDGYxKvu9pp1JQkQ"
+],
 [
 "2026-10-18T08:04|DJ Koze|Spiralen (Radio Edit)",
 "spotify:track:03ra0kWWPT8fW3sy6onMfc"
@@ -1221,6 +1229,18 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-10-18T08:14|Grace Cummings|I'm Not Crazy",
+"t": "2026-10-18T08:14:00+02:00",
+"artist": "Grace Cummings",
+"title": "I'm Not Crazy"
+},
+{
+"id": "2026-10-18T08:08|Fuffifufzich|New Era",
+"t": "2026-10-18T08:08:00+02:00",
+"artist": "Fuffifufzich",
+"title": "New Era"
+},
 {
 "id": "2026-10-18T08:04|DJ Koze|Spiralen (Radio Edit)",
 "t": "2026-10-18T08:04:00+02:00",
@@ -3568,6 +3588,10 @@
 "dj koze|spiralen radio edit": {
 "u": "spotify:track:03ra0kWWPT8fW3sy6onMfc",
 "d": "2026-10-18T08:10:18.867808+02:00"
+},
+"grace cummings|i m not crazy": {
+"u": "spotify:track:70QaE9UJ2uTVwC4IGS6yvU",
+"d": "2026-10-18T08:21:18.869005+02:00"
 }
 }
 }
