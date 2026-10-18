@@ -1,12 +1,16 @@
 {
-"updated": "2026-10-18T11:41:18.891850+02:00",
+"updated": "2026-10-18T11:52:18.893080+02:00",
 "matcher": 4,
 "blocked_until": null,
 "details": "51e4e36c2ea1",
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAEb9wGEvzQ47/CRgIyy9RjMIOVoB4g",
+"snapshot": "AAAEc87W49d01lGs2Fem1C1OsFUmR8Mt",
 "playlist": [
+[
+"2026-10-18T11:44|Amy Winehouse|You Know I'm No Good",
+"spotify:track:4HcMhqgjLz8hcGuPBk9OT8"
+],
 [
 "2026-10-18T11:36|MGMT|The Youth",
 "spotify:track:5nv854ey1k43KaZ0kHmE4Z"
@@ -1349,6 +1353,12 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-10-18T11:44|Amy Winehouse|You Know I'm No Good",
+"t": "2026-10-18T11:44:00+02:00",
+"artist": "Amy Winehouse",
+"title": "You Know I'm No Good"
+},
 {
 "id": "2026-10-18T11:36|MGMT|The Youth",
 "t": "2026-10-18T11:36:00+02:00",
@@ -4008,6 +4018,10 @@
 "mgmt|the youth": {
 "u": "spotify:track:5nv854ey1k43KaZ0kHmE4Z",
 "d": "2026-10-18T11:41:18.891850+02:00"
+},
+"amy winehouse|you know i m no good": {
+"u": "spotify:track:4HcMhqgjLz8hcGuPBk9OT8",
+"d": "2026-10-18T11:51:18.892985+02:00"
 }
 }
 }
