@@ -1,12 +1,20 @@
 {
-"updated": "2026-10-19T12:14:01.269978+02:00",
+"updated": "2026-10-19T12:25:01.271155+02:00",
 "matcher": 4,
 "blocked_until": null,
 "details": "51e4e36c2ea1",
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAFgNA1bPkzUq9hxVIoA74m6npcvRo7",
+"snapshot": "AAAFimIwH1aAyTr6oY5V55scjhddi+Ox",
 "playlist": [
+[
+"2026-10-19T12:14|Sade|Clean Heart",
+"spotify:track:10TTcq5sPRxx1hq2lQ04CI"
+],
+[
+"2026-10-19T12:09|Sade|Clean Heart",
+"spotify:track:10TTcq5sPRxx1hq2lQ04CI"
+],
 [
 "2026-10-19T12:05|Night Beats|New Day",
 "spotify:track:7D1LcKSVLyDWoIbM7VbIIB"
@@ -1653,6 +1661,18 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-10-19T12:14|Sade|Clean Heart",
+"t": "2026-10-19T12:14:00+02:00",
+"artist": "Sade",
+"title": "Clean Heart"
+},
+{
+"id": "2026-10-19T12:09|Sade|Clean Heart",
+"t": "2026-10-19T12:09:00+02:00",
+"artist": "Sade",
+"title": "Clean Heart"
+},
 {
 "id": "2026-10-19T12:05|Night Beats|New Day",
 "t": "2026-10-19T12:05:00+02:00",
@@ -5030,6 +5050,10 @@
 "night beats|new day": {
 "u": "spotify:track:7D1LcKSVLyDWoIbM7VbIIB",
 "d": "2026-10-19T12:12:01.269811+02:00"
+},
+"sade|clean heart": {
+"u": "spotify:track:10TTcq5sPRxx1hq2lQ04CI",
+"d": "2026-10-19T12:17:01.270308+02:00"
 }
 }
 }
