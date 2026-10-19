@@ -1,12 +1,20 @@
 {
-"updated": "2026-10-19T07:06:52.999043+02:00",
+"updated": "2026-10-19T07:16:53.000392+02:00",
 "matcher": 4,
 "blocked_until": null,
 "details": "51e4e36c2ea1",
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAEx4qJRL+znzJcwtBhn8OuphLkVjFI",
+"snapshot": "AAAEz7C2Etsl83himkbHxjG5giEhQPBC",
 "playlist": [
+[
+"2026-10-19T07:12|John Frusciante|Going Inside",
+"spotify:track:7vxlM6ouhpJy5WMEZqU7vV"
+],
+[
+"2026-10-19T07:05|Friends|I'm His Girl",
+"spotify:track:7xJJExBSwaDZLwunMMEauF"
+],
 [
 "2026-10-19T06:56|Lola Young|From Down Here (Radio Edit)",
 "spotify:track:7Hg7l5aOygIHuaNDVFp3ox"
@@ -1453,6 +1461,18 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-10-19T07:12|John Frusciante|Going Inside",
+"t": "2026-10-19T07:12:00+02:00",
+"artist": "John Frusciante",
+"title": "Going Inside"
+},
+{
+"id": "2026-10-19T07:05|Friends|I'm His Girl",
+"t": "2026-10-19T07:05:00+02:00",
+"artist": "Friends",
+"title": "I'm His Girl"
+},
 {
 "id": "2026-10-19T06:56|Lola Young|From Down Here (Radio Edit)",
 "t": "2026-10-19T06:56:00+02:00",
@@ -4362,6 +4382,14 @@
 "tella|omorfo mou": {
 "u": "spotify:track:4KOhnlI6HqciJJYZILjylB",
 "d": "2026-10-19T06:56:52.997684+02:00"
+},
+"friends|i m his girl": {
+"u": "spotify:track:7xJJExBSwaDZLwunMMEauF",
+"d": "2026-10-19T07:10:52.999574+02:00"
+},
+"john frusciante|going inside": {
+"u": "spotify:track:7vxlM6ouhpJy5WMEZqU7vV",
+"d": "2026-10-19T07:16:53.000392+02:00"
 }
 }
 }
