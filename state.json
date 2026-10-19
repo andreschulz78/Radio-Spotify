@@ -1,12 +1,16 @@
 {
-"updated": "2026-10-19T15:41:01.290700+02:00",
+"updated": "2026-10-19T15:52:01.291705+02:00",
 "matcher": 4,
 "blocked_until": null,
 "details": "51e4e36c2ea1",
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAGG2MkLqlEMzZhEOYs9g5ug2Yyc9aC",
+"snapshot": "AAAGID2ZvjuQE4At9q9nOdV+wyQ6Zj2m",
 "playlist": [
+[
+"2026-10-19T15:45|Stevie Wonder|Higher Ground",
+"spotify:track:0dMd4rilfd6gPbXaLpNYhu"
+],
 [
 "2026-10-19T15:32|Vince Staples|Cotton",
 "spotify:track:2Dh62ulfuwM2lOWPy4TLEb"
@@ -1809,6 +1813,12 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-10-19T15:45|Stevie Wonder|Higher Ground",
+"t": "2026-10-19T15:45:00+02:00",
+"artist": "Stevie Wonder",
+"title": "Higher Ground"
+},
 {
 "id": "2026-10-19T15:32|Vince Staples|Cotton",
 "t": "2026-10-19T15:32:00+02:00",
@@ -5550,6 +5560,10 @@
 "boy harsher|tough luck when you don t call": {
 "u": "spotify:track:109AVLNWp2BnTXTzF4j6XE",
 "d": "2026-10-19T15:32:01.289901+02:00"
+},
+"stevie wonder|higher ground": {
+"u": "spotify:track:0dMd4rilfd6gPbXaLpNYhu",
+"d": "2026-10-19T15:52:01.291705+02:00"
 }
 }
 }
