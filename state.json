@@ -1,12 +1,20 @@
 {
-"updated": "2026-10-19T08:21:53.008830+02:00",
+"updated": "2026-10-19T08:32:53.010350+02:00",
 "matcher": 4,
 "blocked_until": null,
 "details": "51e4e36c2ea1",
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAE87n/a0r+SiF2Fw3zV1faoadpGtzf",
+"snapshot": "AAAE+xnJ5mpxVSpaYxQbzrtPH5RyrNmc",
 "playlist": [
+[
+"2026-10-19T08:25|Fred again.. feat. LATIN MAFIA|Te Estoy Correteando",
+"spotify:track:5B579RUazOpBcuxjTZWnMs"
+],
+[
+"2026-10-19T08:18|XTC|Making Plans For Nigel",
+"spotify:track:1XT5kxg6Tk0ukCO2vBQN4v"
+],
 [
 "2026-10-19T08:14|Kelela|the bridge (feat. PinkPantheress)",
 "spotify:track:4Og22Djtd18AVqNgijpLsX"
@@ -1501,6 +1509,18 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-10-19T08:25|Fred again.. feat. LATIN MAFIA|Te Estoy Correteando",
+"t": "2026-10-19T08:25:00+02:00",
+"artist": "Fred again.. feat. LATIN MAFIA",
+"title": "Te Estoy Correteando"
+},
+{
+"id": "2026-10-19T08:18|XTC|Making Plans For Nigel",
+"t": "2026-10-19T08:18:00+02:00",
+"artist": "XTC",
+"title": "Making Plans For Nigel"
+},
 {
 "id": "2026-10-19T08:14|Kelela|the bridge (feat. PinkPantheress)",
 "t": "2026-10-19T08:14:00+02:00",
@@ -4518,6 +4538,14 @@
 "phoenix|1901": {
 "u": "spotify:track:68hYdj3GepWm2R202KhJT7",
 "d": "2026-10-19T08:10:53.007437+02:00"
+},
+"xtc|making plans for nigel": {
+"u": "spotify:track:1XT5kxg6Tk0ukCO2vBQN4v",
+"d": "2026-10-19T08:26:53.009481+02:00"
+},
+"fred again feat latin mafia|te estoy correteando": {
+"u": "spotify:track:5B579RUazOpBcuxjTZWnMs",
+"d": "2026-10-19T08:31:53.010217+02:00"
 }
 }
 }
