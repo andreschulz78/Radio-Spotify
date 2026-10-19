@@ -1,12 +1,16 @@
 {
-"updated": "2026-10-19T07:38:53.003354+02:00",
+"updated": "2026-10-19T07:49:53.004735+02:00",
 "matcher": 4,
 "blocked_until": null,
 "details": "51e4e36c2ea1",
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAE29vlH37+HsuFD7LtgpTVegeQ154r",
+"snapshot": "AAAE3yD9AU0cLESjoEV1TqdDBilJTiGx",
 "playlist": [
+[
+"2026-10-19T07:34|Jamie xx|Dream Night",
+"spotify:track:2DewmibGFWxakcxvVyf2Tv"
+],
 [
 "2026-10-19T07:26|Yazmin Lacey|Summer Haze",
 "spotify:track:465QjZo1z1JAuLTTC7DnuK"
@@ -1473,6 +1477,12 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-10-19T07:34|Jamie xx|Dream Night",
+"t": "2026-10-19T07:34:00+02:00",
+"artist": "Jamie xx",
+"title": "Dream Night"
+},
 {
 "id": "2026-10-19T07:26|Yazmin Lacey|Summer Haze",
 "t": "2026-10-19T07:26:00+02:00",
@@ -4428,6 +4438,10 @@
 "yazmin lacey|summer haze": {
 "u": "spotify:track:465QjZo1z1JAuLTTC7DnuK",
 "d": "2026-10-19T07:30:53.002280+02:00"
+},
+"jamie xx|dream night": {
+"u": "spotify:track:2DewmibGFWxakcxvVyf2Tv",
+"d": "2026-10-19T07:41:53.003737+02:00"
 }
 }
 }
