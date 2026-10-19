@@ -1,12 +1,20 @@
 {
-"updated": "2026-10-19T15:08:01.287621+02:00",
+"updated": "2026-10-19T15:19:01.288673+02:00",
 "matcher": 4,
 "blocked_until": null,
 "details": "51e4e36c2ea1",
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAGAs4aPb3OnhVqf8SYPkCQIU9Q+2K5",
+"snapshot": "AAAGDPOVxO5BbhPjyrUjKIku6zlKDUfq",
 "playlist": [
+[
+"2026-10-19T15:09|Freedom Fry|Le Point Zéro",
+"spotify:track:54YOT8C4TrL37BraXvEZai"
+],
+[
+"2026-10-19T15:06|The Black Angels|Here & Now",
+"spotify:track:2BLBYVk9pCw7S9LLi7kGNh"
+],
 [
 "2026-10-19T14:56|Methyl Ethel|Scream Whole",
 "spotify:track:4pyYNLVSzkJzTd66tP7Taz"
@@ -1785,6 +1793,18 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-10-19T15:09|Freedom Fry|Le Point Zéro",
+"t": "2026-10-19T15:09:00+02:00",
+"artist": "Freedom Fry",
+"title": "Le Point Zéro"
+},
+{
+"id": "2026-10-19T15:06|The Black Angels|Here & Now",
+"t": "2026-10-19T15:06:00+02:00",
+"artist": "The Black Angels",
+"title": "Here & Now"
+},
 {
 "id": "2026-10-19T14:56|Methyl Ethel|Scream Whole",
 "t": "2026-10-19T14:56:00+02:00",
@@ -5470,6 +5490,14 @@
 "methyl ethel|scream whole": {
 "u": "spotify:track:4pyYNLVSzkJzTd66tP7Taz",
 "d": "2026-10-19T15:07:01.287521+02:00"
+},
+"the black angels|here now": {
+"u": "spotify:track:2BLBYVk9pCw7S9LLi7kGNh",
+"d": "2026-10-19T15:10:01.287809+02:00"
+},
+"freedom fry|le point zero": {
+"u": "spotify:track:54YOT8C4TrL37BraXvEZai",
+"d": "2026-10-19T15:17:01.288480+02:00"
 }
 }
 }
