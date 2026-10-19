@@ -1,12 +1,20 @@
 {
-"updated": "2026-10-19T08:54:53.013384+02:00",
+"updated": "2026-10-19T09:04:53.014643+02:00",
 "matcher": 4,
 "blocked_until": null,
 "details": "51e4e36c2ea1",
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAFA2xY9CEhC0HLHEZnPIbP6YSpLzmN",
+"snapshot": "AAAFCxKqC5/BOxOdIi6MiJZbtBlRJoqt",
 "playlist": [
+[
+"2026-10-19T08:55|Automatic|Mercury",
+"spotify:track:0koaXm11b7sizUYJ67ebyn"
+],
+[
+"2026-10-19T08:48|Overmono feat. Ruthven|Gem Lingo (ovr now)",
+"spotify:track:6dSqM0tWJPlchpmGrEwC1c"
+],
 [
 "2026-10-19T08:40|Skeleten|Love Enemy",
 "spotify:track:3t5FGeD2BnzgOcjxvCjvsm"
@@ -1521,6 +1529,18 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-10-19T08:55|Automatic|Mercury",
+"t": "2026-10-19T08:55:00+02:00",
+"artist": "Automatic",
+"title": "Mercury"
+},
+{
+"id": "2026-10-19T08:48|Overmono feat. Ruthven|Gem Lingo (ovr now)",
+"t": "2026-10-19T08:48:00+02:00",
+"artist": "Overmono feat. Ruthven",
+"title": "Gem Lingo (ovr now)"
+},
 {
 "id": "2026-10-19T08:40|Skeleten|Love Enemy",
 "t": "2026-10-19T08:40:00+02:00",
@@ -4588,6 +4608,14 @@
 "sassy 009 feat blood orange|tell me jam city remix edit": {
 "u": "spotify:track:1pDiRrLro0tlhsPSexB3Zv",
 "d": "2026-10-19T08:46:53.012293+02:00"
+},
+"overmono feat ruthven|gem lingo ovr now": {
+"u": "spotify:track:6dSqM0tWJPlchpmGrEwC1c",
+"d": "2026-10-19T08:56:53.013609+02:00"
+},
+"automatic|mercury": {
+"u": "spotify:track:0koaXm11b7sizUYJ67ebyn",
+"d": "2026-10-19T09:01:53.014259+02:00"
 }
 }
 }
