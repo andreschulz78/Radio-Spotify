@@ -1,12 +1,16 @@
 {
-"updated": "2026-10-19T17:21:13.018992+02:00",
+"updated": "2026-10-19T17:32:13.020334+02:00",
 "matcher": 4,
 "blocked_until": null,
 "details": "51e4e36c2ea1",
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAGZr7ytgzDcoC12dW3Ro9KTvNY36cY",
+"snapshot": "AAAGa4KnsAD3sYnlG5/tRu5h36zVrHuR",
 "playlist": [
+[
+"2026-10-19T17:22|Arny Margret|Day Old Thoughts",
+"spotify:track:5FkxDLyVqiMbbQmvHOpta4"
+],
 [
 "2026-10-19T17:15|Dina Ögon|Jag vill ha allt",
 "spotify:track:5LQqxkVZnA5kvbzHOMFjde"
@@ -1869,6 +1873,12 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-10-19T17:22|Arny Margret|Day Old Thoughts",
+"t": "2026-10-19T17:22:00+02:00",
+"artist": "Arny Margret",
+"title": "Day Old Thoughts"
+},
 {
 "id": "2026-10-19T17:15|Dina Ögon|Jag vill ha allt",
 "t": "2026-10-19T17:15:00+02:00",
@@ -5748,6 +5758,10 @@
 "dina ogon|jag vill ha allt": {
 "u": "spotify:track:5LQqxkVZnA5kvbzHOMFjde",
 "d": "2026-10-19T17:21:13.018992+02:00"
+},
+"arny margret|day old thoughts": {
+"u": "spotify:track:5FkxDLyVqiMbbQmvHOpta4",
+"d": "2026-10-19T17:31:13.020090+02:00"
 }
 }
 }
