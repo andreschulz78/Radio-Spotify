@@ -1,12 +1,20 @@
 {
-"updated": "2026-10-19T07:16:53.000392+02:00",
+"updated": "2026-10-19T07:27:53.001855+02:00",
 "matcher": 4,
 "blocked_until": null,
 "details": "51e4e36c2ea1",
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAEz7C2Etsl83himkbHxjG5giEhQPBC",
+"snapshot": "AAAE18UI5AAhSFzxZJ1ZZnLqUBcroouN",
 "playlist": [
+[
+"2026-10-19T07:23|Mk.gee|Alesis",
+"spotify:track:1fAaC0BVOACO5hmyiwIqAG"
+],
+[
+"2026-10-19T07:16|Jungle|Someday, Somewhere",
+"spotify:track:20FqWsyuUaQTU5tk4nP6eN"
+],
 [
 "2026-10-19T07:12|John Frusciante|Going Inside",
 "spotify:track:7vxlM6ouhpJy5WMEZqU7vV"
@@ -1461,6 +1469,18 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-10-19T07:23|Mk.gee|Alesis",
+"t": "2026-10-19T07:23:00+02:00",
+"artist": "Mk.gee",
+"title": "Alesis"
+},
+{
+"id": "2026-10-19T07:16|Jungle|Someday, Somewhere",
+"t": "2026-10-19T07:16:00+02:00",
+"artist": "Jungle",
+"title": "Someday, Somewhere"
+},
 {
 "id": "2026-10-19T07:12|John Frusciante|Going Inside",
 "t": "2026-10-19T07:12:00+02:00",
@@ -4390,6 +4410,10 @@
 "john frusciante|going inside": {
 "u": "spotify:track:7vxlM6ouhpJy5WMEZqU7vV",
 "d": "2026-10-19T07:16:53.000392+02:00"
+},
+"mk gee|alesis": {
+"u": "spotify:track:1fAaC0BVOACO5hmyiwIqAG",
+"d": "2026-10-19T07:26:53.001723+02:00"
 }
 }
 }
