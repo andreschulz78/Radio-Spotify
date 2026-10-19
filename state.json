@@ -1,12 +1,20 @@
 {
-"updated": "2026-10-19T17:32:13.020334+02:00",
+"updated": "2026-10-19T17:43:13.021869+02:00",
 "matcher": 4,
 "blocked_until": null,
 "details": "51e4e36c2ea1",
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAGa4KnsAD3sYnlG5/tRu5h36zVrHuR",
+"snapshot": "AAAGdQJJfxILItprQvJ8PXdj+tE3UUq0",
 "playlist": [
+[
+"2026-10-19T17:34|Serebii|Even In The Quiet",
+"spotify:track:5ZIYdecFkCGyT6Tbyk7rAq"
+],
+[
+"2026-10-19T17:26|Django Django|Cameos",
+"spotify:track:6q1og9CkTnFTTYqOSN9ed3"
+],
 [
 "2026-10-19T17:22|Arny Margret|Day Old Thoughts",
 "spotify:track:5FkxDLyVqiMbbQmvHOpta4"
@@ -1873,6 +1881,18 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-10-19T17:34|Serebii|Even In The Quiet",
+"t": "2026-10-19T17:34:00+02:00",
+"artist": "Serebii",
+"title": "Even In The Quiet"
+},
+{
+"id": "2026-10-19T17:26|Django Django|Cameos",
+"t": "2026-10-19T17:26:00+02:00",
+"artist": "Django Django",
+"title": "Cameos"
+},
 {
 "id": "2026-10-19T17:22|Arny Margret|Day Old Thoughts",
 "t": "2026-10-19T17:22:00+02:00",
@@ -5762,6 +5782,14 @@
 "arny margret|day old thoughts": {
 "u": "spotify:track:5FkxDLyVqiMbbQmvHOpta4",
 "d": "2026-10-19T17:31:13.020090+02:00"
+},
+"django django|cameos": {
+"u": "spotify:track:6q1og9CkTnFTTYqOSN9ed3",
+"d": "2026-10-19T17:36:13.020994+02:00"
+},
+"serebii|even in the quiet": {
+"u": "spotify:track:5ZIYdecFkCGyT6Tbyk7rAq",
+"d": "2026-10-19T17:41:13.021646+02:00"
 }
 }
 }
