@@ -1,12 +1,20 @@
 {
-"updated": "2026-10-19T16:03:01.292879+02:00",
+"updated": "2026-10-19T16:14:01.294162+02:00",
 "matcher": 4,
 "blocked_until": null,
 "details": "51e4e36c2ea1",
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAGJRuV+98ATlhrekcmHx7YxpRjbq/A",
+"snapshot": "AAAGL8j0VS3/L5E4NkCvNf6CWJG2q5kI",
 "playlist": [
+[
+"2026-10-19T16:06|Dove Ellis|Heaven Has No Wings",
+"spotify:track:2Y4hGtm2AwkE0zge2CrqB8"
+],
+[
+"2026-10-19T15:58|Jonathan Jeremiah|Counting Down The Days",
+"spotify:track:4407e0DZqGA9sf8pcb0u4k"
+],
 [
 "2026-10-19T15:52|Jamie XX|I Know There's Gonna Be (Good Times)",
 "spotify:track:7tKnIyHCj8dAOwgnwjGDKK"
@@ -1817,6 +1825,18 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-10-19T16:06|Dove Ellis|Heaven Has No Wings",
+"t": "2026-10-19T16:06:00+02:00",
+"artist": "Dove Ellis",
+"title": "Heaven Has No Wings"
+},
+{
+"id": "2026-10-19T15:58|Jonathan Jeremiah|Counting Down The Days",
+"t": "2026-10-19T15:58:00+02:00",
+"artist": "Jonathan Jeremiah",
+"title": "Counting Down The Days"
+},
 {
 "id": "2026-10-19T15:52|Jamie XX|I Know There's Gonna Be (Good Times)",
 "t": "2026-10-19T15:52:00+02:00",
@@ -5578,6 +5598,14 @@
 "jamie xx|i know there s gonna be good times": {
 "u": "spotify:track:7tKnIyHCj8dAOwgnwjGDKK",
 "d": "2026-10-19T15:57:01.292219+02:00"
+},
+"jonathan jeremiah|counting down the days": {
+"u": "spotify:track:4407e0DZqGA9sf8pcb0u4k",
+"d": "2026-10-19T16:07:01.293340+02:00"
+},
+"dove ellis|heaven has no wings": {
+"u": "spotify:track:2Y4hGtm2AwkE0zge2CrqB8",
+"d": "2026-10-19T16:11:01.293743+02:00"
 }
 }
 }
