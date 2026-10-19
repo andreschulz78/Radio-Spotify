@@ -1,12 +1,20 @@
 {
-"updated": "2026-10-19T05:38:52.987216+02:00",
+"updated": "2026-10-19T05:49:52.988624+02:00",
 "matcher": 4,
 "blocked_until": null,
 "details": "51e4e36c2ea1",
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAEk8WxQqJiF5LqfBprg0r5bNBMBTFA",
+"snapshot": "AAAEm1GQmCFyzLCxW2DPUnJ4vW0tvKxS",
 "playlist": [
+[
+"2026-10-19T05:41|Flamingods|Meridian Glories",
+"spotify:track:00POAS7IxHmVlno151VSlc"
+],
+[
+"2026-10-19T05:36|Fountains Of Wayne|Radiation Vibe",
+"spotify:track:3XApt3UvXtv8y9S6DrAxCL"
+],
 [
 "2026-10-19T05:32|Alewya|Cairo FM",
 "spotify:track:6v7hCIRoJkuYShT0wls1gD"
@@ -1393,6 +1401,18 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-10-19T05:41|Flamingods|Meridian Glories",
+"t": "2026-10-19T05:41:00+02:00",
+"artist": "Flamingods",
+"title": "Meridian Glories"
+},
+{
+"id": "2026-10-19T05:36|Fountains Of Wayne|Radiation Vibe",
+"t": "2026-10-19T05:36:00+02:00",
+"artist": "Fountains Of Wayne",
+"title": "Radiation Vibe"
+},
 {
 "id": "2026-10-19T05:32|Alewya|Cairo FM",
 "t": "2026-10-19T05:32:00+02:00",
@@ -4164,6 +4184,14 @@
 "katy j pearson|those goodbyes": {
 "u": "spotify:track:5k07ZCSMbldoDaSWuLLlWf",
 "d": "2026-10-19T05:30:52.986249+02:00"
+},
+"fountains of wayne|radiation vibe": {
+"u": "spotify:track:3XApt3UvXtv8y9S6DrAxCL",
+"d": "2026-10-19T05:41:52.987622+02:00"
+},
+"flamingods|meridian glories": {
+"u": "spotify:track:00POAS7IxHmVlno151VSlc",
+"d": "2026-10-19T05:46:52.988253+02:00"
 }
 }
 }
