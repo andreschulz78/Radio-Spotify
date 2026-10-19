@@ -1,12 +1,28 @@
 {
-"updated": "2026-10-19T10:20:53.025328+02:00",
+"updated": "2026-10-19T10:30:53.026605+02:00",
 "matcher": 4,
 "blocked_until": null,
 "details": "51e4e36c2ea1",
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAFM1BEk0CnkJ+/UsnYx+kxOdYS6rbT",
+"snapshot": "AAAFP4cYnDxfnlQh+QTPWWZGUFZlXh4C",
 "playlist": [
+[
+"2026-10-19T10:27|ANOHNI|Drone Bomb Me",
+"spotify:track:6JZfK4Z75nZm3VcZOVrpy0"
+],
+[
+"2026-10-19T10:23|JJerome87|Green Velvet",
+"spotify:track:4tYeJ03pfClYTXqhao6PJf"
+],
+[
+"2026-10-19T10:20|Duran Duran|A View To A Kill",
+"spotify:track:2tE7poxpzLc0OOdCce9wpq"
+],
+[
+"2026-10-19T10:16|Westside Cowboy|Kick Stones (The Boys)",
+"spotify:track:6qIdkfxjme3OEkdgsA8ANp"
+],
 [
 "2026-10-19T10:07|Ray Lozano|Late Night",
 "spotify:track:23i10hKRFFtyNN801D2AYz"
@@ -1569,6 +1585,30 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-10-19T10:27|ANOHNI|Drone Bomb Me",
+"t": "2026-10-19T10:27:00+02:00",
+"artist": "ANOHNI",
+"title": "Drone Bomb Me"
+},
+{
+"id": "2026-10-19T10:23|JJerome87|Green Velvet",
+"t": "2026-10-19T10:23:00+02:00",
+"artist": "JJerome87",
+"title": "Green Velvet"
+},
+{
+"id": "2026-10-19T10:20|Duran Duran|A View To A Kill",
+"t": "2026-10-19T10:20:00+02:00",
+"artist": "Duran Duran",
+"title": "A View To A Kill"
+},
+{
+"id": "2026-10-19T10:16|Westside Cowboy|Kick Stones (The Boys)",
+"t": "2026-10-19T10:16:00+02:00",
+"artist": "Westside Cowboy",
+"title": "Kick Stones (The Boys)"
+},
 {
 "id": "2026-10-19T10:07|Ray Lozano|Late Night",
 "t": "2026-10-19T10:07:00+02:00",
@@ -4752,6 +4792,18 @@
 "ray lozano|late night": {
 "u": "spotify:track:23i10hKRFFtyNN801D2AYz",
 "d": "2026-10-19T10:10:53.023980+02:00"
+},
+"duran duran|a view to a kill": {
+"u": "spotify:track:2tE7poxpzLc0OOdCce9wpq",
+"d": "2026-10-19T10:26:53.026074+02:00"
+},
+"anohni|drone bomb me": {
+"u": "spotify:track:6JZfK4Z75nZm3VcZOVrpy0",
+"d": "2026-10-19T10:30:53.026605+02:00"
+},
+"jjerome87|green velvet": {
+"u": "spotify:track:4tYeJ03pfClYTXqhao6PJf",
+"d": "2026-10-19T10:30:53.026605+02:00"
 }
 }
 }
