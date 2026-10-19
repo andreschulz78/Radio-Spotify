@@ -1,12 +1,24 @@
 {
-"updated": "2026-10-19T07:49:53.004735+02:00",
+"updated": "2026-10-19T08:00:53.006112+02:00",
 "matcher": 4,
 "blocked_until": null,
 "details": "51e4e36c2ea1",
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAE3yD9AU0cLESjoEV1TqdDBilJTiGx",
+"snapshot": "AAAE51Hd8n30vHwZ04uhJybCTxt15zxr",
 "playlist": [
+[
+"2026-10-19T07:53|Macy Gray|I Try",
+"spotify:track:5TAf4lnZCZTLlZHNZMLFLi"
+],
+[
+"2026-10-19T07:47|Eno & Hyde|Daddy's Car",
+"spotify:track:4e7NJEl8Zz43kENPviycjY"
+],
+[
+"2026-10-19T07:43|JGrrey feat. Bel Cobain|Take My Hand",
+"spotify:track:0i4SCqKHjbBrPjUX4RPRq3"
+],
 [
 "2026-10-19T07:34|Jamie xx|Dream Night",
 "spotify:track:2DewmibGFWxakcxvVyf2Tv"
@@ -1477,6 +1489,24 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-10-19T07:53|Macy Gray|I Try",
+"t": "2026-10-19T07:53:00+02:00",
+"artist": "Macy Gray",
+"title": "I Try"
+},
+{
+"id": "2026-10-19T07:47|Eno & Hyde|Daddy's Car",
+"t": "2026-10-19T07:47:00+02:00",
+"artist": "Eno & Hyde",
+"title": "Daddy's Car"
+},
+{
+"id": "2026-10-19T07:43|JGrrey feat. Bel Cobain|Take My Hand",
+"t": "2026-10-19T07:43:00+02:00",
+"artist": "JGrrey feat. Bel Cobain",
+"title": "Take My Hand"
+},
 {
 "id": "2026-10-19T07:34|Jamie xx|Dream Night",
 "t": "2026-10-19T07:34:00+02:00",
@@ -4442,6 +4472,14 @@
 "jamie xx|dream night": {
 "u": "spotify:track:2DewmibGFWxakcxvVyf2Tv",
 "d": "2026-10-19T07:41:53.003737+02:00"
+},
+"eno hyde|daddy s car": {
+"u": "spotify:track:4e7NJEl8Zz43kENPviycjY",
+"d": "2026-10-19T07:50:53.004858+02:00"
+},
+"macy gray|i try": {
+"u": "spotify:track:5TAf4lnZCZTLlZHNZMLFLi",
+"d": "2026-10-19T07:55:53.005494+02:00"
 }
 }
 }
