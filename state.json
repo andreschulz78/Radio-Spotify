@@ -1,12 +1,20 @@
 {
-"updated": "2026-10-19T12:03:01.268904+02:00",
+"updated": "2026-10-19T12:14:01.269978+02:00",
 "matcher": 4,
 "blocked_until": null,
 "details": "51e4e36c2ea1",
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAFdjTjGEl68jjB1TIMGtNYnPbxSVfQ",
+"snapshot": "AAAFgNA1bPkzUq9hxVIoA74m6npcvRo7",
 "playlist": [
+[
+"2026-10-19T12:05|Night Beats|New Day",
+"spotify:track:7D1LcKSVLyDWoIbM7VbIIB"
+],
+[
+"2026-10-19T11:56|LCD Soundsystem|Home (Tom Sharkett Edit 2)",
+"spotify:track:5gmv3BgePSYiHnPJgY7oTJ"
+],
 [
 "2026-10-19T11:49|The Drums feat. Mareux|It Didn't Matter",
 "spotify:track:10kxTiNUTo4nlEbH1EzoX1"
@@ -1645,6 +1653,18 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-10-19T12:05|Night Beats|New Day",
+"t": "2026-10-19T12:05:00+02:00",
+"artist": "Night Beats",
+"title": "New Day"
+},
+{
+"id": "2026-10-19T11:56|LCD Soundsystem|Home (Tom Sharkett Edit 2)",
+"t": "2026-10-19T11:56:00+02:00",
+"artist": "LCD Soundsystem",
+"title": "Home (Tom Sharkett Edit 2)"
+},
 {
 "id": "2026-10-19T11:49|The Drums feat. Mareux|It Didn't Matter",
 "t": "2026-10-19T11:49:00+02:00",
@@ -5002,6 +5022,14 @@
 "todd rundgren|hello it s me": {
 "u": "spotify:track:20OPtTXspuUTRVTROMZHnF",
 "d": "2026-10-19T11:47:01.267201+02:00"
+},
+"lcd soundsystem|home tom sharkett edit 2": {
+"u": "spotify:track:5gmv3BgePSYiHnPJgY7oTJ",
+"d": "2026-10-19T12:07:01.269302+02:00"
+},
+"night beats|new day": {
+"u": "spotify:track:7D1LcKSVLyDWoIbM7VbIIB",
+"d": "2026-10-19T12:12:01.269811+02:00"
 }
 }
 }
