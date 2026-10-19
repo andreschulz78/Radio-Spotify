@@ -1,12 +1,20 @@
 {
-"updated": "2026-10-19T06:44:52.995965+02:00",
+"updated": "2026-10-19T06:55:52.997549+02:00",
 "matcher": 4,
 "blocked_until": null,
 "details": "51e4e36c2ea1",
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAEt3Hauo5kZarEnQWZF18Wy6DG25Fi",
+"snapshot": "AAAEvz6z5H8FwatGzDeDHXbHmWz1/5Qn",
 "playlist": [
+[
+"2026-10-19T06:45|Icke & Er|Richtig geil",
+"spotify:track:2JoiO9t2QAzKTzGPvT8qsb"
+],
+[
+"2026-10-19T06:43|Roxy Music|Angel Eyes",
+"spotify:track:4KpVPbaqNrEl3ppkOzVsYm"
+],
 [
 "2026-10-19T06:35|MorMor feat. Celeste|Like Heaven",
 "spotify:track:5pZGuhprytXKB7QRMul3jq"
@@ -1437,6 +1445,18 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-10-19T06:45|Icke & Er|Richtig geil",
+"t": "2026-10-19T06:45:00+02:00",
+"artist": "Icke & Er",
+"title": "Richtig geil"
+},
+{
+"id": "2026-10-19T06:43|Roxy Music|Angel Eyes",
+"t": "2026-10-19T06:43:00+02:00",
+"artist": "Roxy Music",
+"title": "Angel Eyes"
+},
 {
 "id": "2026-10-19T06:35|MorMor feat. Celeste|Like Heaven",
 "t": "2026-10-19T06:35:00+02:00",
@@ -4310,6 +4330,14 @@
 "beirut|landslide": {
 "u": "spotify:track:0Pf7nvNbkJ88AFFxDnWlWo",
 "d": "2026-10-19T06:30:52.994121+02:00"
+},
+"roxy music|angel eyes": {
+"u": "spotify:track:4KpVPbaqNrEl3ppkOzVsYm",
+"d": "2026-10-19T06:46:52.996225+02:00"
+},
+"icke er|richtig geil": {
+"u": "spotify:track:2JoiO9t2QAzKTzGPvT8qsb",
+"d": "2026-10-19T06:50:52.996859+02:00"
 }
 }
 }
