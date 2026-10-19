@@ -1,12 +1,16 @@
 {
-"updated": "2026-10-19T14:57:01.286485+02:00",
+"updated": "2026-10-19T15:08:01.287621+02:00",
 "matcher": 4,
 "blocked_until": null,
 "details": "51e4e36c2ea1",
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAF/QhkrkYy1sYFA/RbkIoa3n9qmodU",
+"snapshot": "AAAGAs4aPb3OnhVqf8SYPkCQIU9Q+2K5",
 "playlist": [
+[
+"2026-10-19T14:56|Methyl Ethel|Scream Whole",
+"spotify:track:4pyYNLVSzkJzTd66tP7Taz"
+],
 [
 "2026-10-19T14:48|Kutiman & Dekel|Hope",
 "spotify:track:4gFA57bNxMSqRk3q0vALkl"
@@ -1781,6 +1785,12 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-10-19T14:56|Methyl Ethel|Scream Whole",
+"t": "2026-10-19T14:56:00+02:00",
+"artist": "Methyl Ethel",
+"title": "Scream Whole"
+},
 {
 "id": "2026-10-19T14:48|Kutiman & Dekel|Hope",
 "t": "2026-10-19T14:48:00+02:00",
@@ -5456,6 +5466,10 @@
 "kutiman dekel|hope": {
 "u": "spotify:track:4gFA57bNxMSqRk3q0vALkl",
 "d": "2026-10-19T14:57:01.286485+02:00"
+},
+"methyl ethel|scream whole": {
+"u": "spotify:track:4pyYNLVSzkJzTd66tP7Taz",
+"d": "2026-10-19T15:07:01.287521+02:00"
 }
 }
 }
