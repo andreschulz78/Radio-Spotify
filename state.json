@@ -1,12 +1,16 @@
 {
-"updated": "2026-10-19T10:09:53.023855+02:00",
+"updated": "2026-10-19T10:20:53.025328+02:00",
 "matcher": 4,
 "blocked_until": null,
 "details": "51e4e36c2ea1",
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAFLxMNRSOgDnYbxgQ8c74EOP7cEagm",
+"snapshot": "AAAFM1BEk0CnkJ+/UsnYx+kxOdYS6rbT",
 "playlist": [
+[
+"2026-10-19T10:07|Ray Lozano|Late Night",
+"spotify:track:23i10hKRFFtyNN801D2AYz"
+],
 [
 "2026-10-19T09:55|Simen Mitlid|It's Okay",
 "spotify:track:549pALoY8HiYnE3QFpRw43"
@@ -1565,6 +1569,12 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-10-19T10:07|Ray Lozano|Late Night",
+"t": "2026-10-19T10:07:00+02:00",
+"artist": "Ray Lozano",
+"title": "Late Night"
+},
 {
 "id": "2026-10-19T09:55|Simen Mitlid|It's Okay",
 "t": "2026-10-19T09:55:00+02:00",
@@ -4738,6 +4748,10 @@
 "simen mitlid|it s okay": {
 "u": "spotify:track:549pALoY8HiYnE3QFpRw43",
 "d": "2026-10-19T10:00:53.022619+02:00"
+},
+"ray lozano|late night": {
+"u": "spotify:track:23i10hKRFFtyNN801D2AYz",
+"d": "2026-10-19T10:10:53.023980+02:00"
 }
 }
 }
