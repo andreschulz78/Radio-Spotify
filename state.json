@@ -1,12 +1,24 @@
 {
-"updated": "2026-10-19T13:52:01.279743+02:00",
+"updated": "2026-10-19T14:02:01.280727+02:00",
 "matcher": 4,
 "blocked_until": null,
 "details": "51e4e36c2ea1",
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAFy+RCGD11CpfUwgJYhgxe+Dv4BKrD",
+"snapshot": "AAAF1YNOTrb3/ehKak7aeKf6q4VNUUWA",
 "playlist": [
+[
+"2026-10-19T13:56|Adrian Younge|Nos Somos as Estrelas",
+"spotify:track:2ZDKqRiU308DT1OTvnQg03"
+],
+[
+"2026-10-19T13:50|Emma-Jean Thackray|Save Me",
+"spotify:track:6cyceLjnnc8JzkhhqGTbGz"
+],
+[
+"2026-10-19T13:47|Adrian Younge|Nos Somos as Estrelas",
+"spotify:track:2ZDKqRiU308DT1OTvnQg03"
+],
 [
 "2026-10-19T13:39|Nia Archives|Vertical",
 "spotify:track:0ecQazzKkndVD8Ry9Orp9Q"
@@ -1725,6 +1737,24 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-10-19T13:56|Adrian Younge|Nos Somos as Estrelas",
+"t": "2026-10-19T13:56:00+02:00",
+"artist": "Adrian Younge",
+"title": "Nos Somos as Estrelas"
+},
+{
+"id": "2026-10-19T13:50|Emma-Jean Thackray|Save Me",
+"t": "2026-10-19T13:50:00+02:00",
+"artist": "Emma-Jean Thackray",
+"title": "Save Me"
+},
+{
+"id": "2026-10-19T13:47|Adrian Younge|Nos Somos as Estrelas",
+"t": "2026-10-19T13:47:00+02:00",
+"artist": "Adrian Younge",
+"title": "Nos Somos as Estrelas"
+},
 {
 "id": "2026-10-19T13:39|Nia Archives|Vertical",
 "t": "2026-10-19T13:39:00+02:00",
@@ -5272,6 +5302,14 @@
 "nia archives|vertical": {
 "u": "spotify:track:0ecQazzKkndVD8Ry9Orp9Q",
 "d": "2026-10-19T13:47:01.279253+02:00"
+},
+"emma jean thackray|save me": {
+"u": "spotify:track:6cyceLjnnc8JzkhhqGTbGz",
+"d": "2026-10-19T13:57:01.280217+02:00"
+},
+"adrian younge|nos somos as estrelas": {
+"u": "spotify:track:2ZDKqRiU308DT1OTvnQg03",
+"d": "2026-10-19T13:57:01.280217+02:00"
 }
 }
 }
