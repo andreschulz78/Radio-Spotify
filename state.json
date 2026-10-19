@@ -1,12 +1,20 @@
 {
-"updated": "2026-10-19T16:25:01.295563+02:00",
+"updated": "2026-10-19T16:36:01.296739+02:00",
 "matcher": 4,
 "blocked_until": null,
 "details": "51e4e36c2ea1",
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAGODFho22fwqQdYgOvKOIEZvcp5iLy",
+"snapshot": "AAAGQ//Sh1QhAbGDNNDxYI1Ajq3a4lUM",
 "playlist": [
+[
+"2026-10-19T16:24|Seamus Fogarty|Fire (Edit)",
+"spotify:track:383q4d3j4gnvNN6dtlxyvM"
+],
+[
+"2026-10-19T16:20|Grace Cummings|I'm Not Crazy",
+"spotify:track:70QaE9UJ2uTVwC4IGS6yvU"
+],
 [
 "2026-10-19T16:17|Stella Donnelly|Laying Low",
 "spotify:track:0jWZDtZgmV2LZ2iW4c3yB7"
@@ -1833,6 +1841,18 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-10-19T16:24|Seamus Fogarty|Fire (Edit)",
+"t": "2026-10-19T16:24:00+02:00",
+"artist": "Seamus Fogarty",
+"title": "Fire (Edit)"
+},
+{
+"id": "2026-10-19T16:20|Grace Cummings|I'm Not Crazy",
+"t": "2026-10-19T16:20:00+02:00",
+"artist": "Grace Cummings",
+"title": "I'm Not Crazy"
+},
 {
 "id": "2026-10-19T16:17|Stella Donnelly|Laying Low",
 "t": "2026-10-19T16:17:00+02:00",
@@ -5630,6 +5650,10 @@
 "stella donnelly|laying low": {
 "u": "spotify:track:0jWZDtZgmV2LZ2iW4c3yB7",
 "d": "2026-10-19T16:22:01.295181+02:00"
+},
+"seamus fogarty|fire edit": {
+"u": "spotify:track:383q4d3j4gnvNN6dtlxyvM",
+"d": "2026-10-19T16:32:01.296286+02:00"
 }
 }
 }
