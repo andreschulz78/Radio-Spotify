@@ -1,12 +1,28 @@
 {
-"updated": "2026-10-19T12:36:01.272281+02:00",
+"updated": "2026-10-19T12:46:01.273243+02:00",
 "matcher": 4,
 "blocked_until": null,
 "details": "51e4e36c2ea1",
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAFjxIls9GM9p3rd3WeIZlcG4sDVRrs",
+"snapshot": "AAAFnrJQ9CBxxnROAr/XwGp9v4+HEJ+f",
 "playlist": [
+[
+"2026-10-19T12:39|Pale Blue Eyes|The Dreamer",
+"spotify:track:6QQ62K7sCZSt4ewVA0ax8K"
+],
+[
+"2026-10-19T12:36|OutKast|ATLiens",
+"spotify:track:2vfvGlqCB7oertO5VLE0sz"
+],
+[
+"2026-10-19T12:32|CECI feat. Lords of Lounge|Honey Honey",
+"spotify:track:1I3D3G5pwYFKNYGIYTLRCq"
+],
+[
+"2026-10-19T12:28|Fine Young Cannibals|I'm Not The Man I Used To Be",
+"spotify:track:0ce4Ru8pHOZKijojglD4JS"
+],
 [
 "2026-10-19T12:23|LL Cool J feat. Sona Jobarteh|Black Code Suite",
 "spotify:track:0qzxr3UMVxqGWNU9JN69eu"
@@ -1669,6 +1685,30 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-10-19T12:39|Pale Blue Eyes|The Dreamer",
+"t": "2026-10-19T12:39:00+02:00",
+"artist": "Pale Blue Eyes",
+"title": "The Dreamer"
+},
+{
+"id": "2026-10-19T12:36|OutKast|ATLiens",
+"t": "2026-10-19T12:36:00+02:00",
+"artist": "OutKast",
+"title": "ATLiens"
+},
+{
+"id": "2026-10-19T12:32|CECI feat. Lords of Lounge|Honey Honey",
+"t": "2026-10-19T12:32:00+02:00",
+"artist": "CECI feat. Lords of Lounge",
+"title": "Honey Honey"
+},
+{
+"id": "2026-10-19T12:28|Fine Young Cannibals|I'm Not The Man I Used To Be",
+"t": "2026-10-19T12:28:00+02:00",
+"artist": "Fine Young Cannibals",
+"title": "I'm Not The Man I Used To Be"
+},
 {
 "id": "2026-10-19T12:23|LL Cool J feat. Sona Jobarteh|Black Code Suite",
 "t": "2026-10-19T12:23:00+02:00",
@@ -5082,6 +5122,18 @@
 "massive attack feat tracey thorn|protection 7inch edit": {
 "u": "spotify:track:3kKVqFF4pv4EXeQe428zl2",
 "d": "2026-10-19T12:27:01.271404+02:00"
+},
+"fine young cannibals|i m not the man i used to be": {
+"u": "spotify:track:0ce4Ru8pHOZKijojglD4JS",
+"d": "2026-10-19T12:37:01.272378+02:00"
+},
+"outkast|atliens": {
+"u": "spotify:track:2vfvGlqCB7oertO5VLE0sz",
+"d": "2026-10-19T12:42:01.272862+02:00"
+},
+"pale blue eyes|the dreamer": {
+"u": "spotify:track:6QQ62K7sCZSt4ewVA0ax8K",
+"d": "2026-10-19T12:46:01.273243+02:00"
 }
 }
 }
