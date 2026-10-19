@@ -1,12 +1,24 @@
 {
-"updated": "2026-10-19T05:49:52.988624+02:00",
+"updated": "2026-10-19T06:00:52.990065+02:00",
 "matcher": 4,
 "blocked_until": null,
 "details": "51e4e36c2ea1",
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAEm1GQmCFyzLCxW2DPUnJ4vW0tvKxS",
+"snapshot": "AAAEo0pGg2S58gHkYfQ8xk43sThP4vb4",
 "playlist": [
+[
+"2026-10-19T05:56|Karen O & Danger Mouse|Super Breath",
+"spotify:track:71dMjqJ8UJV700zYs5YZCh"
+],
+[
+"2026-10-19T05:50|Prince|I Could Never Take The Place Of Your Man",
+"spotify:track:7Bsfh7tZyAf6L5iQti86Rq"
+],
+[
+"2026-10-19T05:47|Phantogram|Earthshaker",
+"spotify:track:3dcAXXsNJb2VgX7k1Okz2L"
+],
 [
 "2026-10-19T05:41|Flamingods|Meridian Glories",
 "spotify:track:00POAS7IxHmVlno151VSlc"
@@ -1401,6 +1413,24 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-10-19T05:56|Karen O & Danger Mouse|Super Breath",
+"t": "2026-10-19T05:56:00+02:00",
+"artist": "Karen O & Danger Mouse",
+"title": "Super Breath"
+},
+{
+"id": "2026-10-19T05:50|Prince|I Could Never Take The Place Of Your Man",
+"t": "2026-10-19T05:50:00+02:00",
+"artist": "Prince",
+"title": "I Could Never Take The Place Of Your Man"
+},
+{
+"id": "2026-10-19T05:47|Phantogram|Earthshaker",
+"t": "2026-10-19T05:47:00+02:00",
+"artist": "Phantogram",
+"title": "Earthshaker"
+},
 {
 "id": "2026-10-19T05:41|Flamingods|Meridian Glories",
 "t": "2026-10-19T05:41:00+02:00",
@@ -4192,6 +4222,18 @@
 "flamingods|meridian glories": {
 "u": "spotify:track:00POAS7IxHmVlno151VSlc",
 "d": "2026-10-19T05:46:52.988253+02:00"
+},
+"prince|i could never take the place of your man": {
+"u": "spotify:track:7Bsfh7tZyAf6L5iQti86Rq",
+"d": "2026-10-19T05:55:52.989416+02:00"
+},
+"phantogram|earthshaker": {
+"u": "spotify:track:3dcAXXsNJb2VgX7k1Okz2L",
+"d": "2026-10-19T05:55:52.989416+02:00"
+},
+"karen o danger mouse|super breath": {
+"u": "spotify:track:71dMjqJ8UJV700zYs5YZCh",
+"d": "2026-10-19T06:00:52.990065+02:00"
 }
 }
 }
