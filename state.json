@@ -1,12 +1,24 @@
 {
-"updated": "2026-10-19T15:30:01.289718+02:00",
+"updated": "2026-10-19T15:41:01.290700+02:00",
 "matcher": 4,
 "blocked_until": null,
 "details": "51e4e36c2ea1",
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAGESSAJigjwc0KEKrC2MvCb2n6d+E4",
+"snapshot": "AAAGG2MkLqlEMzZhEOYs9g5ug2Yyc9aC",
 "playlist": [
+[
+"2026-10-19T15:32|Vince Staples|Cotton",
+"spotify:track:2Dh62ulfuwM2lOWPy4TLEb"
+],
+[
+"2026-10-19T15:26|Tikhet|Trouble Is A State Of Mind",
+"spotify:track:5CGkv2xYLtHRrq5gbGlv4n"
+],
+[
+"2026-10-19T15:23|Boy Harsher|Tough Luck (When You Don't Call)",
+"spotify:track:109AVLNWp2BnTXTzF4j6XE"
+],
 [
 "2026-10-19T15:18|Plant, Robert|29 palms",
 "spotify:track:5hrsqusQlSqlWpvtjJpxPq"
@@ -1797,6 +1809,24 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-10-19T15:32|Vince Staples|Cotton",
+"t": "2026-10-19T15:32:00+02:00",
+"artist": "Vince Staples",
+"title": "Cotton"
+},
+{
+"id": "2026-10-19T15:26|Tikhet|Trouble Is A State Of Mind",
+"t": "2026-10-19T15:26:00+02:00",
+"artist": "Tikhet",
+"title": "Trouble Is A State Of Mind"
+},
+{
+"id": "2026-10-19T15:23|Boy Harsher|Tough Luck (When You Don't Call)",
+"t": "2026-10-19T15:23:00+02:00",
+"artist": "Boy Harsher",
+"title": "Tough Luck (When You Don't Call)"
+},
 {
 "id": "2026-10-19T15:18|Plant, Robert|29 palms",
 "t": "2026-10-19T15:18:00+02:00",
@@ -5512,6 +5542,14 @@
 "plant robert|29 palms": {
 "u": "spotify:track:5hrsqusQlSqlWpvtjJpxPq",
 "d": "2026-10-19T15:26:01.289363+02:00"
+},
+"tikhet|trouble is a state of mind": {
+"u": "spotify:track:5CGkv2xYLtHRrq5gbGlv4n",
+"d": "2026-10-19T15:32:01.289901+02:00"
+},
+"boy harsher|tough luck when you don t call": {
+"u": "spotify:track:109AVLNWp2BnTXTzF4j6XE",
+"d": "2026-10-19T15:32:01.289901+02:00"
 }
 }
 }
