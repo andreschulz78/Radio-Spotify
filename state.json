@@ -1,12 +1,20 @@
 {
-"updated": "2026-10-19T08:00:53.006112+02:00",
+"updated": "2026-10-19T08:10:53.007437+02:00",
 "matcher": 4,
 "blocked_until": null,
 "details": "51e4e36c2ea1",
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAE51Hd8n30vHwZ04uhJybCTxt15zxr",
+"snapshot": "AAAE79PGVwvrCTf9D/gke+f7axhsyBaw",
 "playlist": [
+[
+"2026-10-19T08:05|Phoenix|1901",
+"spotify:track:68hYdj3GepWm2R202KhJT7"
+],
+[
+"2026-10-19T07:56|Portugal. The Man|What, Me Worry?",
+"spotify:track:0ePX6rVjeql7Bt1KurTbAG"
+],
 [
 "2026-10-19T07:53|Macy Gray|I Try",
 "spotify:track:5TAf4lnZCZTLlZHNZMLFLi"
@@ -1489,6 +1497,18 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-10-19T08:05|Phoenix|1901",
+"t": "2026-10-19T08:05:00+02:00",
+"artist": "Phoenix",
+"title": "1901"
+},
+{
+"id": "2026-10-19T07:56|Portugal. The Man|What, Me Worry?",
+"t": "2026-10-19T07:56:00+02:00",
+"artist": "Portugal. The Man",
+"title": "What, Me Worry?"
+},
 {
 "id": "2026-10-19T07:53|Macy Gray|I Try",
 "t": "2026-10-19T07:53:00+02:00",
@@ -4480,6 +4500,14 @@
 "macy gray|i try": {
 "u": "spotify:track:5TAf4lnZCZTLlZHNZMLFLi",
 "d": "2026-10-19T07:55:53.005494+02:00"
+},
+"portugal the man|what me worry": {
+"u": "spotify:track:0ePX6rVjeql7Bt1KurTbAG",
+"d": "2026-10-19T08:01:53.006233+02:00"
+},
+"phoenix|1901": {
+"u": "spotify:track:68hYdj3GepWm2R202KhJT7",
+"d": "2026-10-19T08:10:53.007437+02:00"
 }
 }
 }
