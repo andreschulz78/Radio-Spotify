@@ -1,12 +1,16 @@
 {
-"updated": "2026-10-19T08:32:53.010350+02:00",
+"updated": "2026-10-19T08:43:53.011865+02:00",
 "matcher": 4,
 "blocked_until": null,
 "details": "51e4e36c2ea1",
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAE+xnJ5mpxVSpaYxQbzrtPH5RyrNmc",
+"snapshot": "AAAE/3lbwX9zGOpHpRmtD5eUPRqG6iDL",
 "playlist": [
+[
+"2026-10-19T08:34|Sylvan Paul|Cool Girls",
+"spotify:track:2WYe2DxrM8ZcPkoXKuwPdZ"
+],
 [
 "2026-10-19T08:25|Fred again.. feat. LATIN MAFIA|Te Estoy Correteando",
 "spotify:track:5B579RUazOpBcuxjTZWnMs"
@@ -1509,6 +1513,12 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-10-19T08:34|Sylvan Paul|Cool Girls",
+"t": "2026-10-19T08:34:00+02:00",
+"artist": "Sylvan Paul",
+"title": "Cool Girls"
+},
 {
 "id": "2026-10-19T08:25|Fred again.. feat. LATIN MAFIA|Te Estoy Correteando",
 "t": "2026-10-19T08:25:00+02:00",
@@ -4546,6 +4556,10 @@
 "fred again feat latin mafia|te estoy correteando": {
 "u": "spotify:track:5B579RUazOpBcuxjTZWnMs",
 "d": "2026-10-19T08:31:53.010217+02:00"
+},
+"sylvan paul|cool girls": {
+"u": "spotify:track:2WYe2DxrM8ZcPkoXKuwPdZ",
+"d": "2026-10-19T08:41:53.011581+02:00"
 }
 }
 }
