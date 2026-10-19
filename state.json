@@ -1,12 +1,24 @@
 {
-"updated": "2026-10-19T10:52:53.029682+02:00",
+"updated": "2026-10-19T11:03:53.031166+02:00",
 "matcher": 4,
 "blocked_until": null,
 "details": "51e4e36c2ea1",
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAFRxH9owqKvaVEsP+VBlBJ2m6/mzTD",
+"snapshot": "AAAFTyGmQUoclHPOYWgYFmipu0M+fizI",
 "playlist": [
+[
+"2026-10-19T10:57|Drahthaus|Alle gegen alle",
+"spotify:track:1CELQLcJLSV3toJrdlt7Ta"
+],
+[
+"2026-10-19T10:50|Alexander|Truth",
+"spotify:track:4KllqNpLjHRdPLh1XabhL3"
+],
+[
+"2026-10-19T10:47|The Divine Comedy|The Pop Singer's Fear Of The Pollen Count",
+"spotify:track:3AyDjsDStpmQwmTmpw4jo7"
+],
 [
 "2026-10-19T10:36|Benjamin Clementine|In Fact You Know You Gotto Go",
 "spotify:track:4cWEdRTQ8sg4QaTBIGn06j"
@@ -1593,6 +1605,24 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-10-19T10:57|Drahthaus|Alle gegen alle",
+"t": "2026-10-19T10:57:00+02:00",
+"artist": "Drahthaus",
+"title": "Alle gegen alle"
+},
+{
+"id": "2026-10-19T10:50|Alexander|Truth",
+"t": "2026-10-19T10:50:00+02:00",
+"artist": "Alexander",
+"title": "Truth"
+},
+{
+"id": "2026-10-19T10:47|The Divine Comedy|The Pop Singer's Fear Of The Pollen Count",
+"t": "2026-10-19T10:47:00+02:00",
+"artist": "The Divine Comedy",
+"title": "The Pop Singer's Fear Of The Pollen Count"
+},
 {
 "id": "2026-10-19T10:36|Benjamin Clementine|In Fact You Know You Gotto Go",
 "t": "2026-10-19T10:36:00+02:00",
@@ -4828,6 +4858,18 @@
 "benjamin clementine|in fact you know you gotto go": {
 "u": "spotify:track:4cWEdRTQ8sg4QaTBIGn06j",
 "d": "2026-10-19T10:46:53.028849+02:00"
+},
+"alexander|truth": {
+"u": "spotify:track:4KllqNpLjHRdPLh1XabhL3",
+"d": "2026-10-19T10:56:53.030183+02:00"
+},
+"the divine comedy|the pop singer s fear of the pollen count": {
+"u": "spotify:track:3AyDjsDStpmQwmTmpw4jo7",
+"d": "2026-10-19T10:56:53.030183+02:00"
+},
+"drahthaus|alle gegen alle": {
+"u": "spotify:track:1CELQLcJLSV3toJrdlt7Ta",
+"d": "2026-10-19T11:01:53.030931+02:00"
 }
 }
 }
