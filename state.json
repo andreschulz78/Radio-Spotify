@@ -1,12 +1,16 @@
 {
-"updated": "2026-10-19T14:02:01.280727+02:00",
+"updated": "2026-10-19T14:13:01.281833+02:00",
 "matcher": 4,
 "blocked_until": null,
 "details": "51e4e36c2ea1",
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAF1YNOTrb3/ehKak7aeKf6q4VNUUWA",
+"snapshot": "AAAF2m7/iJGDIjCNrZalUQCumU2K/9lr",
 "playlist": [
+[
+"2026-10-19T14:04|Meshell Ndegeocello feat. Cat Power|Don’t You Want Me",
+"spotify:track:5sbCqST9M4Q1sRSJM6L6oT"
+],
 [
 "2026-10-19T13:56|Adrian Younge|Nos Somos as Estrelas",
 "spotify:track:2ZDKqRiU308DT1OTvnQg03"
@@ -1737,6 +1741,12 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-10-19T14:04|Meshell Ndegeocello feat. Cat Power|Don’t You Want Me",
+"t": "2026-10-19T14:04:00+02:00",
+"artist": "Meshell Ndegeocello feat. Cat Power",
+"title": "Don’t You Want Me"
+},
 {
 "id": "2026-10-19T13:56|Adrian Younge|Nos Somos as Estrelas",
 "t": "2026-10-19T13:56:00+02:00",
