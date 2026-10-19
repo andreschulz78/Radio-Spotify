@@ -1,12 +1,20 @@
 {
-"updated": "2026-10-19T17:54:13.023024+02:00",
+"updated": "2026-10-19T18:05:13.024253+02:00",
 "matcher": 4,
 "blocked_until": null,
 "details": "51e4e36c2ea1",
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAGeoi+bRk+Xch2FuVLFFW8gtDkBDfu",
+"snapshot": "AAAGhEg5pw3/DI9e64H3ZUnj4/bSo3mf",
 "playlist": [
+[
+"2026-10-19T17:57|Black Marble|Jim Carol New Year",
+"spotify:track:3UhXNJjt6Y0sNCEwwhoJnT"
+],
+[
+"2026-10-19T17:50|Milan Ring|Leo",
+"spotify:track:4VwPMpZ4svZluuiZj9vNSM"
+],
 [
 "2026-10-19T17:41|The Art Of Noise|Peter Gunn",
 "spotify:track:1MeMfXuGPbO4qWVFZ1MeAV"
@@ -1889,6 +1897,18 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-10-19T17:57|Black Marble|Jim Carol New Year",
+"t": "2026-10-19T17:57:00+02:00",
+"artist": "Black Marble",
+"title": "Jim Carol New Year"
+},
+{
+"id": "2026-10-19T17:50|Milan Ring|Leo",
+"t": "2026-10-19T17:50:00+02:00",
+"artist": "Milan Ring",
+"title": "Leo"
+},
 {
 "id": "2026-10-19T17:41|The Art Of Noise|Peter Gunn",
 "t": "2026-10-19T17:41:00+02:00",
@@ -5818,6 +5838,10 @@
 "lady wray|time": {
 "u": "spotify:track:6uA7PvBIjfp4FM08Doi7TH",
 "d": "2026-10-19T17:46:13.022179+02:00"
+},
+"milan ring|leo": {
+"u": "spotify:track:4VwPMpZ4svZluuiZj9vNSM",
+"d": "2026-10-19T17:56:13.023236+02:00"
 }
 }
 }
