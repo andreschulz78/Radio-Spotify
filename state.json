@@ -1,12 +1,20 @@
 {
-"updated": "2026-10-19T09:26:53.017816+02:00",
+"updated": "2026-10-19T09:36:53.019201+02:00",
 "matcher": 4,
 "blocked_until": null,
 "details": "51e4e36c2ea1",
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAFF6/BSUmFNv2BYKdRW5zVDLgXNj5C",
+"snapshot": "AAAFH+0G8quiQp064XuXscYt31+pO0be",
 "playlist": [
+[
+"2026-10-19T09:27|Death Cab For Cutie|Pep Talk",
+"spotify:track:3ra7fDLqfUHBWBL702fOAn"
+],
+[
+"2026-10-19T09:23|BICEP feat. SOARR|Air (Radio Edit)",
+"spotify:track:2infXICqVSUM3bbGSOgFOY"
+],
 [
 "2026-10-19T09:16|Jim Croce|I Got A Name",
 "spotify:track:4UEgKxYLP0bPG6EwD0DgYK"
@@ -1541,6 +1549,18 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-10-19T09:27|Death Cab For Cutie|Pep Talk",
+"t": "2026-10-19T09:27:00+02:00",
+"artist": "Death Cab For Cutie",
+"title": "Pep Talk"
+},
+{
+"id": "2026-10-19T09:23|BICEP feat. SOARR|Air (Radio Edit)",
+"t": "2026-10-19T09:23:00+02:00",
+"artist": "BICEP feat. SOARR",
+"title": "Air (Radio Edit)"
+},
 {
 "id": "2026-10-19T09:16|Jim Croce|I Got A Name",
 "t": "2026-10-19T09:16:00+02:00",
@@ -4658,6 +4678,10 @@
 "jim croce|i got a name": {
 "u": "spotify:track:4UEgKxYLP0bPG6EwD0DgYK",
 "d": "2026-10-19T09:21:53.017019+02:00"
+},
+"death cab for cutie|pep talk": {
+"u": "spotify:track:3ra7fDLqfUHBWBL702fOAn",
+"d": "2026-10-19T09:36:53.019201+02:00"
 }
 }
 }
