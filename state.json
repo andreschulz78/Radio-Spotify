@@ -1,12 +1,16 @@
 {
-"updated": "2026-10-19T15:52:01.291705+02:00",
+"updated": "2026-10-19T16:03:01.292879+02:00",
 "matcher": 4,
 "blocked_until": null,
 "details": "51e4e36c2ea1",
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAGID2ZvjuQE4At9q9nOdV+wyQ6Zj2m",
+"snapshot": "AAAGJRuV+98ATlhrekcmHx7YxpRjbq/A",
 "playlist": [
+[
+"2026-10-19T15:52|Jamie XX|I Know There's Gonna Be (Good Times)",
+"spotify:track:7tKnIyHCj8dAOwgnwjGDKK"
+],
 [
 "2026-10-19T15:45|Stevie Wonder|Higher Ground",
 "spotify:track:0dMd4rilfd6gPbXaLpNYhu"
@@ -1813,6 +1817,12 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-10-19T15:52|Jamie XX|I Know There's Gonna Be (Good Times)",
+"t": "2026-10-19T15:52:00+02:00",
+"artist": "Jamie XX",
+"title": "I Know There's Gonna Be (Good Times)"
+},
 {
 "id": "2026-10-19T15:45|Stevie Wonder|Higher Ground",
 "t": "2026-10-19T15:45:00+02:00",
@@ -4563,11 +4573,11 @@
 },
 "tegan sara|back in your head": {
 "u": null,
-"d": "2026-10-16T15:59:26.606190+02:00"
+"d": "2026-10-19T16:00:01.292551+02:00"
 },
 "united balls|pogo in togo": {
 "u": null,
-"d": "2026-10-16T15:59:26.606190+02:00"
+"d": "2026-10-19T16:00:01.292551+02:00"
 },
 "django django ft max pope|feel alright": {
 "u": "spotify:track:1TU9gJekTIXiu3RVb9wrzN",
@@ -5564,6 +5574,10 @@
 "stevie wonder|higher ground": {
 "u": "spotify:track:0dMd4rilfd6gPbXaLpNYhu",
 "d": "2026-10-19T15:52:01.291705+02:00"
+},
+"jamie xx|i know there s gonna be good times": {
+"u": "spotify:track:7tKnIyHCj8dAOwgnwjGDKK",
+"d": "2026-10-19T15:57:01.292219+02:00"
 }
 }
 }
