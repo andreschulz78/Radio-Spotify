@@ -1,12 +1,20 @@
 {
-"updated": "2026-10-19T09:36:53.019201+02:00",
+"updated": "2026-10-19T09:47:53.020731+02:00",
 "matcher": 4,
 "blocked_until": null,
 "details": "51e4e36c2ea1",
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAFH+0G8quiQp064XuXscYt31+pO0be",
+"snapshot": "AAAFJ5Kps637xb9KJaQrX+6LUXclMWzc",
 "playlist": [
+[
+"2026-10-19T09:43|4 Hero|Star Chasers",
+"spotify:track:5AoOfPXUZpQr7SPWFldB9f"
+],
+[
+"2026-10-19T09:35|Thus Love|In Tandem",
+"spotify:track:5AfzXDe1ySB7J8QrtjMJef"
+],
 [
 "2026-10-19T09:27|Death Cab For Cutie|Pep Talk",
 "spotify:track:3ra7fDLqfUHBWBL702fOAn"
@@ -1549,6 +1557,18 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-10-19T09:43|4 Hero|Star Chasers",
+"t": "2026-10-19T09:43:00+02:00",
+"artist": "4 Hero",
+"title": "Star Chasers"
+},
+{
+"id": "2026-10-19T09:35|Thus Love|In Tandem",
+"t": "2026-10-19T09:35:00+02:00",
+"artist": "Thus Love",
+"title": "In Tandem"
+},
 {
 "id": "2026-10-19T09:27|Death Cab For Cutie|Pep Talk",
 "t": "2026-10-19T09:27:00+02:00",
@@ -4682,6 +4702,14 @@
 "death cab for cutie|pep talk": {
 "u": "spotify:track:3ra7fDLqfUHBWBL702fOAn",
 "d": "2026-10-19T09:36:53.019201+02:00"
+},
+"thus love|in tandem": {
+"u": "spotify:track:5AfzXDe1ySB7J8QrtjMJef",
+"d": "2026-10-19T09:41:53.019885+02:00"
+},
+"4 hero|star chasers": {
+"u": "spotify:track:5AoOfPXUZpQr7SPWFldB9f",
+"d": "2026-10-19T09:46:53.020588+02:00"
 }
 }
 }
