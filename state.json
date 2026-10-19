@@ -1,12 +1,20 @@
 {
-"updated": "2026-10-19T11:30:01.265505+02:00",
+"updated": "2026-10-19T11:41:01.266661+02:00",
 "matcher": 4,
 "blocked_until": null,
 "details": "51e4e36c2ea1",
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAFXfLSLfpey1dGe9XcnQBpAv7peCGd",
+"snapshot": "AAAFZwo9ldh3EUmHsFseHpP1zRn6hrLH",
 "playlist": [
+[
+"2026-10-19T11:32|The Preatures|Is This How You Feel",
+"spotify:track:2PYd6dM9Bqo28ACUrPIgAD"
+],
+[
+"2026-10-19T11:26|Neal Francis|Hide",
+"spotify:track:197QlBcwTnJNU8DAf3BNLo"
+],
 [
 "2026-10-19T11:22|Miike Snow|Plastic Jungle",
 "spotify:track:45QfGrSLXMYyzY843UpmLm"
@@ -1625,6 +1633,18 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-10-19T11:32|The Preatures|Is This How You Feel",
+"t": "2026-10-19T11:32:00+02:00",
+"artist": "The Preatures",
+"title": "Is This How You Feel"
+},
+{
+"id": "2026-10-19T11:26|Neal Francis|Hide",
+"t": "2026-10-19T11:26:00+02:00",
+"artist": "Neal Francis",
+"title": "Hide"
+},
 {
 "id": "2026-10-19T11:22|Miike Snow|Plastic Jungle",
 "t": "2026-10-19T11:22:00+02:00",
@@ -4940,6 +4960,10 @@
 "erika de casier|delusional": {
 "u": "spotify:track:6M5Y8sn5cXePK58bH1WKon",
 "d": "2026-10-19T11:26:01.265134+02:00"
+},
+"the preatures|is this how you feel": {
+"u": "spotify:track:2PYd6dM9Bqo28ACUrPIgAD",
+"d": "2026-10-19T11:36:01.266115+02:00"
 }
 }
 }
