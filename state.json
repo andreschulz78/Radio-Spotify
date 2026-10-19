@@ -1,12 +1,16 @@
 {
-"updated": "2026-10-19T13:41:01.278620+02:00",
+"updated": "2026-10-19T13:52:01.279743+02:00",
 "matcher": 4,
 "blocked_until": null,
 "details": "51e4e36c2ea1",
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAFxu+l+WQrUZPsjIAHSxOpNPnUNFGu",
+"snapshot": "AAAFy+RCGD11CpfUwgJYhgxe+Dv4BKrD",
 "playlist": [
+[
+"2026-10-19T13:39|Nia Archives|Vertical",
+"spotify:track:0ecQazzKkndVD8Ry9Orp9Q"
+],
 [
 "2026-10-19T13:35|Hope Tala|Party Sickness",
 "spotify:track:06DcUBxCvBAqvWgpExtbLE"
@@ -1721,6 +1725,12 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-10-19T13:39|Nia Archives|Vertical",
+"t": "2026-10-19T13:39:00+02:00",
+"artist": "Nia Archives",
+"title": "Vertical"
+},
 {
 "id": "2026-10-19T13:35|Hope Tala|Party Sickness",
 "t": "2026-10-19T13:35:00+02:00",
@@ -5258,6 +5268,10 @@
 "hope tala|party sickness": {
 "u": "spotify:track:06DcUBxCvBAqvWgpExtbLE",
 "d": "2026-10-19T13:41:01.278620+02:00"
+},
+"nia archives|vertical": {
+"u": "spotify:track:0ecQazzKkndVD8Ry9Orp9Q",
+"d": "2026-10-19T13:47:01.279253+02:00"
 }
 }
 }
