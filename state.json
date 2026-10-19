@@ -1,12 +1,16 @@
 {
-"updated": "2026-10-19T15:19:01.288673+02:00",
+"updated": "2026-10-19T15:30:01.289718+02:00",
 "matcher": 4,
 "blocked_until": null,
 "details": "51e4e36c2ea1",
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAGDPOVxO5BbhPjyrUjKIku6zlKDUfq",
+"snapshot": "AAAGESSAJigjwc0KEKrC2MvCb2n6d+E4",
 "playlist": [
+[
+"2026-10-19T15:18|Plant, Robert|29 palms",
+"spotify:track:5hrsqusQlSqlWpvtjJpxPq"
+],
 [
 "2026-10-19T15:09|Freedom Fry|Le Point Zéro",
 "spotify:track:54YOT8C4TrL37BraXvEZai"
@@ -1793,6 +1797,12 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-10-19T15:18|Plant, Robert|29 palms",
+"t": "2026-10-19T15:18:00+02:00",
+"artist": "Plant, Robert",
+"title": "29 palms"
+},
 {
 "id": "2026-10-19T15:09|Freedom Fry|Le Point Zéro",
 "t": "2026-10-19T15:09:00+02:00",
@@ -5498,6 +5508,10 @@
 "freedom fry|le point zero": {
 "u": "spotify:track:54YOT8C4TrL37BraXvEZai",
 "d": "2026-10-19T15:17:01.288480+02:00"
+},
+"plant robert|29 palms": {
+"u": "spotify:track:5hrsqusQlSqlWpvtjJpxPq",
+"d": "2026-10-19T15:26:01.289363+02:00"
 }
 }
 }
