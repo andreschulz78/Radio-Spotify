@@ -1,12 +1,20 @@
 {
-"updated": "2026-10-19T13:30:01.277579+02:00",
+"updated": "2026-10-19T13:41:01.278620+02:00",
 "matcher": 4,
 "blocked_until": null,
 "details": "51e4e36c2ea1",
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAFvOaJTw/D6Us4R3MKn44Vb/e/JlKm",
+"snapshot": "AAAFxu+l+WQrUZPsjIAHSxOpNPnUNFGu",
 "playlist": [
+[
+"2026-10-19T13:35|Hope Tala|Party Sickness",
+"spotify:track:06DcUBxCvBAqvWgpExtbLE"
+],
+[
+"2026-10-19T13:23|Ruti|Luh Luh Love",
+"spotify:track:4xVDOfh1nGM4xlKMm7Tlq2"
+],
 [
 "2026-10-19T13:20|Nihils|Lavender",
 "spotify:track:24IHKK4RZRa5WYOEigkp5h"
@@ -1713,6 +1721,24 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-10-19T13:35|Hope Tala|Party Sickness",
+"t": "2026-10-19T13:35:00+02:00",
+"artist": "Hope Tala",
+"title": "Party Sickness"
+},
+{
+"id": "2026-10-19T13:28|Maps|A.M.A.",
+"t": "2026-10-19T13:28:00+02:00",
+"artist": "Maps",
+"title": "A.M.A."
+},
+{
+"id": "2026-10-19T13:23|Ruti|Luh Luh Love",
+"t": "2026-10-19T13:23:00+02:00",
+"artist": "Ruti",
+"title": "Luh Luh Love"
+},
 {
 "id": "2026-10-19T13:20|Nihils|Lavender",
 "t": "2026-10-19T13:20:00+02:00",
@@ -5220,6 +5246,18 @@
 "fad gadget|collapsing new people": {
 "u": "spotify:track:1Gl6hl9aROxra536kT0Zz3",
 "d": "2026-10-19T13:17:01.276217+02:00"
+},
+"ruti|luh luh love": {
+"u": "spotify:track:4xVDOfh1nGM4xlKMm7Tlq2",
+"d": "2026-10-19T13:32:01.277752+02:00"
+},
+"maps|a m a": {
+"u": null,
+"d": "2026-10-19T13:36:01.278168+02:00"
+},
+"hope tala|party sickness": {
+"u": "spotify:track:06DcUBxCvBAqvWgpExtbLE",
+"d": "2026-10-19T13:41:01.278620+02:00"
 }
 }
 }
