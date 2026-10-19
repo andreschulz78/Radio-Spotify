@@ -1,12 +1,20 @@
 {
-"updated": "2026-10-19T14:13:01.281833+02:00",
+"updated": "2026-10-19T14:24:01.282975+02:00",
 "matcher": 4,
 "blocked_until": null,
 "details": "51e4e36c2ea1",
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAF2m7/iJGDIjCNrZalUQCumU2K/9lr",
+"snapshot": "AAAF5Lw6ykPGq7V8HX7uQahuqXBQ28LJ",
 "playlist": [
+[
+"2026-10-19T14:14|Aurora|All My Demons Greeting Me As A Friend",
+"spotify:track:5O1tikYb6HKrP5cxSQv0iV"
+],
+[
+"2026-10-19T14:09|Peter Fox|Stadtaffe",
+"spotify:track:21TBDDSwfLO7w5vfHLniPB"
+],
 [
 "2026-10-19T14:04|Meshell Ndegeocello feat. Cat Power|Don’t You Want Me",
 "spotify:track:5sbCqST9M4Q1sRSJM6L6oT"
@@ -1741,6 +1749,18 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-10-19T14:14|Aurora|All My Demons Greeting Me As A Friend",
+"t": "2026-10-19T14:14:00+02:00",
+"artist": "Aurora",
+"title": "All My Demons Greeting Me As A Friend"
+},
+{
+"id": "2026-10-19T14:09|Peter Fox|Stadtaffe",
+"t": "2026-10-19T14:09:00+02:00",
+"artist": "Peter Fox",
+"title": "Stadtaffe"
+},
 {
 "id": "2026-10-19T14:04|Meshell Ndegeocello feat. Cat Power|Don’t You Want Me",
 "t": "2026-10-19T14:04:00+02:00",
@@ -5320,6 +5340,14 @@
 "adrian younge|nos somos as estrelas": {
 "u": "spotify:track:2ZDKqRiU308DT1OTvnQg03",
 "d": "2026-10-19T13:57:01.280217+02:00"
+},
+"peter fox|stadtaffe": {
+"u": "spotify:track:21TBDDSwfLO7w5vfHLniPB",
+"d": "2026-10-19T14:17:01.282238+02:00"
+},
+"aurora|all my demons greeting me as a friend": {
+"u": "spotify:track:5O1tikYb6HKrP5cxSQv0iV",
+"d": "2026-10-19T14:22:01.282781+02:00"
 }
 }
 }
