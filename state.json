@@ -1,12 +1,24 @@
 {
-"updated": "2026-10-19T11:19:01.264453+02:00",
+"updated": "2026-10-19T11:30:01.265505+02:00",
 "matcher": 4,
 "blocked_until": null,
 "details": "51e4e36c2ea1",
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAFUyzQCBaUl4RYzvY72IUKKy/FP27B",
+"snapshot": "AAAFXfLSLfpey1dGe9XcnQBpAv7peCGd",
 "playlist": [
+[
+"2026-10-19T11:22|Miike Snow|Plastic Jungle",
+"spotify:track:45QfGrSLXMYyzY843UpmLm"
+],
+[
+"2026-10-19T11:19|Erika De Casier|Delusional",
+"spotify:track:6M5Y8sn5cXePK58bH1WKon"
+],
+[
+"2026-10-19T11:15|Carly Simon|Why",
+"spotify:track:2cU3aASest9btm3oaSofl7"
+],
 [
 "2026-10-19T11:10|UCHE YARA|Hello Hello",
 "spotify:track:3hadpAb0vS5uYSrfidLaDr"
@@ -1613,6 +1625,24 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-10-19T11:22|Miike Snow|Plastic Jungle",
+"t": "2026-10-19T11:22:00+02:00",
+"artist": "Miike Snow",
+"title": "Plastic Jungle"
+},
+{
+"id": "2026-10-19T11:19|Erika De Casier|Delusional",
+"t": "2026-10-19T11:19:00+02:00",
+"artist": "Erika De Casier",
+"title": "Delusional"
+},
+{
+"id": "2026-10-19T11:15|Carly Simon|Why",
+"t": "2026-10-19T11:15:00+02:00",
+"artist": "Carly Simon",
+"title": "Why"
+},
 {
 "id": "2026-10-19T11:10|UCHE YARA|Hello Hello",
 "t": "2026-10-19T11:10:00+02:00",
@@ -4898,6 +4928,18 @@
 "avalon emerson|jupiter and mars": {
 "u": "spotify:track:6uzYz5meqzlTltQ6E15uPd",
 "d": "2026-10-19T11:15:01.264092+02:00"
+},
+"carly simon|why": {
+"u": "spotify:track:2cU3aASest9btm3oaSofl7",
+"d": "2026-10-19T11:22:01.264747+02:00"
+},
+"miike snow|plastic jungle": {
+"u": "spotify:track:45QfGrSLXMYyzY843UpmLm",
+"d": "2026-10-19T11:26:01.265134+02:00"
+},
+"erika de casier|delusional": {
+"u": "spotify:track:6M5Y8sn5cXePK58bH1WKon",
+"d": "2026-10-19T11:26:01.265134+02:00"
 }
 }
 }
