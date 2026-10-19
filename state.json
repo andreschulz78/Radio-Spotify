@@ -1,12 +1,20 @@
 {
-"updated": "2026-10-19T16:36:01.296739+02:00",
+"updated": "2026-10-19T16:46:01.297756+02:00",
 "matcher": 4,
 "blocked_until": null,
 "details": "51e4e36c2ea1",
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAGQ//Sh1QhAbGDNNDxYI1Ajq3a4lUM",
+"snapshot": "AAAGTSe77DXvcqHbYVIh9/86cYTvnwIi",
 "playlist": [
+[
+"2026-10-19T16:38|Austra|Lose It",
+"spotify:track:4sdzyugM62BfrE1mZvx15c"
+],
+[
+"2026-10-19T16:34|Smidley feat. Lucy Dacus|Capstone",
+"spotify:track:0YosJMrYxYQP7mLXfFo0p1"
+],
 [
 "2026-10-19T16:24|Seamus Fogarty|Fire (Edit)",
 "spotify:track:383q4d3j4gnvNN6dtlxyvM"
@@ -1841,6 +1849,18 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-10-19T16:38|Austra|Lose It",
+"t": "2026-10-19T16:38:00+02:00",
+"artist": "Austra",
+"title": "Lose It"
+},
+{
+"id": "2026-10-19T16:34|Smidley feat. Lucy Dacus|Capstone",
+"t": "2026-10-19T16:34:00+02:00",
+"artist": "Smidley feat. Lucy Dacus",
+"title": "Capstone"
+},
 {
 "id": "2026-10-19T16:24|Seamus Fogarty|Fire (Edit)",
 "t": "2026-10-19T16:24:00+02:00",
@@ -5654,6 +5674,10 @@
 "seamus fogarty|fire edit": {
 "u": "spotify:track:383q4d3j4gnvNN6dtlxyvM",
 "d": "2026-10-19T16:32:01.296286+02:00"
+},
+"austra|lose it": {
+"u": "spotify:track:4sdzyugM62BfrE1mZvx15c",
+"d": "2026-10-19T16:46:01.297756+02:00"
 }
 }
 }
