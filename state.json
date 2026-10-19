@@ -1,12 +1,16 @@
 {
-"updated": "2026-10-19T07:27:53.001855+02:00",
+"updated": "2026-10-19T07:38:53.003354+02:00",
 "matcher": 4,
 "blocked_until": null,
 "details": "51e4e36c2ea1",
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAE18UI5AAhSFzxZJ1ZZnLqUBcroouN",
+"snapshot": "AAAE29vlH37+HsuFD7LtgpTVegeQ154r",
 "playlist": [
+[
+"2026-10-19T07:26|Yazmin Lacey|Summer Haze",
+"spotify:track:465QjZo1z1JAuLTTC7DnuK"
+],
 [
 "2026-10-19T07:23|Mk.gee|Alesis",
 "spotify:track:1fAaC0BVOACO5hmyiwIqAG"
@@ -1469,6 +1473,12 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-10-19T07:26|Yazmin Lacey|Summer Haze",
+"t": "2026-10-19T07:26:00+02:00",
+"artist": "Yazmin Lacey",
+"title": "Summer Haze"
+},
 {
 "id": "2026-10-19T07:23|Mk.gee|Alesis",
 "t": "2026-10-19T07:23:00+02:00",
@@ -4414,6 +4424,10 @@
 "mk gee|alesis": {
 "u": "spotify:track:1fAaC0BVOACO5hmyiwIqAG",
 "d": "2026-10-19T07:26:53.001723+02:00"
+},
+"yazmin lacey|summer haze": {
+"u": "spotify:track:465QjZo1z1JAuLTTC7DnuK",
+"d": "2026-10-19T07:30:53.002280+02:00"
 }
 }
 }
