@@ -1,12 +1,20 @@
 {
-"updated": "2026-10-20T08:40:27.524784+02:00",
+"updated": "2026-10-20T08:51:27.526067+02:00",
 "matcher": 4,
 "blocked_until": null,
 "details": "51e4e36c2ea1",
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAHY/BAJVey2ohCC6p7YX6NhY0nt6yZ",
+"snapshot": "AAAHb8cYVvguh4OgSyT8O5VGNSUTLRKh",
 "playlist": [
+[
+"2026-10-20T08:42|School Of Zuversicht|Hinter dem Hügel (Edit)",
+"spotify:track:5Hl437gQeC8rwiW41qi2eF"
+],
+[
+"2026-10-20T08:34|Jim James|Come Again",
+"spotify:track:6S3Ao3HkuLpHffHWL8oRsz"
+],
 [
 "2026-10-20T08:27|UCHE YARA|Hello Hello",
 "spotify:track:3hadpAb0vS5uYSrfidLaDr"
@@ -2113,6 +2121,18 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-10-20T08:42|School Of Zuversicht|Hinter dem Hügel (Edit)",
+"t": "2026-10-20T08:42:00+02:00",
+"artist": "School Of Zuversicht",
+"title": "Hinter dem Hügel (Edit)"
+},
+{
+"id": "2026-10-20T08:34|Jim James|Come Again",
+"t": "2026-10-20T08:34:00+02:00",
+"artist": "Jim James",
+"title": "Come Again"
+},
 {
 "id": "2026-10-20T08:27|UCHE YARA|Hello Hello",
 "t": "2026-10-20T08:27:00+02:00",
@@ -6580,6 +6600,14 @@
 "coldplay|popsplits dont panic": {
 "u": "spotify:track:2QhURnm7mQDxBb5jWkbDug",
 "d": "2026-10-20T08:32:27.523960+02:00"
+},
+"jim james|come again": {
+"u": "spotify:track:6S3Ao3HkuLpHffHWL8oRsz",
+"d": "2026-10-20T08:41:27.524890+02:00"
+},
+"school of zuversicht|hinter dem hugel edit": {
+"u": "spotify:track:5Hl437gQeC8rwiW41qi2eF",
+"d": "2026-10-20T08:47:27.525583+02:00"
 }
 }
 }
