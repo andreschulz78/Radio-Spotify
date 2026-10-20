@@ -1,12 +1,16 @@
 {
-"updated": "2026-10-20T10:10:36.428887+02:00",
+"updated": "2026-10-20T10:21:36.430350+02:00",
 "matcher": 4,
 "blocked_until": null,
 "details": "51e4e36c2ea1",
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAHvfX/CvmybKPGT3/jLYg6oennUnO9",
+"snapshot": "AAAHw4s3CNMVH27TK+H1LRt8+zQDMx3B",
 "playlist": [
+[
+"2026-10-20T10:09|Lola Young|From Down Here (Radio Edit)",
+"spotify:track:7Hg7l5aOygIHuaNDVFp3ox"
+],
 [
 "2026-10-20T10:06|Gerry Cinnamon|Sometimes",
 "spotify:track:58dwGk4l4ju8pI9YWsTHWD"
@@ -2177,6 +2181,12 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-10-20T10:09|Lola Young|From Down Here (Radio Edit)",
+"t": "2026-10-20T10:09:00+02:00",
+"artist": "Lola Young",
+"title": "From Down Here (Radio Edit)"
+},
 {
 "id": "2026-10-20T10:06|Gerry Cinnamon|Sometimes",
 "t": "2026-10-20T10:06:00+02:00",
