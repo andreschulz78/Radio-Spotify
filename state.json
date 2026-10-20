@@ -1,12 +1,32 @@
 {
-"updated": "2026-10-19T18:50:13.029756+02:00",
+"updated": "2026-10-20T05:13:27.501552+02:00",
 "matcher": 4,
 "blocked_until": null,
 "details": "51e4e36c2ea1",
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAGoqV6yKM8RVoE3LmtltTVqtj7/14j",
+"snapshot": "AAAGrFbQGKEZ4jEcNQgsNyLoQps5dPfS",
 "playlist": [
+[
+"2026-10-20T05:06|Nia Archives|There Goes Ma Head",
+"spotify:track:0ceKqpXrrC3CtFwFiLJeoY"
+],
+[
+"2026-10-20T05:03|The Black Keys|On Repeat",
+"spotify:track:2B5ZNovTMGMW50ml95BP7L"
+],
+[
+"2026-10-19T20:53|Kings Of Leon|My Whole World",
+"spotify:track:2tfc81XZfVReM0kYQqv7o3"
+],
+[
+"2026-10-19T19:54|Ibeyi|Hurry Hurry",
+"spotify:track:4BGA7VW330Eu1kaFNi98cG"
+],
+[
+"2026-10-19T18:55|Andrew Collberg|Hi Hopes (Edit)",
+"spotify:track:6mgDDFbggvZ4LUK62Cljzp"
+],
 [
 "2026-10-19T18:41|Leon Bridges|Talk it over",
 "spotify:track:5Bdn8RyTqz4dV7F07EFBP5"
@@ -1921,6 +1941,96 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-10-20T05:06|Nia Archives|There Goes Ma Head",
+"t": "2026-10-20T05:06:00+02:00",
+"artist": "Nia Archives",
+"title": "There Goes Ma Head"
+},
+{
+"id": "2026-10-20T05:03|The Black Keys|On Repeat",
+"t": "2026-10-20T05:03:00+02:00",
+"artist": "The Black Keys",
+"title": "On Repeat"
+},
+{
+"id": "2026-10-19T20:53|Kings Of Leon|My Whole World",
+"t": "2026-10-19T20:53:00+02:00",
+"artist": "Kings Of Leon",
+"title": "My Whole World"
+},
+{
+"id": "2026-10-19T20:46|Nightmares On Wax feat. Mozez|You Wish (Abbey Road Fuzz Gospel Version)",
+"t": "2026-10-19T20:46:00+02:00",
+"artist": "Nightmares On Wax feat. Mozez",
+"title": "You Wish (Abbey Road Fuzz Gospel Version)"
+},
+{
+"id": "2026-10-19T20:31|Zombie Nation|Unload",
+"t": "2026-10-19T20:31:00+02:00",
+"artist": "Zombie Nation",
+"title": "Unload"
+},
+{
+"id": "2026-10-19T20:26|The Cranberries|Zombie",
+"t": "2026-10-19T20:26:00+02:00",
+"artist": "The Cranberries",
+"title": "Zombie"
+},
+{
+"id": "2026-10-19T20:16|Yard Act|Janey Said (Edit)",
+"t": "2026-10-19T20:16:00+02:00",
+"artist": "Yard Act",
+"title": "Janey Said (Edit)"
+},
+{
+"id": "2026-10-19T20:05|The xx|I Dare You",
+"t": "2026-10-19T20:05:00+02:00",
+"artist": "The xx",
+"title": "I Dare You"
+},
+{
+"id": "2026-10-19T19:57|Deichkind|Fresh ist vorne",
+"t": "2026-10-19T19:57:00+02:00",
+"artist": "Deichkind",
+"title": "Fresh ist vorne"
+},
+{
+"id": "2026-10-19T19:54|Ibeyi|Hurry Hurry",
+"t": "2026-10-19T19:54:00+02:00",
+"artist": "Ibeyi",
+"title": "Hurry Hurry"
+},
+{
+"id": "2026-10-19T19:42|The Beatles|Yellow Submarine (2009 Remaster)",
+"t": "2026-10-19T19:42:00+02:00",
+"artist": "The Beatles",
+"title": "Yellow Submarine (2009 Remaster)"
+},
+{
+"id": "2026-10-19T19:06|Chinese American Bear|Dance Dance Dance (Edit)",
+"t": "2026-10-19T19:06:00+02:00",
+"artist": "Chinese American Bear",
+"title": "Dance Dance Dance (Edit)"
+},
+{
+"id": "2026-10-19T18:55|Andrew Collberg|Hi Hopes (Edit)",
+"t": "2026-10-19T18:55:00+02:00",
+"artist": "Andrew Collberg",
+"title": "Hi Hopes (Edit)"
+},
+{
+"id": "2026-10-19T18:48|Stevie Wonder|All I Do",
+"t": "2026-10-19T18:48:00+02:00",
+"artist": "Stevie Wonder",
+"title": "All I Do"
+},
+{
+"id": "2026-10-19T18:44|Fuffifufzich|Feel zu spät",
+"t": "2026-10-19T18:44:00+02:00",
+"artist": "Fuffifufzich",
+"title": "Feel zu spät"
+},
 {
 "id": "2026-10-19T18:41|Leon Bridges|Talk it over",
 "t": "2026-10-19T18:41:00+02:00",
@@ -5922,6 +6032,18 @@
 "leon bridges|talk it over": {
 "u": "spotify:track:5Bdn8RyTqz4dV7F07EFBP5",
 "d": "2026-10-19T18:46:13.029262+02:00"
+},
+"nia archives|there goes ma head": {
+"u": "spotify:track:0ceKqpXrrC3CtFwFiLJeoY",
+"d": "2026-10-20T05:13:27.501552+02:00"
+},
+"the black keys|on repeat": {
+"u": "spotify:track:2B5ZNovTMGMW50ml95BP7L",
+"d": "2026-10-20T05:13:27.501552+02:00"
+},
+"kings of leon|my whole world": {
+"u": "spotify:track:2tfc81XZfVReM0kYQqv7o3",
+"d": "2026-10-20T05:13:27.501552+02:00"
 }
 }
 }
