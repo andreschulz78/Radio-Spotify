@@ -1,12 +1,24 @@
 {
-"updated": "2026-10-20T13:45:37.003682+02:00",
+"updated": "2026-10-20T13:56:37.005113+02:00",
 "matcher": 4,
 "blocked_until": null,
 "details": "51e4e36c2ea1",
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAIctdk53sDzs6PtlsGsVvuN/T0tlVI",
+"snapshot": "AAAIfdLEnokypYhVgR+rVmljzxXYo3VO",
 "playlist": [
+[
+"2026-10-20T13:52|Alewya|Maktoub",
+"spotify:track:56DYNKo3QHkakqOUkWi3vl"
+],
+[
+"2026-10-20T13:48|Snoop Dogg feat. Pharrell Williams|Drop It Like It's Hot",
+"spotify:track:2NBQmPrOEEjA8VbeWOQGxO"
+],
+[
+"2026-10-20T13:44|Death Cab For Cutie|Pep Talk",
+"spotify:track:3ra7fDLqfUHBWBL702fOAn"
+],
 [
 "2026-10-20T13:36|Nichtseattle|Ich mit Brille",
 "spotify:track:1C0Lpji3kKe7rZie1LC4bx"
@@ -2333,6 +2345,24 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-10-20T13:52|Alewya|Maktoub",
+"t": "2026-10-20T13:52:00+02:00",
+"artist": "Alewya",
+"title": "Maktoub"
+},
+{
+"id": "2026-10-20T13:48|Snoop Dogg feat. Pharrell Williams|Drop It Like It's Hot",
+"t": "2026-10-20T13:48:00+02:00",
+"artist": "Snoop Dogg feat. Pharrell Williams",
+"title": "Drop It Like It's Hot"
+},
+{
+"id": "2026-10-20T13:44|Death Cab For Cutie|Pep Talk",
+"t": "2026-10-20T13:44:00+02:00",
+"artist": "Death Cab For Cutie",
+"title": "Pep Talk"
+},
 {
 "id": "2026-10-20T13:36|Nichtseattle|Ich mit Brille",
 "t": "2026-10-20T13:36:00+02:00",
@@ -6271,7 +6301,7 @@
 },
 "spiller|cry baby remix": {
 "u": null,
-"d": "2026-10-17T13:50:55.045059+02:00"
+"d": "2026-10-20T13:51:37.004500+02:00"
 },
 "jungle|someday somewhere": {
 "u": "spotify:track:20FqWsyuUaQTU5tk4nP6eN",
@@ -7312,6 +7342,10 @@
 "jamie xx feat the avalanches|all you children": {
 "u": "spotify:track:1zYuc5YFYlFfSSq6IslHVY",
 "d": "2026-10-20T13:42:37.003309+02:00"
+},
+"snoop dogg feat pharrell williams|drop it like it s hot": {
+"u": "spotify:track:2NBQmPrOEEjA8VbeWOQGxO",
+"d": "2026-10-20T13:56:37.005113+02:00"
 }
 }
 }
