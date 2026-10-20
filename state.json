@@ -1,12 +1,20 @@
 {
-"updated": "2026-10-20T06:51:27.512584+02:00",
+"updated": "2026-10-20T07:02:27.513891+02:00",
 "matcher": 4,
 "blocked_until": null,
 "details": "51e4e36c2ea1",
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAHD7THpkeMqdG3iZ1CioNqaMxTVPXt",
+"snapshot": "AAAHGxEHr2BXs+wbU6RAcwWE8dpthvVP",
 "playlist": [
+[
+"2026-10-20T06:55|Doja Cat|Paint The Town Red",
+"spotify:track:2IGMVunIBsBLtEQyoI1Mu7"
+],
+[
+"2026-10-20T06:48|Yard Act|You're Gonna Need A Little Music",
+"spotify:track:43KS2LpjMVkvJdprLaoQxQ"
+],
 [
 "2026-10-20T06:42|Mine|Mein Herz",
 "spotify:track:2TpYemObRvIrdNn9elxhCR"
@@ -2049,6 +2057,18 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-10-20T06:55|Doja Cat|Paint The Town Red",
+"t": "2026-10-20T06:55:00+02:00",
+"artist": "Doja Cat",
+"title": "Paint The Town Red"
+},
+{
+"id": "2026-10-20T06:48|Yard Act|You're Gonna Need A Little Music",
+"t": "2026-10-20T06:48:00+02:00",
+"artist": "Yard Act",
+"title": "You're Gonna Need A Little Music"
+},
 {
 "id": "2026-10-20T06:42|Mine|Mein Herz",
 "t": "2026-10-20T06:42:00+02:00",
@@ -6364,6 +6384,14 @@
 "mine|mein herz": {
 "u": "spotify:track:2TpYemObRvIrdNn9elxhCR",
 "d": "2026-10-20T06:51:27.512584+02:00"
+},
+"yard act|you re gonna need a little music": {
+"u": "spotify:track:43KS2LpjMVkvJdprLaoQxQ",
+"d": "2026-10-20T06:56:27.513226+02:00"
+},
+"doja cat|paint the town red": {
+"u": "spotify:track:2IGMVunIBsBLtEQyoI1Mu7",
+"d": "2026-10-20T07:00:27.513645+02:00"
 }
 }
 }
