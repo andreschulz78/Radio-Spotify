@@ -1,12 +1,20 @@
 {
-"updated": "2026-10-20T05:13:27.501552+02:00",
+"updated": "2026-10-20T05:24:27.502756+02:00",
 "matcher": 4,
 "blocked_until": null,
 "details": "51e4e36c2ea1",
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAGrFbQGKEZ4jEcNQgsNyLoQps5dPfS",
+"snapshot": "AAAGwTreX/+b07etCPFlJzUQ/DOwTnBd",
 "playlist": [
+[
+"2026-10-20T05:15|Beck|It Ends Right Here",
+"spotify:track:3PmyDf7Zu4vveCnayueVYX"
+],
+[
+"2026-10-20T05:09|Can|Spoon",
+"spotify:track:4bxRXojTBYrk1dbepAxRlb"
+],
 [
 "2026-10-20T05:06|Nia Archives|There Goes Ma Head",
 "spotify:track:0ceKqpXrrC3CtFwFiLJeoY"
@@ -20,12 +28,48 @@
 "spotify:track:2tfc81XZfVReM0kYQqv7o3"
 ],
 [
+"2026-10-19T20:46|Nightmares On Wax feat. Mozez|You Wish (Abbey Road Fuzz Gospel Version)",
+"spotify:track:6G6M4fl2I0eqEQnzyTwR8m"
+],
+[
+"2026-10-19T20:31|Zombie Nation|Unload",
+"spotify:track:60d92hjxEdPKnreVo1QVhG"
+],
+[
+"2026-10-19T20:26|The Cranberries|Zombie",
+"spotify:track:1aZfq7TK3tNl9XJLkOpwKw"
+],
+[
+"2026-10-19T20:16|Yard Act|Janey Said (Edit)",
+"spotify:track:0mV0B0SbcF6CMSdDyDNYpR"
+],
+[
+"2026-10-19T20:05|The xx|I Dare You",
+"spotify:track:3pAw0BXL8acShtjUwLosw8"
+],
+[
 "2026-10-19T19:54|Ibeyi|Hurry Hurry",
 "spotify:track:4BGA7VW330Eu1kaFNi98cG"
 ],
 [
+"2026-10-19T19:42|The Beatles|Yellow Submarine (2009 Remaster)",
+"spotify:track:3oEo8Pqm5IAi8wQfCI5BpR"
+],
+[
+"2026-10-19T19:06|Chinese American Bear|Dance Dance Dance (Edit)",
+"spotify:track:3Ct3ro3LnsTHjeRVPNSG5s"
+],
+[
 "2026-10-19T18:55|Andrew Collberg|Hi Hopes (Edit)",
 "spotify:track:6mgDDFbggvZ4LUK62Cljzp"
+],
+[
+"2026-10-19T18:48|Stevie Wonder|All I Do",
+"spotify:track:0k3fBeBIcok5gbYQyQbxP5"
+],
+[
+"2026-10-19T18:44|Fuffifufzich|Feel zu spät",
+"spotify:track:1ZX6OhzVKjYe51XRnBe3yu"
 ],
 [
 "2026-10-19T18:41|Leon Bridges|Talk it over",
@@ -1941,6 +1985,18 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-10-20T05:15|Beck|It Ends Right Here",
+"t": "2026-10-20T05:15:00+02:00",
+"artist": "Beck",
+"title": "It Ends Right Here"
+},
+{
+"id": "2026-10-20T05:09|Can|Spoon",
+"t": "2026-10-20T05:09:00+02:00",
+"artist": "Can",
+"title": "Spoon"
+},
 {
 "id": "2026-10-20T05:06|Nia Archives|There Goes Ma Head",
 "t": "2026-10-20T05:06:00+02:00",
@@ -5075,7 +5131,7 @@
 },
 "fichtenholz|akryl": {
 "u": null,
-"d": "2026-10-16T22:01:30.844308+02:00"
+"d": "2026-10-20T05:17:27.501965+02:00"
 },
 "michael kiwanuka|sing": {
 "u": "spotify:track:4dTf6qu0IVqLROkGCoM2yt",
@@ -6044,6 +6100,54 @@
 "kings of leon|my whole world": {
 "u": "spotify:track:2tfc81XZfVReM0kYQqv7o3",
 "d": "2026-10-20T05:13:27.501552+02:00"
+},
+"nightmares on wax feat mozez|you wish abbey road fuzz gospel version": {
+"u": "spotify:track:6G6M4fl2I0eqEQnzyTwR8m",
+"d": "2026-10-20T05:14:27.501651+02:00"
+},
+"zombie nation|unload": {
+"u": "spotify:track:60d92hjxEdPKnreVo1QVhG",
+"d": "2026-10-20T05:14:27.501651+02:00"
+},
+"the cranberries|zombie": {
+"u": "spotify:track:1aZfq7TK3tNl9XJLkOpwKw",
+"d": "2026-10-20T05:14:27.501651+02:00"
+},
+"yard act|janey said edit": {
+"u": "spotify:track:0mV0B0SbcF6CMSdDyDNYpR",
+"d": "2026-10-20T05:15:27.501754+02:00"
+},
+"the xx|i dare you": {
+"u": "spotify:track:3pAw0BXL8acShtjUwLosw8",
+"d": "2026-10-20T05:15:27.501754+02:00"
+},
+"deichkind|fresh ist vorne": {
+"u": null,
+"d": "2026-10-20T05:15:27.501754+02:00"
+},
+"can|spoon": {
+"u": "spotify:track:4bxRXojTBYrk1dbepAxRlb",
+"d": "2026-10-20T05:16:27.501890+02:00"
+},
+"the beatles|yellow submarine 2009 remaster": {
+"u": "spotify:track:3oEo8Pqm5IAi8wQfCI5BpR",
+"d": "2026-10-20T05:16:27.501890+02:00"
+},
+"chinese american bear|dance dance dance edit": {
+"u": "spotify:track:3Ct3ro3LnsTHjeRVPNSG5s",
+"d": "2026-10-20T05:16:27.501890+02:00"
+},
+"stevie wonder|all i do": {
+"u": "spotify:track:0k3fBeBIcok5gbYQyQbxP5",
+"d": "2026-10-20T05:17:27.501965+02:00"
+},
+"fuffifufzich|feel zu spat": {
+"u": "spotify:track:1ZX6OhzVKjYe51XRnBe3yu",
+"d": "2026-10-20T05:17:27.501965+02:00"
+},
+"beck|it ends right here": {
+"u": "spotify:track:3PmyDf7Zu4vveCnayueVYX",
+"d": "2026-10-20T05:21:27.502373+02:00"
 }
 }
 }
