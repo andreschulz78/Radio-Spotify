@@ -1,12 +1,24 @@
 {
-"updated": "2026-10-20T12:29:36.447110+02:00",
+"updated": "2026-10-20T12:40:36.448606+02:00",
 "matcher": 4,
 "blocked_until": null,
 "details": "51e4e36c2ea1",
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAIL+dGzinNymOEBpIGQ8tC6znt/S10",
+"snapshot": "AAAIO7Rlv4Ofl+dXOewEkOcLhC7NelQB",
 "playlist": [
+[
+"2026-10-20T12:31|Jack White|Alone In My Home",
+"spotify:track:6WuKJi5EXFn7RuS5dvLfZB"
+],
+[
+"2026-10-20T12:28|Miss Li|Dancing The Whole Way Home",
+"spotify:track:09mqr5EvjSQ0B2HRxjs86L"
+],
+[
+"2026-10-20T12:24|Getdown Services|I Cant Die Like That",
+"spotify:track:1sz8JVpCkXEHr9QtK8Xlvw"
+],
 [
 "2026-10-20T12:19|Portishead|The Rip",
 "spotify:track:5KX2DSPC6aCA0pdDidTmBC"
@@ -2269,6 +2281,24 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-10-20T12:31|Jack White|Alone In My Home",
+"t": "2026-10-20T12:31:00+02:00",
+"artist": "Jack White",
+"title": "Alone In My Home"
+},
+{
+"id": "2026-10-20T12:28|Miss Li|Dancing The Whole Way Home",
+"t": "2026-10-20T12:28:00+02:00",
+"artist": "Miss Li",
+"title": "Dancing The Whole Way Home"
+},
+{
+"id": "2026-10-20T12:24|Getdown Services|I Cant Die Like That",
+"t": "2026-10-20T12:24:00+02:00",
+"artist": "Getdown Services",
+"title": "I Cant Die Like That"
+},
 {
 "id": "2026-10-20T12:19|Portishead|The Rip",
 "t": "2026-10-20T12:19:00+02:00",
@@ -7090,6 +7120,14 @@
 "portishead|the rip": {
 "u": "spotify:track:5KX2DSPC6aCA0pdDidTmBC",
 "d": "2026-10-20T12:26:36.446744+02:00"
+},
+"jack white|alone in my home": {
+"u": "spotify:track:6WuKJi5EXFn7RuS5dvLfZB",
+"d": "2026-10-20T12:36:36.448072+02:00"
+},
+"miss li|dancing the whole way home": {
+"u": "spotify:track:09mqr5EvjSQ0B2HRxjs86L",
+"d": "2026-10-20T12:36:36.448072+02:00"
 }
 }
 }
