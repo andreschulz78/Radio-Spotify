@@ -1,12 +1,16 @@
 {
-"updated": "2026-10-20T16:11:45.706444+02:00",
+"updated": "2026-10-20T16:22:45.707594+02:00",
 "matcher": 4,
 "blocked_until": null,
 "details": "51e4e36c2ea1",
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAI7dnHNwo03R9aa1CGzeicBCbacFTL",
+"snapshot": "AAAI9M0XzW70l+qKoPz2Lu3lQqnTX+t0",
 "playlist": [
+[
+"2026-10-20T16:09|Beyoncé|Bodyguard",
+"spotify:track:6Y4rniIxibegzsg8cdWAWV"
+],
 [
 "2026-10-20T16:06|Unknown Mortal Orchestra|Multi-Love",
 "spotify:track:1DbdyKFHjWRkmIRDru01vC"
@@ -2429,6 +2433,12 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-10-20T16:09|Beyoncé|Bodyguard",
+"t": "2026-10-20T16:09:00+02:00",
+"artist": "Beyoncé",
+"title": "Bodyguard"
+},
 {
 "id": "2026-10-20T16:06|Unknown Mortal Orchestra|Multi-Love",
 "t": "2026-10-20T16:06:00+02:00",
@@ -7630,6 +7640,10 @@
 "unknown mortal orchestra|multi love": {
 "u": "spotify:track:1DbdyKFHjWRkmIRDru01vC",
 "d": "2026-10-20T16:11:45.706444+02:00"
+},
+"beyonce|bodyguard": {
+"u": "spotify:track:6Y4rniIxibegzsg8cdWAWV",
+"d": "2026-10-20T16:15:45.706883+02:00"
 }
 }
 }
