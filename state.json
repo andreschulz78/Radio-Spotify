@@ -1,12 +1,20 @@
 {
-"updated": "2026-10-20T08:18:27.522342+02:00",
+"updated": "2026-10-20T08:29:27.523600+02:00",
 "matcher": 4,
 "blocked_until": null,
 "details": "51e4e36c2ea1",
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAHUaxZX95R/tApjSZPCOgwBerpvMJM",
+"snapshot": "AAAHXfRaZ9MIfmwOTuutYBG+HKSjuZqS",
 "playlist": [
+[
+"2026-10-20T08:20|James Blake|Make something up",
+"spotify:track:64OIDldq25VvelMStZiDvy"
+],
+[
+"2026-10-20T08:15|Boy Harsher|Tough Luck (When You Don't Call)",
+"spotify:track:109AVLNWp2BnTXTzF4j6XE"
+],
 [
 "2026-10-20T08:06|Dina Ögon|Det läcker",
 "spotify:track:6GffMzseDk8LgpRNFW9Hca"
@@ -2097,6 +2105,18 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-10-20T08:20|James Blake|Make something up",
+"t": "2026-10-20T08:20:00+02:00",
+"artist": "James Blake",
+"title": "Make something up"
+},
+{
+"id": "2026-10-20T08:15|Boy Harsher|Tough Luck (When You Don't Call)",
+"t": "2026-10-20T08:15:00+02:00",
+"artist": "Boy Harsher",
+"title": "Tough Luck (When You Don't Call)"
+},
 {
 "id": "2026-10-20T08:06|Dina Ögon|Det läcker",
 "t": "2026-10-20T08:06:00+02:00",
@@ -6532,6 +6552,10 @@
 "dina ogon|det lacker": {
 "u": "spotify:track:6GffMzseDk8LgpRNFW9Hca",
 "d": "2026-10-20T08:10:27.521464+02:00"
+},
+"james blake|make something up": {
+"u": "spotify:track:64OIDldq25VvelMStZiDvy",
+"d": "2026-10-20T08:25:27.523168+02:00"
 }
 }
 }
