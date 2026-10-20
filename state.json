@@ -1,12 +1,20 @@
 {
-"updated": "2026-10-20T13:24:36.454205+02:00",
+"updated": "2026-10-20T13:29:36.454858+02:00",
 "matcher": 4,
 "blocked_until": null,
 "details": "51e4e36c2ea1",
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAIZVCuRIQCvjOwJy5KnfZvV/uhroah",
+"snapshot": "AAAIa+l/qdMS3KI22S/mV7Wtq5iIUHu+",
 "playlist": [
+[
+"2026-10-20T13:22|Janis Joplin|Move Over",
+"spotify:track:6NgV2dH50o1HIoEwxHRu3X"
+],
+[
+"2026-10-20T13:19|54 Ultra|Tell Me",
+"spotify:track:6iXIvHGsLMJ89TuW1S9E3C"
+],
 [
 "2026-10-20T13:08|Kae Tempest feat. Lianne La Havas|No Prizes",
 "spotify:track:0FSoK142UiuSSDIh6GGlUZ"
@@ -2313,6 +2321,18 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-10-20T13:22|Janis Joplin|Move Over",
+"t": "2026-10-20T13:22:00+02:00",
+"artist": "Janis Joplin",
+"title": "Move Over"
+},
+{
+"id": "2026-10-20T13:19|54 Ultra|Tell Me",
+"t": "2026-10-20T13:19:00+02:00",
+"artist": "54 Ultra",
+"title": "Tell Me"
+},
 {
 "id": "2026-10-20T13:08|Kae Tempest feat. Lianne La Havas|No Prizes",
 "t": "2026-10-20T13:08:00+02:00",
@@ -7250,6 +7270,14 @@
 "kae tempest feat lianne la havas|no prizes": {
 "u": "spotify:track:0FSoK142UiuSSDIh6GGlUZ",
 "d": "2026-10-20T13:16:36.453188+02:00"
+},
+"janis joplin|move over": {
+"u": "spotify:track:6NgV2dH50o1HIoEwxHRu3X",
+"d": "2026-10-20T13:25:36.454327+02:00"
+},
+"54 ultra|tell me": {
+"u": "spotify:track:6iXIvHGsLMJ89TuW1S9E3C",
+"d": "2026-10-20T13:25:36.454327+02:00"
 }
 }
 }
