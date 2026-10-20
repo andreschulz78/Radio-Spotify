@@ -1,12 +1,16 @@
 {
-"updated": "2026-10-20T08:07:27.521163+02:00",
+"updated": "2026-10-20T08:18:27.522342+02:00",
 "matcher": 4,
 "blocked_until": null,
 "details": "51e4e36c2ea1",
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAHSyPMDVCJB8F/zzfHKdoQAFyQYhQb",
+"snapshot": "AAAHUaxZX95R/tApjSZPCOgwBerpvMJM",
 "playlist": [
+[
+"2026-10-20T08:06|Dina Ögon|Det läcker",
+"spotify:track:6GffMzseDk8LgpRNFW9Hca"
+],
 [
 "2026-10-20T07:58|Heaven 17|Temptation",
 "spotify:track:1u8wrxIC4Vo3OYI1Rbb5hN"
@@ -2093,6 +2097,12 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-10-20T08:06|Dina Ögon|Det läcker",
+"t": "2026-10-20T08:06:00+02:00",
+"artist": "Dina Ögon",
+"title": "Det läcker"
+},
 {
 "id": "2026-10-20T07:58|Heaven 17|Temptation",
 "t": "2026-10-20T07:58:00+02:00",
@@ -6518,6 +6528,10 @@
 "heaven 17|temptation": {
 "u": "spotify:track:1u8wrxIC4Vo3OYI1Rbb5hN",
 "d": "2026-10-20T08:07:27.521163+02:00"
+},
+"dina ogon|det lacker": {
+"u": "spotify:track:6GffMzseDk8LgpRNFW9Hca",
+"d": "2026-10-20T08:10:27.521464+02:00"
 }
 }
 }
