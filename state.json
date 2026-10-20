@@ -1,12 +1,16 @@
 {
-"updated": "2026-10-20T11:03:36.435895+02:00",
+"updated": "2026-10-20T11:14:36.437316+02:00",
 "matcher": 4,
 "blocked_until": null,
 "details": "51e4e36c2ea1",
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAH5z4j6/22j/ENQoTK5zdgE071wCyk",
+"snapshot": "AAAH7asnvyyqGXTQWe3Wu4QYxsKJuEhH",
 "playlist": [
+[
+"2026-10-20T11:05|Paul McCartney|Maybe I'm Amazed",
+"spotify:track:1Qa0Y05al633fG8f9Peytc"
+],
 [
 "2026-10-20T10:57|Elvis Presley|Burning Love",
 "spotify:track:7zMUCLm1TN9o9JlLISztxO"
@@ -2217,6 +2221,12 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-10-20T11:05|Paul McCartney|Maybe I'm Amazed",
+"t": "2026-10-20T11:05:00+02:00",
+"artist": "Paul McCartney",
+"title": "Maybe I'm Amazed"
+},
 {
 "id": "2026-10-20T10:57|Elvis Presley|Burning Love",
 "t": "2026-10-20T10:57:00+02:00",
@@ -6916,6 +6926,10 @@
 "elvis presley|burning love": {
 "u": "spotify:track:7zMUCLm1TN9o9JlLISztxO",
 "d": "2026-10-20T11:01:36.435618+02:00"
+},
+"paul mccartney|maybe i m amazed": {
+"u": "spotify:track:1Qa0Y05al633fG8f9Peytc",
+"d": "2026-10-20T11:11:36.436943+02:00"
 }
 }
 }
