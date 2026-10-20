@@ -1,12 +1,20 @@
 {
-"updated": "2026-10-20T16:01:45.704987+02:00",
+"updated": "2026-10-20T16:11:45.706444+02:00",
 "matcher": 4,
 "blocked_until": null,
 "details": "51e4e36c2ea1",
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAI31AbFURFB/SEyr9YW96ZjqgrozcU",
+"snapshot": "AAAI7dnHNwo03R9aa1CGzeicBCbacFTL",
 "playlist": [
+[
+"2026-10-20T16:06|Unknown Mortal Orchestra|Multi-Love",
+"spotify:track:1DbdyKFHjWRkmIRDru01vC"
+],
+[
+"2026-10-20T15:57|Chris Malinchak|So Good To Me",
+"spotify:track:1mGGVB5nDxGObTP26RhjyT"
+],
 [
 "2026-10-20T15:52|The Weeknd|Blinding Lights",
 "spotify:track:0VjIjW4GlUZAMYd2vXMi3b"
@@ -2421,6 +2429,18 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-10-20T16:06|Unknown Mortal Orchestra|Multi-Love",
+"t": "2026-10-20T16:06:00+02:00",
+"artist": "Unknown Mortal Orchestra",
+"title": "Multi-Love"
+},
+{
+"id": "2026-10-20T15:57|Chris Malinchak|So Good To Me",
+"t": "2026-10-20T15:57:00+02:00",
+"artist": "Chris Malinchak",
+"title": "So Good To Me"
+},
 {
 "id": "2026-10-20T15:52|The Weeknd|Blinding Lights",
 "t": "2026-10-20T15:52:00+02:00",
@@ -7602,6 +7622,14 @@
 "the weeknd|blinding lights": {
 "u": "spotify:track:0VjIjW4GlUZAMYd2vXMi3b",
 "d": "2026-10-20T16:00:45.704845+02:00"
+},
+"chris malinchak|so good to me": {
+"u": "spotify:track:1mGGVB5nDxGObTP26RhjyT",
+"d": "2026-10-20T16:06:45.705539+02:00"
+},
+"unknown mortal orchestra|multi love": {
+"u": "spotify:track:1DbdyKFHjWRkmIRDru01vC",
+"d": "2026-10-20T16:11:45.706444+02:00"
 }
 }
 }
