@@ -1,12 +1,16 @@
 {
-"updated": "2026-10-20T11:35:36.439996+02:00",
+"updated": "2026-10-20T11:46:36.441471+02:00",
 "matcher": 4,
 "blocked_until": null,
 "details": "51e4e36c2ea1",
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAIBfs5QxYFvNM1RrLf9ZbNu8gAsmTB",
+"snapshot": "AAAICvsS2GCJBOu6+RQq2V1mh8ByY05B",
 "playlist": [
+[
+"2026-10-20T11:36|Devendra Banhart|I Feel Just Like A Child",
+"spotify:track:6FKKWmZLSVgfGBDUncBo9K"
+],
 [
 "2026-10-20T11:33|Sergio Mendes & Brasil '66|Righteous Life",
 "spotify:track:4YsUyT4Y2Y5DBWbAbiFzac"
@@ -2241,6 +2245,12 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-10-20T11:36|Devendra Banhart|I Feel Just Like A Child",
+"t": "2026-10-20T11:36:00+02:00",
+"artist": "Devendra Banhart",
+"title": "I Feel Just Like A Child"
+},
 {
 "id": "2026-10-20T11:33|Sergio Mendes & Brasil '66|Righteous Life",
 "t": "2026-10-20T11:33:00+02:00",
@@ -6996,6 +7006,10 @@
 "genesis owusu|human again": {
 "u": "spotify:track:3uP7jqdt4haiuL4acLhrDY",
 "d": "2026-10-20T11:35:36.439996+02:00"
+},
+"devendra banhart|i feel just like a child": {
+"u": "spotify:track:6FKKWmZLSVgfGBDUncBo9K",
+"d": "2026-10-20T11:41:36.440831+02:00"
 }
 }
 }
