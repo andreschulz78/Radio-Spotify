@@ -1,12 +1,28 @@
 {
-"updated": "2026-10-20T14:40:37.010892+02:00",
+"updated": "2026-10-20T14:51:37.012270+02:00",
 "matcher": 4,
 "blocked_until": null,
 "details": "51e4e36c2ea1",
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAImzZjMzQ0hOSUq0UE6zgeUKWMhml1",
+"snapshot": "AAAIrcyq43cI9AMyvrkXhJzbekoiBOCL",
 "playlist": [
+[
+"2026-10-20T14:45|Oren Lavie feat. Vanessa Paradis|Did You Really Say No",
+"spotify:track:5LGPiVFEaffgJJlptaS0dZ"
+],
+[
+"2026-10-20T14:40|Jamie T|Tallahassee",
+"spotify:track:3Kwdvrz5PTUpAObYKNPlz0"
+],
+[
+"2026-10-20T14:37|Julia Holter|Everytime Boots",
+"spotify:track:4qzU0YbbJRcgnVIV9LpmJ6"
+],
+[
+"2026-10-20T14:33|Overmono feat. Ruthven|Gem Lingo (ovr now)",
+"spotify:track:6dSqM0tWJPlchpmGrEwC1c"
+],
 [
 "2026-10-20T14:31|Suki Waterhouse|Blackout Drunk",
 "spotify:track:0PyN8JswfA5otVomw09V5Q"
@@ -2369,6 +2385,30 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-10-20T14:45|Oren Lavie feat. Vanessa Paradis|Did You Really Say No",
+"t": "2026-10-20T14:45:00+02:00",
+"artist": "Oren Lavie feat. Vanessa Paradis",
+"title": "Did You Really Say No"
+},
+{
+"id": "2026-10-20T14:40|Jamie T|Tallahassee",
+"t": "2026-10-20T14:40:00+02:00",
+"artist": "Jamie T",
+"title": "Tallahassee"
+},
+{
+"id": "2026-10-20T14:37|Julia Holter|Everytime Boots",
+"t": "2026-10-20T14:37:00+02:00",
+"artist": "Julia Holter",
+"title": "Everytime Boots"
+},
+{
+"id": "2026-10-20T14:33|Overmono feat. Ruthven|Gem Lingo (ovr now)",
+"t": "2026-10-20T14:33:00+02:00",
+"artist": "Overmono feat. Ruthven",
+"title": "Gem Lingo (ovr now)"
+},
 {
 "id": "2026-10-20T14:31|Suki Waterhouse|Blackout Drunk",
 "t": "2026-10-20T14:31:00+02:00",
@@ -7426,6 +7466,14 @@
 "suki waterhouse|blackout drunk": {
 "u": "spotify:track:0PyN8JswfA5otVomw09V5Q",
 "d": "2026-10-20T14:35:37.010258+02:00"
+},
+"julia holter|everytime boots": {
+"u": "spotify:track:4qzU0YbbJRcgnVIV9LpmJ6",
+"d": "2026-10-20T14:45:37.011542+02:00"
+},
+"oren lavie feat vanessa paradis|did you really say no": {
+"u": "spotify:track:5LGPiVFEaffgJJlptaS0dZ",
+"d": "2026-10-20T14:51:37.012270+02:00"
 }
 }
 }
