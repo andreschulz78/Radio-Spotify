@@ -1,12 +1,16 @@
 {
-"updated": "2026-10-20T13:56:37.005113+02:00",
+"updated": "2026-10-20T14:07:37.006522+02:00",
 "matcher": 4,
 "blocked_until": null,
 "details": "51e4e36c2ea1",
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAIfdLEnokypYhVgR+rVmljzxXYo3VO",
+"snapshot": "AAAIgx+5SQ6m9NaWNaIDyHzHEqVlXr4U",
 "playlist": [
+[
+"2026-10-20T13:58|King Krule|Easy Easy",
+"spotify:track:7miPR7yflY4kvhVBfEyTzp"
+],
 [
 "2026-10-20T13:52|Alewya|Maktoub",
 "spotify:track:56DYNKo3QHkakqOUkWi3vl"
@@ -2345,6 +2349,12 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-10-20T13:58|King Krule|Easy Easy",
+"t": "2026-10-20T13:58:00+02:00",
+"artist": "King Krule",
+"title": "Easy Easy"
+},
 {
 "id": "2026-10-20T13:52|Alewya|Maktoub",
 "t": "2026-10-20T13:52:00+02:00",
@@ -7346,6 +7356,10 @@
 "snoop dogg feat pharrell williams|drop it like it s hot": {
 "u": "spotify:track:2NBQmPrOEEjA8VbeWOQGxO",
 "d": "2026-10-20T13:56:37.005113+02:00"
+},
+"king krule|easy easy": {
+"u": "spotify:track:7miPR7yflY4kvhVBfEyTzp",
+"d": "2026-10-20T14:00:37.005596+02:00"
 }
 }
 }
