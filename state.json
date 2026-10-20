@@ -1,12 +1,20 @@
 {
-"updated": "2026-10-20T15:39:45.702847+02:00",
+"updated": "2026-10-20T15:50:45.703860+02:00",
 "matcher": 4,
 "blocked_until": null,
 "details": "51e4e36c2ea1",
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAIy4dgV158nXn8fqiO8TJQR1aDXW/R",
+"snapshot": "AAAI2DoRpem6hE5QL/EYADE4mm6wlAuW",
 "playlist": [
+[
+"2026-10-20T15:46|Texas|Inner Smile",
+"spotify:track:0bN78ecTh4bb2hGt4BSzN4"
+],
+[
+"2026-10-20T15:33|Carwyn Ellis & Rio 18 feat. Elan Rhys|Hei Ti",
+"spotify:track:2v7twRk9QPaUyrSrx8zWPu"
+],
 [
 "2026-10-20T15:26|I Am Kloot|Proof",
 "spotify:track:4P83HUDhWjsqWmIVojbr2e"
@@ -2409,6 +2417,18 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-10-20T15:46|Texas|Inner Smile",
+"t": "2026-10-20T15:46:00+02:00",
+"artist": "Texas",
+"title": "Inner Smile"
+},
+{
+"id": "2026-10-20T15:33|Carwyn Ellis & Rio 18 feat. Elan Rhys|Hei Ti",
+"t": "2026-10-20T15:33:00+02:00",
+"artist": "Carwyn Ellis & Rio 18 feat. Elan Rhys",
+"title": "Hei Ti"
+},
 {
 "id": "2026-10-20T15:26|I Am Kloot|Proof",
 "t": "2026-10-20T15:26:00+02:00",
@@ -7560,6 +7580,14 @@
 "i am kloot|proof": {
 "u": "spotify:track:4P83HUDhWjsqWmIVojbr2e",
 "d": "2026-10-20T15:31:45.702020+02:00"
+},
+"carwyn ellis rio 18 feat elan rhys|hei ti": {
+"u": "spotify:track:2v7twRk9QPaUyrSrx8zWPu",
+"d": "2026-10-20T15:41:45.703048+02:00"
+},
+"texas|inner smile": {
+"u": "spotify:track:0bN78ecTh4bb2hGt4BSzN4",
+"d": "2026-10-20T15:50:45.703860+02:00"
 }
 }
 }
