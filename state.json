@@ -1,12 +1,20 @@
 {
-"updated": "2026-10-20T15:23:37.016761+02:00",
+"updated": "2026-10-20T15:27:37.017482+02:00",
 "matcher": 4,
 "blocked_until": null,
 "details": "51e4e36c2ea1",
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAIvyF9l6HQV0AEJkuJh6v8jUzBj8BZ",
+"snapshot": "AAAIxT/09AU8XuGSBiRQwtLJGwBf9ZnI",
 "playlist": [
+[
+"2026-10-20T15:23|Odd Beholder|Lean Dreams",
+"spotify:track:44KktJfihIKoQrUrnKCzTH"
+],
+[
+"2026-10-20T15:20|Hot Chip|Melody Of Love (Edit)",
+"spotify:track:5HldYWLn59dExMpZiugbJU"
+],
 [
 "2026-10-20T15:09|Nightmares On Wax feat. Mozez|You Wish (Abbey Road Fuzz Gospel Version)",
 "spotify:track:6G6M4fl2I0eqEQnzyTwR8m"
@@ -2397,6 +2405,18 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-10-20T15:23|Odd Beholder|Lean Dreams",
+"t": "2026-10-20T15:23:00+02:00",
+"artist": "Odd Beholder",
+"title": "Lean Dreams"
+},
+{
+"id": "2026-10-20T15:20|Hot Chip|Melody Of Love (Edit)",
+"t": "2026-10-20T15:20:00+02:00",
+"artist": "Hot Chip",
+"title": "Melody Of Love (Edit)"
+},
 {
 "id": "2026-10-20T15:09|Nightmares On Wax feat. Mozez|You Wish (Abbey Road Fuzz Gospel Version)",
 "t": "2026-10-20T15:09:00+02:00",
@@ -7518,6 +7538,14 @@
 "twin shadow|dominoes": {
 "u": "spotify:track:5cgK6Kvd1rLMqLbZIwytnh",
 "d": "2026-10-20T15:10:37.014704+02:00"
+},
+"odd beholder|lean dreams": {
+"u": "spotify:track:44KktJfihIKoQrUrnKCzTH",
+"d": "2026-10-20T15:26:37.017294+02:00"
+},
+"hot chip|melody of love edit": {
+"u": "spotify:track:5HldYWLn59dExMpZiugbJU",
+"d": "2026-10-20T15:26:37.017294+02:00"
 }
 }
 }
