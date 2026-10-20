@@ -1,12 +1,16 @@
 {
-"updated": "2026-10-20T11:14:36.437316+02:00",
+"updated": "2026-10-20T11:25:36.438749+02:00",
 "matcher": 4,
 "blocked_until": null,
 "details": "51e4e36c2ea1",
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAH7asnvyyqGXTQWe3Wu4QYxsKJuEhH",
+"snapshot": "AAAH85PKUhYnSeSkj/6ET4nQ8CAHY7jE",
 "playlist": [
+[
+"2026-10-20T11:09|Beastie Boys feat. Santigold|Don't Play No Game That I Can't Win",
+"spotify:track:1Emrs7nn0qSeoCzSRApiFK"
+],
 [
 "2026-10-20T11:05|Paul McCartney|Maybe I'm Amazed",
 "spotify:track:1Qa0Y05al633fG8f9Peytc"
@@ -2221,6 +2225,12 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-10-20T11:09|Beastie Boys feat. Santigold|Don't Play No Game That I Can't Win",
+"t": "2026-10-20T11:09:00+02:00",
+"artist": "Beastie Boys feat. Santigold",
+"title": "Don't Play No Game That I Can't Win"
+},
 {
 "id": "2026-10-20T11:05|Paul McCartney|Maybe I'm Amazed",
 "t": "2026-10-20T11:05:00+02:00",
@@ -6930,6 +6940,10 @@
 "paul mccartney|maybe i m amazed": {
 "u": "spotify:track:1Qa0Y05al633fG8f9Peytc",
 "d": "2026-10-20T11:11:36.436943+02:00"
+},
+"beastie boys feat santigold|don t play no game that i can t win": {
+"u": "spotify:track:1Emrs7nn0qSeoCzSRApiFK",
+"d": "2026-10-20T11:15:36.437447+02:00"
 }
 }
 }
