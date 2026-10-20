@@ -1,12 +1,20 @@
 {
-"updated": "2026-10-20T06:40:27.511361+02:00",
+"updated": "2026-10-20T06:51:27.512584+02:00",
 "matcher": 4,
 "blocked_until": null,
 "details": "51e4e36c2ea1",
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAHA/26U7AG6AV2imkT11Fx6RjVGeJX",
+"snapshot": "AAAHD7THpkeMqdG3iZ1CioNqaMxTVPXt",
 "playlist": [
+[
+"2026-10-20T06:42|Mine|Mein Herz",
+"spotify:track:2TpYemObRvIrdNn9elxhCR"
+],
+[
+"2026-10-20T06:34|Razorlight|America",
+"spotify:track:2dDbUz79o8E4vkD49JL3Df"
+],
 [
 "2026-10-20T06:27|Bonaparte|KiOSKO",
 "spotify:track:5seYGZRYuD3oPMxryJdvOk"
@@ -2041,6 +2049,18 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-10-20T06:42|Mine|Mein Herz",
+"t": "2026-10-20T06:42:00+02:00",
+"artist": "Mine",
+"title": "Mein Herz"
+},
+{
+"id": "2026-10-20T06:34|Razorlight|America",
+"t": "2026-10-20T06:34:00+02:00",
+"artist": "Razorlight",
+"title": "America"
+},
 {
 "id": "2026-10-20T06:27|Bonaparte|KiOSKO",
 "t": "2026-10-20T06:27:00+02:00",
@@ -6336,6 +6356,14 @@
 "pearl jam|sirens": {
 "u": "spotify:track:1cAMXz9mnvrqyQLSG4KeeE",
 "d": "2026-10-20T06:32:27.510525+02:00"
+},
+"razorlight|america": {
+"u": "spotify:track:2dDbUz79o8E4vkD49JL3Df",
+"d": "2026-10-20T06:41:27.511461+02:00"
+},
+"mine|mein herz": {
+"u": "spotify:track:2TpYemObRvIrdNn9elxhCR",
+"d": "2026-10-20T06:51:27.512584+02:00"
 }
 }
 }
