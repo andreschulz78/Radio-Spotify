@@ -1,12 +1,20 @@
 {
-"updated": "2026-10-20T07:35:27.517494+02:00",
+"updated": "2026-10-20T07:46:27.518706+02:00",
 "matcher": 4,
 "blocked_until": null,
 "details": "51e4e36c2ea1",
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAHMztvfFSued1bn/tUTZUi+xdSfWNJ",
+"snapshot": "AAAHP+e4p0e6HfiZKzXh7smc+WAZBGkP",
 "playlist": [
+[
+"2026-10-20T07:42|Grim104|Monstera",
+"spotify:track:3rSiXUS27EJxisY62sEqmJ"
+],
+[
+"2026-10-20T07:34|Natalie Bergman|Gunslinger",
+"spotify:track:1Is6GwdWFuEXCbzkoEatb4"
+],
 [
 "2026-10-20T07:26|Keshavara|Oracular",
 "spotify:track:41sGSIiPi1QAYaL6nUWSDg"
@@ -2073,6 +2081,18 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-10-20T07:42|Grim104|Monstera",
+"t": "2026-10-20T07:42:00+02:00",
+"artist": "Grim104",
+"title": "Monstera"
+},
+{
+"id": "2026-10-20T07:34|Natalie Bergman|Gunslinger",
+"t": "2026-10-20T07:34:00+02:00",
+"artist": "Natalie Bergman",
+"title": "Gunslinger"
+},
 {
 "id": "2026-10-20T07:26|Keshavara|Oracular",
 "t": "2026-10-20T07:26:00+02:00",
@@ -6448,6 +6468,14 @@
 "keshavara|oracular": {
 "u": "spotify:track:41sGSIiPi1QAYaL6nUWSDg",
 "d": "2026-10-20T07:30:27.516924+02:00"
+},
+"natalie bergman|gunslinger": {
+"u": "spotify:track:1Is6GwdWFuEXCbzkoEatb4",
+"d": "2026-10-20T07:42:27.518323+02:00"
+},
+"grim104|monstera": {
+"u": "spotify:track:3rSiXUS27EJxisY62sEqmJ",
+"d": "2026-10-20T07:46:27.518706+02:00"
 }
 }
 }
