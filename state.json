@@ -1,12 +1,28 @@
 {
-"updated": "2026-10-20T11:25:36.438749+02:00",
+"updated": "2026-10-20T11:35:36.439996+02:00",
 "matcher": 4,
 "blocked_until": null,
 "details": "51e4e36c2ea1",
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAH85PKUhYnSeSkj/6ET4nQ8CAHY7jE",
+"snapshot": "AAAIBfs5QxYFvNM1RrLf9ZbNu8gAsmTB",
 "playlist": [
+[
+"2026-10-20T11:33|Sergio Mendes & Brasil '66|Righteous Life",
+"spotify:track:4YsUyT4Y2Y5DBWbAbiFzac"
+],
+[
+"2026-10-20T11:29|Genesis Owusu|Human Again",
+"spotify:track:3uP7jqdt4haiuL4acLhrDY"
+],
+[
+"2026-10-20T11:22|Cass McCombs|Peace",
+"spotify:track:0HJuwBpU9bpH3Zt5r1PtNS"
+],
+[
+"2026-10-20T11:18|The Big Moon|F.O.R.E.V.E.R",
+"spotify:track:0UaPOdi1O83vr1oTXaGqgx"
+],
 [
 "2026-10-20T11:09|Beastie Boys feat. Santigold|Don't Play No Game That I Can't Win",
 "spotify:track:1Emrs7nn0qSeoCzSRApiFK"
@@ -2225,6 +2241,30 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-10-20T11:33|Sergio Mendes & Brasil '66|Righteous Life",
+"t": "2026-10-20T11:33:00+02:00",
+"artist": "Sergio Mendes & Brasil '66",
+"title": "Righteous Life"
+},
+{
+"id": "2026-10-20T11:29|Genesis Owusu|Human Again",
+"t": "2026-10-20T11:29:00+02:00",
+"artist": "Genesis Owusu",
+"title": "Human Again"
+},
+{
+"id": "2026-10-20T11:22|Cass McCombs|Peace",
+"t": "2026-10-20T11:22:00+02:00",
+"artist": "Cass McCombs",
+"title": "Peace"
+},
+{
+"id": "2026-10-20T11:18|The Big Moon|F.O.R.E.V.E.R",
+"t": "2026-10-20T11:18:00+02:00",
+"artist": "The Big Moon",
+"title": "F.O.R.E.V.E.R"
+},
 {
 "id": "2026-10-20T11:09|Beastie Boys feat. Santigold|Don't Play No Game That I Can't Win",
 "t": "2026-10-20T11:09:00+02:00",
@@ -6944,6 +6984,18 @@
 "beastie boys feat santigold|don t play no game that i can t win": {
 "u": "spotify:track:1Emrs7nn0qSeoCzSRApiFK",
 "d": "2026-10-20T11:15:36.437447+02:00"
+},
+"cass mccombs|peace": {
+"u": "spotify:track:0HJuwBpU9bpH3Zt5r1PtNS",
+"d": "2026-10-20T11:30:36.439375+02:00"
+},
+"sergio mendes brasil 66|righteous life": {
+"u": "spotify:track:4YsUyT4Y2Y5DBWbAbiFzac",
+"d": "2026-10-20T11:35:36.439996+02:00"
+},
+"genesis owusu|human again": {
+"u": "spotify:track:3uP7jqdt4haiuL4acLhrDY",
+"d": "2026-10-20T11:35:36.439996+02:00"
 }
 }
 }
