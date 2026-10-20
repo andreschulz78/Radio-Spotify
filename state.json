@@ -1,12 +1,20 @@
 {
-"updated": "2026-10-20T07:46:27.518706+02:00",
+"updated": "2026-10-20T07:57:27.520034+02:00",
 "matcher": 4,
 "blocked_until": null,
 "details": "51e4e36c2ea1",
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAHP+e4p0e6HfiZKzXh7smc+WAZBGkP",
+"snapshot": "AAAHRWwjrOX49isM/wryWd9h+CFDB23/",
 "playlist": [
+[
+"2026-10-20T07:50|Joshua Idehen|Could Be Forever",
+"spotify:track:0ZUKth5xg7UM6Q73YhDq2w"
+],
+[
+"2026-10-20T07:47|Sophie Hunger|Security Check",
+"spotify:track:4MnrMDeT6mh4VHCG64zPMd"
+],
 [
 "2026-10-20T07:42|Grim104|Monstera",
 "spotify:track:3rSiXUS27EJxisY62sEqmJ"
@@ -2081,6 +2089,18 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-10-20T07:50|Joshua Idehen|Could Be Forever",
+"t": "2026-10-20T07:50:00+02:00",
+"artist": "Joshua Idehen",
+"title": "Could Be Forever"
+},
+{
+"id": "2026-10-20T07:47|Sophie Hunger|Security Check",
+"t": "2026-10-20T07:47:00+02:00",
+"artist": "Sophie Hunger",
+"title": "Security Check"
+},
 {
 "id": "2026-10-20T07:42|Grim104|Monstera",
 "t": "2026-10-20T07:42:00+02:00",
@@ -6476,6 +6496,14 @@
 "grim104|monstera": {
 "u": "spotify:track:3rSiXUS27EJxisY62sEqmJ",
 "d": "2026-10-20T07:46:27.518706+02:00"
+},
+"joshua idehen|could be forever": {
+"u": "spotify:track:0ZUKth5xg7UM6Q73YhDq2w",
+"d": "2026-10-20T07:56:27.519927+02:00"
+},
+"sophie hunger|security check": {
+"u": "spotify:track:4MnrMDeT6mh4VHCG64zPMd",
+"d": "2026-10-20T07:56:27.519927+02:00"
 }
 }
 }
