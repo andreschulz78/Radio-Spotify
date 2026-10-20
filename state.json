@@ -1,12 +1,16 @@
 {
-"updated": "2026-10-20T07:02:27.513891+02:00",
+"updated": "2026-10-20T07:13:27.515044+02:00",
 "matcher": 4,
 "blocked_until": null,
 "details": "51e4e36c2ea1",
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAHGxEHr2BXs+wbU6RAcwWE8dpthvVP",
+"snapshot": "AAAHIbZfiWIrHKzCYQYPfXQRdTAAjUrB",
 "playlist": [
+[
+"2026-10-20T07:05|Travis|Gaslight",
+"spotify:track:6i5RonwR52WwcSmVcyzhsy"
+],
 [
 "2026-10-20T06:55|Doja Cat|Paint The Town Red",
 "spotify:track:2IGMVunIBsBLtEQyoI1Mu7"
@@ -2057,6 +2061,12 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-10-20T07:05|Travis|Gaslight",
+"t": "2026-10-20T07:05:00+02:00",
+"artist": "Travis",
+"title": "Gaslight"
+},
 {
 "id": "2026-10-20T06:55|Doja Cat|Paint The Town Red",
 "t": "2026-10-20T06:55:00+02:00",
@@ -6392,6 +6402,10 @@
 "doja cat|paint the town red": {
 "u": "spotify:track:2IGMVunIBsBLtEQyoI1Mu7",
 "d": "2026-10-20T07:00:27.513645+02:00"
+},
+"travis|gaslight": {
+"u": "spotify:track:6i5RonwR52WwcSmVcyzhsy",
+"d": "2026-10-20T07:10:27.514769+02:00"
 }
 }
 }
