@@ -1,12 +1,20 @@
 {
-"updated": "2026-10-20T10:31:36.431764+02:00",
+"updated": "2026-10-20T10:41:36.433062+02:00",
 "matcher": 4,
 "blocked_until": null,
 "details": "51e4e36c2ea1",
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAHz3kyVILtImt2xnLLm3T66LUutCDY",
+"snapshot": "AAAH27Ngsx+gSLF9P2dGs24b1kfrxV9p",
 "playlist": [
+[
+"2026-10-20T10:36|Meshell Ndegeocello feat. Cat Power|Don’t You Want Me",
+"spotify:track:5sbCqST9M4Q1sRSJM6L6oT"
+],
+[
+"2026-10-20T10:32|Innenräume|Im Gegenlicht",
+"spotify:track:2ubG5Lo2I8hs3GzaVf7vdD"
+],
 [
 "2026-10-20T10:27|Tunde Adebimpe|God Knows",
 "spotify:track:1g9o6MNw8DQEFGmKQwbyYa"
@@ -2197,6 +2205,18 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-10-20T10:36|Meshell Ndegeocello feat. Cat Power|Don’t You Want Me",
+"t": "2026-10-20T10:36:00+02:00",
+"artist": "Meshell Ndegeocello feat. Cat Power",
+"title": "Don’t You Want Me"
+},
+{
+"id": "2026-10-20T10:32|Innenräume|Im Gegenlicht",
+"t": "2026-10-20T10:32:00+02:00",
+"artist": "Innenräume",
+"title": "Im Gegenlicht"
+},
 {
 "id": "2026-10-20T10:27|Tunde Adebimpe|God Knows",
 "t": "2026-10-20T10:27:00+02:00",
@@ -6854,6 +6874,10 @@
 "laura marling|alexandra": {
 "u": "spotify:track:1TpOFgqL9EFLPsXSs3e1Tf",
 "d": "2026-10-20T10:31:36.431764+02:00"
+},
+"innenraume|im gegenlicht": {
+"u": "spotify:track:2ubG5Lo2I8hs3GzaVf7vdD",
+"d": "2026-10-20T10:36:36.432430+02:00"
 }
 }
 }
