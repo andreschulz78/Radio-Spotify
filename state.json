@@ -1,12 +1,20 @@
 {
-"updated": "2026-10-20T11:46:36.441471+02:00",
+"updated": "2026-10-20T11:56:36.442816+02:00",
 "matcher": 4,
 "blocked_until": null,
 "details": "51e4e36c2ea1",
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAICvsS2GCJBOu6+RQq2V1mh8ByY05B",
+"snapshot": "AAAIF2amEYn2YWuH38VEosF3eL0YVkJM",
 "playlist": [
+[
+"2026-10-20T11:50|2raumwohnung|Ich hör Musik wenn ich dich seh",
+"spotify:track:3jzJFT6pksxOwA7wDciinF"
+],
+[
+"2026-10-20T11:45|Apparat|Little Feet (Radio Edit)",
+"spotify:track:4urSQgCa5bJxrncJj6V68e"
+],
 [
 "2026-10-20T11:36|Devendra Banhart|I Feel Just Like A Child",
 "spotify:track:6FKKWmZLSVgfGBDUncBo9K"
@@ -2245,6 +2253,18 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-10-20T11:50|2raumwohnung|Ich hör Musik wenn ich dich seh",
+"t": "2026-10-20T11:50:00+02:00",
+"artist": "2raumwohnung",
+"title": "Ich hör Musik wenn ich dich seh"
+},
+{
+"id": "2026-10-20T11:45|Apparat|Little Feet (Radio Edit)",
+"t": "2026-10-20T11:45:00+02:00",
+"artist": "Apparat",
+"title": "Little Feet (Radio Edit)"
+},
 {
 "id": "2026-10-20T11:36|Devendra Banhart|I Feel Just Like A Child",
 "t": "2026-10-20T11:36:00+02:00",
@@ -7010,6 +7030,14 @@
 "devendra banhart|i feel just like a child": {
 "u": "spotify:track:6FKKWmZLSVgfGBDUncBo9K",
 "d": "2026-10-20T11:41:36.440831+02:00"
+},
+"apparat|little feet radio edit": {
+"u": "spotify:track:4urSQgCa5bJxrncJj6V68e",
+"d": "2026-10-20T11:51:36.442152+02:00"
+},
+"2raumwohnung|ich hor musik wenn ich dich seh": {
+"u": "spotify:track:3jzJFT6pksxOwA7wDciinF",
+"d": "2026-10-20T11:56:36.442816+02:00"
 }
 }
 }
