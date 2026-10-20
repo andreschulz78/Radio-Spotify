@@ -1,12 +1,20 @@
 {
-"updated": "2026-10-20T09:23:27.529543+02:00",
+"updated": "2026-10-20T09:34:27.530722+02:00",
 "matcher": 4,
 "blocked_until": null,
 "details": "51e4e36c2ea1",
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAHkwe/WDjFkNtdUPgVC3iKdYgVDSBZ",
+"snapshot": "AAAHn5tbnq2Ff5Cen0Ce55i/z9NwhRt+",
 "playlist": [
+[
+"2026-10-20T09:26|Hak Baker feat. Baxter Dury|Nostalgia Death",
+"spotify:track:0hjjpa9zSBujrfWC9hgKnr"
+],
+[
+"2026-10-20T09:22|Smidley feat. Lucy Dacus|Capstone",
+"spotify:track:0YosJMrYxYQP7mLXfFo0p1"
+],
 [
 "2026-10-20T09:16|Modest Mouse|Float On",
 "spotify:track:2lwwrWVKdf3LR9lbbhnr6R"
@@ -2145,6 +2153,18 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-10-20T09:26|Hak Baker feat. Baxter Dury|Nostalgia Death",
+"t": "2026-10-20T09:26:00+02:00",
+"artist": "Hak Baker feat. Baxter Dury",
+"title": "Nostalgia Death"
+},
+{
+"id": "2026-10-20T09:22|Smidley feat. Lucy Dacus|Capstone",
+"t": "2026-10-20T09:22:00+02:00",
+"artist": "Smidley feat. Lucy Dacus",
+"title": "Capstone"
+},
 {
 "id": "2026-10-20T09:16|Modest Mouse|Float On",
 "t": "2026-10-20T09:16:00+02:00",
@@ -6692,6 +6712,10 @@
 "modest mouse|float on": {
 "u": "spotify:track:2lwwrWVKdf3LR9lbbhnr6R",
 "d": "2026-10-20T09:21:27.529285+02:00"
+},
+"hak baker feat baxter dury|nostalgia death": {
+"u": "spotify:track:0hjjpa9zSBujrfWC9hgKnr",
+"d": "2026-10-20T09:30:27.530216+02:00"
 }
 }
 }
