@@ -1,12 +1,20 @@
 {
-"updated": "2026-10-20T08:29:27.523600+02:00",
+"updated": "2026-10-20T08:40:27.524784+02:00",
 "matcher": 4,
 "blocked_until": null,
 "details": "51e4e36c2ea1",
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAHXfRaZ9MIfmwOTuutYBG+HKSjuZqS",
+"snapshot": "AAAHY/BAJVey2ohCC6p7YX6NhY0nt6yZ",
 "playlist": [
+[
+"2026-10-20T08:27|UCHE YARA|Hello Hello",
+"spotify:track:3hadpAb0vS5uYSrfidLaDr"
+],
+[
+"2026-10-20T08:24|Coldplay|Popsplits - Dont Panic",
+"spotify:track:2QhURnm7mQDxBb5jWkbDug"
+],
 [
 "2026-10-20T08:20|James Blake|Make something up",
 "spotify:track:64OIDldq25VvelMStZiDvy"
@@ -2105,6 +2113,18 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-10-20T08:27|UCHE YARA|Hello Hello",
+"t": "2026-10-20T08:27:00+02:00",
+"artist": "UCHE YARA",
+"title": "Hello Hello"
+},
+{
+"id": "2026-10-20T08:24|Coldplay|Popsplits - Dont Panic",
+"t": "2026-10-20T08:24:00+02:00",
+"artist": "Coldplay",
+"title": "Popsplits - Dont Panic"
+},
 {
 "id": "2026-10-20T08:20|James Blake|Make something up",
 "t": "2026-10-20T08:20:00+02:00",
@@ -6556,6 +6576,10 @@
 "james blake|make something up": {
 "u": "spotify:track:64OIDldq25VvelMStZiDvy",
 "d": "2026-10-20T08:25:27.523168+02:00"
+},
+"coldplay|popsplits dont panic": {
+"u": "spotify:track:2QhURnm7mQDxBb5jWkbDug",
+"d": "2026-10-20T08:32:27.523960+02:00"
 }
 }
 }
