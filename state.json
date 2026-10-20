@@ -1,12 +1,20 @@
 {
-"updated": "2026-10-20T12:18:36.445723+02:00",
+"updated": "2026-10-20T12:29:36.447110+02:00",
 "matcher": 4,
 "blocked_until": null,
 "details": "51e4e36c2ea1",
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAII4oGBXlPOkalDY1DFblLz6Hsglde",
+"snapshot": "AAAIL+dGzinNymOEBpIGQ8tC6znt/S10",
 "playlist": [
+[
+"2026-10-20T12:19|Portishead|The Rip",
+"spotify:track:5KX2DSPC6aCA0pdDidTmBC"
+],
+[
+"2026-10-20T12:17|Joel Ross|The New Man",
+"spotify:track:3a03mArgCCIAlJz7hp2bsZ"
+],
 [
 "2026-10-20T12:06|Sam Burton|I'm A Stranger",
 "spotify:track:4hAYraVhSzgMTdvftCcqKo"
@@ -2261,6 +2269,18 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-10-20T12:19|Portishead|The Rip",
+"t": "2026-10-20T12:19:00+02:00",
+"artist": "Portishead",
+"title": "The Rip"
+},
+{
+"id": "2026-10-20T12:17|Joel Ross|The New Man",
+"t": "2026-10-20T12:17:00+02:00",
+"artist": "Joel Ross",
+"title": "The New Man"
+},
 {
 "id": "2026-10-20T12:06|Sam Burton|I'm A Stranger",
 "t": "2026-10-20T12:06:00+02:00",
@@ -7062,6 +7082,14 @@
 "banks|beggin for thread": {
 "u": "spotify:track:4PvD06Pmbm2rHG2JjSlElF",
 "d": "2026-10-20T12:01:36.443491+02:00"
+},
+"joel ross|the new man": {
+"u": "spotify:track:3a03mArgCCIAlJz7hp2bsZ",
+"d": "2026-10-20T12:21:36.446101+02:00"
+},
+"portishead|the rip": {
+"u": "spotify:track:5KX2DSPC6aCA0pdDidTmBC",
+"d": "2026-10-20T12:26:36.446744+02:00"
 }
 }
 }
