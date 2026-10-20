@@ -1,12 +1,24 @@
 {
-"updated": "2026-10-20T10:52:36.434448+02:00",
+"updated": "2026-10-20T11:03:36.435895+02:00",
 "matcher": 4,
 "blocked_until": null,
 "details": "51e4e36c2ea1",
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAH27Ngsx+gSLF9P2dGs24b1kfrxV9p",
+"snapshot": "AAAH5z4j6/22j/ENQoTK5zdgE071wCyk",
 "playlist": [
+[
+"2026-10-20T10:57|Elvis Presley|Burning Love",
+"spotify:track:7zMUCLm1TN9o9JlLISztxO"
+],
+[
+"2026-10-20T10:52|Peter Cruseder|Love",
+"spotify:track:7mc6omD0uFBGHeiwdtFzY2"
+],
+[
+"2026-10-20T10:49|Ethan French|reckless and arranged - day 56 (extended)",
+"spotify:track:6H2ZSdZkYYW63UM6K2GcFh"
+],
 [
 "2026-10-20T10:36|Meshell Ndegeocello feat. Cat Power|Don’t You Want Me",
 "spotify:track:5sbCqST9M4Q1sRSJM6L6oT"
@@ -2205,6 +2217,24 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-10-20T10:57|Elvis Presley|Burning Love",
+"t": "2026-10-20T10:57:00+02:00",
+"artist": "Elvis Presley",
+"title": "Burning Love"
+},
+{
+"id": "2026-10-20T10:52|Peter Cruseder|Love",
+"t": "2026-10-20T10:52:00+02:00",
+"artist": "Peter Cruseder",
+"title": "Love"
+},
+{
+"id": "2026-10-20T10:49|Ethan French|reckless and arranged - day 56 (extended)",
+"t": "2026-10-20T10:49:00+02:00",
+"artist": "Ethan French",
+"title": "reckless and arranged - day 56 (extended)"
+},
 {
 "id": "2026-10-20T10:36|Meshell Ndegeocello feat. Cat Power|Don’t You Want Me",
 "t": "2026-10-20T10:36:00+02:00",
@@ -6878,6 +6908,14 @@
 "innenraume|im gegenlicht": {
 "u": "spotify:track:2ubG5Lo2I8hs3GzaVf7vdD",
 "d": "2026-10-20T10:36:36.432430+02:00"
+},
+"peter cruseder|love": {
+"u": "spotify:track:7mc6omD0uFBGHeiwdtFzY2",
+"d": "2026-10-20T10:55:36.434823+02:00"
+},
+"elvis presley|burning love": {
+"u": "spotify:track:7zMUCLm1TN9o9JlLISztxO",
+"d": "2026-10-20T11:01:36.435618+02:00"
 }
 }
 }
