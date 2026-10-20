@@ -1,12 +1,24 @@
 {
-"updated": "2026-10-20T14:29:37.009404+02:00",
+"updated": "2026-10-20T14:40:37.010892+02:00",
 "matcher": 4,
 "blocked_until": null,
 "details": "51e4e36c2ea1",
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAIjysuyK4ghZ0i2KLWRD8qmK7+hUrQ",
+"snapshot": "AAAImzZjMzQ0hOSUq0UE6zgeUKWMhml1",
 "playlist": [
+[
+"2026-10-20T14:31|Suki Waterhouse|Blackout Drunk",
+"spotify:track:0PyN8JswfA5otVomw09V5Q"
+],
+[
+"2026-10-20T14:27|Erobique feat. Luis Baltes|Salut Les Copines! (Single Edit)",
+"spotify:track:7jLBzj4MQ9BULdgjXqxZOW"
+],
+[
+"2026-10-20T14:24|Tank And The Bangas|Ain’t That Deep",
+"spotify:track:0PokJfPldX6FgGR7covt03"
+],
 [
 "2026-10-20T14:19|Nelly|Dilemma",
 "spotify:track:0ARK753YaiJbpLUk7z5yIM"
@@ -2357,6 +2369,24 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-10-20T14:31|Suki Waterhouse|Blackout Drunk",
+"t": "2026-10-20T14:31:00+02:00",
+"artist": "Suki Waterhouse",
+"title": "Blackout Drunk"
+},
+{
+"id": "2026-10-20T14:27|Erobique feat. Luis Baltes|Salut Les Copines! (Single Edit)",
+"t": "2026-10-20T14:27:00+02:00",
+"artist": "Erobique feat. Luis Baltes",
+"title": "Salut Les Copines! (Single Edit)"
+},
+{
+"id": "2026-10-20T14:24|Tank And The Bangas|Ain’t That Deep",
+"t": "2026-10-20T14:24:00+02:00",
+"artist": "Tank And The Bangas",
+"title": "Ain’t That Deep"
+},
 {
 "id": "2026-10-20T14:19|Nelly|Dilemma",
 "t": "2026-10-20T14:19:00+02:00",
@@ -7388,6 +7418,14 @@
 "nelly|dilemma": {
 "u": "spotify:track:0ARK753YaiJbpLUk7z5yIM",
 "d": "2026-10-20T14:27:37.009147+02:00"
+},
+"erobique feat luis baltes|salut les copines single edit": {
+"u": "spotify:track:7jLBzj4MQ9BULdgjXqxZOW",
+"d": "2026-10-20T14:30:37.009531+02:00"
+},
+"suki waterhouse|blackout drunk": {
+"u": "spotify:track:0PyN8JswfA5otVomw09V5Q",
+"d": "2026-10-20T14:35:37.010258+02:00"
 }
 }
 }
