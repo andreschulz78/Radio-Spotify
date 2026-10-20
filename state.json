@@ -1,12 +1,16 @@
 {
-"updated": "2026-10-20T14:07:37.006522+02:00",
+"updated": "2026-10-20T14:18:37.007997+02:00",
 "matcher": 4,
 "blocked_until": null,
 "details": "51e4e36c2ea1",
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAIgx+5SQ6m9NaWNaIDyHzHEqVlXr4U",
+"snapshot": "AAAIidheUnN6trVuNmDqxkPIr2gbQcCW",
 "playlist": [
+[
+"2026-10-20T14:07|Father John Misty|We're Only People (And There's Not Much Anyone Can Do About That)",
+"spotify:track:6mKRtSxZ1VoVA9aN1tUYf4"
+],
 [
 "2026-10-20T13:58|King Krule|Easy Easy",
 "spotify:track:7miPR7yflY4kvhVBfEyTzp"
@@ -2349,6 +2353,12 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-10-20T14:07|Father John Misty|We're Only People (And There's Not Much Anyone Can Do About That)",
+"t": "2026-10-20T14:07:00+02:00",
+"artist": "Father John Misty",
+"title": "We're Only People (And There's Not Much Anyone Can Do About That)"
+},
 {
 "id": "2026-10-20T13:58|King Krule|Easy Easy",
 "t": "2026-10-20T13:58:00+02:00",
@@ -7360,6 +7370,10 @@
 "king krule|easy easy": {
 "u": "spotify:track:7miPR7yflY4kvhVBfEyTzp",
 "d": "2026-10-20T14:00:37.005596+02:00"
+},
+"father john misty|we re only people and there s not much anyone can do about that": {
+"u": "spotify:track:6mKRtSxZ1VoVA9aN1tUYf4",
+"d": "2026-10-20T14:15:37.007617+02:00"
 }
 }
 }
