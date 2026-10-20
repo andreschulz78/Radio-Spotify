@@ -1,12 +1,20 @@
 {
-"updated": "2026-10-20T05:24:27.502756+02:00",
+"updated": "2026-10-20T05:35:27.503820+02:00",
 "matcher": 4,
 "blocked_until": null,
 "details": "51e4e36c2ea1",
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAGwTreX/+b07etCPFlJzUQ/DOwTnBd",
+"snapshot": "AAAGy0JmFgmhYLG2hk+n/DDeSZnjMmo0",
 "playlist": [
+[
+"2026-10-20T05:24|Jonathan Bree|When We Met",
+"spotify:track:523nMlk5ceUmnvVKEgrjOU"
+],
+[
+"2026-10-20T05:17|Lauryn Hill|Can't Take My Eyes Off Of You",
+"spotify:track:2GFExyKXf9383tSRSrEHEt"
+],
 [
 "2026-10-20T05:15|Beck|It Ends Right Here",
 "spotify:track:3PmyDf7Zu4vveCnayueVYX"
@@ -1985,6 +1993,18 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-10-20T05:24|Jonathan Bree|When We Met",
+"t": "2026-10-20T05:24:00+02:00",
+"artist": "Jonathan Bree",
+"title": "When We Met"
+},
+{
+"id": "2026-10-20T05:17|Lauryn Hill|Can't Take My Eyes Off Of You",
+"t": "2026-10-20T05:17:00+02:00",
+"artist": "Lauryn Hill",
+"title": "Can't Take My Eyes Off Of You"
+},
 {
 "id": "2026-10-20T05:15|Beck|It Ends Right Here",
 "t": "2026-10-20T05:15:00+02:00",
@@ -6148,6 +6168,14 @@
 "beck|it ends right here": {
 "u": "spotify:track:3PmyDf7Zu4vveCnayueVYX",
 "d": "2026-10-20T05:21:27.502373+02:00"
+},
+"lauryn hill|can t take my eyes off of you": {
+"u": "spotify:track:2GFExyKXf9383tSRSrEHEt",
+"d": "2026-10-20T05:26:27.502956+02:00"
+},
+"jonathan bree|when we met": {
+"u": "spotify:track:523nMlk5ceUmnvVKEgrjOU",
+"d": "2026-10-20T05:30:27.503335+02:00"
 }
 }
 }
