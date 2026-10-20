@@ -1,12 +1,28 @@
 {
-"updated": "2026-10-20T10:21:36.430350+02:00",
+"updated": "2026-10-20T10:31:36.431764+02:00",
 "matcher": 4,
 "blocked_until": null,
 "details": "51e4e36c2ea1",
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAHw4s3CNMVH27TK+H1LRt8+zQDMx3B",
+"snapshot": "AAAHz3kyVILtImt2xnLLm3T66LUutCDY",
 "playlist": [
+[
+"2026-10-20T10:27|Tunde Adebimpe|God Knows",
+"spotify:track:1g9o6MNw8DQEFGmKQwbyYa"
+],
+[
+"2026-10-20T10:23|Laura Marling|Alexandra",
+"spotify:track:1TpOFgqL9EFLPsXSs3e1Tf"
+],
+[
+"2026-10-20T10:21|Anderson .Paak & Cordae|A Good Day",
+"spotify:track:4CrnExkcZkg6Aek113hAWl"
+],
+[
+"2026-10-20T10:17|Fuffifufzich|New Era",
+"spotify:track:0sF1TJMDGYxKvu9pp1JQkQ"
+],
 [
 "2026-10-20T10:09|Lola Young|From Down Here (Radio Edit)",
 "spotify:track:7Hg7l5aOygIHuaNDVFp3ox"
@@ -2181,6 +2197,30 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-10-20T10:27|Tunde Adebimpe|God Knows",
+"t": "2026-10-20T10:27:00+02:00",
+"artist": "Tunde Adebimpe",
+"title": "God Knows"
+},
+{
+"id": "2026-10-20T10:23|Laura Marling|Alexandra",
+"t": "2026-10-20T10:23:00+02:00",
+"artist": "Laura Marling",
+"title": "Alexandra"
+},
+{
+"id": "2026-10-20T10:21|Anderson .Paak & Cordae|A Good Day",
+"t": "2026-10-20T10:21:00+02:00",
+"artist": "Anderson .Paak & Cordae",
+"title": "A Good Day"
+},
+{
+"id": "2026-10-20T10:17|Fuffifufzich|New Era",
+"t": "2026-10-20T10:17:00+02:00",
+"artist": "Fuffifufzich",
+"title": "New Era"
+},
 {
 "id": "2026-10-20T10:09|Lola Young|From Down Here (Radio Edit)",
 "t": "2026-10-20T10:09:00+02:00",
@@ -6806,6 +6846,14 @@
 "gerry cinnamon|sometimes": {
 "u": "spotify:track:58dwGk4l4ju8pI9YWsTHWD",
 "d": "2026-10-20T10:10:36.428887+02:00"
+},
+"tunde adebimpe|god knows": {
+"u": "spotify:track:1g9o6MNw8DQEFGmKQwbyYa",
+"d": "2026-10-20T10:31:36.431764+02:00"
+},
+"laura marling|alexandra": {
+"u": "spotify:track:1TpOFgqL9EFLPsXSs3e1Tf",
+"d": "2026-10-20T10:31:36.431764+02:00"
 }
 }
 }
