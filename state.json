@@ -1,12 +1,20 @@
 {
-"updated": "2026-10-21T07:21:06.288640+02:00",
+"updated": "2026-10-21T07:31:06.289958+02:00",
 "matcher": 4,
 "blocked_until": null,
 "details": "51e4e36c2ea1",
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAJr9SVF7mshOb1RaEN+eeTNqjmyDBc",
+"snapshot": "AAAJvSu+dwbs9oxY+WuwTkHVXG6nzyyQ",
 "playlist": [
+[
+"2026-10-21T07:24|UB40|Food For Thought",
+"spotify:track:5YkkeIiErNf2ckvMxmT5RT"
+],
+[
+"2026-10-21T07:17|Leon Bridges|Talk it over",
+"spotify:track:5Bdn8RyTqz4dV7F07EFBP5"
+],
 [
 "2026-10-21T07:11|Black Pumas|Colors",
 "spotify:track:7mzocQrHwKd19aLrjT3isS"
@@ -2681,6 +2689,18 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-10-21T07:24|UB40|Food For Thought",
+"t": "2026-10-21T07:24:00+02:00",
+"artist": "UB40",
+"title": "Food For Thought"
+},
+{
+"id": "2026-10-21T07:17|Leon Bridges|Talk it over",
+"t": "2026-10-21T07:17:00+02:00",
+"artist": "Leon Bridges",
+"title": "Talk it over"
+},
 {
 "id": "2026-10-21T07:11|Black Pumas|Colors",
 "t": "2026-10-21T07:11:00+02:00",
@@ -8436,6 +8456,10 @@
 "black pumas|colors": {
 "u": "spotify:track:7mzocQrHwKd19aLrjT3isS",
 "d": "2026-10-21T07:16:06.287941+02:00"
+},
+"ub40|food for thought": {
+"u": "spotify:track:5YkkeIiErNf2ckvMxmT5RT",
+"d": "2026-10-21T07:31:06.289958+02:00"
 }
 }
 }
