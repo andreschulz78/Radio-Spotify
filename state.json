@@ -1,12 +1,24 @@
 {
-"updated": "2026-10-21T12:50:14.860012+02:00",
+"updated": "2026-10-21T13:01:14.861171+02:00",
 "matcher": 4,
 "blocked_until": null,
 "details": "51e4e36c2ea1",
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAALAyFsGZKbc1IkeNPqc2Z085zWdWiE",
+"snapshot": "AAALE9ZGcoi6Fp7nu0/oFI/204Kf05kr",
 "playlist": [
+[
+"2026-10-21T12:56|L'Rain|Elmyra (Edit)",
+"spotify:track:5pedzmyyKGTs8PV23dnvbc"
+],
+[
+"2026-10-21T12:52|Florence + The Machine|Buckle",
+"spotify:track:2Ea5Qh9ijEt8og1ZNBgqhR"
+],
+[
+"2026-10-21T12:49|Squeeze|Tempted",
+"spotify:track:5r2z0FHOoFI06GZEVGDjzM"
+],
 [
 "2026-10-21T12:45|Benjamin Clementine|In Fact You Know You Gotto Go",
 "spotify:track:4cWEdRTQ8sg4QaTBIGn06j"
@@ -2897,6 +2909,24 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-10-21T12:56|L'Rain|Elmyra (Edit)",
+"t": "2026-10-21T12:56:00+02:00",
+"artist": "L'Rain",
+"title": "Elmyra (Edit)"
+},
+{
+"id": "2026-10-21T12:52|Florence + The Machine|Buckle",
+"t": "2026-10-21T12:52:00+02:00",
+"artist": "Florence + The Machine",
+"title": "Buckle"
+},
+{
+"id": "2026-10-21T12:49|Squeeze|Tempted",
+"t": "2026-10-21T12:49:00+02:00",
+"artist": "Squeeze",
+"title": "Tempted"
+},
 {
 "id": "2026-10-21T12:45|Benjamin Clementine|In Fact You Know You Gotto Go",
 "t": "2026-10-21T12:45:00+02:00",
@@ -9118,6 +9148,14 @@
 "brian eno john cale|spinning away": {
 "u": "spotify:track:1aMJTyCRfxfp8luej4rjAC",
 "d": "2026-10-21T12:46:14.859476+02:00"
+},
+"florence the machine|buckle": {
+"u": "spotify:track:2Ea5Qh9ijEt8og1ZNBgqhR",
+"d": "2026-10-21T12:56:14.860682+02:00"
+},
+"squeeze|tempted": {
+"u": "spotify:track:5r2z0FHOoFI06GZEVGDjzM",
+"d": "2026-10-21T12:56:14.860682+02:00"
 }
 }
 }
