@@ -1,12 +1,20 @@
 {
-"updated": "2026-10-21T10:07:14.840188+02:00",
+"updated": "2026-10-21T10:18:14.841555+02:00",
 "matcher": 4,
 "blocked_until": null,
 "details": "51e4e36c2ea1",
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAKSSzmLF5PdiGvjZmjyZRIQYm2z0Bs",
+"snapshot": "AAAKV2cIUn2IKKNmB//8CO5fmja6QDCU",
 "playlist": [
+[
+"2026-10-21T10:10|Gotan Project|La Vigüela",
+"spotify:track:2a3YtteFZ62E5yH3WGqUB1"
+],
+[
+"2026-10-21T10:05|Yard Act|You're Gonna Need A Little Music",
+"spotify:track:43KS2LpjMVkvJdprLaoQxQ"
+],
 [
 "2026-10-21T09:55|Everlast|What It's Like",
 "spotify:track:6vUPPEN2V2lZ78b6DyEIjZ"
@@ -2781,6 +2789,18 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-10-21T10:10|Gotan Project|La Vigüela",
+"t": "2026-10-21T10:10:00+02:00",
+"artist": "Gotan Project",
+"title": "La Vigüela"
+},
+{
+"id": "2026-10-21T10:05|Yard Act|You're Gonna Need A Little Music",
+"t": "2026-10-21T10:05:00+02:00",
+"artist": "Yard Act",
+"title": "You're Gonna Need A Little Music"
+},
 {
 "id": "2026-10-21T09:55|Everlast|What It's Like",
 "t": "2026-10-21T09:55:00+02:00",
@@ -8756,6 +8776,10 @@
 "everlast|what it s like": {
 "u": "spotify:track:6vUPPEN2V2lZ78b6DyEIjZ",
 "d": "2026-10-21T10:02:14.839721+02:00"
+},
+"gotan project|la viguela": {
+"u": "spotify:track:2a3YtteFZ62E5yH3WGqUB1",
+"d": "2026-10-21T10:16:14.841346+02:00"
 }
 }
 }
