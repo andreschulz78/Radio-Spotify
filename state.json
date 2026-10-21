@@ -1,12 +1,24 @@
 {
-"updated": "2026-10-21T13:34:14.863995+02:00",
+"updated": "2026-10-21T13:45:14.865035+02:00",
 "matcher": 4,
 "blocked_until": null,
 "details": "51e4e36c2ea1",
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAALM9qAvO3TL7g4iyD9ArTbJvg3fsZt",
+"snapshot": "AAALQxnYPzeHs7Dd6VprLH+aKmE4IDgU",
 "playlist": [
+[
+"2026-10-21T13:35|The Cure|A Fragile Thing",
+"spotify:track:17k0Dwj1nr2VnES26230lJ"
+],
+[
+"2026-10-21T13:32|Bilderbuch|Baby Junkie",
+"spotify:track:1bPs9oNEaAEUYfCL7tH79W"
+],
+[
+"2026-10-21T13:29|Gorillaz feat. Bizarrap, Kara Jackson and Anoushka Shankar|Orange County",
+"spotify:track:5l4Gq3UC0dHKSExIf5xD9N"
+],
 [
 "2026-10-21T13:24|Noel Harrison|The Windmills Of Your Mind",
 "spotify:track:5E7srKqL4Vh0VuB6mI03kS"
@@ -2925,6 +2937,24 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-10-21T13:35|The Cure|A Fragile Thing",
+"t": "2026-10-21T13:35:00+02:00",
+"artist": "The Cure",
+"title": "A Fragile Thing"
+},
+{
+"id": "2026-10-21T13:32|Bilderbuch|Baby Junkie",
+"t": "2026-10-21T13:32:00+02:00",
+"artist": "Bilderbuch",
+"title": "Baby Junkie"
+},
+{
+"id": "2026-10-21T13:29|Gorillaz feat. Bizarrap, Kara Jackson and Anoushka Shankar|Orange County",
+"t": "2026-10-21T13:29:00+02:00",
+"artist": "Gorillaz feat. Bizarrap, Kara Jackson and Anoushka Shankar",
+"title": "Orange County"
+},
 {
 "id": "2026-10-21T13:24|Noel Harrison|The Windmills Of Your Mind",
 "t": "2026-10-21T13:24:00+02:00",
@@ -9204,6 +9234,18 @@
 "noel harrison|the windmills of your mind": {
 "u": "spotify:track:5E7srKqL4Vh0VuB6mI03kS",
 "d": "2026-10-21T13:31:14.863724+02:00"
+},
+"bilderbuch|baby junkie": {
+"u": "spotify:track:1bPs9oNEaAEUYfCL7tH79W",
+"d": "2026-10-21T13:37:14.864273+02:00"
+},
+"gorillaz feat bizarrap kara jackson and anoushka shankar|orange county": {
+"u": "spotify:track:5l4Gq3UC0dHKSExIf5xD9N",
+"d": "2026-10-21T13:37:14.864273+02:00"
+},
+"the cure|a fragile thing": {
+"u": "spotify:track:17k0Dwj1nr2VnES26230lJ",
+"d": "2026-10-21T13:42:14.864760+02:00"
 }
 }
 }
