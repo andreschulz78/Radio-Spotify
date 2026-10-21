@@ -1,12 +1,16 @@
 {
-"updated": "2026-10-21T07:10:06.287192+02:00",
+"updated": "2026-10-21T07:21:06.288640+02:00",
 "matcher": 4,
 "blocked_until": null,
 "details": "51e4e36c2ea1",
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAJqKS53qW6wbAS0VzRPhUpQXq3MIzf",
+"snapshot": "AAAJr9SVF7mshOb1RaEN+eeTNqjmyDBc",
 "playlist": [
+[
+"2026-10-21T07:11|Black Pumas|Colors",
+"spotify:track:7mzocQrHwKd19aLrjT3isS"
+],
 [
 "2026-10-21T07:05|Jorja Smith|Blue Lights",
 "spotify:track:2is3sT9juWji2uUZk63g5E"
@@ -2677,6 +2681,12 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-10-21T07:11|Black Pumas|Colors",
+"t": "2026-10-21T07:11:00+02:00",
+"artist": "Black Pumas",
+"title": "Colors"
+},
 {
 "id": "2026-10-21T07:05|Jorja Smith|Blue Lights",
 "t": "2026-10-21T07:05:00+02:00",
@@ -8422,6 +8432,10 @@
 "jorja smith|blue lights": {
 "u": "spotify:track:2is3sT9juWji2uUZk63g5E",
 "d": "2026-10-21T07:10:06.287192+02:00"
+},
+"black pumas|colors": {
+"u": "spotify:track:7mzocQrHwKd19aLrjT3isS",
+"d": "2026-10-21T07:16:06.287941+02:00"
 }
 }
 }
