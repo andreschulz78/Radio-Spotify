@@ -1,12 +1,20 @@
 {
-"updated": "2026-10-21T09:02:14.832419+02:00",
+"updated": "2026-10-21T09:13:14.833831+02:00",
 "matcher": 4,
 "blocked_until": null,
 "details": "51e4e36c2ea1",
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAKCla8dHhsV5aV8jlyNYSlf8azGmle",
+"snapshot": "AAAKGF2/zUuys0MTMZX/ByU6ir5aAvVx",
 "playlist": [
+[
+"2026-10-21T09:07|Maribou State feat. Khruangbin|Feel Good",
+"spotify:track:5EhyJGUafXNnPniaIQnSER"
+],
+[
+"2026-10-21T08:58|Viagra Boys|Uno II",
+"spotify:track:2CHdkhVS2Nh0fIEdzpokC7"
+],
 [
 "2026-10-21T08:51|Kay Young|The Way You Look At Me",
 "spotify:track:1xnarNBibYchqPjKRuwZzO"
@@ -2741,6 +2749,18 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-10-21T09:07|Maribou State feat. Khruangbin|Feel Good",
+"t": "2026-10-21T09:07:00+02:00",
+"artist": "Maribou State feat. Khruangbin",
+"title": "Feel Good"
+},
+{
+"id": "2026-10-21T08:58|Viagra Boys|Uno II",
+"t": "2026-10-21T08:58:00+02:00",
+"artist": "Viagra Boys",
+"title": "Uno II"
+},
 {
 "id": "2026-10-21T08:51|Kay Young|The Way You Look At Me",
 "t": "2026-10-21T08:51:00+02:00",
@@ -8628,6 +8648,14 @@
 "kay young|the way you look at me": {
 "u": "spotify:track:1xnarNBibYchqPjKRuwZzO",
 "d": "2026-10-21T08:55:14.831503+02:00"
+},
+"viagra boys|uno ii": {
+"u": "spotify:track:2CHdkhVS2Nh0fIEdzpokC7",
+"d": "2026-10-21T09:05:14.832814+02:00"
+},
+"maribou state feat khruangbin|feel good": {
+"u": "spotify:track:5EhyJGUafXNnPniaIQnSER",
+"d": "2026-10-21T09:11:14.833601+02:00"
 }
 }
 }
