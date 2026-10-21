@@ -1,12 +1,16 @@
 {
-"updated": "2026-10-21T11:01:14.846886+02:00",
+"updated": "2026-10-21T11:12:14.848186+02:00",
 "matcher": 4,
 "blocked_until": null,
 "details": "51e4e36c2ea1",
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAKgxlxl/x9LtoMBHRHLhdZefXuObCh",
+"snapshot": "AAAKi+RmPSwOPaIDgf3sjjn8JUR4KVTf",
 "playlist": [
+[
+"2026-10-21T11:06|Jungle|The Wave",
+"spotify:track:6Ln44Up5lBxNgCsaLoXY6W"
+],
 [
 "2026-10-21T10:56|BICEP feat. SOARR|Air (Radio Edit)",
 "spotify:track:2infXICqVSUM3bbGSOgFOY"
@@ -2821,6 +2825,12 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-10-21T11:06|Jungle|The Wave",
+"t": "2026-10-21T11:06:00+02:00",
+"artist": "Jungle",
+"title": "The Wave"
+},
 {
 "id": "2026-10-21T10:56|BICEP feat. SOARR|Air (Radio Edit)",
 "t": "2026-10-21T10:56:00+02:00",
