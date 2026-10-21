@@ -1,12 +1,20 @@
 {
-"updated": "2026-10-21T06:48:06.284353+02:00",
+"updated": "2026-10-21T06:59:06.285752+02:00",
 "matcher": 4,
 "blocked_until": null,
 "details": "51e4e36c2ea1",
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAJjHED5RGyojuEaKCLLLaWX3CHWKRG",
+"snapshot": "AAAJmqKXptMuYSZsXFJZHmWCTuniHkph",
 "playlist": [
+[
+"2026-10-21T06:49|The Rolling Stones|Anybody Seen My Baby",
+"spotify:track:4tXr9v3K7nWW1aebWqR1B7"
+],
+[
+"2026-10-21T06:45|Balthazar|Entertainment",
+"spotify:track:5Cf3f73JU5pVcSzoJTLFea"
+],
 [
 "2026-10-21T06:42|Ibeyi|Hurry Hurry",
 "spotify:track:4BGA7VW330Eu1kaFNi98cG"
@@ -2661,6 +2669,18 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-10-21T06:49|The Rolling Stones|Anybody Seen My Baby",
+"t": "2026-10-21T06:49:00+02:00",
+"artist": "The Rolling Stones",
+"title": "Anybody Seen My Baby"
+},
+{
+"id": "2026-10-21T06:45|Balthazar|Entertainment",
+"t": "2026-10-21T06:45:00+02:00",
+"artist": "Balthazar",
+"title": "Entertainment"
+},
 {
 "id": "2026-10-21T06:42|Ibeyi|Hurry Hurry",
 "t": "2026-10-21T06:42:00+02:00",
@@ -8370,6 +8390,14 @@
 "two door cinema club|happy customers": {
 "u": "spotify:track:5BQV6zDJ8lRr8nN6lV2WWi",
 "d": "2026-10-21T06:41:06.283463+02:00"
+},
+"balthazar|entertainment": {
+"u": "spotify:track:5Cf3f73JU5pVcSzoJTLFea",
+"d": "2026-10-21T06:51:06.284714+02:00"
+},
+"the rolling stones|anybody seen my baby": {
+"u": "spotify:track:4tXr9v3K7nWW1aebWqR1B7",
+"d": "2026-10-21T06:57:06.285481+02:00"
 }
 }
 }
