@@ -1,12 +1,20 @@
 {
-"updated": "2026-10-21T05:20:06.272961+02:00",
+"updated": "2026-10-21T05:31:06.274319+02:00",
 "matcher": 4,
 "blocked_until": null,
 "details": "51e4e36c2ea1",
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAJGcjC1ssNVpyVd5eEc7z0Xlt4kQLk",
+"snapshot": "AAAJOHCsCeVox8FsEJwk3146idwgm7Rf",
 "playlist": [
+[
+"2026-10-21T05:24|Ayele|Fractured (Radio Edit)",
+"spotify:track:5EGnOBL2qoUNard3Oaq5Hc"
+],
+[
+"2026-10-21T05:18|Father John Misty|I Guess Time Just Makes Fools Of Us All",
+"spotify:track:0QA1dDs6A2xLr7nxWFpeJN"
+],
 [
 "2026-10-21T05:15|Dekker|Small Wins",
 "spotify:track:77cPb0cCcgJ2r19DgLSGPx"
@@ -128,16 +136,52 @@
 "spotify:track:3O0F7giEqhGpvjUpGc9M7q"
 ],
 [
+"2026-10-20T17:16|A Projection|Transition",
+"spotify:track:3Kcam8JyyxQwJdCM06AYi1"
+],
+[
 "2026-10-20T17:13|Bonobo feat. Joy Crookes|Always on Your Side",
 "spotify:track:6jJTpzMquQLVuUkM2vVEIF"
+],
+[
+"2026-10-20T17:08|Lou Hayter|Time Out Of Mind",
+"spotify:track:1slXhm6Owe074VxIJwb3px"
+],
+[
+"2026-10-20T17:05|Bilderbuch|Push Reality",
+"spotify:track:7sNLEBqGGmDu6WOJQZagcD"
+],
+[
+"2026-10-20T16:55|The Sweet|Ballroom Blitz",
+"spotify:track:7vk3UjlfuxWCPtB38BpCbu"
+],
+[
+"2026-10-20T16:50|Lily Allen|Dallas Major",
+"spotify:track:1ECugAb7Pg6UDA501YYgH9"
+],
+[
+"2026-10-20T16:46|Anna Calvi|Desire",
+"spotify:track:3TXRWp2YTFu4Mcscn9q5cj"
+],
+[
+"2026-10-20T16:41|George Michael|Freedom",
+"spotify:track:1wZ7o1mZysv1l26ZWawVfW"
 ],
 [
 "2026-10-20T16:34|Pamela.|Better than Before",
 "spotify:track:30ewsn0jSF9Jme7Altrz9X"
 ],
 [
+"2026-10-20T16:25|EELS|Congratulations To Me",
+"spotify:track:0PsZbSqZk6s6bEw5Ff3xrS"
+],
+[
 "2026-10-20T16:21|JGrrey feat. Bel Cobain|Take My Hand",
 "spotify:track:0i4SCqKHjbBrPjUX4RPRq3"
+],
+[
+"2026-10-20T16:18|Sinéad O'Connor|No Man's Woman",
+"spotify:track:0xsfUIVCZLR12cNsjvDqeB"
 ],
 [
 "2026-10-20T16:09|Beyoncé|Bodyguard",
@@ -2565,6 +2609,18 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-10-21T05:24|Ayele|Fractured (Radio Edit)",
+"t": "2026-10-21T05:24:00+02:00",
+"artist": "Ayele",
+"title": "Fractured (Radio Edit)"
+},
+{
+"id": "2026-10-21T05:18|Father John Misty|I Guess Time Just Makes Fools Of Us All",
+"t": "2026-10-21T05:18:00+02:00",
+"artist": "Father John Misty",
+"title": "I Guess Time Just Makes Fools Of Us All"
+},
 {
 "id": "2026-10-21T05:15|Dekker|Small Wins",
 "t": "2026-10-21T05:15:00+02:00",
@@ -8112,6 +8168,50 @@
 "gruff rhys|bad friend": {
 "u": "spotify:track:3O0F7giEqhGpvjUpGc9M7q",
 "d": "2026-10-21T05:20:06.272961+02:00"
+},
+"a projection|transition": {
+"u": "spotify:track:3Kcam8JyyxQwJdCM06AYi1",
+"d": "2026-10-21T05:21:06.273090+02:00"
+},
+"lou hayter|time out of mind": {
+"u": "spotify:track:1slXhm6Owe074VxIJwb3px",
+"d": "2026-10-21T05:21:06.273090+02:00"
+},
+"bilderbuch|push reality": {
+"u": "spotify:track:7sNLEBqGGmDu6WOJQZagcD",
+"d": "2026-10-21T05:21:06.273090+02:00"
+},
+"the sweet|ballroom blitz": {
+"u": "spotify:track:7vk3UjlfuxWCPtB38BpCbu",
+"d": "2026-10-21T05:22:06.273219+02:00"
+},
+"lily allen|dallas major": {
+"u": "spotify:track:1ECugAb7Pg6UDA501YYgH9",
+"d": "2026-10-21T05:22:06.273219+02:00"
+},
+"anna calvi|desire": {
+"u": "spotify:track:3TXRWp2YTFu4Mcscn9q5cj",
+"d": "2026-10-21T05:22:06.273219+02:00"
+},
+"george michael|freedom": {
+"u": "spotify:track:1wZ7o1mZysv1l26ZWawVfW",
+"d": "2026-10-21T05:23:06.273345+02:00"
+},
+"eels|congratulations to me": {
+"u": "spotify:track:0PsZbSqZk6s6bEw5Ff3xrS",
+"d": "2026-10-21T05:23:06.273345+02:00"
+},
+"sinead o connor|no man s woman": {
+"u": "spotify:track:0xsfUIVCZLR12cNsjvDqeB",
+"d": "2026-10-21T05:23:06.273345+02:00"
+},
+"father john misty|i guess time just makes fools of us all": {
+"u": "spotify:track:0QA1dDs6A2xLr7nxWFpeJN",
+"d": "2026-10-21T05:25:06.273598+02:00"
+},
+"ayele|fractured radio edit": {
+"u": "spotify:track:5EGnOBL2qoUNard3Oaq5Hc",
+"d": "2026-10-21T05:30:06.274195+02:00"
 }
 }
 }
