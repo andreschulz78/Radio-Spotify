@@ -1,12 +1,20 @@
 {
-"updated": "2026-10-21T13:45:14.865035+02:00",
+"updated": "2026-10-21T13:56:14.866234+02:00",
 "matcher": 4,
 "blocked_until": null,
 "details": "51e4e36c2ea1",
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAALQxnYPzeHs7Dd6VprLH+aKmE4IDgU",
+"snapshot": "AAALU8pVG4s0pm492BiM1TBEQOwzP0Dl",
 "playlist": [
+[
+"2026-10-21T13:47|Starcrawler|Midnight",
+"spotify:track:0SYJnm38933pv191YArhoc"
+],
+[
+"2026-10-21T13:39|Σtella|Belinda",
+"spotify:track:1rs2lOYfBKNW5OCpeTIiVf"
+],
 [
 "2026-10-21T13:35|The Cure|A Fragile Thing",
 "spotify:track:17k0Dwj1nr2VnES26230lJ"
@@ -2937,6 +2945,18 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-10-21T13:47|Starcrawler|Midnight",
+"t": "2026-10-21T13:47:00+02:00",
+"artist": "Starcrawler",
+"title": "Midnight"
+},
+{
+"id": "2026-10-21T13:39|Σtella|Belinda",
+"t": "2026-10-21T13:39:00+02:00",
+"artist": "Σtella",
+"title": "Belinda"
+},
 {
 "id": "2026-10-21T13:35|The Cure|A Fragile Thing",
 "t": "2026-10-21T13:35:00+02:00",
@@ -9246,6 +9266,14 @@
 "the cure|a fragile thing": {
 "u": "spotify:track:17k0Dwj1nr2VnES26230lJ",
 "d": "2026-10-21T13:42:14.864760+02:00"
+},
+"tella|belinda": {
+"u": "spotify:track:1rs2lOYfBKNW5OCpeTIiVf",
+"d": "2026-10-21T13:46:14.865132+02:00"
+},
+"starcrawler|midnight": {
+"u": "spotify:track:0SYJnm38933pv191YArhoc",
+"d": "2026-10-21T13:51:14.865684+02:00"
 }
 }
 }
