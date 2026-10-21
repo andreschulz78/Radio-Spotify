@@ -1,12 +1,20 @@
 {
-"updated": "2026-10-21T06:59:06.285752+02:00",
+"updated": "2026-10-21T07:10:06.287192+02:00",
 "matcher": 4,
 "blocked_until": null,
 "details": "51e4e36c2ea1",
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAJmqKXptMuYSZsXFJZHmWCTuniHkph",
+"snapshot": "AAAJqKS53qW6wbAS0VzRPhUpQXq3MIzf",
 "playlist": [
+[
+"2026-10-21T07:05|Jorja Smith|Blue Lights",
+"spotify:track:2is3sT9juWji2uUZk63g5E"
+],
+[
+"2026-10-21T06:56|Mari Froes|Eu vou pro samba, viu?",
+"spotify:track:0ZirVpVEx943xdUD9bivHe"
+],
 [
 "2026-10-21T06:49|The Rolling Stones|Anybody Seen My Baby",
 "spotify:track:4tXr9v3K7nWW1aebWqR1B7"
@@ -2669,6 +2677,18 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-10-21T07:05|Jorja Smith|Blue Lights",
+"t": "2026-10-21T07:05:00+02:00",
+"artist": "Jorja Smith",
+"title": "Blue Lights"
+},
+{
+"id": "2026-10-21T06:56|Mari Froes|Eu vou pro samba, viu?",
+"t": "2026-10-21T06:56:00+02:00",
+"artist": "Mari Froes",
+"title": "Eu vou pro samba, viu?"
+},
 {
 "id": "2026-10-21T06:49|The Rolling Stones|Anybody Seen My Baby",
 "t": "2026-10-21T06:49:00+02:00",
@@ -8398,6 +8418,10 @@
 "the rolling stones|anybody seen my baby": {
 "u": "spotify:track:4tXr9v3K7nWW1aebWqR1B7",
 "d": "2026-10-21T06:57:06.285481+02:00"
+},
+"jorja smith|blue lights": {
+"u": "spotify:track:2is3sT9juWji2uUZk63g5E",
+"d": "2026-10-21T07:10:06.287192+02:00"
 }
 }
 }
