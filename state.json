@@ -1,12 +1,28 @@
 {
-"updated": "2026-10-21T12:40:14.858685+02:00",
+"updated": "2026-10-21T12:50:14.860012+02:00",
 "matcher": 4,
 "blocked_until": null,
 "details": "51e4e36c2ea1",
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAK6xSKvSgulgBtSWVIw3vvKNjc8Twf",
+"snapshot": "AAALAyFsGZKbc1IkeNPqc2Z085zWdWiE",
 "playlist": [
+[
+"2026-10-21T12:45|Benjamin Clementine|In Fact You Know You Gotto Go",
+"spotify:track:4cWEdRTQ8sg4QaTBIGn06j"
+],
+[
+"2026-10-21T12:41|Silly|Bye Bye",
+"spotify:track:1Fx6ARxk5ixzDxZEQw0f8j"
+],
+[
+"2026-10-21T12:36|Brian Eno & John Cale|Spinning Away",
+"spotify:track:1aMJTyCRfxfp8luej4rjAC"
+],
+[
+"2026-10-21T12:33|Grace Cummings|I'm Not Crazy",
+"spotify:track:70QaE9UJ2uTVwC4IGS6yvU"
+],
 [
 "2026-10-21T12:30|YellowStraps|Notice",
 "spotify:track:5mnfCw51Anxxyx1tFvFpNO"
@@ -2881,6 +2897,30 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-10-21T12:45|Benjamin Clementine|In Fact You Know You Gotto Go",
+"t": "2026-10-21T12:45:00+02:00",
+"artist": "Benjamin Clementine",
+"title": "In Fact You Know You Gotto Go"
+},
+{
+"id": "2026-10-21T12:41|Silly|Bye Bye",
+"t": "2026-10-21T12:41:00+02:00",
+"artist": "Silly",
+"title": "Bye Bye"
+},
+{
+"id": "2026-10-21T12:36|Brian Eno & John Cale|Spinning Away",
+"t": "2026-10-21T12:36:00+02:00",
+"artist": "Brian Eno & John Cale",
+"title": "Spinning Away"
+},
+{
+"id": "2026-10-21T12:33|Grace Cummings|I'm Not Crazy",
+"t": "2026-10-21T12:33:00+02:00",
+"artist": "Grace Cummings",
+"title": "I'm Not Crazy"
+},
 {
 "id": "2026-10-21T12:30|YellowStraps|Notice",
 "t": "2026-10-21T12:30:00+02:00",
@@ -9070,6 +9110,14 @@
 "yellowstraps|notice": {
 "u": "spotify:track:5mnfCw51Anxxyx1tFvFpNO",
 "d": "2026-10-21T12:36:14.858154+02:00"
+},
+"silly|bye bye": {
+"u": "spotify:track:1Fx6ARxk5ixzDxZEQw0f8j",
+"d": "2026-10-21T12:46:14.859476+02:00"
+},
+"brian eno john cale|spinning away": {
+"u": "spotify:track:1aMJTyCRfxfp8luej4rjAC",
+"d": "2026-10-21T12:46:14.859476+02:00"
 }
 }
 }
