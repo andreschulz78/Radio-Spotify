@@ -1,12 +1,16 @@
 {
-"updated": "2026-10-21T09:35:14.836586+02:00",
+"updated": "2026-10-21T09:46:14.837834+02:00",
 "matcher": 4,
 "blocked_until": null,
 "details": "51e4e36c2ea1",
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAKLWLGis9OsfRM604GNybkvP1fLFcO",
+"snapshot": "AAAKNJowkezgqK5R+HDcRTIVYSU+Sjo8",
 "playlist": [
+[
+"2026-10-21T09:35|Tame Impala|Elephant",
+"spotify:track:6qZjm61s6u8Ead9sWxCDro"
+],
 [
 "2026-10-21T09:25|The Waterboys|The Whole Of The Moon",
 "spotify:track:5rUWsV9OlutKyq9aXUOYYw"
@@ -2761,6 +2765,12 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-10-21T09:35|Tame Impala|Elephant",
+"t": "2026-10-21T09:35:00+02:00",
+"artist": "Tame Impala",
+"title": "Elephant"
+},
 {
 "id": "2026-10-21T09:25|The Waterboys|The Whole Of The Moon",
 "t": "2026-10-21T09:25:00+02:00",
@@ -8694,6 +8704,10 @@
 "the waterboys|the whole of the moon": {
 "u": "spotify:track:5rUWsV9OlutKyq9aXUOYYw",
 "d": "2026-10-21T09:32:14.836024+02:00"
+},
+"tame impala|elephant": {
+"u": "spotify:track:6qZjm61s6u8Ead9sWxCDro",
+"d": "2026-10-21T09:42:14.837340+02:00"
 }
 }
 }
