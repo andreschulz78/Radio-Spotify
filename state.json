@@ -1,12 +1,20 @@
 {
-"updated": "2026-10-21T05:31:06.274319+02:00",
+"updated": "2026-10-21T05:42:06.275721+02:00",
 "matcher": 4,
 "blocked_until": null,
 "details": "51e4e36c2ea1",
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAJOHCsCeVox8FsEJwk3146idwgm7Rf",
+"snapshot": "AAAJP+EVYBsoh/KZ+eNST+mfiiOHVRJ1",
 "playlist": [
+[
+"2026-10-21T05:31|The Big Moon|F.O.R.E.V.E.R",
+"spotify:track:0UaPOdi1O83vr1oTXaGqgx"
+],
+[
+"2026-10-21T05:28|Ralph Myerz & The Jack Herren Band|L.i.p.s.t.i.c.k. (Lipstick)",
+"spotify:track:5UzsqwQvAAwXLZuMnF7Pcc"
+],
 [
 "2026-10-21T05:24|Ayele|Fractured (Radio Edit)",
 "spotify:track:5EGnOBL2qoUNard3Oaq5Hc"
@@ -2609,6 +2617,18 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-10-21T05:31|The Big Moon|F.O.R.E.V.E.R",
+"t": "2026-10-21T05:31:00+02:00",
+"artist": "The Big Moon",
+"title": "F.O.R.E.V.E.R"
+},
+{
+"id": "2026-10-21T05:28|Ralph Myerz & The Jack Herren Band|L.i.p.s.t.i.c.k. (Lipstick)",
+"t": "2026-10-21T05:28:00+02:00",
+"artist": "Ralph Myerz & The Jack Herren Band",
+"title": "L.i.p.s.t.i.c.k. (Lipstick)"
+},
 {
 "id": "2026-10-21T05:24|Ayele|Fractured (Radio Edit)",
 "t": "2026-10-21T05:24:00+02:00",
@@ -8212,6 +8232,10 @@
 "ayele|fractured radio edit": {
 "u": "spotify:track:5EGnOBL2qoUNard3Oaq5Hc",
 "d": "2026-10-21T05:30:06.274195+02:00"
+},
+"ralph myerz the jack herren band|l i p s t i c k lipstick": {
+"u": "spotify:track:5UzsqwQvAAwXLZuMnF7Pcc",
+"d": "2026-10-21T05:36:06.274943+02:00"
 }
 }
 }
