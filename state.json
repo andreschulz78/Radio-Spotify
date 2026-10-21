@@ -1,12 +1,20 @@
 {
-"updated": "2026-10-21T12:18:14.856007+02:00",
+"updated": "2026-10-21T12:29:14.857216+02:00",
 "matcher": 4,
 "blocked_until": null,
 "details": "51e4e36c2ea1",
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAK2+eDGvTKNBHWcS//ANOfkFK4ZHLe",
+"snapshot": "AAAK40p884j07NADEg2vEjx9OPfgT7he",
 "playlist": [
+[
+"2026-10-21T12:23|Lenny Kravitz|Circus",
+"spotify:track:773RId8EM5wexAlZMlVMeL"
+],
+[
+"2026-10-21T12:18|Moderat|Bad Kingdom",
+"spotify:track:4iRMYiBjR3ySyIrn2leUQH"
+],
 [
 "2026-10-21T12:10|Jorja Smith|Don't Leave",
 "spotify:track:44kUOVs16iRf11YjO7aaRW"
@@ -2869,6 +2877,18 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-10-21T12:23|Lenny Kravitz|Circus",
+"t": "2026-10-21T12:23:00+02:00",
+"artist": "Lenny Kravitz",
+"title": "Circus"
+},
+{
+"id": "2026-10-21T12:18|Moderat|Bad Kingdom",
+"t": "2026-10-21T12:18:00+02:00",
+"artist": "Moderat",
+"title": "Bad Kingdom"
+},
 {
 "id": "2026-10-21T12:10|Jorja Smith|Don't Leave",
 "t": "2026-10-21T12:10:00+02:00",
@@ -9028,6 +9048,14 @@
 "dekker|pick it up put it back": {
 "u": "spotify:track:0LhuToBNSlvYc4IwVJpYWH",
 "d": "2026-10-21T12:11:14.855243+02:00"
+},
+"lenny kravitz|circus": {
+"u": "spotify:track:773RId8EM5wexAlZMlVMeL",
+"d": "2026-10-21T12:27:14.857005+02:00"
+},
+"moderat|bad kingdom": {
+"u": "spotify:track:4iRMYiBjR3ySyIrn2leUQH",
+"d": "2026-10-21T12:27:14.857005+02:00"
 }
 }
 }
