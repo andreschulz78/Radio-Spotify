@@ -1,12 +1,20 @@
 {
-"updated": "2026-10-21T06:37:06.282951+02:00",
+"updated": "2026-10-21T06:48:06.284353+02:00",
 "matcher": 4,
 "blocked_until": null,
 "details": "51e4e36c2ea1",
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAJfrrmm91/CJP0HViEVjo6gLxoT40t",
+"snapshot": "AAAJjHED5RGyojuEaKCLLLaWX3CHWKRG",
 "playlist": [
+[
+"2026-10-21T06:42|Ibeyi|Hurry Hurry",
+"spotify:track:4BGA7VW330Eu1kaFNi98cG"
+],
+[
+"2026-10-21T06:34|Two Door Cinema Club|Happy Customers",
+"spotify:track:5BQV6zDJ8lRr8nN6lV2WWi"
+],
 [
 "2026-10-21T06:28|Wallners|Ships",
 "spotify:track:2epKivPKVeRUsP7TZczwpz"
@@ -2653,6 +2661,18 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-10-21T06:42|Ibeyi|Hurry Hurry",
+"t": "2026-10-21T06:42:00+02:00",
+"artist": "Ibeyi",
+"title": "Hurry Hurry"
+},
+{
+"id": "2026-10-21T06:34|Two Door Cinema Club|Happy Customers",
+"t": "2026-10-21T06:34:00+02:00",
+"artist": "Two Door Cinema Club",
+"title": "Happy Customers"
+},
 {
 "id": "2026-10-21T06:28|Wallners|Ships",
 "t": "2026-10-21T06:28:00+02:00",
@@ -8346,6 +8366,10 @@
 "wallners|ships": {
 "u": "spotify:track:2epKivPKVeRUsP7TZczwpz",
 "d": "2026-10-21T06:35:06.282693+02:00"
+},
+"two door cinema club|happy customers": {
+"u": "spotify:track:5BQV6zDJ8lRr8nN6lV2WWi",
+"d": "2026-10-21T06:41:06.283463+02:00"
 }
 }
 }
