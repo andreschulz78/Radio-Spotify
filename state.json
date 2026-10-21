@@ -1,12 +1,20 @@
 {
-"updated": "2026-10-21T09:24:14.835166+02:00",
+"updated": "2026-10-21T09:35:14.836586+02:00",
 "matcher": 4,
 "blocked_until": null,
 "details": "51e4e36c2ea1",
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAKH7JsRQp3SVjhWd35H5yPJqDVFHwi",
+"snapshot": "AAAKLWLGis9OsfRM604GNybkvP1fLFcO",
 "playlist": [
+[
+"2026-10-21T09:25|The Waterboys|The Whole Of The Moon",
+"spotify:track:5rUWsV9OlutKyq9aXUOYYw"
+],
+[
+"2026-10-21T09:19|Friedberg|Goodwife",
+"spotify:track:1H89j9NLse1E0Kmjb3tzW6"
+],
 [
 "2026-10-21T09:15|Bulgarian Cartrader|In My Zone (Radio Edit)",
 "spotify:track:5eRnR1gok6Btb2kYJICbsX"
@@ -2753,6 +2761,18 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-10-21T09:25|The Waterboys|The Whole Of The Moon",
+"t": "2026-10-21T09:25:00+02:00",
+"artist": "The Waterboys",
+"title": "The Whole Of The Moon"
+},
+{
+"id": "2026-10-21T09:19|Friedberg|Goodwife",
+"t": "2026-10-21T09:19:00+02:00",
+"artist": "Friedberg",
+"title": "Goodwife"
+},
 {
 "id": "2026-10-21T09:15|Bulgarian Cartrader|In My Zone (Radio Edit)",
 "t": "2026-10-21T09:15:00+02:00",
@@ -8666,6 +8686,14 @@
 "maribou state feat khruangbin|feel good": {
 "u": "spotify:track:5EhyJGUafXNnPniaIQnSER",
 "d": "2026-10-21T09:11:14.833601+02:00"
+},
+"friedberg|goodwife": {
+"u": "spotify:track:1H89j9NLse1E0Kmjb3tzW6",
+"d": "2026-10-21T09:25:14.835282+02:00"
+},
+"the waterboys|the whole of the moon": {
+"u": "spotify:track:5rUWsV9OlutKyq9aXUOYYw",
+"d": "2026-10-21T09:32:14.836024+02:00"
 }
 }
 }
