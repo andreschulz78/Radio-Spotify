@@ -1,12 +1,20 @@
 {
-"updated": "2026-10-21T11:23:14.849530+02:00",
+"updated": "2026-10-21T11:34:14.850743+02:00",
 "matcher": 4,
 "blocked_until": null,
 "details": "51e4e36c2ea1",
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAKk10IaIN9oALqHy4+nSVb+rIkwpjn",
+"snapshot": "AAAKo7D4DPtfOaHKlaMFK4xcPHmWg1TO",
 "playlist": [
+[
+"2026-10-21T11:25|Bob Dylan|I Want You",
+"spotify:track:7tJQ4Ekp2vN3NlI3vJJW3v"
+],
+[
+"2026-10-21T11:21|Big Thief|All Night All Day",
+"spotify:track:3gVrDEjo68KtplLuZuATTI"
+],
 [
 "2026-10-21T11:10|Fat Freddy's Drop|Boondigga",
 "spotify:track:0ZXdxmBVBpwV7WggSMcZR1"
@@ -2829,6 +2837,18 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-10-21T11:25|Bob Dylan|I Want You",
+"t": "2026-10-21T11:25:00+02:00",
+"artist": "Bob Dylan",
+"title": "I Want You"
+},
+{
+"id": "2026-10-21T11:21|Big Thief|All Night All Day",
+"t": "2026-10-21T11:21:00+02:00",
+"artist": "Big Thief",
+"title": "All Night All Day"
+},
 {
 "id": "2026-10-21T11:10|Fat Freddy's Drop|Boondigga",
 "t": "2026-10-21T11:10:00+02:00",
@@ -8900,6 +8920,10 @@
 "fat freddy s drop|boondigga": {
 "u": "spotify:track:0ZXdxmBVBpwV7WggSMcZR1",
 "d": "2026-10-21T11:16:14.848704+02:00"
+},
+"bob dylan|i want you": {
+"u": "spotify:track:7tJQ4Ekp2vN3NlI3vJJW3v",
+"d": "2026-10-21T11:30:14.850366+02:00"
 }
 }
 }
