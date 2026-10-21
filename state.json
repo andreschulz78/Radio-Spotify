@@ -1,12 +1,16 @@
 {
-"updated": "2026-10-21T06:15:06.279971+02:00",
+"updated": "2026-10-21T06:26:06.281443+02:00",
 "matcher": 4,
 "blocked_until": null,
 "details": "51e4e36c2ea1",
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAJaSFrIx8R4ywvtpTaKdg+XOLOQkAj",
+"snapshot": "AAAJcIgezFH+lYy2o4s5oWZQYswSHWRW",
 "playlist": [
+[
+"2026-10-21T06:18|Sans Parade|Hyperborea",
+"spotify:track:2X0jwUV53K6cDNJK5gzrQy"
+],
 [
 "2026-10-21T06:13|Falco|Junge Römer",
 "spotify:track:537AwtXFJ2xunz35pLKugs"
@@ -2641,6 +2645,12 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-10-21T06:18|Sans Parade|Hyperborea",
+"t": "2026-10-21T06:18:00+02:00",
+"artist": "Sans Parade",
+"title": "Hyperborea"
+},
 {
 "id": "2026-10-21T06:13|Falco|Junge Römer",
 "t": "2026-10-21T06:13:00+02:00",
@@ -8308,6 +8318,10 @@
 "falco|junge romer": {
 "u": "spotify:track:537AwtXFJ2xunz35pLKugs",
 "d": "2026-10-21T06:15:06.279971+02:00"
+},
+"sans parade|hyperborea": {
+"u": "spotify:track:2X0jwUV53K6cDNJK5gzrQy",
+"d": "2026-10-21T06:26:06.281443+02:00"
 }
 }
 }
