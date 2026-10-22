@@ -1,12 +1,24 @@
 {
-"updated": "2026-10-22T05:25:38.818041+02:00",
+"updated": "2026-10-22T05:36:38.819031+02:00",
 "matcher": 4,
 "blocked_until": null,
 "details": "51e4e36c2ea1",
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAALrUVEpHgbCFstumM2nnZblKKO/UOF",
+"snapshot": "AAALzQ9IlqqFuq5IBxY4cqapSUi3iPsU",
 "playlist": [
+[
+"2026-10-22T05:31|Steely Dan|Reelin' In The Years",
+"spotify:track:2BoIbUzZoJb0v2DIyf79pn"
+],
+[
+"2026-10-22T05:25|Alice Gift|Trance Park",
+"spotify:track:5TloORha2fVcdsLo63B4fo"
+],
+[
+"2026-10-22T05:19|Sassy 009 feat. Blood Orange|Tell Me (Jam City Remix) (Edit)",
+"spotify:track:1pDiRrLro0tlhsPSexB3Zv"
+],
 [
 "2026-10-22T05:12|Hundreds|Our Past",
 "spotify:track:6rpts1QdJjTYsj2DF32E5V"
@@ -208,24 +220,60 @@
 "spotify:track:3eImUEjfyVt2YtkyU6PNhB"
 ],
 [
+"2026-10-21T15:32|Jamie Cullum|I'm All Over It",
+"spotify:track:293HNAjpy1wlDwFADrua2u"
+],
+[
+"2026-10-21T15:25|Marinero|Nuestra Victoria",
+"spotify:track:3ZRYcxElGx6Yjdj6uzqwYW"
+],
+[
 "2026-10-21T15:22|Erika De Casier|Delusional",
 "spotify:track:6M5Y8sn5cXePK58bH1WKon"
+],
+[
+"2026-10-21T15:18|Moby|Go",
+"spotify:track:342wZsKI3MUUgWTVKdBNtH"
+],
+[
+"2026-10-21T15:09|Tessa Rose Jackson|Built To Collide",
+"spotify:track:69saRCWp2ov8jBLOprFAfE"
 ],
 [
 "2026-10-21T15:05|The Drums feat. Mareux|It Didn't Matter",
 "spotify:track:10kxTiNUTo4nlEbH1EzoX1"
 ],
 [
+"2026-10-21T14:56|Sam Ragga Band feat. Jan Delay|Die Welt steht still",
+"spotify:track:4tfP0R0NoKh0jeSzBIHZ7d"
+],
+[
 "2026-10-21T14:51|Natalie Jane Hill|Never Left Me",
 "spotify:track:5mYV6uf5S0ChjFoLJWUJHI"
+],
+[
+"2026-10-21T14:44|Stevie Wonder|As",
+"spotify:track:13toFl1UwJPsRxDiD9jgtn"
+],
+[
+"2026-10-21T14:40|Kate Nash|Famine [Radio edit]",
+"spotify:track:5WJmTSsSLLOJJRkygaPSMe"
 ],
 [
 "2026-10-21T14:36|Dahi feat. Kendrick Lamar & Amber Mark|How To Pray",
 "spotify:track:5M8eNQ6wLYPT9D60hbcxVU"
 ],
 [
+"2026-10-21T14:32|Doechii|Anxiety",
+"spotify:track:1musbempyJAw5gfSKZHXP9"
+],
+[
 "2026-10-21T14:28|Widowspeak|Soft Cover (Edit)",
 "spotify:track:4O6f5Bgs94sUNNkNAdNyhW"
+],
+[
+"2026-10-21T14:23|DJ Shadow|Six Days",
+"spotify:track:525vGLj61tNqCToVJ9cPzp"
 ],
 [
 "2026-10-21T14:17|Django Django ft. Max Pope|Feel Alright",
@@ -234,6 +282,14 @@
 [
 "2026-10-21T14:13|Fuffifufzich|New Era",
 "spotify:track:0sF1TJMDGYxKvu9pp1JQkQ"
+],
+[
+"2026-10-21T14:09|Moonbootica|Listen",
+"spotify:track:1WTuiLvaeykzOeK6JujW9b"
+],
+[
+"2026-10-21T14:05|Charlie Winston|Like A Hobo",
+"spotify:track:4AYtpScE2Pav9yBbM5cp56"
 ],
 [
 "2026-10-21T13:56|Lightning Seeds|You Showed Me",
@@ -3181,6 +3237,30 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-10-22T05:31|Steely Dan|Reelin' In The Years",
+"t": "2026-10-22T05:31:00+02:00",
+"artist": "Steely Dan",
+"title": "Reelin' In The Years"
+},
+{
+"id": "2026-10-22T05:27|White Rabbits|Percussion Gun",
+"t": "2026-10-22T05:27:00+02:00",
+"artist": "White Rabbits",
+"title": "Percussion Gun"
+},
+{
+"id": "2026-10-22T05:25|Alice Gift|Trance Park",
+"t": "2026-10-22T05:25:00+02:00",
+"artist": "Alice Gift",
+"title": "Trance Park"
+},
+{
+"id": "2026-10-22T05:19|Sassy 009 feat. Blood Orange|Tell Me (Jam City Remix) (Edit)",
+"t": "2026-10-22T05:19:00+02:00",
+"artist": "Sassy 009 feat. Blood Orange",
+"title": "Tell Me (Jam City Remix) (Edit)"
+},
 {
 "id": "2026-10-22T05:12|Hundreds|Our Past",
 "t": "2026-10-22T05:12:00+02:00",
@@ -8711,7 +8791,7 @@
 },
 "benjamin booker benjamin evans kenny segal|show and tell": {
 "u": null,
-"d": "2026-10-19T05:06:46.872398+02:00"
+"d": "2026-10-22T05:29:38.818390+02:00"
 },
 "grant lee buffalo|fuzzy": {
 "u": "spotify:track:3Z9bMAaCLvkcvkUealsvXB",
@@ -10088,6 +10168,62 @@
 "lola young|fake": {
 "u": "spotify:track:3eImUEjfyVt2YtkyU6PNhB",
 "d": "2026-10-22T05:25:38.818041+02:00"
+},
+"jamie cullum|i m all over it": {
+"u": "spotify:track:293HNAjpy1wlDwFADrua2u",
+"d": "2026-10-22T05:26:38.818126+02:00"
+},
+"marinero|nuestra victoria": {
+"u": "spotify:track:3ZRYcxElGx6Yjdj6uzqwYW",
+"d": "2026-10-22T05:26:38.818126+02:00"
+},
+"moby|go": {
+"u": "spotify:track:342wZsKI3MUUgWTVKdBNtH",
+"d": "2026-10-22T05:26:38.818126+02:00"
+},
+"tessa rose jackson|built to collide": {
+"u": "spotify:track:69saRCWp2ov8jBLOprFAfE",
+"d": "2026-10-22T05:27:38.818212+02:00"
+},
+"sam ragga band feat jan delay|die welt steht still": {
+"u": "spotify:track:4tfP0R0NoKh0jeSzBIHZ7d",
+"d": "2026-10-22T05:27:38.818212+02:00"
+},
+"stevie wonder|as": {
+"u": "spotify:track:13toFl1UwJPsRxDiD9jgtn",
+"d": "2026-10-22T05:27:38.818212+02:00"
+},
+"kate nash|famine radio edit": {
+"u": "spotify:track:5WJmTSsSLLOJJRkygaPSMe",
+"d": "2026-10-22T05:28:38.818310+02:00"
+},
+"doechii|anxiety": {
+"u": "spotify:track:1musbempyJAw5gfSKZHXP9",
+"d": "2026-10-22T05:28:38.818310+02:00"
+},
+"dj shadow|six days": {
+"u": "spotify:track:525vGLj61tNqCToVJ9cPzp",
+"d": "2026-10-22T05:28:38.818310+02:00"
+},
+"moonbootica|listen": {
+"u": "spotify:track:1WTuiLvaeykzOeK6JujW9b",
+"d": "2026-10-22T05:29:38.818390+02:00"
+},
+"charlie winston|like a hobo": {
+"u": "spotify:track:4AYtpScE2Pav9yBbM5cp56",
+"d": "2026-10-22T05:29:38.818390+02:00"
+},
+"alice gift|trance park": {
+"u": "spotify:track:5TloORha2fVcdsLo63B4fo",
+"d": "2026-10-22T05:30:38.818473+02:00"
+},
+"steely dan|reelin in the years": {
+"u": "spotify:track:2BoIbUzZoJb0v2DIyf79pn",
+"d": "2026-10-22T05:36:38.819031+02:00"
+},
+"white rabbits|percussion gun": {
+"u": null,
+"d": "2026-10-22T05:36:38.819031+02:00"
 }
 }
 }
