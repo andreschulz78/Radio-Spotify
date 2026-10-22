@@ -1,12 +1,20 @@
 {
-"updated": "2026-10-22T08:48:47.644685+02:00",
+"updated": "2026-10-22T08:59:47.646212+02:00",
 "matcher": 4,
 "blocked_until": null,
 "details": "51e4e36c2ea1",
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAMpt2VIoaj0t1J8ZYyax8st902mMli",
+"snapshot": "AAAMuNVKQ/3hE2OC/VhqoDJZdazVBkxp",
 "playlist": [
+[
+"2026-10-22T08:51|The Smashing Pumpkins|Perfect",
+"spotify:track:0F3GMvgFyxWCOm1nxlkQSW"
+],
+[
+"2026-10-22T08:46|Steve Lacy|Show You Me",
+"spotify:track:4f50UTC41M2Ah5itifSGE5"
+],
 [
 "2026-10-22T08:36|Crystal Fighters|Plage",
 "spotify:track:6y4sVRatVOlBRref1xUqTO"
@@ -3345,6 +3353,18 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-10-22T08:51|The Smashing Pumpkins|Perfect",
+"t": "2026-10-22T08:51:00+02:00",
+"artist": "The Smashing Pumpkins",
+"title": "Perfect"
+},
+{
+"id": "2026-10-22T08:46|Steve Lacy|Show You Me",
+"t": "2026-10-22T08:46:00+02:00",
+"artist": "Steve Lacy",
+"title": "Show You Me"
+},
 {
 "id": "2026-10-22T08:36|Crystal Fighters|Plage",
 "t": "2026-10-22T08:36:00+02:00",
@@ -10588,6 +10608,10 @@
 "crystal fighters|plage": {
 "u": "spotify:track:6y4sVRatVOlBRref1xUqTO",
 "d": "2026-10-22T08:40:47.643622+02:00"
+},
+"the smashing pumpkins|perfect": {
+"u": "spotify:track:0F3GMvgFyxWCOm1nxlkQSW",
+"d": "2026-10-22T08:55:47.645693+02:00"
 }
 }
 }
