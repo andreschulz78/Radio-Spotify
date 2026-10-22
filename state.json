@@ -1,12 +1,20 @@
 {
-"updated": "2026-10-22T09:21:47.649075+02:00",
+"updated": "2026-10-22T09:32:47.650504+02:00",
 "matcher": 4,
 "blocked_until": null,
 "details": "51e4e36c2ea1",
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAM081ndh0D+ZdYpYNDx+uqGFWVluIO",
+"snapshot": "AAAM5clOXcqppGdSnZWfkGOHTOZE5xSh",
 "playlist": [
+[
+"2026-10-22T09:25|Bonaparte|KiOSKO",
+"spotify:track:5seYGZRYuD3oPMxryJdvOk"
+],
+[
+"2026-10-22T09:19|The Magic Numbers|Take A Chance",
+"spotify:track:52EdchAkRfsbo5H2bSFlVa"
+],
 [
 "2026-10-22T09:15|Jungle|Someday, Somewhere",
 "spotify:track:20FqWsyuUaQTU5tk4nP6eN"
@@ -3365,6 +3373,18 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-10-22T09:25|Bonaparte|KiOSKO",
+"t": "2026-10-22T09:25:00+02:00",
+"artist": "Bonaparte",
+"title": "KiOSKO"
+},
+{
+"id": "2026-10-22T09:19|The Magic Numbers|Take A Chance",
+"t": "2026-10-22T09:19:00+02:00",
+"artist": "The Magic Numbers",
+"title": "Take A Chance"
+},
 {
 "id": "2026-10-22T09:15|Jungle|Someday, Somewhere",
 "t": "2026-10-22T09:15:00+02:00",
@@ -10646,6 +10666,10 @@
 "michael kiwanuka|cold little heart": {
 "u": "spotify:track:0qprlw0jfsW4H9cG0FFE0Z",
 "d": "2026-10-22T09:06:47.647097+02:00"
+},
+"the magic numbers|take a chance": {
+"u": "spotify:track:52EdchAkRfsbo5H2bSFlVa",
+"d": "2026-10-22T09:26:47.649772+02:00"
 }
 }
 }
