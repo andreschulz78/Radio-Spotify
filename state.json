@@ -1,12 +1,16 @@
 {
-"updated": "2026-10-22T05:47:38.819983+02:00",
+"updated": "2026-10-22T05:58:38.821036+02:00",
 "matcher": 4,
 "blocked_until": null,
 "details": "51e4e36c2ea1",
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAL1+LDJ29EPrVKstMoqbpIhOh+MyMl",
+"snapshot": "AAAL4MCSoAz4Y1Ldnmz8QFunGsoEtIe9",
 "playlist": [
+[
+"2026-10-22T05:52|EL VY|Return To The Moon",
+"spotify:track:1tFlVn4Eui4VsPTa5jlzIx"
+],
 [
 "2026-10-22T05:42|Saint Motel|My Type",
 "spotify:track:2DFi8rwHcVkTTgu7PULhtI"
@@ -3245,6 +3249,18 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-10-22T05:52|EL VY|Return To The Moon",
+"t": "2026-10-22T05:52:00+02:00",
+"artist": "EL VY",
+"title": "Return To The Moon"
+},
+{
+"id": "2026-10-22T05:49|Belle & Sebastian|Act Of The Apostle Part 1",
+"t": "2026-10-22T05:49:00+02:00",
+"artist": "Belle & Sebastian",
+"title": "Act Of The Apostle Part 1"
+},
 {
 "id": "2026-10-22T05:42|Saint Motel|My Type",
 "t": "2026-10-22T05:42:00+02:00",
@@ -10252,6 +10268,14 @@
 "saint motel|my type": {
 "u": "spotify:track:2DFi8rwHcVkTTgu7PULhtI",
 "d": "2026-10-22T05:46:38.819896+02:00"
+},
+"el vy|return to the moon": {
+"u": "spotify:track:1tFlVn4Eui4VsPTa5jlzIx",
+"d": "2026-10-22T05:56:38.820868+02:00"
+},
+"belle sebastian|act of the apostle part 1": {
+"u": null,
+"d": "2026-10-22T05:56:38.820868+02:00"
 }
 }
 }
