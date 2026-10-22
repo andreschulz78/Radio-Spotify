@@ -1,12 +1,16 @@
 {
-"updated": "2026-10-22T10:48:47.660845+02:00",
+"updated": "2026-10-22T10:59:47.662254+02:00",
 "matcher": 4,
 "blocked_until": null,
 "details": "51e4e36c2ea1",
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAANSB2bTqDlXkLB/16uYQCjwju164fa",
+"snapshot": "AAANUZlFthb2ZHQ4/ysIdCkx9vnUtVvF",
 "playlist": [
+[
+"2026-10-22T10:49|Sir Sly feat. Gary Clark jr.|Citizen",
+"spotify:track:1zFiXm1D6elxZuaw2PYPHS"
+],
 [
 "2026-10-22T10:37|Jacob Bellens|Summer Sadness",
 "spotify:track:1TIDQvIZ79Lb3YB0gGqwwV"
@@ -3421,6 +3425,12 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-10-22T10:49|Sir Sly feat. Gary Clark jr.|Citizen",
+"t": "2026-10-22T10:49:00+02:00",
+"artist": "Sir Sly feat. Gary Clark jr.",
+"title": "Citizen"
+},
 {
 "id": "2026-10-22T10:37|Jacob Bellens|Summer Sadness",
 "t": "2026-10-22T10:37:00+02:00",
@@ -10818,6 +10828,10 @@
 "jacob bellens|summer sadness": {
 "u": "spotify:track:1TIDQvIZ79Lb3YB0gGqwwV",
 "d": "2026-10-22T10:46:47.660560+02:00"
+},
+"sir sly feat gary clark jr|citizen": {
+"u": "spotify:track:1zFiXm1D6elxZuaw2PYPHS",
+"d": "2026-10-22T10:56:47.661855+02:00"
 }
 }
 }
