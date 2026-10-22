@@ -1,12 +1,20 @@
 {
-"updated": "2026-10-22T09:43:47.652114+02:00",
+"updated": "2026-10-22T09:54:47.653524+02:00",
 "matcher": 4,
 "blocked_until": null,
 "details": "51e4e36c2ea1",
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAM7tC/kW+L/lxJXNAdyqYIP/95NiTa",
+"snapshot": "AAANAAEuTPOi3j/0xQcleC99NcUZwhiS",
 "playlist": [
+[
+"2026-10-22T09:45|Modjo|Lady (Hear Me Tonight)",
+"spotify:track:49X0LAl6faAusYq02PRAY6"
+],
+[
+"2026-10-22T09:42|Carrtoons feat. Hailé Supreme|Labor Of Love",
+"spotify:track:0Vh4cYw0m2xqUzihLHpK61"
+],
 [
 "2026-10-22T09:33|Marlon Magnee|People Are Afraid",
 "spotify:track:4ARZSaY13oxocIbvHBKoLi"
@@ -3377,6 +3385,18 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-10-22T09:45|Modjo|Lady (Hear Me Tonight)",
+"t": "2026-10-22T09:45:00+02:00",
+"artist": "Modjo",
+"title": "Lady (Hear Me Tonight)"
+},
+{
+"id": "2026-10-22T09:42|Carrtoons feat. Hailé Supreme|Labor Of Love",
+"t": "2026-10-22T09:42:00+02:00",
+"artist": "Carrtoons feat. Hailé Supreme",
+"title": "Labor Of Love"
+},
 {
 "id": "2026-10-22T09:33|Marlon Magnee|People Are Afraid",
 "t": "2026-10-22T09:33:00+02:00",
@@ -10684,6 +10704,10 @@
 "marlon magnee|people are afraid": {
 "u": "spotify:track:4ARZSaY13oxocIbvHBKoLi",
 "d": "2026-10-22T09:40:47.651686+02:00"
+},
+"modjo|lady hear me tonight": {
+"u": "spotify:track:49X0LAl6faAusYq02PRAY6",
+"d": "2026-10-22T09:51:47.653113+02:00"
 }
 }
 }
