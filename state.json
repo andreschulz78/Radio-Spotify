@@ -1,12 +1,20 @@
 {
-"updated": "2026-10-22T11:10:47.663728+02:00",
+"updated": "2026-10-22T11:21:47.665228+02:00",
 "matcher": 4,
 "blocked_until": null,
 "details": "51e4e36c2ea1",
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAANWv2dacII6haluAKWzqbg1PQURD3a",
+"snapshot": "AAANY41aOnHiXANPv58aQ4ZIDYBIhIUU",
 "playlist": [
+[
+"2026-10-22T11:10|Betterov|Immer die Musik",
+"spotify:track:5fs8J3nyCkc1MNFpkI1MrD"
+],
+[
+"2026-10-22T11:07|Velar Prana|No Need To Hide",
+"spotify:track:18ROv1EYf2tvOonCRrTq19"
+],
 [
 "2026-10-22T10:58|Dahi feat. Kendrick Lamar & Amber Mark|How To Pray",
 "spotify:track:5M8eNQ6wLYPT9D60hbcxVU"
@@ -3429,6 +3437,18 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-10-22T11:10|Betterov|Immer die Musik",
+"t": "2026-10-22T11:10:00+02:00",
+"artist": "Betterov",
+"title": "Immer die Musik"
+},
+{
+"id": "2026-10-22T11:07|Velar Prana|No Need To Hide",
+"t": "2026-10-22T11:07:00+02:00",
+"artist": "Velar Prana",
+"title": "No Need To Hide"
+},
 {
 "id": "2026-10-22T10:58|Dahi feat. Kendrick Lamar & Amber Mark|How To Pray",
 "t": "2026-10-22T10:58:00+02:00",
@@ -10842,6 +10862,14 @@
 "sir sly feat gary clark jr|citizen": {
 "u": "spotify:track:1zFiXm1D6elxZuaw2PYPHS",
 "d": "2026-10-22T10:56:47.661855+02:00"
+},
+"betterov|immer die musik": {
+"u": "spotify:track:5fs8J3nyCkc1MNFpkI1MrD",
+"d": "2026-10-22T11:16:47.664545+02:00"
+},
+"velar prana|no need to hide": {
+"u": "spotify:track:18ROv1EYf2tvOonCRrTq19",
+"d": "2026-10-22T11:16:47.664545+02:00"
 }
 }
 }
