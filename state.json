@@ -1,12 +1,24 @@
 {
-"updated": "2026-10-22T10:26:47.657851+02:00",
+"updated": "2026-10-22T10:37:47.659304+02:00",
 "matcher": 4,
 "blocked_until": null,
 "details": "51e4e36c2ea1",
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAANLVFg0Fd2np7pcYvQUdqUf0zGw6He",
+"snapshot": "AAANP7GC96i727d3z2fTZldDzHXXQWlE",
 "playlist": [
+[
+"2026-10-22T10:33|Jamie xx|Dream Night",
+"spotify:track:2DewmibGFWxakcxvVyf2Tv"
+],
+[
+"2026-10-22T10:27|Mari Froes|Eu vou pro samba, viu?",
+"spotify:track:0ZirVpVEx943xdUD9bivHe"
+],
+[
+"2026-10-22T10:23|The Dodoz|Ghost",
+"spotify:track:3SfvjALirB1eW5eKJB3EBw"
+],
 [
 "2026-10-22T10:19|Banderas|This Is Your Life",
 "spotify:track:36m3Oa3hP5L7zMpgSERRNJ"
@@ -3405,6 +3417,24 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-10-22T10:33|Jamie xx|Dream Night",
+"t": "2026-10-22T10:33:00+02:00",
+"artist": "Jamie xx",
+"title": "Dream Night"
+},
+{
+"id": "2026-10-22T10:27|Mari Froes|Eu vou pro samba, viu?",
+"t": "2026-10-22T10:27:00+02:00",
+"artist": "Mari Froes",
+"title": "Eu vou pro samba, viu?"
+},
+{
+"id": "2026-10-22T10:23|The Dodoz|Ghost",
+"t": "2026-10-22T10:23:00+02:00",
+"artist": "The Dodoz",
+"title": "Ghost"
+},
 {
 "id": "2026-10-22T10:19|Banderas|This Is Your Life",
 "t": "2026-10-22T10:19:00+02:00",
@@ -10770,6 +10800,10 @@
 "banderas|this is your life": {
 "u": "spotify:track:36m3Oa3hP5L7zMpgSERRNJ",
 "d": "2026-10-22T10:26:47.657851+02:00"
+},
+"the dodoz|ghost": {
+"u": "spotify:track:3SfvjALirB1eW5eKJB3EBw",
+"d": "2026-10-22T10:31:47.658519+02:00"
 }
 }
 }
