@@ -1,12 +1,16 @@
 {
-"updated": "2026-10-22T06:09:38.822190+02:00",
+"updated": "2026-10-22T06:20:38.823469+02:00",
 "matcher": 4,
 "blocked_until": null,
 "details": "51e4e36c2ea1",
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAL6ZvbY1kBPkBYnyR9tkL5c+w2tCmN",
+"snapshot": "AAAL8op82FIsjMx9V1XcWKSDUfL0HdpD",
 "playlist": [
+[
+"2026-10-22T06:06|Baxter Dury|Schadenfreude",
+"spotify:track:4LJongQE1uZKP5GOJ1nFDw"
+],
 [
 "2026-10-22T05:57|Dino|Call Me",
 "spotify:track:3f8I8HeQfXNwmzuCtyVsS6"
@@ -3253,6 +3257,12 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-10-22T06:06|Baxter Dury|Schadenfreude",
+"t": "2026-10-22T06:06:00+02:00",
+"artist": "Baxter Dury",
+"title": "Schadenfreude"
+},
 {
 "id": "2026-10-22T05:57|Dino|Call Me",
 "t": "2026-10-22T05:57:00+02:00",
@@ -10290,6 +10300,10 @@
 "dino|call me": {
 "u": "spotify:track:3f8I8HeQfXNwmzuCtyVsS6",
 "d": "2026-10-22T06:06:38.821830+02:00"
+},
+"baxter dury|schadenfreude": {
+"u": "spotify:track:4LJongQE1uZKP5GOJ1nFDw",
+"d": "2026-10-22T06:11:38.822384+02:00"
 }
 }
 }
