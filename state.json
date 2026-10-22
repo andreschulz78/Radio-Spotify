@@ -1,12 +1,20 @@
 {
-"updated": "2026-10-22T09:54:47.653524+02:00",
+"updated": "2026-10-22T10:05:47.654995+02:00",
 "matcher": 4,
 "blocked_until": null,
 "details": "51e4e36c2ea1",
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAANAAEuTPOi3j/0xQcleC99NcUZwhiS",
+"snapshot": "AAANEuEy7ss1J2ioyrGVHzQ5INVAuw3v",
 "playlist": [
+[
+"2026-10-22T09:55|Agar Agar|The Visit",
+"spotify:track:7uorVKGYszFPnTSooMpIOL"
+],
+[
+"2026-10-22T09:48|Dekker|Pick It Up, Put It Back",
+"spotify:track:0LhuToBNSlvYc4IwVJpYWH"
+],
 [
 "2026-10-22T09:45|Modjo|Lady (Hear Me Tonight)",
 "spotify:track:49X0LAl6faAusYq02PRAY6"
@@ -3385,6 +3393,18 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-10-22T09:55|Agar Agar|The Visit",
+"t": "2026-10-22T09:55:00+02:00",
+"artist": "Agar Agar",
+"title": "The Visit"
+},
+{
+"id": "2026-10-22T09:48|Dekker|Pick It Up, Put It Back",
+"t": "2026-10-22T09:48:00+02:00",
+"artist": "Dekker",
+"title": "Pick It Up, Put It Back"
+},
 {
 "id": "2026-10-22T09:45|Modjo|Lady (Hear Me Tonight)",
 "t": "2026-10-22T09:45:00+02:00",
@@ -10708,6 +10728,10 @@
 "modjo|lady hear me tonight": {
 "u": "spotify:track:49X0LAl6faAusYq02PRAY6",
 "d": "2026-10-22T09:51:47.653113+02:00"
+},
+"agar agar|the visit": {
+"u": "spotify:track:7uorVKGYszFPnTSooMpIOL",
+"d": "2026-10-22T10:01:47.654477+02:00"
 }
 }
 }
