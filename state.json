@@ -1,12 +1,16 @@
 {
-"updated": "2026-10-22T09:32:47.650504+02:00",
+"updated": "2026-10-22T09:43:47.652114+02:00",
 "matcher": 4,
 "blocked_until": null,
 "details": "51e4e36c2ea1",
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAM5clOXcqppGdSnZWfkGOHTOZE5xSh",
+"snapshot": "AAAM7tC/kW+L/lxJXNAdyqYIP/95NiTa",
 "playlist": [
+[
+"2026-10-22T09:33|Marlon Magnee|People Are Afraid",
+"spotify:track:4ARZSaY13oxocIbvHBKoLi"
+],
 [
 "2026-10-22T09:25|Bonaparte|KiOSKO",
 "spotify:track:5seYGZRYuD3oPMxryJdvOk"
@@ -3373,6 +3377,12 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-10-22T09:33|Marlon Magnee|People Are Afraid",
+"t": "2026-10-22T09:33:00+02:00",
+"artist": "Marlon Magnee",
+"title": "People Are Afraid"
+},
 {
 "id": "2026-10-22T09:25|Bonaparte|KiOSKO",
 "t": "2026-10-22T09:25:00+02:00",
@@ -10670,6 +10680,10 @@
 "the magic numbers|take a chance": {
 "u": "spotify:track:52EdchAkRfsbo5H2bSFlVa",
 "d": "2026-10-22T09:26:47.649772+02:00"
+},
+"marlon magnee|people are afraid": {
+"u": "spotify:track:4ARZSaY13oxocIbvHBKoLi",
+"d": "2026-10-22T09:40:47.651686+02:00"
 }
 }
 }
