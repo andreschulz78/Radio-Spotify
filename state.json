@@ -1,12 +1,20 @@
 {
-"updated": "2026-10-22T05:14:38.817082+02:00",
+"updated": "2026-10-22T05:25:38.818041+02:00",
 "matcher": 4,
 "blocked_until": null,
 "details": "51e4e36c2ea1",
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAALbNwYSAZhwbGmOo2G0UWy+7oQDRCI",
+"snapshot": "AAALrUVEpHgbCFstumM2nnZblKKO/UOF",
 "playlist": [
+[
+"2026-10-22T05:12|Hundreds|Our Past",
+"spotify:track:6rpts1QdJjTYsj2DF32E5V"
+],
+[
+"2026-10-22T05:08|Eels|Mr. E's Beautiful Blues",
+"spotify:track:5PNUiY63pZTcJjevQmS7vO"
+],
 [
 "2026-10-22T05:06|Bilderbuch|Baby Junkie",
 "spotify:track:1bPs9oNEaAEUYfCL7tH79W"
@@ -32,20 +40,72 @@
 "spotify:track:0jpeIdUkge4S8dMS0nkZ6r"
 ],
 [
+"2026-10-21T20:24|Tinashe|Crash Out",
+"spotify:track:3IHTGwXvGyGslBbvHDDFrM"
+],
+[
 "2026-10-21T20:19|Automatic|Mercury",
 "spotify:track:0koaXm11b7sizUYJ67ebyn"
+],
+[
+"2026-10-21T20:16|Langoth|Grounding",
+"spotify:track:20dbDMpTif2vcnEWHnEHYR"
 ],
 [
 "2026-10-21T20:04|Alewya|Cairo FM",
 "spotify:track:6v7hCIRoJkuYShT0wls1gD"
 ],
 [
+"2026-10-21T19:54|Jeff Buckley|Grace",
+"spotify:track:64SIlhd3BaHCCMSfajXG7l"
+],
+[
+"2026-10-21T19:50|Chinese Man|Wolf",
+"spotify:track:6HtAJ6LeLVlDNmARFV5nqR"
+],
+[
+"2026-10-21T19:47|Girl Ray|Everybody's Saying That",
+"spotify:track:66zUar4P0lb9jZFtsJXwSw"
+],
+[
+"2026-10-21T19:30|Eels|Wonderful, Glorious",
+"spotify:track:0BxZDSMpflhTU4Y32da8VY"
+],
+[
+"2026-10-21T19:22|Anda Morts|Freitag",
+"spotify:track:6ECGcosMr9Cfdj5ooUbmAI"
+],
+[
 "2026-10-21T19:06|Courtney Barnett|Wonder",
 "spotify:track:5QraYxwAgy8LloNZeIiuQ5"
 ],
 [
+"2026-10-21T18:55|Crash Test Dummies|God Shuffled His Feet",
+"spotify:track:6z2Rhkt1WJR9ex3uCeDrYj"
+],
+[
+"2026-10-21T18:49|Nneka|Shining Star",
+"spotify:track:6VhfsXyTnRRnNX77dQO1WA"
+],
+[
+"2026-10-21T18:45|Gotye|Hearts A Mess",
+"spotify:track:4nPzk1lhLWmQUX7tM94KZL"
+],
+[
+"2026-10-21T18:36|James Blake|When We’re Older",
+"spotify:track:4CbNIghDw41H5KwCHvJ6dc"
+],
+[
+"2026-10-21T18:34|Paul Kalkbrenner|Graf Zahl (Edit)",
+"spotify:track:33R7eq2Yqrhjz7eP6XhCsy"
+],
+[
 "2026-10-21T18:24|Moonlight Breakfast|If Not Now, Then When?!",
 "spotify:track:7rqjXsHITwfxR5XoKIGsaJ"
+],
+[
+"2026-10-21T18:20|Jools Holland feat. Jamiroquai|I'm In The Mood For Love",
+"spotify:track:1K2mskoYmN2Z05e6colFcr"
 ],
 [
 "2026-10-21T18:17|Death Cab For Cutie|Pep Talk",
@@ -60,8 +120,32 @@
 "spotify:track:5XvRng3X26Q3oGMEoFKsWo"
 ],
 [
+"2026-10-21T17:55|Interpol|Iron City",
+"spotify:track:7o9gwmscHBXh6sUEYkWQ4e"
+],
+[
+"2026-10-21T17:49|Ary|Higher",
+"spotify:track:5YaEGBOxcEHYY4o0SLJ6AR"
+],
+[
+"2026-10-21T17:45|Deki Alem|Mr Man",
+"spotify:track:37zztHh0JkdPuOYGzkLYKo"
+],
+[
+"2026-10-21T17:37|Groove Armada|Just For Tonight",
+"spotify:track:3P884E08aroqcUBo3SpcFX"
+],
+[
 "2026-10-21T17:33|Boy Harsher|Tough Luck (When You Don't Call)",
 "spotify:track:109AVLNWp2BnTXTzF4j6XE"
+],
+[
+"2026-10-21T17:26|Andy Shauf|Halloween Store",
+"spotify:track:3oWGBitSdsizfiIlCfwUqV"
+],
+[
+"2026-10-21T17:23|Ben Watt|Nathaniel",
+"spotify:track:7bpTKSgPClJZfgkjg2N0E8"
 ],
 [
 "2026-10-21T17:08|Neal Francis|Hide",
@@ -72,12 +156,56 @@
 "spotify:track:4W2O5dHVnDH6suuhh0PjAS"
 ],
 [
+"2026-10-21T16:56|No Doubt|Don't Speak",
+"spotify:track:6urCAbunOQI4bLhmGpX7iS"
+],
+[
+"2026-10-21T16:49|Niki & The Dove|Empires",
+"spotify:track:5rkmOa4PAh1aBMFph5Jdqa"
+],
+[
+"2026-10-21T16:45|Lou Reed|Walk On The Wild Side",
+"spotify:track:5p3JunprHCxClJjOmcLV8G"
+],
+[
+"2026-10-21T16:37|Babe Rainbow|Waterfall",
+"spotify:track:6b7xtvXFuODSbW4uq9IxBw"
+],
+[
 "2026-10-21T16:34|MorMor feat. Celeste|Like Heaven",
 "spotify:track:5pZGuhprytXKB7QRMul3jq"
 ],
 [
+"2026-10-21T16:25|Liz Lawrence|Down For Fun",
+"spotify:track:1gaZNMKZXJQImBUEzKgGQZ"
+],
+[
+"2026-10-21T16:21|Radiohead|Knives Out",
+"spotify:track:521OhfIeThXJKiTyz0m883"
+],
+[
 "2026-10-21T16:17|Leon Bridges|Light The Way",
 "spotify:track:3G1hTUddM2diIyYA0yy9kS"
+],
+[
+"2026-10-21T16:13|SAULT|God Is Love",
+"spotify:track:3OFW1fKDdTTb3ZQ62UOLZy"
+],
+[
+"2026-10-21T16:05|The War On Drugs|Red Eyes",
+"spotify:track:3ZATMtNpzBKCLwE07hwgPc"
+],
+[
+"2026-10-21T15:57|Blonde Redhead|Sit Down For Dinner, Pt. 2",
+"spotify:track:1bCvD5l00vOU2Bk1uXtCms"
+],
+[
+"2026-10-21T15:53|Matilda Mann|Just Because",
+"spotify:track:6h6WgFMpWYbqekmeaXuaRl"
+],
+[
+"2026-10-21T15:46|Lola Young|FAKE",
+"spotify:track:3eImUEjfyVt2YtkyU6PNhB"
 ],
 [
 "2026-10-21T15:22|Erika De Casier|Delusional",
@@ -3053,6 +3181,18 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-10-22T05:12|Hundreds|Our Past",
+"t": "2026-10-22T05:12:00+02:00",
+"artist": "Hundreds",
+"title": "Our Past"
+},
+{
+"id": "2026-10-22T05:08|Eels|Mr. E's Beautiful Blues",
+"t": "2026-10-22T05:08:00+02:00",
+"artist": "Eels",
+"title": "Mr. E's Beautiful Blues"
+},
 {
 "id": "2026-10-22T05:06|Bilderbuch|Baby Junkie",
 "t": "2026-10-22T05:06:00+02:00",
@@ -9816,6 +9956,138 @@
 "dry cleaning|gary ashby": {
 "u": "spotify:track:30erf27MriGIsvb4rzria6",
 "d": "2026-10-22T05:14:38.817082+02:00"
+},
+"tinashe|crash out": {
+"u": "spotify:track:3IHTGwXvGyGslBbvHDDFrM",
+"d": "2026-10-22T05:15:38.817166+02:00"
+},
+"langoth|grounding": {
+"u": "spotify:track:20dbDMpTif2vcnEWHnEHYR",
+"d": "2026-10-22T05:15:38.817166+02:00"
+},
+"jeff buckley|grace": {
+"u": "spotify:track:64SIlhd3BaHCCMSfajXG7l",
+"d": "2026-10-22T05:15:38.817166+02:00"
+},
+"hundreds|our past": {
+"u": "spotify:track:6rpts1QdJjTYsj2DF32E5V",
+"d": "2026-10-22T05:16:38.817251+02:00"
+},
+"eels|mr e s beautiful blues": {
+"u": "spotify:track:5PNUiY63pZTcJjevQmS7vO",
+"d": "2026-10-22T05:16:38.817251+02:00"
+},
+"chinese man|wolf": {
+"u": "spotify:track:6HtAJ6LeLVlDNmARFV5nqR",
+"d": "2026-10-22T05:16:38.817251+02:00"
+},
+"girl ray|everybody s saying that": {
+"u": "spotify:track:66zUar4P0lb9jZFtsJXwSw",
+"d": "2026-10-22T05:17:38.817342+02:00"
+},
+"eels|wonderful glorious": {
+"u": "spotify:track:0BxZDSMpflhTU4Y32da8VY",
+"d": "2026-10-22T05:17:38.817342+02:00"
+},
+"anda morts|freitag": {
+"u": "spotify:track:6ECGcosMr9Cfdj5ooUbmAI",
+"d": "2026-10-22T05:17:38.817342+02:00"
+},
+"crash test dummies|god shuffled his feet": {
+"u": "spotify:track:6z2Rhkt1WJR9ex3uCeDrYj",
+"d": "2026-10-22T05:18:38.817443+02:00"
+},
+"nneka|shining star": {
+"u": "spotify:track:6VhfsXyTnRRnNX77dQO1WA",
+"d": "2026-10-22T05:18:38.817443+02:00"
+},
+"gotye|hearts a mess": {
+"u": "spotify:track:4nPzk1lhLWmQUX7tM94KZL",
+"d": "2026-10-22T05:18:38.817443+02:00"
+},
+"james blake|when we re older": {
+"u": "spotify:track:4CbNIghDw41H5KwCHvJ6dc",
+"d": "2026-10-22T05:19:38.817531+02:00"
+},
+"paul kalkbrenner|graf zahl edit": {
+"u": "spotify:track:33R7eq2Yqrhjz7eP6XhCsy",
+"d": "2026-10-22T05:19:38.817531+02:00"
+},
+"jools holland feat jamiroquai|i m in the mood for love": {
+"u": "spotify:track:1K2mskoYmN2Z05e6colFcr",
+"d": "2026-10-22T05:19:38.817531+02:00"
+},
+"interpol|iron city": {
+"u": "spotify:track:7o9gwmscHBXh6sUEYkWQ4e",
+"d": "2026-10-22T05:20:38.817613+02:00"
+},
+"ary|higher": {
+"u": "spotify:track:5YaEGBOxcEHYY4o0SLJ6AR",
+"d": "2026-10-22T05:20:38.817613+02:00"
+},
+"deki alem|mr man": {
+"u": "spotify:track:37zztHh0JkdPuOYGzkLYKo",
+"d": "2026-10-22T05:20:38.817613+02:00"
+},
+"groove armada|just for tonight": {
+"u": "spotify:track:3P884E08aroqcUBo3SpcFX",
+"d": "2026-10-22T05:21:38.817706+02:00"
+},
+"andy shauf|halloween store": {
+"u": "spotify:track:3oWGBitSdsizfiIlCfwUqV",
+"d": "2026-10-22T05:21:38.817706+02:00"
+},
+"ben watt|nathaniel": {
+"u": "spotify:track:7bpTKSgPClJZfgkjg2N0E8",
+"d": "2026-10-22T05:21:38.817706+02:00"
+},
+"les reines prochaines|opfer dieses liedes wicked game": {
+"u": null,
+"d": "2026-10-22T05:22:38.817788+02:00"
+},
+"no doubt|don t speak": {
+"u": "spotify:track:6urCAbunOQI4bLhmGpX7iS",
+"d": "2026-10-22T05:22:38.817788+02:00"
+},
+"niki the dove|empires": {
+"u": "spotify:track:5rkmOa4PAh1aBMFph5Jdqa",
+"d": "2026-10-22T05:22:38.817788+02:00"
+},
+"lou reed|walk on the wild side": {
+"u": "spotify:track:5p3JunprHCxClJjOmcLV8G",
+"d": "2026-10-22T05:23:38.817873+02:00"
+},
+"babe rainbow|waterfall": {
+"u": "spotify:track:6b7xtvXFuODSbW4uq9IxBw",
+"d": "2026-10-22T05:23:38.817873+02:00"
+},
+"liz lawrence|down for fun": {
+"u": "spotify:track:1gaZNMKZXJQImBUEzKgGQZ",
+"d": "2026-10-22T05:23:38.817873+02:00"
+},
+"radiohead|knives out": {
+"u": "spotify:track:521OhfIeThXJKiTyz0m883",
+"d": "2026-10-22T05:24:38.817957+02:00"
+},
+"sault|god is love": {
+"u": "spotify:track:3OFW1fKDdTTb3ZQ62UOLZy",
+"d": "2026-10-22T05:24:38.817957+02:00"
+},
+"the war on drugs|red eyes": {
+"u": "spotify:track:3ZATMtNpzBKCLwE07hwgPc",
+"d": "2026-10-22T05:24:38.817957+02:00"
+},
+"blonde redhead|sit down for dinner pt 2": {
+"u": "spotify:track:1bCvD5l00vOU2Bk1uXtCms",
+"d": "2026-10-22T05:25:38.818041+02:00"
+},
+"matilda mann|just because": {
+"u": "spotify:track:6h6WgFMpWYbqekmeaXuaRl",
+"d": "2026-10-22T05:25:38.818041+02:00"
+},
+"lola young|fake": {
+"u": "spotify:track:3eImUEjfyVt2YtkyU6PNhB",
+"d": "2026-10-22T05:25:38.818041+02:00"
 }
 }
 }
