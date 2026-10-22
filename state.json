@@ -1,12 +1,24 @@
 {
-"updated": "2026-10-22T08:04:47.639003+02:00",
+"updated": "2026-10-22T08:15:47.640416+02:00",
 "matcher": 4,
 "blocked_until": null,
 "details": "51e4e36c2ea1",
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAMcESwK7TAO9sqshgA6wTenSqvfBu5",
+"snapshot": "AAAMizjwxuEe9tu2pgxDYMMsn5bTRXmA",
 "playlist": [
+[
+"2026-10-22T08:10|Antony Szmierek|Chalk (Radio Edit)",
+"spotify:track:5HdeMdzAlNKwCM4L9cjehN"
+],
+[
+"2026-10-22T08:06|Gossip|Standing In The Way Of Control",
+"spotify:track:7B6jxcVkJTHMUE83ZndMjl"
+],
+[
+"2026-10-22T07:58|Madanii|Dast",
+"spotify:track:5SSr4HGGR8XtEbpV9tDPHx"
+],
 [
 "2026-10-22T07:51|Aurora|All My Demons Greeting Me As A Friend",
 "spotify:track:5O1tikYb6HKrP5cxSQv0iV"
@@ -3317,6 +3329,24 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-10-22T08:10|Antony Szmierek|Chalk (Radio Edit)",
+"t": "2026-10-22T08:10:00+02:00",
+"artist": "Antony Szmierek",
+"title": "Chalk (Radio Edit)"
+},
+{
+"id": "2026-10-22T08:06|Gossip|Standing In The Way Of Control",
+"t": "2026-10-22T08:06:00+02:00",
+"artist": "Gossip",
+"title": "Standing In The Way Of Control"
+},
+{
+"id": "2026-10-22T07:58|Madanii|Dast",
+"t": "2026-10-22T07:58:00+02:00",
+"artist": "Madanii",
+"title": "Dast"
+},
 {
 "id": "2026-10-22T07:51|Aurora|All My Demons Greeting Me As A Friend",
 "t": "2026-10-22T07:51:00+02:00",
@@ -10494,6 +10524,18 @@
 "the ting tings|shut up and let me go": {
 "u": "spotify:track:45gJ4ncmYXXqPlFn8btmrr",
 "d": "2026-10-22T07:56:47.637990+02:00"
+},
+"madanii|dast": {
+"u": "spotify:track:5SSr4HGGR8XtEbpV9tDPHx",
+"d": "2026-10-22T08:05:47.639142+02:00"
+},
+"gossip|standing in the way of control": {
+"u": "spotify:track:7B6jxcVkJTHMUE83ZndMjl",
+"d": "2026-10-22T08:10:47.639729+02:00"
+},
+"antony szmierek|chalk radio edit": {
+"u": "spotify:track:5HdeMdzAlNKwCM4L9cjehN",
+"d": "2026-10-22T08:15:47.640416+02:00"
 }
 }
 }
