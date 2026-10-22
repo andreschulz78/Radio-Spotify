@@ -1,12 +1,24 @@
 {
-"updated": "2026-10-22T11:21:47.665228+02:00",
+"updated": "2026-10-22T11:32:47.666712+02:00",
 "matcher": 4,
 "blocked_until": null,
 "details": "51e4e36c2ea1",
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAANY41aOnHiXANPv58aQ4ZIDYBIhIUU",
+"snapshot": "AAANdSza4i4Uq6l9O6yZkqTKLja3920g",
 "playlist": [
+[
+"2026-10-22T11:26|JGrrey feat. Bel Cobain|Take My Hand",
+"spotify:track:0i4SCqKHjbBrPjUX4RPRq3"
+],
+[
+"2026-10-22T11:23|Elvis Costello|Accidents Will Happen",
+"spotify:track:2Rv3hGdKSLeX30V55asE3s"
+],
+[
+"2026-10-22T11:20|Ibibio Sound Machine|Love",
+"spotify:track:0JGa4KrhqriWUuPcni3I8D"
+],
 [
 "2026-10-22T11:10|Betterov|Immer die Musik",
 "spotify:track:5fs8J3nyCkc1MNFpkI1MrD"
@@ -3437,6 +3449,24 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-10-22T11:26|JGrrey feat. Bel Cobain|Take My Hand",
+"t": "2026-10-22T11:26:00+02:00",
+"artist": "JGrrey feat. Bel Cobain",
+"title": "Take My Hand"
+},
+{
+"id": "2026-10-22T11:23|Elvis Costello|Accidents Will Happen",
+"t": "2026-10-22T11:23:00+02:00",
+"artist": "Elvis Costello",
+"title": "Accidents Will Happen"
+},
+{
+"id": "2026-10-22T11:20|Ibibio Sound Machine|Love",
+"t": "2026-10-22T11:20:00+02:00",
+"artist": "Ibibio Sound Machine",
+"title": "Love"
+},
 {
 "id": "2026-10-22T11:10|Betterov|Immer die Musik",
 "t": "2026-10-22T11:10:00+02:00",
@@ -10870,6 +10900,10 @@
 "velar prana|no need to hide": {
 "u": "spotify:track:18ROv1EYf2tvOonCRrTq19",
 "d": "2026-10-22T11:16:47.664545+02:00"
+},
+"elvis costello|accidents will happen": {
+"u": "spotify:track:2Rv3hGdKSLeX30V55asE3s",
+"d": "2026-10-22T11:30:47.666434+02:00"
 }
 }
 }
