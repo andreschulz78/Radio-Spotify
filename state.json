@@ -1,12 +1,16 @@
 {
-"updated": "2026-10-22T09:10:47.647623+02:00",
+"updated": "2026-10-22T09:21:47.649075+02:00",
 "matcher": 4,
 "blocked_until": null,
 "details": "51e4e36c2ea1",
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAMynBG46X23feZW+DuR/lliQTr/AxY",
+"snapshot": "AAAM081ndh0D+ZdYpYNDx+uqGFWVluIO",
 "playlist": [
+[
+"2026-10-22T09:15|Jungle|Someday, Somewhere",
+"spotify:track:20FqWsyuUaQTU5tk4nP6eN"
+],
 [
 "2026-10-22T09:07|Madonna|Danceteria",
 "spotify:track:6oFNBxTVpYNpNCRehH05Ly"
@@ -3361,6 +3365,12 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-10-22T09:15|Jungle|Someday, Somewhere",
+"t": "2026-10-22T09:15:00+02:00",
+"artist": "Jungle",
+"title": "Someday, Somewhere"
+},
 {
 "id": "2026-10-22T09:07|Madonna|Danceteria",
 "t": "2026-10-22T09:07:00+02:00",
