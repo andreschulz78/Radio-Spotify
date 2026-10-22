@@ -1,12 +1,16 @@
 {
-"updated": "2026-10-22T06:53:38.826315+02:00",
+"updated": "2026-10-22T07:04:38.827297+02:00",
 "matcher": 4,
 "blocked_until": null,
 "details": "51e4e36c2ea1",
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAMH/aXgwyZESyGjQv2H13gwt+NHjcA",
+"snapshot": "AAAMKNaQ8piBn0leqhVN3NW7mOflvrz3",
 "playlist": [
+[
+"2026-10-22T06:51|Fontaines D.C.|Marianne",
+"spotify:track:69rHKcrQpYGfToPThOV1UB"
+],
 [
 "2026-10-22T06:45|Duffy|Mercy",
 "spotify:track:1zusIxNqJu8i4g6P6hJ2Qa"
@@ -3277,6 +3281,12 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-10-22T06:51|Fontaines D.C.|Marianne",
+"t": "2026-10-22T06:51:00+02:00",
+"artist": "Fontaines D.C.",
+"title": "Marianne"
+},
 {
 "id": "2026-10-22T06:45|Duffy|Mercy",
 "t": "2026-10-22T06:45:00+02:00",
