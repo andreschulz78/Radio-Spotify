@@ -1,12 +1,16 @@
 {
-"updated": "2026-10-22T08:37:47.643225+02:00",
+"updated": "2026-10-22T08:48:47.644685+02:00",
 "matcher": 4,
 "blocked_until": null,
 "details": "51e4e36c2ea1",
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAMnc5fxCUjlvb4sH7Zomb5ZZr9xlT9",
+"snapshot": "AAAMpt2VIoaj0t1J8ZYyax8st902mMli",
 "playlist": [
+[
+"2026-10-22T08:36|Crystal Fighters|Plage",
+"spotify:track:6y4sVRatVOlBRref1xUqTO"
+],
 [
 "2026-10-22T08:26|Mark Ronson X RAYE|Suzanne (Radio Edit)",
 "spotify:track:3EL4YcUAmGkfTKXhS49Y3w"
@@ -3341,6 +3345,12 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-10-22T08:36|Crystal Fighters|Plage",
+"t": "2026-10-22T08:36:00+02:00",
+"artist": "Crystal Fighters",
+"title": "Plage"
+},
 {
 "id": "2026-10-22T08:26|Mark Ronson X RAYE|Suzanne (Radio Edit)",
 "t": "2026-10-22T08:26:00+02:00",
@@ -10574,6 +10584,10 @@
 "mark ronson x raye|suzanne radio edit": {
 "u": "spotify:track:3EL4YcUAmGkfTKXhS49Y3w",
 "d": "2026-10-22T08:36:47.643078+02:00"
+},
+"crystal fighters|plage": {
+"u": "spotify:track:6y4sVRatVOlBRref1xUqTO",
+"d": "2026-10-22T08:40:47.643622+02:00"
 }
 }
 }
