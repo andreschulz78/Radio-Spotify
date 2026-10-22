@@ -1,12 +1,24 @@
 {
-"updated": "2026-10-22T06:20:38.823469+02:00",
+"updated": "2026-10-22T06:31:38.824493+02:00",
 "matcher": 4,
 "blocked_until": null,
 "details": "51e4e36c2ea1",
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAL8op82FIsjMx9V1XcWKSDUfL0HdpD",
+"snapshot": "AAAMDUTSdFMDvgo+R4wygQpySK+uNIGz",
 "playlist": [
+[
+"2026-10-22T06:25|Boys' Shorts|New Era (Vocal Radio Mix)",
+"spotify:track:0QntpiMlL01xKeAEW3UriQ"
+],
+[
+"2026-10-22T06:18|Manu Chao|Bongo Bong (Je Ne T'aime Plus)",
+"spotify:track:0kwBU2XaybI0RI4tK5avsQ"
+],
+[
+"2026-10-22T06:14|Benjamin Clementine|In Fact You Know You Gotto Go",
+"spotify:track:4cWEdRTQ8sg4QaTBIGn06j"
+],
 [
 "2026-10-22T06:06|Baxter Dury|Schadenfreude",
 "spotify:track:4LJongQE1uZKP5GOJ1nFDw"
@@ -3257,6 +3269,24 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-10-22T06:25|Boys' Shorts|New Era (Vocal Radio Mix)",
+"t": "2026-10-22T06:25:00+02:00",
+"artist": "Boys' Shorts",
+"title": "New Era (Vocal Radio Mix)"
+},
+{
+"id": "2026-10-22T06:18|Manu Chao|Bongo Bong (Je Ne T'aime Plus)",
+"t": "2026-10-22T06:18:00+02:00",
+"artist": "Manu Chao",
+"title": "Bongo Bong (Je Ne T'aime Plus)"
+},
+{
+"id": "2026-10-22T06:14|Benjamin Clementine|In Fact You Know You Gotto Go",
+"t": "2026-10-22T06:14:00+02:00",
+"artist": "Benjamin Clementine",
+"title": "In Fact You Know You Gotto Go"
+},
 {
 "id": "2026-10-22T06:06|Baxter Dury|Schadenfreude",
 "t": "2026-10-22T06:06:00+02:00",
@@ -10304,6 +10334,14 @@
 "baxter dury|schadenfreude": {
 "u": "spotify:track:4LJongQE1uZKP5GOJ1nFDw",
 "d": "2026-10-22T06:11:38.822384+02:00"
+},
+"manu chao|bongo bong je ne t aime plus": {
+"u": "spotify:track:0kwBU2XaybI0RI4tK5avsQ",
+"d": "2026-10-22T06:27:38.824093+02:00"
+},
+"boys shorts|new era vocal radio mix": {
+"u": "spotify:track:0QntpiMlL01xKeAEW3UriQ",
+"d": "2026-10-22T06:31:38.824493+02:00"
 }
 }
 }
