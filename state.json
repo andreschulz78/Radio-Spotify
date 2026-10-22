@@ -1,12 +1,20 @@
 {
-"updated": "2026-10-22T05:36:38.819031+02:00",
+"updated": "2026-10-22T05:47:38.819983+02:00",
 "matcher": 4,
 "blocked_until": null,
 "details": "51e4e36c2ea1",
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAALzQ9IlqqFuq5IBxY4cqapSUi3iPsU",
+"snapshot": "AAAL1+LDJ29EPrVKstMoqbpIhOh+MyMl",
 "playlist": [
+[
+"2026-10-22T05:42|Saint Motel|My Type",
+"spotify:track:2DFi8rwHcVkTTgu7PULhtI"
+],
+[
+"2026-10-22T05:37|John Butler Trio|Trees",
+"spotify:track:4WZZEBb61OhPsgyKQZlmaC"
+],
 [
 "2026-10-22T05:31|Steely Dan|Reelin' In The Years",
 "spotify:track:2BoIbUzZoJb0v2DIyf79pn"
@@ -3237,6 +3245,18 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-10-22T05:42|Saint Motel|My Type",
+"t": "2026-10-22T05:42:00+02:00",
+"artist": "Saint Motel",
+"title": "My Type"
+},
+{
+"id": "2026-10-22T05:37|John Butler Trio|Trees",
+"t": "2026-10-22T05:37:00+02:00",
+"artist": "John Butler Trio",
+"title": "Trees"
+},
 {
 "id": "2026-10-22T05:31|Steely Dan|Reelin' In The Years",
 "t": "2026-10-22T05:31:00+02:00",
@@ -10224,6 +10244,14 @@
 "white rabbits|percussion gun": {
 "u": null,
 "d": "2026-10-22T05:36:38.819031+02:00"
+},
+"john butler trio|trees": {
+"u": "spotify:track:4WZZEBb61OhPsgyKQZlmaC",
+"d": "2026-10-22T05:40:38.819381+02:00"
+},
+"saint motel|my type": {
+"u": "spotify:track:2DFi8rwHcVkTTgu7PULhtI",
+"d": "2026-10-22T05:46:38.819896+02:00"
 }
 }
 }
