@@ -1,12 +1,24 @@
 {
-"updated": "2026-10-22T11:43:47.668082+02:00",
+"updated": "2026-10-22T11:54:47.669591+02:00",
 "matcher": 4,
 "blocked_until": null,
 "details": "51e4e36c2ea1",
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAANh/J/NTS5Rl8DqfNzi+OJzBiwS5/a",
+"snapshot": "AAANmeyGp0TTkmJlMtMdfu83mbp/TbKk",
 "playlist": [
+[
+"2026-10-22T11:47|Seamus Fogarty|Fire (Edit)",
+"spotify:track:383q4d3j4gnvNN6dtlxyvM"
+],
+[
+"2026-10-22T11:43|Elton John; Dua Lipa|Cold Heart (Pnau Remix)",
+"spotify:track:0k6LV1ohcK2hlNPwu1nVw9"
+],
+[
+"2026-10-22T11:38|Klaxons|Golden Skans",
+"spotify:track:6BqWhxll86CGGE6WxgdRqG"
+],
 [
 "2026-10-22T11:34|1-800 Girls feat. Art School Girlfriend|sometimes",
 "spotify:track:4akb3UnPEbDpUBc8JdQ5ED"
@@ -3457,6 +3469,24 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-10-22T11:47|Seamus Fogarty|Fire (Edit)",
+"t": "2026-10-22T11:47:00+02:00",
+"artist": "Seamus Fogarty",
+"title": "Fire (Edit)"
+},
+{
+"id": "2026-10-22T11:43|Elton John; Dua Lipa|Cold Heart (Pnau Remix)",
+"t": "2026-10-22T11:43:00+02:00",
+"artist": "Elton John; Dua Lipa",
+"title": "Cold Heart (Pnau Remix)"
+},
+{
+"id": "2026-10-22T11:38|Klaxons|Golden Skans",
+"t": "2026-10-22T11:38:00+02:00",
+"artist": "Klaxons",
+"title": "Golden Skans"
+},
 {
 "id": "2026-10-22T11:34|1-800 Girls feat. Art School Girlfriend|sometimes",
 "t": "2026-10-22T11:34:00+02:00",
@@ -10932,6 +10962,14 @@
 "1 800 girls feat art school girlfriend|sometimes": {
 "u": "spotify:track:4akb3UnPEbDpUBc8JdQ5ED",
 "d": "2026-10-22T11:41:47.667812+02:00"
+},
+"elton john dua lipa|cold heart pnau remix": {
+"u": "spotify:track:0k6LV1ohcK2hlNPwu1nVw9",
+"d": "2026-10-22T11:45:47.668358+02:00"
+},
+"klaxons|golden skans": {
+"u": "spotify:track:6BqWhxll86CGGE6WxgdRqG",
+"d": "2026-10-22T11:45:47.668358+02:00"
 }
 }
 }
