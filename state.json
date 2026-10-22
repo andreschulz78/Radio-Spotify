@@ -1,12 +1,16 @@
 {
-"updated": "2026-10-22T05:58:38.821036+02:00",
+"updated": "2026-10-22T06:09:38.822190+02:00",
 "matcher": 4,
 "blocked_until": null,
 "details": "51e4e36c2ea1",
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAL4MCSoAz4Y1Ldnmz8QFunGsoEtIe9",
+"snapshot": "AAAL6ZvbY1kBPkBYnyR9tkL5c+w2tCmN",
 "playlist": [
+[
+"2026-10-22T05:57|Dino|Call Me",
+"spotify:track:3f8I8HeQfXNwmzuCtyVsS6"
+],
 [
 "2026-10-22T05:52|EL VY|Return To The Moon",
 "spotify:track:1tFlVn4Eui4VsPTa5jlzIx"
@@ -3249,6 +3253,12 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-10-22T05:57|Dino|Call Me",
+"t": "2026-10-22T05:57:00+02:00",
+"artist": "Dino",
+"title": "Call Me"
+},
 {
 "id": "2026-10-22T05:52|EL VY|Return To The Moon",
 "t": "2026-10-22T05:52:00+02:00",
@@ -10276,6 +10286,10 @@
 "belle sebastian|act of the apostle part 1": {
 "u": null,
 "d": "2026-10-22T05:56:38.820868+02:00"
+},
+"dino|call me": {
+"u": "spotify:track:3f8I8HeQfXNwmzuCtyVsS6",
+"d": "2026-10-22T06:06:38.821830+02:00"
 }
 }
 }
