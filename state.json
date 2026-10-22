@@ -1,12 +1,16 @@
 {
-"updated": "2026-10-22T07:04:38.827297+02:00",
+"updated": "2026-10-22T07:08:38.827636+02:00",
 "matcher": 4,
 "blocked_until": null,
 "details": "51e4e36c2ea1",
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAMKNaQ8piBn0leqhVN3NW7mOflvrz3",
+"snapshot": "AAAMMbwbiShY7fdtOcYEDMNUJWuggoOY",
 "playlist": [
+[
+"2026-10-22T06:57|AnnenMayKantereit|Wohin du gehst",
+"spotify:track:40PO9gfu9bHdnsQqEKrcjg"
+],
 [
 "2026-10-22T06:51|Fontaines D.C.|Marianne",
 "spotify:track:69rHKcrQpYGfToPThOV1UB"
@@ -3281,6 +3285,12 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-10-22T06:57|AnnenMayKantereit|Wohin du gehst",
+"t": "2026-10-22T06:57:00+02:00",
+"artist": "AnnenMayKantereit",
+"title": "Wohin du gehst"
+},
 {
 "id": "2026-10-22T06:51|Fontaines D.C.|Marianne",
 "t": "2026-10-22T06:51:00+02:00",
@@ -10380,6 +10390,10 @@
 "duffy|mercy": {
 "u": "spotify:track:1zusIxNqJu8i4g6P6hJ2Qa",
 "d": "2026-10-22T06:51:38.826157+02:00"
+},
+"annenmaykantereit|wohin du gehst": {
+"u": "spotify:track:40PO9gfu9bHdnsQqEKrcjg",
+"d": "2026-10-22T07:05:38.827382+02:00"
 }
 }
 }
