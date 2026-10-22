@@ -1,12 +1,20 @@
 {
-"updated": "2026-10-22T07:53:47.637573+02:00",
+"updated": "2026-10-22T08:04:47.639003+02:00",
 "matcher": 4,
 "blocked_until": null,
 "details": "51e4e36c2ea1",
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAMZwbFkolzk7wIsctInPacYsU0QrCD",
+"snapshot": "AAAMcESwK7TAO9sqshgA6wTenSqvfBu5",
 "playlist": [
+[
+"2026-10-22T07:51|Aurora|All My Demons Greeting Me As A Friend",
+"spotify:track:5O1tikYb6HKrP5cxSQv0iV"
+],
+[
+"2026-10-22T07:48|The Ting Tings|Shut Up And Let Me Go",
+"spotify:track:45gJ4ncmYXXqPlFn8btmrr"
+],
 [
 "2026-10-22T07:44|Westside Cowboy|Kick Stones (The Boys)",
 "spotify:track:6qIdkfxjme3OEkdgsA8ANp"
@@ -3309,6 +3317,18 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-10-22T07:51|Aurora|All My Demons Greeting Me As A Friend",
+"t": "2026-10-22T07:51:00+02:00",
+"artist": "Aurora",
+"title": "All My Demons Greeting Me As A Friend"
+},
+{
+"id": "2026-10-22T07:48|The Ting Tings|Shut Up And Let Me Go",
+"t": "2026-10-22T07:48:00+02:00",
+"artist": "The Ting Tings",
+"title": "Shut Up And Let Me Go"
+},
 {
 "id": "2026-10-22T07:44|Westside Cowboy|Kick Stones (The Boys)",
 "t": "2026-10-22T07:44:00+02:00",
@@ -10470,6 +10490,10 @@
 "deichkind|in der natur": {
 "u": "spotify:track:2Drr6y3iawFnlZ6brImt7U",
 "d": "2026-10-22T07:41:47.635915+02:00"
+},
+"the ting tings|shut up and let me go": {
+"u": "spotify:track:45gJ4ncmYXXqPlFn8btmrr",
+"d": "2026-10-22T07:56:47.637990+02:00"
 }
 }
 }
