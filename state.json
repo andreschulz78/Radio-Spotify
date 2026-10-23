@@ -1,5 +1,5 @@
 {
-"updated": "2026-10-23T22:13:33.829690+02:00",
+"updated": "2026-10-23T22:24:33.831077+02:00",
 "matcher": 4,
 "blocked_until": "2026-10-24T05:15:10.663779+02:00",
 "details": "51e4e36c2ea1",
@@ -8822,12 +8822,6 @@
 "t": "2026-10-16T22:29:00+02:00",
 "artist": "Endless Wellness",
 "title": "Wer hätte das gedacht"
-},
-{
-"id": "2026-10-16T22:23|Endless Wellness|Platanen",
-"t": "2026-10-16T22:23:00+02:00",
-"artist": "Endless Wellness",
-"title": "Platanen"
 }
 ],
 "cache": {
@@ -8866,10 +8860,6 @@
 "sparkling coma|it won t be like this forever": {
 "u": "spotify:track:1w6NksiUfe5WNa5wZAJXYO",
 "d": "2026-10-16T20:56:30.834594+02:00"
-},
-"endless wellness|platanen": {
-"u": "spotify:track:2BwPXFVdlxENU4GTUNSOAo",
-"d": "2026-10-16T22:25:30.847632+02:00"
 },
 "endless wellness|wer hatte das gedacht": {
 "u": "spotify:track:54AkvWhnVEvyfTXHWnstRk",
