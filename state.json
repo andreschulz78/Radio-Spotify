@@ -1,12 +1,16 @@
 {
-"updated": "2026-10-23T06:33:19.760325+02:00",
+"updated": "2026-10-23T06:44:19.761747+02:00",
 "matcher": 4,
 "blocked_until": null,
 "details": "51e4e36c2ea1",
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAO7fUEQyapFQ7hdGx+M/etL+Leqx0y",
+"snapshot": "AAAO//NWZD0tpT4hXhdIHj3DdXNONPEC",
 "playlist": [
+[
+"2026-10-23T06:34|Anderson .Paak & Cordae|A Good Day",
+"spotify:track:4CrnExkcZkg6Aek113hAWl"
+],
 [
 "2026-10-23T06:25|Fever Ray|Seven",
 "spotify:track:5AGWQpBoeamQVTpFQ6K6J2"
@@ -3482,13 +3486,15 @@
 [
 "2026-10-16T06:47|Mother Soki|Thicken",
 "spotify:track:1uQYHgPrjPBYG1d0D4RoTD"
-],
-[
-"2026-10-16T06:38|Fat Freddy’s Drop|Trickle Down",
-"spotify:track:0zGBVwsUYDsB70eip2CjDv"
 ]
 ],
 "entries": [
+{
+"id": "2026-10-23T06:34|Anderson .Paak & Cordae|A Good Day",
+"t": "2026-10-23T06:34:00+02:00",
+"artist": "Anderson .Paak & Cordae",
+"title": "A Good Day"
+},
 {
 "id": "2026-10-23T06:25|Fever Ray|Seven",
 "t": "2026-10-23T06:25:00+02:00",
@@ -8810,12 +8816,6 @@
 "t": "2026-10-16T06:47:00+02:00",
 "artist": "Mother Soki",
 "title": "Thicken"
-},
-{
-"id": "2026-10-16T06:38|Fat Freddy’s Drop|Trickle Down",
-"t": "2026-10-16T06:38:00+02:00",
-"artist": "Fat Freddy’s Drop",
-"title": "Trickle Down"
 }
 ],
 "cache": {
