@@ -380,21 +380,30 @@ def run_once(sp=None, dry=False):
     ordered = sorted(entries.values(), key=lambda e: e["id"], reverse=True)
     desired = [[e["id"], e["uri"]] for e in ordered if e.get("uri")]
     pid, snapshot = os.environ["SPOTIFY_PLAYLIST_ID"], state.get("snapshot")
-    details = state.get("details")   # nur ein Hash, damit Name/Beschreibung nicht im Repo landen
-    if PLAYLIST_DETAILS:
-        details = hashlib.sha256(json.dumps(PLAYLIST_DETAILS, sort_keys=True).encode()).hexdigest()[:12]
-    if PLAYLIST_DETAILS and state.get("details") != details:   # setzen, ohne Neuaufbau auszulösen
-        before = sp.call("GET", f"/playlists/{pid}", {"fields": "snapshot_id"})["snapshot_id"]
-        sp.call("PUT", f"/playlists/{pid}", body=PLAYLIST_DETAILS)
-        if before == snapshot:
-            snapshot = sp.call("GET", f"/playlists/{pid}", {"fields": "snapshot_id"})["snapshot_id"]
-        print("Spotify: Name/Beschreibung der Playlist gesetzt")
-    if desired != state.get("playlist"):
-        snapshot = sync_playlist(sp, pid, state.get("playlist"), desired, snapshot)
+    details, playlist = state.get("details"), state.get("playlist")   # details: nur ein Hash (anonym)
+    want = hashlib.sha256(json.dumps(PLAYLIST_DETAILS, sort_keys=True).encode()).hexdigest()[:12]
+    if limited:   # Spotify-Sperre: nichts senden, Radio-Stand trotzdem sichern
+        if desired != playlist:
+            print(f"  Spotify gesperrt bis {blocked[:16]} – Playlist wird danach abgeglichen")
+    else:
+        try:
+            if PLAYLIST_DETAILS and details != want:   # setzen, ohne Neuaufbau auszulösen
+                before = sp.call("GET", f"/playlists/{pid}", {"fields": "snapshot_id"})["snapshot_id"]
+                sp.call("PUT", f"/playlists/{pid}", body=PLAYLIST_DETAILS)
+                details = want
+                if before == snapshot:
+                    snapshot = sp.call("GET", f"/playlists/{pid}", {"fields": "snapshot_id"})["snapshot_id"]
+                print("Spotify: Name/Beschreibung der Playlist gesetzt")
+            if desired != playlist:
+                snapshot, playlist = sync_playlist(sp, pid, playlist, desired, snapshot), desired
+        except RateLimited as err:   # nicht jede Minute neu versuchen – das verlängert die Sperre
+            print(f"  Spotify gesperrt: {err}")
+            blocked = (now + timedelta(seconds=err.wait)).isoformat()
+            snapshot = None   # Stand in Spotify unklar -> nach der Sperre einmal neu aufbauen
 
     STATE_FILE.write_text(json.dumps({
         "updated": now.isoformat(), "matcher": MATCHER, "blocked_until": blocked, "details": details,
-        "fresh": state.get("fresh"), "start": state.get("start"), "snapshot": snapshot, "playlist": desired,
+        "fresh": state.get("fresh"), "start": state.get("start"), "snapshot": snapshot, "playlist": playlist,
         "entries": [{k: e[k] for k in ("id", "t", "artist", "title")} for e in ordered],
         "cache": cache}, ensure_ascii=False, indent=0))
 
