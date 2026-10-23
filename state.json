@@ -1,12 +1,16 @@
 {
-"updated": "2026-10-23T07:38:19.768696+02:00",
+"updated": "2026-10-23T07:49:19.770330+02:00",
 "matcher": 4,
 "blocked_until": null,
 "details": "51e4e36c2ea1",
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAPgNfe0RxU862TSOVODPFwOAZ2wh8c",
+"snapshot": "AAAPk3V8eQrKWiL2sa55NE6d2jBmfQuU",
 "playlist": [
+[
+"2026-10-23T07:35|Crowded House|Weather With You",
+"spotify:track:6tXnRSvuNgOq4QcxpIN54r"
+],
 [
 "2026-10-23T07:27|Isobel Campbell & Mark Lanegan|Snake Song",
 "spotify:track:2wvUkZTexbDb4nJr9NLhDr"
@@ -3482,17 +3486,15 @@
 [
 "2026-10-16T07:55|Interpol|Iron City",
 "spotify:track:58N4hiH9cKYLkHEhzAdIP1"
-],
-[
-"2026-10-16T07:47|The Verve|Bitter Sweet Symphony (Radio Edit)",
-"spotify:track:0Dmao2oWlAZzIBX2Q1B5AH"
-],
-[
-"2026-10-16T07:41|The Strokes|Going Shopping",
-"spotify:track:18bHbpAKgsf8dor8F6qXHF"
 ]
 ],
 "entries": [
+{
+"id": "2026-10-23T07:35|Crowded House|Weather With You",
+"t": "2026-10-23T07:35:00+02:00",
+"artist": "Crowded House",
+"title": "Weather With You"
+},
 {
 "id": "2026-10-23T07:27|Isobel Campbell & Mark Lanegan|Snake Song",
 "t": "2026-10-23T07:27:00+02:00",
@@ -8814,18 +8816,6 @@
 "t": "2026-10-16T07:55:00+02:00",
 "artist": "Interpol",
 "title": "Iron City"
-},
-{
-"id": "2026-10-16T07:47|The Verve|Bitter Sweet Symphony (Radio Edit)",
-"t": "2026-10-16T07:47:00+02:00",
-"artist": "The Verve",
-"title": "Bitter Sweet Symphony (Radio Edit)"
-},
-{
-"id": "2026-10-16T07:41|The Strokes|Going Shopping",
-"t": "2026-10-16T07:41:00+02:00",
-"artist": "The Strokes",
-"title": "Going Shopping"
 }
 ],
 "cache": {
@@ -11356,6 +11346,10 @@
 "bleachers|blood brothers": {
 "u": "spotify:track:7aMdmpShbYFRbdJigosY7C",
 "d": "2026-10-23T07:31:19.767773+02:00"
+},
+"crowded house|weather with you": {
+"u": "spotify:track:6tXnRSvuNgOq4QcxpIN54r",
+"d": "2026-10-23T07:40:19.769011+02:00"
 }
 }
 }
