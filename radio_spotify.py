@@ -88,7 +88,7 @@ def show_tracks(path, start):
         t = start.replace(hour=int(tm[1]), minute=int(tm[2]))
         if t < start - timedelta(hours=1):   # Sendung über Mitternacht
             t += timedelta(days=1)
-        artist, title = clean(ar[1]), clean(ti[1])
+        artist, title = clean(ar[1]), strip_prefix(clean(ti[1]))
         if artist and title:
             out.append({"id": f"{t:%Y-%m-%dT%H:%M}|{artist}|{title}", "t": t.isoformat(),
                         "artist": artist, "title": title})
@@ -145,7 +145,9 @@ class Spotify:
             try:
                 with urllib.request.urlopen(req, timeout=30) as r:
                     raw = r.read()
-                    return json.loads(raw) if raw else {}
+                if method != "GET":
+                    time.sleep(0.5)   # Schreibzugriffe nicht im Schwall (Spotify sperrt sonst)
+                return json.loads(raw) if raw else {}
             except urllib.error.HTTPError as e:
                 if e.code == 429:
                     wait = int(e.headers.get("Retry-After", "5")) + 1
@@ -171,10 +173,14 @@ def main_artist(a):
     return re.split(r"\s+(?:feat\.?|ft\.?|featuring|vs\.?|x|with)\s+", a, maxsplit=1, flags=re.I)[0].strip()
 
 
-def base_title(t):
+def strip_prefix(t):
+    """Rubrik des Senders vor dem Titel entfernen (bleibt so auch aus state.json heraus)."""
     t = t.strip()
-    if TITLE_PREFIX:   # Rubrik des Senders vor dem Titel
-        t = re.sub(rf"^(?:{TITLE_PREFIX})\s*[-/:]\s*", "", t, flags=re.I)
+    return re.sub(rf"^(?:{TITLE_PREFIX})\s*[-/:]\s*", "", t, flags=re.I) if TITLE_PREFIX else t
+
+
+def base_title(t):
+    t = strip_prefix(t)
     t = re.sub(r"\s*[\(\[][^)\]]*(edit|version|mix|remaster|single|radio|feat|live|mono|stereo)[^)\]]*[\)\]]",
                "", t, flags=re.I)
     return re.sub(r"\s+-\s+.*(edit|version|remaster).*$", "", t, flags=re.I).strip() or t
@@ -312,6 +318,14 @@ def rebuild(sp, pid, desired, why):
 def run_once(sp=None, dry=False):
     now = datetime.now(TZ)
     state = json.loads(STATE_FILE.read_text()) if STATE_FILE.exists() else {}
+    if TITLE_PREFIX:   # ältere Stände: Rubrik aus gespeicherten Titeln entfernen
+        fix = lambda i: "|".join(i.split("|", 2)[:2] + [strip_prefix(i.split("|", 2)[2])])
+        for e in state.get("entries", []):
+            e["id"], e["title"] = fix(e["id"]), strip_prefix(e["title"])
+        if state.get("playlist"):
+            state["playlist"] = [[fix(i), u] for i, u in state["playlist"]]
+        state["cache"] = {k: v for k, v in state.get("cache", {}).items()
+                          if not re.search(rf"\|(?:{TITLE_PREFIX})\b", k, flags=re.I)}
     entries = {e["id"]: e for e in state.get("entries", [])}
     cache = state.get("cache", {})
     if state.get("matcher") != MATCHER:
@@ -421,7 +435,7 @@ def loop(minutes, every=60, commit_every=600):
             print(f"{datetime.now(TZ):%H:%M} Fehler: {msg}")
             status.update(last_error=msg, last_error_at=datetime.now(TZ).isoformat(timespec="seconds"),
                           errors_in_row=status["errors_in_row"] + 1)
-            pause = 300 if isinstance(err, RateLimited) else every
+            pause = min(err.wait, 3600) if isinstance(err, RateLimited) else every   # Spotify-Sperre abwarten
         if time.monotonic() - last_commit > commit_every:
             write_status(status)
             try:
