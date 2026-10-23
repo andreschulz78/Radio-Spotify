@@ -1,12 +1,16 @@
 {
-"updated": "2026-10-23T06:11:19.757607+02:00",
+"updated": "2026-10-23T06:22:19.758915+02:00",
 "matcher": 4,
 "blocked_until": null,
 "details": "51e4e36c2ea1",
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAOtw+wnmsKyMDj4p5zLnoOl3UV7ISY",
+"snapshot": "AAAOyfKVja/xsoUHhX/OuTd6t+T2kPhK",
 "playlist": [
+[
+"2026-10-23T06:14|Boy & Bear|Telescope",
+"spotify:track:2qhMeKcDyMb3McgFxrOPXU"
+],
 [
 "2026-10-23T06:07|Kevin Morby|PBJ (Edit)",
 "spotify:track:5rjtzSA5VBWg7zmuOGg5Dz"
@@ -3486,13 +3490,15 @@
 [
 "2026-10-16T06:23|Belle & Sebastian|She's Losing It",
 "spotify:track:06xG2oejI6qt4MzUw44SUP"
-],
-[
-"2026-10-16T06:16|Gaz Coombes|Walk The Walk",
-"spotify:track:0gD6YmnQexNO8cXYduOSLC"
 ]
 ],
 "entries": [
+{
+"id": "2026-10-23T06:14|Boy & Bear|Telescope",
+"t": "2026-10-23T06:14:00+02:00",
+"artist": "Boy & Bear",
+"title": "Telescope"
+},
 {
 "id": "2026-10-23T06:07|Kevin Morby|PBJ (Edit)",
 "t": "2026-10-23T06:07:00+02:00",
@@ -8820,12 +8826,6 @@
 "t": "2026-10-16T06:23:00+02:00",
 "artist": "Belle & Sebastian",
 "title": "She's Losing It"
-},
-{
-"id": "2026-10-16T06:16|Gaz Coombes|Walk The Walk",
-"t": "2026-10-16T06:16:00+02:00",
-"artist": "Gaz Coombes",
-"title": "Walk The Walk"
 }
 ],
 "cache": {
@@ -11328,6 +11328,10 @@
 "naked lunch|military of the heart": {
 "u": "spotify:track:5G84s8BgTyUejJPT31DTb2",
 "d": "2026-10-23T06:02:19.756393+02:00"
+},
+"boy bear|telescope": {
+"u": "spotify:track:2qhMeKcDyMb3McgFxrOPXU",
+"d": "2026-10-23T06:21:19.758826+02:00"
 }
 }
 }
