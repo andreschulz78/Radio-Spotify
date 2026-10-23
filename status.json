@@ -1,7 +1,7 @@
 {
- "job_start": "2026-10-23T13:11:39+02:00",
- "last_ok": null,
- "errors_in_row": 1,
- "last_error": "RateLimited: PUT /playlists/4co4S71IZsWv5QRNfET54J/items: Spotify verlangt 57809 s Pause",
- "last_error_at": "2026-10-23T13:11:49+02:00"
+ "job_start": "2026-10-23T13:59:20+02:00",
+ "last_ok": "2026-10-23T13:59:29+02:00",
+ "errors_in_row": 0,
+ "last_error": null,
+ "last_error_at": null
 }
