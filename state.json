@@ -1,12 +1,20 @@
 {
-"updated": "2026-10-23T06:22:19.758915+02:00",
+"updated": "2026-10-23T06:33:19.760325+02:00",
 "matcher": 4,
 "blocked_until": null,
 "details": "51e4e36c2ea1",
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAOyfKVja/xsoUHhX/OuTd6t+T2kPhK",
+"snapshot": "AAAO7fUEQyapFQ7hdGx+M/etL+Leqx0y",
 "playlist": [
+[
+"2026-10-23T06:25|Fever Ray|Seven",
+"spotify:track:5AGWQpBoeamQVTpFQ6K6J2"
+],
+[
+"2026-10-23T06:18|Get Well Soon|Siri, What Ruined The West ?",
+"spotify:track:3XY1xxFHeGHDDt33V6GoE2"
+],
 [
 "2026-10-23T06:14|Boy & Bear|Telescope",
 "spotify:track:2qhMeKcDyMb3McgFxrOPXU"
@@ -3478,21 +3486,21 @@
 [
 "2026-10-16T06:38|Fat Freddy’s Drop|Trickle Down",
 "spotify:track:0zGBVwsUYDsB70eip2CjDv"
-],
-[
-"2026-10-16T06:33|Antony Szmierek|Seminal (Edit)",
-"spotify:track:7JQpWD7MgXAwXuIPDFK8VS"
-],
-[
-"2026-10-16T06:26|The Beach Boys|God Only Knows",
-"spotify:track:6iGU74CwXuT4XVepjc9Emf"
-],
-[
-"2026-10-16T06:23|Belle & Sebastian|She's Losing It",
-"spotify:track:06xG2oejI6qt4MzUw44SUP"
 ]
 ],
 "entries": [
+{
+"id": "2026-10-23T06:25|Fever Ray|Seven",
+"t": "2026-10-23T06:25:00+02:00",
+"artist": "Fever Ray",
+"title": "Seven"
+},
+{
+"id": "2026-10-23T06:18|Get Well Soon|Siri, What Ruined The West ?",
+"t": "2026-10-23T06:18:00+02:00",
+"artist": "Get Well Soon",
+"title": "Siri, What Ruined The West ?"
+},
 {
 "id": "2026-10-23T06:14|Boy & Bear|Telescope",
 "t": "2026-10-23T06:14:00+02:00",
@@ -8808,24 +8816,6 @@
 "t": "2026-10-16T06:38:00+02:00",
 "artist": "Fat Freddy’s Drop",
 "title": "Trickle Down"
-},
-{
-"id": "2026-10-16T06:33|Antony Szmierek|Seminal (Edit)",
-"t": "2026-10-16T06:33:00+02:00",
-"artist": "Antony Szmierek",
-"title": "Seminal (Edit)"
-},
-{
-"id": "2026-10-16T06:26|The Beach Boys|God Only Knows",
-"t": "2026-10-16T06:26:00+02:00",
-"artist": "The Beach Boys",
-"title": "God Only Knows"
-},
-{
-"id": "2026-10-16T06:23|Belle & Sebastian|She's Losing It",
-"t": "2026-10-16T06:23:00+02:00",
-"artist": "Belle & Sebastian",
-"title": "She's Losing It"
 }
 ],
 "cache": {
@@ -11332,6 +11322,10 @@
 "boy bear|telescope": {
 "u": "spotify:track:2qhMeKcDyMb3McgFxrOPXU",
 "d": "2026-10-23T06:21:19.758826+02:00"
+},
+"fever ray|seven": {
+"u": "spotify:track:5AGWQpBoeamQVTpFQ6K6J2",
+"d": "2026-10-23T06:30:19.759905+02:00"
 }
 }
 }
