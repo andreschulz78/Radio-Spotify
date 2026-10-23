@@ -1,12 +1,16 @@
 {
-"updated": "2026-10-23T05:50:19.754869+02:00",
+"updated": "2026-10-23T06:01:19.756261+02:00",
 "matcher": 4,
 "blocked_until": null,
 "details": "51e4e36c2ea1",
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAOh0t+ybui++hSyxISMUo1pDoXNiS9",
+"snapshot": "AAAOmSR4IhhcP+gQSZCZCZWG1OMrfSaY",
 "playlist": [
+[
+"2026-10-23T05:50|RAR|Kannst du bei mir bleiben?",
+"spotify:track:6P2p63GZxlsvoegju9iH1Z"
+],
 [
 "2026-10-23T05:45|Angel Olsen|What It Is",
 "spotify:track:3YyM2diFk5zbUTfXso9NWy"
@@ -3482,17 +3486,15 @@
 [
 "2026-10-16T06:05|Nada Surf|Blankest Year",
 "spotify:track:1hv5cVQ0IOvR4S0H5JKrQo"
-],
-[
-"2026-10-16T05:56|Σtella|Belinda",
-"spotify:track:1rs2lOYfBKNW5OCpeTIiVf"
-],
-[
-"2026-10-16T05:52|Benny Sings|Pyjamas",
-"spotify:track:3Q8SnMp3lhGGoIJBDmYRPa"
 ]
 ],
 "entries": [
+{
+"id": "2026-10-23T05:50|RAR|Kannst du bei mir bleiben?",
+"t": "2026-10-23T05:50:00+02:00",
+"artist": "RAR",
+"title": "Kannst du bei mir bleiben?"
+},
 {
 "id": "2026-10-23T05:45|Angel Olsen|What It Is",
 "t": "2026-10-23T05:45:00+02:00",
@@ -8814,18 +8816,6 @@
 "t": "2026-10-16T06:05:00+02:00",
 "artist": "Nada Surf",
 "title": "Blankest Year"
-},
-{
-"id": "2026-10-16T05:56|Σtella|Belinda",
-"t": "2026-10-16T05:56:00+02:00",
-"artist": "Σtella",
-"title": "Belinda"
-},
-{
-"id": "2026-10-16T05:52|Benny Sings|Pyjamas",
-"t": "2026-10-16T05:52:00+02:00",
-"artist": "Benny Sings",
-"title": "Pyjamas"
 }
 ],
 "cache": {
@@ -11316,6 +11306,10 @@
 "angel olsen|what it is": {
 "u": "spotify:track:3YyM2diFk5zbUTfXso9NWy",
 "d": "2026-10-23T05:50:19.754869+02:00"
+},
+"rar|kannst du bei mir bleiben": {
+"u": "spotify:track:6P2p63GZxlsvoegju9iH1Z",
+"d": "2026-10-23T05:55:19.755484+02:00"
 }
 }
 }
