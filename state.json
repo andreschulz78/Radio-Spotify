@@ -1,12 +1,16 @@
 {
-"updated": "2026-10-23T05:37:10.275195+02:00",
+"updated": "2026-10-23T05:48:10.276181+02:00",
 "matcher": 4,
 "blocked_until": null,
 "details": "51e4e36c2ea1",
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAOWrbQDURhvR1ous8n0FzLr2NATtcT",
+"snapshot": "AAAOfm0aFEE65Wh52cKUgS/SCAr85Xy2",
 "playlist": [
+[
+"2026-10-23T05:42|Jungle|The Wave",
+"spotify:track:6Ln44Up5lBxNgCsaLoXY6W"
+],
 [
 "2026-10-23T05:32|Joy Wellboy|Lay Down Your Blade",
 "spotify:track:30w3r2Qmz2AzULyjVhWWZy"
@@ -3482,21 +3486,21 @@
 [
 "2026-10-16T05:52|Benny Sings|Pyjamas",
 "spotify:track:3Q8SnMp3lhGGoIJBDmYRPa"
-],
-[
-"2026-10-16T05:48|Thievery Corporation|All That We Perceive",
-"spotify:track:53VS3tjssARzYcVoyG5vXE"
-],
-[
-"2026-10-16T05:42|Wanda|Columbo",
-"spotify:track:2mhwX8vAz2l3i2wlrG8Av1"
-],
-[
-"2026-10-16T05:39|Jordan Rakei|Enemies",
-"spotify:track:0X9GwAax0c0HPe3iIoDVW6"
 ]
 ],
 "entries": [
+{
+"id": "2026-10-23T05:42|Jungle|The Wave",
+"t": "2026-10-23T05:42:00+02:00",
+"artist": "Jungle",
+"title": "The Wave"
+},
+{
+"id": "2026-10-23T05:38|Rainhard Fendrich und Reinhard Mey|Loch in der Kanne (live)",
+"t": "2026-10-23T05:38:00+02:00",
+"artist": "Rainhard Fendrich und Reinhard Mey",
+"title": "Loch in der Kanne (live)"
+},
 {
 "id": "2026-10-23T05:32|Joy Wellboy|Lay Down Your Blade",
 "t": "2026-10-23T05:32:00+02:00",
@@ -8812,24 +8816,6 @@
 "t": "2026-10-16T05:52:00+02:00",
 "artist": "Benny Sings",
 "title": "Pyjamas"
-},
-{
-"id": "2026-10-16T05:48|Thievery Corporation|All That We Perceive",
-"t": "2026-10-16T05:48:00+02:00",
-"artist": "Thievery Corporation",
-"title": "All That We Perceive"
-},
-{
-"id": "2026-10-16T05:42|Wanda|Columbo",
-"t": "2026-10-16T05:42:00+02:00",
-"artist": "Wanda",
-"title": "Columbo"
-},
-{
-"id": "2026-10-16T05:39|Jordan Rakei|Enemies",
-"t": "2026-10-16T05:39:00+02:00",
-"artist": "Jordan Rakei",
-"title": "Enemies"
 }
 ],
 "cache": {
@@ -11312,6 +11298,10 @@
 "joy wellboy|lay down your blade": {
 "u": "spotify:track:30w3r2Qmz2AzULyjVhWWZy",
 "d": "2026-10-23T05:36:10.275106+02:00"
+},
+"rainhard fendrich und reinhard mey|loch in der kanne live": {
+"u": null,
+"d": "2026-10-23T05:46:10.276010+02:00"
 }
 }
 }
