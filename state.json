@@ -1,12 +1,16 @@
 {
-"updated": "2026-10-23T05:15:10.273302+02:00",
+"updated": "2026-10-23T05:26:10.274247+02:00",
 "matcher": 4,
 "blocked_until": null,
 "details": "51e4e36c2ea1",
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAN8HtKrbDyxchQakE7fDGOTk+XUMP6",
+"snapshot": "AAAOIfzI6lqbBoLDaaqPbNkXX/jWNPfo",
 "playlist": [
+[
+"2026-10-23T05:13|The Beatles|Eleanor Rigby",
+"spotify:track:6EOKwO6WaLal58MSsi6U4W"
+],
 [
 "2026-10-23T05:09|Cake|Never There",
 "spotify:track:7aKWgpecgLEqisWcXPElDl"
@@ -36,6 +40,10 @@
 "spotify:track:2kT6X8PgXQ8GR2uhEQDZOc"
 ],
 [
+"2026-10-22T19:56|Adam Green|Emily",
+"spotify:track:2WlQZcqe4JMljW19msGH8S"
+],
+[
 "2026-10-22T19:54|Fuffifufzich|New Era",
 "spotify:track:0sF1TJMDGYxKvu9pp1JQkQ"
 ],
@@ -44,8 +52,28 @@
 "spotify:track:6iXIvHGsLMJ89TuW1S9E3C"
 ],
 [
+"2026-10-22T19:06|Odd Beholder|Internet Famous",
+"spotify:track:50h9Bp3vYgDfv0852K2ZYJ"
+],
+[
+"2026-10-22T18:56|Arcade Fire|Neighborhood Nr. 2",
+"spotify:track:61ARSKFMwoVnIwXAVnfNNh"
+],
+[
+"2026-10-22T18:50|George Benson|On Broadway",
+"spotify:track:0iI2fbR06lKJE6wSYmYQch"
+],
+[
 "2026-10-22T18:46|JJerome87|Green Velvet",
 "spotify:track:4tYeJ03pfClYTXqhao6PJf"
+],
+[
+"2026-10-22T18:43|Monolink|Running (Radio Edit)",
+"spotify:track:3C6nQaqzJany5jvPxBeVfx"
+],
+[
+"2026-10-22T18:36|Michael Nau|Love Survive",
+"spotify:track:5XCnAmFG9w8XH8TTaTuqFU"
 ],
 [
 "2026-10-22T18:33|Django Django|Cameos",
@@ -60,16 +88,64 @@
 "spotify:track:7AgfOLYDB7GrgIWg60PBw7"
 ],
 [
+"2026-10-22T17:57|Rodriguez Jr. & Stereo MC's|Turn The Light On",
+"spotify:track:2gEXAZEFJ9Wf1tGJIyGBdT"
+],
+[
 "2026-10-22T17:51|Yazmin Lacey|Summer Haze",
 "spotify:track:465QjZo1z1JAuLTTC7DnuK"
+],
+[
+"2026-10-22T17:46|Aaron Neville|Be Your Man",
+"spotify:track:5BHFBe3Glad2H6HIaq7xud"
+],
+[
+"2026-10-22T17:38|Ibeyi|Sister 2 Sister",
+"spotify:track:4In5YLF0CjSRIvTqD7k0Mg"
+],
+[
+"2026-10-22T17:33|Moscoman & Tom Sanders|In Stereo",
+"spotify:track:6VBbmDuYFGj4xAxLM79JB7"
 ],
 [
 "2026-10-22T17:25|Alewya|Cairo FM",
 "spotify:track:6v7hCIRoJkuYShT0wls1gD"
 ],
 [
+"2026-10-22T17:14|Little Dragon|Ritual Union",
+"spotify:track:5uTjNzGKCQ50synrf9dWmT"
+],
+[
+"2026-10-22T17:10|Nirvana|Smells Like Teen Spirit",
+"spotify:track:6mpyO7bJaCrHzE0iQEtZiN"
+],
+[
+"2026-10-22T17:05|WhoMadeWho & Blue Hawaii|Kiss Me Hard",
+"spotify:track:52sAVkP0ZuRzXbihUIsNCH"
+],
+[
 "2026-10-22T16:56|Keshavara|Moondram Sevi",
 "spotify:track:0jpeIdUkge4S8dMS0nkZ6r"
+],
+[
+"2026-10-22T16:50|De-Phazz|The Mambo Craze",
+"spotify:track:6ieVQCqh2Lu6J8kBby84pq"
+],
+[
+"2026-10-22T16:46|Tyler Ballgame|Live It Down",
+"spotify:track:46LMLiMIgmpftDNsEirs02"
+],
+[
+"2026-10-22T16:37|Röyksopp|What Else Is There? (Edit)",
+"spotify:track:39OZpmsquWGSgs1Lt6BXr0"
+],
+[
+"2026-10-22T16:34|Bombay Bicycle Club|Turn The World On",
+"spotify:track:5zeMiru9wbjdLBNYhFZa3G"
+],
+[
+"2026-10-22T16:25|Beck|Up All Night",
+"spotify:track:28AgTOIZke8nitD0NNeb3G"
 ],
 [
 "2026-10-22T16:23|Tank And The Bangas|Ain’t That Deep",
@@ -80,12 +156,40 @@
 "spotify:track:1w6NksiUfe5WNa5wZAJXYO"
 ],
 [
+"2026-10-22T16:16|Violent Femmes|Blister In The Sun",
+"spotify:track:7jIAttgQTpLDoNtykIQXjH"
+],
+[
 "2026-10-22T16:07|DJ Koze|Spiralen (Radio Edit)",
 "spotify:track:03ra0kWWPT8fW3sy6onMfc"
 ],
 [
+"2026-10-22T16:04|Passion Mango|Bloody Eyes",
+"spotify:track:4YUBcBSUIXfCNNFAaWQcyG"
+],
+[
+"2026-10-22T15:56|Mogwai|Ritchie Sacramento",
+"spotify:track:7yBwhVl7W0YT5cCMw8MOjW"
+],
+[
+"2026-10-22T15:51|Smash Mouth|Pacific Coast Party",
+"spotify:track:6PVUhaicHVxBFjOUDcWfDY"
+],
+[
+"2026-10-22T15:45|Secret Machines|Nowhere Again",
+"spotify:track:6C7Zo57KvXSMdMZDW5fzD6"
+],
+[
 "2026-10-22T15:31|Moonlight Breakfast|If Not Now, Then When?!",
 "spotify:track:7rqjXsHITwfxR5XoKIGsaJ"
+],
+[
+"2026-10-22T15:24|Yukno, Marco Kleebauer|Metaverse",
+"spotify:track:1hLBEOChVe00O5l7MN9AC5"
+],
+[
+"2026-10-22T15:21|Depeche Mode|Everything Counts",
+"spotify:track:1R1vbkHj40yexphG1i7x27"
 ],
 [
 "2026-10-22T15:18|Black Marble|Jim Carol New Year",
@@ -94,6 +198,18 @@
 [
 "2026-10-22T15:09|BICEP feat. SOARR|Air (Radio Edit)",
 "spotify:track:2infXICqVSUM3bbGSOgFOY"
+],
+[
+"2026-10-22T15:05|Placebo|Ashtray Heart",
+"spotify:track:3FqGGjtL4tbZYa7IFd6kYN"
+],
+[
+"2026-10-22T14:57|The Asteroids Galaxy Tour|The Golden Age",
+"spotify:track:4f41kW6oJVM6FKl2O4LgQ7"
+],
+[
+"2026-10-22T14:50|Dillinger|Cocaine In My Brain",
+"spotify:track:5iLac5Ztb5WGrY7LsUYjpV"
 ],
 [
 "2026-10-22T14:25|Leon Bridges|Talk it over",
@@ -3302,21 +3418,21 @@
 [
 "2026-10-16T05:31|Hiss Golden Messenger|Standing In The Doorway",
 "spotify:track:2cGRLPEDAzuamgdynzu7Y1"
-],
-[
-"2026-10-16T05:26|Joy Crookes feat. Jafaris|Early",
-"spotify:track:6AcFiVsHvDtat3rmHNK2Nf"
-],
-[
-"2026-10-16T05:24|Tank And The Bangas|Ain’t That Deep",
-"spotify:track:0PokJfPldX6FgGR7covt03"
-],
-[
-"2026-10-16T05:19|The Kinks|Nothin’ in the World Can Stop Me Worryin’ ’Bout That Girl",
-"spotify:track:3TUiFhWXAFLX801x4Tzkn1"
 ]
 ],
 "entries": [
+{
+"id": "2026-10-23T05:18|Tom Liwa|Für die linke Spur zu langsam",
+"t": "2026-10-23T05:18:00+02:00",
+"artist": "Tom Liwa",
+"title": "Für die linke Spur zu langsam"
+},
+{
+"id": "2026-10-23T05:13|The Beatles|Eleanor Rigby",
+"t": "2026-10-23T05:13:00+02:00",
+"artist": "The Beatles",
+"title": "Eleanor Rigby"
+},
 {
 "id": "2026-10-23T05:09|Cake|Never There",
 "t": "2026-10-23T05:09:00+02:00",
@@ -8632,24 +8748,6 @@
 "t": "2026-10-16T05:31:00+02:00",
 "artist": "Hiss Golden Messenger",
 "title": "Standing In The Doorway"
-},
-{
-"id": "2026-10-16T05:26|Joy Crookes feat. Jafaris|Early",
-"t": "2026-10-16T05:26:00+02:00",
-"artist": "Joy Crookes feat. Jafaris",
-"title": "Early"
-},
-{
-"id": "2026-10-16T05:24|Tank And The Bangas|Ain’t That Deep",
-"t": "2026-10-16T05:24:00+02:00",
-"artist": "Tank And The Bangas",
-"title": "Ain’t That Deep"
-},
-{
-"id": "2026-10-16T05:19|The Kinks|Nothin’ in the World Can Stop Me Worryin’ ’Bout That Girl",
-"t": "2026-10-16T05:19:00+02:00",
-"artist": "The Kinks",
-"title": "Nothin’ in the World Can Stop Me Worryin’ ’Bout That Girl"
 }
 ],
 "cache": {
@@ -10924,6 +11022,138 @@
 "mumford sons|roll away your stone": {
 "u": "spotify:track:2kT6X8PgXQ8GR2uhEQDZOc",
 "d": "2026-10-23T05:15:10.273302+02:00"
+},
+"adam green|emily": {
+"u": "spotify:track:2WlQZcqe4JMljW19msGH8S",
+"d": "2026-10-23T05:16:10.273386+02:00"
+},
+"odd beholder|internet famous": {
+"u": "spotify:track:50h9Bp3vYgDfv0852K2ZYJ",
+"d": "2026-10-23T05:16:10.273386+02:00"
+},
+"arcade fire|neighborhood nr 2": {
+"u": "spotify:track:61ARSKFMwoVnIwXAVnfNNh",
+"d": "2026-10-23T05:16:10.273386+02:00"
+},
+"george benson|on broadway": {
+"u": "spotify:track:0iI2fbR06lKJE6wSYmYQch",
+"d": "2026-10-23T05:17:10.273471+02:00"
+},
+"monolink|running radio edit": {
+"u": "spotify:track:3C6nQaqzJany5jvPxBeVfx",
+"d": "2026-10-23T05:17:10.273471+02:00"
+},
+"michael nau|love survive": {
+"u": "spotify:track:5XCnAmFG9w8XH8TTaTuqFU",
+"d": "2026-10-23T05:17:10.273471+02:00"
+},
+"the rolling stones|don t stop": {
+"u": null,
+"d": "2026-10-23T05:18:10.273552+02:00"
+},
+"the flying lizards|money that s what i want": {
+"u": null,
+"d": "2026-10-23T05:18:10.273552+02:00"
+},
+"the wholls|x21": {
+"u": null,
+"d": "2026-10-23T05:18:10.273552+02:00"
+},
+"rodriguez jr stereo mc s|turn the light on": {
+"u": "spotify:track:2gEXAZEFJ9Wf1tGJIyGBdT",
+"d": "2026-10-23T05:19:10.273640+02:00"
+},
+"aaron neville|be your man": {
+"u": "spotify:track:5BHFBe3Glad2H6HIaq7xud",
+"d": "2026-10-23T05:19:10.273640+02:00"
+},
+"ibeyi|sister 2 sister": {
+"u": "spotify:track:4In5YLF0CjSRIvTqD7k0Mg",
+"d": "2026-10-23T05:19:10.273640+02:00"
+},
+"moscoman tom sanders|in stereo": {
+"u": "spotify:track:6VBbmDuYFGj4xAxLM79JB7",
+"d": "2026-10-23T05:20:10.273730+02:00"
+},
+"little dragon|ritual union": {
+"u": "spotify:track:5uTjNzGKCQ50synrf9dWmT",
+"d": "2026-10-23T05:20:10.273730+02:00"
+},
+"nirvana|smells like teen spirit": {
+"u": "spotify:track:6mpyO7bJaCrHzE0iQEtZiN",
+"d": "2026-10-23T05:20:10.273730+02:00"
+},
+"the beatles|eleanor rigby": {
+"u": "spotify:track:6EOKwO6WaLal58MSsi6U4W",
+"d": "2026-10-23T05:21:10.273815+02:00"
+},
+"whomadewho blue hawaii|kiss me hard": {
+"u": "spotify:track:52sAVkP0ZuRzXbihUIsNCH",
+"d": "2026-10-23T05:21:10.273815+02:00"
+},
+"de phazz|the mambo craze": {
+"u": "spotify:track:6ieVQCqh2Lu6J8kBby84pq",
+"d": "2026-10-23T05:21:10.273815+02:00"
+},
+"tyler ballgame|live it down": {
+"u": "spotify:track:46LMLiMIgmpftDNsEirs02",
+"d": "2026-10-23T05:22:10.273900+02:00"
+},
+"royksopp|what else is there edit": {
+"u": "spotify:track:39OZpmsquWGSgs1Lt6BXr0",
+"d": "2026-10-23T05:22:10.273900+02:00"
+},
+"bombay bicycle club|turn the world on": {
+"u": "spotify:track:5zeMiru9wbjdLBNYhFZa3G",
+"d": "2026-10-23T05:22:10.273900+02:00"
+},
+"beck|up all night": {
+"u": "spotify:track:28AgTOIZke8nitD0NNeb3G",
+"d": "2026-10-23T05:23:10.273990+02:00"
+},
+"violent femmes|blister in the sun": {
+"u": "spotify:track:7jIAttgQTpLDoNtykIQXjH",
+"d": "2026-10-23T05:23:10.273990+02:00"
+},
+"passion mango|bloody eyes": {
+"u": "spotify:track:4YUBcBSUIXfCNNFAaWQcyG",
+"d": "2026-10-23T05:23:10.273990+02:00"
+},
+"mogwai|ritchie sacramento": {
+"u": "spotify:track:7yBwhVl7W0YT5cCMw8MOjW",
+"d": "2026-10-23T05:24:10.274084+02:00"
+},
+"smash mouth|pacific coast party": {
+"u": "spotify:track:6PVUhaicHVxBFjOUDcWfDY",
+"d": "2026-10-23T05:24:10.274084+02:00"
+},
+"secret machines|nowhere again": {
+"u": "spotify:track:6C7Zo57KvXSMdMZDW5fzD6",
+"d": "2026-10-23T05:24:10.274084+02:00"
+},
+"yukno marco kleebauer|metaverse": {
+"u": "spotify:track:1hLBEOChVe00O5l7MN9AC5",
+"d": "2026-10-23T05:25:10.274177+02:00"
+},
+"depeche mode|everything counts": {
+"u": "spotify:track:1R1vbkHj40yexphG1i7x27",
+"d": "2026-10-23T05:25:10.274177+02:00"
+},
+"placebo|ashtray heart": {
+"u": "spotify:track:3FqGGjtL4tbZYa7IFd6kYN",
+"d": "2026-10-23T05:25:10.274177+02:00"
+},
+"tom liwa|fur die linke spur zu langsam": {
+"u": null,
+"d": "2026-10-23T05:26:10.274247+02:00"
+},
+"the asteroids galaxy tour|the golden age": {
+"u": "spotify:track:4f41kW6oJVM6FKl2O4LgQ7",
+"d": "2026-10-23T05:26:10.274247+02:00"
+},
+"dillinger|cocaine in my brain": {
+"u": "spotify:track:5iLac5Ztb5WGrY7LsUYjpV",
+"d": "2026-10-23T05:26:10.274247+02:00"
 }
 }
 }
