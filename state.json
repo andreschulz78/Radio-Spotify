@@ -1,5 +1,5 @@
 {
-"updated": "2026-10-23T22:24:33.831077+02:00",
+"updated": "2026-10-23T22:35:33.832480+02:00",
 "matcher": 4,
 "blocked_until": "2026-10-24T05:15:10.663779+02:00",
 "details": "51e4e36c2ea1",
@@ -8810,18 +8810,6 @@
 "t": "2026-10-16T22:43:00+02:00",
 "artist": "Maxime Denuc",
 "title": "Sueños"
-},
-{
-"id": "2026-10-16T22:35|Maxime Denuc|The Shore",
-"t": "2026-10-16T22:35:00+02:00",
-"artist": "Maxime Denuc",
-"title": "The Shore"
-},
-{
-"id": "2026-10-16T22:29|Endless Wellness|Wer hätte das gedacht",
-"t": "2026-10-16T22:29:00+02:00",
-"artist": "Endless Wellness",
-"title": "Wer hätte das gedacht"
 }
 ],
 "cache": {
@@ -8860,14 +8848,6 @@
 "sparkling coma|it won t be like this forever": {
 "u": "spotify:track:1w6NksiUfe5WNa5wZAJXYO",
 "d": "2026-10-16T20:56:30.834594+02:00"
-},
-"endless wellness|wer hatte das gedacht": {
-"u": "spotify:track:54AkvWhnVEvyfTXHWnstRk",
-"d": "2026-10-16T22:35:30.848966+02:00"
-},
-"maxime denuc|the shore": {
-"u": "spotify:track:7JPeLAeyk0fxjf5wdaTi7p",
-"d": "2026-10-16T22:40:30.849675+02:00"
 },
 "maxime denuc|suenos": {
 "u": "spotify:track:0w1zxTiehMfCowp6Rk600s",
