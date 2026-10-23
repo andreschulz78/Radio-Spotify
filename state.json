@@ -1,5 +1,5 @@
 {
-"updated": "2026-10-23T21:29:33.824290+02:00",
+"updated": "2026-10-23T21:40:33.825649+02:00",
 "matcher": 4,
 "blocked_until": "2026-10-24T05:15:10.663779+02:00",
 "details": "51e4e36c2ea1",
@@ -8846,12 +8846,6 @@
 "t": "2026-10-16T21:43:00+02:00",
 "artist": "Fontaines D.C.",
 "title": "Mimesis"
-},
-{
-"id": "2026-10-16T21:33|Fontaines D.C.|Six Shot Morning",
-"t": "2026-10-16T21:33:00+02:00",
-"artist": "Fontaines D.C.",
-"title": "Six Shot Morning"
 }
 ],
 "cache": {
@@ -8890,10 +8884,6 @@
 "sparkling coma|it won t be like this forever": {
 "u": "spotify:track:1w6NksiUfe5WNa5wZAJXYO",
 "d": "2026-10-16T20:56:30.834594+02:00"
-},
-"fontaines d c|six shot morning": {
-"u": "spotify:track:3GOOBbC0uedCdUQZfSrwOp",
-"d": "2026-10-16T21:35:30.840285+02:00"
 },
 "fontaines d c|mimesis": {
 "u": "spotify:track:0nLkVbVlIYIPsCTUYYiOuu",
