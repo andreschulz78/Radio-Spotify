@@ -1,12 +1,16 @@
 {
-"updated": "2026-10-23T08:33:19.776059+02:00",
+"updated": "2026-10-23T08:43:19.777332+02:00",
 "matcher": 4,
 "blocked_until": null,
 "details": "51e4e36c2ea1",
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAP9kuMuRDtIQ7211oVC8Jlt1BpSZ+x",
+"snapshot": "AAAQEWYZegtzjvaNSJzIoBLHq/wg3sFZ",
 "playlist": [
+[
+"2026-10-23T08:32|J.Bernardt|Love Is On My Mind",
+"spotify:track:4LuP3veDBkqnyLQvgDQpJb"
+],
 [
 "2026-10-23T08:25|Σtella|Belinda",
 "spotify:track:1rs2lOYfBKNW5OCpeTIiVf"
@@ -3490,17 +3494,15 @@
 [
 "2026-10-16T08:47|Superspace|Superspace Feeling (House Version)",
 "spotify:track:4gVlkx1BUOFnjqbhUNKrNC"
-],
-[
-"2026-10-16T08:43|Tessa Rose Jackson|Fear Bangs The Drum",
-"spotify:track:2iONUJDB9r4XZRwflcXpbR"
-],
-[
-"2026-10-16T08:35|Soulwax|Run Free (Radio Edit)",
-"spotify:track:6FpGarU82UbiZXyI7Dyh6M"
 ]
 ],
 "entries": [
+{
+"id": "2026-10-23T08:32|J.Bernardt|Love Is On My Mind",
+"t": "2026-10-23T08:32:00+02:00",
+"artist": "J.Bernardt",
+"title": "Love Is On My Mind"
+},
 {
 "id": "2026-10-23T08:25|Σtella|Belinda",
 "t": "2026-10-23T08:25:00+02:00",
@@ -8828,18 +8830,6 @@
 "t": "2026-10-16T08:47:00+02:00",
 "artist": "Superspace",
 "title": "Superspace Feeling (House Version)"
-},
-{
-"id": "2026-10-16T08:43|Tessa Rose Jackson|Fear Bangs The Drum",
-"t": "2026-10-16T08:43:00+02:00",
-"artist": "Tessa Rose Jackson",
-"title": "Fear Bangs The Drum"
-},
-{
-"id": "2026-10-16T08:35|Soulwax|Run Free (Radio Edit)",
-"t": "2026-10-16T08:35:00+02:00",
-"artist": "Soulwax",
-"title": "Run Free (Radio Edit)"
 }
 ],
 "cache": {
@@ -11394,6 +11384,10 @@
 "ramones|sheena is a punk rocker": {
 "u": "spotify:track:61MZN0yyMWSEwrLPUUGfgJ",
 "d": "2026-10-23T08:26:19.775115+02:00"
+},
+"j bernardt|love is on my mind": {
+"u": "spotify:track:4LuP3veDBkqnyLQvgDQpJb",
+"d": "2026-10-23T08:36:19.776440+02:00"
 }
 }
 }
