@@ -35,6 +35,7 @@ RETRY_NOT_FOUND = timedelta(days=3)
 MATCHER = 4               # erhöhen, wenn find_uri geändert wird -> Cache verwerfen (Titel in der Playlist bleiben)
 FRESH_START = datetime(2026, 10, 15, 12, 35, tzinfo=ZoneInfo("Europe/Berlin"))   # einmalig: Playlist leeren, nur noch Neues
 STATE_FILE = Path(__file__).with_name("state.json")
+STATUS_FILE = Path(__file__).with_name("status.json")   # letzter Fehler, im Repo sichtbar (Logs sind es nicht)
 UA = "Mozilla/5.0 (radio-spotify; private Playlist)"
 TITLE_PREFIX = os.environ.get("RADIO_TITLE_PREFIX", "")
 PLAYLIST_DETAILS = {k: v for k, v in (("name", os.environ.get("RADIO_PLAYLIST_NAME")),     # optional, nur als Secret
@@ -102,7 +103,10 @@ def scrape(now, latest, start=None):
     while day <= now.date():
         for path, start in sorted(day_shows(day).items(), key=lambda x: x[1]):
             if since <= start <= now:
-                found += show_tracks(path, start)
+                try:
+                    found += show_tracks(path, start)
+                except (urllib.error.URLError, TimeoutError) as err:   # eine Sendung darf nicht alles blockieren
+                    print(f"  Sendung {start:%d.%m. %H:%M} nicht abrufbar: {err}")
         day += timedelta(days=1)
     return found
 
@@ -385,10 +389,10 @@ def commit_state():
     """Stand ins Repo schreiben (nur in GitHub Actions)."""
     if not os.environ.get("GITHUB_ACTIONS"):
         return
-    git = lambda *a: subprocess.run(["git", *a], cwd=STATE_FILE.parent, capture_output=True, text=True)
+    git = lambda *a: subprocess.run(["git", *a], cwd=STATE_FILE.parent, capture_output=True, text=True, timeout=120)
     git("fetch", "-q", "origin", "main")
     git("reset", "-q", "origin/main")   # auf neuesten Repo-Stand setzen (Dateien bleiben) – kein Rebase-Konflikt
-    git("add", STATE_FILE.name)         # state.json ist ein vollständiger Stand und gewinnt
+    git("add", STATE_FILE.name, STATUS_FILE.name)   # vollständige Stände, die gewinnen
     if git("diff", "--cached", "--quiet").returncode:
         git("commit", "-q", "-m", f"Stand {datetime.now(TZ):%Y-%m-%d %H:%M}")
         r = git("push", "-q", "origin", "HEAD:main")
@@ -396,22 +400,41 @@ def commit_state():
             print("  git push fehlgeschlagen:", r.stderr.strip())
 
 
+def write_status(status):
+    STATUS_FILE.write_text(json.dumps(status, ensure_ascii=False, indent=1) + "\n")
+
+
 def loop(minutes, every=60, commit_every=600):
     """Dauerlauf: jede Minute synchronisieren, Stand alle 10 Min. sichern."""
     sp = Spotify()
+    status = {"job_start": datetime.now(TZ).isoformat(timespec="seconds"), "last_ok": None,
+              "errors_in_row": 0, "last_error": None, "last_error_at": None}
     end, last_commit = time.monotonic() + minutes * 60, time.monotonic() - commit_every   # erster Stand sofort
     while time.monotonic() < end:
         t0, pause = time.monotonic(), every
         try:
             run_once(sp)
+            status.update(last_ok=datetime.now(TZ).isoformat(timespec="seconds"), errors_in_row=0)
         except Exception as err:   # nächster Versuch im nächsten Takt
-            print(f"{datetime.now(TZ):%H:%M} Fehler: {err}")
+            msg = f"{type(err).__name__}: {err}"
+            msg = (msg.replace(BASE, "RADIO_URL") if BASE else msg)[:500]
+            print(f"{datetime.now(TZ):%H:%M} Fehler: {msg}")
+            status.update(last_error=msg, last_error_at=datetime.now(TZ).isoformat(timespec="seconds"),
+                          errors_in_row=status["errors_in_row"] + 1)
             pause = 300 if isinstance(err, RateLimited) else every
         if time.monotonic() - last_commit > commit_every:
-            commit_state()
+            write_status(status)
+            try:
+                commit_state()
+            except subprocess.TimeoutExpired:
+                print("  git hängt – nächster Versuch in 10 Min.")
             last_commit = time.monotonic()
         time.sleep(max(5, min(pause - (time.monotonic() - t0), end - time.monotonic())))
-    commit_state()
+    write_status(status)
+    try:
+        commit_state()
+    except subprocess.TimeoutExpired:
+        print("  git hängt – Stand nicht gesichert")
 
 
 def reset():
