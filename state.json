@@ -1,5 +1,5 @@
 {
-"updated": "2026-10-23T14:10:20.665247+02:00",
+"updated": "2026-10-23T14:21:20.666674+02:00",
 "matcher": 4,
 "blocked_until": "2026-10-24T05:15:10.663779+02:00",
 "details": "51e4e36c2ea1",
@@ -3501,6 +3501,18 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-10-23T14:11|The Shins|The Rifle's Spiral",
+"t": "2026-10-23T14:11:00+02:00",
+"artist": "The Shins",
+"title": "The Rifle's Spiral"
+},
+{
+"id": "2026-10-23T14:05|Supershy feat. Roberta Flack|Feel Like Makin' Love",
+"t": "2026-10-23T14:05:00+02:00",
+"artist": "Supershy feat. Roberta Flack",
+"title": "Feel Like Makin' Love"
+},
 {
 "id": "2026-10-23T13:57|Tuvaband|Im Safely Passing in Time",
 "t": "2026-10-23T13:57:00+02:00",
@@ -8834,12 +8846,6 @@
 "t": "2026-10-16T14:23:00+02:00",
 "artist": "Ibeyi",
 "title": "Hurry Hurry"
-},
-{
-"id": "2026-10-16T14:20|Depeche Mode|Wagging Tongue",
-"t": "2026-10-16T14:20:00+02:00",
-"artist": "Depeche Mode",
-"title": "Wagging Tongue"
 }
 ],
 "cache": {
