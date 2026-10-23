@@ -1,5 +1,5 @@
 {
-"updated": "2026-10-23T18:56:20.702082+02:00",
+"updated": "2026-10-23T19:07:20.703640+02:00",
 "matcher": 4,
 "blocked_until": "2026-10-24T05:15:10.663779+02:00",
 "details": "51e4e36c2ea1",
@@ -3501,6 +3501,12 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-10-23T18:57|Sepalot|My Own Way",
+"t": "2026-10-23T18:57:00+02:00",
+"artist": "Sepalot",
+"title": "My Own Way"
+},
 {
 "id": "2026-10-23T17:57|Avalon Emerson|Astrology Poisoning",
 "t": "2026-10-23T17:57:00+02:00",
@@ -8858,18 +8864,6 @@
 "t": "2026-10-16T19:25:00+02:00",
 "artist": "The Big Moon",
 "title": "F.O.R.E.V.E.R"
-},
-{
-"id": "2026-10-16T19:05|Ghost Woman|The End of a Gun",
-"t": "2026-10-16T19:05:00+02:00",
-"artist": "Ghost Woman",
-"title": "The End of a Gun"
-},
-{
-"id": "2026-10-16T18:57|Jonathan Jeremiah|Kolkata Bear",
-"t": "2026-10-16T18:57:00+02:00",
-"artist": "Jonathan Jeremiah",
-"title": "Kolkata Bear"
 }
 ],
 "cache": {
@@ -8888,10 +8882,6 @@
 "jonathan jeremiah|kolkata bear": {
 "u": "spotify:track:6GVyNJOivLDoFeQ6hhttwb",
 "d": "2026-10-16T19:05:30.818847+02:00"
-},
-"ghost woman|the end of a gun": {
-"u": "spotify:track:0cow9NyrQyJvaFxmnWGyQq",
-"d": "2026-10-16T19:10:30.819571+02:00"
 },
 "the big moon|f o r e v e r": {
 "u": "spotify:track:0UaPOdi1O83vr1oTXaGqgx",
