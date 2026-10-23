@@ -1,5 +1,5 @@
 {
-"updated": "2026-10-23T15:38:20.676748+02:00",
+"updated": "2026-10-23T15:49:20.678206+02:00",
 "matcher": 4,
 "blocked_until": "2026-10-24T05:15:10.663779+02:00",
 "details": "51e4e36c2ea1",
@@ -3501,6 +3501,12 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-10-23T15:35|Isabelle Pabst|Vom Spaß",
+"t": "2026-10-23T15:35:00+02:00",
+"artist": "Isabelle Pabst",
+"title": "Vom Spaß"
+},
 {
 "id": "2026-10-23T15:32|DJ Friction|Could Heaven Ever Be Like This",
 "t": "2026-10-23T15:32:00+02:00",
@@ -8846,18 +8852,6 @@
 "t": "2026-10-16T15:52:00+02:00",
 "artist": "Sublime",
 "title": "What I Got"
-},
-{
-"id": "2026-10-16T15:45|Matt Berninger|Bonnet Of Pins (Radio-Edit)",
-"t": "2026-10-16T15:45:00+02:00",
-"artist": "Matt Berninger",
-"title": "Bonnet Of Pins (Radio-Edit)"
-},
-{
-"id": "2026-10-16T15:41|Bran Van 3000 feat. Curtis Mayfield|Astounded",
-"t": "2026-10-16T15:41:00+02:00",
-"artist": "Bran Van 3000 feat. Curtis Mayfield",
-"title": "Astounded"
 }
 ],
 "cache": {
