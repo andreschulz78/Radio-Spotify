@@ -1,12 +1,24 @@
 {
-"updated": "2026-10-23T05:26:10.274247+02:00",
+"updated": "2026-10-23T05:37:10.275195+02:00",
 "matcher": 4,
 "blocked_until": null,
 "details": "51e4e36c2ea1",
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAOIfzI6lqbBoLDaaqPbNkXX/jWNPfo",
+"snapshot": "AAAOWrbQDURhvR1ous8n0FzLr2NATtcT",
 "playlist": [
+[
+"2026-10-23T05:32|Joy Wellboy|Lay Down Your Blade",
+"spotify:track:30w3r2Qmz2AzULyjVhWWZy"
+],
+[
+"2026-10-23T05:27|Getdown Services|I Cant Die Like That",
+"spotify:track:1sz8JVpCkXEHr9QtK8Xlvw"
+],
+[
+"2026-10-23T05:24|Joy Crookes|Feet Don't Fail Me Now",
+"spotify:track:1GVkrFVc94CTjm9bdSmGjp"
+],
 [
 "2026-10-23T05:13|The Beatles|Eleanor Rigby",
 "spotify:track:6EOKwO6WaLal58MSsi6U4W"
@@ -212,12 +224,44 @@
 "spotify:track:5iLac5Ztb5WGrY7LsUYjpV"
 ],
 [
+"2026-10-22T14:46|Wanda|Salbei (Single Edit)",
+"spotify:track:1KTt6NGF0ZvnBtNBWTEBiU"
+],
+[
+"2026-10-22T14:42|White Lies|Am I Really Going To Die (Edit)",
+"spotify:track:0nhDAyyzpyDLdk531WAAs9"
+],
+[
+"2026-10-22T14:39|Sparklmami|No te vayas",
+"spotify:track:6BEubkVfewFOsd0LUwtb0C"
+],
+[
+"2026-10-22T14:34|Lydmor & Bon Homme|Dream Of Fire",
+"spotify:track:72PNVrCqm2SjdaCAXznZI5"
+],
+[
+"2026-10-22T14:30|Holybones|Saltywater",
+"spotify:track:0Flns2ijD0KVZN7e60FrpJ"
+],
+[
 "2026-10-22T14:25|Leon Bridges|Talk it over",
 "spotify:track:5Bdn8RyTqz4dV7F07EFBP5"
 ],
 [
+"2026-10-22T14:21|Tindersticks|This Fire Of Autumn",
+"spotify:track:0RyyGvF8j3pDpXPVrHhAda"
+],
+[
 "2026-10-22T14:17|The Big Moon|F.O.R.E.V.E.R",
 "spotify:track:0UaPOdi1O83vr1oTXaGqgx"
+],
+[
+"2026-10-22T14:09|The Bucketheads|The Bomb! (These Sounds Fall Into My Mind)",
+"spotify:track:0qQiqwzddwQmtoGcF3Uzm5"
+],
+[
+"2026-10-22T14:06|Nourished by Time|When The War Is Over",
+"spotify:track:6CSpmRlGT82RrGNJotD9gJ"
 ],
 [
 "2026-10-22T13:57|Lola Young|From Down Here (Radio Edit)",
@@ -228,16 +272,52 @@
 "spotify:track:1H89j9NLse1E0Kmjb3tzW6"
 ],
 [
+"2026-10-22T13:46|Mumford & Sons|I Will Wait",
+"spotify:track:4kbYevkszYmMhoQcwnR7cZ"
+],
+[
+"2026-10-22T13:42|Oasis|Stand By Me",
+"spotify:track:0zxHSBTEKdH8CI3auJ7Jyc"
+],
+[
+"2026-10-22T13:36|Joachim Pastor feat. Florence Bird|Wayfaring Stranger (Remix)",
+"spotify:track:1Km2VLlS5gsnhczafBjIcO"
+],
+[
 "2026-10-22T13:28|The Avalanches feat. Karen O|Blue Shadows",
 "spotify:track:5bN5To0VLbNBKQDzJ1Lk6c"
+],
+[
+"2026-10-22T13:21|TELL A ViSiON|OVER CONTROL",
+"spotify:track:6N3nFGbXSqxJL1PVdFOSGG"
+],
+[
+"2026-10-22T13:05|Joe Goddard feat. Barrie|Moments Die (Radio Edit)",
+"spotify:track:19DhgwtEahVgIKQmZNVs9Y"
 ],
 [
 "2026-10-22T12:52|Austra & Patrick Holland|Siren Reprise",
 "spotify:track:678wI419HyRL4qSTbXdyLu"
 ],
 [
+"2026-10-22T12:48|Fujiya & Miyagi|Personal Space",
+"spotify:track:72rqoQqBBnGrVnM57sjbV6"
+],
+[
+"2026-10-22T12:45|Einstürzende Neubauten|Am Landwehrkanal",
+"spotify:track:6IFqta78TOiidDCCwb4hbj"
+],
+[
+"2026-10-22T12:44|Rodriguez|Sugar Man",
+"spotify:track:17nOJOcPbcl4sKzM2yyYDp"
+],
+[
 "2026-10-22T12:40|Bonobo feat. Joy Crookes|Always on Your Side",
 "spotify:track:6jJTpzMquQLVuUkM2vVEIF"
+],
+[
+"2026-10-22T12:37|Joakim|Lonely Hearts",
+"spotify:track:2uI1QPCNfdzTEfPcZZXv1V"
 ],
 [
 "2026-10-22T12:34|Bear's Den feat. Jade Bird|Please Don't Hide Yourself Away",
@@ -3414,13 +3494,27 @@
 [
 "2026-10-16T05:39|Jordan Rakei|Enemies",
 "spotify:track:0X9GwAax0c0HPe3iIoDVW6"
-],
-[
-"2026-10-16T05:31|Hiss Golden Messenger|Standing In The Doorway",
-"spotify:track:2cGRLPEDAzuamgdynzu7Y1"
 ]
 ],
 "entries": [
+{
+"id": "2026-10-23T05:32|Joy Wellboy|Lay Down Your Blade",
+"t": "2026-10-23T05:32:00+02:00",
+"artist": "Joy Wellboy",
+"title": "Lay Down Your Blade"
+},
+{
+"id": "2026-10-23T05:27|Getdown Services|I Cant Die Like That",
+"t": "2026-10-23T05:27:00+02:00",
+"artist": "Getdown Services",
+"title": "I Cant Die Like That"
+},
+{
+"id": "2026-10-23T05:24|Joy Crookes|Feet Don't Fail Me Now",
+"t": "2026-10-23T05:24:00+02:00",
+"artist": "Joy Crookes",
+"title": "Feet Don't Fail Me Now"
+},
 {
 "id": "2026-10-23T05:18|Tom Liwa|Für die linke Spur zu langsam",
 "t": "2026-10-23T05:18:00+02:00",
@@ -8736,18 +8830,6 @@
 "t": "2026-10-16T05:39:00+02:00",
 "artist": "Jordan Rakei",
 "title": "Enemies"
-},
-{
-"id": "2026-10-16T05:36|United Balls|Pogo in Togo",
-"t": "2026-10-16T05:36:00+02:00",
-"artist": "United Balls",
-"title": "Pogo in Togo"
-},
-{
-"id": "2026-10-16T05:31|Hiss Golden Messenger|Standing In The Doorway",
-"t": "2026-10-16T05:31:00+02:00",
-"artist": "Hiss Golden Messenger",
-"title": "Standing In The Doorway"
 }
 ],
 "cache": {
@@ -8757,11 +8839,7 @@
 },
 "tegan sara|back in your head": {
 "u": null,
-"d": "2026-10-19T16:00:01.292551+02:00"
-},
-"united balls|pogo in togo": {
-"u": null,
-"d": "2026-10-19T16:00:01.292551+02:00"
+"d": "2026-10-23T05:34:10.274936+02:00"
 },
 "django django ft max pope|feel alright": {
 "u": "spotify:track:1TU9gJekTIXiu3RVb9wrzN",
@@ -8889,7 +8967,7 @@
 },
 "fichtenholz|akryl": {
 "u": null,
-"d": "2026-10-20T05:17:27.501965+02:00"
+"d": "2026-10-23T05:34:10.274936+02:00"
 },
 "michael kiwanuka|sing": {
 "u": "spotify:track:4dTf6qu0IVqLROkGCoM2yt",
@@ -9677,7 +9755,7 @@
 },
 "maps|a m a": {
 "u": null,
-"d": "2026-10-19T13:36:01.278168+02:00"
+"d": "2026-10-23T05:33:10.274854+02:00"
 },
 "hope tala|party sickness": {
 "u": "spotify:track:06DcUBxCvBAqvWgpExtbLE",
@@ -9881,7 +9959,7 @@
 },
 "deichkind|fresh ist vorne": {
 "u": null,
-"d": "2026-10-20T05:15:27.501754+02:00"
+"d": "2026-10-23T05:33:10.274854+02:00"
 },
 "can|spoon": {
 "u": "spotify:track:4bxRXojTBYrk1dbepAxRlb",
@@ -11154,6 +11232,86 @@
 "dillinger|cocaine in my brain": {
 "u": "spotify:track:5iLac5Ztb5WGrY7LsUYjpV",
 "d": "2026-10-23T05:26:10.274247+02:00"
+},
+"wanda|salbei single edit": {
+"u": "spotify:track:1KTt6NGF0ZvnBtNBWTEBiU",
+"d": "2026-10-23T05:27:10.274336+02:00"
+},
+"white lies|am i really going to die edit": {
+"u": "spotify:track:0nhDAyyzpyDLdk531WAAs9",
+"d": "2026-10-23T05:27:10.274336+02:00"
+},
+"sparklmami|no te vayas": {
+"u": "spotify:track:6BEubkVfewFOsd0LUwtb0C",
+"d": "2026-10-23T05:27:10.274336+02:00"
+},
+"lydmor bon homme|dream of fire": {
+"u": "spotify:track:72PNVrCqm2SjdaCAXznZI5",
+"d": "2026-10-23T05:28:10.274420+02:00"
+},
+"holybones|saltywater": {
+"u": "spotify:track:0Flns2ijD0KVZN7e60FrpJ",
+"d": "2026-10-23T05:28:10.274420+02:00"
+},
+"tindersticks|this fire of autumn": {
+"u": "spotify:track:0RyyGvF8j3pDpXPVrHhAda",
+"d": "2026-10-23T05:28:10.274420+02:00"
+},
+"the bucketheads|the bomb these sounds fall into my mind": {
+"u": "spotify:track:0qQiqwzddwQmtoGcF3Uzm5",
+"d": "2026-10-23T05:29:10.274509+02:00"
+},
+"nourished by time|when the war is over": {
+"u": "spotify:track:6CSpmRlGT82RrGNJotD9gJ",
+"d": "2026-10-23T05:29:10.274509+02:00"
+},
+"mumford sons|i will wait": {
+"u": "spotify:track:4kbYevkszYmMhoQcwnR7cZ",
+"d": "2026-10-23T05:29:10.274509+02:00"
+},
+"oasis|stand by me": {
+"u": "spotify:track:0zxHSBTEKdH8CI3auJ7Jyc",
+"d": "2026-10-23T05:30:10.274591+02:00"
+},
+"joachim pastor feat florence bird|wayfaring stranger remix": {
+"u": "spotify:track:1Km2VLlS5gsnhczafBjIcO",
+"d": "2026-10-23T05:30:10.274591+02:00"
+},
+"totally enormous extinct dinosaurs|the distance edit": {
+"u": null,
+"d": "2026-10-23T05:30:10.274591+02:00"
+},
+"joy crookes|feet don t fail me now": {
+"u": "spotify:track:1GVkrFVc94CTjm9bdSmGjp",
+"d": "2026-10-23T05:31:10.274684+02:00"
+},
+"tell a vision|over control": {
+"u": "spotify:track:6N3nFGbXSqxJL1PVdFOSGG",
+"d": "2026-10-23T05:31:10.274684+02:00"
+},
+"joe goddard feat barrie|moments die radio edit": {
+"u": "spotify:track:19DhgwtEahVgIKQmZNVs9Y",
+"d": "2026-10-23T05:31:10.274684+02:00"
+},
+"fujiya miyagi|personal space": {
+"u": "spotify:track:72rqoQqBBnGrVnM57sjbV6",
+"d": "2026-10-23T05:32:10.274767+02:00"
+},
+"einsturzende neubauten|am landwehrkanal": {
+"u": "spotify:track:6IFqta78TOiidDCCwb4hbj",
+"d": "2026-10-23T05:32:10.274767+02:00"
+},
+"rodriguez|sugar man": {
+"u": "spotify:track:17nOJOcPbcl4sKzM2yyYDp",
+"d": "2026-10-23T05:32:10.274767+02:00"
+},
+"joakim|lonely hearts": {
+"u": "spotify:track:2uI1QPCNfdzTEfPcZZXv1V",
+"d": "2026-10-23T05:33:10.274854+02:00"
+},
+"joy wellboy|lay down your blade": {
+"u": "spotify:track:30w3r2Qmz2AzULyjVhWWZy",
+"d": "2026-10-23T05:36:10.275106+02:00"
 }
 }
 }
