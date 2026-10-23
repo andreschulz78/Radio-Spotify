@@ -1,12 +1,20 @@
 {
-"updated": "2026-10-23T07:49:19.770330+02:00",
+"updated": "2026-10-23T08:00:19.771786+02:00",
 "matcher": 4,
 "blocked_until": null,
 "details": "51e4e36c2ea1",
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAPk3V8eQrKWiL2sa55NE6d2jBmfQuU",
+"snapshot": "AAAProA/ZupsU1+Z5KoaCoTghTU3lf6v",
 "playlist": [
+[
+"2026-10-23T07:50|Danger Dan|Dass es hier so schön ist",
+"spotify:track:1HGb9YabpkJHq6i8A1HY6n"
+],
+[
+"2026-10-23T07:45|Gena feat. Liv.e, Karriem Riggins|Circlesz",
+"spotify:track:5jFt1do9B6cGoM0vhErWHO"
+],
 [
 "2026-10-23T07:35|Crowded House|Weather With You",
 "spotify:track:6tXnRSvuNgOq4QcxpIN54r"
@@ -3482,13 +3490,21 @@
 [
 "2026-10-16T08:04|Travis|Walking In The Sun",
 "spotify:track:2Ca6NK93f4betnPpqTDYGC"
-],
-[
-"2026-10-16T07:55|Interpol|Iron City",
-"spotify:track:58N4hiH9cKYLkHEhzAdIP1"
 ]
 ],
 "entries": [
+{
+"id": "2026-10-23T07:50|Danger Dan|Dass es hier so schön ist",
+"t": "2026-10-23T07:50:00+02:00",
+"artist": "Danger Dan",
+"title": "Dass es hier so schön ist"
+},
+{
+"id": "2026-10-23T07:45|Gena feat. Liv.e, Karriem Riggins|Circlesz",
+"t": "2026-10-23T07:45:00+02:00",
+"artist": "Gena feat. Liv.e, Karriem Riggins",
+"title": "Circlesz"
+},
 {
 "id": "2026-10-23T07:35|Crowded House|Weather With You",
 "t": "2026-10-23T07:35:00+02:00",
@@ -8810,12 +8826,6 @@
 "t": "2026-10-16T08:04:00+02:00",
 "artist": "Travis",
 "title": "Walking In The Sun"
-},
-{
-"id": "2026-10-16T07:55|Interpol|Iron City",
-"t": "2026-10-16T07:55:00+02:00",
-"artist": "Interpol",
-"title": "Iron City"
 }
 ],
 "cache": {
@@ -11350,6 +11360,14 @@
 "crowded house|weather with you": {
 "u": "spotify:track:6tXnRSvuNgOq4QcxpIN54r",
 "d": "2026-10-23T07:40:19.769011+02:00"
+},
+"gena feat liv e karriem riggins|circlesz": {
+"u": "spotify:track:5jFt1do9B6cGoM0vhErWHO",
+"d": "2026-10-23T07:51:19.770602+02:00"
+},
+"danger dan|dass es hier so schon ist": {
+"u": "spotify:track:1HGb9YabpkJHq6i8A1HY6n",
+"d": "2026-10-23T07:56:19.771276+02:00"
 }
 }
 }
