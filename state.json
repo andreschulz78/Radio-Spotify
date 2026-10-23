@@ -1,12 +1,20 @@
 {
-"updated": "2026-10-23T08:00:19.771786+02:00",
+"updated": "2026-10-23T08:11:19.773101+02:00",
 "matcher": 4,
 "blocked_until": null,
 "details": "51e4e36c2ea1",
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAProA/ZupsU1+Z5KoaCoTghTU3lf6v",
+"snapshot": "AAAPydBfKygsfbKb6v+ax0+k1yWJkK54",
 "playlist": [
+[
+"2026-10-23T08:05|Jamiroquai|Love Foolosophy",
+"spotify:track:0upgxxew2mVAEctrz08jnf"
+],
+[
+"2026-10-23T07:56|Air|Mer Du Japon",
+"spotify:track:6wtwuCZTJg6rP0p82vzLPb"
+],
 [
 "2026-10-23T07:50|Danger Dan|Dass es hier so schön ist",
 "spotify:track:1HGb9YabpkJHq6i8A1HY6n"
@@ -3486,13 +3494,21 @@
 [
 "2026-10-16T08:13|Keshavara|Moondram Sevi",
 "spotify:track:0jpeIdUkge4S8dMS0nkZ6r"
-],
-[
-"2026-10-16T08:04|Travis|Walking In The Sun",
-"spotify:track:2Ca6NK93f4betnPpqTDYGC"
 ]
 ],
 "entries": [
+{
+"id": "2026-10-23T08:05|Jamiroquai|Love Foolosophy",
+"t": "2026-10-23T08:05:00+02:00",
+"artist": "Jamiroquai",
+"title": "Love Foolosophy"
+},
+{
+"id": "2026-10-23T07:56|Air|Mer Du Japon",
+"t": "2026-10-23T07:56:00+02:00",
+"artist": "Air",
+"title": "Mer Du Japon"
+},
 {
 "id": "2026-10-23T07:50|Danger Dan|Dass es hier so schön ist",
 "t": "2026-10-23T07:50:00+02:00",
@@ -8820,12 +8836,6 @@
 "t": "2026-10-16T08:13:00+02:00",
 "artist": "Keshavara",
 "title": "Moondram Sevi"
-},
-{
-"id": "2026-10-16T08:04|Travis|Walking In The Sun",
-"t": "2026-10-16T08:04:00+02:00",
-"artist": "Travis",
-"title": "Walking In The Sun"
 }
 ],
 "cache": {
@@ -11368,6 +11378,14 @@
 "danger dan|dass es hier so schon ist": {
 "u": "spotify:track:1HGb9YabpkJHq6i8A1HY6n",
 "d": "2026-10-23T07:56:19.771276+02:00"
+},
+"air|mer du japon": {
+"u": "spotify:track:6wtwuCZTJg6rP0p82vzLPb",
+"d": "2026-10-23T08:02:19.772007+02:00"
+},
+"jamiroquai|love foolosophy": {
+"u": "spotify:track:0upgxxew2mVAEctrz08jnf",
+"d": "2026-10-23T08:11:19.773101+02:00"
 }
 }
 }
