@@ -1,5 +1,5 @@
 {
-"updated": "2026-10-24T10:25:52.783205+02:00",
+"updated": "2026-10-24T10:36:52.784888+02:00",
 "matcher": 4,
 "blocked_until": "2026-10-25T05:15:46.772432+01:00",
 "details": "51e4e36c2ea1",
@@ -3465,6 +3465,24 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-10-24T10:31|Smidley feat. Lucy Dacus|Capstone",
+"t": "2026-10-24T10:31:00+02:00",
+"artist": "Smidley feat. Lucy Dacus",
+"title": "Capstone"
+},
+{
+"id": "2026-10-24T10:24|Anika|Walk Away",
+"t": "2026-10-24T10:24:00+02:00",
+"artist": "Anika",
+"title": "Walk Away"
+},
+{
+"id": "2026-10-24T10:19|Primal Scream|Come Together",
+"t": "2026-10-24T10:19:00+02:00",
+"artist": "Primal Scream",
+"title": "Come Together"
+},
 {
 "id": "2026-10-24T10:09|L'Rain|Elmyra (Edit)",
 "t": "2026-10-24T10:09:00+02:00",
@@ -8750,18 +8768,6 @@
 "t": "2026-10-17T10:46:00+02:00",
 "artist": "Angel Olsen",
 "title": "Eyes Without A Face"
-},
-{
-"id": "2026-10-17T10:35|Spiller|Cry Baby (Remix)",
-"t": "2026-10-17T10:35:00+02:00",
-"artist": "Spiller",
-"title": "Cry Baby (Remix)"
-},
-{
-"id": "2026-10-17T10:32|Jungle|Someday, Somewhere",
-"t": "2026-10-17T10:32:00+02:00",
-"artist": "Jungle",
-"title": "Someday, Somewhere"
 }
 ],
 "cache": {
@@ -8940,10 +8946,6 @@
 "angel olsen|eyes without a face": {
 "u": "spotify:track:48TH4snarSvpIF6559Gjry",
 "d": "2026-10-17T13:50:55.045059+02:00"
-},
-"spiller|cry baby remix": {
-"u": null,
-"d": "2026-10-24T05:37:43.687288+02:00"
 },
 "jungle|someday somewhere": {
 "u": "spotify:track:20FqWsyuUaQTU5tk4nP6eN",
