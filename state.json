@@ -1,12 +1,20 @@
 {
-"updated": "2026-10-24T08:47:52.769520+02:00",
+"updated": "2026-10-24T08:58:52.770912+02:00",
 "matcher": 4,
 "blocked_until": "2026-10-24T05:15:10.663779+02:00",
 "details": "51e4e36c2ea1",
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAASrNymRBUi5MitIm6f0iMPzKsTnkjJ",
+"snapshot": "AAASvts5mz2GziC46afZ3S5OGlftH9Jb",
 "playlist": [
+[
+"2026-10-24T08:49|Ásgeir|Against The Current",
+"spotify:track:5udQbIlHLaD6QRDJmv0bjX"
+],
+[
+"2026-10-24T08:46|Keshavara|Moondram Sevi",
+"spotify:track:0jpeIdUkge4S8dMS0nkZ6r"
+],
 [
 "2026-10-24T08:38|Morcheeba|Wonders Never Cease",
 "spotify:track:4SvdVgwanj1x89fRSYfqk2"
@@ -3458,17 +3466,21 @@
 [
 "2026-10-17T09:04|Ethan French|reckless and arranged - day 56 (extended)",
 "spotify:track:6H2ZSdZkYYW63UM6K2GcFh"
-],
-[
-"2026-10-17T08:57|N.E.R.D.|She Wants To Move",
-"spotify:track:3CQQSBe4GOxnkHpz9Czx3K"
-],
-[
-"2026-10-17T08:50|Courtney Barnett|Wonder",
-"spotify:track:5QraYxwAgy8LloNZeIiuQ5"
 ]
 ],
 "entries": [
+{
+"id": "2026-10-24T08:49|Ásgeir|Against The Current",
+"t": "2026-10-24T08:49:00+02:00",
+"artist": "Ásgeir",
+"title": "Against The Current"
+},
+{
+"id": "2026-10-24T08:46|Keshavara|Moondram Sevi",
+"t": "2026-10-24T08:46:00+02:00",
+"artist": "Keshavara",
+"title": "Moondram Sevi"
+},
 {
 "id": "2026-10-24T08:38|Morcheeba|Wonders Never Cease",
 "t": "2026-10-24T08:38:00+02:00",
@@ -8766,18 +8778,6 @@
 "t": "2026-10-17T09:04:00+02:00",
 "artist": "Ethan French",
 "title": "reckless and arranged - day 56 (extended)"
-},
-{
-"id": "2026-10-17T08:57|N.E.R.D.|She Wants To Move",
-"t": "2026-10-17T08:57:00+02:00",
-"artist": "N.E.R.D.",
-"title": "She Wants To Move"
-},
-{
-"id": "2026-10-17T08:50|Courtney Barnett|Wonder",
-"t": "2026-10-17T08:50:00+02:00",
-"artist": "Courtney Barnett",
-"title": "Wonder"
 }
 ],
 "cache": {
@@ -8884,10 +8884,6 @@
 "courtney barnett|wonder": {
 "u": "spotify:track:5QraYxwAgy8LloNZeIiuQ5",
 "d": "2026-10-17T08:56:45.060525+02:00"
-},
-"n e r d|she wants to move": {
-"u": "spotify:track:3CQQSBe4GOxnkHpz9Czx3K",
-"d": "2026-10-17T09:01:45.061175+02:00"
 },
 "ethan french|reckless and arranged day 56 extended": {
 "u": "spotify:track:6H2ZSdZkYYW63UM6K2GcFh",
@@ -11496,6 +11492,10 @@
 "morcheeba|wonders never cease": {
 "u": "spotify:track:4SvdVgwanj1x89fRSYfqk2",
 "d": "2026-10-24T08:47:52.769520+02:00"
+},
+"asgeir|against the current": {
+"u": "spotify:track:5udQbIlHLaD6QRDJmv0bjX",
+"d": "2026-10-24T08:56:52.770656+02:00"
 }
 }
 }
