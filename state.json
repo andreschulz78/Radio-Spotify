@@ -1,12 +1,20 @@
 {
-"updated": "2026-10-24T07:21:52.758843+02:00",
+"updated": "2026-10-24T07:31:52.760138+02:00",
 "matcher": 4,
 "blocked_until": "2026-10-24T05:15:10.663779+02:00",
 "details": "51e4e36c2ea1",
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAARuQyMIXs0/dd1P0ajFk6EbIe5wc2b",
+"snapshot": "AAAR3b4YCEpSwRcnpsp+6b7ZAhjcqL7T",
 "playlist": [
+[
+"2026-10-24T07:19|Theophilus London feat. Ariel Pink|Revenge",
+"spotify:track:4WJgcVQ3oAtvlWuB2KgYi0"
+],
+[
+"2026-10-24T07:15|Lola Young|From Down Here (Radio Edit)",
+"spotify:track:7Hg7l5aOygIHuaNDVFp3ox"
+],
 [
 "2026-10-24T07:10|Agnes Obel|Laymelli (Edit)",
 "spotify:track:0VzMHjWcs2P24LHLekZ8Qa"
@@ -3462,17 +3470,21 @@
 [
 "2026-10-17T07:35|Ibeyi|Hurry Hurry",
 "spotify:track:4BGA7VW330Eu1kaFNi98cG"
-],
-[
-"2026-10-17T07:31|Eels|Fresh Feeling",
-"spotify:track:7iNjxpUUFTG3TvssgrgKwZ"
-],
-[
-"2026-10-17T07:23|Vince Staples|Cotton",
-"spotify:track:2Dh62ulfuwM2lOWPy4TLEb"
 ]
 ],
 "entries": [
+{
+"id": "2026-10-24T07:19|Theophilus London feat. Ariel Pink|Revenge",
+"t": "2026-10-24T07:19:00+02:00",
+"artist": "Theophilus London feat. Ariel Pink",
+"title": "Revenge"
+},
+{
+"id": "2026-10-24T07:15|Lola Young|From Down Here (Radio Edit)",
+"t": "2026-10-24T07:15:00+02:00",
+"artist": "Lola Young",
+"title": "From Down Here (Radio Edit)"
+},
 {
 "id": "2026-10-24T07:10|Agnes Obel|Laymelli (Edit)",
 "t": "2026-10-24T07:10:00+02:00",
@@ -8770,18 +8782,6 @@
 "t": "2026-10-17T07:35:00+02:00",
 "artist": "Ibeyi",
 "title": "Hurry Hurry"
-},
-{
-"id": "2026-10-17T07:31|Eels|Fresh Feeling",
-"t": "2026-10-17T07:31:00+02:00",
-"artist": "Eels",
-"title": "Fresh Feeling"
-},
-{
-"id": "2026-10-17T07:23|Vince Staples|Cotton",
-"t": "2026-10-17T07:23:00+02:00",
-"artist": "Vince Staples",
-"title": "Cotton"
 }
 ],
 "cache": {
@@ -8852,10 +8852,6 @@
 "vince staples|cotton": {
 "u": "spotify:track:2Dh62ulfuwM2lOWPy4TLEb",
 "d": "2026-10-17T07:26:45.048871+02:00"
-},
-"eels|fresh feeling": {
-"u": "spotify:track:7iNjxpUUFTG3TvssgrgKwZ",
-"d": "2026-10-17T07:36:45.050203+02:00"
 },
 "ibeyi|hurry hurry": {
 "u": "spotify:track:4BGA7VW330Eu1kaFNi98cG",
@@ -11492,6 +11488,10 @@
 "kt tunstall|black horse the cherry tree": {
 "u": "spotify:track:0qAMjeQFyd1qD0LDiV8gWp",
 "d": "2026-10-24T07:16:52.758253+02:00"
+},
+"theophilus london feat ariel pink|revenge": {
+"u": "spotify:track:4WJgcVQ3oAtvlWuB2KgYi0",
+"d": "2026-10-24T07:26:52.759512+02:00"
 }
 }
 }
