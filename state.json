@@ -1,5 +1,5 @@
 {
-"updated": "2026-10-24T11:09:52.789603+02:00",
+"updated": "2026-10-24T11:20:52.790977+02:00",
 "matcher": 4,
 "blocked_until": "2026-10-25T05:15:46.772432+01:00",
 "details": "51e4e36c2ea1",
@@ -3465,6 +3465,18 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-10-24T11:08|Maya Jane Coles feat. Kim Ann Foxman|Burning Bright",
+"t": "2026-10-24T11:08:00+02:00",
+"artist": "Maya Jane Coles feat. Kim Ann Foxman",
+"title": "Burning Bright"
+},
+{
+"id": "2026-10-24T11:05|The Avalanches feat. Karen O|Blue Shadows",
+"t": "2026-10-24T11:05:00+02:00",
+"artist": "The Avalanches feat. Karen O",
+"title": "Blue Shadows"
+},
 {
 "id": "2026-10-24T10:55|Eagles|Hotel California",
 "t": "2026-10-24T10:55:00+02:00",
@@ -8756,12 +8768,6 @@
 "t": "2026-10-17T11:23:00+02:00",
 "artist": "Underworld",
 "title": "Beautiful Burnout"
-},
-{
-"id": "2026-10-17T11:17|Heaven 17|Let Me Go",
-"t": "2026-10-17T11:17:00+02:00",
-"artist": "Heaven 17",
-"title": "Let Me Go"
 }
 ],
 "cache": {
@@ -8915,10 +8921,6 @@
 },
 "underworld|beautiful burnout": {
 "u": "spotify:track:1I61h0TNyzE86dx1tZzj3b",
-"d": "2026-10-17T13:48:55.044811+02:00"
-},
-"heaven 17|let me go": {
-"u": "spotify:track:2VpWQNy9Ywa6rIPX4l54A2",
 "d": "2026-10-17T13:48:55.044811+02:00"
 },
 "bonobo feat joy crookes|always on your side": {
