@@ -1,5 +1,5 @@
 {
-"updated": "2026-10-24T11:31:52.792473+02:00",
+"updated": "2026-10-24T11:42:52.793897+02:00",
 "matcher": 4,
 "blocked_until": "2026-10-25T05:15:46.772432+01:00",
 "details": "51e4e36c2ea1",
@@ -3465,6 +3465,18 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-10-24T11:35|Lo Moon|Loveless",
+"t": "2026-10-24T11:35:00+02:00",
+"artist": "Lo Moon",
+"title": "Loveless"
+},
+{
+"id": "2026-10-24T11:31|MorMor feat. Celeste|Like Heaven",
+"t": "2026-10-24T11:31:00+02:00",
+"artist": "MorMor feat. Celeste",
+"title": "Like Heaven"
+},
 {
 "id": "2026-10-24T11:25|Boards Of Canada|Prophecy At 1420 MHz (Edit)",
 "t": "2026-10-24T11:25:00+02:00",
@@ -8768,12 +8780,6 @@
 "t": "2026-10-17T11:44:00+02:00",
 "artist": "Boards of Canada",
 "title": "Roygbiv"
-},
-{
-"id": "2026-10-17T11:35|Kelela|the bridge (feat. PinkPantheress)",
-"t": "2026-10-17T11:35:00+02:00",
-"artist": "Kelela",
-"title": "the bridge (feat. PinkPantheress)"
 }
 ],
 "cache": {
