@@ -1,5 +1,5 @@
 {
-"updated": "2026-10-24T09:41:52.776584+02:00",
+"updated": "2026-10-24T09:52:52.778203+02:00",
 "matcher": 4,
 "blocked_until": "2026-10-25T05:15:46.772432+01:00",
 "details": "51e4e36c2ea1",
@@ -3465,6 +3465,12 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-10-24T09:37|Cocteau Twins|Lorelei",
+"t": "2026-10-24T09:37:00+02:00",
+"artist": "Cocteau Twins",
+"title": "Lorelei"
+},
 {
 "id": "2026-10-24T09:33|Vince Staples|Cotton",
 "t": "2026-10-24T09:33:00+02:00",
@@ -8756,24 +8762,6 @@
 "t": "2026-10-17T09:57:00+02:00",
 "artist": "Nihils",
 "title": "Lavender"
-},
-{
-"id": "2026-10-17T09:51|Getdown Services|I Cant Die Like That",
-"t": "2026-10-17T09:51:00+02:00",
-"artist": "Getdown Services",
-"title": "I Cant Die Like That"
-},
-{
-"id": "2026-10-17T09:49|Mother Soki|Thicken",
-"t": "2026-10-17T09:49:00+02:00",
-"artist": "Mother Soki",
-"title": "Thicken"
-},
-{
-"id": "2026-10-17T09:45|Villagers|Sweet Saviour",
-"t": "2026-10-17T09:45:00+02:00",
-"artist": "Villagers",
-"title": "Sweet Saviour"
 }
 ],
 "cache": {
@@ -8889,16 +8877,8 @@
 "u": "spotify:track:0ZirVpVEx943xdUD9bivHe",
 "d": "2026-10-17T09:41:45.066553+02:00"
 },
-"villagers|sweet saviour": {
-"u": "spotify:track:2eDH8J52FuZnVGQaYjmGOw",
-"d": "2026-10-17T09:51:45.067985+02:00"
-},
 "getdown services|i cant die like that": {
 "u": "spotify:track:1sz8JVpCkXEHr9QtK8Xlvw",
-"d": "2026-10-17T09:56:45.068668+02:00"
-},
-"mother soki|thicken": {
-"u": "spotify:track:1uQYHgPrjPBYG1d0D4RoTD",
 "d": "2026-10-17T09:56:45.068668+02:00"
 },
 "nihils|lavender": {
