@@ -1,5 +1,5 @@
 {
-"updated": "2026-10-24T22:00:10.405974+02:00",
+"updated": "2026-10-24T22:10:10.407215+02:00",
 "matcher": 4,
 "blocked_until": "2026-10-25T05:15:46.772432+01:00",
 "details": "51e4e36c2ea1",
@@ -3465,6 +3465,24 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-10-24T22:06|M83|Midnight City",
+"t": "2026-10-24T22:06:00+02:00",
+"artist": "M83",
+"title": "Midnight City"
+},
+{
+"id": "2026-10-24T22:03|Justice, Tame Impala, SZA, GTA 6, King Gizzard & The Lizzard Wizard|Flower In A Hurricane",
+"t": "2026-10-24T22:03:00+02:00",
+"artist": "Justice, Tame Impala, SZA, GTA 6, King Gizzard & The Lizzard Wizard",
+"title": "Flower In A Hurricane"
+},
+{
+"id": "2026-10-24T21:58|Angelo Badalamenti|Twin Peaks Theme",
+"t": "2026-10-24T21:58:00+02:00",
+"artist": "Angelo Badalamenti",
+"title": "Twin Peaks Theme"
+},
 {
 "id": "2026-10-24T21:51|Pineapple Thief, The|Scattering Like Flies",
 "t": "2026-10-24T21:51:00+02:00",
