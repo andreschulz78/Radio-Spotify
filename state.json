@@ -1,5 +1,5 @@
 {
-"updated": "2026-10-24T09:20:52.773642+02:00",
+"updated": "2026-10-24T09:30:52.774987+02:00",
 "matcher": 4,
 "blocked_until": "2026-10-25T05:15:46.772432+01:00",
 "details": "51e4e36c2ea1",
@@ -3465,6 +3465,12 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-10-24T09:25|Sugarhill Gang|Rapper's Delight",
+"t": "2026-10-24T09:25:00+02:00",
+"artist": "Sugarhill Gang",
+"title": "Rapper's Delight"
+},
 {
 "id": "2026-10-24T09:11|Austra & Patrick Holland|Siren Reprise",
 "t": "2026-10-24T09:11:00+02:00",
@@ -8774,12 +8780,6 @@
 "t": "2026-10-17T09:31:00+02:00",
 "artist": "Gerry Read feat. Gregor",
 "title": "Taking All My Clothes Off"
-},
-{
-"id": "2026-10-17T09:22|Loma|How It Starts (Radio Edit)",
-"t": "2026-10-17T09:22:00+02:00",
-"artist": "Loma",
-"title": "How It Starts (Radio Edit)"
 }
 ],
 "cache": {
@@ -8890,10 +8890,6 @@
 "ethan french|reckless and arranged day 56 extended": {
 "u": "spotify:track:6H2ZSdZkYYW63UM6K2GcFh",
 "d": "2026-10-17T09:11:45.062586+02:00"
-},
-"loma|how it starts radio edit": {
-"u": "spotify:track:72G1uutjkmbaW6XJR6bfyH",
-"d": "2026-10-17T09:26:45.064566+02:00"
 },
 "gerry read feat gregor|taking all my clothes off": {
 "u": "spotify:track:0a1BTzQAc7NuYreRDWMV63",
