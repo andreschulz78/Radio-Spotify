@@ -1,5 +1,5 @@
 {
-"updated": "2026-10-24T10:36:52.784888+02:00",
+"updated": "2026-10-24T10:47:52.786550+02:00",
 "matcher": 4,
 "blocked_until": "2026-10-25T05:15:46.772432+01:00",
 "details": "51e4e36c2ea1",
@@ -3465,6 +3465,12 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-10-24T10:35|Automatic|Mercury",
+"t": "2026-10-24T10:35:00+02:00",
+"artist": "Automatic",
+"title": "Mercury"
+},
 {
 "id": "2026-10-24T10:31|Smidley feat. Lucy Dacus|Capstone",
 "t": "2026-10-24T10:31:00+02:00",
@@ -8762,12 +8768,6 @@
 "t": "2026-10-17T10:51:00+02:00",
 "artist": "JGrrey feat. Bel Cobain",
 "title": "Take My Hand"
-},
-{
-"id": "2026-10-17T10:46|Angel Olsen|Eyes Without A Face",
-"t": "2026-10-17T10:46:00+02:00",
-"artist": "Angel Olsen",
-"title": "Eyes Without A Face"
 }
 ],
 "cache": {
@@ -8942,10 +8942,6 @@
 "jgrrey feat bel cobain|take my hand": {
 "u": "spotify:track:0i4SCqKHjbBrPjUX4RPRq3",
 "d": "2026-10-17T13:49:55.044933+02:00"
-},
-"angel olsen|eyes without a face": {
-"u": "spotify:track:48TH4snarSvpIF6559Gjry",
-"d": "2026-10-17T13:50:55.045059+02:00"
 },
 "jungle|someday somewhere": {
 "u": "spotify:track:20FqWsyuUaQTU5tk4nP6eN",
