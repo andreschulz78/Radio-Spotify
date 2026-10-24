@@ -1,12 +1,20 @@
 {
-"updated": "2026-10-24T07:31:52.760138+02:00",
+"updated": "2026-10-24T07:42:52.761497+02:00",
 "matcher": 4,
 "blocked_until": "2026-10-24T05:15:10.663779+02:00",
 "details": "51e4e36c2ea1",
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAR3b4YCEpSwRcnpsp+6b7ZAhjcqL7T",
+"snapshot": "AAASAWVEO1LIH/oM1u0CE1eE6CT0q//t",
 "playlist": [
+[
+"2026-10-24T07:34|Chinese American Bear|Dance Dance Dance (Edit)",
+"spotify:track:3Ct3ro3LnsTHjeRVPNSG5s"
+],
+[
+"2026-10-24T07:27|Jean-Michel Jarre|Oxygene 4",
+"spotify:track:5jcOqevntlFikknib1ioyc"
+],
 [
 "2026-10-24T07:19|Theophilus London feat. Ariel Pink|Revenge",
 "spotify:track:4WJgcVQ3oAtvlWuB2KgYi0"
@@ -3462,17 +3470,21 @@
 [
 "2026-10-17T07:44|Sydney Minsky Sargeant|I Don't Wanna",
 "spotify:track:4hHizy49Hzl7QfP3mGVJOY"
-],
-[
-"2026-10-17T07:38|Balu Brigada|Backseat (Edit)",
-"spotify:track:7yT4NJt5rgmVoMJMGPULcj"
-],
-[
-"2026-10-17T07:35|Ibeyi|Hurry Hurry",
-"spotify:track:4BGA7VW330Eu1kaFNi98cG"
 ]
 ],
 "entries": [
+{
+"id": "2026-10-24T07:34|Chinese American Bear|Dance Dance Dance (Edit)",
+"t": "2026-10-24T07:34:00+02:00",
+"artist": "Chinese American Bear",
+"title": "Dance Dance Dance (Edit)"
+},
+{
+"id": "2026-10-24T07:27|Jean-Michel Jarre|Oxygene 4",
+"t": "2026-10-24T07:27:00+02:00",
+"artist": "Jean-Michel Jarre",
+"title": "Oxygene 4"
+},
 {
 "id": "2026-10-24T07:19|Theophilus London feat. Ariel Pink|Revenge",
 "t": "2026-10-24T07:19:00+02:00",
@@ -8770,18 +8782,6 @@
 "t": "2026-10-17T07:44:00+02:00",
 "artist": "Sydney Minsky Sargeant",
 "title": "I Don't Wanna"
-},
-{
-"id": "2026-10-17T07:38|Balu Brigada|Backseat (Edit)",
-"t": "2026-10-17T07:38:00+02:00",
-"artist": "Balu Brigada",
-"title": "Backseat (Edit)"
-},
-{
-"id": "2026-10-17T07:35|Ibeyi|Hurry Hurry",
-"t": "2026-10-17T07:35:00+02:00",
-"artist": "Ibeyi",
-"title": "Hurry Hurry"
 }
 ],
 "cache": {
@@ -11492,6 +11492,10 @@
 "theophilus london feat ariel pink|revenge": {
 "u": "spotify:track:4WJgcVQ3oAtvlWuB2KgYi0",
 "d": "2026-10-24T07:26:52.759512+02:00"
+},
+"jean michel jarre|oxygene 4": {
+"u": "spotify:track:5jcOqevntlFikknib1ioyc",
+"d": "2026-10-24T07:36:52.760771+02:00"
 }
 }
 }
