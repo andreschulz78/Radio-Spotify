@@ -1,12 +1,20 @@
 {
-"updated": "2026-10-24T07:42:52.761497+02:00",
+"updated": "2026-10-24T07:53:52.762821+02:00",
 "matcher": 4,
 "blocked_until": "2026-10-24T05:15:10.663779+02:00",
 "details": "51e4e36c2ea1",
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAASAWVEO1LIH/oM1u0CE1eE6CT0q//t",
+"snapshot": "AAASJQz+qKTx6GPYDqKO5+uJvf1009Gs",
 "playlist": [
+[
+"2026-10-24T07:44|Black Marble|Jim Carol New Year",
+"spotify:track:3UhXNJjt6Y0sNCEwwhoJnT"
+],
+[
+"2026-10-24T07:41|Kings Of Convenience|I'd Rather Dance With You",
+"spotify:track:119MXpXxpY20WUkDIdE6U4"
+],
 [
 "2026-10-24T07:34|Chinese American Bear|Dance Dance Dance (Edit)",
 "spotify:track:3Ct3ro3LnsTHjeRVPNSG5s"
@@ -3462,17 +3470,21 @@
 [
 "2026-10-17T07:55|Big Thief|All Night All Day",
 "spotify:track:3gVrDEjo68KtplLuZuATTI"
-],
-[
-"2026-10-17T07:47|Freedom Fry|She Fell In Love On The Dance Floor",
-"spotify:track:22uuH9uHRSdS2y2zvS5uEt"
-],
-[
-"2026-10-17T07:44|Sydney Minsky Sargeant|I Don't Wanna",
-"spotify:track:4hHizy49Hzl7QfP3mGVJOY"
 ]
 ],
 "entries": [
+{
+"id": "2026-10-24T07:44|Black Marble|Jim Carol New Year",
+"t": "2026-10-24T07:44:00+02:00",
+"artist": "Black Marble",
+"title": "Jim Carol New Year"
+},
+{
+"id": "2026-10-24T07:41|Kings Of Convenience|I'd Rather Dance With You",
+"t": "2026-10-24T07:41:00+02:00",
+"artist": "Kings Of Convenience",
+"title": "I'd Rather Dance With You"
+},
 {
 "id": "2026-10-24T07:34|Chinese American Bear|Dance Dance Dance (Edit)",
 "t": "2026-10-24T07:34:00+02:00",
@@ -8770,18 +8782,6 @@
 "t": "2026-10-17T07:55:00+02:00",
 "artist": "Big Thief",
 "title": "All Night All Day"
-},
-{
-"id": "2026-10-17T07:47|Freedom Fry|She Fell In Love On The Dance Floor",
-"t": "2026-10-17T07:47:00+02:00",
-"artist": "Freedom Fry",
-"title": "She Fell In Love On The Dance Floor"
-},
-{
-"id": "2026-10-17T07:44|Sydney Minsky Sargeant|I Don't Wanna",
-"t": "2026-10-17T07:44:00+02:00",
-"artist": "Sydney Minsky Sargeant",
-"title": "I Don't Wanna"
 }
 ],
 "cache": {
@@ -8863,10 +8863,6 @@
 },
 "freedom fry|she fell in love on the dance floor": {
 "u": "spotify:track:22uuH9uHRSdS2y2zvS5uEt",
-"d": "2026-10-17T07:51:45.052140+02:00"
-},
-"sydney minsky sargeant|i don t wanna": {
-"u": "spotify:track:4hHizy49Hzl7QfP3mGVJOY",
 "d": "2026-10-17T07:51:45.052140+02:00"
 },
 "big thief|all night all day": {
@@ -11496,6 +11492,10 @@
 "jean michel jarre|oxygene 4": {
 "u": "spotify:track:5jcOqevntlFikknib1ioyc",
 "d": "2026-10-24T07:36:52.760771+02:00"
+},
+"kings of convenience|i d rather dance with you": {
+"u": "spotify:track:119MXpXxpY20WUkDIdE6U4",
+"d": "2026-10-24T07:45:52.761852+02:00"
 }
 }
 }
