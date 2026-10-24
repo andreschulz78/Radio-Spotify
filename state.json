@@ -1,11 +1,11 @@
 {
-"updated": "2026-10-24T05:29:43.686407+02:00",
+"updated": "2026-10-24T05:40:43.687607+02:00",
 "matcher": 4,
 "blocked_until": "2026-10-24T05:15:10.663779+02:00",
 "details": "51e4e36c2ea1",
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAQsUvejnYEd9WvKrQWbTtizMebWSP0",
+"snapshot": "AAAQ5pYfK6ROU+geo35Z8oRk0LV48pJQ",
 "playlist": [
 [
 "2026-10-23T22:50|Eels|15 Eels - I'm On Standby",
@@ -272,32 +272,100 @@
 "spotify:track:7yT4NJt5rgmVoMJMGPULcj"
 ],
 [
+"2026-10-23T12:26|Rahill|Futbol",
+"spotify:track:1tBR4EX2S4YonuXB0mwRvT"
+],
+[
 "2026-10-23T12:22|Jim James|Come Again",
 "spotify:track:6S3Ao3HkuLpHffHWL8oRsz"
+],
+[
+"2026-10-23T12:17|Suede|She's In Fashion",
+"spotify:track:74HI2YocL4OtmjtMBDtX3w"
 ],
 [
 "2026-10-23T12:11|Widowspeak|Soft Cover (Edit)",
 "spotify:track:4O6f5Bgs94sUNNkNAdNyhW"
 ],
 [
+"2026-10-23T12:05|Orbital feat. Penelope Isles|Are You Alive?",
+"spotify:track:2uJbLXWgxBEgkUtz2Ie07l"
+],
+[
+"2026-10-23T11:57|Thievery Corporation|The Numbers Game",
+"spotify:track:4OM2lixmz8FJpT3najjWUr"
+],
+[
 "2026-10-23T11:48|Oscar Farrell feat. Sampha|Dream Therapy",
 "spotify:track:1WCiaKkadXRQjK5LapkGtu"
+],
+[
+"2026-10-23T11:40|Mouse On Mars|Send Me Shivers",
+"spotify:track:2rPMKShLD1ZmO7vm5nUjxL"
 ],
 [
 "2026-10-23T11:34|Friedberg|Goodwife",
 "spotify:track:1H89j9NLse1E0Kmjb3tzW6"
 ],
 [
+"2026-10-23T11:30|Husten|Weit leuchten die Felder",
+"spotify:track:5JDWnKxbIhhCXnjXpAZhYr"
+],
+[
+"2026-10-23T11:23|Dan Auerbach|Cherrybomb",
+"spotify:track:7ejVezMnmqGT84etM4IEmH"
+],
+[
+"2026-10-23T11:07|The Last Shadow Puppets|The Age Of The Understatement",
+"spotify:track:4fsWlej0WwmeCIRYY5xIir"
+],
+[
 "2026-10-23T10:58|Tank And The Bangas|Ain’t That Deep",
 "spotify:track:0PokJfPldX6FgGR7covt03"
+],
+[
+"2026-10-23T10:53|Peki Momés|Ahşap Kutu",
+"spotify:track:0ldb6REGn8guDjkpA21tJx"
+],
+[
+"2026-10-23T10:46|Die Sterne|Du musst gar nix",
+"spotify:track:1Sh1nXBhUa0wVsfVuxnHdV"
 ],
 [
 "2026-10-23T10:36|Chinese American Bear|Dance Dance Dance (Edit)",
 "spotify:track:3Ct3ro3LnsTHjeRVPNSG5s"
 ],
 [
+"2026-10-23T10:31|Diefenbach|Glorious",
+"spotify:track:15HJWRhMTR5CPiHWnWKRMe"
+],
+[
+"2026-10-23T10:25|Thundercat|I Wish I Didn’t Waste Your Time (Radio Edit)",
+"spotify:track:356A6LLhntlbIxP8h0Lf3Q"
+],
+[
+"2026-10-23T10:20|The Cardigans|Carnival",
+"spotify:track:5TbDM1PBTyODDCTGEoDCxL"
+],
+[
+"2026-10-23T10:17|Mine & Fatoni|Erdbeeren ohne Grenzen",
+"spotify:track:0EUVclyp6mQLEfaLYWRTU7"
+],
+[
 "2026-10-23T10:09|Agnes Obel|Laymelli (Edit)",
 "spotify:track:0VzMHjWcs2P24LHLekZ8Qa"
+],
+[
+"2026-10-23T10:06|Phoenix|Too Young",
+"spotify:track:6nWjBZt32ckbs29CQTxA0l"
+],
+[
+"2026-10-23T09:58|Arlo Parks|2SIDED",
+"spotify:track:1kdHE79HtKUGmJ1vDyp69j"
+],
+[
+"2026-10-23T09:50|Arrested Development|Mr. Wendal",
+"spotify:track:5DOYik1z3Of1wAFfY3dYbC"
 ],
 [
 "2026-10-23T09:46|Ex:Re|Sleep",
@@ -306,6 +374,18 @@
 [
 "2026-10-23T09:41|Moonlight Breakfast|If Not Now, Then When?!",
 "spotify:track:7rqjXsHITwfxR5XoKIGsaJ"
+],
+[
+"2026-10-23T09:33|Wet Leg|Chaise Longue",
+"spotify:track:7iqAuZe5yS0suLQcFfVK39"
+],
+[
+"2026-10-23T09:26|Flora Hibberd|Bowling Ball",
+"spotify:track:2Bqy2DIYw0DXkZj8gHTg2p"
+],
+[
+"2026-10-23T09:18|Electric Light Orchestra (ELO)|Evil Woman",
+"spotify:track:777NOXupZkFdg8zlPMoVqc"
 ],
 [
 "2026-10-23T09:12|Alewya|Cairo FM",
@@ -1978,6 +2058,10 @@
 [
 "2026-10-20T12:41|Noga Erez|Come Back Home",
 "spotify:track:7mo91mH70LRf4NMUs717c3"
+],
+[
+"2026-10-20T12:38|The Lovin' Spoonful|Darling Be Home Soon",
+"spotify:track:3vht3rNIHxMQQyXWrX1mvM"
 ],
 [
 "2026-10-20T12:35|DJ Seinfeld feat. TS Graye|U Can't Come Home (Radio Edit)",
@@ -8985,7 +9069,7 @@
 },
 "spiller|cry baby remix": {
 "u": null,
-"d": "2026-10-20T13:51:37.004500+02:00"
+"d": "2026-10-24T05:37:43.687288+02:00"
 },
 "jungle|someday somewhere": {
 "u": "spotify:track:20FqWsyuUaQTU5tk4nP6eN",
@@ -9984,8 +10068,8 @@
 "d": "2026-10-20T12:46:36.449356+02:00"
 },
 "the lovin spoonful|darling be home soon": {
-"u": null,
-"d": "2026-10-20T12:46:36.449356+02:00"
+"u": "spotify:track:3vht3rNIHxMQQyXWrX1mvM",
+"d": "2026-10-24T05:37:43.687288+02:00"
 },
 "pet shop boys|home and dry": {
 "u": "spotify:track:5bt5oUU0TfGCqXhUmtMMj3",
@@ -10057,7 +10141,7 @@
 },
 "king gizzard the lizard wizard|magenta mountain edit": {
 "u": null,
-"d": "2026-10-20T15:00:37.013385+02:00"
+"d": "2026-10-24T05:37:43.687288+02:00"
 },
 "twin shadow|dominoes": {
 "u": "spotify:track:5cgK6Kvd1rLMqLbZIwytnh",
@@ -11346,6 +11430,90 @@
 "royksopp|eple": {
 "u": "spotify:track:3lFFvF5PtAKKvtnfWTxutX",
 "d": "2026-10-24T05:29:43.686407+02:00"
+},
+"rahill|futbol": {
+"u": "spotify:track:1tBR4EX2S4YonuXB0mwRvT",
+"d": "2026-10-24T05:30:43.686525+02:00"
+},
+"suede|she s in fashion": {
+"u": "spotify:track:74HI2YocL4OtmjtMBDtX3w",
+"d": "2026-10-24T05:30:43.686525+02:00"
+},
+"orbital feat penelope isles|are you alive": {
+"u": "spotify:track:2uJbLXWgxBEgkUtz2Ie07l",
+"d": "2026-10-24T05:30:43.686525+02:00"
+},
+"thievery corporation|the numbers game": {
+"u": "spotify:track:4OM2lixmz8FJpT3najjWUr",
+"d": "2026-10-24T05:31:43.686626+02:00"
+},
+"mouse on mars|send me shivers": {
+"u": "spotify:track:2rPMKShLD1ZmO7vm5nUjxL",
+"d": "2026-10-24T05:31:43.686626+02:00"
+},
+"husten|weit leuchten die felder": {
+"u": "spotify:track:5JDWnKxbIhhCXnjXpAZhYr",
+"d": "2026-10-24T05:31:43.686626+02:00"
+},
+"dan auerbach|cherrybomb": {
+"u": "spotify:track:7ejVezMnmqGT84etM4IEmH",
+"d": "2026-10-24T05:32:43.686734+02:00"
+},
+"siouxsie and the banshees|christine": {
+"u": null,
+"d": "2026-10-24T05:32:43.686734+02:00"
+},
+"the last shadow puppets|the age of the understatement": {
+"u": "spotify:track:4fsWlej0WwmeCIRYY5xIir",
+"d": "2026-10-24T05:32:43.686734+02:00"
+},
+"peki momes|ahsap kutu": {
+"u": "spotify:track:0ldb6REGn8guDjkpA21tJx",
+"d": "2026-10-24T05:33:43.686843+02:00"
+},
+"die sterne|du musst gar nix": {
+"u": "spotify:track:1Sh1nXBhUa0wVsfVuxnHdV",
+"d": "2026-10-24T05:33:43.686843+02:00"
+},
+"diefenbach|glorious": {
+"u": "spotify:track:15HJWRhMTR5CPiHWnWKRMe",
+"d": "2026-10-24T05:33:43.686843+02:00"
+},
+"thundercat|i wish i didn t waste your time radio edit": {
+"u": "spotify:track:356A6LLhntlbIxP8h0Lf3Q",
+"d": "2026-10-24T05:34:43.686947+02:00"
+},
+"the cardigans|carnival": {
+"u": "spotify:track:5TbDM1PBTyODDCTGEoDCxL",
+"d": "2026-10-24T05:34:43.686947+02:00"
+},
+"mine fatoni|erdbeeren ohne grenzen": {
+"u": "spotify:track:0EUVclyp6mQLEfaLYWRTU7",
+"d": "2026-10-24T05:34:43.686947+02:00"
+},
+"phoenix|too young": {
+"u": "spotify:track:6nWjBZt32ckbs29CQTxA0l",
+"d": "2026-10-24T05:35:43.687063+02:00"
+},
+"arlo parks|2sided": {
+"u": "spotify:track:1kdHE79HtKUGmJ1vDyp69j",
+"d": "2026-10-24T05:35:43.687063+02:00"
+},
+"arrested development|mr wendal": {
+"u": "spotify:track:5DOYik1z3Of1wAFfY3dYbC",
+"d": "2026-10-24T05:35:43.687063+02:00"
+},
+"wet leg|chaise longue": {
+"u": "spotify:track:7iqAuZe5yS0suLQcFfVK39",
+"d": "2026-10-24T05:36:43.687178+02:00"
+},
+"flora hibberd|bowling ball": {
+"u": "spotify:track:2Bqy2DIYw0DXkZj8gHTg2p",
+"d": "2026-10-24T05:36:43.687178+02:00"
+},
+"electric light orchestra elo|evil woman": {
+"u": "spotify:track:777NOXupZkFdg8zlPMoVqc",
+"d": "2026-10-24T05:36:43.687178+02:00"
 }
 }
 }
