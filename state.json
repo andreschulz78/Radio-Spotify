@@ -1,12 +1,20 @@
 {
-"updated": "2026-10-24T06:12:43.691076+02:00",
+"updated": "2026-10-24T06:23:43.692353+02:00",
 "matcher": 4,
 "blocked_until": "2026-10-24T05:15:10.663779+02:00",
 "details": "51e4e36c2ea1",
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAARAVLrZYf1FL0fftltiRVPQoP5jw/y",
+"snapshot": "AAARLpiAVOz7XB4e4fd5fTS7HyavXbDQ",
 "playlist": [
+[
+"2026-10-24T06:13|Tikhet|Burndowner",
+"spotify:track:76iRkapw7dHIlJhSoy7PCv"
+],
+[
+"2026-10-24T06:09|Silicone Soul|Right On",
+"spotify:track:1ac3wSoAIcANOfKqES8X9h"
+],
 [
 "2026-10-24T06:05|Kutiman feat. Dekel|My Everything",
 "spotify:track:3NBweAfNWhU9Zu1xDLHAR8"
@@ -3458,21 +3466,21 @@
 [
 "2026-10-17T06:26|Arlo Parks|Eugene",
 "spotify:track:4S6PolgPZ5OLph314ww8Fg"
-],
-[
-"2026-10-17T06:23|Bleachers|the van",
-"spotify:track:4C2o68XUoLpjvncsNsgwjA"
-],
-[
-"2026-10-17T06:18|Black Marble|Jim Carol New Year",
-"spotify:track:3UhXNJjt6Y0sNCEwwhoJnT"
-],
-[
-"2026-10-17T06:14|Emiliana Torrini|Speed Of Dark",
-"spotify:track:2ec9ON0SCMtwyGqSxJJUJp"
 ]
 ],
 "entries": [
+{
+"id": "2026-10-24T06:13|Tikhet|Burndowner",
+"t": "2026-10-24T06:13:00+02:00",
+"artist": "Tikhet",
+"title": "Burndowner"
+},
+{
+"id": "2026-10-24T06:09|Silicone Soul|Right On",
+"t": "2026-10-24T06:09:00+02:00",
+"artist": "Silicone Soul",
+"title": "Right On"
+},
 {
 "id": "2026-10-24T06:05|Kutiman feat. Dekel|My Everything",
 "t": "2026-10-24T06:05:00+02:00",
@@ -8764,24 +8772,6 @@
 "t": "2026-10-17T06:26:00+02:00",
 "artist": "Arlo Parks",
 "title": "Eugene"
-},
-{
-"id": "2026-10-17T06:23|Bleachers|the van",
-"t": "2026-10-17T06:23:00+02:00",
-"artist": "Bleachers",
-"title": "the van"
-},
-{
-"id": "2026-10-17T06:18|Black Marble|Jim Carol New Year",
-"t": "2026-10-17T06:18:00+02:00",
-"artist": "Black Marble",
-"title": "Jim Carol New Year"
-},
-{
-"id": "2026-10-17T06:14|Emiliana Torrini|Speed Of Dark",
-"t": "2026-10-17T06:14:00+02:00",
-"artist": "Emiliana Torrini",
-"title": "Speed Of Dark"
 }
 ],
 "cache": {
@@ -8828,10 +8818,6 @@
 "smidley feat lucy dacus|capstone": {
 "u": "spotify:track:0YosJMrYxYQP7mLXfFo0p1",
 "d": "2026-10-17T06:15:45.039459+02:00"
-},
-"emiliana torrini|speed of dark": {
-"u": "spotify:track:2ec9ON0SCMtwyGqSxJJUJp",
-"d": "2026-10-17T06:21:45.040225+02:00"
 },
 "bleachers|the van": {
 "u": "spotify:track:4C2o68XUoLpjvncsNsgwjA",
@@ -11504,6 +11490,10 @@
 "kutiman feat dekel|my everything": {
 "u": "spotify:track:3NBweAfNWhU9Zu1xDLHAR8",
 "d": "2026-10-24T06:12:43.691076+02:00"
+},
+"silicone soul|right on": {
+"u": "spotify:track:1ac3wSoAIcANOfKqES8X9h",
+"d": "2026-10-24T06:16:43.691495+02:00"
 }
 }
 }
