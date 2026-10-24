@@ -1,12 +1,16 @@
 {
-"updated": "2026-10-24T08:58:52.770912+02:00",
+"updated": "2026-10-24T09:09:52.772238+02:00",
 "matcher": 4,
 "blocked_until": "2026-10-24T05:15:10.663779+02:00",
 "details": "51e4e36c2ea1",
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAASvts5mz2GziC46afZ3S5OGlftH9Jb",
+"snapshot": "AAAS2jYyZaCUMPPHNsSpdN8JPhuJoSMI",
 "playlist": [
+[
+"2026-10-24T08:55|Matthew E. White feat. Natalie Prass|Cool Out",
+"spotify:track:0sVe9dSeNSisHB0OocGykj"
+],
 [
 "2026-10-24T08:49|Ásgeir|Against The Current",
 "spotify:track:5udQbIlHLaD6QRDJmv0bjX"
@@ -3458,17 +3462,15 @@
 [
 "2026-10-17T09:22|Loma|How It Starts (Radio Edit)",
 "spotify:track:72G1uutjkmbaW6XJR6bfyH"
-],
-[
-"2026-10-17T09:09|Bobby Womack|Across 110th Street",
-"spotify:track:5wseZ5w5KzIYaz9qyKR6Mj"
-],
-[
-"2026-10-17T09:04|Ethan French|reckless and arranged - day 56 (extended)",
-"spotify:track:6H2ZSdZkYYW63UM6K2GcFh"
 ]
 ],
 "entries": [
+{
+"id": "2026-10-24T08:55|Matthew E. White feat. Natalie Prass|Cool Out",
+"t": "2026-10-24T08:55:00+02:00",
+"artist": "Matthew E. White feat. Natalie Prass",
+"title": "Cool Out"
+},
 {
 "id": "2026-10-24T08:49|Ásgeir|Against The Current",
 "t": "2026-10-24T08:49:00+02:00",
@@ -8766,18 +8768,6 @@
 "t": "2026-10-17T09:22:00+02:00",
 "artist": "Loma",
 "title": "How It Starts (Radio Edit)"
-},
-{
-"id": "2026-10-17T09:09|Bobby Womack|Across 110th Street",
-"t": "2026-10-17T09:09:00+02:00",
-"artist": "Bobby Womack",
-"title": "Across 110th Street"
-},
-{
-"id": "2026-10-17T09:04|Ethan French|reckless and arranged - day 56 (extended)",
-"t": "2026-10-17T09:04:00+02:00",
-"artist": "Ethan French",
-"title": "reckless and arranged - day 56 (extended)"
 }
 ],
 "cache": {
@@ -8888,10 +8878,6 @@
 "ethan french|reckless and arranged day 56 extended": {
 "u": "spotify:track:6H2ZSdZkYYW63UM6K2GcFh",
 "d": "2026-10-17T09:11:45.062586+02:00"
-},
-"bobby womack|across 110th street": {
-"u": "spotify:track:5wseZ5w5KzIYaz9qyKR6Mj",
-"d": "2026-10-17T09:16:45.063291+02:00"
 },
 "loma|how it starts radio edit": {
 "u": "spotify:track:72G1uutjkmbaW6XJR6bfyH",
@@ -11496,6 +11482,10 @@
 "asgeir|against the current": {
 "u": "spotify:track:5udQbIlHLaD6QRDJmv0bjX",
 "d": "2026-10-24T08:56:52.770656+02:00"
+},
+"matthew e white feat natalie prass|cool out": {
+"u": "spotify:track:0sVe9dSeNSisHB0OocGykj",
+"d": "2026-10-24T09:00:52.771150+02:00"
 }
 }
 }
