@@ -1,11 +1,11 @@
 {
-"updated": "2026-10-24T05:19:43.685323+02:00",
+"updated": "2026-10-24T05:29:43.686407+02:00",
 "matcher": 4,
 "blocked_until": "2026-10-24T05:15:10.663779+02:00",
 "details": "51e4e36c2ea1",
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAQhI810C3KyutK+5kckNw/5wXYDnWO",
+"snapshot": "AAAQsUvejnYEd9WvKrQWbTtizMebWSP0",
 "playlist": [
 [
 "2026-10-23T22:50|Eels|15 Eels - I'm On Standby",
@@ -68,12 +68,48 @@
 "spotify:track:709ZIqPHyFOpx2QdjmeWAM"
 ],
 [
+"2026-10-23T18:57|Sepalot|My Own Way",
+"spotify:track:1fZWCdpLnT98Lf5DeGkMSB"
+],
+[
+"2026-10-23T17:57|Avalon Emerson|Astrology Poisoning",
+"spotify:track:2dM1rq6xGHlip9nrZXWlWP"
+],
+[
+"2026-10-23T16:57|Wallners|Movie Stars",
+"spotify:track:7xesRbRs3O1MLOgWqMSN7a"
+],
+[
+"2026-10-23T16:50|Tom Tom Club|Genius Of Love (Album Version)",
+"spotify:track:5v3OV5fmDs89yo1Eub6yFM"
+],
+[
 "2026-10-23T16:48|Bilderbuch|Baby Junkie",
 "spotify:track:1bPs9oNEaAEUYfCL7tH79W"
 ],
 [
+"2026-10-23T16:37|Phoebe Bridgers|Lost Boys (Radio Edit)",
+"spotify:track:2Rbkkd9pKlLtBOhsp5NmSI"
+],
+[
 "2026-10-23T16:33|Austra & Patrick Holland|Siren Reprise",
 "spotify:track:678wI419HyRL4qSTbXdyLu"
+],
+[
+"2026-10-23T16:25|Die Wilde Jagd|Der Meister",
+"spotify:track:0Kg4SjdJ4zO6OHsnhUqQMq"
+],
+[
+"2026-10-23T16:21|Dillon|Separate Us",
+"spotify:track:1OTfGZcyl7Eh5TXaDtLgod"
+],
+[
+"2026-10-23T16:18|Olivia Dean|Nice To Each Other (Radio Edit)",
+"spotify:track:7gKxCvTDWwV9wBhdeBbr3l"
+],
+[
+"2026-10-23T16:09|The Style Council|Walls Come Tumbling Down",
+"spotify:track:7AayClH118cFwnChCu0rRc"
 ],
 [
 "2026-10-23T16:05|Kaktus Einarsson feat. John Grant|Follow",
@@ -84,8 +120,24 @@
 "spotify:track:0ZUKth5xg7UM6Q73YhDq2w"
 ],
 [
+"2026-10-23T15:50|M83|Reunion",
+"spotify:track:6vi4I2vZkN5mDePmVSSVTq"
+],
+[
+"2026-10-23T15:48|Lady Wray|You're Gonna Win",
+"spotify:track:6rD4rSzKgu7YSy9RR5ICsS"
+],
+[
 "2026-10-23T15:44|JGrrey feat. Bel Cobain|Take My Hand",
 "spotify:track:0i4SCqKHjbBrPjUX4RPRq3"
+],
+[
+"2026-10-23T15:35|Isabelle Pabst|Vom Spaß",
+"spotify:track:1OndaUHu07HOHEgS1tSbCO"
+],
+[
+"2026-10-23T15:32|DJ Friction|Could Heaven Ever Be Like This",
+"spotify:track:4eOOrfLqTnbO6fUz7ACKDY"
 ],
 [
 "2026-10-23T15:24|Dekker|Pick It Up, Put It Back",
@@ -96,12 +148,44 @@
 "spotify:track:4cWEdRTQ8sg4QaTBIGn06j"
 ],
 [
+"2026-10-23T15:18|Kate Bush|Babooshka",
+"spotify:track:53Mz9H5UvWMQUXHZnaZYKQ"
+],
+[
 "2026-10-23T15:08|CECI feat. Lords of Lounge|Honey Honey",
 "spotify:track:1I3D3G5pwYFKNYGIYTLRCq"
 ],
 [
+"2026-10-23T15:05|Interpol|The Heinrich Maneuver",
+"spotify:track:4CKuOiUPeGbDsHkT3fmALJ"
+],
+[
+"2026-10-23T14:57|Peter Fox feat. Bensh|Blackbirds BLN",
+"spotify:track:14dljs5rff8glkgZJrkf0l"
+],
+[
 "2026-10-23T14:52|JJerome87|Green Velvet",
 "spotify:track:4tYeJ03pfClYTXqhao6PJf"
+],
+[
+"2026-10-23T14:49|New Order|Blue Monday (1988)",
+"spotify:track:6hHc7Pks7wtBIW8Z6A0iFq"
+],
+[
+"2026-10-23T14:46|Eilis Frawley|Taken, Never Erased",
+"spotify:track:5a3IV4xiA81Ucn98CHtJzb"
+],
+[
+"2026-10-23T14:42|Apollo Four Forty (Apollo 440)|Stop the Rock",
+"spotify:track:47Wv7knmg7C9ISkSuTcxo3"
+],
+[
+"2026-10-23T14:33|Jonathan Richman|Roadrunner",
+"spotify:track:7wj3PmmPSDuPcpoxFXCea2"
+],
+[
+"2026-10-23T14:29|Tori Amos|Spies (UK Radio Edit)",
+"spotify:track:1Z9XYk3pchgABuFtaBJyKu"
 ],
 [
 "2026-10-23T14:24|Tikhet|Burndowner",
@@ -110,6 +194,26 @@
 [
 "2026-10-23T14:20|Innenräume|Im Gegenlicht",
 "spotify:track:2ubG5Lo2I8hs3GzaVf7vdD"
+],
+[
+"2026-10-23T14:18|The Smiths|William It Was Really Nothing",
+"spotify:track:6SwqPZs0XuSnyqkbnkkAjQ"
+],
+[
+"2026-10-23T14:11|The Shins|The Rifle's Spiral",
+"spotify:track:4vg1R4QYoWSFUUj2qX5L5K"
+],
+[
+"2026-10-23T14:05|Supershy feat. Roberta Flack|Feel Like Makin' Love",
+"spotify:track:1cFZIDLjGngrmH6lnyprOA"
+],
+[
+"2026-10-23T13:57|Tuvaband|Im Safely Passing in Time",
+"spotify:track:4j4DRKqZ0wUeKMLSkFZ8O5"
+],
+[
+"2026-10-23T13:52|Madison McFerrin|Ain't It Nice",
+"spotify:track:1HpOY4aHE6ELbGN5dVYwS6"
 ],
 [
 "2026-10-23T13:48|Warhaus|No Surprise",
@@ -132,6 +236,14 @@
 "spotify:track:2Ygs64z9ywJGakuKU8tr6o"
 ],
 [
+"2026-10-23T13:19|Billie Eilish|Billie Bossa Nova",
+"spotify:track:2M4uqoBmF1vkhqDCTDS0M5"
+],
+[
+"2026-10-23T13:09|Robyn|Ever Again",
+"spotify:track:5bEkgzy1BYXM9rWu0Edyze"
+],
+[
 "2026-10-23T13:06|Bonaparte|KiOSKO",
 "spotify:track:5seYGZRYuD3oPMxryJdvOk"
 ],
@@ -142,6 +254,14 @@
 [
 "2026-10-23T12:50|Ibeyi|Hurry Hurry",
 "spotify:track:4BGA7VW330Eu1kaFNi98cG"
+],
+[
+"2026-10-23T12:47|L'Impératrice feat. Rejjie Snow|Everything Eventually Ends",
+"spotify:track:5LInOGDHqrgetnMlnvaDNq"
+],
+[
+"2026-10-23T12:44|Röyksopp|Eple",
+"spotify:track:3lFFvF5PtAKKvtnfWTxutX"
 ],
 [
 "2026-10-23T12:35|Yard Act|Janey Said (Edit)",
@@ -11106,6 +11226,126 @@
 "tame impala|dracula": {
 "u": "spotify:track:709ZIqPHyFOpx2QdjmeWAM",
 "d": "2026-10-24T05:19:43.685323+02:00"
+},
+"sepalot|my own way": {
+"u": "spotify:track:1fZWCdpLnT98Lf5DeGkMSB",
+"d": "2026-10-24T05:20:43.685428+02:00"
+},
+"avalon emerson|astrology poisoning": {
+"u": "spotify:track:2dM1rq6xGHlip9nrZXWlWP",
+"d": "2026-10-24T05:20:43.685428+02:00"
+},
+"wallners|movie stars": {
+"u": "spotify:track:7xesRbRs3O1MLOgWqMSN7a",
+"d": "2026-10-24T05:20:43.685428+02:00"
+},
+"tom tom club|genius of love album version": {
+"u": "spotify:track:5v3OV5fmDs89yo1Eub6yFM",
+"d": "2026-10-24T05:21:43.685546+02:00"
+},
+"phoebe bridgers|lost boys radio edit": {
+"u": "spotify:track:2Rbkkd9pKlLtBOhsp5NmSI",
+"d": "2026-10-24T05:21:43.685546+02:00"
+},
+"die wilde jagd|der meister": {
+"u": "spotify:track:0Kg4SjdJ4zO6OHsnhUqQMq",
+"d": "2026-10-24T05:21:43.685546+02:00"
+},
+"dillon|separate us": {
+"u": "spotify:track:1OTfGZcyl7Eh5TXaDtLgod",
+"d": "2026-10-24T05:22:43.685637+02:00"
+},
+"olivia dean|nice to each other radio edit": {
+"u": "spotify:track:7gKxCvTDWwV9wBhdeBbr3l",
+"d": "2026-10-24T05:22:43.685637+02:00"
+},
+"the style council|walls come tumbling down": {
+"u": "spotify:track:7AayClH118cFwnChCu0rRc",
+"d": "2026-10-24T05:22:43.685637+02:00"
+},
+"m83|reunion": {
+"u": "spotify:track:6vi4I2vZkN5mDePmVSSVTq",
+"d": "2026-10-24T05:23:43.685753+02:00"
+},
+"lady wray|you re gonna win": {
+"u": "spotify:track:6rD4rSzKgu7YSy9RR5ICsS",
+"d": "2026-10-24T05:23:43.685753+02:00"
+},
+"isabelle pabst|vom spa": {
+"u": "spotify:track:1OndaUHu07HOHEgS1tSbCO",
+"d": "2026-10-24T05:23:43.685753+02:00"
+},
+"dj friction|could heaven ever be like this": {
+"u": "spotify:track:4eOOrfLqTnbO6fUz7ACKDY",
+"d": "2026-10-24T05:24:43.685858+02:00"
+},
+"kate bush|babooshka": {
+"u": "spotify:track:53Mz9H5UvWMQUXHZnaZYKQ",
+"d": "2026-10-24T05:24:43.685858+02:00"
+},
+"interpol|the heinrich maneuver": {
+"u": "spotify:track:4CKuOiUPeGbDsHkT3fmALJ",
+"d": "2026-10-24T05:24:43.685858+02:00"
+},
+"peter fox feat bensh|blackbirds bln": {
+"u": "spotify:track:14dljs5rff8glkgZJrkf0l",
+"d": "2026-10-24T05:25:43.685961+02:00"
+},
+"new order|blue monday 1988": {
+"u": "spotify:track:6hHc7Pks7wtBIW8Z6A0iFq",
+"d": "2026-10-24T05:25:43.685961+02:00"
+},
+"eilis frawley|taken never erased": {
+"u": "spotify:track:5a3IV4xiA81Ucn98CHtJzb",
+"d": "2026-10-24T05:25:43.685961+02:00"
+},
+"apollo four forty apollo 440|stop the rock": {
+"u": "spotify:track:47Wv7knmg7C9ISkSuTcxo3",
+"d": "2026-10-24T05:26:43.686061+02:00"
+},
+"jonathan richman|roadrunner": {
+"u": "spotify:track:7wj3PmmPSDuPcpoxFXCea2",
+"d": "2026-10-24T05:26:43.686061+02:00"
+},
+"tori amos|spies uk radio edit": {
+"u": "spotify:track:1Z9XYk3pchgABuFtaBJyKu",
+"d": "2026-10-24T05:26:43.686061+02:00"
+},
+"the smiths|william it was really nothing": {
+"u": "spotify:track:6SwqPZs0XuSnyqkbnkkAjQ",
+"d": "2026-10-24T05:27:43.686166+02:00"
+},
+"the shins|the rifle s spiral": {
+"u": "spotify:track:4vg1R4QYoWSFUUj2qX5L5K",
+"d": "2026-10-24T05:27:43.686166+02:00"
+},
+"supershy feat roberta flack|feel like makin love": {
+"u": "spotify:track:1cFZIDLjGngrmH6lnyprOA",
+"d": "2026-10-24T05:27:43.686166+02:00"
+},
+"tuvaband|im safely passing in time": {
+"u": "spotify:track:4j4DRKqZ0wUeKMLSkFZ8O5",
+"d": "2026-10-24T05:28:43.686284+02:00"
+},
+"madison mcferrin|ain t it nice": {
+"u": "spotify:track:1HpOY4aHE6ELbGN5dVYwS6",
+"d": "2026-10-24T05:28:43.686284+02:00"
+},
+"billie eilish|billie bossa nova": {
+"u": "spotify:track:2M4uqoBmF1vkhqDCTDS0M5",
+"d": "2026-10-24T05:28:43.686284+02:00"
+},
+"robyn|ever again": {
+"u": "spotify:track:5bEkgzy1BYXM9rWu0Edyze",
+"d": "2026-10-24T05:29:43.686407+02:00"
+},
+"l imperatrice feat rejjie snow|everything eventually ends": {
+"u": "spotify:track:5LInOGDHqrgetnMlnvaDNq",
+"d": "2026-10-24T05:29:43.686407+02:00"
+},
+"royksopp|eple": {
+"u": "spotify:track:3lFFvF5PtAKKvtnfWTxutX",
+"d": "2026-10-24T05:29:43.686407+02:00"
 }
 }
 }
