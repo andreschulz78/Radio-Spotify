@@ -1,12 +1,20 @@
 {
-"updated": "2026-10-25T07:13:25.490024+01:00",
+"updated": "2026-10-25T07:23:25.491144+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-25T05:15:46.772432+01:00",
 "details": "51e4e36c2ea1",
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAATzMmyjIQR5YT0tX31/5b4bzT8LiHs",
+"snapshot": "AAAT6JJ2p5P2eoVnXy+1SFY6kqxMl5T0",
 "playlist": [
+[
+"2026-10-25T07:17|Caravan Palace|Miracle",
+"spotify:track:5uKKPK1HAdPL3y4CEQDL7q"
+],
+[
+"2026-10-25T07:14|Suzanne Vega|Frank & Ava",
+"spotify:track:7Md7yQtdlpW5nGghntHOEo"
+],
 [
 "2026-10-25T07:07|James Righton|The Performer",
 "spotify:track:1TcwCF5brR3coDOkKkxI4I"
@@ -3534,17 +3542,21 @@
 [
 "2026-10-18T07:26|CECI feat. Lords of Lounge|Honey Honey",
 "spotify:track:1I3D3G5pwYFKNYGIYTLRCq"
-],
-[
-"2026-10-18T07:23|I Am Kloot|Ferris Wheels",
-"spotify:track:3ZlyoG9nZnLzjQfxZA5IXm"
-],
-[
-"2026-10-18T07:15|Joachim Witt|Goldener Reiter",
-"spotify:track:7sgbBeINoJ4TDUDIloK9li"
 ]
 ],
 "entries": [
+{
+"id": "2026-10-25T07:17|Caravan Palace|Miracle",
+"t": "2026-10-25T07:17:00+01:00",
+"artist": "Caravan Palace",
+"title": "Miracle"
+},
+{
+"id": "2026-10-25T07:14|Suzanne Vega|Frank & Ava",
+"t": "2026-10-25T07:14:00+01:00",
+"artist": "Suzanne Vega",
+"title": "Frank & Ava"
+},
 {
 "id": "2026-10-25T07:07|James Righton|The Performer",
 "t": "2026-10-25T07:07:00+01:00",
@@ -8944,18 +8956,6 @@
 "t": "2026-10-18T07:26:00+02:00",
 "artist": "CECI feat. Lords of Lounge",
 "title": "Honey Honey"
-},
-{
-"id": "2026-10-18T07:23|I Am Kloot|Ferris Wheels",
-"t": "2026-10-18T07:23:00+02:00",
-"artist": "I Am Kloot",
-"title": "Ferris Wheels"
-},
-{
-"id": "2026-10-18T07:15|Joachim Witt|Goldener Reiter",
-"t": "2026-10-18T07:15:00+02:00",
-"artist": "Joachim Witt",
-"title": "Goldener Reiter"
 }
 ],
 "cache": {
@@ -9123,16 +9123,8 @@
 "u": "spotify:track:1WCiaKkadXRQjK5LapkGtu",
 "d": "2026-10-18T06:56:18.859763+02:00"
 },
-"joachim witt|goldener reiter": {
-"u": "spotify:track:7sgbBeINoJ4TDUDIloK9li",
-"d": "2026-10-18T07:21:18.862335+02:00"
-},
 "ceci feat lords of lounge|honey honey": {
 "u": "spotify:track:1I3D3G5pwYFKNYGIYTLRCq",
-"d": "2026-10-18T07:30:18.863327+02:00"
-},
-"i am kloot|ferris wheels": {
-"u": "spotify:track:3ZlyoG9nZnLzjQfxZA5IXm",
 "d": "2026-10-18T07:30:18.863327+02:00"
 },
 "jordan rakei|flowers": {
@@ -11730,6 +11722,14 @@
 "james righton|the performer": {
 "u": "spotify:track:1TcwCF5brR3coDOkKkxI4I",
 "d": "2026-10-25T07:10:25.489713+01:00"
+},
+"caravan palace|miracle": {
+"u": "spotify:track:5uKKPK1HAdPL3y4CEQDL7q",
+"d": "2026-10-25T07:21:25.490881+01:00"
+},
+"suzanne vega|frank ava": {
+"u": "spotify:track:7Md7yQtdlpW5nGghntHOEo",
+"d": "2026-10-25T07:21:25.490881+01:00"
 }
 }
 }
