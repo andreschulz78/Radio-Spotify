@@ -1,12 +1,24 @@
 {
-"updated": "2026-10-25T06:29:25.484698+01:00",
+"updated": "2026-10-25T06:40:25.485967+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-25T05:15:46.772432+01:00",
 "details": "51e4e36c2ea1",
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAATYcOd83hEflU63N8hNdvFByZPbq8m",
+"snapshot": "AAATfb7FeL1tCr39v8avuHgCCTdnqwkn",
 "playlist": [
+[
+"2026-10-25T06:32|King Harvest|Dancing In The Moonlight",
+"spotify:track:6DzROOqODNaB2oRLs2tcom"
+],
+[
+"2026-10-25T06:29|Mother's Cake|Love Your Smell",
+"spotify:track:7ushCmTr07sfa7zKAKkf70"
+],
+[
+"2026-10-25T06:25|CECI feat. Lords of Lounge|Honey Honey",
+"spotify:track:1I3D3G5pwYFKNYGIYTLRCq"
+],
 [
 "2026-10-25T06:21|The Stranglers|Golden Brown",
 "spotify:track:5GpfyJrKHJI36jDKtQiyGN"
@@ -3522,21 +3534,27 @@
 [
 "2026-10-18T06:43|The Zombies|Time of the season",
 "spotify:track:6lx1n63qJmhzPpirxxksbI"
-],
-[
-"2026-10-18T06:40|Basia Bulat|Infamous",
-"spotify:track:3flhzsS8bfzsNPhTr4klCH"
-],
-[
-"2026-10-18T06:35|SBTRKT feat. Ezra Koenig|New Dorp New York",
-"spotify:track:2QFHyK2SV2YWyJzu6kpGhk"
-],
-[
-"2026-10-18T06:32|Kaktus Einarsson feat. John Grant|Follow",
-"spotify:track:0bbPqdrMN94XmIlBQS21B3"
 ]
 ],
 "entries": [
+{
+"id": "2026-10-25T06:32|King Harvest|Dancing In The Moonlight",
+"t": "2026-10-25T06:32:00+01:00",
+"artist": "King Harvest",
+"title": "Dancing In The Moonlight"
+},
+{
+"id": "2026-10-25T06:29|Mother's Cake|Love Your Smell",
+"t": "2026-10-25T06:29:00+01:00",
+"artist": "Mother's Cake",
+"title": "Love Your Smell"
+},
+{
+"id": "2026-10-25T06:25|CECI feat. Lords of Lounge|Honey Honey",
+"t": "2026-10-25T06:25:00+01:00",
+"artist": "CECI feat. Lords of Lounge",
+"title": "Honey Honey"
+},
 {
 "id": "2026-10-25T06:21|The Stranglers|Golden Brown",
 "t": "2026-10-25T06:21:00+01:00",
@@ -8918,24 +8936,6 @@
 "t": "2026-10-18T06:43:00+02:00",
 "artist": "The Zombies",
 "title": "Time of the season"
-},
-{
-"id": "2026-10-18T06:40|Basia Bulat|Infamous",
-"t": "2026-10-18T06:40:00+02:00",
-"artist": "Basia Bulat",
-"title": "Infamous"
-},
-{
-"id": "2026-10-18T06:35|SBTRKT feat. Ezra Koenig|New Dorp New York",
-"t": "2026-10-18T06:35:00+02:00",
-"artist": "SBTRKT feat. Ezra Koenig",
-"title": "New Dorp New York"
-},
-{
-"id": "2026-10-18T06:32|Kaktus Einarsson feat. John Grant|Follow",
-"t": "2026-10-18T06:32:00+02:00",
-"artist": "Kaktus Einarsson feat. John Grant",
-"title": "Follow"
 }
 ],
 "cache": {
@@ -9098,14 +9098,6 @@
 "kaktus einarsson feat john grant|follow": {
 "u": "spotify:track:0bbPqdrMN94XmIlBQS21B3",
 "d": "2026-10-18T06:36:10.761918+02:00"
-},
-"sbtrkt feat ezra koenig|new dorp new york": {
-"u": "spotify:track:2QFHyK2SV2YWyJzu6kpGhk",
-"d": "2026-10-18T06:41:10.762544+02:00"
-},
-"basia bulat|infamous": {
-"u": "spotify:track:3flhzsS8bfzsNPhTr4klCH",
-"d": "2026-10-18T06:46:10.763165+02:00"
 },
 "the zombies|time of the season": {
 "u": "spotify:track:6lx1n63qJmhzPpirxxksbI",
@@ -11714,6 +11706,14 @@
 "the stranglers|golden brown": {
 "u": "spotify:track:5GpfyJrKHJI36jDKtQiyGN",
 "d": "2026-10-25T06:26:25.484324+01:00"
+},
+"king harvest|dancing in the moonlight": {
+"u": "spotify:track:6DzROOqODNaB2oRLs2tcom",
+"d": "2026-10-25T06:36:25.485499+01:00"
+},
+"mother s cake|love your smell": {
+"u": "spotify:track:7ushCmTr07sfa7zKAKkf70",
+"d": "2026-10-25T06:36:25.485499+01:00"
 }
 }
 }
