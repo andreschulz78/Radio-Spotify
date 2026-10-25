@@ -1,12 +1,20 @@
 {
-"updated": "2026-10-25T08:40:25.500819+01:00",
+"updated": "2026-10-25T08:51:25.502248+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-25T05:15:46.772432+01:00",
 "details": "51e4e36c2ea1",
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAUrTBOrr7m8g5/LmiENhVKEAQG6Gyk",
+"snapshot": "AAAU1X3pd3nyZwTLpCVQSGr/KZ05XR3J",
 "playlist": [
+[
+"2026-10-25T08:46|Darkness Falls|The Void",
+"spotify:track:7w8j2KPpOhXclBQncIICT0"
+],
+[
+"2026-10-25T08:43|Marvin Gaye|What's Going On",
+"spotify:track:3Um9toULmYFGCpvaIPFw7l"
+],
 [
 "2026-10-25T08:35|Sofie Royer|Cowboy Mouth",
 "spotify:track:7qgYR8fHsHyyS5WKvA9srS"
@@ -3538,21 +3546,21 @@
 [
 "2026-10-18T08:55|The Divine Comedy|Come Home Billy Bird",
 "spotify:track:78od2XAVYrjy3DFzlu4Lh2"
-],
-[
-"2026-10-18T08:51|Widowspeak|Soft Cover (Edit)",
-"spotify:track:4O6f5Bgs94sUNNkNAdNyhW"
-],
-[
-"2026-10-18T08:46|Madonna|Frozen",
-"spotify:track:5P1qYxFEcGteX6a2vkSMQC"
-],
-[
-"2026-10-18T08:42|Fleetwood Mac|Thrown Down",
-"spotify:track:4ffoKyYY6ElVpxUpE48jOc"
 ]
 ],
 "entries": [
+{
+"id": "2026-10-25T08:46|Darkness Falls|The Void",
+"t": "2026-10-25T08:46:00+01:00",
+"artist": "Darkness Falls",
+"title": "The Void"
+},
+{
+"id": "2026-10-25T08:43|Marvin Gaye|What's Going On",
+"t": "2026-10-25T08:43:00+01:00",
+"artist": "Marvin Gaye",
+"title": "What's Going On"
+},
 {
 "id": "2026-10-25T08:35|Sofie Royer|Cowboy Mouth",
 "t": "2026-10-25T08:35:00+01:00",
@@ -8958,24 +8966,6 @@
 "t": "2026-10-18T08:55:00+02:00",
 "artist": "The Divine Comedy",
 "title": "Come Home Billy Bird"
-},
-{
-"id": "2026-10-18T08:51|Widowspeak|Soft Cover (Edit)",
-"t": "2026-10-18T08:51:00+02:00",
-"artist": "Widowspeak",
-"title": "Soft Cover (Edit)"
-},
-{
-"id": "2026-10-18T08:46|Madonna|Frozen",
-"t": "2026-10-18T08:46:00+02:00",
-"artist": "Madonna",
-"title": "Frozen"
-},
-{
-"id": "2026-10-18T08:42|Fleetwood Mac|Thrown Down",
-"t": "2026-10-18T08:42:00+02:00",
-"artist": "Fleetwood Mac",
-"title": "Thrown Down"
 }
 ],
 "cache": {
@@ -9171,16 +9161,8 @@
 "u": "spotify:track:197QlBcwTnJNU8DAf3BNLo",
 "d": "2026-10-18T08:36:18.870611+02:00"
 },
-"fleetwood mac|thrown down": {
-"u": "spotify:track:4ffoKyYY6ElVpxUpE48jOc",
-"d": "2026-10-18T08:46:18.871623+02:00"
-},
 "widowspeak|soft cover edit": {
 "u": "spotify:track:4O6f5Bgs94sUNNkNAdNyhW",
-"d": "2026-10-18T08:56:18.872676+02:00"
-},
-"madonna|frozen": {
-"u": "spotify:track:5P1qYxFEcGteX6a2vkSMQC",
 "d": "2026-10-18T08:56:18.872676+02:00"
 },
 "the divine comedy|come home billy bird": {
@@ -11770,6 +11752,14 @@
 "tom waits|long way home": {
 "u": "spotify:track:1CvBqoxfDF1C1HtSh1NhCH",
 "d": "2026-10-25T08:36:25.500360+01:00"
+},
+"marvin gaye|what s going on": {
+"u": "spotify:track:3Um9toULmYFGCpvaIPFw7l",
+"d": "2026-10-25T08:46:25.501643+01:00"
+},
+"darkness falls|the void": {
+"u": "spotify:track:7w8j2KPpOhXclBQncIICT0",
+"d": "2026-10-25T08:50:25.502150+01:00"
 }
 }
 }
