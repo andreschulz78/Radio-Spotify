@@ -1,12 +1,24 @@
 {
-"updated": "2026-10-25T08:51:25.502248+01:00",
+"updated": "2026-10-25T09:01:25.503561+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-25T05:15:46.772432+01:00",
 "details": "51e4e36c2ea1",
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAU1X3pd3nyZwTLpCVQSGr/KZ05XR3J",
+"snapshot": "AAAU6DBax9IOLfwzT3Nv7Gx0CWsSZBYg",
 "playlist": [
+[
+"2026-10-25T08:56|Jordan Rakei|Enemies",
+"spotify:track:0X9GwAax0c0HPe3iIoDVW6"
+],
+[
+"2026-10-25T08:52|Ben Lee|Nothing Much Happens",
+"spotify:track:7LiLGBuouDNRZgxMQBxV2J"
+],
+[
+"2026-10-25T08:50|Bonaparte|KiOSKO",
+"spotify:track:5seYGZRYuD3oPMxryJdvOk"
+],
 [
 "2026-10-25T08:46|Darkness Falls|The Void",
 "spotify:track:7w8j2KPpOhXclBQncIICT0"
@@ -3542,13 +3554,27 @@
 [
 "2026-10-18T09:04|Pamela.|Better than Before",
 "spotify:track:30ewsn0jSF9Jme7Altrz9X"
-],
-[
-"2026-10-18T08:55|The Divine Comedy|Come Home Billy Bird",
-"spotify:track:78od2XAVYrjy3DFzlu4Lh2"
 ]
 ],
 "entries": [
+{
+"id": "2026-10-25T08:56|Jordan Rakei|Enemies",
+"t": "2026-10-25T08:56:00+01:00",
+"artist": "Jordan Rakei",
+"title": "Enemies"
+},
+{
+"id": "2026-10-25T08:52|Ben Lee|Nothing Much Happens",
+"t": "2026-10-25T08:52:00+01:00",
+"artist": "Ben Lee",
+"title": "Nothing Much Happens"
+},
+{
+"id": "2026-10-25T08:50|Bonaparte|KiOSKO",
+"t": "2026-10-25T08:50:00+01:00",
+"artist": "Bonaparte",
+"title": "KiOSKO"
+},
 {
 "id": "2026-10-25T08:46|Darkness Falls|The Void",
 "t": "2026-10-25T08:46:00+01:00",
@@ -8960,12 +8986,6 @@
 "t": "2026-10-18T09:04:00+02:00",
 "artist": "Pamela.",
 "title": "Better than Before"
-},
-{
-"id": "2026-10-18T08:55|The Divine Comedy|Come Home Billy Bird",
-"t": "2026-10-18T08:55:00+02:00",
-"artist": "The Divine Comedy",
-"title": "Come Home Billy Bird"
 }
 ],
 "cache": {
@@ -9164,10 +9184,6 @@
 "widowspeak|soft cover edit": {
 "u": "spotify:track:4O6f5Bgs94sUNNkNAdNyhW",
 "d": "2026-10-18T08:56:18.872676+02:00"
-},
-"the divine comedy|come home billy bird": {
-"u": "spotify:track:78od2XAVYrjy3DFzlu4Lh2",
-"d": "2026-10-18T09:01:18.873256+02:00"
 },
 "pamela|better than before": {
 "u": "spotify:track:30ewsn0jSF9Jme7Altrz9X",
@@ -11760,6 +11776,10 @@
 "darkness falls|the void": {
 "u": "spotify:track:7w8j2KPpOhXclBQncIICT0",
 "d": "2026-10-25T08:50:25.502150+01:00"
+},
+"ben lee|nothing much happens": {
+"u": "spotify:track:7LiLGBuouDNRZgxMQBxV2J",
+"d": "2026-10-25T08:56:25.502928+01:00"
 }
 }
 }
