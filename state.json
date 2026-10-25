@@ -1,5 +1,5 @@
 {
-"updated": "2026-10-25T10:53:33.540089+01:00",
+"updated": "2026-10-25T11:04:33.541220+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-26T05:16:22.509567+01:00",
 "details": "51e4e36c2ea1",
@@ -3553,6 +3553,18 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-10-25T10:56|Prince & The New Power Generation|Money Don't Matter 2 Night",
+"t": "2026-10-25T10:56:00+01:00",
+"artist": "Prince & The New Power Generation",
+"title": "Money Don't Matter 2 Night"
+},
+{
+"id": "2026-10-25T10:51|Father John Misty|The Payoff (Radio Edit)",
+"t": "2026-10-25T10:51:00+01:00",
+"artist": "Father John Misty",
+"title": "The Payoff (Radio Edit)"
+},
 {
 "id": "2026-10-25T10:42|Alain Bashung|Je T'Ai Manqué",
 "t": "2026-10-25T10:42:00+01:00",
@@ -8970,18 +8982,6 @@
 "t": "2026-10-18T11:08:00+02:00",
 "artist": "Hayley Williams",
 "title": "Simmer"
-},
-{
-"id": "2026-10-18T11:04|Get Well Soon|Siri, What Ruined The West ?",
-"t": "2026-10-18T11:04:00+02:00",
-"artist": "Get Well Soon",
-"title": "Siri, What Ruined The West ?"
-},
-{
-"id": "2026-10-18T10:57|Tikhet|Burndowner",
-"t": "2026-10-18T10:57:00+02:00",
-"artist": "Tikhet",
-"title": "Burndowner"
 }
 ],
 "cache": {
