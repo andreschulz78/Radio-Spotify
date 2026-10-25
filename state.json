@@ -1,5 +1,5 @@
 {
-"updated": "2026-10-25T11:15:33.542273+01:00",
+"updated": "2026-10-25T11:26:33.543218+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-26T05:16:22.509567+01:00",
 "details": "51e4e36c2ea1",
@@ -3553,6 +3553,12 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-10-25T11:14|Dan Mangan|About As Helpful As You Can Be Without Being Any Help At all",
+"t": "2026-10-25T11:14:00+01:00",
+"artist": "Dan Mangan",
+"title": "About As Helpful As You Can Be Without Being Any Help At all"
+},
 {
 "id": "2026-10-25T11:08|Tessa Rose Jackson|Built To Collide",
 "t": "2026-10-25T11:08:00+01:00",
@@ -8976,18 +8982,6 @@
 "t": "2026-10-18T11:32:00+02:00",
 "artist": "Tank And The Bangas",
 "title": "Ain’t That Deep"
-},
-{
-"id": "2026-10-18T11:26|Nichtseattle|Ich mit Brille",
-"t": "2026-10-18T11:26:00+02:00",
-"artist": "Nichtseattle",
-"title": "Ich mit Brille"
-},
-{
-"id": "2026-10-18T11:17|Woodkid|I Love You",
-"t": "2026-10-18T11:17:00+02:00",
-"artist": "Woodkid",
-"title": "I Love You"
 }
 ],
 "cache": {
@@ -9206,10 +9200,6 @@
 "get well soon|siri what ruined the west": {
 "u": "spotify:track:3XY1xxFHeGHDDt33V6GoE2",
 "d": "2026-10-18T11:11:18.888347+02:00"
-},
-"woodkid|i love you": {
-"u": "spotify:track:7wzdJPBBG17h4iJnqcGsDk",
-"d": "2026-10-18T11:26:18.889997+02:00"
 },
 "nichtseattle|ich mit brille": {
 "u": "spotify:track:1C0Lpji3kKe7rZie1LC4bx",
