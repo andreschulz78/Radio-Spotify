@@ -1,12 +1,28 @@
 {
-"updated": "2026-10-25T06:40:25.485967+01:00",
+"updated": "2026-10-25T06:51:25.487375+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-25T05:15:46.772432+01:00",
 "details": "51e4e36c2ea1",
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAATfb7FeL1tCr39v8avuHgCCTdnqwkn",
+"snapshot": "AAAToQlk4XOsfh2JzqsrCtNA1bXt4Z/z",
 "playlist": [
+[
+"2026-10-25T06:46|Benjamin Clementine|In Fact You Know You Gotto Go",
+"spotify:track:4cWEdRTQ8sg4QaTBIGn06j"
+],
+[
+"2026-10-25T06:44|Dove Ellis|Heaven Has No Wings",
+"spotify:track:2Y4hGtm2AwkE0zge2CrqB8"
+],
+[
+"2026-10-25T06:39|JGrrey feat. Bel Cobain|Take My Hand",
+"spotify:track:0i4SCqKHjbBrPjUX4RPRq3"
+],
+[
+"2026-10-25T06:36|Dekker|Pick It Up, Put It Back",
+"spotify:track:0LhuToBNSlvYc4IwVJpYWH"
+],
 [
 "2026-10-25T06:32|King Harvest|Dancing In The Moonlight",
 "spotify:track:6DzROOqODNaB2oRLs2tcom"
@@ -3526,17 +3542,33 @@
 [
 "2026-10-18T06:52|Cults|Trials",
 "spotify:track:0jXyPhXThA9Dx6aV2IDven"
-],
-[
-"2026-10-18T06:49|Oscar Farrell feat. Sampha|Dream Therapy",
-"spotify:track:1WCiaKkadXRQjK5LapkGtu"
-],
-[
-"2026-10-18T06:43|The Zombies|Time of the season",
-"spotify:track:6lx1n63qJmhzPpirxxksbI"
 ]
 ],
 "entries": [
+{
+"id": "2026-10-25T06:46|Benjamin Clementine|In Fact You Know You Gotto Go",
+"t": "2026-10-25T06:46:00+01:00",
+"artist": "Benjamin Clementine",
+"title": "In Fact You Know You Gotto Go"
+},
+{
+"id": "2026-10-25T06:44|Dove Ellis|Heaven Has No Wings",
+"t": "2026-10-25T06:44:00+01:00",
+"artist": "Dove Ellis",
+"title": "Heaven Has No Wings"
+},
+{
+"id": "2026-10-25T06:39|JGrrey feat. Bel Cobain|Take My Hand",
+"t": "2026-10-25T06:39:00+01:00",
+"artist": "JGrrey feat. Bel Cobain",
+"title": "Take My Hand"
+},
+{
+"id": "2026-10-25T06:36|Dekker|Pick It Up, Put It Back",
+"t": "2026-10-25T06:36:00+01:00",
+"artist": "Dekker",
+"title": "Pick It Up, Put It Back"
+},
 {
 "id": "2026-10-25T06:32|King Harvest|Dancing In The Moonlight",
 "t": "2026-10-25T06:32:00+01:00",
@@ -8924,18 +8956,6 @@
 "t": "2026-10-18T06:52:00+02:00",
 "artist": "Cults",
 "title": "Trials"
-},
-{
-"id": "2026-10-18T06:49|Oscar Farrell feat. Sampha|Dream Therapy",
-"t": "2026-10-18T06:49:00+02:00",
-"artist": "Oscar Farrell feat. Sampha",
-"title": "Dream Therapy"
-},
-{
-"id": "2026-10-18T06:43|The Zombies|Time of the season",
-"t": "2026-10-18T06:43:00+02:00",
-"artist": "The Zombies",
-"title": "Time of the season"
 }
 ],
 "cache": {
@@ -9098,10 +9118,6 @@
 "kaktus einarsson feat john grant|follow": {
 "u": "spotify:track:0bbPqdrMN94XmIlBQS21B3",
 "d": "2026-10-18T06:36:10.761918+02:00"
-},
-"the zombies|time of the season": {
-"u": "spotify:track:6lx1n63qJmhzPpirxxksbI",
-"d": "2026-10-18T06:50:18.859062+02:00"
 },
 "cults|trials": {
 "u": "spotify:track:0jXyPhXThA9Dx6aV2IDven",
