@@ -1,12 +1,20 @@
 {
-"updated": "2026-10-25T08:07:25.496423+01:00",
+"updated": "2026-10-25T08:18:25.498030+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-25T05:15:46.772432+01:00",
 "details": "51e4e36c2ea1",
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAUWKE0khfNJscELbwbjFnoXENH8Xd/",
+"snapshot": "AAAUgPBij4v1NwAAZwF8BQLpe85lmdrG",
 "playlist": [
+[
+"2026-10-25T08:12|Ane Brun|Do You Remember",
+"spotify:track:2mMGuqg7pwFUchbSl9Pdsl"
+],
+[
+"2026-10-25T08:05|Everyone Says Hi|Brain Freeze",
+"spotify:track:02Cr5SQLQtwWh43deIg2ev"
+],
 [
 "2026-10-25T07:58|Jonathan Richman & The Modern Lovers|Egyptian Reggae",
 "spotify:track:426eL4gFMqgtu3hulUEMFs"
@@ -3530,21 +3538,21 @@
 [
 "2026-10-18T08:27|MiA.|Linker Haken",
 "spotify:track:2ExYpZvG3nJmNEhqZBYEKv"
-],
-[
-"2026-10-18T08:18|Jamiroquai|Shake It On",
-"spotify:track:4bL5GNTF2zw5WyEle7irMf"
-],
-[
-"2026-10-18T08:14|Grace Cummings|I'm Not Crazy",
-"spotify:track:70QaE9UJ2uTVwC4IGS6yvU"
-],
-[
-"2026-10-18T08:08|Fuffifufzich|New Era",
-"spotify:track:0sF1TJMDGYxKvu9pp1JQkQ"
 ]
 ],
 "entries": [
+{
+"id": "2026-10-25T08:12|Ane Brun|Do You Remember",
+"t": "2026-10-25T08:12:00+01:00",
+"artist": "Ane Brun",
+"title": "Do You Remember"
+},
+{
+"id": "2026-10-25T08:05|Everyone Says Hi|Brain Freeze",
+"t": "2026-10-25T08:05:00+01:00",
+"artist": "Everyone Says Hi",
+"title": "Brain Freeze"
+},
 {
 "id": "2026-10-25T07:58|Jonathan Richman & The Modern Lovers|Egyptian Reggae",
 "t": "2026-10-25T07:58:00+01:00",
@@ -8938,24 +8946,6 @@
 "t": "2026-10-18T08:27:00+02:00",
 "artist": "MiA.",
 "title": "Linker Haken"
-},
-{
-"id": "2026-10-18T08:18|Jamiroquai|Shake It On",
-"t": "2026-10-18T08:18:00+02:00",
-"artist": "Jamiroquai",
-"title": "Shake It On"
-},
-{
-"id": "2026-10-18T08:14|Grace Cummings|I'm Not Crazy",
-"t": "2026-10-18T08:14:00+02:00",
-"artist": "Grace Cummings",
-"title": "I'm Not Crazy"
-},
-{
-"id": "2026-10-18T08:08|Fuffifufzich|New Era",
-"t": "2026-10-18T08:08:00+02:00",
-"artist": "Fuffifufzich",
-"title": "New Era"
 }
 ],
 "cache": {
@@ -9146,10 +9136,6 @@
 "grace cummings|i m not crazy": {
 "u": "spotify:track:70QaE9UJ2uTVwC4IGS6yvU",
 "d": "2026-10-18T08:21:18.869005+02:00"
-},
-"jamiroquai|shake it on": {
-"u": "spotify:track:4bL5GNTF2zw5WyEle7irMf",
-"d": "2026-10-18T08:26:18.869618+02:00"
 },
 "neal francis|hide": {
 "u": "spotify:track:197QlBcwTnJNU8DAf3BNLo",
@@ -11742,6 +11728,14 @@
 "jonathan richman the modern lovers|egyptian reggae": {
 "u": "spotify:track:426eL4gFMqgtu3hulUEMFs",
 "d": "2026-10-25T08:07:25.496423+01:00"
+},
+"everyone says hi|brain freeze": {
+"u": "spotify:track:02Cr5SQLQtwWh43deIg2ev",
+"d": "2026-10-25T08:11:25.497040+01:00"
+},
+"ane brun|do you remember": {
+"u": "spotify:track:2mMGuqg7pwFUchbSl9Pdsl",
+"d": "2026-10-25T08:16:25.497717+01:00"
 }
 }
 }
