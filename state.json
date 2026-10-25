@@ -1,11 +1,11 @@
 {
-"updated": "2026-10-25T05:23:25.476417+01:00",
+"updated": "2026-10-25T05:34:25.477702+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-25T05:15:46.772432+01:00",
 "details": "51e4e36c2ea1",
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAATCslH6ZwUn3ktT/X/NHyoDbdPhZuc",
+"snapshot": "AAATGCHuz4KYMVEdpsK8QbHQmJGDNKt4",
 "playlist": [
 [
 "2026-10-24T22:48|Worldpeace DMT|Ivy",
@@ -120,12 +120,28 @@
 "spotify:track:21DMNxn3lLWYqaTm3MeGAn"
 ],
 [
+"2026-10-24T10:49|Yello|Rubberbandman",
+"spotify:track:4DedncITEpiHWeYZmJKotP"
+],
+[
+"2026-10-24T10:45|Coldplay|Atlas",
+"spotify:track:2DI0fZ4QZmLtapszYaoG6F"
+],
+[
 "2026-10-24T10:35|Automatic|Mercury",
 "spotify:track:0koaXm11b7sizUYJ67ebyn"
 ],
 [
 "2026-10-24T10:31|Smidley feat. Lucy Dacus|Capstone",
 "spotify:track:0YosJMrYxYQP7mLXfFo0p1"
+],
+[
+"2026-10-24T10:24|Anika|Walk Away",
+"spotify:track:1ho4UhAtrDtziFysSO22wm"
+],
+[
+"2026-10-24T10:19|Primal Scream|Come Together",
+"spotify:track:5pB6xTBma66iumKQN4Ex2T"
 ],
 [
 "2026-10-24T10:09|L'Rain|Elmyra (Edit)",
@@ -140,12 +156,24 @@
 "spotify:track:4hAYraVhSzgMTdvftCcqKo"
 ],
 [
+"2026-10-24T09:50|Steve Mason|Words In My Head",
+"spotify:track:4klwD0wCeXWFseRnPVDoTW"
+],
+[
 "2026-10-24T09:48|Ethan French|Reckless And Arranged - Day 56",
 "spotify:track:6H2ZSdZkYYW63UM6K2GcFh"
 ],
 [
+"2026-10-24T09:37|Cocteau Twins|Lorelei",
+"spotify:track:1ZnXuijpwEBjhNxpEnb8WH"
+],
+[
 "2026-10-24T09:33|Vince Staples|Cotton",
 "spotify:track:2Dh62ulfuwM2lOWPy4TLEb"
+],
+[
+"2026-10-24T09:25|Sugarhill Gang|Rapper's Delight",
+"spotify:track:4506T8EPxwv27t2v84oIcY"
 ],
 [
 "2026-10-24T09:11|Austra & Patrick Holland|Siren Reprise",
@@ -1374,6 +1402,10 @@
 [
 "2026-10-22T05:52|EL VY|Return To The Moon",
 "spotify:track:1tFlVn4Eui4VsPTa5jlzIx"
+],
+[
+"2026-10-22T05:49|Belle & Sebastian|Act Of The Apostle Part 1",
+"spotify:track:2gDk1kZgffAesU0pGIInaG"
 ],
 [
 "2026-10-22T05:42|Saint Motel|My Type",
@@ -9309,7 +9341,7 @@
 },
 "benjamin booker benjamin evans kenny segal|show and tell": {
 "u": null,
-"d": "2026-10-22T05:29:38.818390+02:00"
+"d": "2026-10-25T05:27:25.476902+01:00"
 },
 "grant lee buffalo|fuzzy": {
 "u": "spotify:track:3Z9bMAaCLvkcvkUealsvXB",
@@ -10633,7 +10665,7 @@
 },
 "les reines prochaines|opfer dieses liedes wicked game": {
 "u": null,
-"d": "2026-10-22T05:22:38.817788+02:00"
+"d": "2026-10-25T05:27:25.476902+01:00"
 },
 "no doubt|don t speak": {
 "u": "spotify:track:6urCAbunOQI4bLhmGpX7iS",
@@ -10733,7 +10765,7 @@
 },
 "white rabbits|percussion gun": {
 "u": null,
-"d": "2026-10-22T05:36:38.819031+02:00"
+"d": "2026-10-25T05:26:25.476782+01:00"
 },
 "john butler trio|trees": {
 "u": "spotify:track:4WZZEBb61OhPsgyKQZlmaC",
@@ -10748,8 +10780,8 @@
 "d": "2026-10-22T05:56:38.820868+02:00"
 },
 "belle sebastian|act of the apostle part 1": {
-"u": null,
-"d": "2026-10-22T05:56:38.820868+02:00"
+"u": "spotify:track:2gDk1kZgffAesU0pGIInaG",
+"d": "2026-10-25T05:26:25.476782+01:00"
 },
 "dino|call me": {
 "u": "spotify:track:3f8I8HeQfXNwmzuCtyVsS6",
@@ -11682,6 +11714,34 @@
 "eagles|hotel california": {
 "u": "spotify:track:21DMNxn3lLWYqaTm3MeGAn",
 "d": "2026-10-25T05:23:25.476417+01:00"
+},
+"yello|rubberbandman": {
+"u": "spotify:track:4DedncITEpiHWeYZmJKotP",
+"d": "2026-10-25T05:24:25.476559+01:00"
+},
+"coldplay|atlas": {
+"u": "spotify:track:2DI0fZ4QZmLtapszYaoG6F",
+"d": "2026-10-25T05:24:25.476559+01:00"
+},
+"anika|walk away": {
+"u": "spotify:track:1ho4UhAtrDtziFysSO22wm",
+"d": "2026-10-25T05:24:25.476559+01:00"
+},
+"primal scream|come together": {
+"u": "spotify:track:5pB6xTBma66iumKQN4Ex2T",
+"d": "2026-10-25T05:25:25.476632+01:00"
+},
+"steve mason|words in my head": {
+"u": "spotify:track:4klwD0wCeXWFseRnPVDoTW",
+"d": "2026-10-25T05:25:25.476632+01:00"
+},
+"cocteau twins|lorelei": {
+"u": "spotify:track:1ZnXuijpwEBjhNxpEnb8WH",
+"d": "2026-10-25T05:25:25.476632+01:00"
+},
+"sugarhill gang|rapper s delight": {
+"u": "spotify:track:4506T8EPxwv27t2v84oIcY",
+"d": "2026-10-25T05:26:25.476782+01:00"
 }
 }
 }
