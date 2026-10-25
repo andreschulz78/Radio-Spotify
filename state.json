@@ -1,5 +1,5 @@
 {
-"updated": "2026-10-25T11:04:33.541220+01:00",
+"updated": "2026-10-25T11:15:33.542273+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-26T05:16:22.509567+01:00",
 "details": "51e4e36c2ea1",
@@ -3553,6 +3553,18 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-10-25T11:08|Tessa Rose Jackson|Built To Collide",
+"t": "2026-10-25T11:08:00+01:00",
+"artist": "Tessa Rose Jackson",
+"title": "Built To Collide"
+},
+{
+"id": "2026-10-25T11:05|Genesis Owusu|Human Again",
+"t": "2026-10-25T11:05:00+01:00",
+"artist": "Genesis Owusu",
+"title": "Human Again"
+},
 {
 "id": "2026-10-25T10:56|Prince & The New Power Generation|Money Don't Matter 2 Night",
 "t": "2026-10-25T10:56:00+01:00",
@@ -8976,12 +8988,6 @@
 "t": "2026-10-18T11:17:00+02:00",
 "artist": "Woodkid",
 "title": "I Love You"
-},
-{
-"id": "2026-10-18T11:08|Hayley Williams|Simmer",
-"t": "2026-10-18T11:08:00+02:00",
-"artist": "Hayley Williams",
-"title": "Simmer"
 }
 ],
 "cache": {
@@ -9200,10 +9206,6 @@
 "get well soon|siri what ruined the west": {
 "u": "spotify:track:3XY1xxFHeGHDDt33V6GoE2",
 "d": "2026-10-18T11:11:18.888347+02:00"
-},
-"hayley williams|simmer": {
-"u": "spotify:track:2moHnkHTSXBe9KjvPSQJvg",
-"d": "2026-10-18T11:16:18.888981+02:00"
 },
 "woodkid|i love you": {
 "u": "spotify:track:7wzdJPBBG17h4iJnqcGsDk",
