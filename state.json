@@ -1,12 +1,28 @@
 {
-"updated": "2026-10-25T08:29:25.499483+01:00",
+"updated": "2026-10-25T08:40:25.500819+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-25T05:15:46.772432+01:00",
 "details": "51e4e36c2ea1",
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAUkiKufQtmo6tNu3w8zFvHRqODdx6H",
+"snapshot": "AAAUrTBOrr7m8g5/LmiENhVKEAQG6Gyk",
 "playlist": [
+[
+"2026-10-25T08:35|Sofie Royer|Cowboy Mouth",
+"spotify:track:7qgYR8fHsHyyS5WKvA9srS"
+],
+[
+"2026-10-25T08:31|Westside Cowboy|Kick Stones (The Boys)",
+"spotify:track:6qIdkfxjme3OEkdgsA8ANp"
+],
+[
+"2026-10-25T08:27|Tom Waits|Long Way Home",
+"spotify:track:1CvBqoxfDF1C1HtSh1NhCH"
+],
+[
+"2026-10-25T08:23|Gilbert O' Sullivan|Alone Again (Naturally)",
+"spotify:track:54pvEYFocTlvIAQOfXSjqV"
+],
 [
 "2026-10-25T08:16|Ibeyi|Hurry Hurry",
 "spotify:track:4BGA7VW330Eu1kaFNi98cG"
@@ -3534,13 +3550,33 @@
 [
 "2026-10-18T08:42|Fleetwood Mac|Thrown Down",
 "spotify:track:4ffoKyYY6ElVpxUpE48jOc"
-],
-[
-"2026-10-18T08:31|Neal Francis|Hide",
-"spotify:track:197QlBcwTnJNU8DAf3BNLo"
 ]
 ],
 "entries": [
+{
+"id": "2026-10-25T08:35|Sofie Royer|Cowboy Mouth",
+"t": "2026-10-25T08:35:00+01:00",
+"artist": "Sofie Royer",
+"title": "Cowboy Mouth"
+},
+{
+"id": "2026-10-25T08:31|Westside Cowboy|Kick Stones (The Boys)",
+"t": "2026-10-25T08:31:00+01:00",
+"artist": "Westside Cowboy",
+"title": "Kick Stones (The Boys)"
+},
+{
+"id": "2026-10-25T08:27|Tom Waits|Long Way Home",
+"t": "2026-10-25T08:27:00+01:00",
+"artist": "Tom Waits",
+"title": "Long Way Home"
+},
+{
+"id": "2026-10-25T08:23|Gilbert O' Sullivan|Alone Again (Naturally)",
+"t": "2026-10-25T08:23:00+01:00",
+"artist": "Gilbert O' Sullivan",
+"title": "Alone Again (Naturally)"
+},
 {
 "id": "2026-10-25T08:16|Ibeyi|Hurry Hurry",
 "t": "2026-10-25T08:16:00+01:00",
@@ -8940,12 +8976,6 @@
 "t": "2026-10-18T08:42:00+02:00",
 "artist": "Fleetwood Mac",
 "title": "Thrown Down"
-},
-{
-"id": "2026-10-18T08:31|Neal Francis|Hide",
-"t": "2026-10-18T08:31:00+02:00",
-"artist": "Neal Francis",
-"title": "Hide"
 }
 ],
 "cache": {
@@ -11732,6 +11762,14 @@
 "ane brun|do you remember": {
 "u": "spotify:track:2mMGuqg7pwFUchbSl9Pdsl",
 "d": "2026-10-25T08:16:25.497717+01:00"
+},
+"gilbert o sullivan|alone again naturally": {
+"u": "spotify:track:54pvEYFocTlvIAQOfXSjqV",
+"d": "2026-10-25T08:31:25.499752+01:00"
+},
+"tom waits|long way home": {
+"u": "spotify:track:1CvBqoxfDF1C1HtSh1NhCH",
+"d": "2026-10-25T08:36:25.500360+01:00"
 }
 }
 }
