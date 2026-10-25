@@ -1,12 +1,24 @@
 {
-"updated": "2026-10-25T07:45:25.493708+01:00",
+"updated": "2026-10-25T07:56:25.494914+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-25T05:15:46.772432+01:00",
 "details": "51e4e36c2ea1",
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAUIlDHx4m0m+kizw4u6Y5tvLLT9jEi",
+"snapshot": "AAAUPQto5NIiIAnT6GwjI+SDTfEXayCE",
 "playlist": [
+[
+"2026-10-25T07:50|Freedom Fry|She Fell In Love On The Dance Floor",
+"spotify:track:22uuH9uHRSdS2y2zvS5uEt"
+],
+[
+"2026-10-25T07:47|Deki Alem|Mr Man",
+"spotify:track:37zztHh0JkdPuOYGzkLYKo"
+],
+[
+"2026-10-25T07:43|Kelela|the bridge (feat. PinkPantheress)",
+"spotify:track:4Og22Djtd18AVqNgijpLsX"
+],
 [
 "2026-10-25T07:35|The Notwist|Projectors",
 "spotify:track:6ndNhNpPvowtCtjHkMVAgi"
@@ -3526,21 +3538,27 @@
 [
 "2026-10-18T08:04|DJ Koze|Spiralen (Radio Edit)",
 "spotify:track:03ra0kWWPT8fW3sy6onMfc"
-],
-[
-"2026-10-18T07:56|Toad The Wet Sprocket|Walk On The Ocean",
-"spotify:track:2JAECj9kBYQHb8AqJ2rsxt"
-],
-[
-"2026-10-18T07:52|Bulgarian Cartrader|In My Zone (Radio Edit)",
-"spotify:track:5eRnR1gok6Btb2kYJICbsX"
-],
-[
-"2026-10-18T07:50|Jorja Smith|Don't Leave",
-"spotify:track:44kUOVs16iRf11YjO7aaRW"
 ]
 ],
 "entries": [
+{
+"id": "2026-10-25T07:50|Freedom Fry|She Fell In Love On The Dance Floor",
+"t": "2026-10-25T07:50:00+01:00",
+"artist": "Freedom Fry",
+"title": "She Fell In Love On The Dance Floor"
+},
+{
+"id": "2026-10-25T07:47|Deki Alem|Mr Man",
+"t": "2026-10-25T07:47:00+01:00",
+"artist": "Deki Alem",
+"title": "Mr Man"
+},
+{
+"id": "2026-10-25T07:43|Kelela|the bridge (feat. PinkPantheress)",
+"t": "2026-10-25T07:43:00+01:00",
+"artist": "Kelela",
+"title": "the bridge (feat. PinkPantheress)"
+},
 {
 "id": "2026-10-25T07:35|The Notwist|Projectors",
 "t": "2026-10-25T07:35:00+01:00",
@@ -8928,24 +8946,6 @@
 "t": "2026-10-18T08:04:00+02:00",
 "artist": "DJ Koze",
 "title": "Spiralen (Radio Edit)"
-},
-{
-"id": "2026-10-18T07:56|Toad The Wet Sprocket|Walk On The Ocean",
-"t": "2026-10-18T07:56:00+02:00",
-"artist": "Toad The Wet Sprocket",
-"title": "Walk On The Ocean"
-},
-{
-"id": "2026-10-18T07:52|Bulgarian Cartrader|In My Zone (Radio Edit)",
-"t": "2026-10-18T07:52:00+02:00",
-"artist": "Bulgarian Cartrader",
-"title": "In My Zone (Radio Edit)"
-},
-{
-"id": "2026-10-18T07:50|Jorja Smith|Don't Leave",
-"t": "2026-10-18T07:50:00+02:00",
-"artist": "Jorja Smith",
-"title": "Don't Leave"
 }
 ],
 "cache": {
@@ -9128,10 +9128,6 @@
 "jorja smith|don t leave": {
 "u": "spotify:track:44kUOVs16iRf11YjO7aaRW",
 "d": "2026-10-18T07:55:18.865968+02:00"
-},
-"toad the wet sprocket|walk on the ocean": {
-"u": "spotify:track:2JAECj9kBYQHb8AqJ2rsxt",
-"d": "2026-10-18T08:00:18.866578+02:00"
 },
 "dj koze|spiralen radio edit": {
 "u": "spotify:track:03ra0kWWPT8fW3sy6onMfc",
