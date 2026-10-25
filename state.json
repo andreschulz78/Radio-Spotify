@@ -1,12 +1,20 @@
 {
-"updated": "2026-10-25T07:56:25.494914+01:00",
+"updated": "2026-10-25T08:07:25.496423+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-25T05:15:46.772432+01:00",
 "details": "51e4e36c2ea1",
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAUPQto5NIiIAnT6GwjI+SDTfEXayCE",
+"snapshot": "AAAUWKE0khfNJscELbwbjFnoXENH8Xd/",
 "playlist": [
+[
+"2026-10-25T07:58|Jonathan Richman & The Modern Lovers|Egyptian Reggae",
+"spotify:track:426eL4gFMqgtu3hulUEMFs"
+],
+[
+"2026-10-25T07:55|Bat For Lashes|Daniel",
+"spotify:track:3jgGvWC8icBVtEj0ZzCvBf"
+],
 [
 "2026-10-25T07:50|Freedom Fry|She Fell In Love On The Dance Floor",
 "spotify:track:22uuH9uHRSdS2y2zvS5uEt"
@@ -3534,13 +3542,21 @@
 [
 "2026-10-18T08:08|Fuffifufzich|New Era",
 "spotify:track:0sF1TJMDGYxKvu9pp1JQkQ"
-],
-[
-"2026-10-18T08:04|DJ Koze|Spiralen (Radio Edit)",
-"spotify:track:03ra0kWWPT8fW3sy6onMfc"
 ]
 ],
 "entries": [
+{
+"id": "2026-10-25T07:58|Jonathan Richman & The Modern Lovers|Egyptian Reggae",
+"t": "2026-10-25T07:58:00+01:00",
+"artist": "Jonathan Richman & The Modern Lovers",
+"title": "Egyptian Reggae"
+},
+{
+"id": "2026-10-25T07:55|Bat For Lashes|Daniel",
+"t": "2026-10-25T07:55:00+01:00",
+"artist": "Bat For Lashes",
+"title": "Daniel"
+},
 {
 "id": "2026-10-25T07:50|Freedom Fry|She Fell In Love On The Dance Floor",
 "t": "2026-10-25T07:50:00+01:00",
@@ -8940,12 +8956,6 @@
 "t": "2026-10-18T08:08:00+02:00",
 "artist": "Fuffifufzich",
 "title": "New Era"
-},
-{
-"id": "2026-10-18T08:04|DJ Koze|Spiralen (Radio Edit)",
-"t": "2026-10-18T08:04:00+02:00",
-"artist": "DJ Koze",
-"title": "Spiralen (Radio Edit)"
 }
 ],
 "cache": {
@@ -11724,6 +11734,14 @@
 "the notwist|projectors": {
 "u": "spotify:track:6ndNhNpPvowtCtjHkMVAgi",
 "d": "2026-10-25T07:41:25.493299+01:00"
+},
+"bat for lashes|daniel": {
+"u": "spotify:track:3jgGvWC8icBVtEj0ZzCvBf",
+"d": "2026-10-25T08:01:25.495685+01:00"
+},
+"jonathan richman the modern lovers|egyptian reggae": {
+"u": "spotify:track:426eL4gFMqgtu3hulUEMFs",
+"d": "2026-10-25T08:07:25.496423+01:00"
 }
 }
 }
