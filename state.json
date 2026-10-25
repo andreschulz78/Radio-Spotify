@@ -1,12 +1,20 @@
 {
-"updated": "2026-10-25T06:18:25.483373+01:00",
+"updated": "2026-10-25T06:29:25.484698+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-25T05:15:46.772432+01:00",
 "details": "51e4e36c2ea1",
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAATPISRaM7IWHYXnPkERjwniv4BfUDh",
+"snapshot": "AAATYcOd83hEflU63N8hNdvFByZPbq8m",
 "playlist": [
+[
+"2026-10-25T06:21|The Stranglers|Golden Brown",
+"spotify:track:5GpfyJrKHJI36jDKtQiyGN"
+],
+[
+"2026-10-25T06:16|Lady Wray|Time",
+"spotify:track:6uA7PvBIjfp4FM08Doi7TH"
+],
 [
 "2026-10-25T06:12|Widowspeak|Soft Cover (Edit)",
 "spotify:track:4O6f5Bgs94sUNNkNAdNyhW"
@@ -3526,21 +3534,21 @@
 [
 "2026-10-18T06:32|Kaktus Einarsson feat. John Grant|Follow",
 "spotify:track:0bbPqdrMN94XmIlBQS21B3"
-],
-[
-"2026-10-18T06:27|Muse|Something Human",
-"spotify:track:1esX5rtwwssnsEQNQk0HGg"
-],
-[
-"2026-10-18T06:24|Mari Froes|Eu vou pro samba, viu?",
-"spotify:track:0ZirVpVEx943xdUD9bivHe"
-],
-[
-"2026-10-18T06:21|Snoop Dogg|My Medicine",
-"spotify:track:5jeXDGMNkY8G2bPsHLaNnm"
 ]
 ],
 "entries": [
+{
+"id": "2026-10-25T06:21|The Stranglers|Golden Brown",
+"t": "2026-10-25T06:21:00+01:00",
+"artist": "The Stranglers",
+"title": "Golden Brown"
+},
+{
+"id": "2026-10-25T06:16|Lady Wray|Time",
+"t": "2026-10-25T06:16:00+01:00",
+"artist": "Lady Wray",
+"title": "Time"
+},
 {
 "id": "2026-10-25T06:12|Widowspeak|Soft Cover (Edit)",
 "t": "2026-10-25T06:12:00+01:00",
@@ -8928,24 +8936,6 @@
 "t": "2026-10-18T06:32:00+02:00",
 "artist": "Kaktus Einarsson feat. John Grant",
 "title": "Follow"
-},
-{
-"id": "2026-10-18T06:27|Muse|Something Human",
-"t": "2026-10-18T06:27:00+02:00",
-"artist": "Muse",
-"title": "Something Human"
-},
-{
-"id": "2026-10-18T06:24|Mari Froes|Eu vou pro samba, viu?",
-"t": "2026-10-18T06:24:00+02:00",
-"artist": "Mari Froes",
-"title": "Eu vou pro samba, viu?"
-},
-{
-"id": "2026-10-18T06:21|Snoop Dogg|My Medicine",
-"t": "2026-10-18T06:21:00+02:00",
-"artist": "Snoop Dogg",
-"title": "My Medicine"
 }
 ],
 "cache": {
@@ -9104,14 +9094,6 @@
 "westside cowboy|kick stones the boys": {
 "u": "spotify:track:6qIdkfxjme3OEkdgsA8ANp",
 "d": "2026-10-18T06:11:10.758735+02:00"
-},
-"snoop dogg|my medicine": {
-"u": "spotify:track:5jeXDGMNkY8G2bPsHLaNnm",
-"d": "2026-10-18T06:27:10.760816+02:00"
-},
-"muse|something human": {
-"u": "spotify:track:1esX5rtwwssnsEQNQk0HGg",
-"d": "2026-10-18T06:31:10.761310+02:00"
 },
 "kaktus einarsson feat john grant|follow": {
 "u": "spotify:track:0bbPqdrMN94XmIlBQS21B3",
@@ -11728,6 +11710,10 @@
 "portugal the man|so american": {
 "u": "spotify:track:4vWNhCGqrNVfZxunY47GDf",
 "d": "2026-10-25T06:16:25.483170+01:00"
+},
+"the stranglers|golden brown": {
+"u": "spotify:track:5GpfyJrKHJI36jDKtQiyGN",
+"d": "2026-10-25T06:26:25.484324+01:00"
 }
 }
 }
