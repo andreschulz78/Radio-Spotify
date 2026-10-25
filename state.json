@@ -1,12 +1,16 @@
 {
-"updated": "2026-10-25T09:01:25.503561+01:00",
+"updated": "2026-10-25T09:12:25.504695+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-25T05:15:46.772432+01:00",
 "details": "51e4e36c2ea1",
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAU6DBax9IOLfwzT3Nv7Gx0CWsSZBYg",
+"snapshot": "AAAVA89/JOHXeO+Z1VoAfnTEMDp5f+8b",
 "playlist": [
+[
+"2026-10-25T09:04|Leon Bridges|Talk it over",
+"spotify:track:5Bdn8RyTqz4dV7F07EFBP5"
+],
 [
 "2026-10-25T08:56|Jordan Rakei|Enemies",
 "spotify:track:0X9GwAax0c0HPe3iIoDVW6"
@@ -3546,17 +3550,15 @@
 [
 "2026-10-18T09:13|The Beatles|While My Guitar Gently Weeps",
 "spotify:track:389QX9Q1eUOEZ19vtzzI9O"
-],
-[
-"2026-10-18T09:10|D-Troit|Do The Right Thing",
-"spotify:track:3YG33HJ4Jm3F1hfWSTgy1Y"
-],
-[
-"2026-10-18T09:04|Pamela.|Better than Before",
-"spotify:track:30ewsn0jSF9Jme7Altrz9X"
 ]
 ],
 "entries": [
+{
+"id": "2026-10-25T09:04|Leon Bridges|Talk it over",
+"t": "2026-10-25T09:04:00+01:00",
+"artist": "Leon Bridges",
+"title": "Talk it over"
+},
 {
 "id": "2026-10-25T08:56|Jordan Rakei|Enemies",
 "t": "2026-10-25T08:56:00+01:00",
@@ -8974,18 +8976,6 @@
 "t": "2026-10-18T09:13:00+02:00",
 "artist": "The Beatles",
 "title": "While My Guitar Gently Weeps"
-},
-{
-"id": "2026-10-18T09:10|D-Troit|Do The Right Thing",
-"t": "2026-10-18T09:10:00+02:00",
-"artist": "D-Troit",
-"title": "Do The Right Thing"
-},
-{
-"id": "2026-10-18T09:04|Pamela.|Better than Before",
-"t": "2026-10-18T09:04:00+02:00",
-"artist": "Pamela.",
-"title": "Better than Before"
 }
 ],
 "cache": {
@@ -9188,10 +9178,6 @@
 "pamela|better than before": {
 "u": "spotify:track:30ewsn0jSF9Jme7Altrz9X",
 "d": "2026-10-18T09:11:18.874567+02:00"
-},
-"d troit|do the right thing": {
-"u": "spotify:track:3YG33HJ4Jm3F1hfWSTgy1Y",
-"d": "2026-10-18T09:15:18.875133+02:00"
 },
 "the beatles|while my guitar gently weeps": {
 "u": "spotify:track:389QX9Q1eUOEZ19vtzzI9O",
