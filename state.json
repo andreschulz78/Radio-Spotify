@@ -1,12 +1,20 @@
 {
-"updated": "2026-10-26T08:34:56.996194+01:00",
+"updated": "2026-10-26T08:45:56.997618+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-26T05:16:22.509567+01:00",
 "details": "51e4e36c2ea1",
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAXoKyM0hv7TwSbJRfNZzQQbAGzh2Ae",
+"snapshot": "AAAXx78tuji+37/4KXD/AlrXjmJIo1ZT",
 "playlist": [
+[
+"2026-10-26T08:38|Suzanne Vega|Witch",
+"spotify:track:3pSW8h5ivnjGlTuTLXrHdP"
+],
+[
+"2026-10-26T08:32|Smidley feat. Lucy Dacus|Capstone",
+"spotify:track:0YosJMrYxYQP7mLXfFo0p1"
+],
 [
 "2026-10-26T08:25|Neneh Cherry|Woman",
 "spotify:track:1eOCyaSRBdFGofbLYjgGM2"
@@ -3602,17 +3610,21 @@
 [
 "2026-10-19T08:48|Overmono feat. Ruthven|Gem Lingo (ovr now)",
 "spotify:track:6dSqM0tWJPlchpmGrEwC1c"
-],
-[
-"2026-10-19T08:40|Skeleten|Love Enemy",
-"spotify:track:3t5FGeD2BnzgOcjxvCjvsm"
-],
-[
-"2026-10-19T08:37|Sassy 009 feat. Blood Orange|Tell Me (Jam City Remix) (Edit)",
-"spotify:track:1pDiRrLro0tlhsPSexB3Zv"
 ]
 ],
 "entries": [
+{
+"id": "2026-10-26T08:38|Suzanne Vega|Witch",
+"t": "2026-10-26T08:38:00+01:00",
+"artist": "Suzanne Vega",
+"title": "Witch"
+},
+{
+"id": "2026-10-26T08:32|Smidley feat. Lucy Dacus|Capstone",
+"t": "2026-10-26T08:32:00+01:00",
+"artist": "Smidley feat. Lucy Dacus",
+"title": "Capstone"
+},
 {
 "id": "2026-10-26T08:25|Neneh Cherry|Woman",
 "t": "2026-10-26T08:25:00+01:00",
@@ -9114,18 +9126,6 @@
 "t": "2026-10-19T08:48:00+02:00",
 "artist": "Overmono feat. Ruthven",
 "title": "Gem Lingo (ovr now)"
-},
-{
-"id": "2026-10-19T08:40|Skeleten|Love Enemy",
-"t": "2026-10-19T08:40:00+02:00",
-"artist": "Skeleten",
-"title": "Love Enemy"
-},
-{
-"id": "2026-10-19T08:37|Sassy 009 feat. Blood Orange|Tell Me (Jam City Remix) (Edit)",
-"t": "2026-10-19T08:37:00+02:00",
-"artist": "Sassy 009 feat. Blood Orange",
-"title": "Tell Me (Jam City Remix) (Edit)"
 }
 ],
 "cache": {
@@ -9380,10 +9380,6 @@
 "jamie xx|dream night": {
 "u": "spotify:track:2DewmibGFWxakcxvVyf2Tv",
 "d": "2026-10-19T07:41:53.003737+02:00"
-},
-"skeleten|love enemy": {
-"u": "spotify:track:3t5FGeD2BnzgOcjxvCjvsm",
-"d": "2026-10-19T08:46:53.012293+02:00"
 },
 "sassy 009 feat blood orange|tell me jam city remix edit": {
 "u": "spotify:track:1pDiRrLro0tlhsPSexB3Zv",
@@ -11952,6 +11948,10 @@
 "neneh cherry|woman": {
 "u": "spotify:track:1eOCyaSRBdFGofbLYjgGM2",
 "d": "2026-10-26T08:31:56.995783+01:00"
+},
+"suzanne vega|witch": {
+"u": "spotify:track:3pSW8h5ivnjGlTuTLXrHdP",
+"d": "2026-10-26T08:45:56.997618+01:00"
 }
 }
 }
