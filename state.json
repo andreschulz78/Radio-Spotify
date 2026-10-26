@@ -1,12 +1,20 @@
 {
-"updated": "2026-10-26T06:46:56.981046+01:00",
+"updated": "2026-10-26T06:57:56.982615+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-26T05:16:22.509567+01:00",
 "details": "51e4e36c2ea1",
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAWhlfcSRYlqwQK+PPwVKHIh5W/JQiH",
+"snapshot": "AAAWmnT+YmHJIm0DNCgfPaNwV6JVXhRf",
 "playlist": [
+[
+"2026-10-26T06:51|Pepe Deluxe|Ask For A Kiss",
+"spotify:track:75q2k6l5IpgdxR7A3FcioB"
+],
+[
+"2026-10-26T06:47|LP Giobbi|All I Need",
+"spotify:track:54DstnlyeCz0Zb2HDtBJaq"
+],
 [
 "2026-10-26T06:42|Joy Division|Love Will Tear Us Apart",
 "spotify:track:34iOH7LY3vme5rQxsVILZ4"
@@ -3606,17 +3614,21 @@
 [
 "2026-10-19T07:05|Friends|I'm His Girl",
 "spotify:track:7xJJExBSwaDZLwunMMEauF"
-],
-[
-"2026-10-19T06:56|Lola Young|From Down Here (Radio Edit)",
-"spotify:track:7Hg7l5aOygIHuaNDVFp3ox"
-],
-[
-"2026-10-19T06:51|Σtella|Omorfo Mou",
-"spotify:track:4KOhnlI6HqciJJYZILjylB"
 ]
 ],
 "entries": [
+{
+"id": "2026-10-26T06:51|Pepe Deluxe|Ask For A Kiss",
+"t": "2026-10-26T06:51:00+01:00",
+"artist": "Pepe Deluxe",
+"title": "Ask For A Kiss"
+},
+{
+"id": "2026-10-26T06:47|LP Giobbi|All I Need",
+"t": "2026-10-26T06:47:00+01:00",
+"artist": "LP Giobbi",
+"title": "All I Need"
+},
 {
 "id": "2026-10-26T06:42|Joy Division|Love Will Tear Us Apart",
 "t": "2026-10-26T06:42:00+01:00",
@@ -9124,18 +9136,6 @@
 "t": "2026-10-19T07:05:00+02:00",
 "artist": "Friends",
 "title": "I'm His Girl"
-},
-{
-"id": "2026-10-19T06:56|Lola Young|From Down Here (Radio Edit)",
-"t": "2026-10-19T06:56:00+02:00",
-"artist": "Lola Young",
-"title": "From Down Here (Radio Edit)"
-},
-{
-"id": "2026-10-19T06:51|Σtella|Omorfo Mou",
-"t": "2026-10-19T06:51:00+02:00",
-"artist": "Σtella",
-"title": "Omorfo Mou"
 }
 ],
 "cache": {
@@ -9382,10 +9382,6 @@
 "jamie t|tallahassee": {
 "u": "spotify:track:3Kwdvrz5PTUpAObYKNPlz0",
 "d": "2026-10-19T06:26:52.993611+02:00"
-},
-"tella|omorfo mou": {
-"u": "spotify:track:4KOhnlI6HqciJJYZILjylB",
-"d": "2026-10-19T06:56:52.997684+02:00"
 },
 "friends|i m his girl": {
 "u": "spotify:track:7xJJExBSwaDZLwunMMEauF",
@@ -11958,6 +11954,14 @@
 "joy division|love will tear us apart": {
 "u": "spotify:track:34iOH7LY3vme5rQxsVILZ4",
 "d": "2026-10-26T06:46:56.981046+01:00"
+},
+"lp giobbi|all i need": {
+"u": "spotify:track:54DstnlyeCz0Zb2HDtBJaq",
+"d": "2026-10-26T06:51:56.981781+01:00"
+},
+"pepe deluxe|ask for a kiss": {
+"u": "spotify:track:75q2k6l5IpgdxR7A3FcioB",
+"d": "2026-10-26T06:56:56.982508+01:00"
 }
 }
 }
