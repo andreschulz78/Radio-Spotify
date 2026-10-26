@@ -1,12 +1,24 @@
 {
-"updated": "2026-10-26T05:52:56.973680+01:00",
+"updated": "2026-10-26T06:03:56.975233+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-26T05:16:22.509567+01:00",
 "details": "51e4e36c2ea1",
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAV89MZdvOTNsMTfiZpMUoiU8KuI5gB",
+"snapshot": "AAAWCN+eqxkd2X0nOHShfLkSNOj/qWIV",
 "playlist": [
+[
+"2026-10-26T05:56|Pulp|Spike Island (Radio Edit)",
+"spotify:track:6g6DnHs3W4U6qMERbKwpDd"
+],
+[
+"2026-10-26T05:52|Friedberg|Go Wild",
+"spotify:track:1XlCgSoRWfxw2uL4Ofl7DR"
+],
+[
+"2026-10-26T05:49|Eilis Frawley|Taken, Never Erased",
+"spotify:track:5a3IV4xiA81Ucn98CHtJzb"
+],
 [
 "2026-10-26T05:43|Tank And The Bangas|Ain’t That Deep",
 "spotify:track:0PokJfPldX6FgGR7covt03"
@@ -3610,13 +3622,27 @@
 [
 "2026-10-19T06:05|Vendredi sur Mer|Chewing-Gum",
 "spotify:track:6lm181VpWTj8bYq6RUXkX1"
-],
-[
-"2026-10-19T05:56|Karen O & Danger Mouse|Super Breath",
-"spotify:track:71dMjqJ8UJV700zYs5YZCh"
 ]
 ],
 "entries": [
+{
+"id": "2026-10-26T05:56|Pulp|Spike Island (Radio Edit)",
+"t": "2026-10-26T05:56:00+01:00",
+"artist": "Pulp",
+"title": "Spike Island (Radio Edit)"
+},
+{
+"id": "2026-10-26T05:52|Friedberg|Go Wild",
+"t": "2026-10-26T05:52:00+01:00",
+"artist": "Friedberg",
+"title": "Go Wild"
+},
+{
+"id": "2026-10-26T05:49|Eilis Frawley|Taken, Never Erased",
+"t": "2026-10-26T05:49:00+01:00",
+"artist": "Eilis Frawley",
+"title": "Taken, Never Erased"
+},
 {
 "id": "2026-10-26T05:43|Tank And The Bangas|Ain’t That Deep",
 "t": "2026-10-26T05:43:00+01:00",
@@ -9130,12 +9156,6 @@
 "t": "2026-10-19T06:05:00+02:00",
 "artist": "Vendredi sur Mer",
 "title": "Chewing-Gum"
-},
-{
-"id": "2026-10-19T05:56|Karen O & Danger Mouse|Super Breath",
-"t": "2026-10-19T05:56:00+02:00",
-"artist": "Karen O & Danger Mouse",
-"title": "Super Breath"
 }
 ],
 "cache": {
@@ -9378,10 +9398,6 @@
 "nightbus|angles mortz": {
 "u": "spotify:track:5XvRng3X26Q3oGMEoFKsWo",
 "d": "2026-10-19T05:30:52.986249+02:00"
-},
-"karen o danger mouse|super breath": {
-"u": "spotify:track:71dMjqJ8UJV700zYs5YZCh",
-"d": "2026-10-19T06:00:52.990065+02:00"
 },
 "vendredi sur mer|chewing gum": {
 "u": "spotify:track:6lm181VpWTj8bYq6RUXkX1",
@@ -11962,6 +11978,14 @@
 "inxs|elegantly wasted": {
 "u": "spotify:track:55lr8uZyPVDEwcUCHLw7mz",
 "d": "2026-10-26T05:45:56.972733+01:00"
+},
+"friedberg|go wild": {
+"u": "spotify:track:1XlCgSoRWfxw2uL4Ofl7DR",
+"d": "2026-10-26T05:55:56.974115+01:00"
+},
+"pulp|spike island radio edit": {
+"u": "spotify:track:6g6DnHs3W4U6qMERbKwpDd",
+"d": "2026-10-26T06:01:56.974961+01:00"
 }
 }
 }
