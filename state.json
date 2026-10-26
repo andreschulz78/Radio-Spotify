@@ -1,5 +1,5 @@
 {
-"updated": "2026-10-26T04:59:56.966085+01:00",
+"updated": "2026-10-26T05:10:56.967634+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-26T05:16:22.509567+01:00",
 "details": "51e4e36c2ea1",
@@ -9078,18 +9078,6 @@
 "t": "2026-10-19T05:11:00+02:00",
 "artist": "Ethan French",
 "title": "Reckless And Arranged - Day 56"
-},
-{
-"id": "2026-10-19T05:07|Grant Lee Buffalo|Fuzzy",
-"t": "2026-10-19T05:07:00+02:00",
-"artist": "Grant Lee Buffalo",
-"title": "Fuzzy"
-},
-{
-"id": "2026-10-19T05:03|Benjamin Booker & Benjamin Evans & Kenny Segal|Show And Tell",
-"t": "2026-10-19T05:03:00+02:00",
-"artist": "Benjamin Booker & Benjamin Evans & Kenny Segal",
-"title": "Show And Tell"
 }
 ],
 "cache": {
@@ -9316,14 +9304,6 @@
 "tank and the bangas|ain t that deep": {
 "u": "spotify:track:0PokJfPldX6FgGR7covt03",
 "d": "2026-10-18T11:35:18.891140+02:00"
-},
-"benjamin booker benjamin evans kenny segal|show and tell": {
-"u": null,
-"d": "2026-10-25T05:27:25.476902+01:00"
-},
-"grant lee buffalo|fuzzy": {
-"u": "spotify:track:3Z9bMAaCLvkcvkUealsvXB",
-"d": "2026-10-19T05:10:46.872835+02:00"
 },
 "ethan french|reckless and arranged day 56": {
 "u": "spotify:track:6H2ZSdZkYYW63UM6K2GcFh",
