@@ -1,5 +1,5 @@
 {
-"updated": "2026-10-26T14:08:05.511260+01:00",
+"updated": "2026-10-26T14:19:05.512593+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-27T05:16:57.473384+01:00",
 "details": "51e4e36c2ea1",
@@ -3613,6 +3613,18 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-10-26T14:10|Friedberg|Goodwife",
+"t": "2026-10-26T14:10:00+01:00",
+"artist": "Friedberg",
+"title": "Goodwife"
+},
+{
+"id": "2026-10-26T14:06|Hercules & Love Affair|Blind",
+"t": "2026-10-26T14:06:00+01:00",
+"artist": "Hercules & Love Affair",
+"title": "Blind"
+},
 {
 "id": "2026-10-26T13:57|Westside Cowboy|Kick Stones (The Boys)",
 "t": "2026-10-26T13:57:00+01:00",
@@ -9114,24 +9126,6 @@
 "t": "2026-10-19T14:21:00+02:00",
 "artist": "Fujiya & Miyagi",
 "title": "Lowest Common Denominator"
-},
-{
-"id": "2026-10-19T14:18|Air|Don't Be Light",
-"t": "2026-10-19T14:18:00+02:00",
-"artist": "Air",
-"title": "Don't Be Light"
-},
-{
-"id": "2026-10-19T14:14|Aurora|All My Demons Greeting Me As A Friend",
-"t": "2026-10-19T14:14:00+02:00",
-"artist": "Aurora",
-"title": "All My Demons Greeting Me As A Friend"
-},
-{
-"id": "2026-10-19T14:09|Peter Fox|Stadtaffe",
-"t": "2026-10-19T14:09:00+02:00",
-"artist": "Peter Fox",
-"title": "Stadtaffe"
 }
 ],
 "cache": {
@@ -9427,20 +9421,12 @@
 "u": "spotify:track:69rHKcrQpYGfToPThOV1UB",
 "d": "2026-10-19T12:57:01.274258+02:00"
 },
-"peter fox|stadtaffe": {
-"u": "spotify:track:21TBDDSwfLO7w5vfHLniPB",
-"d": "2026-10-19T14:17:01.282238+02:00"
-},
 "aurora|all my demons greeting me as a friend": {
 "u": "spotify:track:5O1tikYb6HKrP5cxSQv0iV",
 "d": "2026-10-19T14:22:01.282781+02:00"
 },
 "fujiya miyagi|lowest common denominator": {
 "u": "spotify:track:17yyNFmPN0vP9jIaO7kRqU",
-"d": "2026-10-19T14:27:01.283327+02:00"
-},
-"air|don t be light": {
-"u": "spotify:track:7dH6ijjB12ouc9WXyYtMla",
 "d": "2026-10-19T14:27:01.283327+02:00"
 },
 "the war on drugs|who s that": {
