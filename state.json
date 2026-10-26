@@ -1,12 +1,20 @@
 {
-"updated": "2026-10-26T05:20:56.969166+01:00",
+"updated": "2026-10-26T05:31:56.970773+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-26T05:16:22.509567+01:00",
 "details": "51e4e36c2ea1",
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAVhb/m1I3TX8AyWKxIV9eEoWZmmjaj",
+"snapshot": "AAAVt/5C4jRgyLMIXOv6S3SOjd26GQfO",
 "playlist": [
+[
+"2026-10-26T05:23|Nation of Language|Whatever You Want",
+"spotify:track:62OfOhTfNtOI7WKxc08ujG"
+],
+[
+"2026-10-26T05:18|DJ Seinfeld feat. TS Graye|U Can't Come Home (Radio Edit)",
+"spotify:track:6cB7xUxRQgx1k9WwvRNoPr"
+],
 [
 "2026-10-26T05:11|Keshavara|Oracular",
 "spotify:track:41sGSIiPi1QAYaL6nUWSDg"
@@ -100,8 +108,20 @@
 "spotify:track:7Hg7l5aOygIHuaNDVFp3ox"
 ],
 [
+"2026-10-25T11:33|Bilderbuch|Maschin",
+"spotify:track:2Lg1njXKvhgv72U9QkrwXi"
+],
+[
 "2026-10-25T11:27|Tikhet|Burndowner",
 "spotify:track:76iRkapw7dHIlJhSoy7PCv"
+],
+[
+"2026-10-25T11:24|Baxter Dury|Mr W4",
+"spotify:track:4lMutNwoqKN9Nu3OH4YoN5"
+],
+[
+"2026-10-25T11:14|Dan Mangan|About As Helpful As You Can Be Without Being Any Help At all",
+"spotify:track:3N74seW1F0IOqUdZx1wWQW"
 ],
 [
 "2026-10-25T11:08|Tessa Rose Jackson|Built To Collide",
@@ -112,12 +132,44 @@
 "spotify:track:3uP7jqdt4haiuL4acLhrDY"
 ],
 [
+"2026-10-25T10:56|Prince & The New Power Generation|Money Don't Matter 2 Night",
+"spotify:track:4H5h8oKpjpxmD5oxatzApL"
+],
+[
+"2026-10-25T10:51|Father John Misty|The Payoff (Radio Edit)",
+"spotify:track:2WIcSjSoGt78KKBnzViTdC"
+],
+[
+"2026-10-25T10:42|Alain Bashung|Je T'Ai Manqué",
+"spotify:track:5ikGQ2bWqCzMm5wgempuY6"
+],
+[
 "2026-10-25T10:39|Bulgarian Cartrader|In My Zone (Radio Edit)",
 "spotify:track:5eRnR1gok6Btb2kYJICbsX"
 ],
 [
+"2026-10-25T10:30|Goldfrapp|Number 1",
+"spotify:track:1WVhulmaOQafvebRQ7O8w4"
+],
+[
+"2026-10-25T10:24|Elton John|Sorry Seems To Be The Hardest Word",
+"spotify:track:6XfxmT5QNCXvpZA6PKfWVL"
+],
+[
 "2026-10-25T10:15|Keshavara|Oracular",
 "spotify:track:41sGSIiPi1QAYaL6nUWSDg"
+],
+[
+"2026-10-25T10:08|Jalen Ngonda|All About Me",
+"spotify:track:60mXzhxdo3dtKYz1MNBLFD"
+],
+[
+"2026-10-25T10:05|Christine And The Queens|5 Dollars",
+"spotify:track:5KO53tfiVN6daF4w6twc63"
+],
+[
+"2026-10-25T09:57|Nneka|This Life",
+"spotify:track:7ImxwM9krvsFNUUpjDxZwU"
 ],
 [
 "2026-10-25T09:53|Beck|It Ends Right Here",
@@ -3566,17 +3618,21 @@
 [
 "2026-10-19T05:32|Alewya|Cairo FM",
 "spotify:track:6v7hCIRoJkuYShT0wls1gD"
-],
-[
-"2026-10-19T05:27|Nightbus|Angles Mortz",
-"spotify:track:5XvRng3X26Q3oGMEoFKsWo"
-],
-[
-"2026-10-19T05:23|Katy J Pearson|Those Goodbyes",
-"spotify:track:5k07ZCSMbldoDaSWuLLlWf"
 ]
 ],
 "entries": [
+{
+"id": "2026-10-26T05:23|Nation of Language|Whatever You Want",
+"t": "2026-10-26T05:23:00+01:00",
+"artist": "Nation of Language",
+"title": "Whatever You Want"
+},
+{
+"id": "2026-10-26T05:18|DJ Seinfeld feat. TS Graye|U Can't Come Home (Radio Edit)",
+"t": "2026-10-26T05:18:00+01:00",
+"artist": "DJ Seinfeld feat. TS Graye",
+"title": "U Can't Come Home (Radio Edit)"
+},
 {
 "id": "2026-10-26T05:11|Keshavara|Oracular",
 "t": "2026-10-26T05:11:00+01:00",
@@ -9090,18 +9146,6 @@
 "t": "2026-10-19T05:32:00+02:00",
 "artist": "Alewya",
 "title": "Cairo FM"
-},
-{
-"id": "2026-10-19T05:27|Nightbus|Angles Mortz",
-"t": "2026-10-19T05:27:00+02:00",
-"artist": "Nightbus",
-"title": "Angles Mortz"
-},
-{
-"id": "2026-10-19T05:23|Katy J Pearson|Those Goodbyes",
-"t": "2026-10-19T05:23:00+02:00",
-"artist": "Katy J Pearson",
-"title": "Those Goodbyes"
 }
 ],
 "cache": {
@@ -9343,10 +9387,6 @@
 },
 "nightbus|angles mortz": {
 "u": "spotify:track:5XvRng3X26Q3oGMEoFKsWo",
-"d": "2026-10-19T05:30:52.986249+02:00"
-},
-"katy j pearson|those goodbyes": {
-"u": "spotify:track:5k07ZCSMbldoDaSWuLLlWf",
 "d": "2026-10-19T05:30:52.986249+02:00"
 },
 "fountains of wayne|radiation vibe": {
@@ -9611,7 +9651,7 @@
 },
 "maps|a m a": {
 "u": null,
-"d": "2026-10-23T05:33:10.274854+02:00"
+"d": "2026-10-26T05:27:56.970172+01:00"
 },
 "hope tala|party sickness": {
 "u": "spotify:track:06DcUBxCvBAqvWgpExtbLE",
@@ -9815,7 +9855,7 @@
 },
 "deichkind|fresh ist vorne": {
 "u": null,
-"d": "2026-10-23T05:33:10.274854+02:00"
+"d": "2026-10-26T05:27:56.970172+01:00"
 },
 "can|spoon": {
 "u": "spotify:track:4bxRXojTBYrk1dbepAxRlb",
@@ -10975,15 +11015,15 @@
 },
 "the rolling stones|don t stop": {
 "u": null,
-"d": "2026-10-23T05:18:10.273552+02:00"
+"d": "2026-10-26T05:25:56.969881+01:00"
 },
 "the flying lizards|money that s what i want": {
 "u": null,
-"d": "2026-10-23T05:18:10.273552+02:00"
+"d": "2026-10-26T05:26:56.970020+01:00"
 },
 "the wholls|x21": {
 "u": null,
-"d": "2026-10-23T05:18:10.273552+02:00"
+"d": "2026-10-26T05:26:56.970020+01:00"
 },
 "rodriguez jr stereo mc s|turn the light on": {
 "u": "spotify:track:2gEXAZEFJ9Wf1tGJIyGBdT",
@@ -11071,7 +11111,7 @@
 },
 "tom liwa|fur die linke spur zu langsam": {
 "u": null,
-"d": "2026-10-23T05:26:10.274247+02:00"
+"d": "2026-10-26T05:25:56.969881+01:00"
 },
 "the asteroids galaxy tour|the golden age": {
 "u": "spotify:track:4f41kW6oJVM6FKl2O4LgQ7",
@@ -11127,7 +11167,7 @@
 },
 "totally enormous extinct dinosaurs|the distance edit": {
 "u": null,
-"d": "2026-10-23T05:30:10.274591+02:00"
+"d": "2026-10-26T05:26:56.970020+01:00"
 },
 "joy crookes|feet don t fail me now": {
 "u": "spotify:track:1GVkrFVc94CTjm9bdSmGjp",
@@ -11163,7 +11203,7 @@
 },
 "rainhard fendrich und reinhard mey|loch in der kanne live": {
 "u": null,
-"d": "2026-10-23T05:46:10.276010+02:00"
+"d": "2026-10-26T05:24:56.969751+01:00"
 },
 "angel olsen|what it is": {
 "u": "spotify:track:3YyM2diFk5zbUTfXso9NWy",
@@ -11892,6 +11932,54 @@
 "peter tosh|get up stand up": {
 "u": "spotify:track:4ksUiO1yOTsSQWd5Y2xu3R",
 "d": "2026-10-26T05:20:56.969166+01:00"
+},
+"bilderbuch|maschin": {
+"u": "spotify:track:2Lg1njXKvhgv72U9QkrwXi",
+"d": "2026-10-26T05:21:56.969314+01:00"
+},
+"baxter dury|mr w4": {
+"u": "spotify:track:4lMutNwoqKN9Nu3OH4YoN5",
+"d": "2026-10-26T05:21:56.969314+01:00"
+},
+"dan mangan|about as helpful as you can be without being any help at all": {
+"u": "spotify:track:3N74seW1F0IOqUdZx1wWQW",
+"d": "2026-10-26T05:21:56.969314+01:00"
+},
+"prince the new power generation|money don t matter 2 night": {
+"u": "spotify:track:4H5h8oKpjpxmD5oxatzApL",
+"d": "2026-10-26T05:22:56.969444+01:00"
+},
+"father john misty|the payoff radio edit": {
+"u": "spotify:track:2WIcSjSoGt78KKBnzViTdC",
+"d": "2026-10-26T05:22:56.969444+01:00"
+},
+"alain bashung|je t ai manque": {
+"u": "spotify:track:5ikGQ2bWqCzMm5wgempuY6",
+"d": "2026-10-26T05:22:56.969444+01:00"
+},
+"goldfrapp|number 1": {
+"u": "spotify:track:1WVhulmaOQafvebRQ7O8w4",
+"d": "2026-10-26T05:23:56.969588+01:00"
+},
+"elton john|sorry seems to be the hardest word": {
+"u": "spotify:track:6XfxmT5QNCXvpZA6PKfWVL",
+"d": "2026-10-26T05:23:56.969588+01:00"
+},
+"jalen ngonda|all about me": {
+"u": "spotify:track:60mXzhxdo3dtKYz1MNBLFD",
+"d": "2026-10-26T05:23:56.969588+01:00"
+},
+"christine and the queens|5 dollars": {
+"u": "spotify:track:5KO53tfiVN6daF4w6twc63",
+"d": "2026-10-26T05:24:56.969751+01:00"
+},
+"nneka|this life": {
+"u": "spotify:track:7ImxwM9krvsFNUUpjDxZwU",
+"d": "2026-10-26T05:24:56.969751+01:00"
+},
+"nation of language|whatever you want": {
+"u": "spotify:track:62OfOhTfNtOI7WKxc08ujG",
+"d": "2026-10-26T05:25:56.969881+01:00"
 }
 }
 }
