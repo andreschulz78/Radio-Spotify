@@ -1,12 +1,20 @@
 {
-"updated": "2026-10-26T06:35:56.979663+01:00",
+"updated": "2026-10-26T06:46:56.981046+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-26T05:16:22.509567+01:00",
 "details": "51e4e36c2ea1",
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAWXjQp6gdFzWfwHaE+CNFdG6mIOTS0",
+"snapshot": "AAAWhlfcSRYlqwQK+PPwVKHIh5W/JQiH",
 "playlist": [
+[
+"2026-10-26T06:42|Joy Division|Love Will Tear Us Apart",
+"spotify:track:34iOH7LY3vme5rQxsVILZ4"
+],
+[
+"2026-10-26T06:34|Nihils|Lavender",
+"spotify:track:24IHKK4RZRa5WYOEigkp5h"
+],
 [
 "2026-10-26T06:24|Alice Costelloe|How Can I",
 "spotify:track:6ev5ii9Zpk67XEhdNTtY5z"
@@ -3606,17 +3614,21 @@
 [
 "2026-10-19T06:51|Σtella|Omorfo Mou",
 "spotify:track:4KOhnlI6HqciJJYZILjylB"
-],
-[
-"2026-10-19T06:45|Icke & Er|Richtig geil",
-"spotify:track:2JoiO9t2QAzKTzGPvT8qsb"
-],
-[
-"2026-10-19T06:43|Roxy Music|Angel Eyes",
-"spotify:track:4KpVPbaqNrEl3ppkOzVsYm"
 ]
 ],
 "entries": [
+{
+"id": "2026-10-26T06:42|Joy Division|Love Will Tear Us Apart",
+"t": "2026-10-26T06:42:00+01:00",
+"artist": "Joy Division",
+"title": "Love Will Tear Us Apart"
+},
+{
+"id": "2026-10-26T06:34|Nihils|Lavender",
+"t": "2026-10-26T06:34:00+01:00",
+"artist": "Nihils",
+"title": "Lavender"
+},
 {
 "id": "2026-10-26T06:24|Alice Costelloe|How Can I",
 "t": "2026-10-26T06:24:00+01:00",
@@ -9124,18 +9136,6 @@
 "t": "2026-10-19T06:51:00+02:00",
 "artist": "Σtella",
 "title": "Omorfo Mou"
-},
-{
-"id": "2026-10-19T06:45|Icke & Er|Richtig geil",
-"t": "2026-10-19T06:45:00+02:00",
-"artist": "Icke & Er",
-"title": "Richtig geil"
-},
-{
-"id": "2026-10-19T06:43|Roxy Music|Angel Eyes",
-"t": "2026-10-19T06:43:00+02:00",
-"artist": "Roxy Music",
-"title": "Angel Eyes"
 }
 ],
 "cache": {
@@ -9382,14 +9382,6 @@
 "jamie t|tallahassee": {
 "u": "spotify:track:3Kwdvrz5PTUpAObYKNPlz0",
 "d": "2026-10-19T06:26:52.993611+02:00"
-},
-"roxy music|angel eyes": {
-"u": "spotify:track:4KpVPbaqNrEl3ppkOzVsYm",
-"d": "2026-10-19T06:46:52.996225+02:00"
-},
-"icke er|richtig geil": {
-"u": "spotify:track:2JoiO9t2QAzKTzGPvT8qsb",
-"d": "2026-10-19T06:50:52.996859+02:00"
 },
 "tella|omorfo mou": {
 "u": "spotify:track:4KOhnlI6HqciJJYZILjylB",
@@ -11962,6 +11954,10 @@
 "junior boys|hazel": {
 "u": "spotify:track:4qRHpUD1A7WoY8Wd9cE4ob",
 "d": "2026-10-26T06:26:56.978393+01:00"
+},
+"joy division|love will tear us apart": {
+"u": "spotify:track:34iOH7LY3vme5rQxsVILZ4",
+"d": "2026-10-26T06:46:56.981046+01:00"
 }
 }
 }
