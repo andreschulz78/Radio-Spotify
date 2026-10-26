@@ -1,12 +1,20 @@
 {
-"updated": "2026-10-26T08:45:56.997618+01:00",
+"updated": "2026-10-26T08:56:56.998898+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-26T05:16:22.509567+01:00",
 "details": "51e4e36c2ea1",
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAXx78tuji+37/4KXD/AlrXjmJIo1ZT",
+"snapshot": "AAAX2u2Wa95OqY86ezyCgxaFhe/C0775",
 "playlist": [
+[
+"2026-10-26T08:51|1-800 Girls feat. Art School Girlfriend|sometimes",
+"spotify:track:4akb3UnPEbDpUBc8JdQ5ED"
+],
+[
+"2026-10-26T08:47|Kiko King & Creativemaze|Resolution For Solitude",
+"spotify:track:4RyVYEciePnsTw2iyMIsVo"
+],
 [
 "2026-10-26T08:38|Suzanne Vega|Witch",
 "spotify:track:3pSW8h5ivnjGlTuTLXrHdP"
@@ -3602,17 +3610,21 @@
 [
 "2026-10-19T09:05|Wallners|Dracula",
 "spotify:track:5fDDkYPH5n7tXt7bVkQkay"
-],
-[
-"2026-10-19T08:55|Automatic|Mercury",
-"spotify:track:0koaXm11b7sizUYJ67ebyn"
-],
-[
-"2026-10-19T08:48|Overmono feat. Ruthven|Gem Lingo (ovr now)",
-"spotify:track:6dSqM0tWJPlchpmGrEwC1c"
 ]
 ],
 "entries": [
+{
+"id": "2026-10-26T08:51|1-800 Girls feat. Art School Girlfriend|sometimes",
+"t": "2026-10-26T08:51:00+01:00",
+"artist": "1-800 Girls feat. Art School Girlfriend",
+"title": "sometimes"
+},
+{
+"id": "2026-10-26T08:47|Kiko King & Creativemaze|Resolution For Solitude",
+"t": "2026-10-26T08:47:00+01:00",
+"artist": "Kiko King & Creativemaze",
+"title": "Resolution For Solitude"
+},
 {
 "id": "2026-10-26T08:38|Suzanne Vega|Witch",
 "t": "2026-10-26T08:38:00+01:00",
@@ -9114,18 +9126,6 @@
 "t": "2026-10-19T09:05:00+02:00",
 "artist": "Wallners",
 "title": "Dracula"
-},
-{
-"id": "2026-10-19T08:55|Automatic|Mercury",
-"t": "2026-10-19T08:55:00+02:00",
-"artist": "Automatic",
-"title": "Mercury"
-},
-{
-"id": "2026-10-19T08:48|Overmono feat. Ruthven|Gem Lingo (ovr now)",
-"t": "2026-10-19T08:48:00+02:00",
-"artist": "Overmono feat. Ruthven",
-"title": "Gem Lingo (ovr now)"
 }
 ],
 "cache": {
@@ -11952,6 +11952,10 @@
 "suzanne vega|witch": {
 "u": "spotify:track:3pSW8h5ivnjGlTuTLXrHdP",
 "d": "2026-10-26T08:45:56.997618+01:00"
+},
+"kiko king creativemaze|resolution for solitude": {
+"u": "spotify:track:4RyVYEciePnsTw2iyMIsVo",
+"d": "2026-10-26T08:55:56.998788+01:00"
 }
 }
 }
