@@ -1,5 +1,5 @@
 {
-"updated": "2026-10-26T18:32:16.317646+01:00",
+"updated": "2026-10-26T18:43:16.318825+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-27T05:16:57.473384+01:00",
 "details": "51e4e36c2ea1",
@@ -3613,6 +3613,12 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-10-26T18:33|Ibeyi|Hurry Hurry",
+"t": "2026-10-26T18:33:00+01:00",
+"artist": "Ibeyi",
+"title": "Hurry Hurry"
+},
 {
 "id": "2026-10-26T18:25|Waldeck feat. Joy Malcolm|Where Do We Go From Here?",
 "t": "2026-10-26T18:25:00+01:00",
@@ -9138,18 +9144,6 @@
 "t": "2026-10-19T18:44:00+02:00",
 "artist": "Fuffifufzich",
 "title": "Feel zu spät"
-},
-{
-"id": "2026-10-19T18:41|Leon Bridges|Talk it over",
-"t": "2026-10-19T18:41:00+02:00",
-"artist": "Leon Bridges",
-"title": "Talk it over"
-},
-{
-"id": "2026-10-19T18:34|Alewya|Maktoub",
-"t": "2026-10-19T18:34:00+02:00",
-"artist": "Alewya",
-"title": "Maktoub"
 }
 ],
 "cache": {
