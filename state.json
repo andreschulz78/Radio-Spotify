@@ -1,12 +1,16 @@
 {
-"updated": "2026-10-26T08:13:56.993301+01:00",
+"updated": "2026-10-26T08:23:56.994731+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-26T05:16:22.509567+01:00",
 "details": "51e4e36c2ea1",
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAXXD19DiP+lqqk144TkyCryHnzuv9M",
+"snapshot": "AAAXeXTxLIK3wD74vm625WQo0F1iYoQb",
 "playlist": [
+[
+"2026-10-26T08:13|Skeleten|Deep Scene",
+"spotify:track:6TET0I0j6OrNMHWl4PlkDi"
+],
 [
 "2026-10-26T08:05|MadCon|Beggin'",
 "spotify:track:55mjmUq3NuL6rt9aCcl4ZG"
@@ -3606,17 +3610,15 @@
 [
 "2026-10-19T08:25|Fred again.. feat. LATIN MAFIA|Te Estoy Correteando",
 "spotify:track:5B579RUazOpBcuxjTZWnMs"
-],
-[
-"2026-10-19T08:18|XTC|Making Plans For Nigel",
-"spotify:track:1XT5kxg6Tk0ukCO2vBQN4v"
-],
-[
-"2026-10-19T08:14|Kelela|the bridge (feat. PinkPantheress)",
-"spotify:track:4Og22Djtd18AVqNgijpLsX"
 ]
 ],
 "entries": [
+{
+"id": "2026-10-26T08:13|Skeleten|Deep Scene",
+"t": "2026-10-26T08:13:00+01:00",
+"artist": "Skeleten",
+"title": "Deep Scene"
+},
 {
 "id": "2026-10-26T08:05|MadCon|Beggin'",
 "t": "2026-10-26T08:05:00+01:00",
@@ -9124,18 +9126,6 @@
 "t": "2026-10-19T08:25:00+02:00",
 "artist": "Fred again.. feat. LATIN MAFIA",
 "title": "Te Estoy Correteando"
-},
-{
-"id": "2026-10-19T08:18|XTC|Making Plans For Nigel",
-"t": "2026-10-19T08:18:00+02:00",
-"artist": "XTC",
-"title": "Making Plans For Nigel"
-},
-{
-"id": "2026-10-19T08:14|Kelela|the bridge (feat. PinkPantheress)",
-"t": "2026-10-19T08:14:00+02:00",
-"artist": "Kelela",
-"title": "the bridge (feat. PinkPantheress)"
 }
 ],
 "cache": {
@@ -9390,10 +9380,6 @@
 "jamie xx|dream night": {
 "u": "spotify:track:2DewmibGFWxakcxvVyf2Tv",
 "d": "2026-10-19T07:41:53.003737+02:00"
-},
-"xtc|making plans for nigel": {
-"u": "spotify:track:1XT5kxg6Tk0ukCO2vBQN4v",
-"d": "2026-10-19T08:26:53.009481+02:00"
 },
 "fred again feat latin mafia|te estoy correteando": {
 "u": "spotify:track:5B579RUazOpBcuxjTZWnMs",
@@ -11966,6 +11952,10 @@
 "madcon|beggin": {
 "u": "spotify:track:55mjmUq3NuL6rt9aCcl4ZG",
 "d": "2026-10-26T08:10:56.992893+01:00"
+},
+"skeleten|deep scene": {
+"u": "spotify:track:6TET0I0j6OrNMHWl4PlkDi",
+"d": "2026-10-26T08:20:56.994318+01:00"
 }
 }
 }
