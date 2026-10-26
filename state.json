@@ -1,12 +1,20 @@
 {
-"updated": "2026-10-26T05:31:56.970773+01:00",
+"updated": "2026-10-26T05:41:56.972244+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-26T05:16:22.509567+01:00",
 "details": "51e4e36c2ea1",
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAVt/5C4jRgyLMIXOv6S3SOjd26GQfO",
+"snapshot": "AAAV1Xe4zSfZBf26VFwzsawph+lGflFc",
 "playlist": [
+[
+"2026-10-26T05:31|Hot Chip|Random Violence (Radio Edit)",
+"spotify:track:0T3vTM8KUAwGMukdAhNVj2"
+],
+[
+"2026-10-26T05:27|54 Ultra|Tell Me",
+"spotify:track:6iXIvHGsLMJ89TuW1S9E3C"
+],
 [
 "2026-10-26T05:23|Nation of Language|Whatever You Want",
 "spotify:track:62OfOhTfNtOI7WKxc08ujG"
@@ -3606,21 +3614,21 @@
 [
 "2026-10-19T05:47|Phantogram|Earthshaker",
 "spotify:track:3dcAXXsNJb2VgX7k1Okz2L"
-],
-[
-"2026-10-19T05:41|Flamingods|Meridian Glories",
-"spotify:track:00POAS7IxHmVlno151VSlc"
-],
-[
-"2026-10-19T05:36|Fountains Of Wayne|Radiation Vibe",
-"spotify:track:3XApt3UvXtv8y9S6DrAxCL"
-],
-[
-"2026-10-19T05:32|Alewya|Cairo FM",
-"spotify:track:6v7hCIRoJkuYShT0wls1gD"
 ]
 ],
 "entries": [
+{
+"id": "2026-10-26T05:31|Hot Chip|Random Violence (Radio Edit)",
+"t": "2026-10-26T05:31:00+01:00",
+"artist": "Hot Chip",
+"title": "Random Violence (Radio Edit)"
+},
+{
+"id": "2026-10-26T05:27|54 Ultra|Tell Me",
+"t": "2026-10-26T05:27:00+01:00",
+"artist": "54 Ultra",
+"title": "Tell Me"
+},
 {
 "id": "2026-10-26T05:23|Nation of Language|Whatever You Want",
 "t": "2026-10-26T05:23:00+01:00",
@@ -9128,24 +9136,6 @@
 "t": "2026-10-19T05:47:00+02:00",
 "artist": "Phantogram",
 "title": "Earthshaker"
-},
-{
-"id": "2026-10-19T05:41|Flamingods|Meridian Glories",
-"t": "2026-10-19T05:41:00+02:00",
-"artist": "Flamingods",
-"title": "Meridian Glories"
-},
-{
-"id": "2026-10-19T05:36|Fountains Of Wayne|Radiation Vibe",
-"t": "2026-10-19T05:36:00+02:00",
-"artist": "Fountains Of Wayne",
-"title": "Radiation Vibe"
-},
-{
-"id": "2026-10-19T05:32|Alewya|Cairo FM",
-"t": "2026-10-19T05:32:00+02:00",
-"artist": "Alewya",
-"title": "Cairo FM"
 }
 ],
 "cache": {
@@ -9388,14 +9378,6 @@
 "nightbus|angles mortz": {
 "u": "spotify:track:5XvRng3X26Q3oGMEoFKsWo",
 "d": "2026-10-19T05:30:52.986249+02:00"
-},
-"fountains of wayne|radiation vibe": {
-"u": "spotify:track:3XApt3UvXtv8y9S6DrAxCL",
-"d": "2026-10-19T05:41:52.987622+02:00"
-},
-"flamingods|meridian glories": {
-"u": "spotify:track:00POAS7IxHmVlno151VSlc",
-"d": "2026-10-19T05:46:52.988253+02:00"
 },
 "prince|i could never take the place of your man": {
 "u": "spotify:track:7Bsfh7tZyAf6L5iQti86Rq",
@@ -11980,6 +11962,10 @@
 "nation of language|whatever you want": {
 "u": "spotify:track:62OfOhTfNtOI7WKxc08ujG",
 "d": "2026-10-26T05:25:56.969881+01:00"
+},
+"hot chip|random violence radio edit": {
+"u": "spotify:track:0T3vTM8KUAwGMukdAhNVj2",
+"d": "2026-10-26T05:36:56.971550+01:00"
 }
 }
 }
