@@ -1,12 +1,20 @@
 {
-"updated": "2026-10-26T07:51:56.990342+01:00",
+"updated": "2026-10-26T08:02:56.991796+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-26T05:16:22.509567+01:00",
 "details": "51e4e36c2ea1",
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAXIfiUmSbGOX4fD9Ko0dSGa2EXbTCE",
+"snapshot": "AAAXSKCzqEWVssG+W6ms0Vrxvc8noHiZ",
 "playlist": [
+[
+"2026-10-26T07:56|Glass Animals|Your Love (Déjà Vu)",
+"spotify:track:5DYD4zlGiFlkpLaf2Bk8Vl"
+],
+[
+"2026-10-26T07:49|Still Blank|Ain't Quite Right (Edit)",
+"spotify:track:5nWOtBZtVpDEhPBhDZzudd"
+],
 [
 "2026-10-26T07:47|Mother Soki|Thicken",
 "spotify:track:1uQYHgPrjPBYG1d0D4RoTD"
@@ -3606,17 +3614,21 @@
 [
 "2026-10-19T08:05|Phoenix|1901",
 "spotify:track:68hYdj3GepWm2R202KhJT7"
-],
-[
-"2026-10-19T07:56|Portugal. The Man|What, Me Worry?",
-"spotify:track:0ePX6rVjeql7Bt1KurTbAG"
-],
-[
-"2026-10-19T07:53|Macy Gray|I Try",
-"spotify:track:5TAf4lnZCZTLlZHNZMLFLi"
 ]
 ],
 "entries": [
+{
+"id": "2026-10-26T07:56|Glass Animals|Your Love (Déjà Vu)",
+"t": "2026-10-26T07:56:00+01:00",
+"artist": "Glass Animals",
+"title": "Your Love (Déjà Vu)"
+},
+{
+"id": "2026-10-26T07:49|Still Blank|Ain't Quite Right (Edit)",
+"t": "2026-10-26T07:49:00+01:00",
+"artist": "Still Blank",
+"title": "Ain't Quite Right (Edit)"
+},
 {
 "id": "2026-10-26T07:47|Mother Soki|Thicken",
 "t": "2026-10-26T07:47:00+01:00",
@@ -9124,18 +9136,6 @@
 "t": "2026-10-19T08:05:00+02:00",
 "artist": "Phoenix",
 "title": "1901"
-},
-{
-"id": "2026-10-19T07:56|Portugal. The Man|What, Me Worry?",
-"t": "2026-10-19T07:56:00+02:00",
-"artist": "Portugal. The Man",
-"title": "What, Me Worry?"
-},
-{
-"id": "2026-10-19T07:53|Macy Gray|I Try",
-"t": "2026-10-19T07:53:00+02:00",
-"artist": "Macy Gray",
-"title": "I Try"
 }
 ],
 "cache": {
@@ -9390,14 +9390,6 @@
 "jamie xx|dream night": {
 "u": "spotify:track:2DewmibGFWxakcxvVyf2Tv",
 "d": "2026-10-19T07:41:53.003737+02:00"
-},
-"macy gray|i try": {
-"u": "spotify:track:5TAf4lnZCZTLlZHNZMLFLi",
-"d": "2026-10-19T07:55:53.005494+02:00"
-},
-"portugal the man|what me worry": {
-"u": "spotify:track:0ePX6rVjeql7Bt1KurTbAG",
-"d": "2026-10-19T08:01:53.006233+02:00"
 },
 "phoenix|1901": {
 "u": "spotify:track:68hYdj3GepWm2R202KhJT7",
@@ -11966,6 +11958,14 @@
 "mother soki|thicken": {
 "u": "spotify:track:1uQYHgPrjPBYG1d0D4RoTD",
 "d": "2026-10-26T07:51:56.990342+01:00"
+},
+"still blank|ain t quite right edit": {
+"u": "spotify:track:5nWOtBZtVpDEhPBhDZzudd",
+"d": "2026-10-26T07:57:56.991091+01:00"
+},
+"glass animals|your love deja vu": {
+"u": "spotify:track:5DYD4zlGiFlkpLaf2Bk8Vl",
+"d": "2026-10-26T08:00:56.991500+01:00"
 }
 }
 }
