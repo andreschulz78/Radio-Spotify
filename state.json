@@ -1,5 +1,5 @@
 {
-"updated": "2026-10-26T22:22:27.316943+01:00",
+"updated": "2026-10-26T22:33:27.318264+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-27T05:16:57.473384+01:00",
 "details": "51e4e36c2ea1",
@@ -3613,6 +3613,18 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-10-26T22:23|The Smashing Pumpkins|Black Stars",
+"t": "2026-10-26T22:23:00+01:00",
+"artist": "The Smashing Pumpkins",
+"title": "Black Stars"
+},
+{
+"id": "2026-10-26T22:19|Angine de Poitrine|Tohogd",
+"t": "2026-10-26T22:19:00+01:00",
+"artist": "Angine de Poitrine",
+"title": "Tohogd"
+},
 {
 "id": "2026-10-26T22:13|Puscifer|Self Evident",
 "t": "2026-10-26T22:13:00+01:00",
