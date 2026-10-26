@@ -1,5 +1,5 @@
 {
-"updated": "2026-10-26T17:37:16.312253+01:00",
+"updated": "2026-10-26T17:48:16.313354+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-27T05:16:57.473384+01:00",
 "details": "51e4e36c2ea1",
@@ -3613,6 +3613,18 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-10-26T17:43|Agnes Obel|Laymelli (Edit)",
+"t": "2026-10-26T17:43:00+01:00",
+"artist": "Agnes Obel",
+"title": "Laymelli (Edit)"
+},
+{
+"id": "2026-10-26T17:36|Horace Silver|Song for my father",
+"t": "2026-10-26T17:36:00+01:00",
+"artist": "Horace Silver",
+"title": "Song for my father"
+},
 {
 "id": "2026-10-26T17:32|Romy|Lifetime",
 "t": "2026-10-26T17:32:00+01:00",
@@ -9132,12 +9144,6 @@
 "t": "2026-10-19T17:50:00+02:00",
 "artist": "Milan Ring",
 "title": "Leo"
-},
-{
-"id": "2026-10-19T17:41|The Art Of Noise|Peter Gunn",
-"t": "2026-10-19T17:41:00+02:00",
-"artist": "The Art Of Noise",
-"title": "Peter Gunn"
 }
 ],
 "cache": {
@@ -9464,10 +9470,6 @@
 "serebii|even in the quiet": {
 "u": "spotify:track:5ZIYdecFkCGyT6Tbyk7rAq",
 "d": "2026-10-19T17:41:13.021646+02:00"
-},
-"the art of noise|peter gunn": {
-"u": "spotify:track:1MeMfXuGPbO4qWVFZ1MeAV",
-"d": "2026-10-19T17:46:13.022179+02:00"
 },
 "lady wray|time": {
 "u": "spotify:track:6uA7PvBIjfp4FM08Doi7TH",
