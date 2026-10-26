@@ -1,5 +1,5 @@
 {
-"updated": "2026-10-26T13:02:05.503021+01:00",
+"updated": "2026-10-26T13:13:05.504475+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-27T05:16:57.473384+01:00",
 "details": "51e4e36c2ea1",
@@ -3613,6 +3613,12 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-10-26T13:05|Leon Bridges|Talk it over",
+"t": "2026-10-26T13:05:00+01:00",
+"artist": "Leon Bridges",
+"title": "Talk it over"
+},
 {
 "id": "2026-10-26T12:53|Haerts|Shivering",
 "t": "2026-10-26T12:53:00+01:00",
@@ -9114,18 +9120,6 @@
 "t": "2026-10-19T13:16:00+02:00",
 "artist": "Maxime Denuc",
 "title": "Sueños"
-},
-{
-"id": "2026-10-19T13:09|Fad Gadget|Collapsing New People",
-"t": "2026-10-19T13:09:00+02:00",
-"artist": "Fad Gadget",
-"title": "Collapsing New People"
-},
-{
-"id": "2026-10-19T13:05|The Big Moon|F.O.R.E.V.E.R",
-"t": "2026-10-19T13:05:00+02:00",
-"artist": "The Big Moon",
-"title": "F.O.R.E.V.E.R"
 }
 ],
 "cache": {
@@ -9424,10 +9418,6 @@
 "fontaines d c|marianne": {
 "u": "spotify:track:69rHKcrQpYGfToPThOV1UB",
 "d": "2026-10-19T12:57:01.274258+02:00"
-},
-"fad gadget|collapsing new people": {
-"u": "spotify:track:1Gl6hl9aROxra536kT0Zz3",
-"d": "2026-10-19T13:17:01.276217+02:00"
 },
 "ruti|luh luh love": {
 "u": "spotify:track:4xVDOfh1nGM4xlKMm7Tlq2",
