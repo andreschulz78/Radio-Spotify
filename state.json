@@ -1,5 +1,5 @@
 {
-"updated": "2026-10-26T22:44:27.319531+01:00",
+"updated": "2026-10-26T22:55:27.320819+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-27T05:16:57.473384+01:00",
 "details": "51e4e36c2ea1",
@@ -3613,6 +3613,12 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-10-26T22:42|Wolves In The Throne Room|Foretold In Reflections",
+"t": "2026-10-26T22:42:00+01:00",
+"artist": "Wolves In The Throne Room",
+"title": "Foretold In Reflections"
+},
 {
 "id": "2026-10-26T22:35|Fontaines D.C.|Boys In The Better Land",
 "t": "2026-10-26T22:35:00+01:00",
