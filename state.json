@@ -1,5 +1,5 @@
 {
-"updated": "2026-10-26T10:18:05.481957+01:00",
+"updated": "2026-10-26T10:29:05.483322+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-27T05:16:57.473384+01:00",
 "details": "51e4e36c2ea1",
@@ -3613,6 +3613,18 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-10-26T10:23|Niki & The Dove|Play it on my radio",
+"t": "2026-10-26T10:23:00+01:00",
+"artist": "Niki & The Dove",
+"title": "Play it on my radio"
+},
+{
+"id": "2026-10-26T10:19|Gil Scott-Heron|Me And The Devil",
+"t": "2026-10-26T10:19:00+01:00",
+"artist": "Gil Scott-Heron",
+"title": "Me And The Devil"
+},
 {
 "id": "2026-10-26T10:08|Σtella|Belinda",
 "t": "2026-10-26T10:08:00+01:00",
@@ -9114,24 +9126,6 @@
 "t": "2026-10-19T10:32:00+02:00",
 "artist": "Austra & Patrick Holland",
 "title": "Siren Reprise"
-},
-{
-"id": "2026-10-19T10:27|ANOHNI|Drone Bomb Me",
-"t": "2026-10-19T10:27:00+02:00",
-"artist": "ANOHNI",
-"title": "Drone Bomb Me"
-},
-{
-"id": "2026-10-19T10:23|JJerome87|Green Velvet",
-"t": "2026-10-19T10:23:00+02:00",
-"artist": "JJerome87",
-"title": "Green Velvet"
-},
-{
-"id": "2026-10-19T10:20|Duran Duran|A View To A Kill",
-"t": "2026-10-19T10:20:00+02:00",
-"artist": "Duran Duran",
-"title": "A View To A Kill"
 }
 ],
 "cache": {
@@ -9406,14 +9400,6 @@
 "leon bridges|light the way": {
 "u": "spotify:track:3G1hTUddM2diIyYA0yy9kS",
 "d": "2026-10-19T09:55:53.021949+02:00"
-},
-"duran duran|a view to a kill": {
-"u": "spotify:track:2tE7poxpzLc0OOdCce9wpq",
-"d": "2026-10-19T10:26:53.026074+02:00"
-},
-"anohni|drone bomb me": {
-"u": "spotify:track:6JZfK4Z75nZm3VcZOVrpy0",
-"d": "2026-10-19T10:30:53.026605+02:00"
 },
 "jjerome87|green velvet": {
 "u": "spotify:track:4tYeJ03pfClYTXqhao6PJf",
