@@ -1,5 +1,5 @@
 {
-"updated": "2026-10-26T13:24:05.505954+01:00",
+"updated": "2026-10-26T13:35:05.507323+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-27T05:16:57.473384+01:00",
 "details": "51e4e36c2ea1",
@@ -3613,6 +3613,24 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-10-26T13:24|Public Image Ltd|Rise",
+"t": "2026-10-26T13:24:00+01:00",
+"artist": "Public Image Ltd",
+"title": "Rise"
+},
+{
+"id": "2026-10-26T13:21|Drahthaus|Alle gegen alle",
+"t": "2026-10-26T13:21:00+01:00",
+"artist": "Drahthaus",
+"title": "Alle gegen alle"
+},
+{
+"id": "2026-10-26T13:18|Flora Hibberd|Bowling Ball",
+"t": "2026-10-26T13:18:00+01:00",
+"artist": "Flora Hibberd",
+"title": "Bowling Ball"
+},
 {
 "id": "2026-10-26T13:08|Primal Scream|Higher Than The Sun",
 "t": "2026-10-26T13:08:00+01:00",
@@ -9096,18 +9114,6 @@
 "t": "2026-10-19T13:39:00+02:00",
 "artist": "Nia Archives",
 "title": "Vertical"
-},
-{
-"id": "2026-10-19T13:35|Hope Tala|Party Sickness",
-"t": "2026-10-19T13:35:00+02:00",
-"artist": "Hope Tala",
-"title": "Party Sickness"
-},
-{
-"id": "2026-10-19T13:28|Maps|A.M.A.",
-"t": "2026-10-19T13:28:00+02:00",
-"artist": "Maps",
-"title": "A.M.A."
 }
 ],
 "cache": {
@@ -9402,14 +9408,6 @@
 "fontaines d c|marianne": {
 "u": "spotify:track:69rHKcrQpYGfToPThOV1UB",
 "d": "2026-10-19T12:57:01.274258+02:00"
-},
-"maps|a m a": {
-"u": null,
-"d": "2026-10-26T05:27:56.970172+01:00"
-},
-"hope tala|party sickness": {
-"u": "spotify:track:06DcUBxCvBAqvWgpExtbLE",
-"d": "2026-10-19T13:41:01.278620+02:00"
 },
 "nia archives|vertical": {
 "u": "spotify:track:0ecQazzKkndVD8Ry9Orp9Q",
