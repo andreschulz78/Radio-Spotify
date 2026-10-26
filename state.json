@@ -1,12 +1,16 @@
 {
-"updated": "2026-10-26T08:02:56.991796+01:00",
+"updated": "2026-10-26T08:13:56.993301+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-26T05:16:22.509567+01:00",
 "details": "51e4e36c2ea1",
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAXSKCzqEWVssG+W6ms0Vrxvc8noHiZ",
+"snapshot": "AAAXXD19DiP+lqqk144TkyCryHnzuv9M",
 "playlist": [
+[
+"2026-10-26T08:05|MadCon|Beggin'",
+"spotify:track:55mjmUq3NuL6rt9aCcl4ZG"
+],
 [
 "2026-10-26T07:56|Glass Animals|Your Love (Déjà Vu)",
 "spotify:track:5DYD4zlGiFlkpLaf2Bk8Vl"
@@ -3610,13 +3614,15 @@
 [
 "2026-10-19T08:14|Kelela|the bridge (feat. PinkPantheress)",
 "spotify:track:4Og22Djtd18AVqNgijpLsX"
-],
-[
-"2026-10-19T08:05|Phoenix|1901",
-"spotify:track:68hYdj3GepWm2R202KhJT7"
 ]
 ],
 "entries": [
+{
+"id": "2026-10-26T08:05|MadCon|Beggin'",
+"t": "2026-10-26T08:05:00+01:00",
+"artist": "MadCon",
+"title": "Beggin'"
+},
 {
 "id": "2026-10-26T07:56|Glass Animals|Your Love (Déjà Vu)",
 "t": "2026-10-26T07:56:00+01:00",
@@ -9130,12 +9136,6 @@
 "t": "2026-10-19T08:14:00+02:00",
 "artist": "Kelela",
 "title": "the bridge (feat. PinkPantheress)"
-},
-{
-"id": "2026-10-19T08:05|Phoenix|1901",
-"t": "2026-10-19T08:05:00+02:00",
-"artist": "Phoenix",
-"title": "1901"
 }
 ],
 "cache": {
@@ -9390,10 +9390,6 @@
 "jamie xx|dream night": {
 "u": "spotify:track:2DewmibGFWxakcxvVyf2Tv",
 "d": "2026-10-19T07:41:53.003737+02:00"
-},
-"phoenix|1901": {
-"u": "spotify:track:68hYdj3GepWm2R202KhJT7",
-"d": "2026-10-19T08:10:53.007437+02:00"
 },
 "xtc|making plans for nigel": {
 "u": "spotify:track:1XT5kxg6Tk0ukCO2vBQN4v",
@@ -11966,6 +11962,10 @@
 "glass animals|your love deja vu": {
 "u": "spotify:track:5DYD4zlGiFlkpLaf2Bk8Vl",
 "d": "2026-10-26T08:00:56.991500+01:00"
+},
+"madcon|beggin": {
+"u": "spotify:track:55mjmUq3NuL6rt9aCcl4ZG",
+"d": "2026-10-26T08:10:56.992893+01:00"
 }
 }
 }
