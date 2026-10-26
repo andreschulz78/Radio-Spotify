@@ -1,5 +1,5 @@
 {
-"updated": "2026-10-26T21:49:27.312866+01:00",
+"updated": "2026-10-26T22:00:27.314281+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-27T05:16:57.473384+01:00",
 "details": "51e4e36c2ea1",
@@ -3613,6 +3613,18 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-10-26T21:48|Foals|What Went Down",
+"t": "2026-10-26T21:48:00+01:00",
+"artist": "Foals",
+"title": "What Went Down"
+},
+{
+"id": "2026-10-26T21:45|Fontaines D.C.|Tongue",
+"t": "2026-10-26T21:45:00+01:00",
+"artist": "Fontaines D.C.",
+"title": "Tongue"
+},
 {
 "id": "2026-10-26T21:39|Samiam|Crystallized",
 "t": "2026-10-26T21:39:00+01:00",
