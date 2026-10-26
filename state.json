@@ -1,12 +1,20 @@
 {
-"updated": "2026-10-26T07:08:56.984235+01:00",
+"updated": "2026-10-26T07:19:56.985785+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-26T05:16:22.509567+01:00",
 "details": "51e4e36c2ea1",
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAWpFW19f2++WQ+nSYjwUPJdydKZHCJ",
+"snapshot": "AAAWud8IOvdqKyHl9cu+12fRKCgwsyWu",
 "playlist": [
+[
+"2026-10-26T07:10|Kaktus Einarsson feat. John Grant|Follow",
+"spotify:track:0bbPqdrMN94XmIlBQS21B3"
+],
+[
+"2026-10-26T07:05|PRESSYES|Purpose (Radio Edit)",
+"spotify:track:06b3aZwELDmgee9WBfewLn"
+],
 [
 "2026-10-26T06:57|Beirut|Gallipoli",
 "spotify:track:3rWZv4pUVvPkQLYm3ItGDv"
@@ -3606,17 +3614,21 @@
 [
 "2026-10-19T07:23|Mk.gee|Alesis",
 "spotify:track:1fAaC0BVOACO5hmyiwIqAG"
-],
-[
-"2026-10-19T07:16|Jungle|Someday, Somewhere",
-"spotify:track:20FqWsyuUaQTU5tk4nP6eN"
-],
-[
-"2026-10-19T07:12|John Frusciante|Going Inside",
-"spotify:track:7vxlM6ouhpJy5WMEZqU7vV"
 ]
 ],
 "entries": [
+{
+"id": "2026-10-26T07:10|Kaktus Einarsson feat. John Grant|Follow",
+"t": "2026-10-26T07:10:00+01:00",
+"artist": "Kaktus Einarsson feat. John Grant",
+"title": "Follow"
+},
+{
+"id": "2026-10-26T07:05|PRESSYES|Purpose (Radio Edit)",
+"t": "2026-10-26T07:05:00+01:00",
+"artist": "PRESSYES",
+"title": "Purpose (Radio Edit)"
+},
 {
 "id": "2026-10-26T06:57|Beirut|Gallipoli",
 "t": "2026-10-26T06:57:00+01:00",
@@ -9124,18 +9136,6 @@
 "t": "2026-10-19T07:23:00+02:00",
 "artist": "Mk.gee",
 "title": "Alesis"
-},
-{
-"id": "2026-10-19T07:16|Jungle|Someday, Somewhere",
-"t": "2026-10-19T07:16:00+02:00",
-"artist": "Jungle",
-"title": "Someday, Somewhere"
-},
-{
-"id": "2026-10-19T07:12|John Frusciante|Going Inside",
-"t": "2026-10-19T07:12:00+02:00",
-"artist": "John Frusciante",
-"title": "Going Inside"
 }
 ],
 "cache": {
@@ -9382,10 +9382,6 @@
 "jamie t|tallahassee": {
 "u": "spotify:track:3Kwdvrz5PTUpAObYKNPlz0",
 "d": "2026-10-19T06:26:52.993611+02:00"
-},
-"john frusciante|going inside": {
-"u": "spotify:track:7vxlM6ouhpJy5WMEZqU7vV",
-"d": "2026-10-19T07:16:53.000392+02:00"
 },
 "mk gee|alesis": {
 "u": "spotify:track:1fAaC0BVOACO5hmyiwIqAG",
@@ -11962,6 +11958,10 @@
 "beirut|gallipoli": {
 "u": "spotify:track:3rWZv4pUVvPkQLYm3ItGDv",
 "d": "2026-10-26T07:05:56.983752+01:00"
+},
+"pressyes|purpose radio edit": {
+"u": "spotify:track:06b3aZwELDmgee9WBfewLn",
+"d": "2026-10-26T07:11:56.984655+01:00"
 }
 }
 }
