@@ -1,12 +1,20 @@
 {
-"updated": "2026-10-26T05:41:56.972244+01:00",
+"updated": "2026-10-26T05:52:56.973680+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-26T05:16:22.509567+01:00",
 "details": "51e4e36c2ea1",
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAV1Xe4zSfZBf26VFwzsawph+lGflFc",
+"snapshot": "AAAV89MZdvOTNsMTfiZpMUoiU8KuI5gB",
 "playlist": [
+[
+"2026-10-26T05:43|Tank And The Bangas|Ain’t That Deep",
+"spotify:track:0PokJfPldX6FgGR7covt03"
+],
+[
+"2026-10-26T05:38|INXS|Elegantly wasted",
+"spotify:track:55lr8uZyPVDEwcUCHLw7mz"
+],
 [
 "2026-10-26T05:31|Hot Chip|Random Violence (Radio Edit)",
 "spotify:track:0T3vTM8KUAwGMukdAhNVj2"
@@ -3606,17 +3614,21 @@
 [
 "2026-10-19T05:56|Karen O & Danger Mouse|Super Breath",
 "spotify:track:71dMjqJ8UJV700zYs5YZCh"
-],
-[
-"2026-10-19T05:50|Prince|I Could Never Take The Place Of Your Man",
-"spotify:track:7Bsfh7tZyAf6L5iQti86Rq"
-],
-[
-"2026-10-19T05:47|Phantogram|Earthshaker",
-"spotify:track:3dcAXXsNJb2VgX7k1Okz2L"
 ]
 ],
 "entries": [
+{
+"id": "2026-10-26T05:43|Tank And The Bangas|Ain’t That Deep",
+"t": "2026-10-26T05:43:00+01:00",
+"artist": "Tank And The Bangas",
+"title": "Ain’t That Deep"
+},
+{
+"id": "2026-10-26T05:38|INXS|Elegantly wasted",
+"t": "2026-10-26T05:38:00+01:00",
+"artist": "INXS",
+"title": "Elegantly wasted"
+},
 {
 "id": "2026-10-26T05:31|Hot Chip|Random Violence (Radio Edit)",
 "t": "2026-10-26T05:31:00+01:00",
@@ -9124,18 +9136,6 @@
 "t": "2026-10-19T05:56:00+02:00",
 "artist": "Karen O & Danger Mouse",
 "title": "Super Breath"
-},
-{
-"id": "2026-10-19T05:50|Prince|I Could Never Take The Place Of Your Man",
-"t": "2026-10-19T05:50:00+02:00",
-"artist": "Prince",
-"title": "I Could Never Take The Place Of Your Man"
-},
-{
-"id": "2026-10-19T05:47|Phantogram|Earthshaker",
-"t": "2026-10-19T05:47:00+02:00",
-"artist": "Phantogram",
-"title": "Earthshaker"
 }
 ],
 "cache": {
@@ -9378,14 +9378,6 @@
 "nightbus|angles mortz": {
 "u": "spotify:track:5XvRng3X26Q3oGMEoFKsWo",
 "d": "2026-10-19T05:30:52.986249+02:00"
-},
-"prince|i could never take the place of your man": {
-"u": "spotify:track:7Bsfh7tZyAf6L5iQti86Rq",
-"d": "2026-10-19T05:55:52.989416+02:00"
-},
-"phantogram|earthshaker": {
-"u": "spotify:track:3dcAXXsNJb2VgX7k1Okz2L",
-"d": "2026-10-19T05:55:52.989416+02:00"
 },
 "karen o danger mouse|super breath": {
 "u": "spotify:track:71dMjqJ8UJV700zYs5YZCh",
@@ -11966,6 +11958,10 @@
 "hot chip|random violence radio edit": {
 "u": "spotify:track:0T3vTM8KUAwGMukdAhNVj2",
 "d": "2026-10-26T05:36:56.971550+01:00"
+},
+"inxs|elegantly wasted": {
+"u": "spotify:track:55lr8uZyPVDEwcUCHLw7mz",
+"d": "2026-10-26T05:45:56.972733+01:00"
 }
 }
 }
