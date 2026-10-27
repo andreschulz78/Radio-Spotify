@@ -1,5 +1,5 @@
 {
-"updated": "2026-10-27T11:29:49.779264+01:00",
+"updated": "2026-10-27T11:40:49.780599+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-28T05:17:44.758892+01:00",
 "details": "51e4e36c2ea1",
@@ -3705,6 +3705,30 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-10-27T11:36|Trolle Siebenhaar|Sweet Dogs",
+"t": "2026-10-27T11:36:00+01:00",
+"artist": "Trolle Siebenhaar",
+"title": "Sweet Dogs"
+},
+{
+"id": "2026-10-27T11:33|Kaktus Einarsson feat. John Grant|Follow",
+"t": "2026-10-27T11:33:00+01:00",
+"artist": "Kaktus Einarsson feat. John Grant",
+"title": "Follow"
+},
+{
+"id": "2026-10-27T11:28|Dekker|Pick It Up, Put It Back",
+"t": "2026-10-27T11:28:00+01:00",
+"artist": "Dekker",
+"title": "Pick It Up, Put It Back"
+},
+{
+"id": "2026-10-27T11:25|Grace Cummings|I'm Not Crazy",
+"t": "2026-10-27T11:25:00+01:00",
+"artist": "Grace Cummings",
+"title": "I'm Not Crazy"
+},
 {
 "id": "2026-10-27T11:21|Marlon Magnee|La fureur d'Annie",
 "t": "2026-10-27T11:21:00+01:00",
@@ -9344,18 +9368,6 @@
 "t": "2026-10-20T11:45:00+02:00",
 "artist": "Apparat",
 "title": "Little Feet (Radio Edit)"
-},
-{
-"id": "2026-10-20T11:36|Devendra Banhart|I Feel Just Like A Child",
-"t": "2026-10-20T11:36:00+02:00",
-"artist": "Devendra Banhart",
-"title": "I Feel Just Like A Child"
-},
-{
-"id": "2026-10-20T11:33|Sergio Mendes & Brasil '66|Righteous Life",
-"t": "2026-10-20T11:33:00+02:00",
-"artist": "Sergio Mendes & Brasil '66",
-"title": "Righteous Life"
 }
 ],
 "cache": {
@@ -9763,17 +9775,9 @@
 "u": "spotify:track:0HJuwBpU9bpH3Zt5r1PtNS",
 "d": "2026-10-20T11:30:36.439375+02:00"
 },
-"sergio mendes brasil 66|righteous life": {
-"u": "spotify:track:4YsUyT4Y2Y5DBWbAbiFzac",
-"d": "2026-10-20T11:35:36.439996+02:00"
-},
 "genesis owusu|human again": {
 "u": "spotify:track:3uP7jqdt4haiuL4acLhrDY",
 "d": "2026-10-20T11:35:36.439996+02:00"
-},
-"devendra banhart|i feel just like a child": {
-"u": "spotify:track:6FKKWmZLSVgfGBDUncBo9K",
-"d": "2026-10-20T11:41:36.440831+02:00"
 },
 "apparat|little feet radio edit": {
 "u": "spotify:track:4urSQgCa5bJxrncJj6V68e",
