@@ -1,5 +1,5 @@
 {
-"updated": "2026-10-27T10:12:49.769347+01:00",
+"updated": "2026-10-27T10:23:49.770745+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-28T05:17:44.758892+01:00",
 "details": "51e4e36c2ea1",
@@ -3705,6 +3705,18 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-10-27T10:17|Fontaines D.C. & ROSALIA|Where Is Gone?",
+"t": "2026-10-27T10:17:00+01:00",
+"artist": "Fontaines D.C. & ROSALIA",
+"title": "Where Is Gone?"
+},
+{
+"id": "2026-10-27T10:08|Joshua Idehen|Could Be Forever",
+"t": "2026-10-27T10:08:00+01:00",
+"artist": "Joshua Idehen",
+"title": "Could Be Forever"
+},
 {
 "id": "2026-10-27T10:04|Luis Laserpower|Mond",
 "t": "2026-10-27T10:04:00+01:00",
@@ -9344,24 +9356,6 @@
 "t": "2026-10-20T10:27:00+02:00",
 "artist": "Tunde Adebimpe",
 "title": "God Knows"
-},
-{
-"id": "2026-10-20T10:23|Laura Marling|Alexandra",
-"t": "2026-10-20T10:23:00+02:00",
-"artist": "Laura Marling",
-"title": "Alexandra"
-},
-{
-"id": "2026-10-20T10:21|Anderson .Paak & Cordae|A Good Day",
-"t": "2026-10-20T10:21:00+02:00",
-"artist": "Anderson .Paak & Cordae",
-"title": "A Good Day"
-},
-{
-"id": "2026-10-20T10:17|Fuffifufzich|New Era",
-"t": "2026-10-20T10:17:00+02:00",
-"artist": "Fuffifufzich",
-"title": "New Era"
 }
 ],
 "cache": {
@@ -9767,10 +9761,6 @@
 },
 "tunde adebimpe|god knows": {
 "u": "spotify:track:1g9o6MNw8DQEFGmKQwbyYa",
-"d": "2026-10-20T10:31:36.431764+02:00"
-},
-"laura marling|alexandra": {
-"u": "spotify:track:1TpOFgqL9EFLPsXSs3e1Tf",
 "d": "2026-10-20T10:31:36.431764+02:00"
 },
 "innenraume|im gegenlicht": {
