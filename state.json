@@ -1,5 +1,5 @@
 {
-"updated": "2026-10-27T09:06:49.760385+01:00",
+"updated": "2026-10-27T09:17:49.762035+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-28T05:17:44.758892+01:00",
 "details": "51e4e36c2ea1",
@@ -3705,6 +3705,18 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-10-27T09:12|Lady Wray|You're Gonna Win",
+"t": "2026-10-27T09:12:00+01:00",
+"artist": "Lady Wray",
+"title": "You're Gonna Win"
+},
+{
+"id": "2026-10-27T09:05|The Drums feat. Mareux|It Didn't Matter",
+"t": "2026-10-27T09:05:00+01:00",
+"artist": "The Drums feat. Mareux",
+"title": "It Didn't Matter"
+},
 {
 "id": "2026-10-27T08:57|Jorja Smith|Don't Leave",
 "t": "2026-10-27T08:57:00+01:00",
@@ -9362,18 +9374,6 @@
 "t": "2026-10-20T09:22:00+02:00",
 "artist": "Smidley feat. Lucy Dacus",
 "title": "Capstone"
-},
-{
-"id": "2026-10-20T09:16|Modest Mouse|Float On",
-"t": "2026-10-20T09:16:00+02:00",
-"artist": "Modest Mouse",
-"title": "Float On"
-},
-{
-"id": "2026-10-20T09:13|Linka Moja|Men R Dogs",
-"t": "2026-10-20T09:13:00+02:00",
-"artist": "Linka Moja",
-"title": "Men R Dogs"
 }
 ],
 "cache": {
@@ -9772,10 +9772,6 @@
 "linka moja|men r dogs": {
 "u": "spotify:track:7AgfOLYDB7GrgIWg60PBw7",
 "d": "2026-10-20T09:15:27.528597+02:00"
-},
-"modest mouse|float on": {
-"u": "spotify:track:2lwwrWVKdf3LR9lbbhnr6R",
-"d": "2026-10-20T09:21:27.529285+02:00"
 },
 "hak baker feat baxter dury|nostalgia death": {
 "u": "spotify:track:0hjjpa9zSBujrfWC9hgKnr",
