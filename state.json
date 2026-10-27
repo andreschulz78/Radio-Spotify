@@ -1,5 +1,5 @@
 {
-"updated": "2026-10-27T18:47:58.771116+01:00",
+"updated": "2026-10-27T18:58:58.772114+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-28T05:17:44.758892+01:00",
 "details": "51e4e36c2ea1",
@@ -3705,6 +3705,18 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-10-27T18:51|Mari Froes|Eu vou pro samba, viu?",
+"t": "2026-10-27T18:51:00+01:00",
+"artist": "Mari Froes",
+"title": "Eu vou pro samba, viu?"
+},
+{
+"id": "2026-10-27T18:48|Faithless|Mass Destruction",
+"t": "2026-10-27T18:48:00+01:00",
+"artist": "Faithless",
+"title": "Mass Destruction"
+},
 {
 "id": "2026-10-27T18:42|Unknown Mortal Orchestra|That Life",
 "t": "2026-10-27T18:42:00+01:00",
@@ -9344,18 +9356,6 @@
 "t": "2026-10-20T19:06:00+02:00",
 "artist": "Barry Can't Swim",
 "title": "Dance Of The Crab (Radio Edit)"
-},
-{
-"id": "2026-10-20T18:56|Spooks|Things I've Seen",
-"t": "2026-10-20T18:56:00+02:00",
-"artist": "Spooks",
-"title": "Things I've Seen"
-},
-{
-"id": "2026-10-20T18:50|Vampire Weekend|Harmony Hall",
-"t": "2026-10-20T18:50:00+02:00",
-"artist": "Vampire Weekend",
-"title": "Harmony Hall"
 }
 ],
 "cache": {
@@ -9810,14 +9810,6 @@
 "barry can t swim|dance of the crab radio edit": {
 "u": "spotify:track:7tu1Bd1SfSiBdRgUvYpq7t",
 "d": "2026-10-21T05:16:06.272471+02:00"
-},
-"spooks|things i ve seen": {
-"u": "spotify:track:1h2Q3Um4SJjbqq4FceESL3",
-"d": "2026-10-21T05:16:06.272471+02:00"
-},
-"vampire weekend|harmony hall": {
-"u": "spotify:track:39exKIvycQDgs4T6uXdyu0",
-"d": "2026-10-21T05:17:06.272598+02:00"
 },
 "jordan rakei|enemies": {
 "u": "spotify:track:0X9GwAax0c0HPe3iIoDVW6",
