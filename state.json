@@ -1,5 +1,5 @@
 {
-"updated": "2026-10-27T10:45:49.773680+01:00",
+"updated": "2026-10-27T10:56:49.775171+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-28T05:17:44.758892+01:00",
 "details": "51e4e36c2ea1",
@@ -3705,6 +3705,18 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-10-27T10:50|Sonny & Cher|I Got You Babe",
+"t": "2026-10-27T10:50:00+01:00",
+"artist": "Sonny & Cher",
+"title": "I Got You Babe"
+},
+{
+"id": "2026-10-27T10:47|SOFY|50/50",
+"t": "2026-10-27T10:47:00+01:00",
+"artist": "SOFY",
+"title": "50/50"
+},
 {
 "id": "2026-10-27T10:34|Anika|Change",
 "t": "2026-10-27T10:34:00+01:00",
@@ -9350,18 +9362,6 @@
 "t": "2026-10-20T10:57:00+02:00",
 "artist": "Elvis Presley",
 "title": "Burning Love"
-},
-{
-"id": "2026-10-20T10:52|Peter Cruseder|Love",
-"t": "2026-10-20T10:52:00+02:00",
-"artist": "Peter Cruseder",
-"title": "Love"
-},
-{
-"id": "2026-10-20T10:49|Ethan French|reckless and arranged - day 56 (extended)",
-"t": "2026-10-20T10:49:00+02:00",
-"artist": "Ethan French",
-"title": "reckless and arranged - day 56 (extended)"
 }
 ],
 "cache": {
@@ -9464,10 +9464,6 @@
 "courtney barnett|wonder": {
 "u": "spotify:track:5QraYxwAgy8LloNZeIiuQ5",
 "d": "2026-10-17T08:56:45.060525+02:00"
-},
-"ethan french|reckless and arranged day 56 extended": {
-"u": "spotify:track:6H2ZSdZkYYW63UM6K2GcFh",
-"d": "2026-10-17T09:11:45.062586+02:00"
 },
 "mari froes|eu vou pro samba viu": {
 "u": "spotify:track:0ZirVpVEx943xdUD9bivHe",
@@ -9768,10 +9764,6 @@
 "innenraume|im gegenlicht": {
 "u": "spotify:track:2ubG5Lo2I8hs3GzaVf7vdD",
 "d": "2026-10-20T10:36:36.432430+02:00"
-},
-"peter cruseder|love": {
-"u": "spotify:track:7mc6omD0uFBGHeiwdtFzY2",
-"d": "2026-10-20T10:55:36.434823+02:00"
 },
 "elvis presley|burning love": {
 "u": "spotify:track:7zMUCLm1TN9o9JlLISztxO",
