@@ -1,5 +1,5 @@
 {
-"updated": "2026-10-27T13:21:58.737249+01:00",
+"updated": "2026-10-27T13:32:58.738380+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-28T05:17:44.758892+01:00",
 "details": "51e4e36c2ea1",
@@ -3705,6 +3705,24 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-10-27T13:27|Kevin Morby|PBJ (Edit)",
+"t": "2026-10-27T13:27:00+01:00",
+"artist": "Kevin Morby",
+"title": "PBJ (Edit)"
+},
+{
+"id": "2026-10-27T13:23|Queen feat. David Bowie|Under Pressure",
+"t": "2026-10-27T13:23:00+01:00",
+"artist": "Queen feat. David Bowie",
+"title": "Under Pressure"
+},
+{
+"id": "2026-10-27T13:19|Tindersticks|You'll Have To Scream Louder (Radio Edit)",
+"t": "2026-10-27T13:19:00+01:00",
+"artist": "Tindersticks",
+"title": "You'll Have To Scream Louder (Radio Edit)"
+},
 {
 "id": "2026-10-27T13:15|Benjamin Clementine|In Fact You Know You Gotto Go",
 "t": "2026-10-27T13:15:00+01:00",
@@ -9362,24 +9380,6 @@
 "t": "2026-10-20T13:36:00+02:00",
 "artist": "Nichtseattle",
 "title": "Ich mit Brille"
-},
-{
-"id": "2026-10-20T13:32|Jamie XX feat. The Avalanches|All You Children",
-"t": "2026-10-20T13:32:00+02:00",
-"artist": "Jamie XX feat. The Avalanches",
-"title": "All You Children"
-},
-{
-"id": "2026-10-20T13:25|Sofie Royer|Cowboy Mouth",
-"t": "2026-10-20T13:25:00+02:00",
-"artist": "Sofie Royer",
-"title": "Cowboy Mouth"
-},
-{
-"id": "2026-10-20T13:22|Janis Joplin|Move Over",
-"t": "2026-10-20T13:22:00+02:00",
-"artist": "Janis Joplin",
-"title": "Move Over"
 }
 ],
 "cache": {
@@ -9799,17 +9799,9 @@
 "u": "spotify:track:4f50UTC41M2Ah5itifSGE5",
 "d": "2026-10-20T13:00:36.451095+02:00"
 },
-"janis joplin|move over": {
-"u": "spotify:track:6NgV2dH50o1HIoEwxHRu3X",
-"d": "2026-10-20T13:25:36.454327+02:00"
-},
 "54 ultra|tell me": {
 "u": "spotify:track:6iXIvHGsLMJ89TuW1S9E3C",
 "d": "2026-10-20T13:25:36.454327+02:00"
-},
-"jamie xx feat the avalanches|all you children": {
-"u": "spotify:track:1zYuc5YFYlFfSSq6IslHVY",
-"d": "2026-10-20T13:42:37.003309+02:00"
 },
 "snoop dogg feat pharrell williams|drop it like it s hot": {
 "u": "spotify:track:2NBQmPrOEEjA8VbeWOQGxO",
