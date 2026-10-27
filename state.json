@@ -1,12 +1,20 @@
 {
-"updated": "2026-10-27T07:19:41.137727+01:00",
+"updated": "2026-10-27T07:30:41.139181+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-27T05:16:57.473384+01:00",
 "details": "51e4e36c2ea1",
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAZl0YHCigzhEq4b8ffeLMTswBM1WqR",
+"snapshot": "AAAZq4fwbUregEfqyIQiqHcEN6dM04+y",
 "playlist": [
+[
+"2026-10-27T07:26|Gorillaz|Dare",
+"spotify:track:4Hff1IjRbLGeLgFgxvHflk"
+],
+[
+"2026-10-27T07:19|Alewya|Cairo FM",
+"spotify:track:6v7hCIRoJkuYShT0wls1gD"
+],
 [
 "2026-10-27T07:13|Amy Winehouse|Back To Black",
 "spotify:track:60gmGjgh248Elj8xTMdJsA"
@@ -3702,13 +3710,21 @@
 [
 "2026-10-20T07:34|Natalie Bergman|Gunslinger",
 "spotify:track:1Is6GwdWFuEXCbzkoEatb4"
-],
-[
-"2026-10-20T07:26|Keshavara|Oracular",
-"spotify:track:41sGSIiPi1QAYaL6nUWSDg"
 ]
 ],
 "entries": [
+{
+"id": "2026-10-27T07:26|Gorillaz|Dare",
+"t": "2026-10-27T07:26:00+01:00",
+"artist": "Gorillaz",
+"title": "Dare"
+},
+{
+"id": "2026-10-27T07:19|Alewya|Cairo FM",
+"t": "2026-10-27T07:19:00+01:00",
+"artist": "Alewya",
+"title": "Cairo FM"
+},
 {
 "id": "2026-10-27T07:13|Amy Winehouse|Back To Black",
 "t": "2026-10-27T07:13:00+01:00",
@@ -9378,12 +9394,6 @@
 "t": "2026-10-20T07:34:00+02:00",
 "artist": "Natalie Bergman",
 "title": "Gunslinger"
-},
-{
-"id": "2026-10-20T07:26|Keshavara|Oracular",
-"t": "2026-10-20T07:26:00+02:00",
-"artist": "Keshavara",
-"title": "Oracular"
 }
 ],
 "cache": {
@@ -12294,6 +12304,10 @@
 "amy winehouse|back to black": {
 "u": "spotify:track:60gmGjgh248Elj8xTMdJsA",
 "d": "2026-10-27T07:16:41.137358+01:00"
+},
+"gorillaz|dare": {
+"u": "spotify:track:4Hff1IjRbLGeLgFgxvHflk",
+"d": "2026-10-27T07:30:41.139181+01:00"
 }
 }
 }
