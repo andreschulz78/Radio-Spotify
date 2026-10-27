@@ -1,12 +1,16 @@
 {
-"updated": "2026-10-27T08:02:49.752287+01:00",
+"updated": "2026-10-27T08:12:49.753383+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-27T05:16:57.473384+01:00",
 "details": "51e4e36c2ea1",
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAZ9On/aLuec8mf1WY1ONp6lRfbZZ7f",
+"snapshot": "AAAaCG7CWCRXAv5QvEjnbSt+Y5qzBwfo",
 "playlist": [
+[
+"2026-10-27T08:05|When Saints Go Machine|Kelly",
+"spotify:track:4C39zJ6Fuujo6d8ZTiBztT"
+],
 [
 "2026-10-27T07:55|Sparkling & COMA|It Won't Be Like This Forever",
 "spotify:track:1w6NksiUfe5WNa5wZAJXYO"
@@ -3702,13 +3706,15 @@
 [
 "2026-10-20T08:15|Boy Harsher|Tough Luck (When You Don't Call)",
 "spotify:track:109AVLNWp2BnTXTzF4j6XE"
-],
-[
-"2026-10-20T08:06|Dina Ögon|Det läcker",
-"spotify:track:6GffMzseDk8LgpRNFW9Hca"
 ]
 ],
 "entries": [
+{
+"id": "2026-10-27T08:05|When Saints Go Machine|Kelly",
+"t": "2026-10-27T08:05:00+01:00",
+"artist": "When Saints Go Machine",
+"title": "Kelly"
+},
 {
 "id": "2026-10-27T07:55|Sparkling & COMA|It Won't Be Like This Forever",
 "t": "2026-10-27T07:55:00+01:00",
@@ -9384,12 +9390,6 @@
 "t": "2026-10-20T08:15:00+02:00",
 "artist": "Boy Harsher",
 "title": "Tough Luck (When You Don't Call)"
-},
-{
-"id": "2026-10-20T08:06|Dina Ögon|Det läcker",
-"t": "2026-10-20T08:06:00+02:00",
-"artist": "Dina Ögon",
-"title": "Det läcker"
 }
 ],
 "cache": {
@@ -9772,10 +9772,6 @@
 "joshua idehen|could be forever": {
 "u": "spotify:track:0ZUKth5xg7UM6Q73YhDq2w",
 "d": "2026-10-20T07:56:27.519927+02:00"
-},
-"dina ogon|det lacker": {
-"u": "spotify:track:6GffMzseDk8LgpRNFW9Hca",
-"d": "2026-10-20T08:10:27.521464+02:00"
 },
 "james blake|make something up": {
 "u": "spotify:track:64OIDldq25VvelMStZiDvy",
@@ -12296,6 +12292,10 @@
 "king gizzard the lizard wizard|hate dancin": {
 "u": null,
 "d": "2026-10-27T07:56:49.751373+01:00"
+},
+"when saints go machine|kelly": {
+"u": "spotify:track:4C39zJ6Fuujo6d8ZTiBztT",
+"d": "2026-10-27T08:11:49.753270+01:00"
 }
 }
 }
