@@ -1,5 +1,5 @@
 {
-"updated": "2026-10-27T16:36:58.757223+01:00",
+"updated": "2026-10-27T16:47:58.758451+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-28T05:17:44.758892+01:00",
 "details": "51e4e36c2ea1",
@@ -3705,6 +3705,18 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-10-27T16:36|Jamie Woon|Heavy Going...",
+"t": "2026-10-27T16:36:00+01:00",
+"artist": "Jamie Woon",
+"title": "Heavy Going..."
+},
+{
+"id": "2026-10-27T16:34|Alewya|Maktoub",
+"t": "2026-10-27T16:34:00+01:00",
+"artist": "Alewya",
+"title": "Maktoub"
+},
 {
 "id": "2026-10-27T16:26|Anderson .Paak & Cordae|A Good Day",
 "t": "2026-10-27T16:26:00+01:00",
@@ -9356,18 +9368,6 @@
 "t": "2026-10-20T16:50:00+02:00",
 "artist": "Lily Allen",
 "title": "Dallas Major"
-},
-{
-"id": "2026-10-20T16:46|Anna Calvi|Desire",
-"t": "2026-10-20T16:46:00+02:00",
-"artist": "Anna Calvi",
-"title": "Desire"
-},
-{
-"id": "2026-10-20T16:41|George Michael|Freedom",
-"t": "2026-10-20T16:41:00+02:00",
-"artist": "George Michael",
-"title": "Freedom"
 }
 ],
 "cache": {
@@ -9894,14 +9894,6 @@
 "lily allen|dallas major": {
 "u": "spotify:track:1ECugAb7Pg6UDA501YYgH9",
 "d": "2026-10-21T05:22:06.273219+02:00"
-},
-"anna calvi|desire": {
-"u": "spotify:track:3TXRWp2YTFu4Mcscn9q5cj",
-"d": "2026-10-21T05:22:06.273219+02:00"
-},
-"george michael|freedom": {
-"u": "spotify:track:1wZ7o1mZysv1l26ZWawVfW",
-"d": "2026-10-21T05:23:06.273345+02:00"
 },
 "father john misty|i guess time just makes fools of us all": {
 "u": "spotify:track:0QA1dDs6A2xLr7nxWFpeJN",
