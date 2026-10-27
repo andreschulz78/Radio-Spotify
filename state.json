@@ -1,12 +1,20 @@
 {
-"updated": "2026-10-27T07:41:49.749435+01:00",
+"updated": "2026-10-27T07:51:49.750681+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-27T05:16:57.473384+01:00",
 "details": "51e4e36c2ea1",
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAZvxINZtgFwTsc9Teu2XjUPvwoLn4K",
+"snapshot": "AAAZ4HTRfMKegX5obzDk655UjpOS6PIw",
 "playlist": [
+[
+"2026-10-27T07:45|Neal Francis|Hide",
+"spotify:track:197QlBcwTnJNU8DAf3BNLo"
+],
+[
+"2026-10-27T07:41|Katy J Pearson|Talk Over Town",
+"spotify:track:45lHbwtumdPy7lGxWQZTs5"
+],
 [
 "2026-10-27T07:33|UCHE YARA|Hello Hello",
 "spotify:track:3hadpAb0vS5uYSrfidLaDr"
@@ -3698,21 +3706,21 @@
 [
 "2026-10-20T07:58|Heaven 17|Temptation",
 "spotify:track:1u8wrxIC4Vo3OYI1Rbb5hN"
-],
-[
-"2026-10-20T07:50|Joshua Idehen|Could Be Forever",
-"spotify:track:0ZUKth5xg7UM6Q73YhDq2w"
-],
-[
-"2026-10-20T07:47|Sophie Hunger|Security Check",
-"spotify:track:4MnrMDeT6mh4VHCG64zPMd"
-],
-[
-"2026-10-20T07:42|Grim104|Monstera",
-"spotify:track:3rSiXUS27EJxisY62sEqmJ"
 ]
 ],
 "entries": [
+{
+"id": "2026-10-27T07:45|Neal Francis|Hide",
+"t": "2026-10-27T07:45:00+01:00",
+"artist": "Neal Francis",
+"title": "Hide"
+},
+{
+"id": "2026-10-27T07:41|Katy J Pearson|Talk Over Town",
+"t": "2026-10-27T07:41:00+01:00",
+"artist": "Katy J Pearson",
+"title": "Talk Over Town"
+},
 {
 "id": "2026-10-27T07:33|UCHE YARA|Hello Hello",
 "t": "2026-10-27T07:33:00+01:00",
@@ -9376,24 +9384,6 @@
 "t": "2026-10-20T07:58:00+02:00",
 "artist": "Heaven 17",
 "title": "Temptation"
-},
-{
-"id": "2026-10-20T07:50|Joshua Idehen|Could Be Forever",
-"t": "2026-10-20T07:50:00+02:00",
-"artist": "Joshua Idehen",
-"title": "Could Be Forever"
-},
-{
-"id": "2026-10-20T07:47|Sophie Hunger|Security Check",
-"t": "2026-10-20T07:47:00+02:00",
-"artist": "Sophie Hunger",
-"title": "Security Check"
-},
-{
-"id": "2026-10-20T07:42|Grim104|Monstera",
-"t": "2026-10-20T07:42:00+02:00",
-"artist": "Grim104",
-"title": "Monstera"
 }
 ],
 "cache": {
@@ -9773,16 +9763,8 @@
 "u": "spotify:track:41sGSIiPi1QAYaL6nUWSDg",
 "d": "2026-10-20T07:30:27.516924+02:00"
 },
-"grim104|monstera": {
-"u": "spotify:track:3rSiXUS27EJxisY62sEqmJ",
-"d": "2026-10-20T07:46:27.518706+02:00"
-},
 "joshua idehen|could be forever": {
 "u": "spotify:track:0ZUKth5xg7UM6Q73YhDq2w",
-"d": "2026-10-20T07:56:27.519927+02:00"
-},
-"sophie hunger|security check": {
-"u": "spotify:track:4MnrMDeT6mh4VHCG64zPMd",
 "d": "2026-10-20T07:56:27.519927+02:00"
 },
 "heaven 17|temptation": {
@@ -12304,6 +12286,10 @@
 "gorillaz|dare": {
 "u": "spotify:track:4Hff1IjRbLGeLgFgxvHflk",
 "d": "2026-10-27T07:30:41.139181+01:00"
+},
+"katy j pearson|talk over town": {
+"u": "spotify:track:45lHbwtumdPy7lGxWQZTs5",
+"d": "2026-10-27T07:46:49.750071+01:00"
 }
 }
 }
