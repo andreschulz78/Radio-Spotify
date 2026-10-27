@@ -1,12 +1,24 @@
 {
-"updated": "2026-10-27T06:35:41.132553+01:00",
+"updated": "2026-10-27T06:46:41.133750+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-27T05:16:57.473384+01:00",
 "details": "51e4e36c2ea1",
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAZKOFm2t8nwtJKaY/TEj/V7A5zBONo",
+"snapshot": "AAAZR3r5/7dG9Cr4QC3xm+1bhQiql/ku",
 "playlist": [
+[
+"2026-10-27T06:43|Ibibio Sound Machine|Love",
+"spotify:track:0JGa4KrhqriWUuPcni3I8D"
+],
+[
+"2026-10-27T06:34|Stahlschrank|Egal ist sehr gut",
+"spotify:track:4UJOURWXp8vrLV4M7EmY0X"
+],
+[
+"2026-10-27T06:27|Nia Archives|There Goes Ma Head",
+"spotify:track:0ceKqpXrrC3CtFwFiLJeoY"
+],
 [
 "2026-10-27T06:22|Fontaines D.C. & ROSALIA|Where Is Gone?",
 "spotify:track:6ZH1yeWUf3Xp2XO0EZk91i"
@@ -3694,13 +3706,27 @@
 [
 "2026-10-20T06:48|Yard Act|You're Gonna Need A Little Music",
 "spotify:track:43KS2LpjMVkvJdprLaoQxQ"
-],
-[
-"2026-10-20T06:42|Mine|Mein Herz",
-"spotify:track:2TpYemObRvIrdNn9elxhCR"
 ]
 ],
 "entries": [
+{
+"id": "2026-10-27T06:43|Ibibio Sound Machine|Love",
+"t": "2026-10-27T06:43:00+01:00",
+"artist": "Ibibio Sound Machine",
+"title": "Love"
+},
+{
+"id": "2026-10-27T06:34|Stahlschrank|Egal ist sehr gut",
+"t": "2026-10-27T06:34:00+01:00",
+"artist": "Stahlschrank",
+"title": "Egal ist sehr gut"
+},
+{
+"id": "2026-10-27T06:27|Nia Archives|There Goes Ma Head",
+"t": "2026-10-27T06:27:00+01:00",
+"artist": "Nia Archives",
+"title": "There Goes Ma Head"
+},
 {
 "id": "2026-10-27T06:22|Fontaines D.C. & ROSALIA|Where Is Gone?",
 "t": "2026-10-27T06:22:00+01:00",
@@ -9358,12 +9384,6 @@
 "t": "2026-10-20T06:48:00+02:00",
 "artist": "Yard Act",
 "title": "You're Gonna Need A Little Music"
-},
-{
-"id": "2026-10-20T06:42|Mine|Mein Herz",
-"t": "2026-10-20T06:42:00+02:00",
-"artist": "Mine",
-"title": "Mein Herz"
 }
 ],
 "cache": {
@@ -9730,10 +9750,6 @@
 "bonaparte|kiosko": {
 "u": "spotify:track:5seYGZRYuD3oPMxryJdvOk",
 "d": "2026-10-20T06:32:27.510525+02:00"
-},
-"mine|mein herz": {
-"u": "spotify:track:2TpYemObRvIrdNn9elxhCR",
-"d": "2026-10-20T06:51:27.512584+02:00"
 },
 "yard act|you re gonna need a little music": {
 "u": "spotify:track:43KS2LpjMVkvJdprLaoQxQ",
@@ -12270,6 +12286,10 @@
 "fontaines d c rosalia|where is gone": {
 "u": "spotify:track:6ZH1yeWUf3Xp2XO0EZk91i",
 "d": "2026-10-27T06:25:41.131201+01:00"
+},
+"stahlschrank|egal ist sehr gut": {
+"u": "spotify:track:4UJOURWXp8vrLV4M7EmY0X",
+"d": "2026-10-27T06:41:41.133254+01:00"
 }
 }
 }
