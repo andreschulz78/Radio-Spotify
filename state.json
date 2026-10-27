@@ -1,5 +1,5 @@
 {
-"updated": "2026-10-27T11:18:49.777758+01:00",
+"updated": "2026-10-27T11:29:49.779264+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-28T05:17:44.758892+01:00",
 "details": "51e4e36c2ea1",
@@ -3705,6 +3705,18 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-10-27T11:21|Marlon Magnee|La fureur d'Annie",
+"t": "2026-10-27T11:21:00+01:00",
+"artist": "Marlon Magnee",
+"title": "La fureur d'Annie"
+},
+{
+"id": "2026-10-27T11:18|Jill Scott|Golden",
+"t": "2026-10-27T11:18:00+01:00",
+"artist": "Jill Scott",
+"title": "Golden"
+},
 {
 "id": "2026-10-27T11:08|Compuphonic|Metropolis",
 "t": "2026-10-27T11:08:00+01:00",
@@ -9344,18 +9356,6 @@
 "t": "2026-10-20T11:33:00+02:00",
 "artist": "Sergio Mendes & Brasil '66",
 "title": "Righteous Life"
-},
-{
-"id": "2026-10-20T11:29|Genesis Owusu|Human Again",
-"t": "2026-10-20T11:29:00+02:00",
-"artist": "Genesis Owusu",
-"title": "Human Again"
-},
-{
-"id": "2026-10-20T11:22|Cass McCombs|Peace",
-"t": "2026-10-20T11:22:00+02:00",
-"artist": "Cass McCombs",
-"title": "Peace"
 }
 ],
 "cache": {
