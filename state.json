@@ -1,5 +1,5 @@
 {
-"updated": "2026-10-27T15:53:58.752665+01:00",
+"updated": "2026-10-27T16:04:58.753825+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-28T05:17:44.758892+01:00",
 "details": "51e4e36c2ea1",
@@ -3705,6 +3705,12 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-10-27T15:52|Vince Staples|Tulsa, OK",
+"t": "2026-10-27T15:52:00+01:00",
+"artist": "Vince Staples",
+"title": "Tulsa, OK"
+},
 {
 "id": "2026-10-27T15:45|Hollie Cook|Happy Hour",
 "t": "2026-10-27T15:45:00+01:00",
@@ -9368,12 +9374,6 @@
 "t": "2026-10-20T16:06:00+02:00",
 "artist": "Unknown Mortal Orchestra",
 "title": "Multi-Love"
-},
-{
-"id": "2026-10-20T15:57|Chris Malinchak|So Good To Me",
-"t": "2026-10-20T15:57:00+02:00",
-"artist": "Chris Malinchak",
-"title": "So Good To Me"
 }
 ],
 "cache": {
@@ -9796,10 +9796,6 @@
 "odd beholder|lean dreams": {
 "u": "spotify:track:44KktJfihIKoQrUrnKCzTH",
 "d": "2026-10-20T15:26:37.017294+02:00"
-},
-"chris malinchak|so good to me": {
-"u": "spotify:track:1mGGVB5nDxGObTP26RhjyT",
-"d": "2026-10-20T16:06:45.705539+02:00"
 },
 "unknown mortal orchestra|multi love": {
 "u": "spotify:track:1DbdyKFHjWRkmIRDru01vC",
