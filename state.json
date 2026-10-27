@@ -1,5 +1,5 @@
 {
-"updated": "2026-10-27T16:15:58.754896+01:00",
+"updated": "2026-10-27T16:25:58.756037+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-28T05:17:44.758892+01:00",
 "details": "51e4e36c2ea1",
@@ -3705,6 +3705,18 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-10-27T16:19|Simen Mitlid|It's Okay",
+"t": "2026-10-27T16:19:00+01:00",
+"artist": "Simen Mitlid",
+"title": "It's Okay"
+},
+{
+"id": "2026-10-27T16:16|Tikhet|Burndowner",
+"t": "2026-10-27T16:16:00+01:00",
+"artist": "Tikhet",
+"title": "Burndowner"
+},
 {
 "id": "2026-10-27T16:06|Sade|Paradise (Remastered Version)",
 "t": "2026-10-27T16:06:00+01:00",
@@ -9356,24 +9368,6 @@
 "t": "2026-10-20T16:34:00+02:00",
 "artist": "Pamela.",
 "title": "Better than Before"
-},
-{
-"id": "2026-10-20T16:25|EELS|Congratulations To Me",
-"t": "2026-10-20T16:25:00+02:00",
-"artist": "EELS",
-"title": "Congratulations To Me"
-},
-{
-"id": "2026-10-20T16:21|JGrrey feat. Bel Cobain|Take My Hand",
-"t": "2026-10-20T16:21:00+02:00",
-"artist": "JGrrey feat. Bel Cobain",
-"title": "Take My Hand"
-},
-{
-"id": "2026-10-20T16:18|Sinéad O'Connor|No Man's Woman",
-"t": "2026-10-20T16:18:00+02:00",
-"artist": "Sinéad O'Connor",
-"title": "No Man's Woman"
 }
 ],
 "cache": {
@@ -9907,14 +9901,6 @@
 },
 "george michael|freedom": {
 "u": "spotify:track:1wZ7o1mZysv1l26ZWawVfW",
-"d": "2026-10-21T05:23:06.273345+02:00"
-},
-"eels|congratulations to me": {
-"u": "spotify:track:0PsZbSqZk6s6bEw5Ff3xrS",
-"d": "2026-10-21T05:23:06.273345+02:00"
-},
-"sinead o connor|no man s woman": {
-"u": "spotify:track:0xsfUIVCZLR12cNsjvDqeB",
 "d": "2026-10-21T05:23:06.273345+02:00"
 },
 "father john misty|i guess time just makes fools of us all": {
