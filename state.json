@@ -1,12 +1,20 @@
 {
-"updated": "2026-10-27T06:13:41.129668+01:00",
+"updated": "2026-10-27T06:24:41.131078+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-27T05:16:57.473384+01:00",
 "details": "51e4e36c2ea1",
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAY67BrBf/dHRc0IvmaSI4MlYdOHJe6",
+"snapshot": "AAAZCqPw+8GXzs1AGSFXIPQRT5pGQoXr",
 "playlist": [
+[
+"2026-10-27T06:15|ViVii|Suckerpunch",
+"spotify:track:6RbT6bq703CQeqvabRv7Da"
+],
+[
+"2026-10-27T06:10|Innenräume|Im Gegenlicht",
+"spotify:track:2ubG5Lo2I8hs3GzaVf7vdD"
+],
 [
 "2026-10-27T06:05|Alexander IV & IYAMAH|About Us",
 "spotify:track:0c3tXpFKZilDSR3yAphPZt"
@@ -3694,17 +3702,21 @@
 [
 "2026-10-20T06:27|Bonaparte|KiOSKO",
 "spotify:track:5seYGZRYuD3oPMxryJdvOk"
-],
-[
-"2026-10-20T06:24|Pearl Jam|Sirens",
-"spotify:track:1cAMXz9mnvrqyQLSG4KeeE"
-],
-[
-"2026-10-20T06:17|Daft Punk|Get Lucky",
-"spotify:track:2Foc5Q5nqNiosCNqttzHof"
 ]
 ],
 "entries": [
+{
+"id": "2026-10-27T06:15|ViVii|Suckerpunch",
+"t": "2026-10-27T06:15:00+01:00",
+"artist": "ViVii",
+"title": "Suckerpunch"
+},
+{
+"id": "2026-10-27T06:10|Innenräume|Im Gegenlicht",
+"t": "2026-10-27T06:10:00+01:00",
+"artist": "Innenräume",
+"title": "Im Gegenlicht"
+},
 {
 "id": "2026-10-27T06:05|Alexander IV & IYAMAH|About Us",
 "t": "2026-10-27T06:05:00+01:00",
@@ -9362,18 +9374,6 @@
 "t": "2026-10-20T06:27:00+02:00",
 "artist": "Bonaparte",
 "title": "KiOSKO"
-},
-{
-"id": "2026-10-20T06:24|Pearl Jam|Sirens",
-"t": "2026-10-20T06:24:00+02:00",
-"artist": "Pearl Jam",
-"title": "Sirens"
-},
-{
-"id": "2026-10-20T06:17|Daft Punk|Get Lucky",
-"t": "2026-10-20T06:17:00+02:00",
-"artist": "Daft Punk",
-"title": "Get Lucky"
 }
 ],
 "cache": {
@@ -9737,16 +9737,8 @@
 "u": "spotify:track:0VzMHjWcs2P24LHLekZ8Qa",
 "d": "2026-10-20T06:15:27.508467+02:00"
 },
-"daft punk|get lucky": {
-"u": "spotify:track:2Foc5Q5nqNiosCNqttzHof",
-"d": "2026-10-20T06:25:27.509619+02:00"
-},
 "bonaparte|kiosko": {
 "u": "spotify:track:5seYGZRYuD3oPMxryJdvOk",
-"d": "2026-10-20T06:32:27.510525+02:00"
-},
-"pearl jam|sirens": {
-"u": "spotify:track:1cAMXz9mnvrqyQLSG4KeeE",
 "d": "2026-10-20T06:32:27.510525+02:00"
 },
 "razorlight|america": {
@@ -12284,6 +12276,10 @@
 "curtis harding|where we are": {
 "u": "spotify:track:4ebNp6KQ4cUVeD3YSXcWTI",
 "d": "2026-10-27T06:01:41.128087+01:00"
+},
+"vivii|suckerpunch": {
+"u": "spotify:track:6RbT6bq703CQeqvabRv7Da",
+"d": "2026-10-27T06:20:41.130514+01:00"
 }
 }
 }
