@@ -1,5 +1,5 @@
 {
-"updated": "2026-10-27T12:57:49.791125+01:00",
+"updated": "2026-10-27T13:08:49.792943+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-28T05:17:44.758892+01:00",
 "details": "51e4e36c2ea1",
@@ -3705,6 +3705,12 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-10-27T12:54|JGrrey feat. Bel Cobain|Take My Hand",
+"t": "2026-10-27T12:54:00+01:00",
+"artist": "JGrrey feat. Bel Cobain",
+"title": "Take My Hand"
+},
 {
 "id": "2026-10-27T12:51|Klumzy Tung|Counting Sheep",
 "t": "2026-10-27T12:51:00+01:00",
@@ -9362,18 +9368,6 @@
 "t": "2026-10-20T13:19:00+02:00",
 "artist": "54 Ultra",
 "title": "Tell Me"
-},
-{
-"id": "2026-10-20T13:08|Kae Tempest feat. Lianne La Havas|No Prizes",
-"t": "2026-10-20T13:08:00+02:00",
-"artist": "Kae Tempest feat. Lianne La Havas",
-"title": "No Prizes"
-},
-{
-"id": "2026-10-20T13:05|Beck|Uneventful Days",
-"t": "2026-10-20T13:05:00+02:00",
-"artist": "Beck",
-"title": "Uneventful Days"
 }
 ],
 "cache": {
@@ -9792,14 +9786,6 @@
 "steve lacy|show you me": {
 "u": "spotify:track:4f50UTC41M2Ah5itifSGE5",
 "d": "2026-10-20T13:00:36.451095+02:00"
-},
-"beck|uneventful days": {
-"u": "spotify:track:0cq5E0XfR8qiXKJEwXxORy",
-"d": "2026-10-20T13:11:36.452542+02:00"
-},
-"kae tempest feat lianne la havas|no prizes": {
-"u": "spotify:track:0FSoK142UiuSSDIh6GGlUZ",
-"d": "2026-10-20T13:16:36.453188+02:00"
 },
 "janis joplin|move over": {
 "u": "spotify:track:6NgV2dH50o1HIoEwxHRu3X",
