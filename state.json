@@ -1,5 +1,5 @@
 {
-"updated": "2026-10-27T17:20:58.762036+01:00",
+"updated": "2026-10-27T17:30:58.763064+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-28T05:17:44.758892+01:00",
 "details": "51e4e36c2ea1",
@@ -3705,6 +3705,24 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-10-27T17:24|Boards Of Canada|Prophecy At 1420 MHz (Edit)",
+"t": "2026-10-27T17:24:00+01:00",
+"artist": "Boards Of Canada",
+"title": "Prophecy At 1420 MHz (Edit)"
+},
+{
+"id": "2026-10-27T17:17|El Perro Del Mar|KoKoro",
+"t": "2026-10-27T17:17:00+01:00",
+"artist": "El Perro Del Mar",
+"title": "KoKoro"
+},
+{
+"id": "2026-10-27T17:14|Andy Shauf|Halloween Store",
+"t": "2026-10-27T17:14:00+01:00",
+"artist": "Andy Shauf",
+"title": "Halloween Store"
+},
 {
 "id": "2026-10-27T17:06|Gabriels|Break It",
 "t": "2026-10-27T17:06:00+01:00",
@@ -9344,18 +9362,6 @@
 "t": "2026-10-20T17:34:00+02:00",
 "artist": "Westside Cowboy",
 "title": "Kick Stones (The Boys)"
-},
-{
-"id": "2026-10-20T17:26|Bulgarian Cartrader|In My Zone (Radio Edit)",
-"t": "2026-10-20T17:26:00+02:00",
-"artist": "Bulgarian Cartrader",
-"title": "In My Zone (Radio Edit)"
-},
-{
-"id": "2026-10-20T17:23|Gruff Rhys|Bad Friend",
-"t": "2026-10-20T17:23:00+02:00",
-"artist": "Gruff Rhys",
-"title": "Bad Friend"
 }
 ],
 "cache": {
@@ -9857,10 +9863,6 @@
 },
 "sade|king of sorrow": {
 "u": "spotify:track:0qQcQIj6htaCX7KFrsciNU",
-"d": "2026-10-21T05:20:06.272961+02:00"
-},
-"gruff rhys|bad friend": {
-"u": "spotify:track:3O0F7giEqhGpvjUpGc9M7q",
 "d": "2026-10-21T05:20:06.272961+02:00"
 },
 "lily allen|dallas major": {
