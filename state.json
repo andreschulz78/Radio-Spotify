@@ -1,12 +1,16 @@
 {
-"updated": "2026-10-27T07:30:41.139181+01:00",
+"updated": "2026-10-27T07:40:41.140344+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-27T05:16:57.473384+01:00",
 "details": "51e4e36c2ea1",
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAZq4fwbUregEfqyIQiqHcEN6dM04+y",
+"snapshot": "AAAZvxINZtgFwTsc9Teu2XjUPvwoLn4K",
 "playlist": [
+[
+"2026-10-27T07:33|UCHE YARA|Hello Hello",
+"spotify:track:3hadpAb0vS5uYSrfidLaDr"
+],
 [
 "2026-10-27T07:26|Gorillaz|Dare",
 "spotify:track:4Hff1IjRbLGeLgFgxvHflk"
@@ -3706,13 +3710,15 @@
 [
 "2026-10-20T07:42|Grim104|Monstera",
 "spotify:track:3rSiXUS27EJxisY62sEqmJ"
-],
-[
-"2026-10-20T07:34|Natalie Bergman|Gunslinger",
-"spotify:track:1Is6GwdWFuEXCbzkoEatb4"
 ]
 ],
 "entries": [
+{
+"id": "2026-10-27T07:33|UCHE YARA|Hello Hello",
+"t": "2026-10-27T07:33:00+01:00",
+"artist": "UCHE YARA",
+"title": "Hello Hello"
+},
 {
 "id": "2026-10-27T07:26|Gorillaz|Dare",
 "t": "2026-10-27T07:26:00+01:00",
@@ -9388,12 +9394,6 @@
 "t": "2026-10-20T07:42:00+02:00",
 "artist": "Grim104",
 "title": "Monstera"
-},
-{
-"id": "2026-10-20T07:34|Natalie Bergman|Gunslinger",
-"t": "2026-10-20T07:34:00+02:00",
-"artist": "Natalie Bergman",
-"title": "Gunslinger"
 }
 ],
 "cache": {
@@ -9772,10 +9772,6 @@
 "keshavara|oracular": {
 "u": "spotify:track:41sGSIiPi1QAYaL6nUWSDg",
 "d": "2026-10-20T07:30:27.516924+02:00"
-},
-"natalie bergman|gunslinger": {
-"u": "spotify:track:1Is6GwdWFuEXCbzkoEatb4",
-"d": "2026-10-20T07:42:27.518323+02:00"
 },
 "grim104|monstera": {
 "u": "spotify:track:3rSiXUS27EJxisY62sEqmJ",
@@ -10251,7 +10247,7 @@
 },
 "fredatlast|one day radio edit": {
 "u": null,
-"d": "2026-10-24T08:30:52.767358+02:00"
+"d": "2026-10-27T07:31:41.139297+01:00"
 },
 "america|a horse with no name": {
 "u": "spotify:track:54eZmuggBFJbV7k248bTTt",
