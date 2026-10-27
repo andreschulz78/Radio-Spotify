@@ -1,12 +1,16 @@
 {
-"updated": "2026-10-27T05:18:41.122717+01:00",
+"updated": "2026-10-27T05:29:41.124097+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-27T05:16:57.473384+01:00",
 "details": "51e4e36c2ea1",
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAX92zvcSDCIsBJWdSV5FvRnNSX96bh",
+"snapshot": "AAAYPzZ4yWj9Pmm69/hWWZXSa7VfzDpU",
 "playlist": [
+[
+"2026-10-27T05:16|Bonobo feat. Joy Crookes|Always on Your Side",
+"spotify:track:6jJTpzMquQLVuUkM2vVEIF"
+],
 [
 "2026-10-27T05:10|The Charlatans|My Beautiful Friend",
 "spotify:track:6eyqMKSTZlQ3iVjGGvMvNZ"
@@ -40,6 +44,74 @@
 "spotify:track:6qHi1FLsfgru61mcjxwDjm"
 ],
 [
+"2026-10-26T22:19|Angine de Poitrine|Tohogd",
+"spotify:track:664mxd7tkS4Nc1ktjuY6C2"
+],
+[
+"2026-10-26T22:13|Puscifer|Self Evident",
+"spotify:track:36J9vpPpatRDkMkee0PFCe"
+],
+[
+"2026-10-26T22:09|Steven Wilson|A Basket Of Bees",
+"spotify:track:4QpFW9jjqh9jgvg29NVFKO"
+],
+[
+"2026-10-26T22:03|Puscifer|The Algorithm",
+"spotify:track:6LYbP1QyoYWCDXxONzgpVZ"
+],
+[
+"2026-10-26T21:54|Angine de Poitrine|Yor Zarad",
+"spotify:track:0THaoqWjE4cyOMZALznzq9"
+],
+[
+"2026-10-26T21:48|Foals|What Went Down",
+"spotify:track:0LJDalpISq604gw21RVwIV"
+],
+[
+"2026-10-26T21:45|Fontaines D.C.|Tongue",
+"spotify:track:1XzQ57ONjIpRYB878VuGnF"
+],
+[
+"2026-10-26T21:39|Samiam|Crystallized",
+"spotify:track:0oT7cDKEjVGltb1SiibTYO"
+],
+[
+"2026-10-26T21:36|Lambrini Girls|The Basement",
+"spotify:track:6b1M7lKBrXFUp2kimbTmRu"
+],
+[
+"2026-10-26T21:31|L7|Loma Linda",
+"spotify:track:7d6L6EpAyGAIdMzz29LXR7"
+],
+[
+"2026-10-26T21:28|Thees Uhlmann|Katy Grayson",
+"spotify:track:7LyZ6uN9mZPFtz1qdIPXhL"
+],
+[
+"2026-10-26T21:23|kettcar|Ich Danke Der Academy",
+"spotify:track:4HdJ7tEp0yUZj9x6Y1x3CZ"
+],
+[
+"2026-10-26T21:17|Fontaines D.C.|A Hero's Death",
+"spotify:track:7Lqsf35icK9gPZICqBRrEv"
+],
+[
+"2026-10-26T21:13|Interpol|Wings On Fire",
+"spotify:track:36g619h8gPXcIxOQKDLQ5D"
+],
+[
+"2026-10-26T21:08|Liars|Ice Pick, Kalamazoo",
+"spotify:track:2Bw4s3uVcJ14vMI60P02Oh"
+],
+[
+"2026-10-26T21:03|The Offspring|The Kids Aren't Alright",
+"spotify:track:4EchqUKQ3qAQuRNKmeIpnf"
+],
+[
+"2026-10-26T20:54|Tyler Ballgame|I Believe In Love",
+"spotify:track:6AtEQ14ER32D5Fk8QzIp3t"
+],
+[
 "2026-10-26T20:50|Jamie T|Tallahassee",
 "spotify:track:3Kwdvrz5PTUpAObYKNPlz0"
 ],
@@ -48,8 +120,20 @@
 "spotify:track:3Ct3ro3LnsTHjeRVPNSG5s"
 ],
 [
+"2026-10-26T20:26|mooryc|Inconceivable",
+"spotify:track:6qAOPCs443ceN3NxavHAD7"
+],
+[
 "2026-10-26T20:16|Jungle|The Wave",
 "spotify:track:6Ln44Up5lBxNgCsaLoXY6W"
+],
+[
+"2026-10-26T20:05|A Tribe Called Quest feat. Norman Cook|I Left My Wallet In El Segundo",
+"spotify:track:6aeht0QSwiZN1esYfniHxr"
+],
+[
+"2026-10-26T19:56|Nia Archives|Vertical",
+"spotify:track:0ecQazzKkndVD8Ry9Orp9Q"
 ],
 [
 "2026-10-26T19:53|Grace Cummings|I'm Not Crazy",
@@ -64,16 +148,44 @@
 "spotify:track:0Vh4cYw0m2xqUzihLHpK61"
 ],
 [
+"2026-10-26T19:29|Sepalot Quartet|Rainbows (Live)",
+"spotify:track:2vAi5nLRH3ydCiwBjynOs4"
+],
+[
+"2026-10-26T19:19|Greentea Peng|Stuck In The Middle",
+"spotify:track:5f7us9O5oOi4QqSpehe3Qo"
+],
+[
+"2026-10-26T19:07|Phantogram|Earthshaker",
+"spotify:track:3dcAXXsNJb2VgX7k1Okz2L"
+],
+[
+"2026-10-26T18:56|Portugal. The Man|Yellow Red And Blue",
+"spotify:track:5KhFKpzl9ynjeRR8UrDz34"
+],
+[
 "2026-10-26T18:50|Steve Lacy|Show You Me",
 "spotify:track:4f50UTC41M2Ah5itifSGE5"
+],
+[
+"2026-10-26T18:47|Aztec Camera|Oblivious",
+"spotify:track:7bkMwQHz07hXH9hszEBZah"
 ],
 [
 "2026-10-26T18:43|CECI feat. Lords of Lounge|Honey Honey",
 "spotify:track:1I3D3G5pwYFKNYGIYTLRCq"
 ],
 [
+"2026-10-26T18:40|Jimi Tenor|Rocking Downtown",
+"spotify:track:6WYY4UmcynUdn6VnRiu9uv"
+],
+[
 "2026-10-26T18:33|Ibeyi|Hurry Hurry",
 "spotify:track:4BGA7VW330Eu1kaFNi98cG"
+],
+[
+"2026-10-26T18:25|Waldeck feat. Joy Malcolm|Where Do We Go From Here?",
+"spotify:track:1MvJHvU5tXQ6aPtEZSH1Ti"
 ],
 [
 "2026-10-26T18:18|J.Bernardt|Love Is On My Mind",
@@ -84,6 +196,10 @@
 "spotify:track:6M5Y8sn5cXePK58bH1WKon"
 ],
 [
+"2026-10-26T18:05|Spoon|Silver Girl",
+"spotify:track:1OcSRuRiQ7QKCGZ0WQTdnV"
+],
+[
 "2026-10-26T17:56|Lola Young|From Down Here (Radio Edit)",
 "spotify:track:7Hg7l5aOygIHuaNDVFp3ox"
 ],
@@ -92,8 +208,24 @@
 "spotify:track:6dSqM0tWJPlchpmGrEwC1c"
 ],
 [
+"2026-10-26T17:46|Kraftwerk|Tour de France",
+"spotify:track:7JryYiDLZ8fBKu6yBbu5aH"
+],
+[
 "2026-10-26T17:43|Agnes Obel|Laymelli (Edit)",
 "spotify:track:0VzMHjWcs2P24LHLekZ8Qa"
+],
+[
+"2026-10-26T17:36|Horace Silver|Song for my father",
+"spotify:track:1CDBaGlisZlOJzvx88lL8A"
+],
+[
+"2026-10-26T17:32|Romy|Lifetime",
+"spotify:track:023GoM1byudLGkMZDLweRJ"
+],
+[
+"2026-10-26T17:24|ViVii|Rendezvous",
+"spotify:track:4RtoslvgfrBcr3EcyVn2xm"
 ],
 [
 "2026-10-26T17:05|Sassy 009 feat. Blood Orange|Tell Me (Jam City Remix) (Edit)",
@@ -134,6 +266,10 @@
 [
 "2026-10-26T14:51|Sylvan Esso|Right to Left",
 "spotify:track:78xiuouD9dMXKXGKdDnjqB"
+],
+[
+"2026-10-26T14:40|Puscifer|The Algorithm",
+"spotify:track:6LYbP1QyoYWCDXxONzgpVZ"
 ],
 [
 "2026-10-26T14:33|L'Rain|Elmyra (Edit)",
@@ -3362,17 +3498,15 @@
 [
 "2026-10-20T05:32|Rubik|Laws Of Gravity",
 "spotify:track:6RBE4mtNhSfuWGh9ZtBhbl"
-],
-[
-"2026-10-20T05:28|Still Corners|A Kiss Before Dying",
-"spotify:track:1WSXieHimlAi2I3hG52aNP"
-],
-[
-"2026-10-20T05:24|Jonathan Bree|When We Met",
-"spotify:track:523nMlk5ceUmnvVKEgrjOU"
 ]
 ],
 "entries": [
+{
+"id": "2026-10-27T05:16|Bonobo feat. Joy Crookes|Always on Your Side",
+"t": "2026-10-27T05:16:00+01:00",
+"artist": "Bonobo feat. Joy Crookes",
+"title": "Always on Your Side"
+},
 {
 "id": "2026-10-27T05:10|The Charlatans|My Beautiful Friend",
 "t": "2026-10-27T05:10:00+01:00",
@@ -9036,18 +9170,6 @@
 "t": "2026-10-20T05:32:00+02:00",
 "artist": "Rubik",
 "title": "Laws Of Gravity"
-},
-{
-"id": "2026-10-20T05:28|Still Corners|A Kiss Before Dying",
-"t": "2026-10-20T05:28:00+02:00",
-"artist": "Still Corners",
-"title": "A Kiss Before Dying"
-},
-{
-"id": "2026-10-20T05:24|Jonathan Bree|When We Met",
-"t": "2026-10-20T05:24:00+02:00",
-"artist": "Jonathan Bree",
-"title": "When We Met"
 }
 ],
 "cache": {
@@ -9407,16 +9529,8 @@
 "u": "spotify:track:3PmyDf7Zu4vveCnayueVYX",
 "d": "2026-10-20T05:21:27.502373+02:00"
 },
-"jonathan bree|when we met": {
-"u": "spotify:track:523nMlk5ceUmnvVKEgrjOU",
-"d": "2026-10-20T05:30:27.503335+02:00"
-},
 "rubik|laws of gravity": {
 "u": "spotify:track:6RBE4mtNhSfuWGh9ZtBhbl",
-"d": "2026-10-20T05:36:27.503925+02:00"
-},
-"still corners|a kiss before dying": {
-"u": "spotify:track:1WSXieHimlAi2I3hG52aNP",
 "d": "2026-10-20T05:36:27.503925+02:00"
 },
 "tunstall kt|still a weirdo": {
@@ -11618,6 +11732,138 @@
 "the smashing pumpkins|black stars": {
 "u": "spotify:track:6qHi1FLsfgru61mcjxwDjm",
 "d": "2026-10-27T05:18:41.122717+01:00"
+},
+"angine de poitrine|tohogd": {
+"u": "spotify:track:664mxd7tkS4Nc1ktjuY6C2",
+"d": "2026-10-27T05:19:41.122802+01:00"
+},
+"puscifer|self evident": {
+"u": "spotify:track:36J9vpPpatRDkMkee0PFCe",
+"d": "2026-10-27T05:19:41.122802+01:00"
+},
+"steven wilson|a basket of bees": {
+"u": "spotify:track:4QpFW9jjqh9jgvg29NVFKO",
+"d": "2026-10-27T05:19:41.122802+01:00"
+},
+"puscifer|the algorithm": {
+"u": "spotify:track:6LYbP1QyoYWCDXxONzgpVZ",
+"d": "2026-10-27T05:20:41.122916+01:00"
+},
+"angine de poitrine|yor zarad": {
+"u": "spotify:track:0THaoqWjE4cyOMZALznzq9",
+"d": "2026-10-27T05:20:41.122916+01:00"
+},
+"foals|what went down": {
+"u": "spotify:track:0LJDalpISq604gw21RVwIV",
+"d": "2026-10-27T05:20:41.122916+01:00"
+},
+"fontaines d c|tongue": {
+"u": "spotify:track:1XzQ57ONjIpRYB878VuGnF",
+"d": "2026-10-27T05:21:41.123045+01:00"
+},
+"samiam|crystallized": {
+"u": "spotify:track:0oT7cDKEjVGltb1SiibTYO",
+"d": "2026-10-27T05:21:41.123045+01:00"
+},
+"lambrini girls|the basement": {
+"u": "spotify:track:6b1M7lKBrXFUp2kimbTmRu",
+"d": "2026-10-27T05:21:41.123045+01:00"
+},
+"l7|loma linda": {
+"u": "spotify:track:7d6L6EpAyGAIdMzz29LXR7",
+"d": "2026-10-27T05:22:41.123149+01:00"
+},
+"thees uhlmann|katy grayson": {
+"u": "spotify:track:7LyZ6uN9mZPFtz1qdIPXhL",
+"d": "2026-10-27T05:22:41.123149+01:00"
+},
+"kettcar|ich danke der academy": {
+"u": "spotify:track:4HdJ7tEp0yUZj9x6Y1x3CZ",
+"d": "2026-10-27T05:22:41.123149+01:00"
+},
+"fontaines d c|a hero s death": {
+"u": "spotify:track:7Lqsf35icK9gPZICqBRrEv",
+"d": "2026-10-27T05:23:41.123244+01:00"
+},
+"interpol|wings on fire": {
+"u": "spotify:track:36g619h8gPXcIxOQKDLQ5D",
+"d": "2026-10-27T05:23:41.123244+01:00"
+},
+"liars|ice pick kalamazoo": {
+"u": "spotify:track:2Bw4s3uVcJ14vMI60P02Oh",
+"d": "2026-10-27T05:23:41.123244+01:00"
+},
+"the offspring|the kids aren t alright": {
+"u": "spotify:track:4EchqUKQ3qAQuRNKmeIpnf",
+"d": "2026-10-27T05:24:41.123369+01:00"
+},
+"tyler ballgame|i believe in love": {
+"u": "spotify:track:6AtEQ14ER32D5Fk8QzIp3t",
+"d": "2026-10-27T05:24:41.123369+01:00"
+},
+"mooryc|inconceivable": {
+"u": "spotify:track:6qAOPCs443ceN3NxavHAD7",
+"d": "2026-10-27T05:24:41.123369+01:00"
+},
+"a tribe called quest feat norman cook|i left my wallet in el segundo": {
+"u": "spotify:track:6aeht0QSwiZN1esYfniHxr",
+"d": "2026-10-27T05:25:41.123478+01:00"
+},
+"nia archives|vertical": {
+"u": "spotify:track:0ecQazzKkndVD8Ry9Orp9Q",
+"d": "2026-10-27T05:25:41.123478+01:00"
+},
+"sepalot quartet|rainbows live": {
+"u": "spotify:track:2vAi5nLRH3ydCiwBjynOs4",
+"d": "2026-10-27T05:25:41.123478+01:00"
+},
+"greentea peng|stuck in the middle": {
+"u": "spotify:track:5f7us9O5oOi4QqSpehe3Qo",
+"d": "2026-10-27T05:26:41.123577+01:00"
+},
+"phantogram|earthshaker": {
+"u": "spotify:track:3dcAXXsNJb2VgX7k1Okz2L",
+"d": "2026-10-27T05:26:41.123577+01:00"
+},
+"portugal the man|yellow red and blue": {
+"u": "spotify:track:5KhFKpzl9ynjeRR8UrDz34",
+"d": "2026-10-27T05:26:41.123577+01:00"
+},
+"aztec camera|oblivious": {
+"u": "spotify:track:7bkMwQHz07hXH9hszEBZah",
+"d": "2026-10-27T05:27:41.123707+01:00"
+},
+"jimi tenor|rocking downtown": {
+"u": "spotify:track:6WYY4UmcynUdn6VnRiu9uv",
+"d": "2026-10-27T05:27:41.123707+01:00"
+},
+"waldeck feat joy malcolm|where do we go from here": {
+"u": "spotify:track:1MvJHvU5tXQ6aPtEZSH1Ti",
+"d": "2026-10-27T05:27:41.123707+01:00"
+},
+"spoon|silver girl": {
+"u": "spotify:track:1OcSRuRiQ7QKCGZ0WQTdnV",
+"d": "2026-10-27T05:28:41.123969+01:00"
+},
+"kraftwerk|tour de france": {
+"u": "spotify:track:7JryYiDLZ8fBKu6yBbu5aH",
+"d": "2026-10-27T05:28:41.123969+01:00"
+},
+"horace silver|song for my father": {
+"u": "spotify:track:1CDBaGlisZlOJzvx88lL8A",
+"d": "2026-10-27T05:28:41.123969+01:00"
+},
+"romy|lifetime": {
+"u": "spotify:track:023GoM1byudLGkMZDLweRJ",
+"d": "2026-10-27T05:29:41.124097+01:00"
+},
+"oscar peterson|satisfaction": {
+"u": null,
+"d": "2026-10-27T05:29:41.124097+01:00"
+},
+"vivii|rendezvous": {
+"u": "spotify:track:4RtoslvgfrBcr3EcyVn2xm",
+"d": "2026-10-27T05:29:41.124097+01:00"
 }
 }
 }
