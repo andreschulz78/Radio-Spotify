@@ -1,12 +1,16 @@
 {
-"updated": "2026-10-27T07:51:49.750681+01:00",
+"updated": "2026-10-27T08:02:49.752287+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-27T05:16:57.473384+01:00",
 "details": "51e4e36c2ea1",
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAZ4HTRfMKegX5obzDk655UjpOS6PIw",
+"snapshot": "AAAZ9On/aLuec8mf1WY1ONp6lRfbZZ7f",
 "playlist": [
+[
+"2026-10-27T07:55|Sparkling & COMA|It Won't Be Like This Forever",
+"spotify:track:1w6NksiUfe5WNa5wZAJXYO"
+],
 [
 "2026-10-27T07:45|Neal Francis|Hide",
 "spotify:track:197QlBcwTnJNU8DAf3BNLo"
@@ -3702,13 +3706,21 @@
 [
 "2026-10-20T08:06|Dina Ögon|Det läcker",
 "spotify:track:6GffMzseDk8LgpRNFW9Hca"
-],
-[
-"2026-10-20T07:58|Heaven 17|Temptation",
-"spotify:track:1u8wrxIC4Vo3OYI1Rbb5hN"
 ]
 ],
 "entries": [
+{
+"id": "2026-10-27T07:55|Sparkling & COMA|It Won't Be Like This Forever",
+"t": "2026-10-27T07:55:00+01:00",
+"artist": "Sparkling & COMA",
+"title": "It Won't Be Like This Forever"
+},
+{
+"id": "2026-10-27T07:49|King Gizzard & The Lizard Wizard|Hate Dancin'",
+"t": "2026-10-27T07:49:00+01:00",
+"artist": "King Gizzard & The Lizard Wizard",
+"title": "Hate Dancin'"
+},
 {
 "id": "2026-10-27T07:45|Neal Francis|Hide",
 "t": "2026-10-27T07:45:00+01:00",
@@ -9378,12 +9390,6 @@
 "t": "2026-10-20T08:06:00+02:00",
 "artist": "Dina Ögon",
 "title": "Det läcker"
-},
-{
-"id": "2026-10-20T07:58|Heaven 17|Temptation",
-"t": "2026-10-20T07:58:00+02:00",
-"artist": "Heaven 17",
-"title": "Temptation"
 }
 ],
 "cache": {
@@ -9766,10 +9772,6 @@
 "joshua idehen|could be forever": {
 "u": "spotify:track:0ZUKth5xg7UM6Q73YhDq2w",
 "d": "2026-10-20T07:56:27.519927+02:00"
-},
-"heaven 17|temptation": {
-"u": "spotify:track:1u8wrxIC4Vo3OYI1Rbb5hN",
-"d": "2026-10-20T08:07:27.521163+02:00"
 },
 "dina ogon|det lacker": {
 "u": "spotify:track:6GffMzseDk8LgpRNFW9Hca",
@@ -12290,6 +12292,10 @@
 "katy j pearson|talk over town": {
 "u": "spotify:track:45lHbwtumdPy7lGxWQZTs5",
 "d": "2026-10-27T07:46:49.750071+01:00"
+},
+"king gizzard the lizard wizard|hate dancin": {
+"u": null,
+"d": "2026-10-27T07:56:49.751373+01:00"
 }
 }
 }
