@@ -1,12 +1,20 @@
 {
-"updated": "2026-10-27T08:34:49.756374+01:00",
+"updated": "2026-10-27T08:45:49.757893+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-27T05:16:57.473384+01:00",
 "details": "51e4e36c2ea1",
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAaPMfWdDbalZpvB/3ZqcRwHcweWmrz",
+"snapshot": "AAAaUo6o8ecpDDjN37+QoFqMqZPF8tdc",
 "playlist": [
+[
+"2026-10-27T08:34|Bilderbuch|Checkpoint (Nie Game Over)",
+"spotify:track:6ICPQARHre4MjKSPaKCmII"
+],
+[
+"2026-10-27T08:27|Get Well Soon|Siri, What Ruined The West ?",
+"spotify:track:3XY1xxFHeGHDDt33V6GoE2"
+],
 [
 "2026-10-27T08:20|Kurtis Blow|Basketball",
 "spotify:track:7ueOghkUPFBGnbtZFALcci"
@@ -3694,13 +3702,21 @@
 [
 "2026-10-20T08:49|Jungle|The Wave",
 "spotify:track:6Ln44Up5lBxNgCsaLoXY6W"
-],
-[
-"2026-10-20T08:42|School Of Zuversicht|Hinter dem Hügel (Edit)",
-"spotify:track:5Hl437gQeC8rwiW41qi2eF"
 ]
 ],
 "entries": [
+{
+"id": "2026-10-27T08:34|Bilderbuch|Checkpoint (Nie Game Over)",
+"t": "2026-10-27T08:34:00+01:00",
+"artist": "Bilderbuch",
+"title": "Checkpoint (Nie Game Over)"
+},
+{
+"id": "2026-10-27T08:27|Get Well Soon|Siri, What Ruined The West ?",
+"t": "2026-10-27T08:27:00+01:00",
+"artist": "Get Well Soon",
+"title": "Siri, What Ruined The West ?"
+},
 {
 "id": "2026-10-27T08:20|Kurtis Blow|Basketball",
 "t": "2026-10-27T08:20:00+01:00",
@@ -9364,12 +9380,6 @@
 "t": "2026-10-20T08:49:00+02:00",
 "artist": "Jungle",
 "title": "The Wave"
-},
-{
-"id": "2026-10-20T08:42|School Of Zuversicht|Hinter dem Hügel (Edit)",
-"t": "2026-10-20T08:42:00+02:00",
-"artist": "School Of Zuversicht",
-"title": "Hinter dem Hügel (Edit)"
 }
 ],
 "cache": {
@@ -9760,10 +9770,6 @@
 "jim james|come again": {
 "u": "spotify:track:6S3Ao3HkuLpHffHWL8oRsz",
 "d": "2026-10-20T08:41:27.524890+02:00"
-},
-"school of zuversicht|hinter dem hugel edit": {
-"u": "spotify:track:5Hl437gQeC8rwiW41qi2eF",
-"d": "2026-10-20T08:47:27.525583+02:00"
 },
 "jungle|the wave": {
 "u": "spotify:track:6Ln44Up5lBxNgCsaLoXY6W",
@@ -12284,6 +12290,10 @@
 "kurtis blow|basketball": {
 "u": "spotify:track:7ueOghkUPFBGnbtZFALcci",
 "d": "2026-10-27T08:26:49.755339+01:00"
+},
+"bilderbuch|checkpoint nie game over": {
+"u": "spotify:track:6ICPQARHre4MjKSPaKCmII",
+"d": "2026-10-27T08:40:49.757263+01:00"
 }
 }
 }
