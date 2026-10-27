@@ -1,5 +1,5 @@
 {
-"updated": "2026-10-27T19:46:08.440479+01:00",
+"updated": "2026-10-27T19:57:08.441742+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-28T05:17:44.758892+01:00",
 "details": "51e4e36c2ea1",
@@ -3705,6 +3705,24 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-10-27T19:53|Ebow|ARBAYT",
+"t": "2026-10-27T19:53:00+01:00",
+"artist": "Ebow",
+"title": "ARBAYT"
+},
+{
+"id": "2026-10-27T19:49|Tinashe|Crash Out",
+"t": "2026-10-27T19:49:00+01:00",
+"artist": "Tinashe",
+"title": "Crash Out"
+},
+{
+"id": "2026-10-27T19:46|Fontaines D.C.|Marianne",
+"t": "2026-10-27T19:46:00+01:00",
+"artist": "Fontaines D.C.",
+"title": "Marianne"
+},
 {
 "id": "2026-10-27T19:30|Keshavara|Moondram Sevi",
 "t": "2026-10-27T19:30:00+01:00",
@@ -9356,12 +9374,6 @@
 "t": "2026-10-20T20:05:00+02:00",
 "artist": "Kevin Morby",
 "title": "PBJ (Edit)"
-},
-{
-"id": "2026-10-20T19:56|AGASSI|The Whole Shebang",
-"t": "2026-10-20T19:56:00+02:00",
-"artist": "AGASSI",
-"title": "The Whole Shebang"
 }
 ],
 "cache": {
