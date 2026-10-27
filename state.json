@@ -1,5 +1,5 @@
 {
-"updated": "2026-10-27T19:02:08.435406+01:00",
+"updated": "2026-10-27T19:13:08.436659+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-28T05:17:44.758892+01:00",
 "details": "51e4e36c2ea1",
@@ -3705,6 +3705,18 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-10-27T19:05|Kutiman & Dekel|Hope",
+"t": "2026-10-27T19:05:00+01:00",
+"artist": "Kutiman & Dekel",
+"title": "Hope"
+},
+{
+"id": "2026-10-27T18:57|Wild Beasts|Alpha Female",
+"t": "2026-10-27T18:57:00+01:00",
+"artist": "Wild Beasts",
+"title": "Alpha Female"
+},
 {
 "id": "2026-10-27T18:51|Mari Froes|Eu vou pro samba, viu?",
 "t": "2026-10-27T18:51:00+01:00",
@@ -9350,12 +9362,6 @@
 "t": "2026-10-20T19:17:00+02:00",
 "artist": "Adrianne Lenker",
 "title": "Not a lot, just forever"
-},
-{
-"id": "2026-10-20T19:06|Barry Can't Swim|Dance Of The Crab (Radio Edit)",
-"t": "2026-10-20T19:06:00+02:00",
-"artist": "Barry Can't Swim",
-"title": "Dance Of The Crab (Radio Edit)"
 }
 ],
 "cache": {
@@ -9805,10 +9811,6 @@
 },
 "adrianne lenker|not a lot just forever": {
 "u": "spotify:track:11hEwcy9LMEvzAlOYAFhkK",
-"d": "2026-10-21T05:16:06.272471+02:00"
-},
-"barry can t swim|dance of the crab radio edit": {
-"u": "spotify:track:7tu1Bd1SfSiBdRgUvYpq7t",
 "d": "2026-10-21T05:16:06.272471+02:00"
 },
 "jordan rakei|enemies": {
