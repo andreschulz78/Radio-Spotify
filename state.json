@@ -1,5 +1,5 @@
 {
-"updated": "2026-10-27T15:42:58.751598+01:00",
+"updated": "2026-10-27T15:53:58.752665+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-28T05:17:44.758892+01:00",
 "details": "51e4e36c2ea1",
@@ -3705,6 +3705,12 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-10-27T15:45|Hollie Cook|Happy Hour",
+"t": "2026-10-27T15:45:00+01:00",
+"artist": "Hollie Cook",
+"title": "Happy Hour"
+},
 {
 "id": "2026-10-27T15:31|Leon Bridges|Light The Way",
 "t": "2026-10-27T15:31:00+01:00",
@@ -9368,18 +9374,6 @@
 "t": "2026-10-20T15:57:00+02:00",
 "artist": "Chris Malinchak",
 "title": "So Good To Me"
-},
-{
-"id": "2026-10-20T15:52|The Weeknd|Blinding Lights",
-"t": "2026-10-20T15:52:00+02:00",
-"artist": "The Weeknd",
-"title": "Blinding Lights"
-},
-{
-"id": "2026-10-20T15:46|Texas|Inner Smile",
-"t": "2026-10-20T15:46:00+02:00",
-"artist": "Texas",
-"title": "Inner Smile"
 }
 ],
 "cache": {
@@ -9802,14 +9796,6 @@
 "odd beholder|lean dreams": {
 "u": "spotify:track:44KktJfihIKoQrUrnKCzTH",
 "d": "2026-10-20T15:26:37.017294+02:00"
-},
-"texas|inner smile": {
-"u": "spotify:track:0bN78ecTh4bb2hGt4BSzN4",
-"d": "2026-10-20T15:50:45.703860+02:00"
-},
-"the weeknd|blinding lights": {
-"u": "spotify:track:0VjIjW4GlUZAMYd2vXMi3b",
-"d": "2026-10-20T16:00:45.704845+02:00"
 },
 "chris malinchak|so good to me": {
 "u": "spotify:track:1mGGVB5nDxGObTP26RhjyT",
