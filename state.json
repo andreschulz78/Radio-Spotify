@@ -1,5 +1,5 @@
 {
-"updated": "2026-10-27T14:49:58.746206+01:00",
+"updated": "2026-10-27T15:00:58.747395+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-28T05:17:44.758892+01:00",
 "details": "51e4e36c2ea1",
@@ -3705,6 +3705,18 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-10-27T14:54|Nichtseattle|Ich mit Brille",
+"t": "2026-10-27T14:54:00+01:00",
+"artist": "Nichtseattle",
+"title": "Ich mit Brille"
+},
+{
+"id": "2026-10-27T14:47|Overmono feat. Ruthven|Gem Lingo (ovr now)",
+"t": "2026-10-27T14:47:00+01:00",
+"artist": "Overmono feat. Ruthven",
+"title": "Gem Lingo (ovr now)"
+},
 {
 "id": "2026-10-27T14:41|John Miles|Music",
 "t": "2026-10-27T14:41:00+01:00",
@@ -9374,12 +9386,6 @@
 "t": "2026-10-20T15:05:00+02:00",
 "artist": "Twin Shadow",
 "title": "Dominoes"
-},
-{
-"id": "2026-10-20T14:55|King Gizzard & The Lizard Wizard|Magenta Mountain (Edit)",
-"t": "2026-10-20T14:55:00+02:00",
-"artist": "King Gizzard & The Lizard Wizard",
-"title": "Magenta Mountain (Edit)"
 }
 ],
 "cache": {
@@ -9798,10 +9804,6 @@
 "54 ultra|tell me": {
 "u": "spotify:track:6iXIvHGsLMJ89TuW1S9E3C",
 "d": "2026-10-20T13:25:36.454327+02:00"
-},
-"king gizzard the lizard wizard|magenta mountain edit": {
-"u": null,
-"d": "2026-10-27T05:50:41.126689+01:00"
 },
 "twin shadow|dominoes": {
 "u": "spotify:track:5cgK6Kvd1rLMqLbZIwytnh",
