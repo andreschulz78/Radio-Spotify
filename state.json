@@ -1,5 +1,5 @@
 {
-"updated": "2026-10-27T11:07:49.776553+01:00",
+"updated": "2026-10-27T11:18:49.777758+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-28T05:17:44.758892+01:00",
 "details": "51e4e36c2ea1",
@@ -3705,6 +3705,18 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-10-27T11:08|Compuphonic|Metropolis",
+"t": "2026-10-27T11:08:00+01:00",
+"artist": "Compuphonic",
+"title": "Metropolis"
+},
+{
+"id": "2026-10-27T11:06|Hannah Jadagu|My Love",
+"t": "2026-10-27T11:06:00+01:00",
+"artist": "Hannah Jadagu",
+"title": "My Love"
+},
 {
 "id": "2026-10-27T10:57|Ásgeir|Against The Current",
 "t": "2026-10-27T10:57:00+01:00",
@@ -9344,18 +9356,6 @@
 "t": "2026-10-20T11:22:00+02:00",
 "artist": "Cass McCombs",
 "title": "Peace"
-},
-{
-"id": "2026-10-20T11:18|The Big Moon|F.O.R.E.V.E.R",
-"t": "2026-10-20T11:18:00+02:00",
-"artist": "The Big Moon",
-"title": "F.O.R.E.V.E.R"
-},
-{
-"id": "2026-10-20T11:09|Beastie Boys feat. Santigold|Don't Play No Game That I Can't Win",
-"t": "2026-10-20T11:09:00+02:00",
-"artist": "Beastie Boys feat. Santigold",
-"title": "Don't Play No Game That I Can't Win"
 }
 ],
 "cache": {
@@ -9758,10 +9758,6 @@
 "innenraume|im gegenlicht": {
 "u": "spotify:track:2ubG5Lo2I8hs3GzaVf7vdD",
 "d": "2026-10-20T10:36:36.432430+02:00"
-},
-"beastie boys feat santigold|don t play no game that i can t win": {
-"u": "spotify:track:1Emrs7nn0qSeoCzSRApiFK",
-"d": "2026-10-20T11:15:36.437447+02:00"
 },
 "cass mccombs|peace": {
 "u": "spotify:track:0HJuwBpU9bpH3Zt5r1PtNS",
