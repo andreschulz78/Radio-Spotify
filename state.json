@@ -1,12 +1,20 @@
 {
-"updated": "2026-10-27T05:40:41.125365+01:00",
+"updated": "2026-10-27T05:51:41.126803+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-27T05:16:57.473384+01:00",
 "details": "51e4e36c2ea1",
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAYgLidx3vGBzBv/fuAGAuVZKvjF4NZ",
+"snapshot": "AAAYuflqee0npaPaaXw9wtbjSu61tpz+",
 "playlist": [
+[
+"2026-10-27T05:42|Mano Le Tough|Aye Aye Mi Mi (Radio Edit)",
+"spotify:track:0z3tkvYZ6wudpfiPLad50j"
+],
+[
+"2026-10-27T05:37|Schandmaul|Willst Du",
+"spotify:track:3hC19wVygc3w8JuRrNutBf"
+],
 [
 "2026-10-27T05:31|MorMor feat. Celeste|Like Heaven",
 "spotify:track:5pZGuhprytXKB7QRMul3jq"
@@ -440,20 +448,100 @@
 "spotify:track:0UaPOdi1O83vr1oTXaGqgx"
 ],
 [
+"2026-10-26T12:31|Todd Terje|Inspector Norse",
+"spotify:track:1NHd4UVxT5d5EGYzlDq17T"
+],
+[
 "2026-10-26T12:29|Alewya|Maktoub",
 "spotify:track:56DYNKo3QHkakqOUkWi3vl"
+],
+[
+"2026-10-26T12:24|Tom Misch|Slow Tonight",
+"spotify:track:7cpoZVJlz9euhcgUfQBMRL"
+],
+[
+"2026-10-26T12:19|Kurt Vile|One Trick Ponies",
+"spotify:track:3PLI0jvm3wsJSqicjYyk7N"
 ],
 [
 "2026-10-26T12:09|Yazmin Lacey|Summer Haze",
 "spotify:track:465QjZo1z1JAuLTTC7DnuK"
 ],
 [
+"2026-10-26T12:05|Cypress Hill|What's Your Number",
+"spotify:track:3bI9Eqin8kTzqKrs3Y4uGD"
+],
+[
+"2026-10-26T11:56|MGMT|Mother Nature",
+"spotify:track:1tVeKjA517Cb3rATn9AHMt"
+],
+[
+"2026-10-26T11:49|Sugababes|Overload",
+"spotify:track:7orBBkQgdmanhPCD0FyHHZ"
+],
+[
+"2026-10-26T11:43|Funkstörung feat. Enik|Moon Addicted",
+"spotify:track:09NFtpTHcK46LRl9b20Hha"
+],
+[
+"2026-10-26T11:37|Kelela|Crystalize",
+"spotify:track:4dDECyaCvbKYrPYy4qCbzm"
+],
+[
 "2026-10-26T11:31|Yard Act|You're Gonna Need A Little Music",
 "spotify:track:43KS2LpjMVkvJdprLaoQxQ"
 ],
 [
+"2026-10-26T11:25|Aldous Harding|The Barrel",
+"spotify:track:12Yg0ccaYI9y1U9Qh5bxRV"
+],
+[
+"2026-10-26T11:22|Gabriels|Break It",
+"spotify:track:5WiVqnjVzB9tNXqeSKZgxH"
+],
+[
+"2026-10-26T11:18|Tame Impala|Afterthought",
+"spotify:track:4LqkSEGv7SpGzruiSTkfL5"
+],
+[
+"2026-10-26T11:11|Wings|Silly Love Songs",
+"spotify:track:3uiMBldZ07pW0ySHDX5gzE"
+],
+[
 "2026-10-26T11:06|Austra & Patrick Holland|Siren Reprise",
 "spotify:track:678wI419HyRL4qSTbXdyLu"
+],
+[
+"2026-10-26T10:58|Ian Brown|Stellify",
+"spotify:track:5bCfVGIXNWKSD4pYwFOejo"
+],
+[
+"2026-10-26T10:51|Buena Vista Social Club|Chan Chan",
+"spotify:track:3bxZhauuIU4ubctdRZwPYW"
+],
+[
+"2026-10-26T10:39|Fritz Kalkbrenner|Facing The Sun",
+"spotify:track:4Ei691AKbjiGscPcMUdA4s"
+],
+[
+"2026-10-26T10:34|Moscoman & SCUDFM|Low Blood Sugar",
+"spotify:track:20ex9eLFDV8Jg3A2cTY2Ho"
+],
+[
+"2026-10-26T10:32|Xing|Was It?",
+"spotify:track:6LElYXf3SJkSKvDTLEwcMl"
+],
+[
+"2026-10-26T10:26|Niki & The Dove|Play it on my radio",
+"spotify:track:1seJrkyvgdPHrYx7d74GXy"
+],
+[
+"2026-10-26T10:23|Niki & The Dove|Play it on my radio",
+"spotify:track:1seJrkyvgdPHrYx7d74GXy"
+],
+[
+"2026-10-26T10:19|Gil Scott-Heron|Me And The Devil",
+"spotify:track:0DfHeKRPWea6WPOXvmMRMQ"
 ],
 [
 "2026-10-26T10:08|Σtella|Belinda",
@@ -464,8 +552,20 @@
 "spotify:track:6jJTpzMquQLVuUkM2vVEIF"
 ],
 [
+"2026-10-26T09:55|Fat Freddy's Drop|Roady",
+"spotify:track:36a34yPdO13HRIOD0lbC3S"
+],
+[
+"2026-10-26T09:47|Lord Huron|Bag of bones",
+"spotify:track:1M2AqYT4Y6X0zRboZgIw8K"
+],
+[
 "2026-10-26T09:44|Odd Beholder|Lean Dreams",
 "spotify:track:44KktJfihIKoQrUrnKCzTH"
+],
+[
+"2026-10-26T09:40|Brittany Howard|Stay High",
+"spotify:track:10dqWdhsDBjltY1B4TPnMd"
 ],
 [
 "2026-10-26T09:32|Bonaparte|KiOSKO",
@@ -3602,17 +3702,21 @@
 [
 "2026-10-20T05:55|Panda Bear|Praise",
 "spotify:track:08aaQA6A7UHvbPGsfPrAFe"
-],
-[
-"2026-10-20T05:51|Get Well Soon|Siri, What Ruined The West ?",
-"spotify:track:3XY1xxFHeGHDDt33V6GoE2"
-],
-[
-"2026-10-20T05:45|Tikhet|Burndowner",
-"spotify:track:76iRkapw7dHIlJhSoy7PCv"
 ]
 ],
 "entries": [
+{
+"id": "2026-10-27T05:42|Mano Le Tough|Aye Aye Mi Mi (Radio Edit)",
+"t": "2026-10-27T05:42:00+01:00",
+"artist": "Mano Le Tough",
+"title": "Aye Aye Mi Mi (Radio Edit)"
+},
+{
+"id": "2026-10-27T05:37|Schandmaul|Willst Du",
+"t": "2026-10-27T05:37:00+01:00",
+"artist": "Schandmaul",
+"title": "Willst Du"
+},
 {
 "id": "2026-10-27T05:31|MorMor feat. Celeste|Like Heaven",
 "t": "2026-10-27T05:31:00+01:00",
@@ -9270,18 +9374,6 @@
 "t": "2026-10-20T05:55:00+02:00",
 "artist": "Panda Bear",
 "title": "Praise"
-},
-{
-"id": "2026-10-20T05:51|Get Well Soon|Siri, What Ruined The West ?",
-"t": "2026-10-20T05:51:00+02:00",
-"artist": "Get Well Soon",
-"title": "Siri, What Ruined The West ?"
-},
-{
-"id": "2026-10-20T05:45|Tikhet|Burndowner",
-"t": "2026-10-20T05:45:00+02:00",
-"artist": "Tikhet",
-"title": "Burndowner"
 }
 ],
 "cache": {
@@ -9935,7 +10027,7 @@
 },
 "king gizzard the lizard wizard|magenta mountain edit": {
 "u": null,
-"d": "2026-10-24T05:37:43.687288+02:00"
+"d": "2026-10-27T05:50:41.126689+01:00"
 },
 "twin shadow|dominoes": {
 "u": "spotify:track:5cgK6Kvd1rLMqLbZIwytnh",
@@ -11055,7 +11147,7 @@
 },
 "eels|13 eels clobbered": {
 "u": null,
-"d": "2026-10-24T05:15:43.684867+02:00"
+"d": "2026-10-27T05:49:41.126454+01:00"
 },
 "berq|09 berq mein herz": {
 "u": "spotify:track:7bnESRPXP65vFIJvAmkuwS",
@@ -11063,11 +11155,11 @@
 },
 "lambrini girls|08 lambrini girls spilt": {
 "u": null,
-"d": "2026-10-24T05:16:43.684973+02:00"
+"d": "2026-10-27T05:49:41.126454+01:00"
 },
 "yeah yeah yeahs|01 yyys maps live at the royal albert hall edit": {
 "u": null,
-"d": "2026-10-24T05:16:43.684973+02:00"
+"d": "2026-10-27T05:50:41.126689+01:00"
 },
 "curtis mayfield|move on up": {
 "u": "spotify:track:01gDLZsi0j5fWC28FLPNO8",
@@ -11255,7 +11347,7 @@
 },
 "siouxsie and the banshees|christine": {
 "u": null,
-"d": "2026-10-24T05:32:43.686734+02:00"
+"d": "2026-10-27T05:50:41.126689+01:00"
 },
 "the last shadow puppets|the age of the understatement": {
 "u": "spotify:track:4fsWlej0WwmeCIRYY5xIir",
@@ -12096,6 +12188,106 @@
 "laid back|white horse": {
 "u": null,
 "d": "2026-10-27T05:40:41.125365+01:00"
+},
+"todd terje|inspector norse": {
+"u": "spotify:track:1NHd4UVxT5d5EGYzlDq17T",
+"d": "2026-10-27T05:41:41.125481+01:00"
+},
+"tom misch|slow tonight": {
+"u": "spotify:track:7cpoZVJlz9euhcgUfQBMRL",
+"d": "2026-10-27T05:41:41.125481+01:00"
+},
+"kurt vile|one trick ponies": {
+"u": "spotify:track:3PLI0jvm3wsJSqicjYyk7N",
+"d": "2026-10-27T05:41:41.125481+01:00"
+},
+"cypress hill|what s your number": {
+"u": "spotify:track:3bI9Eqin8kTzqKrs3Y4uGD",
+"d": "2026-10-27T05:42:41.125567+01:00"
+},
+"mgmt|mother nature": {
+"u": "spotify:track:1tVeKjA517Cb3rATn9AHMt",
+"d": "2026-10-27T05:42:41.125567+01:00"
+},
+"sugababes|overload": {
+"u": "spotify:track:7orBBkQgdmanhPCD0FyHHZ",
+"d": "2026-10-27T05:42:41.125567+01:00"
+},
+"funkstorung feat enik|moon addicted": {
+"u": "spotify:track:09NFtpTHcK46LRl9b20Hha",
+"d": "2026-10-27T05:43:41.125663+01:00"
+},
+"kelela|crystalize": {
+"u": "spotify:track:4dDECyaCvbKYrPYy4qCbzm",
+"d": "2026-10-27T05:43:41.125663+01:00"
+},
+"aldous harding|the barrel": {
+"u": "spotify:track:12Yg0ccaYI9y1U9Qh5bxRV",
+"d": "2026-10-27T05:43:41.125663+01:00"
+},
+"gabriels|break it": {
+"u": "spotify:track:5WiVqnjVzB9tNXqeSKZgxH",
+"d": "2026-10-27T05:44:41.125770+01:00"
+},
+"tame impala|afterthought": {
+"u": "spotify:track:4LqkSEGv7SpGzruiSTkfL5",
+"d": "2026-10-27T05:44:41.125770+01:00"
+},
+"wings|silly love songs": {
+"u": "spotify:track:3uiMBldZ07pW0ySHDX5gzE",
+"d": "2026-10-27T05:44:41.125770+01:00"
+},
+"ian brown|stellify": {
+"u": "spotify:track:5bCfVGIXNWKSD4pYwFOejo",
+"d": "2026-10-27T05:45:41.125916+01:00"
+},
+"buena vista social club|chan chan": {
+"u": "spotify:track:3bxZhauuIU4ubctdRZwPYW",
+"d": "2026-10-27T05:45:41.125916+01:00"
+},
+"fritz kalkbrenner|facing the sun": {
+"u": "spotify:track:4Ei691AKbjiGscPcMUdA4s",
+"d": "2026-10-27T05:45:41.125916+01:00"
+},
+"mano le tough|aye aye mi mi radio edit": {
+"u": "spotify:track:0z3tkvYZ6wudpfiPLad50j",
+"d": "2026-10-27T05:46:41.126058+01:00"
+},
+"schandmaul|willst du": {
+"u": "spotify:track:3hC19wVygc3w8JuRrNutBf",
+"d": "2026-10-27T05:46:41.126058+01:00"
+},
+"moscoman scudfm|low blood sugar": {
+"u": "spotify:track:20ex9eLFDV8Jg3A2cTY2Ho",
+"d": "2026-10-27T05:46:41.126058+01:00"
+},
+"xing|was it": {
+"u": "spotify:track:6LElYXf3SJkSKvDTLEwcMl",
+"d": "2026-10-27T05:47:41.126185+01:00"
+},
+"niki the dove|play it on my radio": {
+"u": "spotify:track:1seJrkyvgdPHrYx7d74GXy",
+"d": "2026-10-27T05:47:41.126185+01:00"
+},
+"gil scott heron|me and the devil": {
+"u": "spotify:track:0DfHeKRPWea6WPOXvmMRMQ",
+"d": "2026-10-27T05:47:41.126185+01:00"
+},
+"fat freddy s drop|roady": {
+"u": "spotify:track:36a34yPdO13HRIOD0lbC3S",
+"d": "2026-10-27T05:48:41.126300+01:00"
+},
+"lord huron|bag of bones": {
+"u": "spotify:track:1M2AqYT4Y6X0zRboZgIw8K",
+"d": "2026-10-27T05:48:41.126300+01:00"
+},
+"brittany howard|stay high": {
+"u": "spotify:track:10dqWdhsDBjltY1B4TPnMd",
+"d": "2026-10-27T05:48:41.126300+01:00"
+},
+"cem karaca|es kamen menschen an": {
+"u": null,
+"d": "2026-10-27T05:49:41.126454+01:00"
 }
 }
 }
