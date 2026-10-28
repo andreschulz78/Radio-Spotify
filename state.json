@@ -1,12 +1,16 @@
 {
-"updated": "2026-10-28T07:15:28.282970+01:00",
+"updated": "2026-10-28T07:26:28.284376+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-28T05:17:44.758892+01:00",
 "details": "51e4e36c2ea1",
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAb6zTzvaKk1U4SWcudfLZTcURKGvDv",
+"snapshot": "AAAcCaoozZb1FFAuh6rGs59gpsyzDZgC",
 "playlist": [
+[
+"2026-10-28T07:17|Wallners|Movie Stars",
+"spotify:track:7xesRbRs3O1MLOgWqMSN7a"
+],
 [
 "2026-10-28T07:12|Lola Young|From Down Here (Radio Edit)",
 "spotify:track:7Hg7l5aOygIHuaNDVFp3ox"
@@ -3694,21 +3698,15 @@
 [
 "2026-10-21T07:35|MGMT|Little Dark Age",
 "spotify:track:2Y0iGXY6m6immVb2ktbseM"
-],
-[
-"2026-10-21T07:26|UB40|Food For Thought",
-"spotify:track:5YkkeIiErNf2ckvMxmT5RT"
-],
-[
-"2026-10-21T07:24|UB40|Food For Thought",
-"spotify:track:5YkkeIiErNf2ckvMxmT5RT"
-],
-[
-"2026-10-21T07:17|Leon Bridges|Talk it over",
-"spotify:track:5Bdn8RyTqz4dV7F07EFBP5"
 ]
 ],
 "entries": [
+{
+"id": "2026-10-28T07:17|Wallners|Movie Stars",
+"t": "2026-10-28T07:17:00+01:00",
+"artist": "Wallners",
+"title": "Movie Stars"
+},
 {
 "id": "2026-10-28T07:12|Lola Young|From Down Here (Radio Edit)",
 "t": "2026-10-28T07:12:00+01:00",
@@ -9384,24 +9382,6 @@
 "t": "2026-10-21T07:35:00+02:00",
 "artist": "MGMT",
 "title": "Little Dark Age"
-},
-{
-"id": "2026-10-21T07:26|UB40|Food For Thought",
-"t": "2026-10-21T07:26:00+02:00",
-"artist": "UB40",
-"title": "Food For Thought"
-},
-{
-"id": "2026-10-21T07:24|UB40|Food For Thought",
-"t": "2026-10-21T07:24:00+02:00",
-"artist": "UB40",
-"title": "Food For Thought"
-},
-{
-"id": "2026-10-21T07:17|Leon Bridges|Talk it over",
-"t": "2026-10-21T07:17:00+02:00",
-"artist": "Leon Bridges",
-"title": "Talk it over"
 }
 ],
 "cache": {
@@ -9852,10 +9832,6 @@
 "ayele|fractured radio edit": {
 "u": "spotify:track:5EGnOBL2qoUNard3Oaq5Hc",
 "d": "2026-10-21T05:30:06.274195+02:00"
-},
-"ub40|food for thought": {
-"u": "spotify:track:5YkkeIiErNf2ckvMxmT5RT",
-"d": "2026-10-21T07:31:06.289958+02:00"
 },
 "mgmt|little dark age": {
 "u": "spotify:track:2Y0iGXY6m6immVb2ktbseM",
