@@ -1,5 +1,5 @@
 {
-"updated": "2026-10-28T14:35:37.870307+01:00",
+"updated": "2026-10-28T14:45:37.871181+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
@@ -3705,6 +3705,18 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-10-28T14:37|Jake Bugg|Never Can Tell",
+"t": "2026-10-28T14:37:00+01:00",
+"artist": "Jake Bugg",
+"title": "Never Can Tell"
+},
+{
+"id": "2026-10-28T14:29|Death Cab For Cutie|Pep Talk",
+"t": "2026-10-28T14:29:00+01:00",
+"artist": "Death Cab For Cutie",
+"title": "Pep Talk"
+},
 {
 "id": "2026-10-28T14:25|Kat Frankie|Du/Ich",
 "t": "2026-10-28T14:25:00+01:00",
@@ -9380,24 +9392,6 @@
 "t": "2026-10-21T14:51:00+02:00",
 "artist": "Natalie Jane Hill",
 "title": "Never Left Me"
-},
-{
-"id": "2026-10-21T14:44|Stevie Wonder|As",
-"t": "2026-10-21T14:44:00+02:00",
-"artist": "Stevie Wonder",
-"title": "As"
-},
-{
-"id": "2026-10-21T14:40|Kate Nash|Famine [Radio edit]",
-"t": "2026-10-21T14:40:00+02:00",
-"artist": "Kate Nash",
-"title": "Famine [Radio edit]"
-},
-{
-"id": "2026-10-21T14:36|Dahi feat. Kendrick Lamar & Amber Mark|How To Pray",
-"t": "2026-10-21T14:36:00+02:00",
-"artist": "Dahi feat. Kendrick Lamar & Amber Mark",
-"title": "How To Pray"
 }
 ],
 "cache": {
@@ -10032,14 +10026,6 @@
 "sam ragga band feat jan delay|die welt steht still": {
 "u": "spotify:track:4tfP0R0NoKh0jeSzBIHZ7d",
 "d": "2026-10-22T05:27:38.818212+02:00"
-},
-"stevie wonder|as": {
-"u": "spotify:track:13toFl1UwJPsRxDiD9jgtn",
-"d": "2026-10-22T05:27:38.818212+02:00"
-},
-"kate nash|famine radio edit": {
-"u": "spotify:track:5WJmTSsSLLOJJRkygaPSMe",
-"d": "2026-10-22T05:28:38.818310+02:00"
 },
 "alice gift|trance park": {
 "u": "spotify:track:5TloORha2fVcdsLo63B4fo",
