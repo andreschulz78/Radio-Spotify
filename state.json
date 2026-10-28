@@ -1,12 +1,16 @@
 {
-"updated": "2026-10-28T07:37:28.285704+01:00",
+"updated": "2026-10-28T07:48:28.287044+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-28T05:17:44.758892+01:00",
 "details": "51e4e36c2ea1",
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAcJ1nFgQVVfnH986F40KCwoQ+qaOls",
+"snapshot": "AAAcRaxvA63hmqKkR48/JwVaoyYxl0Vk",
 "playlist": [
+[
+"2026-10-28T07:40|Yusuf|Türkisch Mann",
+"spotify:track:62GWC1nCyjVX5zRMtWwcAs"
+],
 [
 "2026-10-28T07:33|The Avalanches feat. Karen O|Blue Shadows",
 "spotify:track:5bN5To0VLbNBKQDzJ1Lk6c"
@@ -3694,17 +3698,15 @@
 [
 "2026-10-21T07:51|Alexander IV & IYAMAH|About Us",
 "spotify:track:0c3tXpFKZilDSR3yAphPZt"
-],
-[
-"2026-10-21T07:47|Jacob Bellens|Back To You",
-"spotify:track:4dUPPS5jkY5pKZGYALd4oB"
-],
-[
-"2026-10-21T07:42|Django Django|Cameos",
-"spotify:track:6q1og9CkTnFTTYqOSN9ed3"
 ]
 ],
 "entries": [
+{
+"id": "2026-10-28T07:40|Yusuf|Türkisch Mann",
+"t": "2026-10-28T07:40:00+01:00",
+"artist": "Yusuf",
+"title": "Türkisch Mann"
+},
 {
 "id": "2026-10-28T07:33|The Avalanches feat. Karen O|Blue Shadows",
 "t": "2026-10-28T07:33:00+01:00",
@@ -9380,18 +9382,6 @@
 "t": "2026-10-21T07:51:00+02:00",
 "artist": "Alexander IV & IYAMAH",
 "title": "About Us"
-},
-{
-"id": "2026-10-21T07:47|Jacob Bellens|Back To You",
-"t": "2026-10-21T07:47:00+02:00",
-"artist": "Jacob Bellens",
-"title": "Back To You"
-},
-{
-"id": "2026-10-21T07:42|Django Django|Cameos",
-"t": "2026-10-21T07:42:00+02:00",
-"artist": "Django Django",
-"title": "Cameos"
 }
 ],
 "cache": {
@@ -9842,10 +9832,6 @@
 "ayele|fractured radio edit": {
 "u": "spotify:track:5EGnOBL2qoUNard3Oaq5Hc",
 "d": "2026-10-21T05:30:06.274195+02:00"
-},
-"jacob bellens|back to you": {
-"u": "spotify:track:4dUPPS5jkY5pKZGYALd4oB",
-"d": "2026-10-21T07:55:06.293188+02:00"
 },
 "aretha franklin|i say a little prayer": {
 "u": "spotify:track:3NfxSdJnVdon1axzloJgba",
@@ -12266,6 +12252,10 @@
 "tele|im radio": {
 "u": "spotify:track:67tkWhkzDUNm7ocpJTmIWA",
 "d": "2026-10-28T07:11:28.282481+01:00"
+},
+"yusuf|turkisch mann": {
+"u": "spotify:track:62GWC1nCyjVX5zRMtWwcAs",
+"d": "2026-10-28T07:46:28.286807+01:00"
 }
 }
 }
