@@ -1,5 +1,5 @@
 {
-"updated": "2026-10-28T13:40:37.864856+01:00",
+"updated": "2026-10-28T13:51:37.866018+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
@@ -3705,6 +3705,18 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-10-28T13:44|J.Bernardt|Love Is On My Mind",
+"t": "2026-10-28T13:44:00+01:00",
+"artist": "J.Bernardt",
+"title": "Love Is On My Mind"
+},
+{
+"id": "2026-10-28T13:37|CECI feat. Lords of Lounge|Honey Honey",
+"t": "2026-10-28T13:37:00+01:00",
+"artist": "CECI feat. Lords of Lounge",
+"title": "Honey Honey"
+},
 {
 "id": "2026-10-28T13:32|Manic Street Preachers|If You Tolerate This Your Children Will Be Next",
 "t": "2026-10-28T13:32:00+01:00",
@@ -9386,18 +9398,6 @@
 "t": "2026-10-21T13:56:00+02:00",
 "artist": "Lightning Seeds",
 "title": "You Showed Me"
-},
-{
-"id": "2026-10-21T13:50|Joan Baez|Dont Think Twice Its All Right",
-"t": "2026-10-21T13:50:00+02:00",
-"artist": "Joan Baez",
-"title": "Dont Think Twice Its All Right"
-},
-{
-"id": "2026-10-21T13:47|Starcrawler|Midnight",
-"t": "2026-10-21T13:47:00+02:00",
-"artist": "Starcrawler",
-"title": "Midnight"
 }
 ],
 "cache": {
@@ -9868,14 +9868,6 @@
 "tella|belinda": {
 "u": "spotify:track:1rs2lOYfBKNW5OCpeTIiVf",
 "d": "2026-10-21T13:46:14.865132+02:00"
-},
-"starcrawler|midnight": {
-"u": "spotify:track:0SYJnm38933pv191YArhoc",
-"d": "2026-10-21T13:51:14.865684+02:00"
-},
-"joan baez|dont think twice its all right": {
-"u": "spotify:track:1jWMYvFjuSzWda5mswu8r4",
-"d": "2026-10-21T13:57:14.866383+02:00"
 },
 "lightning seeds|you showed me": {
 "u": "spotify:track:3BZbv2iCTCDhZ4jNJMp2bJ",
