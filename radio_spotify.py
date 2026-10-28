@@ -32,13 +32,15 @@ BASE = os.environ.get("RADIO_URL", "").rstrip("/")   # bewusst nicht im Repo
 WINDOW = timedelta(days=7)
 MAX_LOOKUPS = 3            # neue Titel pro Durchlauf (je 1–2 Spotify-Anfragen; zu viele -> 24 h Sperre)
 RETRY_NOT_FOUND = timedelta(days=3)
-SYNC_EVERY = timedelta(minutes=4)    # Playlist höchstens alle 4 Min. abgleichen (Spotify-Tageskontingent)
+SYNC_EVERY = timedelta(minutes=15)   # Playlist gesammelt alle 15 Min. abgleichen (Spotify-Tageskontingent)
+CACHE_DAYS = 90                      # gefundene Titel so lange merken – Wiederholungen kosten keine Suche
 PRUNE_HOUR = 4                       # einmal täglich ab 4 Uhr: Neuaufbau, entfernt Titel älter als 7 Tage
-DAILY_BUDGET = 600                   # höchstens so viele Spotify-Anfragen pro Tag – deutlich unter dem Kontingent
+DAILY_BUDGET = 300                   # höchstens so viele Spotify-Anfragen pro Tag – deutlich unter dem Kontingent
 BUDGET_DAY_START = timedelta(hours=5, minutes=30)   # Spotify setzt das Kontingent gegen 05:15 Uhr zurück
 MATCHER = 4               # erhöhen, wenn find_uri geändert wird -> Cache verwerfen (Titel in der Playlist bleiben)
 FRESH_START = datetime(2026, 10, 15, 12, 35, tzinfo=ZoneInfo("Europe/Berlin"))   # einmalig: Playlist leeren, nur noch Neues
 STATE_FILE = Path(__file__).with_name("state.json")
+CACHE_FILE = Path(__file__).with_name("cache.json")     # Titel -> Spotify-URI (eigene Datei, wächst langsam)
 STATUS_FILE = Path(__file__).with_name("status.json")   # letzter Fehler, im Repo sichtbar (Logs sind es nicht)
 UA = "Mozilla/5.0 (radio-spotify; private Playlist)"
 TITLE_PREFIX = os.environ.get("RADIO_TITLE_PREFIX", "")
@@ -230,17 +232,39 @@ def best_match(cands, artist, title):
     return best if best_score >= 0.7 else None
 
 
+_albums = {}   # Deezer-Album-ID -> (Typ, Album-Künstler-ID, Datum)
+
+
+def deezer_album(aid):
+    if aid not in _albums:
+        try:
+            al = json.loads(fetch(f"https://api.deezer.com/album/{aid}"))
+        except (urllib.error.URLError, TimeoutError, ValueError):
+            return None, None, "9999"
+        _albums[aid] = (al.get("record_type"), (al.get("artist") or {}).get("id"), al.get("release_date") or "9999")
+    return _albums[aid]
+
+
 def deezer_isrc(artist, title):
-    """Abgleich über Deezer (frei, großzügige Limits) -> ISRC der Aufnahme."""
+    """Abgleich über Deezer (frei, großzügige Limits) -> ISRC, bevorzugt vom Album/der Single des Künstlers.
+    So findet die eine Spotify-ISRC-Suche fast immer die eigene Veröffentlichung (keine Ersatzsuche nötig)."""
     a_main, t_base = main_artist(artist), base_title(title)
     swapped = re.fullmatch(r"([^,&]+),\s*([^,&]+)", a_main)
     queries = [f"{a_main} {t_base}", f"{a_main} {bare_title(title)}"]
     if swapped:
         queries.append(f"{swapped[2]} {swapped[1]} {t_base}")
     for q in dict.fromkeys(queries):
-        res = json.loads(fetch("https://api.deezer.com/search?" + urllib.parse.urlencode({"q": q, "limit": 10})))
-        isrc = best_match([([x["artist"]["name"]], x["title"], x.get("isrc")) for x in res.get("data", [])],
-                          artist, title)
+        res = json.loads(fetch("https://api.deezer.com/search?" + urllib.parse.urlencode({"q": q, "limit": 15})))
+        hits = [x for x in res.get("data", []) if x.get("isrc")
+                and best_match([([x["artist"]["name"]], x["title"], True)], artist, title)]
+        own = []
+        for x in hits[:6]:
+            kind, al_artist, date = deezer_album(x["album"]["id"])
+            if kind in ("album", "single", "ep") and al_artist == x["artist"]["id"]:
+                own.append((date, kind != "album", x["isrc"]))
+        if own:   # älteste eigene Veröffentlichung = Original
+            return min(own)[2]
+        isrc = best_match([([x["artist"]["name"]], x["title"], x["isrc"]) for x in hits], artist, title)
         if isrc:
             return isrc
     return None
@@ -331,10 +355,10 @@ def run_once(sp=None, dry=False):
             e["id"], e["title"] = fix(e["id"]), strip_prefix(e["title"])
         if state.get("playlist"):
             state["playlist"] = [[fix(i), u] for i, u in state["playlist"]]
-        state["cache"] = {k: v for k, v in state.get("cache", {}).items()
-                          if not re.search(rf"\|(?:{TITLE_PREFIX})\b", k, flags=re.I)}
     entries = {e["id"]: e for e in state.get("entries", [])}
-    cache = state.get("cache", {})
+    cache = json.loads(CACHE_FILE.read_text()) if CACHE_FILE.exists() else state.get("cache", {})
+    if TITLE_PREFIX:
+        cache = {k: v for k, v in cache.items() if not re.search(rf"\|(?:{TITLE_PREFIX})\b", k, flags=re.I)}
     if state.get("matcher") != MATCHER:
         cache = {}
     if sp and FRESH_START and now >= FRESH_START and state.get("fresh") != FRESH_START.isoformat():
@@ -368,11 +392,13 @@ def run_once(sp=None, dry=False):
         print(f"  Tagesbudget erreicht ({used_today} Spotify-Anfragen) – weiter ab {BUDGET_DAY_START} Uhr")
     lookup_calls = -sp.calls
     for e in sorted(entries.values(), key=lambda e: e["t"], reverse=True):
+        key = norm(e["artist"]) + "|" + norm(e["title"])
+        c = cache.get(key)
+        if c and c["u"] and c["d"][:10] < f"{now:%Y-%m-%d}":   # gerade gespielt -> länger merken
+            c["d"] = now.isoformat()
         if e["id"] in pinned:
             e["uri"] = pinned[e["id"]]
             continue
-        key = norm(e["artist"]) + "|" + norm(e["title"])
-        c = cache.get(key)
         stale = c and c["u"] is None and now - datetime.fromisoformat(c["d"]) > RETRY_NOT_FOUND
         if (c is None or stale) and lookups < MAX_LOOKUPS and not limited:
             try:
@@ -386,7 +412,8 @@ def run_once(sp=None, dry=False):
                 print(f"  nicht gefunden: {e['artist']} – {e['title']}")
         e["uri"] = c["u"] if c else None
     used = {norm(e["artist"]) + "|" + norm(e["title"]) for e in entries.values()}
-    cache = {k: v for k, v in cache.items() if k in used}
+    keep_from = f"{now - timedelta(days=CACHE_DAYS):%Y-%m-%d}"
+    cache = {k: v for k, v in cache.items() if k in used or (v["u"] and v["d"] >= keep_from)}
     lookup_calls += sp.calls
     if lookups:
         print(f"  Spotify-Suchen: {lookups}")
@@ -433,8 +460,9 @@ def run_once(sp=None, dry=False):
         "updated": now.isoformat(), "matcher": MATCHER, "blocked_until": blocked, "details": details,
         "synced": synced, "pruned": pruned, "calls": calls,
         "fresh": state.get("fresh"), "start": state.get("start"), "snapshot": snapshot, "playlist": playlist,
-        "entries": [{k: e[k] for k in ("id", "t", "artist", "title")} for e in ordered],
-        "cache": cache}, ensure_ascii=False, indent=0))
+        "entries": [{k: e[k] for k in ("id", "t", "artist", "title")} for e in ordered]},
+        ensure_ascii=False, indent=0))
+    CACHE_FILE.write_text(json.dumps(dict(sorted(cache.items())), ensure_ascii=False, indent=0))
 
 
 def commit_state():
@@ -444,7 +472,7 @@ def commit_state():
     git = lambda *a: subprocess.run(["git", *a], cwd=STATE_FILE.parent, capture_output=True, text=True, timeout=120)
     git("fetch", "-q", "origin", "main")
     git("reset", "-q", "origin/main")   # auf neuesten Repo-Stand setzen (Dateien bleiben) – kein Rebase-Konflikt
-    git("add", STATE_FILE.name, STATUS_FILE.name)   # vollständige Stände, die gewinnen
+    git("add", STATE_FILE.name, STATUS_FILE.name, CACHE_FILE.name)   # vollständige Stände, die gewinnen
     if git("diff", "--cached", "--quiet").returncode:
         git("commit", "-q", "-m", f"Stand {datetime.now(TZ):%Y-%m-%d %H:%M}")
         r = git("push", "-q", "origin", "HEAD:main")
