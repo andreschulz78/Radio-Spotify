@@ -1,12 +1,328 @@
 {
-"updated": "2026-10-28T05:15:18.146003+01:00",
+"updated": "2026-10-28T05:25:18.147251+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-28T05:17:44.758892+01:00",
 "details": "51e4e36c2ea1",
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": null,
+"snapshot": "AAAalDQHgqbygSbWxfoMmcumg3a/HGiT",
 "playlist": [
+[
+"2026-10-28T05:10|Dekker|Pick It Up, Put It Back",
+"spotify:track:0LhuToBNSlvYc4IwVJpYWH"
+],
+[
+"2026-10-28T05:07|Sixpence None The Richer|Kiss Me",
+"spotify:track:754kgU5rWscRTfvlsuEwFp"
+],
+[
+"2026-10-28T05:03|The Hempolics|Get It Right",
+"spotify:track:5x1jCXkUFQsWiZ0VNRih3E"
+],
+[
+"2026-10-27T20:55|Moscoman feat. Tom Sanders|What Do We Care",
+"spotify:track:2AeJDk8SG8OmffAO7YkdDm"
+],
+[
+"2026-10-27T20:51|Unkle feat. Liela Moss|Sunrise Always Comes Around",
+"spotify:track:1yomzXTz340doVll0UE5NC"
+],
+[
+"2026-10-27T20:48|Friedberg|Goodwife",
+"spotify:track:1H89j9NLse1E0Kmjb3tzW6"
+],
+[
+"2026-10-27T20:36|Jim James|Come Again",
+"spotify:track:6S3Ao3HkuLpHffHWL8oRsz"
+],
+[
+"2026-10-27T20:32|Snap|Welcome To Tomorrow",
+"spotify:track:3byHmc9MVltJUBvNJJf4ew"
+],
+[
+"2026-10-27T20:28|Antony Szmierek|Chalk (Radio Edit)",
+"spotify:track:5HdeMdzAlNKwCM4L9cjehN"
+],
+[
+"2026-10-27T20:24|Quicksand|Brushed",
+"spotify:track:16Zjiyrktq6QBnwXF2lDTv"
+],
+[
+"2026-10-27T20:15|Arcade Fire|Ready To Start",
+"spotify:track:33X9miK4Xz7pNeVrc9RITG"
+],
+[
+"2026-10-27T20:04|Loma|Going Out",
+"spotify:track:1Fb4bA8ZHQdEM5XKncwnF8"
+],
+[
+"2026-10-27T19:55|Death Cab For Cutie|Pep Talk",
+"spotify:track:3ra7fDLqfUHBWBL702fOAn"
+],
+[
+"2026-10-27T19:53|Ebow|ARBAYT",
+"spotify:track:0roqmhAUbYD2OpX413OXN1"
+],
+[
+"2026-10-27T19:49|Tinashe|Crash Out",
+"spotify:track:3IHTGwXvGyGslBbvHDDFrM"
+],
+[
+"2026-10-27T19:46|Fontaines D.C.|Marianne",
+"spotify:track:69rHKcrQpYGfToPThOV1UB"
+],
+[
+"2026-10-27T19:30|Keshavara|Moondram Sevi",
+"spotify:track:0jpeIdUkge4S8dMS0nkZ6r"
+],
+[
+"2026-10-27T19:26|Boy Harsher|Tough Luck (When You Don't Call)",
+"spotify:track:109AVLNWp2BnTXTzF4j6XE"
+],
+[
+"2026-10-27T19:05|Kutiman & Dekel|Hope",
+"spotify:track:4gFA57bNxMSqRk3q0vALkl"
+],
+[
+"2026-10-27T18:57|Wild Beasts|Alpha Female",
+"spotify:track:6krCPZW2iqaOYw4m48uwD2"
+],
+[
+"2026-10-27T18:51|Mari Froes|Eu vou pro samba, viu?",
+"spotify:track:0ZirVpVEx943xdUD9bivHe"
+],
+[
+"2026-10-27T18:48|Faithless|Mass Destruction",
+"spotify:track:5lksdzkLi08ZuFA24iovcF"
+],
+[
+"2026-10-27T18:42|Unknown Mortal Orchestra|That Life",
+"spotify:track:0M2hckQzSt0AZFytuTC2Hp"
+],
+[
+"2026-10-27T18:35|Maribou State feat. Holly Walker|Otherside (Radio Edit)",
+"spotify:track:2pj2A25YQK4uMxhZheNx7R"
+],
+[
+"2026-10-27T18:26|Ben Lee|Catch My Disease",
+"spotify:track:18qiraxE3JznGhJyx5J28Y"
+],
+[
+"2026-10-27T18:20|Heaven 17|Let's All Make A Bomb",
+"spotify:track:09egl6f6nQcvGJK6DvmPWI"
+],
+[
+"2026-10-27T18:16|Fat Freddy's Drop|Razor",
+"spotify:track:0Cle7prnUTByLVOladGFXB"
+],
+[
+"2026-10-27T18:05|Nightmares On Wax feat. Mozez|You Wish (Abbey Road Fuzz Gospel Version)",
+"spotify:track:6G6M4fl2I0eqEQnzyTwR8m"
+],
+[
+"2026-10-27T17:57|Asian Dub Foundation feat. Sinéad O'Connor|1000 Mirrors",
+"spotify:track:7H0TaixANBP2DRJXHP0EbT"
+],
+[
+"2026-10-27T17:50|Odd Beholder|Lean Dreams",
+"spotify:track:44KktJfihIKoQrUrnKCzTH"
+],
+[
+"2026-10-27T17:43|Santigold|Disparate Youth",
+"spotify:track:7d23MhPFE9eB3U8DPRirnL"
+],
+[
+"2026-10-27T17:40|Nourished by Time|When The War Is Over",
+"spotify:track:6CSpmRlGT82RrGNJotD9gJ"
+],
+[
+"2026-10-27T17:34|Nihils|Lavender",
+"spotify:track:24IHKK4RZRa5WYOEigkp5h"
+],
+[
+"2026-10-27T17:27|Eddie Vedder|No Ceiling",
+"spotify:track:6J0bdIZElZMymahgVWRE9B"
+],
+[
+"2026-10-27T17:24|Boards Of Canada|Prophecy At 1420 MHz (Edit)",
+"spotify:track:4gYaI1S9Qug6B96E2HwxeN"
+],
+[
+"2026-10-27T17:17|El Perro Del Mar|KoKoro",
+"spotify:track:1M0IVyneQ6nO2sDvZl6Q5P"
+],
+[
+"2026-10-27T17:14|Andy Shauf|Halloween Store",
+"spotify:track:3oWGBitSdsizfiIlCfwUqV"
+],
+[
+"2026-10-27T17:06|Gabriels|Break It",
+"spotify:track:5WiVqnjVzB9tNXqeSKZgxH"
+],
+[
+"2026-10-27T16:57|Beck|It Ends Right Here",
+"spotify:track:3PmyDf7Zu4vveCnayueVYX"
+],
+[
+"2026-10-27T16:50|Coma|Start/Stop/Rewind",
+"spotify:track:11L3mSwEwt7AJ39jh4Crbd"
+],
+[
+"2026-10-27T16:45|Saint Etienne|The Bad Photographer",
+"spotify:track:63XoYcjAxher0PxQhsFz5d"
+],
+[
+"2026-10-27T16:36|Jamie Woon|Heavy Going...",
+"spotify:track:79ieU2vuYImbGnz3E3a9Y3"
+],
+[
+"2026-10-27T16:34|Alewya|Maktoub",
+"spotify:track:56DYNKo3QHkakqOUkWi3vl"
+],
+[
+"2026-10-27T16:26|Anderson .Paak & Cordae|A Good Day",
+"spotify:track:4CrnExkcZkg6Aek113hAWl"
+],
+[
+"2026-10-27T16:16|Tikhet|Burndowner",
+"spotify:track:76iRkapw7dHIlJhSoy7PCv"
+],
+[
+"2026-10-27T15:31|Leon Bridges|Light The Way",
+"spotify:track:3G1hTUddM2diIyYA0yy9kS"
+],
+[
+"2026-10-27T15:10|Eilis Frawley|Taken, Never Erased",
+"spotify:track:5a3IV4xiA81Ucn98CHtJzb"
+],
+[
+"2026-10-27T14:47|Overmono feat. Ruthven|Gem Lingo (ovr now)",
+"spotify:track:6dSqM0tWJPlchpmGrEwC1c"
+],
+[
+"2026-10-27T14:37|Chinese American Bear|Dance Dance Dance (Edit)",
+"spotify:track:3Ct3ro3LnsTHjeRVPNSG5s"
+],
+[
+"2026-10-27T14:33|Getdown Services|I Cant Die Like That",
+"spotify:track:1sz8JVpCkXEHr9QtK8Xlvw"
+],
+[
+"2026-10-27T14:27|Dahi feat. Kendrick Lamar & Amber Mark|How To Pray",
+"spotify:track:5M8eNQ6wLYPT9D60hbcxVU"
+],
+[
+"2026-10-27T14:23|Sam Burton|I'm A Stranger",
+"spotify:track:4hAYraVhSzgMTdvftCcqKo"
+],
+[
+"2026-10-27T14:05|Bonaparte|KiOSKO",
+"spotify:track:5seYGZRYuD3oPMxryJdvOk"
+],
+[
+"2026-10-27T13:57|Pamela.|Better than Before",
+"spotify:track:30ewsn0jSF9Jme7Altrz9X"
+],
+[
+"2026-10-27T13:51|Mother Soki|Thicken",
+"spotify:track:1uQYHgPrjPBYG1d0D4RoTD"
+],
+[
+"2026-10-27T13:49|Jonathan Jeremiah|Kolkata Bear",
+"spotify:track:6GVyNJOivLDoFeQ6hhttwb"
+],
+[
+"2026-10-27T13:27|Kevin Morby|PBJ (Edit)",
+"spotify:track:5rjtzSA5VBWg7zmuOGg5Dz"
+],
+[
+"2026-10-27T13:15|Benjamin Clementine|In Fact You Know You Gotto Go",
+"spotify:track:4cWEdRTQ8sg4QaTBIGn06j"
+],
+[
+"2026-10-27T13:05|Smidley feat. Lucy Dacus|Capstone",
+"spotify:track:0YosJMrYxYQP7mLXfFo0p1"
+],
+[
+"2026-10-27T12:54|JGrrey feat. Bel Cobain|Take My Hand",
+"spotify:track:0i4SCqKHjbBrPjUX4RPRq3"
+],
+[
+"2026-10-27T12:40|Jungle|Someday, Somewhere",
+"spotify:track:20FqWsyuUaQTU5tk4nP6eN"
+],
+[
+"2026-10-27T12:29|Django Django|Cameos",
+"spotify:track:6q1og9CkTnFTTYqOSN9ed3"
+],
+[
+"2026-10-27T12:25|Tank And The Bangas|Ain’t That Deep",
+"spotify:track:0PokJfPldX6FgGR7covt03"
+],
+[
+"2026-10-27T12:22|Philipp Johann Thimm|Have You Ever (feat. KOKA)",
+"spotify:track:4W2O5dHVnDH6suuhh0PjAS"
+],
+[
+"2026-10-27T12:05|Ayele|Fractured (Radio Edit)",
+"spotify:track:5EGnOBL2qoUNard3Oaq5Hc"
+],
+[
+"2026-10-27T11:57|Natalie Jane Hill|Never Left Me",
+"spotify:track:5mYV6uf5S0ChjFoLJWUJHI"
+],
+[
+"2026-10-27T11:33|Kaktus Einarsson feat. John Grant|Follow",
+"spotify:track:0bbPqdrMN94XmIlBQS21B3"
+],
+[
+"2026-10-27T11:28|Dekker|Pick It Up, Put It Back",
+"spotify:track:0LhuToBNSlvYc4IwVJpYWH"
+],
+[
+"2026-10-27T11:25|Grace Cummings|I'm Not Crazy",
+"spotify:track:70QaE9UJ2uTVwC4IGS6yvU"
+],
+[
+"2026-10-27T11:06|Hannah Jadagu|My Love",
+"spotify:track:4XM4c3zMS0orMhblnrZwnS"
+],
+[
+"2026-10-27T10:57|Ásgeir|Against The Current",
+"spotify:track:5udQbIlHLaD6QRDJmv0bjX"
+],
+[
+"2026-10-27T10:47|SOFY|50/50",
+"spotify:track:16QLv8xt9nPNBZCBDm3Gkv"
+],
+[
+"2026-10-27T10:23|CECI feat. Lords of Lounge|Honey Honey",
+"spotify:track:1I3D3G5pwYFKNYGIYTLRCq"
+],
+[
+"2026-10-27T10:17|Fontaines D.C. & ROSALIA|Where Is Gone?",
+"spotify:track:6ZH1yeWUf3Xp2XO0EZk91i"
+],
+[
+"2026-10-27T10:08|Joshua Idehen|Could Be Forever",
+"spotify:track:0ZUKth5xg7UM6Q73YhDq2w"
+],
+[
+"2026-10-27T09:42|Lola Young|From Down Here (Radio Edit)",
+"spotify:track:7Hg7l5aOygIHuaNDVFp3ox"
+],
+[
+"2026-10-27T09:12|Lady Wray|You're Gonna Win",
+"spotify:track:6rD4rSzKgu7YSy9RR5ICsS"
+],
+[
+"2026-10-27T09:05|The Drums feat. Mareux|It Didn't Matter",
+"spotify:track:10kxTiNUTo4nlEbH1EzoX1"
+],
+[
+"2026-10-27T08:57|Jorja Smith|Don't Leave",
+"spotify:track:44kUOVs16iRf11YjO7aaRW"
+],
 [
 "2026-10-27T08:43|Nôze|Danse Avec Moi",
 "spotify:track:7aFtLg3Sx4OKSj1P0xJNv7"
@@ -3214,494 +3530,6 @@
 [
 "2026-10-21T05:28|Ralph Myerz & The Jack Herren Band|L.i.p.s.t.i.c.k. (Lipstick)",
 "spotify:track:5UzsqwQvAAwXLZuMnF7Pcc"
-],
-[
-"2026-10-21T05:24|Ayele|Fractured (Radio Edit)",
-"spotify:track:5EGnOBL2qoUNard3Oaq5Hc"
-],
-[
-"2026-10-21T05:18|Father John Misty|I Guess Time Just Makes Fools Of Us All",
-"spotify:track:0QA1dDs6A2xLr7nxWFpeJN"
-],
-[
-"2026-10-21T05:15|Dekker|Small Wins",
-"spotify:track:77cPb0cCcgJ2r19DgLSGPx"
-],
-[
-"2026-10-21T05:09|Ibibio Sound Machine|Love",
-"spotify:track:0JGa4KrhqriWUuPcni3I8D"
-],
-[
-"2026-10-21T05:06|The Cranberries|Animal Instinct",
-"spotify:track:3J58Ccc5iTbCRnYx2xjo6d"
-],
-[
-"2026-10-21T05:03|49th & Main|Insomnia",
-"spotify:track:6JGrKJtW3CxLscWj7OJMYt"
-],
-[
-"2026-10-20T20:53|Freedom Fry|She Fell In Love On The Dance Floor",
-"spotify:track:22uuH9uHRSdS2y2zvS5uEt"
-],
-[
-"2026-10-20T20:34|Grace Cummings|I'm Not Crazy",
-"spotify:track:70QaE9UJ2uTVwC4IGS6yvU"
-],
-[
-"2026-10-20T20:24|Libertines|Don't Look Back Into The Sun",
-"spotify:track:1pOxHNHjVJZYRlEBHNk45i"
-],
-[
-"2026-10-20T20:20|Dahi feat. Kendrick Lamar & Amber Mark|How To Pray",
-"spotify:track:5M8eNQ6wLYPT9D60hbcxVU"
-],
-[
-"2026-10-20T20:05|Kevin Morby|PBJ (Edit)",
-"spotify:track:5rjtzSA5VBWg7zmuOGg5Dz"
-],
-[
-"2026-10-20T19:56|AGASSI|The Whole Shebang",
-"spotify:track:4KeFVLb7EQN0JFDo91QdLt"
-],
-[
-"2026-10-20T19:30|Kim Gordon|Play Me",
-"spotify:track:3r8jMGukBwtwapk6C8QrA3"
-],
-[
-"2026-10-20T19:17|Adrianne Lenker|Not a lot, just forever",
-"spotify:track:11hEwcy9LMEvzAlOYAFhkK"
-],
-[
-"2026-10-20T19:06|Barry Can't Swim|Dance Of The Crab (Radio Edit)",
-"spotify:track:7tu1Bd1SfSiBdRgUvYpq7t"
-],
-[
-"2026-10-20T18:56|Spooks|Things I've Seen",
-"spotify:track:1h2Q3Um4SJjbqq4FceESL3"
-],
-[
-"2026-10-20T18:50|Vampire Weekend|Harmony Hall",
-"spotify:track:39exKIvycQDgs4T6uXdyu0"
-],
-[
-"2026-10-20T18:45|My Morning Jacket|Time Waited",
-"spotify:track:6yMydsduwR94SqHM9BAlfw"
-],
-[
-"2026-10-20T18:37|Jungle|Someday, Somewhere",
-"spotify:track:20FqWsyuUaQTU5tk4nP6eN"
-],
-[
-"2026-10-20T18:34|Boy|Little Numbers",
-"spotify:track:7I5a4DWCkPvGbYYW9YfEd9"
-],
-[
-"2026-10-20T18:25|Poliça|Carlines",
-"spotify:track:3yuU8d8ckQ1SeLNSynIurJ"
-],
-[
-"2026-10-20T18:20|Angelo De Augustine|Pictures On My Wall",
-"spotify:track:5sHmtwhSUF3vUHcVjb722P"
-],
-[
-"2026-10-20T18:15|Calvin Harris feat. Pharrell Williams & Katy Perry|Feels",
-"spotify:track:6BaCraQ9xeLYg4Sb9TBT2X"
-],
-[
-"2026-10-20T18:12|Kaktus Einarsson feat. John Grant|Follow",
-"spotify:track:0bbPqdrMN94XmIlBQS21B3"
-],
-[
-"2026-10-20T18:05|Sassy 009 feat. Blood Orange|Tell Me (Jam City Remix) (Edit)",
-"spotify:track:1pDiRrLro0tlhsPSexB3Zv"
-],
-[
-"2026-10-20T17:56|JJerome87|Brush Me Like A Horse",
-"spotify:track:1Qx7aZ34LHzx9Dl8IEqm6J"
-],
-[
-"2026-10-20T17:50|Jordan Rakei|Enemies",
-"spotify:track:0X9GwAax0c0HPe3iIoDVW6"
-],
-[
-"2026-10-20T17:46|Madonna|Danceteria",
-"spotify:track:6oFNBxTVpYNpNCRehH05Ly"
-],
-[
-"2026-10-20T17:38|Sade|King Of Sorrow",
-"spotify:track:0qQcQIj6htaCX7KFrsciNU"
-],
-[
-"2026-10-20T17:34|Westside Cowboy|Kick Stones (The Boys)",
-"spotify:track:6qIdkfxjme3OEkdgsA8ANp"
-],
-[
-"2026-10-20T17:26|Bulgarian Cartrader|In My Zone (Radio Edit)",
-"spotify:track:5eRnR1gok6Btb2kYJICbsX"
-],
-[
-"2026-10-20T17:23|Gruff Rhys|Bad Friend",
-"spotify:track:3O0F7giEqhGpvjUpGc9M7q"
-],
-[
-"2026-10-20T17:16|A Projection|Transition",
-"spotify:track:3Kcam8JyyxQwJdCM06AYi1"
-],
-[
-"2026-10-20T17:13|Bonobo feat. Joy Crookes|Always on Your Side",
-"spotify:track:6jJTpzMquQLVuUkM2vVEIF"
-],
-[
-"2026-10-20T17:08|Lou Hayter|Time Out Of Mind",
-"spotify:track:1slXhm6Owe074VxIJwb3px"
-],
-[
-"2026-10-20T17:05|Bilderbuch|Push Reality",
-"spotify:track:7sNLEBqGGmDu6WOJQZagcD"
-],
-[
-"2026-10-20T16:55|The Sweet|Ballroom Blitz",
-"spotify:track:7vk3UjlfuxWCPtB38BpCbu"
-],
-[
-"2026-10-20T16:50|Lily Allen|Dallas Major",
-"spotify:track:1ECugAb7Pg6UDA501YYgH9"
-],
-[
-"2026-10-20T16:46|Anna Calvi|Desire",
-"spotify:track:3TXRWp2YTFu4Mcscn9q5cj"
-],
-[
-"2026-10-20T16:41|George Michael|Freedom",
-"spotify:track:1wZ7o1mZysv1l26ZWawVfW"
-],
-[
-"2026-10-20T16:34|Pamela.|Better than Before",
-"spotify:track:30ewsn0jSF9Jme7Altrz9X"
-],
-[
-"2026-10-20T16:25|EELS|Congratulations To Me",
-"spotify:track:0PsZbSqZk6s6bEw5Ff3xrS"
-],
-[
-"2026-10-20T16:21|JGrrey feat. Bel Cobain|Take My Hand",
-"spotify:track:0i4SCqKHjbBrPjUX4RPRq3"
-],
-[
-"2026-10-20T16:18|Sinéad O'Connor|No Man's Woman",
-"spotify:track:0xsfUIVCZLR12cNsjvDqeB"
-],
-[
-"2026-10-20T16:09|Beyoncé|Bodyguard",
-"spotify:track:6Y4rniIxibegzsg8cdWAWV"
-],
-[
-"2026-10-20T16:06|Unknown Mortal Orchestra|Multi-Love",
-"spotify:track:1DbdyKFHjWRkmIRDru01vC"
-],
-[
-"2026-10-20T15:57|Chris Malinchak|So Good To Me",
-"spotify:track:1mGGVB5nDxGObTP26RhjyT"
-],
-[
-"2026-10-20T15:52|The Weeknd|Blinding Lights",
-"spotify:track:0VjIjW4GlUZAMYd2vXMi3b"
-],
-[
-"2026-10-20T15:46|Texas|Inner Smile",
-"spotify:track:0bN78ecTh4bb2hGt4BSzN4"
-],
-[
-"2026-10-20T15:33|Carwyn Ellis & Rio 18 feat. Elan Rhys|Hei Ti",
-"spotify:track:2v7twRk9QPaUyrSrx8zWPu"
-],
-[
-"2026-10-20T15:26|I Am Kloot|Proof",
-"spotify:track:4P83HUDhWjsqWmIVojbr2e"
-],
-[
-"2026-10-20T15:23|Odd Beholder|Lean Dreams",
-"spotify:track:44KktJfihIKoQrUrnKCzTH"
-],
-[
-"2026-10-20T15:20|Hot Chip|Melody Of Love (Edit)",
-"spotify:track:5HldYWLn59dExMpZiugbJU"
-],
-[
-"2026-10-20T15:09|Nightmares On Wax feat. Mozez|You Wish (Abbey Road Fuzz Gospel Version)",
-"spotify:track:6G6M4fl2I0eqEQnzyTwR8m"
-],
-[
-"2026-10-20T15:05|Twin Shadow|Dominoes",
-"spotify:track:5cgK6Kvd1rLMqLbZIwytnh"
-],
-[
-"2026-10-20T14:49|Yazmin Lacey|Summer Haze",
-"spotify:track:465QjZo1z1JAuLTTC7DnuK"
-],
-[
-"2026-10-20T14:45|Oren Lavie feat. Vanessa Paradis|Did You Really Say No",
-"spotify:track:5LGPiVFEaffgJJlptaS0dZ"
-],
-[
-"2026-10-20T14:40|Jamie T|Tallahassee",
-"spotify:track:3Kwdvrz5PTUpAObYKNPlz0"
-],
-[
-"2026-10-20T14:37|Julia Holter|Everytime Boots",
-"spotify:track:4qzU0YbbJRcgnVIV9LpmJ6"
-],
-[
-"2026-10-20T14:33|Overmono feat. Ruthven|Gem Lingo (ovr now)",
-"spotify:track:6dSqM0tWJPlchpmGrEwC1c"
-],
-[
-"2026-10-20T14:31|Suki Waterhouse|Blackout Drunk",
-"spotify:track:0PyN8JswfA5otVomw09V5Q"
-],
-[
-"2026-10-20T14:27|Erobique feat. Luis Baltes|Salut Les Copines! (Single Edit)",
-"spotify:track:7jLBzj4MQ9BULdgjXqxZOW"
-],
-[
-"2026-10-20T14:24|Tank And The Bangas|Ain’t That Deep",
-"spotify:track:0PokJfPldX6FgGR7covt03"
-],
-[
-"2026-10-20T14:19|Nelly|Dilemma",
-"spotify:track:0ARK753YaiJbpLUk7z5yIM"
-],
-[
-"2026-10-20T14:07|Father John Misty|We're Only People (And There's Not Much Anyone Can Do About That)",
-"spotify:track:6mKRtSxZ1VoVA9aN1tUYf4"
-],
-[
-"2026-10-20T13:58|King Krule|Easy Easy",
-"spotify:track:7miPR7yflY4kvhVBfEyTzp"
-],
-[
-"2026-10-20T13:52|Alewya|Maktoub",
-"spotify:track:56DYNKo3QHkakqOUkWi3vl"
-],
-[
-"2026-10-20T13:48|Snoop Dogg feat. Pharrell Williams|Drop It Like It's Hot",
-"spotify:track:2NBQmPrOEEjA8VbeWOQGxO"
-],
-[
-"2026-10-20T13:44|Death Cab For Cutie|Pep Talk",
-"spotify:track:3ra7fDLqfUHBWBL702fOAn"
-],
-[
-"2026-10-20T13:36|Nichtseattle|Ich mit Brille",
-"spotify:track:1C0Lpji3kKe7rZie1LC4bx"
-],
-[
-"2026-10-20T13:32|Jamie XX feat. The Avalanches|All You Children",
-"spotify:track:1zYuc5YFYlFfSSq6IslHVY"
-],
-[
-"2026-10-20T13:25|Sofie Royer|Cowboy Mouth",
-"spotify:track:7qgYR8fHsHyyS5WKvA9srS"
-],
-[
-"2026-10-20T13:22|Janis Joplin|Move Over",
-"spotify:track:6NgV2dH50o1HIoEwxHRu3X"
-],
-[
-"2026-10-20T13:19|54 Ultra|Tell Me",
-"spotify:track:6iXIvHGsLMJ89TuW1S9E3C"
-],
-[
-"2026-10-20T13:08|Kae Tempest feat. Lianne La Havas|No Prizes",
-"spotify:track:0FSoK142UiuSSDIh6GGlUZ"
-],
-[
-"2026-10-20T13:05|Beck|Uneventful Days",
-"spotify:track:0cq5E0XfR8qiXKJEwXxORy"
-],
-[
-"2026-10-20T12:54|Steve Lacy|Show You Me",
-"spotify:track:4f50UTC41M2Ah5itifSGE5"
-],
-[
-"2026-10-20T12:51|SASAMI|Call Me Home (Radio Edit)",
-"spotify:track:7EepuMExJZF3eimemlp771"
-],
-[
-"2026-10-20T12:48|Zero 7|Home",
-"spotify:track:2BQh5XCqJATEHbYfTEKgXn"
-],
-[
-"2026-10-20T12:44|Pet Shop Boys|Home And Dry",
-"spotify:track:5bt5oUU0TfGCqXhUmtMMj3"
-],
-[
-"2026-10-20T12:41|Noga Erez|Come Back Home",
-"spotify:track:7mo91mH70LRf4NMUs717c3"
-],
-[
-"2026-10-20T12:38|The Lovin' Spoonful|Darling Be Home Soon",
-"spotify:track:3vht3rNIHxMQQyXWrX1mvM"
-],
-[
-"2026-10-20T12:35|DJ Seinfeld feat. TS Graye|U Can't Come Home (Radio Edit)",
-"spotify:track:6cB7xUxRQgx1k9WwvRNoPr"
-],
-[
-"2026-10-20T12:31|Jack White|Alone In My Home",
-"spotify:track:6WuKJi5EXFn7RuS5dvLfZB"
-],
-[
-"2026-10-20T12:28|Miss Li|Dancing The Whole Way Home",
-"spotify:track:09mqr5EvjSQ0B2HRxjs86L"
-],
-[
-"2026-10-20T12:24|Getdown Services|I Cant Die Like That",
-"spotify:track:1sz8JVpCkXEHr9QtK8Xlvw"
-],
-[
-"2026-10-20T12:19|Portishead|The Rip",
-"spotify:track:5KX2DSPC6aCA0pdDidTmBC"
-],
-[
-"2026-10-20T12:17|Joel Ross|The New Man",
-"spotify:track:3a03mArgCCIAlJz7hp2bsZ"
-],
-[
-"2026-10-20T12:06|Sam Burton|I'm A Stranger",
-"spotify:track:4hAYraVhSzgMTdvftCcqKo"
-],
-[
-"2026-10-20T11:56|Banks|Beggin For Thread",
-"spotify:track:4PvD06Pmbm2rHG2JjSlElF"
-],
-[
-"2026-10-20T11:50|2raumwohnung|Ich hör Musik wenn ich dich seh",
-"spotify:track:3jzJFT6pksxOwA7wDciinF"
-],
-[
-"2026-10-20T11:45|Apparat|Little Feet (Radio Edit)",
-"spotify:track:4urSQgCa5bJxrncJj6V68e"
-],
-[
-"2026-10-20T11:36|Devendra Banhart|I Feel Just Like A Child",
-"spotify:track:6FKKWmZLSVgfGBDUncBo9K"
-],
-[
-"2026-10-20T11:33|Sergio Mendes & Brasil '66|Righteous Life",
-"spotify:track:4YsUyT4Y2Y5DBWbAbiFzac"
-],
-[
-"2026-10-20T11:29|Genesis Owusu|Human Again",
-"spotify:track:3uP7jqdt4haiuL4acLhrDY"
-],
-[
-"2026-10-20T11:22|Cass McCombs|Peace",
-"spotify:track:0HJuwBpU9bpH3Zt5r1PtNS"
-],
-[
-"2026-10-20T11:18|The Big Moon|F.O.R.E.V.E.R",
-"spotify:track:0UaPOdi1O83vr1oTXaGqgx"
-],
-[
-"2026-10-20T11:09|Beastie Boys feat. Santigold|Don't Play No Game That I Can't Win",
-"spotify:track:1Emrs7nn0qSeoCzSRApiFK"
-],
-[
-"2026-10-20T11:05|Paul McCartney|Maybe I'm Amazed",
-"spotify:track:1Qa0Y05al633fG8f9Peytc"
-],
-[
-"2026-10-20T10:57|Elvis Presley|Burning Love",
-"spotify:track:7zMUCLm1TN9o9JlLISztxO"
-],
-[
-"2026-10-20T10:52|Peter Cruseder|Love",
-"spotify:track:7mc6omD0uFBGHeiwdtFzY2"
-],
-[
-"2026-10-20T10:49|Ethan French|reckless and arranged - day 56 (extended)",
-"spotify:track:6H2ZSdZkYYW63UM6K2GcFh"
-],
-[
-"2026-10-20T10:36|Meshell Ndegeocello feat. Cat Power|Don’t You Want Me",
-"spotify:track:5sbCqST9M4Q1sRSJM6L6oT"
-],
-[
-"2026-10-20T10:32|Innenräume|Im Gegenlicht",
-"spotify:track:2ubG5Lo2I8hs3GzaVf7vdD"
-],
-[
-"2026-10-20T10:27|Tunde Adebimpe|God Knows",
-"spotify:track:1g9o6MNw8DQEFGmKQwbyYa"
-],
-[
-"2026-10-20T10:23|Laura Marling|Alexandra",
-"spotify:track:1TpOFgqL9EFLPsXSs3e1Tf"
-],
-[
-"2026-10-20T10:21|Anderson .Paak & Cordae|A Good Day",
-"spotify:track:4CrnExkcZkg6Aek113hAWl"
-],
-[
-"2026-10-20T10:17|Fuffifufzich|New Era",
-"spotify:track:0sF1TJMDGYxKvu9pp1JQkQ"
-],
-[
-"2026-10-20T10:09|Lola Young|From Down Here (Radio Edit)",
-"spotify:track:7Hg7l5aOygIHuaNDVFp3ox"
-],
-[
-"2026-10-20T10:06|Gerry Cinnamon|Sometimes",
-"spotify:track:58dwGk4l4ju8pI9YWsTHWD"
-],
-[
-"2026-10-20T09:56|Der Assistent|Wenn der Scirocco weht",
-"spotify:track:47SXo5LShY0vl9Pd3Pv2q8"
-],
-[
-"2026-10-20T09:50|Alice Costelloe|How Can I",
-"spotify:track:6ev5ii9Zpk67XEhdNTtY5z"
-],
-[
-"2026-10-20T09:46|Talking Heads|And She Was",
-"spotify:track:5nNZTUzinBDsnj3U76NJFC"
-],
-[
-"2026-10-20T09:42|Fontaines D.C.|Marianne",
-"spotify:track:69rHKcrQpYGfToPThOV1UB"
-],
-[
-"2026-10-20T09:33|Roisín Murphy|Murphy's Law",
-"spotify:track:6FmzyhEds8AokAVlaCFSZ3"
-],
-[
-"2026-10-20T09:26|Hak Baker feat. Baxter Dury|Nostalgia Death",
-"spotify:track:0hjjpa9zSBujrfWC9hgKnr"
-],
-[
-"2026-10-20T09:22|Smidley feat. Lucy Dacus|Capstone",
-"spotify:track:0YosJMrYxYQP7mLXfFo0p1"
-],
-[
-"2026-10-20T09:16|Modest Mouse|Float On",
-"spotify:track:2lwwrWVKdf3LR9lbbhnr6R"
-],
-[
-"2026-10-20T09:13|Linka Moja|Men R Dogs",
-"spotify:track:7AgfOLYDB7GrgIWg60PBw7"
-],
-[
-"2026-10-20T09:05|Vince Staples|Little Homies",
-"spotify:track:7B09ZewAliWo7Y3TdIA7g1"
-],
-[
-"2026-10-20T08:58|Agoria feat. Madison McFerrin|Getaway",
-"spotify:track:01RRBsQy5Me5wNeVEIprPU"
-],
-[
-"2026-10-20T08:53|Alice Phoebe Lou|Lose My Head",
-"spotify:track:4KefSDm2uulCInC38hXKYj"
 ]
 ],
 "entries": [
@@ -9386,18 +9214,6 @@
 "t": "2026-10-21T05:28:00+02:00",
 "artist": "Ralph Myerz & The Jack Herren Band",
 "title": "L.i.p.s.t.i.c.k. (Lipstick)"
-},
-{
-"id": "2026-10-21T05:24|Ayele|Fractured (Radio Edit)",
-"t": "2026-10-21T05:24:00+02:00",
-"artist": "Ayele",
-"title": "Fractured (Radio Edit)"
-},
-{
-"id": "2026-10-21T05:18|Father John Misty|I Guess Time Just Makes Fools Of Us All",
-"t": "2026-10-21T05:18:00+02:00",
-"artist": "Father John Misty",
-"title": "I Guess Time Just Makes Fools Of Us All"
 }
 ],
 "cache": {
@@ -9844,10 +9660,6 @@
 "lily allen|dallas major": {
 "u": "spotify:track:1ECugAb7Pg6UDA501YYgH9",
 "d": "2026-10-21T05:22:06.273219+02:00"
-},
-"father john misty|i guess time just makes fools of us all": {
-"u": "spotify:track:0QA1dDs6A2xLr7nxWFpeJN",
-"d": "2026-10-21T05:25:06.273598+02:00"
 },
 "ayele|fractured radio edit": {
 "u": "spotify:track:5EGnOBL2qoUNard3Oaq5Hc",
@@ -12008,6 +11820,102 @@
 "noze|danse avec moi": {
 "u": "spotify:track:7aFtLg3Sx4OKSj1P0xJNv7",
 "d": "2026-10-27T08:50:49.758586+01:00"
+},
+"sixpence none the richer|kiss me": {
+"u": "spotify:track:754kgU5rWscRTfvlsuEwFp",
+"d": "2026-10-28T05:18:18.146371+01:00"
+},
+"the hempolics|get it right": {
+"u": "spotify:track:5x1jCXkUFQsWiZ0VNRih3E",
+"d": "2026-10-28T05:18:18.146371+01:00"
+},
+"moscoman feat tom sanders|what do we care": {
+"u": "spotify:track:2AeJDk8SG8OmffAO7YkdDm",
+"d": "2026-10-28T05:18:18.146371+01:00"
+},
+"unkle feat liela moss|sunrise always comes around": {
+"u": "spotify:track:1yomzXTz340doVll0UE5NC",
+"d": "2026-10-28T05:19:18.146496+01:00"
+},
+"snap|welcome to tomorrow": {
+"u": "spotify:track:3byHmc9MVltJUBvNJJf4ew",
+"d": "2026-10-28T05:19:18.146496+01:00"
+},
+"quicksand|brushed": {
+"u": "spotify:track:16Zjiyrktq6QBnwXF2lDTv",
+"d": "2026-10-28T05:19:18.146496+01:00"
+},
+"arcade fire|ready to start": {
+"u": "spotify:track:33X9miK4Xz7pNeVrc9RITG",
+"d": "2026-10-28T05:20:18.146620+01:00"
+},
+"loma|going out": {
+"u": "spotify:track:1Fb4bA8ZHQdEM5XKncwnF8",
+"d": "2026-10-28T05:20:18.146620+01:00"
+},
+"ebow|arbayt": {
+"u": "spotify:track:0roqmhAUbYD2OpX413OXN1",
+"d": "2026-10-28T05:20:18.146620+01:00"
+},
+"kutiman dekel|hope": {
+"u": "spotify:track:4gFA57bNxMSqRk3q0vALkl",
+"d": "2026-10-28T05:21:18.146750+01:00"
+},
+"wild beasts|alpha female": {
+"u": "spotify:track:6krCPZW2iqaOYw4m48uwD2",
+"d": "2026-10-28T05:21:18.146750+01:00"
+},
+"faithless|mass destruction": {
+"u": "spotify:track:5lksdzkLi08ZuFA24iovcF",
+"d": "2026-10-28T05:21:18.146750+01:00"
+},
+"unknown mortal orchestra|that life": {
+"u": "spotify:track:0M2hckQzSt0AZFytuTC2Hp",
+"d": "2026-10-28T05:22:18.146877+01:00"
+},
+"maribou state feat holly walker|otherside radio edit": {
+"u": "spotify:track:2pj2A25YQK4uMxhZheNx7R",
+"d": "2026-10-28T05:22:18.146877+01:00"
+},
+"ben lee|catch my disease": {
+"u": "spotify:track:18qiraxE3JznGhJyx5J28Y",
+"d": "2026-10-28T05:22:18.146877+01:00"
+},
+"heaven 17|let s all make a bomb": {
+"u": "spotify:track:09egl6f6nQcvGJK6DvmPWI",
+"d": "2026-10-28T05:23:18.147002+01:00"
+},
+"fat freddy s drop|razor": {
+"u": "spotify:track:0Cle7prnUTByLVOladGFXB",
+"d": "2026-10-28T05:23:18.147002+01:00"
+},
+"asian dub foundation feat sinead o connor|1000 mirrors": {
+"u": "spotify:track:7H0TaixANBP2DRJXHP0EbT",
+"d": "2026-10-28T05:23:18.147002+01:00"
+},
+"santigold|disparate youth": {
+"u": "spotify:track:7d23MhPFE9eB3U8DPRirnL",
+"d": "2026-10-28T05:24:18.147127+01:00"
+},
+"eddie vedder|no ceiling": {
+"u": "spotify:track:6J0bdIZElZMymahgVWRE9B",
+"d": "2026-10-28T05:24:18.147127+01:00"
+},
+"el perro del mar|kokoro": {
+"u": "spotify:track:1M0IVyneQ6nO2sDvZl6Q5P",
+"d": "2026-10-28T05:24:18.147127+01:00"
+},
+"coma|start stop rewind": {
+"u": "spotify:track:11L3mSwEwt7AJ39jh4Crbd",
+"d": "2026-10-28T05:25:18.147251+01:00"
+},
+"saint etienne|the bad photographer": {
+"u": "spotify:track:63XoYcjAxher0PxQhsFz5d",
+"d": "2026-10-28T05:25:18.147251+01:00"
+},
+"jamie woon|heavy going": {
+"u": "spotify:track:79ieU2vuYImbGnz3E3a9Y3",
+"d": "2026-10-28T05:25:18.147251+01:00"
 }
 }
 }
