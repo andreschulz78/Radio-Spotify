@@ -1,5 +1,5 @@
 {
-"updated": "2026-10-28T13:29:37.863662+01:00",
+"updated": "2026-10-28T13:40:37.864856+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
@@ -3705,6 +3705,24 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-10-28T13:32|Manic Street Preachers|If You Tolerate This Your Children Will Be Next",
+"t": "2026-10-28T13:32:00+01:00",
+"artist": "Manic Street Preachers",
+"title": "If You Tolerate This Your Children Will Be Next"
+},
+{
+"id": "2026-10-28T13:27|Steve Lacy|The Feeling",
+"t": "2026-10-28T13:27:00+01:00",
+"artist": "Steve Lacy",
+"title": "The Feeling"
+},
+{
+"id": "2026-10-28T13:23|Jessie Ware|Selfish Love",
+"t": "2026-10-28T13:23:00+01:00",
+"artist": "Jessie Ware",
+"title": "Selfish Love"
+},
 {
 "id": "2026-10-28T13:20|Bonobo|Shokoufeh",
 "t": "2026-10-28T13:20:00+01:00",
@@ -9380,24 +9398,6 @@
 "t": "2026-10-21T13:47:00+02:00",
 "artist": "Starcrawler",
 "title": "Midnight"
-},
-{
-"id": "2026-10-21T13:39|Σtella|Belinda",
-"t": "2026-10-21T13:39:00+02:00",
-"artist": "Σtella",
-"title": "Belinda"
-},
-{
-"id": "2026-10-21T13:35|The Cure|A Fragile Thing",
-"t": "2026-10-21T13:35:00+02:00",
-"artist": "The Cure",
-"title": "A Fragile Thing"
-},
-{
-"id": "2026-10-21T13:32|Bilderbuch|Baby Junkie",
-"t": "2026-10-21T13:32:00+02:00",
-"artist": "Bilderbuch",
-"title": "Baby Junkie"
 }
 ],
 "cache": {
@@ -9864,10 +9864,6 @@
 "gorillaz feat bizarrap kara jackson and anoushka shankar|orange county": {
 "u": "spotify:track:5l4Gq3UC0dHKSExIf5xD9N",
 "d": "2026-10-21T13:37:14.864273+02:00"
-},
-"the cure|a fragile thing": {
-"u": "spotify:track:17k0Dwj1nr2VnES26230lJ",
-"d": "2026-10-21T13:42:14.864760+02:00"
 },
 "tella|belinda": {
 "u": "spotify:track:1rs2lOYfBKNW5OCpeTIiVf",
