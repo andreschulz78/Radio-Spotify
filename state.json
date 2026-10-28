@@ -1,5 +1,5 @@
 {
-"updated": "2026-10-28T16:46:37.882936+01:00",
+"updated": "2026-10-28T16:57:37.884016+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
@@ -3705,6 +3705,18 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-10-28T16:48|Apparat|Little Feet (Radio Edit)",
+"t": "2026-10-28T16:48:00+01:00",
+"artist": "Apparat",
+"title": "Little Feet (Radio Edit)"
+},
+{
+"id": "2026-10-28T16:44|Amy Winehouse|Between The Cheats",
+"t": "2026-10-28T16:44:00+01:00",
+"artist": "Amy Winehouse",
+"title": "Between The Cheats"
+},
 {
 "id": "2026-10-28T16:36|The Drums feat. Mareux|It Didn't Matter",
 "t": "2026-10-28T16:36:00+01:00",
@@ -9374,18 +9386,6 @@
 "t": "2026-10-21T17:05:00+02:00",
 "artist": "Philipp Johann Thimm",
 "title": "Have You Ever (feat. KOKA)"
-},
-{
-"id": "2026-10-21T16:56|No Doubt|Don't Speak",
-"t": "2026-10-21T16:56:00+02:00",
-"artist": "No Doubt",
-"title": "Don't Speak"
-},
-{
-"id": "2026-10-21T16:49|Niki & The Dove|Empires",
-"t": "2026-10-21T16:49:00+02:00",
-"artist": "Niki & The Dove",
-"title": "Empires"
 }
 ],
 "cache": {
@@ -9956,14 +9956,6 @@
 "les reines prochaines|opfer dieses liedes wicked game": {
 "u": null,
 "d": "2026-10-28T05:42:18.149346+01:00"
-},
-"no doubt|don t speak": {
-"u": "spotify:track:6urCAbunOQI4bLhmGpX7iS",
-"d": "2026-10-22T05:22:38.817788+02:00"
-},
-"niki the dove|empires": {
-"u": "spotify:track:5rkmOa4PAh1aBMFph5Jdqa",
-"d": "2026-10-22T05:22:38.817788+02:00"
 },
 "babe rainbow|waterfall": {
 "u": "spotify:track:6b7xtvXFuODSbW4uq9IxBw",
