@@ -1,12 +1,20 @@
 {
-"updated": "2026-10-28T08:20:28.291166+01:00",
+"updated": "2026-10-28T08:31:28.292763+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-28T05:17:44.758892+01:00",
 "details": "51e4e36c2ea1",
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAcoJusQesFQCZX5NgbRnnYBIbzyXYP",
+"snapshot": "AAActBXptcATS9qYIW2fe0tbfNq22mYM",
 "playlist": [
+[
+"2026-10-28T08:26|Madison Cunningham|Golden Gate (On And On)",
+"spotify:track:4yjzFXK39hPQvF8kgeZ3C7"
+],
+[
+"2026-10-28T08:18|The Asteroids Galaxy Tour|The Sun Ain't Shining No More",
+"spotify:track:6ZEVMb0NsZX2ubSVwYYczv"
+],
 [
 "2026-10-28T08:13|Yard Act|You're Gonna Need A Little Music",
 "spotify:track:43KS2LpjMVkvJdprLaoQxQ"
@@ -3701,6 +3709,18 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-10-28T08:26|Madison Cunningham|Golden Gate (On And On)",
+"t": "2026-10-28T08:26:00+01:00",
+"artist": "Madison Cunningham",
+"title": "Golden Gate (On And On)"
+},
+{
+"id": "2026-10-28T08:18|The Asteroids Galaxy Tour|The Sun Ain't Shining No More",
+"t": "2026-10-28T08:18:00+01:00",
+"artist": "The Asteroids Galaxy Tour",
+"title": "The Sun Ain't Shining No More"
+},
 {
 "id": "2026-10-28T08:13|Yard Act|You're Gonna Need A Little Music",
 "t": "2026-10-28T08:13:00+01:00",
@@ -9376,12 +9396,6 @@
 "t": "2026-10-21T08:33:00+02:00",
 "artist": "Black Marble",
 "title": "Jim Carol New Year"
-},
-{
-"id": "2026-10-21T08:24|FredAtlast|One Day (Radio Edit)",
-"t": "2026-10-21T08:24:00+02:00",
-"artist": "FredAtlast",
-"title": "One Day (Radio Edit)"
 }
 ],
 "cache": {
@@ -9832,10 +9846,6 @@
 "ayele|fractured radio edit": {
 "u": "spotify:track:5EGnOBL2qoUNard3Oaq5Hc",
 "d": "2026-10-21T05:30:06.274195+02:00"
-},
-"fredatlast|one day radio edit": {
-"u": null,
-"d": "2026-10-27T07:31:41.139297+01:00"
 },
 "america|a horse with no name": {
 "u": "spotify:track:54eZmuggBFJbV7k248bTTt",
@@ -12260,6 +12270,14 @@
 "gossip|heavy cross": {
 "u": "spotify:track:6QMmQtdSoMA2EnU8WfyZR0",
 "d": "2026-10-28T08:11:28.290069+01:00"
+},
+"the asteroids galaxy tour|the sun ain t shining no more": {
+"u": "spotify:track:6ZEVMb0NsZX2ubSVwYYczv",
+"d": "2026-10-28T08:26:28.291987+01:00"
+},
+"madison cunningham|golden gate on and on": {
+"u": "spotify:track:4yjzFXK39hPQvF8kgeZ3C7",
+"d": "2026-10-28T08:30:28.292619+01:00"
 }
 }
 }
