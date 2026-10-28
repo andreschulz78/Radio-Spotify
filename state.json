@@ -1,12 +1,16 @@
 {
-"updated": "2026-10-28T08:31:28.292763+01:00",
+"updated": "2026-10-28T08:41:28.294063+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-28T05:17:44.758892+01:00",
 "details": "51e4e36c2ea1",
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAActBXptcATS9qYIW2fe0tbfNq22mYM",
+"snapshot": "AAAcyLGjCDVibwSEWcdz1CljYRCRb09/",
 "playlist": [
+[
+"2026-10-28T08:34|Edwyn Collins|A Girl Like You",
+"spotify:track:0MteK167vtyb6hoJNC3Uz3"
+],
 [
 "2026-10-28T08:26|Madison Cunningham|Golden Gate (On And On)",
 "spotify:track:4yjzFXK39hPQvF8kgeZ3C7"
@@ -3702,13 +3706,15 @@
 [
 "2026-10-21T08:42|America|A Horse With No Name",
 "spotify:track:54eZmuggBFJbV7k248bTTt"
-],
-[
-"2026-10-21T08:33|Black Marble|Jim Carol New Year",
-"spotify:track:3UhXNJjt6Y0sNCEwwhoJnT"
 ]
 ],
 "entries": [
+{
+"id": "2026-10-28T08:34|Edwyn Collins|A Girl Like You",
+"t": "2026-10-28T08:34:00+01:00",
+"artist": "Edwyn Collins",
+"title": "A Girl Like You"
+},
 {
 "id": "2026-10-28T08:26|Madison Cunningham|Golden Gate (On And On)",
 "t": "2026-10-28T08:26:00+01:00",
@@ -9390,12 +9396,6 @@
 "t": "2026-10-21T08:42:00+02:00",
 "artist": "America",
 "title": "A Horse With No Name"
-},
-{
-"id": "2026-10-21T08:33|Black Marble|Jim Carol New Year",
-"t": "2026-10-21T08:33:00+02:00",
-"artist": "Black Marble",
-"title": "Jim Carol New Year"
 }
 ],
 "cache": {
@@ -12278,6 +12278,10 @@
 "madison cunningham|golden gate on and on": {
 "u": "spotify:track:4yjzFXK39hPQvF8kgeZ3C7",
 "d": "2026-10-28T08:30:28.292619+01:00"
+},
+"edwyn collins|a girl like you": {
+"u": "spotify:track:0MteK167vtyb6hoJNC3Uz3",
+"d": "2026-10-28T08:41:28.294063+01:00"
 }
 }
 }
