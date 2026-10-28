@@ -1,5 +1,5 @@
 {
-"updated": "2026-10-28T05:04:18.144639+01:00",
+"updated": "2026-10-28T05:15:18.146003+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-28T05:17:44.758892+01:00",
 "details": "51e4e36c2ea1",
@@ -3705,6 +3705,24 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-10-28T05:10|Dekker|Pick It Up, Put It Back",
+"t": "2026-10-28T05:10:00+01:00",
+"artist": "Dekker",
+"title": "Pick It Up, Put It Back"
+},
+{
+"id": "2026-10-28T05:07|Sixpence None The Richer|Kiss Me",
+"t": "2026-10-28T05:07:00+01:00",
+"artist": "Sixpence None The Richer",
+"title": "Kiss Me"
+},
+{
+"id": "2026-10-28T05:03|The Hempolics|Get It Right",
+"t": "2026-10-28T05:03:00+01:00",
+"artist": "The Hempolics",
+"title": "Get It Right"
+},
 {
 "id": "2026-10-27T20:55|Moscoman feat. Tom Sanders|What Do We Care",
 "t": "2026-10-27T20:55:00+01:00",
@@ -9380,24 +9398,6 @@
 "t": "2026-10-21T05:18:00+02:00",
 "artist": "Father John Misty",
 "title": "I Guess Time Just Makes Fools Of Us All"
-},
-{
-"id": "2026-10-21T05:15|Dekker|Small Wins",
-"t": "2026-10-21T05:15:00+02:00",
-"artist": "Dekker",
-"title": "Small Wins"
-},
-{
-"id": "2026-10-21T05:09|Ibibio Sound Machine|Love",
-"t": "2026-10-21T05:09:00+02:00",
-"artist": "Ibibio Sound Machine",
-"title": "Love"
-},
-{
-"id": "2026-10-21T05:06|The Cranberries|Animal Instinct",
-"t": "2026-10-21T05:06:00+02:00",
-"artist": "The Cranberries",
-"title": "Animal Instinct"
 }
 ],
 "cache": {
@@ -9821,10 +9821,6 @@
 "u": "spotify:track:44KktJfihIKoQrUrnKCzTH",
 "d": "2026-10-20T15:26:37.017294+02:00"
 },
-"the cranberries|animal instinct": {
-"u": "spotify:track:3J58Ccc5iTbCRnYx2xjo6d",
-"d": "2026-10-21T05:14:06.272229+02:00"
-},
 "dahi feat kendrick lamar amber mark|how to pray": {
 "u": "spotify:track:5M8eNQ6wLYPT9D60hbcxVU",
 "d": "2026-10-21T05:14:06.272229+02:00"
@@ -9844,10 +9840,6 @@
 "madonna|danceteria": {
 "u": "spotify:track:6oFNBxTVpYNpNCRehH05Ly",
 "d": "2026-10-21T05:19:06.272833+02:00"
-},
-"dekker|small wins": {
-"u": "spotify:track:77cPb0cCcgJ2r19DgLSGPx",
-"d": "2026-10-21T05:20:06.272961+02:00"
 },
 "lily allen|dallas major": {
 "u": "spotify:track:1ECugAb7Pg6UDA501YYgH9",
