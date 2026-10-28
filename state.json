@@ -1,12 +1,20 @@
 {
-"updated": "2026-10-28T07:48:28.287044+01:00",
+"updated": "2026-10-28T07:59:28.288399+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-28T05:17:44.758892+01:00",
 "details": "51e4e36c2ea1",
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAcRaxvA63hmqKkR48/JwVaoyYxl0Vk",
+"snapshot": "AAAcZHAYIkv/vGUIdAaU7mkvJIg3Jpn+",
 "playlist": [
+[
+"2026-10-28T07:48|Princess Chelsea|Love Is More",
+"spotify:track:2a0SCFj0jawy90EKzYpuYX"
+],
+[
+"2026-10-28T07:43|The La's|There She Goes",
+"spotify:track:0D3Th2YU14U737O0nSHXT8"
+],
 [
 "2026-10-28T07:40|Yusuf|Türkisch Mann",
 "spotify:track:62GWC1nCyjVX5zRMtWwcAs"
@@ -3690,17 +3698,21 @@
 [
 "2026-10-21T08:06|Miike Snow|Black & Blue",
 "spotify:track:0xGlQO6wmX3tRWcWu9SpGZ"
-],
-[
-"2026-10-21T07:56|Aretha Franklin|I Say A Little Prayer",
-"spotify:track:3NfxSdJnVdon1axzloJgba"
-],
-[
-"2026-10-21T07:51|Alexander IV & IYAMAH|About Us",
-"spotify:track:0c3tXpFKZilDSR3yAphPZt"
 ]
 ],
 "entries": [
+{
+"id": "2026-10-28T07:48|Princess Chelsea|Love Is More",
+"t": "2026-10-28T07:48:00+01:00",
+"artist": "Princess Chelsea",
+"title": "Love Is More"
+},
+{
+"id": "2026-10-28T07:43|The La's|There She Goes",
+"t": "2026-10-28T07:43:00+01:00",
+"artist": "The La's",
+"title": "There She Goes"
+},
 {
 "id": "2026-10-28T07:40|Yusuf|Türkisch Mann",
 "t": "2026-10-28T07:40:00+01:00",
@@ -9370,18 +9382,6 @@
 "t": "2026-10-21T08:06:00+02:00",
 "artist": "Miike Snow",
 "title": "Black & Blue"
-},
-{
-"id": "2026-10-21T07:56|Aretha Franklin|I Say A Little Prayer",
-"t": "2026-10-21T07:56:00+02:00",
-"artist": "Aretha Franklin",
-"title": "I Say A Little Prayer"
-},
-{
-"id": "2026-10-21T07:51|Alexander IV & IYAMAH|About Us",
-"t": "2026-10-21T07:51:00+02:00",
-"artist": "Alexander IV & IYAMAH",
-"title": "About Us"
 }
 ],
 "cache": {
@@ -9832,10 +9832,6 @@
 "ayele|fractured radio edit": {
 "u": "spotify:track:5EGnOBL2qoUNard3Oaq5Hc",
 "d": "2026-10-21T05:30:06.274195+02:00"
-},
-"aretha franklin|i say a little prayer": {
-"u": "spotify:track:3NfxSdJnVdon1axzloJgba",
-"d": "2026-10-21T08:02:06.294116+02:00"
 },
 "miike snow|black blue": {
 "u": "spotify:track:0xGlQO6wmX3tRWcWu9SpGZ",
@@ -12256,6 +12252,14 @@
 "yusuf|turkisch mann": {
 "u": "spotify:track:62GWC1nCyjVX5zRMtWwcAs",
 "d": "2026-10-28T07:46:28.286807+01:00"
+},
+"the la s|there she goes": {
+"u": "spotify:track:0D3Th2YU14U737O0nSHXT8",
+"d": "2026-10-28T07:52:28.287556+01:00"
+},
+"princess chelsea|love is more": {
+"u": "spotify:track:2a0SCFj0jawy90EKzYpuYX",
+"d": "2026-10-28T07:57:28.288153+01:00"
 }
 }
 }
