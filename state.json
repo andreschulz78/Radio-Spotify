@@ -1,5 +1,5 @@
 {
-"updated": "2026-10-28T15:29:37.875613+01:00",
+"updated": "2026-10-28T15:40:37.876639+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
@@ -3705,6 +3705,18 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-10-28T15:31|Father John Misty|I Guess Time Just Makes Fools Of Us All",
+"t": "2026-10-28T15:31:00+01:00",
+"artist": "Father John Misty",
+"title": "I Guess Time Just Makes Fools Of Us All"
+},
+{
+"id": "2026-10-28T15:24|Arcade Fire|We Used To Wait",
+"t": "2026-10-28T15:24:00+01:00",
+"artist": "Arcade Fire",
+"title": "We Used To Wait"
+},
 {
 "id": "2026-10-28T15:20|Yüksel Özkasap|Almanya 'ya mecbur ettin",
 "t": "2026-10-28T15:20:00+01:00",
@@ -9380,12 +9392,6 @@
 "t": "2026-10-21T15:46:00+02:00",
 "artist": "Lola Young",
 "title": "FAKE"
-},
-{
-"id": "2026-10-21T15:32|Jamie Cullum|I'm All Over It",
-"t": "2026-10-21T15:32:00+02:00",
-"artist": "Jamie Cullum",
-"title": "I'm All Over It"
 }
 ],
 "cache": {
@@ -10000,10 +10006,6 @@
 "lola young|fake": {
 "u": "spotify:track:3eImUEjfyVt2YtkyU6PNhB",
 "d": "2026-10-22T05:25:38.818041+02:00"
-},
-"jamie cullum|i m all over it": {
-"u": "spotify:track:293HNAjpy1wlDwFADrua2u",
-"d": "2026-10-22T05:26:38.818126+02:00"
 },
 "tessa rose jackson|built to collide": {
 "u": "spotify:track:69saRCWp2ov8jBLOprFAfE",
