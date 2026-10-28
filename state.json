@@ -1,12 +1,20 @@
 {
-"updated": "2026-10-28T06:07:18.152701+01:00",
+"updated": "2026-10-28T06:18:18.154265+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-28T05:17:44.758892+01:00",
 "details": "51e4e36c2ea1",
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAbLfQ68+8oV8mzNCmUIPQSnq8IW6Ml",
+"snapshot": "AAAbVVzl+aSUIRWDthGJePVCsmvVmGiX",
 "playlist": [
+[
+"2026-10-28T06:11|Peter, Björn & John feat. Victoria|Young Folks",
+"spotify:track:4dyx5SzxPPaD8xQIid5Wjj"
+],
+[
+"2026-10-28T06:04|Emma Louise|Jungle",
+"spotify:track:54zwuYIW4H4HuHGdI2jxUC"
+],
 [
 "2026-10-28T05:55|Interpol|Iron City",
 "spotify:track:7o9gwmscHBXh6sUEYkWQ4e"
@@ -3702,17 +3710,21 @@
 [
 "2026-10-21T06:25|Yazmin Lacey|Summer Haze",
 "spotify:track:465QjZo1z1JAuLTTC7DnuK"
-],
-[
-"2026-10-21T06:18|Sans Parade|Hyperborea",
-"spotify:track:2X0jwUV53K6cDNJK5gzrQy"
-],
-[
-"2026-10-21T06:13|Falco|Junge Römer",
-"spotify:track:537AwtXFJ2xunz35pLKugs"
 ]
 ],
 "entries": [
+{
+"id": "2026-10-28T06:11|Peter, Björn & John feat. Victoria|Young Folks",
+"t": "2026-10-28T06:11:00+01:00",
+"artist": "Peter, Björn & John feat. Victoria",
+"title": "Young Folks"
+},
+{
+"id": "2026-10-28T06:04|Emma Louise|Jungle",
+"t": "2026-10-28T06:04:00+01:00",
+"artist": "Emma Louise",
+"title": "Jungle"
+},
 {
 "id": "2026-10-28T05:55|Interpol|Iron City",
 "t": "2026-10-28T05:55:00+01:00",
@@ -9394,18 +9406,6 @@
 "t": "2026-10-21T06:25:00+02:00",
 "artist": "Yazmin Lacey",
 "title": "Summer Haze"
-},
-{
-"id": "2026-10-21T06:18|Sans Parade|Hyperborea",
-"t": "2026-10-21T06:18:00+02:00",
-"artist": "Sans Parade",
-"title": "Hyperborea"
-},
-{
-"id": "2026-10-21T06:13|Falco|Junge Römer",
-"t": "2026-10-21T06:13:00+02:00",
-"artist": "Falco",
-"title": "Junge Römer"
 }
 ],
 "cache": {
@@ -9856,14 +9856,6 @@
 "ayele|fractured radio edit": {
 "u": "spotify:track:5EGnOBL2qoUNard3Oaq5Hc",
 "d": "2026-10-21T05:30:06.274195+02:00"
-},
-"falco|junge romer": {
-"u": "spotify:track:537AwtXFJ2xunz35pLKugs",
-"d": "2026-10-21T06:15:06.279971+02:00"
-},
-"sans parade|hyperborea": {
-"u": "spotify:track:2X0jwUV53K6cDNJK5gzrQy",
-"d": "2026-10-21T06:26:06.281443+02:00"
 },
 "wallners|ships": {
 "u": "spotify:track:2epKivPKVeRUsP7TZczwpz",
@@ -12296,6 +12288,14 @@
 "anna f|friedberg": {
 "u": "spotify:track:1wQK2qxr1DLZRwhCVj0e2V",
 "d": "2026-10-28T05:50:18.150408+01:00"
+},
+"emma louise|jungle": {
+"u": "spotify:track:54zwuYIW4H4HuHGdI2jxUC",
+"d": "2026-10-28T06:10:18.153141+01:00"
+},
+"peter bjorn john feat victoria|young folks": {
+"u": "spotify:track:4dyx5SzxPPaD8xQIid5Wjj",
+"d": "2026-10-28T06:16:18.154013+01:00"
 }
 }
 }
