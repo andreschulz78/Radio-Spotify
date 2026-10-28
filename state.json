@@ -1,12 +1,20 @@
 {
-"updated": "2026-10-28T05:46:18.149882+01:00",
+"updated": "2026-10-28T05:56:18.151193+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-28T05:17:44.758892+01:00",
 "details": "51e4e36c2ea1",
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAa/XyK/6XLqpDZXiJcVgu0Zx3XSfoP",
+"snapshot": "AAAbHh0tULP2tRRsiePgMV7ahopGqx3m",
 "playlist": [
+[
+"2026-10-28T05:49|The Big Moon|F.O.R.E.V.E.R",
+"spotify:track:0UaPOdi1O83vr1oTXaGqgx"
+],
+[
+"2026-10-28T05:45|Anna F.|Friedberg",
+"spotify:track:1wQK2qxr1DLZRwhCVj0e2V"
+],
 [
 "2026-10-28T05:39|Planningtorock feat. Romy|The One",
 "spotify:track:5MkC4l5EgOeLTd0CNb7IJz"
@@ -3702,17 +3710,21 @@
 [
 "2026-10-21T06:05|Austra & Patrick Holland|Siren Reprise",
 "spotify:track:678wI419HyRL4qSTbXdyLu"
-],
-[
-"2026-10-21T05:56|Lola Young|From Down Here (Radio Edit)",
-"spotify:track:7Hg7l5aOygIHuaNDVFp3ox"
-],
-[
-"2026-10-21T05:51|Meshell Ndegeocello feat. Cat Power|Don’t You Want Me",
-"spotify:track:5sbCqST9M4Q1sRSJM6L6oT"
 ]
 ],
 "entries": [
+{
+"id": "2026-10-28T05:49|The Big Moon|F.O.R.E.V.E.R",
+"t": "2026-10-28T05:49:00+01:00",
+"artist": "The Big Moon",
+"title": "F.O.R.E.V.E.R"
+},
+{
+"id": "2026-10-28T05:45|Anna F.|Friedberg",
+"t": "2026-10-28T05:45:00+01:00",
+"artist": "Anna F.",
+"title": "Friedberg"
+},
 {
 "id": "2026-10-28T05:39|Planningtorock feat. Romy|The One",
 "t": "2026-10-28T05:39:00+01:00",
@@ -9394,18 +9406,6 @@
 "t": "2026-10-21T06:05:00+02:00",
 "artist": "Austra & Patrick Holland",
 "title": "Siren Reprise"
-},
-{
-"id": "2026-10-21T05:56|Lola Young|From Down Here (Radio Edit)",
-"t": "2026-10-21T05:56:00+02:00",
-"artist": "Lola Young",
-"title": "From Down Here (Radio Edit)"
-},
-{
-"id": "2026-10-21T05:51|Meshell Ndegeocello feat. Cat Power|Don’t You Want Me",
-"t": "2026-10-21T05:51:00+02:00",
-"artist": "Meshell Ndegeocello feat. Cat Power",
-"title": "Don’t You Want Me"
 }
 ],
 "cache": {
@@ -12292,6 +12292,10 @@
 "planningtorock feat romy|the one": {
 "u": "spotify:track:5MkC4l5EgOeLTd0CNb7IJz",
 "d": "2026-10-28T05:45:18.149754+01:00"
+},
+"anna f|friedberg": {
+"u": "spotify:track:1wQK2qxr1DLZRwhCVj0e2V",
+"d": "2026-10-28T05:50:18.150408+01:00"
 }
 }
 }
