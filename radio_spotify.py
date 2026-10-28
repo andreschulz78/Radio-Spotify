@@ -34,6 +34,8 @@ MAX_LOOKUPS = 3            # neue Titel pro Durchlauf (je 1–2 Spotify-Anfragen
 RETRY_NOT_FOUND = timedelta(days=3)
 SYNC_EVERY = timedelta(minutes=4)    # Playlist höchstens alle 4 Min. abgleichen (Spotify-Tageskontingent)
 PRUNE_HOUR = 4                       # einmal täglich ab 4 Uhr: Neuaufbau, entfernt Titel älter als 7 Tage
+DAILY_BUDGET = 600                   # höchstens so viele Spotify-Anfragen pro Tag – deutlich unter dem Kontingent
+BUDGET_DAY_START = timedelta(hours=5, minutes=30)   # Spotify setzt das Kontingent gegen 05:15 Uhr zurück
 MATCHER = 4               # erhöhen, wenn find_uri geändert wird -> Cache verwerfen (Titel in der Playlist bleiben)
 FRESH_START = datetime(2026, 10, 15, 12, 35, tzinfo=ZoneInfo("Europe/Berlin"))   # einmalig: Playlist leeren, nur noch Neues
 STATE_FILE = Path(__file__).with_name("state.json")
@@ -359,6 +361,11 @@ def run_once(sp=None, dry=False):
 
     blocked = state.get("blocked_until")
     lookups, limited = 0, bool(blocked and now < datetime.fromisoformat(blocked))
+    today = f"{(now - BUDGET_DAY_START).date()}"   # Kontingent-Tag
+    used_today = (state.get("calls") or {}).get(today, 0)
+    if used_today >= DAILY_BUDGET:   # eigene Obergrenze erreicht: bis morgen früh nichts an Spotify
+        limited = True
+        print(f"  Tagesbudget erreicht ({used_today} Spotify-Anfragen) – weiter ab {BUDGET_DAY_START} Uhr")
     lookup_calls = -sp.calls
     for e in sorted(entries.values(), key=lambda e: e["t"], reverse=True):
         if e["id"] in pinned:
@@ -399,7 +406,8 @@ def run_once(sp=None, dry=False):
     calls0 = sp.calls
     if limited:   # Spotify-Sperre: nichts senden, Radio-Stand trotzdem sichern
         if desired != playlist:
-            print(f"  Spotify gesperrt bis {blocked[:16]} – Playlist wird danach abgeglichen")
+            print(f"  Spotify pausiert (Sperre bis {blocked[:16]})" if blocked and now < datetime.fromisoformat(blocked)
+                  else "  Spotify pausiert (Tagesbudget) – Playlist wird danach abgeglichen")
     elif due or (PLAYLIST_DETAILS and details != want):
         try:
             if PLAYLIST_DETAILS and details != want:   # setzen, ohne Neuaufbau auszulösen
@@ -420,7 +428,6 @@ def run_once(sp=None, dry=False):
             snapshot = None   # Stand in Spotify unklar -> nach der Sperre einmal neu aufbauen
 
     calls = {d: n for d, n in (state.get("calls") or {}).items() if d >= f"{now - timedelta(days=7):%Y-%m-%d}"}
-    today = f"{now:%Y-%m-%d}"
     calls[today] = calls.get(today, 0) + sp.calls - calls0 + lookup_calls   # Spotify-Anfragen pro Tag
     STATE_FILE.write_text(json.dumps({
         "updated": now.isoformat(), "matcher": MATCHER, "blocked_until": blocked, "details": details,
