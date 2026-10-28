@@ -32,6 +32,8 @@ BASE = os.environ.get("RADIO_URL", "").rstrip("/")   # bewusst nicht im Repo
 WINDOW = timedelta(days=7)
 MAX_LOOKUPS = 3            # neue Titel pro Durchlauf (je 1–2 Spotify-Anfragen; zu viele -> 24 h Sperre)
 RETRY_NOT_FOUND = timedelta(days=3)
+SYNC_EVERY = timedelta(minutes=15)   # Playlist nur alle 15 Min. abgleichen (Spotify-Tageskontingent)
+PRUNE_HOUR = 4                       # einmal täglich ab 4 Uhr: Neuaufbau, entfernt Titel älter als 7 Tage
 MATCHER = 4               # erhöhen, wenn find_uri geändert wird -> Cache verwerfen (Titel in der Playlist bleiben)
 FRESH_START = datetime(2026, 10, 15, 12, 35, tzinfo=ZoneInfo("Europe/Berlin"))   # einmalig: Playlist leeren, nur noch Neues
 STATE_FILE = Path(__file__).with_name("state.json")
@@ -121,7 +123,7 @@ class RateLimited(RuntimeError):
 
 class Spotify:
     def __init__(self):
-        self.token = None
+        self.token, self.calls = None, 0   # calls: Anfragen an die Web-API (fürs Tageskontingent)
         self.refresh()
 
     def refresh(self):
@@ -140,6 +142,7 @@ class Spotify:
             url += "?" + urllib.parse.urlencode(params)
         data = json.dumps(body).encode() if body is not None else None
         for attempt in range(6):
+            self.calls += 1
             req = urllib.request.Request(url, data=data, method=method, headers={
                 "Authorization": f"Bearer {self.token}", "Content-Type": "application/json"})
             try:
@@ -282,7 +285,8 @@ def sync_playlist(sp, pid, old, desired, old_snapshot):
     gone_uris = {u for i, u in old if (i, u) not in keep}
     uris = sorted(gone_uris)
     for k in range(0, len(uris), 100):   # entfernt jeweils alle Vorkommen der URI
-        sp.call("DELETE", f"/playlists/{pid}/items", body={"items": [{"uri": u} for u in uris[k:k + 100]]})
+        cur = sp.call("DELETE", f"/playlists/{pid}/items",
+                      body={"items": [{"uri": u} for u in uris[k:k + 100]]}).get("snapshot_id", cur)
     remaining = [x for x in old if x[1] not in gone_uris]
 
     runs, p = [], 0
@@ -296,21 +300,22 @@ def sync_playlist(sp, pid, old, desired, old_snapshot):
     if p != len(remaining):
         return rebuild(sp, pid, desired, "Reihenfolge inkonsistent")
 
-    snap = None
+    snap = cur
     for start, us in runs:
         for k in range(0, len(us), 100):
-            snap = sp.call("POST", f"/playlists/{pid}/items", body={"uris": us[k:k + 100], "position": start + k})
+            snap = sp.call("POST", f"/playlists/{pid}/items",
+                           body={"uris": us[k:k + 100], "position": start + k}).get("snapshot_id", snap)
     print(f"Spotify: -{len(old) - len(remaining)} +{len(desired) - len(remaining)} -> {len(desired)} Titel")
-    return sp.call("GET", f"/playlists/{pid}", {"fields": "snapshot_id"})["snapshot_id"]
+    return snap
 
 
 def rebuild(sp, pid, desired, why):
     print(f"Spotify: Neuaufbau ({why}), {len(desired)} Titel")
     uris = [u for _, u in desired]
-    sp.call("PUT", f"/playlists/{pid}/items", body={"uris": uris[:100]})
+    snap = sp.call("PUT", f"/playlists/{pid}/items", body={"uris": uris[:100]}).get("snapshot_id")
     for k in range(100, len(uris), 100):
-        sp.call("POST", f"/playlists/{pid}/items", body={"uris": uris[k:k + 100]})
-    return sp.call("GET", f"/playlists/{pid}", {"fields": "snapshot_id"})["snapshot_id"]
+        snap = sp.call("POST", f"/playlists/{pid}/items", body={"uris": uris[k:k + 100]}).get("snapshot_id", snap)
+    return snap or sp.call("GET", f"/playlists/{pid}", {"fields": "snapshot_id"})["snapshot_id"]
 
 
 # ---------- Ablauf ----------
@@ -354,6 +359,7 @@ def run_once(sp=None, dry=False):
 
     blocked = state.get("blocked_until")
     lookups, limited = 0, bool(blocked and now < datetime.fromisoformat(blocked))
+    lookup_calls = -sp.calls
     for e in sorted(entries.values(), key=lambda e: e["t"], reverse=True):
         if e["id"] in pinned:
             e["uri"] = pinned[e["id"]]
@@ -374,6 +380,7 @@ def run_once(sp=None, dry=False):
         e["uri"] = c["u"] if c else None
     used = {norm(e["artist"]) + "|" + norm(e["title"]) for e in entries.values()}
     cache = {k: v for k, v in cache.items() if k in used}
+    lookup_calls += sp.calls
     if lookups:
         print(f"  Spotify-Suchen: {lookups}")
 
@@ -382,10 +389,18 @@ def run_once(sp=None, dry=False):
     pid, snapshot = os.environ["SPOTIFY_PLAYLIST_ID"], state.get("snapshot")
     details, playlist = state.get("details"), state.get("playlist")   # details: nur ein Hash (anonym)
     want = hashlib.sha256(json.dumps(PLAYLIST_DETAILS, sort_keys=True).encode()).hexdigest()[:12]
+    # Tagsüber nur neue Titel einfügen (abgelaufene bleiben unten stehen), Entfernen beim täglichen Neuaufbau:
+    # spart Spotify-Anfragen, denn Entfernen löscht alle Vorkommen eines Titels und erzwingt viele Einzel-Inserts.
+    synced, pruned = state.get("synced"), state.get("pruned")
+    old_id = f"{cutoff:%Y-%m-%dT%H:%M}"
+    target = desired + [x for x in playlist or [] if x[0] < old_id and x not in desired]
+    prune = playlist is None or snapshot is None or (pruned != f"{now:%Y-%m-%d}" and now.hour >= PRUNE_HOUR)
+    due = prune or (target != playlist and (not synced or now - datetime.fromisoformat(synced) >= SYNC_EVERY))
+    calls0 = sp.calls
     if limited:   # Spotify-Sperre: nichts senden, Radio-Stand trotzdem sichern
         if desired != playlist:
             print(f"  Spotify gesperrt bis {blocked[:16]} – Playlist wird danach abgeglichen")
-    else:
+    elif due or (PLAYLIST_DETAILS and details != want):
         try:
             if PLAYLIST_DETAILS and details != want:   # setzen, ohne Neuaufbau auszulösen
                 before = sp.call("GET", f"/playlists/{pid}", {"fields": "snapshot_id"})["snapshot_id"]
@@ -394,15 +409,22 @@ def run_once(sp=None, dry=False):
                 if before == snapshot:
                     snapshot = sp.call("GET", f"/playlists/{pid}", {"fields": "snapshot_id"})["snapshot_id"]
                 print("Spotify: Name/Beschreibung der Playlist gesetzt")
-            if desired != playlist:
-                snapshot, playlist = sync_playlist(sp, pid, playlist, desired, snapshot), desired
+            if prune:
+                snapshot, playlist, pruned = rebuild(sp, pid, desired, "täglich"), desired, f"{now:%Y-%m-%d}"
+                synced = now.isoformat()
+            elif due:
+                snapshot, playlist, synced = sync_playlist(sp, pid, playlist, target, snapshot), target, now.isoformat()
         except RateLimited as err:   # nicht jede Minute neu versuchen – das verlängert die Sperre
             print(f"  Spotify gesperrt: {err}")
             blocked = (now + timedelta(seconds=err.wait)).isoformat()
             snapshot = None   # Stand in Spotify unklar -> nach der Sperre einmal neu aufbauen
 
+    calls = {d: n for d, n in (state.get("calls") or {}).items() if d >= f"{now - timedelta(days=7):%Y-%m-%d}"}
+    today = f"{now:%Y-%m-%d}"
+    calls[today] = calls.get(today, 0) + sp.calls - calls0 + lookup_calls   # Spotify-Anfragen pro Tag
     STATE_FILE.write_text(json.dumps({
         "updated": now.isoformat(), "matcher": MATCHER, "blocked_until": blocked, "details": details,
+        "synced": synced, "pruned": pruned, "calls": calls,
         "fresh": state.get("fresh"), "start": state.get("start"), "snapshot": snapshot, "playlist": playlist,
         "entries": [{k: e[k] for k in ("id", "t", "artist", "title")} for e in ordered],
         "cache": cache}, ensure_ascii=False, indent=0))
