@@ -1,5 +1,5 @@
 {
-"updated": "2026-10-28T10:09:28.305975+01:00",
+"updated": "2026-10-28T10:20:28.307453+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
@@ -3705,6 +3705,18 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-10-28T10:08|Gabin|Doo Uap, Doo Uap, Doo Uap (It Don't Mean A Thing...)",
+"t": "2026-10-28T10:08:00+01:00",
+"artist": "Gabin",
+"title": "Doo Uap, Doo Uap, Doo Uap (It Don't Mean A Thing...)"
+},
+{
+"id": "2026-10-28T10:05|New German Cinema|Water Drops",
+"t": "2026-10-28T10:05:00+01:00",
+"artist": "New German Cinema",
+"title": "Water Drops"
+},
 {
 "id": "2026-10-28T09:56|Depeche Mode|Behind The Wheel",
 "t": "2026-10-28T09:56:00+01:00",
@@ -9380,18 +9392,6 @@
 "t": "2026-10-21T10:23:00+02:00",
 "artist": "Sassy 009 feat. Blood Orange",
 "title": "Tell Me (Jam City Remix) (Edit)"
-},
-{
-"id": "2026-10-21T10:19|Kings Of Leon|My Whole World",
-"t": "2026-10-21T10:19:00+02:00",
-"artist": "Kings Of Leon",
-"title": "My Whole World"
-},
-{
-"id": "2026-10-21T10:10|Gotan Project|La Vigüela",
-"t": "2026-10-21T10:10:00+02:00",
-"artist": "Gotan Project",
-"title": "La Vigüela"
 }
 ],
 "cache": {
@@ -9723,10 +9723,6 @@
 "u": "spotify:track:0ceKqpXrrC3CtFwFiLJeoY",
 "d": "2026-10-20T05:13:27.501552+02:00"
 },
-"kings of leon|my whole world": {
-"u": "spotify:track:2tfc81XZfVReM0kYQqv7o3",
-"d": "2026-10-20T05:13:27.501552+02:00"
-},
 "nightmares on wax feat mozez|you wish abbey road fuzz gospel version": {
 "u": "spotify:track:6G6M4fl2I0eqEQnzyTwR8m",
 "d": "2026-10-20T05:14:27.501651+02:00"
@@ -9846,10 +9842,6 @@
 "friedberg|goodwife": {
 "u": "spotify:track:1H89j9NLse1E0Kmjb3tzW6",
 "d": "2026-10-21T09:25:14.835282+02:00"
-},
-"gotan project|la viguela": {
-"u": "spotify:track:2a3YtteFZ62E5yH3WGqUB1",
-"d": "2026-10-21T10:16:14.841346+02:00"
 },
 "lorde|tennis court": {
 "u": "spotify:track:4fnBNNoBiRqDgTTk3ZQo3E",
