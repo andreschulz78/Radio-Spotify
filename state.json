@@ -1,12 +1,20 @@
 {
-"updated": "2026-10-28T08:41:28.294063+01:00",
+"updated": "2026-10-28T08:52:28.295544+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-28T05:17:44.758892+01:00",
 "details": "51e4e36c2ea1",
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAcyLGjCDVibwSEWcdz1CljYRCRb09/",
+"snapshot": "AAAc5i9yVyMu/A1cd2r/Wlvm98T66vnz",
 "playlist": [
+[
+"2026-10-28T08:46|Chet Faker|Over You (Radio Edit)",
+"spotify:track:036QOmnlr52hgeH1WmQ5OB"
+],
+[
+"2026-10-28T08:43|54 Ultra|Tell Me",
+"spotify:track:6iXIvHGsLMJ89TuW1S9E3C"
+],
 [
 "2026-10-28T08:34|Edwyn Collins|A Girl Like You",
 "spotify:track:0MteK167vtyb6hoJNC3Uz3"
@@ -3694,21 +3702,21 @@
 [
 "2026-10-21T08:58|Viagra Boys|Uno II",
 "spotify:track:2CHdkhVS2Nh0fIEdzpokC7"
-],
-[
-"2026-10-21T08:51|Kay Young|The Way You Look At Me",
-"spotify:track:1xnarNBibYchqPjKRuwZzO"
-],
-[
-"2026-10-21T08:48|Chinese American Bear|Dance Dance Dance (Edit)",
-"spotify:track:3Ct3ro3LnsTHjeRVPNSG5s"
-],
-[
-"2026-10-21T08:42|America|A Horse With No Name",
-"spotify:track:54eZmuggBFJbV7k248bTTt"
 ]
 ],
 "entries": [
+{
+"id": "2026-10-28T08:46|Chet Faker|Over You (Radio Edit)",
+"t": "2026-10-28T08:46:00+01:00",
+"artist": "Chet Faker",
+"title": "Over You (Radio Edit)"
+},
+{
+"id": "2026-10-28T08:43|54 Ultra|Tell Me",
+"t": "2026-10-28T08:43:00+01:00",
+"artist": "54 Ultra",
+"title": "Tell Me"
+},
 {
 "id": "2026-10-28T08:34|Edwyn Collins|A Girl Like You",
 "t": "2026-10-28T08:34:00+01:00",
@@ -9378,24 +9386,6 @@
 "t": "2026-10-21T08:58:00+02:00",
 "artist": "Viagra Boys",
 "title": "Uno II"
-},
-{
-"id": "2026-10-21T08:51|Kay Young|The Way You Look At Me",
-"t": "2026-10-21T08:51:00+02:00",
-"artist": "Kay Young",
-"title": "The Way You Look At Me"
-},
-{
-"id": "2026-10-21T08:48|Chinese American Bear|Dance Dance Dance (Edit)",
-"t": "2026-10-21T08:48:00+02:00",
-"artist": "Chinese American Bear",
-"title": "Dance Dance Dance (Edit)"
-},
-{
-"id": "2026-10-21T08:42|America|A Horse With No Name",
-"t": "2026-10-21T08:42:00+02:00",
-"artist": "America",
-"title": "A Horse With No Name"
 }
 ],
 "cache": {
@@ -9846,14 +9836,6 @@
 "ayele|fractured radio edit": {
 "u": "spotify:track:5EGnOBL2qoUNard3Oaq5Hc",
 "d": "2026-10-21T05:30:06.274195+02:00"
-},
-"america|a horse with no name": {
-"u": "spotify:track:54eZmuggBFJbV7k248bTTt",
-"d": "2026-10-21T08:46:14.830170+02:00"
-},
-"kay young|the way you look at me": {
-"u": "spotify:track:1xnarNBibYchqPjKRuwZzO",
-"d": "2026-10-21T08:55:14.831503+02:00"
 },
 "viagra boys|uno ii": {
 "u": "spotify:track:2CHdkhVS2Nh0fIEdzpokC7",
@@ -12282,6 +12264,10 @@
 "edwyn collins|a girl like you": {
 "u": "spotify:track:0MteK167vtyb6hoJNC3Uz3",
 "d": "2026-10-28T08:41:28.294063+01:00"
+},
+"chet faker|over you radio edit": {
+"u": "spotify:track:036QOmnlr52hgeH1WmQ5OB",
+"d": "2026-10-28T08:51:28.295419+01:00"
 }
 }
 }
