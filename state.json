@@ -1,12 +1,16 @@
 {
-"updated": "2026-10-28T05:56:18.151193+01:00",
+"updated": "2026-10-28T06:07:18.152701+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-28T05:17:44.758892+01:00",
 "details": "51e4e36c2ea1",
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAbHh0tULP2tRRsiePgMV7ahopGqx3m",
+"snapshot": "AAAbLfQ68+8oV8mzNCmUIPQSnq8IW6Ml",
 "playlist": [
+[
+"2026-10-28T05:55|Interpol|Iron City",
+"spotify:track:7o9gwmscHBXh6sUEYkWQ4e"
+],
 [
 "2026-10-28T05:49|The Big Moon|F.O.R.E.V.E.R",
 "spotify:track:0UaPOdi1O83vr1oTXaGqgx"
@@ -3706,13 +3710,15 @@
 [
 "2026-10-21T06:13|Falco|Junge Römer",
 "spotify:track:537AwtXFJ2xunz35pLKugs"
-],
-[
-"2026-10-21T06:05|Austra & Patrick Holland|Siren Reprise",
-"spotify:track:678wI419HyRL4qSTbXdyLu"
 ]
 ],
 "entries": [
+{
+"id": "2026-10-28T05:55|Interpol|Iron City",
+"t": "2026-10-28T05:55:00+01:00",
+"artist": "Interpol",
+"title": "Iron City"
+},
 {
 "id": "2026-10-28T05:49|The Big Moon|F.O.R.E.V.E.R",
 "t": "2026-10-28T05:49:00+01:00",
@@ -9400,12 +9406,6 @@
 "t": "2026-10-21T06:13:00+02:00",
 "artist": "Falco",
 "title": "Junge Römer"
-},
-{
-"id": "2026-10-21T06:05|Austra & Patrick Holland|Siren Reprise",
-"t": "2026-10-21T06:05:00+02:00",
-"artist": "Austra & Patrick Holland",
-"title": "Siren Reprise"
 }
 ],
 "cache": {
