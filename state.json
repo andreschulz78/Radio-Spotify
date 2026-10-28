@@ -1,12 +1,16 @@
 {
-"updated": "2026-10-28T06:44:28.279162+01:00",
+"updated": "2026-10-28T06:55:28.280537+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-28T05:17:44.758892+01:00",
 "details": "51e4e36c2ea1",
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAbm0+m0yz/LN7YXyoGpMmIv6AKVe8C",
+"snapshot": "AAAbuYz0O4KVPEFAnPRBkJzqxBUhkIOS",
 "playlist": [
+[
+"2026-10-28T06:39|David Gray|Babylon",
+"spotify:track:0hltBiPrw06vWjtadBn6oe"
+],
 [
 "2026-10-28T06:32|Sassy 009 feat. Blood Orange|Tell Me (Jam City Remix) (Edit)",
 "spotify:track:1pDiRrLro0tlhsPSexB3Zv"
@@ -3698,17 +3702,15 @@
 [
 "2026-10-21T06:56|Mari Froes|Eu vou pro samba, viu?",
 "spotify:track:0ZirVpVEx943xdUD9bivHe"
-],
-[
-"2026-10-21T06:49|The Rolling Stones|Anybody Seen My Baby",
-"spotify:track:4tXr9v3K7nWW1aebWqR1B7"
-],
-[
-"2026-10-21T06:45|Balthazar|Entertainment",
-"spotify:track:5Cf3f73JU5pVcSzoJTLFea"
 ]
 ],
 "entries": [
+{
+"id": "2026-10-28T06:39|David Gray|Babylon",
+"t": "2026-10-28T06:39:00+01:00",
+"artist": "David Gray",
+"title": "Babylon"
+},
 {
 "id": "2026-10-28T06:32|Sassy 009 feat. Blood Orange|Tell Me (Jam City Remix) (Edit)",
 "t": "2026-10-28T06:32:00+01:00",
@@ -9390,18 +9392,6 @@
 "t": "2026-10-21T06:56:00+02:00",
 "artist": "Mari Froes",
 "title": "Eu vou pro samba, viu?"
-},
-{
-"id": "2026-10-21T06:49|The Rolling Stones|Anybody Seen My Baby",
-"t": "2026-10-21T06:49:00+02:00",
-"artist": "The Rolling Stones",
-"title": "Anybody Seen My Baby"
-},
-{
-"id": "2026-10-21T06:45|Balthazar|Entertainment",
-"t": "2026-10-21T06:45:00+02:00",
-"artist": "Balthazar",
-"title": "Entertainment"
 }
 ],
 "cache": {
@@ -9852,14 +9842,6 @@
 "ayele|fractured radio edit": {
 "u": "spotify:track:5EGnOBL2qoUNard3Oaq5Hc",
 "d": "2026-10-21T05:30:06.274195+02:00"
-},
-"balthazar|entertainment": {
-"u": "spotify:track:5Cf3f73JU5pVcSzoJTLFea",
-"d": "2026-10-21T06:51:06.284714+02:00"
-},
-"the rolling stones|anybody seen my baby": {
-"u": "spotify:track:4tXr9v3K7nWW1aebWqR1B7",
-"d": "2026-10-21T06:57:06.285481+02:00"
 },
 "jorja smith|blue lights": {
 "u": "spotify:track:2is3sT9juWji2uUZk63g5E",
