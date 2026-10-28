@@ -1,12 +1,16 @@
 {
-"updated": "2026-10-28T06:33:28.277770+01:00",
+"updated": "2026-10-28T06:44:28.279162+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-28T05:17:44.758892+01:00",
 "details": "51e4e36c2ea1",
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAbfWuvhB9GhkYt6LNn19vwMyEilaP7",
+"snapshot": "AAAbm0+m0yz/LN7YXyoGpMmIv6AKVe8C",
 "playlist": [
+[
+"2026-10-28T06:32|Sassy 009 feat. Blood Orange|Tell Me (Jam City Remix) (Edit)",
+"spotify:track:1pDiRrLro0tlhsPSexB3Zv"
+],
 [
 "2026-10-28T06:25|The Romantics|Talking In Your Sleep",
 "spotify:track:7fRvtXvJMpGfTLdF0M09a1"
@@ -3702,17 +3706,15 @@
 [
 "2026-10-21T06:45|Balthazar|Entertainment",
 "spotify:track:5Cf3f73JU5pVcSzoJTLFea"
-],
-[
-"2026-10-21T06:42|Ibeyi|Hurry Hurry",
-"spotify:track:4BGA7VW330Eu1kaFNi98cG"
-],
-[
-"2026-10-21T06:34|Two Door Cinema Club|Happy Customers",
-"spotify:track:5BQV6zDJ8lRr8nN6lV2WWi"
 ]
 ],
 "entries": [
+{
+"id": "2026-10-28T06:32|Sassy 009 feat. Blood Orange|Tell Me (Jam City Remix) (Edit)",
+"t": "2026-10-28T06:32:00+01:00",
+"artist": "Sassy 009 feat. Blood Orange",
+"title": "Tell Me (Jam City Remix) (Edit)"
+},
 {
 "id": "2026-10-28T06:25|The Romantics|Talking In Your Sleep",
 "t": "2026-10-28T06:25:00+01:00",
@@ -9400,18 +9402,6 @@
 "t": "2026-10-21T06:45:00+02:00",
 "artist": "Balthazar",
 "title": "Entertainment"
-},
-{
-"id": "2026-10-21T06:42|Ibeyi|Hurry Hurry",
-"t": "2026-10-21T06:42:00+02:00",
-"artist": "Ibeyi",
-"title": "Hurry Hurry"
-},
-{
-"id": "2026-10-21T06:34|Two Door Cinema Club|Happy Customers",
-"t": "2026-10-21T06:34:00+02:00",
-"artist": "Two Door Cinema Club",
-"title": "Happy Customers"
 }
 ],
 "cache": {
@@ -9862,10 +9852,6 @@
 "ayele|fractured radio edit": {
 "u": "spotify:track:5EGnOBL2qoUNard3Oaq5Hc",
 "d": "2026-10-21T05:30:06.274195+02:00"
-},
-"two door cinema club|happy customers": {
-"u": "spotify:track:5BQV6zDJ8lRr8nN6lV2WWi",
-"d": "2026-10-21T06:41:06.283463+02:00"
 },
 "balthazar|entertainment": {
 "u": "spotify:track:5Cf3f73JU5pVcSzoJTLFea",
