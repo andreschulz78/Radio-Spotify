@@ -1,5 +1,5 @@
 {
-"updated": "2026-10-28T09:14:28.298655+01:00",
+"updated": "2026-10-28T09:25:28.300236+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
@@ -3705,6 +3705,18 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-10-28T09:16|Isaac Hayes|Theme From Shaft",
+"t": "2026-10-28T09:16:00+01:00",
+"artist": "Isaac Hayes",
+"title": "Theme From Shaft"
+},
+{
+"id": "2026-10-28T09:13|Billie Eilish|Ilomilo",
+"t": "2026-10-28T09:13:00+01:00",
+"artist": "Billie Eilish",
+"title": "Ilomilo"
+},
 {
 "id": "2026-10-28T09:05|Leon Bridges|Light The Way",
 "t": "2026-10-28T09:05:00+01:00",
@@ -9374,24 +9386,6 @@
 "t": "2026-10-21T09:35:00+02:00",
 "artist": "Tame Impala",
 "title": "Elephant"
-},
-{
-"id": "2026-10-21T09:25|The Waterboys|The Whole Of The Moon",
-"t": "2026-10-21T09:25:00+02:00",
-"artist": "The Waterboys",
-"title": "The Whole Of The Moon"
-},
-{
-"id": "2026-10-21T09:19|Friedberg|Goodwife",
-"t": "2026-10-21T09:19:00+02:00",
-"artist": "Friedberg",
-"title": "Goodwife"
-},
-{
-"id": "2026-10-21T09:15|Bulgarian Cartrader|In My Zone (Radio Edit)",
-"t": "2026-10-21T09:15:00+02:00",
-"artist": "Bulgarian Cartrader",
-"title": "In My Zone (Radio Edit)"
 }
 ],
 "cache": {
@@ -9846,10 +9840,6 @@
 "friedberg|goodwife": {
 "u": "spotify:track:1H89j9NLse1E0Kmjb3tzW6",
 "d": "2026-10-21T09:25:14.835282+02:00"
-},
-"the waterboys|the whole of the moon": {
-"u": "spotify:track:5rUWsV9OlutKyq9aXUOYYw",
-"d": "2026-10-21T09:32:14.836024+02:00"
 },
 "tame impala|elephant": {
 "u": "spotify:track:6qZjm61s6u8Ead9sWxCDro",
