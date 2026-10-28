@@ -1,5 +1,5 @@
 {
-"updated": "2026-10-28T11:37:28.317545+01:00",
+"updated": "2026-10-28T11:48:28.319147+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
@@ -3705,6 +3705,18 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-10-28T11:40|Monsterheart|Flowers",
+"t": "2026-10-28T11:40:00+01:00",
+"artist": "Monsterheart",
+"title": "Flowers"
+},
+{
+"id": "2026-10-28T11:36|Curtis Mayfield|Move On Up",
+"t": "2026-10-28T11:36:00+01:00",
+"artist": "Curtis Mayfield",
+"title": "Move On Up"
+},
 {
 "id": "2026-10-28T11:32|Eels|That Look You Give That Guy",
 "t": "2026-10-28T11:32:00+01:00",
@@ -9380,18 +9392,6 @@
 "t": "2026-10-21T11:54:00+02:00",
 "artist": "Big Audio Dynamite",
 "title": "E = MC2"
-},
-{
-"id": "2026-10-21T11:47|Ex:Re|Sleep",
-"t": "2026-10-21T11:47:00+02:00",
-"artist": "Ex:Re",
-"title": "Sleep"
-},
-{
-"id": "2026-10-21T11:41|Underworld feat. Iggy Pop|Get Your Shirt",
-"t": "2026-10-21T11:41:00+02:00",
-"artist": "Underworld feat. Iggy Pop",
-"title": "Get Your Shirt"
 }
 ],
 "cache": {
@@ -9842,10 +9842,6 @@
 "friedberg|goodwife": {
 "u": "spotify:track:1H89j9NLse1E0Kmjb3tzW6",
 "d": "2026-10-21T09:25:14.835282+02:00"
-},
-"underworld feat iggy pop|get your shirt": {
-"u": "spotify:track:7mhsxGnDd4Hjz7g5luuCd8",
-"d": "2026-10-21T11:45:14.852006+02:00"
 },
 "ex re|sleep": {
 "u": "spotify:track:31hSy1c6SWABIV3W1LqjMz",
