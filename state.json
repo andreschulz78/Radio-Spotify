@@ -1,12 +1,20 @@
 {
-"updated": "2026-10-28T06:55:28.280537+01:00",
+"updated": "2026-10-28T07:05:28.281726+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-28T05:17:44.758892+01:00",
 "details": "51e4e36c2ea1",
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAbuYz0O4KVPEFAnPRBkJzqxBUhkIOS",
+"snapshot": "AAAb1/XIFvytx739Bwzrwvwf7jYbtHnQ",
 "playlist": [
+[
+"2026-10-28T06:56|DJ Koze|Spiralen (Radio Edit)",
+"spotify:track:03ra0kWWPT8fW3sy6onMfc"
+],
+[
+"2026-10-28T06:48|Bronski Beat|Smalltown Boy",
+"spotify:track:5vmRQ3zELMLUQPo2FLQ76x"
+],
 [
 "2026-10-28T06:39|David Gray|Babylon",
 "spotify:track:0hltBiPrw06vWjtadBn6oe"
@@ -3694,17 +3702,21 @@
 [
 "2026-10-21T07:11|Black Pumas|Colors",
 "spotify:track:7mzocQrHwKd19aLrjT3isS"
-],
-[
-"2026-10-21T07:05|Jorja Smith|Blue Lights",
-"spotify:track:2is3sT9juWji2uUZk63g5E"
-],
-[
-"2026-10-21T06:56|Mari Froes|Eu vou pro samba, viu?",
-"spotify:track:0ZirVpVEx943xdUD9bivHe"
 ]
 ],
 "entries": [
+{
+"id": "2026-10-28T06:56|DJ Koze|Spiralen (Radio Edit)",
+"t": "2026-10-28T06:56:00+01:00",
+"artist": "DJ Koze",
+"title": "Spiralen (Radio Edit)"
+},
+{
+"id": "2026-10-28T06:48|Bronski Beat|Smalltown Boy",
+"t": "2026-10-28T06:48:00+01:00",
+"artist": "Bronski Beat",
+"title": "Smalltown Boy"
+},
 {
 "id": "2026-10-28T06:39|David Gray|Babylon",
 "t": "2026-10-28T06:39:00+01:00",
@@ -9380,18 +9392,6 @@
 "t": "2026-10-21T07:11:00+02:00",
 "artist": "Black Pumas",
 "title": "Colors"
-},
-{
-"id": "2026-10-21T07:05|Jorja Smith|Blue Lights",
-"t": "2026-10-21T07:05:00+02:00",
-"artist": "Jorja Smith",
-"title": "Blue Lights"
-},
-{
-"id": "2026-10-21T06:56|Mari Froes|Eu vou pro samba, viu?",
-"t": "2026-10-21T06:56:00+02:00",
-"artist": "Mari Froes",
-"title": "Eu vou pro samba, viu?"
 }
 ],
 "cache": {
@@ -9842,10 +9842,6 @@
 "ayele|fractured radio edit": {
 "u": "spotify:track:5EGnOBL2qoUNard3Oaq5Hc",
 "d": "2026-10-21T05:30:06.274195+02:00"
-},
-"jorja smith|blue lights": {
-"u": "spotify:track:2is3sT9juWji2uUZk63g5E",
-"d": "2026-10-21T07:10:06.287192+02:00"
 },
 "black pumas|colors": {
 "u": "spotify:track:7mzocQrHwKd19aLrjT3isS",
@@ -12274,6 +12270,10 @@
 "the romantics|talking in your sleep": {
 "u": "spotify:track:7fRvtXvJMpGfTLdF0M09a1",
 "d": "2026-10-28T06:31:28.277546+01:00"
+},
+"bronski beat|smalltown boy": {
+"u": "spotify:track:5vmRQ3zELMLUQPo2FLQ76x",
+"d": "2026-10-28T06:56:28.280619+01:00"
 }
 }
 }
