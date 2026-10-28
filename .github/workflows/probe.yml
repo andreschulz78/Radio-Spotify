@@ -1,0 +1,21 @@
+name: Test song.link
+
+on:
+  push:
+    branches: [probe]
+    paths: [probe.py, songs.json]
+
+permissions:
+  contents: write
+
+jobs:
+  probe:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    steps:
+      - uses: actions/checkout@v4
+      - run: |
+          python3 -u probe.py
+          git config user.name "radio-bot"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add probe_result.json && git commit -qm "Testergebnis" && git push -q origin HEAD:probe
