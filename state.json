@@ -1,5 +1,5 @@
 {
-"updated": "2026-10-28T14:45:37.871181+01:00",
+"updated": "2026-10-28T14:56:37.872161+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
@@ -3705,6 +3705,18 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-10-28T14:51|Boy Harsher|Tough Luck (When You Don't Call)",
+"t": "2026-10-28T14:51:00+01:00",
+"artist": "Boy Harsher",
+"title": "Tough Luck (When You Don't Call)"
+},
+{
+"id": "2026-10-28T14:48|Jake Bugg|Lightning Bolt",
+"t": "2026-10-28T14:48:00+01:00",
+"artist": "Jake Bugg",
+"title": "Lightning Bolt"
+},
 {
 "id": "2026-10-28T14:37|Jake Bugg|Never Can Tell",
 "t": "2026-10-28T14:37:00+01:00",
@@ -9380,18 +9392,6 @@
 "t": "2026-10-21T15:05:00+02:00",
 "artist": "The Drums feat. Mareux",
 "title": "It Didn't Matter"
-},
-{
-"id": "2026-10-21T14:56|Sam Ragga Band feat. Jan Delay|Die Welt steht still",
-"t": "2026-10-21T14:56:00+02:00",
-"artist": "Sam Ragga Band feat. Jan Delay",
-"title": "Die Welt steht still"
-},
-{
-"id": "2026-10-21T14:51|Natalie Jane Hill|Never Left Me",
-"t": "2026-10-21T14:51:00+02:00",
-"artist": "Natalie Jane Hill",
-"title": "Never Left Me"
 }
 ],
 "cache": {
@@ -10021,10 +10021,6 @@
 },
 "tessa rose jackson|built to collide": {
 "u": "spotify:track:69saRCWp2ov8jBLOprFAfE",
-"d": "2026-10-22T05:27:38.818212+02:00"
-},
-"sam ragga band feat jan delay|die welt steht still": {
-"u": "spotify:track:4tfP0R0NoKh0jeSzBIHZ7d",
 "d": "2026-10-22T05:27:38.818212+02:00"
 },
 "alice gift|trance park": {
