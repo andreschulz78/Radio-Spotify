@@ -1,5 +1,5 @@
 {
-"updated": "2026-10-28T18:18:46.179830+01:00",
+"updated": "2026-10-28T18:30:46.180203+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
@@ -3710,6 +3710,18 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-10-28T18:23|Kaktus Einarsson feat. John Grant|Follow",
+"t": "2026-10-28T18:23:00+01:00",
+"artist": "Kaktus Einarsson feat. John Grant",
+"title": "Follow"
+},
+{
+"id": "2026-10-28T18:19|Automatic|Black Box",
+"t": "2026-10-28T18:19:00+01:00",
+"artist": "Automatic",
+"title": "Black Box"
+},
 {
 "id": "2026-10-28T18:10|UCHE YARA|Hello Hello",
 "t": "2026-10-28T18:10:00+01:00",
@@ -9379,18 +9391,6 @@
 "t": "2026-10-21T18:34:00+02:00",
 "artist": "Paul Kalkbrenner",
 "title": "Graf Zahl (Edit)"
-},
-{
-"id": "2026-10-21T18:24|Moonlight Breakfast|If Not Now, Then When?!",
-"t": "2026-10-21T18:24:00+02:00",
-"artist": "Moonlight Breakfast",
-"title": "If Not Now, Then When?!"
-},
-{
-"id": "2026-10-21T18:20|Jools Holland feat. Jamiroquai|I'm In The Mood For Love",
-"t": "2026-10-21T18:20:00+02:00",
-"artist": "Jools Holland feat. Jamiroquai",
-"title": "I'm In The Mood For Love"
 }
 ]
 }
