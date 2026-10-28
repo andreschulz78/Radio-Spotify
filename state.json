@@ -1,5 +1,5 @@
 {
-"updated": "2026-10-28T15:51:37.877708+01:00",
+"updated": "2026-10-28T16:02:37.878740+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
@@ -3705,6 +3705,12 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-10-28T15:52|Ibeyi|Hurry Hurry",
+"t": "2026-10-28T15:52:00+01:00",
+"artist": "Ibeyi",
+"title": "Hurry Hurry"
+},
 {
 "id": "2026-10-28T15:45|M.I.A.|Borders",
 "t": "2026-10-28T15:45:00+01:00",
@@ -9380,18 +9386,6 @@
 "t": "2026-10-21T16:05:00+02:00",
 "artist": "The War On Drugs",
 "title": "Red Eyes"
-},
-{
-"id": "2026-10-21T15:57|Blonde Redhead|Sit Down For Dinner, Pt. 2",
-"t": "2026-10-21T15:57:00+02:00",
-"artist": "Blonde Redhead",
-"title": "Sit Down For Dinner, Pt. 2"
-},
-{
-"id": "2026-10-21T15:53|Matilda Mann|Just Because",
-"t": "2026-10-21T15:53:00+02:00",
-"artist": "Matilda Mann",
-"title": "Just Because"
 }
 ],
 "cache": {
@@ -9994,14 +9988,6 @@
 "the war on drugs|red eyes": {
 "u": "spotify:track:3ZATMtNpzBKCLwE07hwgPc",
 "d": "2026-10-22T05:24:38.817957+02:00"
-},
-"blonde redhead|sit down for dinner pt 2": {
-"u": "spotify:track:1bCvD5l00vOU2Bk1uXtCms",
-"d": "2026-10-22T05:25:38.818041+02:00"
-},
-"matilda mann|just because": {
-"u": "spotify:track:6h6WgFMpWYbqekmeaXuaRl",
-"d": "2026-10-22T05:25:38.818041+02:00"
 },
 "tessa rose jackson|built to collide": {
 "u": "spotify:track:69saRCWp2ov8jBLOprFAfE",
