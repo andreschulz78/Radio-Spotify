@@ -1,5 +1,5 @@
 {
-"updated": "2026-10-28T17:30:37.887438+01:00",
+"updated": "2026-10-28T17:41:37.888454+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
@@ -3705,6 +3705,24 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-10-28T17:36|Frazey Ford|Done",
+"t": "2026-10-28T17:36:00+01:00",
+"artist": "Frazey Ford",
+"title": "Done"
+},
+{
+"id": "2026-10-28T17:33|Grace Jones|La Vie En Rose",
+"t": "2026-10-28T17:33:00+01:00",
+"artist": "Grace Jones",
+"title": "La Vie En Rose"
+},
+{
+"id": "2026-10-28T17:24|Leon Bridges|Talk it over",
+"t": "2026-10-28T17:24:00+01:00",
+"artist": "Leon Bridges",
+"title": "Talk it over"
+},
 {
 "id": "2026-10-28T17:18|Sam Burton|I'm A Stranger",
 "t": "2026-10-28T17:18:00+01:00",
@@ -9374,18 +9392,6 @@
 "t": "2026-10-21T17:45:00+02:00",
 "artist": "Deki Alem",
 "title": "Mr Man"
-},
-{
-"id": "2026-10-21T17:37|Groove Armada|Just For Tonight",
-"t": "2026-10-21T17:37:00+02:00",
-"artist": "Groove Armada",
-"title": "Just For Tonight"
-},
-{
-"id": "2026-10-21T17:33|Boy Harsher|Tough Luck (When You Don't Call)",
-"t": "2026-10-21T17:33:00+02:00",
-"artist": "Boy Harsher",
-"title": "Tough Luck (When You Don't Call)"
 }
 ],
 "cache": {
@@ -9940,10 +9946,6 @@
 "deki alem|mr man": {
 "u": "spotify:track:37zztHh0JkdPuOYGzkLYKo",
 "d": "2026-10-22T05:20:38.817613+02:00"
-},
-"groove armada|just for tonight": {
-"u": "spotify:track:3P884E08aroqcUBo3SpcFX",
-"d": "2026-10-22T05:21:38.817706+02:00"
 },
 "andy shauf|halloween store": {
 "u": "spotify:track:3oWGBitSdsizfiIlCfwUqV",
