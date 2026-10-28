@@ -1,5 +1,5 @@
 {
-"updated": "2026-10-28T09:03:28.297127+01:00",
+"updated": "2026-10-28T09:14:28.298655+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
@@ -3705,6 +3705,12 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-10-28T09:05|Leon Bridges|Light The Way",
+"t": "2026-10-28T09:05:00+01:00",
+"artist": "Leon Bridges",
+"title": "Light The Way"
+},
 {
 "id": "2026-10-28T08:56|Jonathan Jeremiah|Youngblood",
 "t": "2026-10-28T08:56:00+01:00",
@@ -9386,12 +9392,6 @@
 "t": "2026-10-21T09:15:00+02:00",
 "artist": "Bulgarian Cartrader",
 "title": "In My Zone (Radio Edit)"
-},
-{
-"id": "2026-10-21T09:07|Maribou State feat. Khruangbin|Feel Good",
-"t": "2026-10-21T09:07:00+02:00",
-"artist": "Maribou State feat. Khruangbin",
-"title": "Feel Good"
 }
 ],
 "cache": {
@@ -9842,10 +9842,6 @@
 "ayele|fractured radio edit": {
 "u": "spotify:track:5EGnOBL2qoUNard3Oaq5Hc",
 "d": "2026-10-21T05:30:06.274195+02:00"
-},
-"maribou state feat khruangbin|feel good": {
-"u": "spotify:track:5EhyJGUafXNnPniaIQnSER",
-"d": "2026-10-21T09:11:14.833601+02:00"
 },
 "friedberg|goodwife": {
 "u": "spotify:track:1H89j9NLse1E0Kmjb3tzW6",
