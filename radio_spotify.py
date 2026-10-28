@@ -5,7 +5,7 @@ Umgebungsvariablen: RADIO_URL (Basis-URL des Senders), RADIO_TITLE_PREFIX (optio
                     Rubrik vor dem Titel), RADIO_PLAYLIST_NAME/_DESC (optional), SPOTIFY_CLIENT_ID, SPOTIFY_CLIENT_SECRET, SPOTIFY_REFRESH_TOKEN, SPOTIFY_PLAYLIST_ID
 Aufruf:  python3 radio_spotify.py            # synchronisieren
          python3 radio_spotify.py --dry-run  # nur Radio-Playlist auslesen, nichts an Spotify senden
-         python3 radio_spotify.py --loop 340 # Dauerlauf: 340 Min. lang jede Minute
+         python3 radio_spotify.py --loop 340 # Dauerlauf: 340 Min. lang alle 4 Minuten
          … --reset                           # vorher Playlist leeren, Stand löschen
 """
 import base64
@@ -32,7 +32,7 @@ BASE = os.environ.get("RADIO_URL", "").rstrip("/")   # bewusst nicht im Repo
 WINDOW = timedelta(days=7)
 MAX_LOOKUPS = 3            # neue Titel pro Durchlauf (je 1–2 Spotify-Anfragen; zu viele -> 24 h Sperre)
 RETRY_NOT_FOUND = timedelta(days=3)
-SYNC_EVERY = timedelta(minutes=15)   # Playlist nur alle 15 Min. abgleichen (Spotify-Tageskontingent)
+SYNC_EVERY = timedelta(minutes=4)    # Playlist höchstens alle 4 Min. abgleichen (Spotify-Tageskontingent)
 PRUNE_HOUR = 4                       # einmal täglich ab 4 Uhr: Neuaufbau, entfernt Titel älter als 7 Tage
 MATCHER = 4               # erhöhen, wenn find_uri geändert wird -> Cache verwerfen (Titel in der Playlist bleiben)
 FRESH_START = datetime(2026, 10, 15, 12, 35, tzinfo=ZoneInfo("Europe/Berlin"))   # einmalig: Playlist leeren, nur noch Neues
@@ -277,9 +277,9 @@ def find_uri(sp, artist, title):
 
 def sync_playlist(sp, pid, old, desired, old_snapshot):
     """Bringt die Playlist von `old` auf `desired` (Listen aus [id, uri], neueste zuerst)."""
-    cur = sp.call("GET", f"/playlists/{pid}", {"fields": "snapshot_id"})["snapshot_id"]
-    if old is None or cur != old_snapshot:
-        return rebuild(sp, pid, desired, "Playlist weicht vom gespeicherten Stand ab")
+    if old is None or not old_snapshot:
+        return rebuild(sp, pid, desired, "Stand in Spotify unbekannt")
+    cur = old_snapshot   # keine Kontrollabfrage (Kontingent); Handänderungen behebt der tägliche Neuaufbau
 
     keep = {tuple(x) for x in desired}
     gone_uris = {u for i, u in old if (i, u) not in keep}
@@ -449,8 +449,8 @@ def write_status(status):
     STATUS_FILE.write_text(json.dumps(status, ensure_ascii=False, indent=1) + "\n")
 
 
-def loop(minutes, every=60, commit_every=600):
-    """Dauerlauf: jede Minute synchronisieren, Stand alle 10 Min. sichern."""
+def loop(minutes, every=240, commit_every=600):
+    """Dauerlauf: alle 4 Min. synchronisieren, Stand alle 10 Min. sichern."""
     sp = Spotify()
     status = {"job_start": datetime.now(TZ).isoformat(timespec="seconds"), "last_ok": None,
               "errors_in_row": 0, "last_error": None, "last_error_at": None}

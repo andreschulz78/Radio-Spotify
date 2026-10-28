@@ -1,6 +1,6 @@
 name: Radio → Spotify
 
-# Dauerlauf: ein Job synchronisiert ~5 h 40 min lang jede Minute.
+# Dauerlauf: ein Job synchronisiert ~5 h 40 min lang alle 4 Minuten.
 # Der Zeitplan stellt alle 30 Min. einen Nachfolger in die Warteschlange (concurrency),
 # der direkt nach Ende des laufenden Jobs startet.
 on:
