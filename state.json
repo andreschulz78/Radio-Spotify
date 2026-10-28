@@ -1,12 +1,20 @@
 {
-"updated": "2026-10-28T06:22:28.276417+01:00",
+"updated": "2026-10-28T06:33:28.277770+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-28T05:17:44.758892+01:00",
 "details": "51e4e36c2ea1",
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAbVVzl+aSUIRWDthGJePVCsmvVmGiX",
+"snapshot": "AAAbfWuvhB9GhkYt6LNn19vwMyEilaP7",
 "playlist": [
+[
+"2026-10-28T06:25|The Romantics|Talking In Your Sleep",
+"spotify:track:7fRvtXvJMpGfTLdF0M09a1"
+],
+[
+"2026-10-28T06:21|Bleachers|Blood Brothers",
+"spotify:track:7aMdmpShbYFRbdJigosY7C"
+],
 [
 "2026-10-28T06:11|Peter, Björn & John feat. Victoria|Young Folks",
 "spotify:track:4dyx5SzxPPaD8xQIid5Wjj"
@@ -3702,17 +3710,21 @@
 [
 "2026-10-21T06:34|Two Door Cinema Club|Happy Customers",
 "spotify:track:5BQV6zDJ8lRr8nN6lV2WWi"
-],
-[
-"2026-10-21T06:28|Wallners|Ships",
-"spotify:track:2epKivPKVeRUsP7TZczwpz"
-],
-[
-"2026-10-21T06:25|Yazmin Lacey|Summer Haze",
-"spotify:track:465QjZo1z1JAuLTTC7DnuK"
 ]
 ],
 "entries": [
+{
+"id": "2026-10-28T06:25|The Romantics|Talking In Your Sleep",
+"t": "2026-10-28T06:25:00+01:00",
+"artist": "The Romantics",
+"title": "Talking In Your Sleep"
+},
+{
+"id": "2026-10-28T06:21|Bleachers|Blood Brothers",
+"t": "2026-10-28T06:21:00+01:00",
+"artist": "Bleachers",
+"title": "Blood Brothers"
+},
 {
 "id": "2026-10-28T06:16|Jessie Ware|110%",
 "t": "2026-10-28T06:16:00+01:00",
@@ -9400,18 +9412,6 @@
 "t": "2026-10-21T06:34:00+02:00",
 "artist": "Two Door Cinema Club",
 "title": "Happy Customers"
-},
-{
-"id": "2026-10-21T06:28|Wallners|Ships",
-"t": "2026-10-21T06:28:00+02:00",
-"artist": "Wallners",
-"title": "Ships"
-},
-{
-"id": "2026-10-21T06:25|Yazmin Lacey|Summer Haze",
-"t": "2026-10-21T06:25:00+02:00",
-"artist": "Yazmin Lacey",
-"title": "Summer Haze"
 }
 ],
 "cache": {
@@ -9862,10 +9862,6 @@
 "ayele|fractured radio edit": {
 "u": "spotify:track:5EGnOBL2qoUNard3Oaq5Hc",
 "d": "2026-10-21T05:30:06.274195+02:00"
-},
-"wallners|ships": {
-"u": "spotify:track:2epKivPKVeRUsP7TZczwpz",
-"d": "2026-10-21T06:35:06.282693+02:00"
 },
 "two door cinema club|happy customers": {
 "u": "spotify:track:5BQV6zDJ8lRr8nN6lV2WWi",
@@ -12306,6 +12302,10 @@
 "jessie ware|110": {
 "u": null,
 "d": "2026-10-28T06:21:18.154678+01:00"
+},
+"the romantics|talking in your sleep": {
+"u": "spotify:track:7fRvtXvJMpGfTLdF0M09a1",
+"d": "2026-10-28T06:31:28.277546+01:00"
 }
 }
 }
