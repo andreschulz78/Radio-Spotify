@@ -1,12 +1,20 @@
 {
-"updated": "2026-10-28T07:26:28.284376+01:00",
+"updated": "2026-10-28T07:37:28.285704+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-28T05:17:44.758892+01:00",
 "details": "51e4e36c2ea1",
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAcCaoozZb1FFAuh6rGs59gpsyzDZgC",
+"snapshot": "AAAcJ1nFgQVVfnH986F40KCwoQ+qaOls",
 "playlist": [
+[
+"2026-10-28T07:33|The Avalanches feat. Karen O|Blue Shadows",
+"spotify:track:5bN5To0VLbNBKQDzJ1Lk6c"
+],
+[
+"2026-10-28T07:25|Jungle|The Wave",
+"spotify:track:6Ln44Up5lBxNgCsaLoXY6W"
+],
 [
 "2026-10-28T07:17|Wallners|Movie Stars",
 "spotify:track:7xesRbRs3O1MLOgWqMSN7a"
@@ -3694,13 +3702,21 @@
 [
 "2026-10-21T07:42|Django Django|Cameos",
 "spotify:track:6q1og9CkTnFTTYqOSN9ed3"
-],
-[
-"2026-10-21T07:35|MGMT|Little Dark Age",
-"spotify:track:2Y0iGXY6m6immVb2ktbseM"
 ]
 ],
 "entries": [
+{
+"id": "2026-10-28T07:33|The Avalanches feat. Karen O|Blue Shadows",
+"t": "2026-10-28T07:33:00+01:00",
+"artist": "The Avalanches feat. Karen O",
+"title": "Blue Shadows"
+},
+{
+"id": "2026-10-28T07:25|Jungle|The Wave",
+"t": "2026-10-28T07:25:00+01:00",
+"artist": "Jungle",
+"title": "The Wave"
+},
 {
 "id": "2026-10-28T07:17|Wallners|Movie Stars",
 "t": "2026-10-28T07:17:00+01:00",
@@ -9376,12 +9392,6 @@
 "t": "2026-10-21T07:42:00+02:00",
 "artist": "Django Django",
 "title": "Cameos"
-},
-{
-"id": "2026-10-21T07:35|MGMT|Little Dark Age",
-"t": "2026-10-21T07:35:00+02:00",
-"artist": "MGMT",
-"title": "Little Dark Age"
 }
 ],
 "cache": {
@@ -9832,10 +9842,6 @@
 "ayele|fractured radio edit": {
 "u": "spotify:track:5EGnOBL2qoUNard3Oaq5Hc",
 "d": "2026-10-21T05:30:06.274195+02:00"
-},
-"mgmt|little dark age": {
-"u": "spotify:track:2Y0iGXY6m6immVb2ktbseM",
-"d": "2026-10-21T07:41:06.291303+02:00"
 },
 "jacob bellens|back to you": {
 "u": "spotify:track:4dUPPS5jkY5pKZGYALd4oB",
