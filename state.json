@@ -1,12 +1,20 @@
 {
-"updated": "2026-10-28T05:35:18.148502+01:00",
+"updated": "2026-10-28T05:46:18.149882+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-28T05:17:44.758892+01:00",
 "details": "51e4e36c2ea1",
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAazvHgdA5c1tEaxR94Ec7O5NfOs297",
+"snapshot": "AAAa/XyK/6XLqpDZXiJcVgu0Zx3XSfoP",
 "playlist": [
+[
+"2026-10-28T05:39|Planningtorock feat. Romy|The One",
+"spotify:track:5MkC4l5EgOeLTd0CNb7IJz"
+],
+[
+"2026-10-28T05:35|Étienne Daho|Des attractions désastre",
+"spotify:track:26OB7Wz0T7vbYZDQHiRvAG"
+],
 [
 "2026-10-28T05:31|Bonaparte|KiOSKO",
 "spotify:track:5seYGZRYuD3oPMxryJdvOk"
@@ -396,6 +404,18 @@
 "spotify:track:3M9TxdnduVdqxf3D7kTcX5"
 ],
 [
+"2026-10-27T11:47|Der Assistent|Schwalben",
+"spotify:track:01j7Yk6YjAqOle4est95cO"
+],
+[
+"2026-10-27T11:44|Jonathan Personne|Un Homme Sans Visage",
+"spotify:track:253vvuEJZapMUdRgVCDI8v"
+],
+[
+"2026-10-27T11:36|Trolle Siebenhaar|Sweet Dogs",
+"spotify:track:4XxwHj2DLru9qVxaZqeGhA"
+],
+[
 "2026-10-27T11:33|Kaktus Einarsson feat. John Grant|Follow",
 "spotify:track:0bbPqdrMN94XmIlBQS21B3"
 ],
@@ -408,6 +428,18 @@
 "spotify:track:70QaE9UJ2uTVwC4IGS6yvU"
 ],
 [
+"2026-10-27T11:21|Marlon Magnee|La fureur d'Annie",
+"spotify:track:1inQ3cOt2oyXPOLqZHacuv"
+],
+[
+"2026-10-27T11:18|Jill Scott|Golden",
+"spotify:track:28EL5veTZtx38TqxIZwFyQ"
+],
+[
+"2026-10-27T11:08|Compuphonic|Metropolis",
+"spotify:track:7x1ImHNHZq22LRlcGXGCjy"
+],
+[
 "2026-10-27T11:06|Hannah Jadagu|My Love",
 "spotify:track:4XM4c3zMS0orMhblnrZwnS"
 ],
@@ -416,8 +448,24 @@
 "spotify:track:5udQbIlHLaD6QRDJmv0bjX"
 ],
 [
+"2026-10-27T10:50|Sonny & Cher|I Got You Babe",
+"spotify:track:4SGBuq37Ol4HJr7pQqFMKa"
+],
+[
 "2026-10-27T10:47|SOFY|50/50",
 "spotify:track:16QLv8xt9nPNBZCBDm3Gkv"
+],
+[
+"2026-10-27T10:34|Anika|Change",
+"spotify:track:6fatA2qBOZAOQ2fhLLHIlh"
+],
+[
+"2026-10-27T10:31|Caribou|Got To Change",
+"spotify:track:5oV0DfWqOf8hn40u37hepA"
+],
+[
+"2026-10-27T10:26|The Last Shadow Puppets|Meeting Place",
+"spotify:track:0RwXCC1iiZEfoKCtuGhrHS"
 ],
 [
 "2026-10-27T10:23|CECI feat. Lords of Lounge|Honey Honey",
@@ -432,8 +480,28 @@
 "spotify:track:0ZUKth5xg7UM6Q73YhDq2w"
 ],
 [
+"2026-10-27T10:04|Luis Laserpower|Mond",
+"spotify:track:4Glvbkjd7mkzUYRcVoFHrK"
+],
+[
+"2026-10-27T09:54|Patti Smith|People Have The Power",
+"spotify:track:4GbnjrrobeVLCl1FQ5C0OY"
+],
+[
+"2026-10-27T09:46|Mykki Blanco|Free Ride",
+"spotify:track:4L67ZFASgypD9BTlb7VRpv"
+],
+[
 "2026-10-27T09:42|Lola Young|From Down Here (Radio Edit)",
 "spotify:track:7Hg7l5aOygIHuaNDVFp3ox"
+],
+[
+"2026-10-27T09:24|Arcade Fire|Reflektor",
+"spotify:track:7uMZy0bALAdneerERyr7Ks"
+],
+[
+"2026-10-27T09:19|Sydney Minsky Sargeant|I Don't Wanna",
+"spotify:track:4hHizy49Hzl7QfP3mGVJOY"
 ],
 [
 "2026-10-27T09:12|Lady Wray|You're Gonna Win",
@@ -446,6 +514,10 @@
 [
 "2026-10-27T08:57|Jorja Smith|Don't Leave",
 "spotify:track:44kUOVs16iRf11YjO7aaRW"
+],
+[
+"2026-10-27T08:49|Suede|The Wild Ones",
+"spotify:track:10hLkl5k0NjO7QAJvoVzIy"
 ],
 [
 "2026-10-27T08:43|Nôze|Danse Avec Moi",
@@ -3638,17 +3710,21 @@
 [
 "2026-10-21T05:51|Meshell Ndegeocello feat. Cat Power|Don’t You Want Me",
 "spotify:track:5sbCqST9M4Q1sRSJM6L6oT"
-],
-[
-"2026-10-21T05:44|Tristan Brusch|Vierzehn",
-"spotify:track:6bauquMrawP7ZfZ6qsmOtr"
-],
-[
-"2026-10-21T05:38|Pearl Jam|Even flow",
-"spotify:track:6QewNVIDKdSl8Y3ycuHIei"
 ]
 ],
 "entries": [
+{
+"id": "2026-10-28T05:39|Planningtorock feat. Romy|The One",
+"t": "2026-10-28T05:39:00+01:00",
+"artist": "Planningtorock feat. Romy",
+"title": "The One"
+},
+{
+"id": "2026-10-28T05:35|Étienne Daho|Des attractions désastre",
+"t": "2026-10-28T05:35:00+01:00",
+"artist": "Étienne Daho",
+"title": "Des attractions désastre"
+},
 {
 "id": "2026-10-28T05:31|Bonaparte|KiOSKO",
 "t": "2026-10-28T05:31:00+01:00",
@@ -9330,18 +9406,6 @@
 "t": "2026-10-21T05:51:00+02:00",
 "artist": "Meshell Ndegeocello feat. Cat Power",
 "title": "Don’t You Want Me"
-},
-{
-"id": "2026-10-21T05:44|Tristan Brusch|Vierzehn",
-"t": "2026-10-21T05:44:00+02:00",
-"artist": "Tristan Brusch",
-"title": "Vierzehn"
-},
-{
-"id": "2026-10-21T05:38|Pearl Jam|Even flow",
-"t": "2026-10-21T05:38:00+02:00",
-"artist": "Pearl Jam",
-"title": "Even flow"
 }
 ],
 "cache": {
@@ -9793,14 +9857,6 @@
 "u": "spotify:track:5EGnOBL2qoUNard3Oaq5Hc",
 "d": "2026-10-21T05:30:06.274195+02:00"
 },
-"pearl jam|even flow": {
-"u": "spotify:track:6QewNVIDKdSl8Y3ycuHIei",
-"d": "2026-10-21T05:45:06.276099+02:00"
-},
-"tristan brusch|vierzehn": {
-"u": "spotify:track:6bauquMrawP7ZfZ6qsmOtr",
-"d": "2026-10-21T05:51:06.276878+02:00"
-},
 "falco|junge romer": {
 "u": "spotify:track:537AwtXFJ2xunz35pLKugs",
 "d": "2026-10-21T06:15:06.279971+02:00"
@@ -10107,7 +10163,7 @@
 },
 "les reines prochaines|opfer dieses liedes wicked game": {
 "u": null,
-"d": "2026-10-25T05:27:25.476902+01:00"
+"d": "2026-10-28T05:42:18.149346+01:00"
 },
 "no doubt|don t speak": {
 "u": "spotify:track:6urCAbunOQI4bLhmGpX7iS",
@@ -10207,7 +10263,7 @@
 },
 "white rabbits|percussion gun": {
 "u": null,
-"d": "2026-10-25T05:26:25.476782+01:00"
+"d": "2026-10-28T05:42:18.149346+01:00"
 },
 "john butler trio|trees": {
 "u": "spotify:track:4WZZEBb61OhPsgyKQZlmaC",
@@ -12160,6 +12216,82 @@
 "sting|rushing water radio edit": {
 "u": "spotify:track:3M9TxdnduVdqxf3D7kTcX5",
 "d": "2026-10-28T05:35:18.148502+01:00"
+},
+"der assistent|schwalben": {
+"u": "spotify:track:01j7Yk6YjAqOle4est95cO",
+"d": "2026-10-28T05:36:18.148628+01:00"
+},
+"jonathan personne|un homme sans visage": {
+"u": "spotify:track:253vvuEJZapMUdRgVCDI8v",
+"d": "2026-10-28T05:36:18.148628+01:00"
+},
+"trolle siebenhaar|sweet dogs": {
+"u": "spotify:track:4XxwHj2DLru9qVxaZqeGhA",
+"d": "2026-10-28T05:36:18.148628+01:00"
+},
+"marlon magnee|la fureur d annie": {
+"u": "spotify:track:1inQ3cOt2oyXPOLqZHacuv",
+"d": "2026-10-28T05:37:18.148716+01:00"
+},
+"jill scott|golden": {
+"u": "spotify:track:28EL5veTZtx38TqxIZwFyQ",
+"d": "2026-10-28T05:37:18.148716+01:00"
+},
+"compuphonic|metropolis": {
+"u": "spotify:track:7x1ImHNHZq22LRlcGXGCjy",
+"d": "2026-10-28T05:37:18.148716+01:00"
+},
+"sonny cher|i got you babe": {
+"u": "spotify:track:4SGBuq37Ol4HJr7pQqFMKa",
+"d": "2026-10-28T05:38:18.148836+01:00"
+},
+"anika|change": {
+"u": "spotify:track:6fatA2qBOZAOQ2fhLLHIlh",
+"d": "2026-10-28T05:38:18.148836+01:00"
+},
+"caribou|got to change": {
+"u": "spotify:track:5oV0DfWqOf8hn40u37hepA",
+"d": "2026-10-28T05:38:18.148836+01:00"
+},
+"the last shadow puppets|meeting place": {
+"u": "spotify:track:0RwXCC1iiZEfoKCtuGhrHS",
+"d": "2026-10-28T05:39:18.148962+01:00"
+},
+"luis laserpower|mond": {
+"u": "spotify:track:4Glvbkjd7mkzUYRcVoFHrK",
+"d": "2026-10-28T05:39:18.148962+01:00"
+},
+"patti smith|people have the power": {
+"u": "spotify:track:4GbnjrrobeVLCl1FQ5C0OY",
+"d": "2026-10-28T05:39:18.148962+01:00"
+},
+"etienne daho|des attractions desastre": {
+"u": "spotify:track:26OB7Wz0T7vbYZDQHiRvAG",
+"d": "2026-10-28T05:40:18.149106+01:00"
+},
+"mykki blanco|free ride": {
+"u": "spotify:track:4L67ZFASgypD9BTlb7VRpv",
+"d": "2026-10-28T05:40:18.149106+01:00"
+},
+"money mark|hand in your head": {
+"u": null,
+"d": "2026-10-28T05:40:18.149106+01:00"
+},
+"arcade fire|reflektor": {
+"u": "spotify:track:7uMZy0bALAdneerERyr7Ks",
+"d": "2026-10-28T05:41:18.149217+01:00"
+},
+"sydney minsky sargeant|i don t wanna": {
+"u": "spotify:track:4hHizy49Hzl7QfP3mGVJOY",
+"d": "2026-10-28T05:41:18.149217+01:00"
+},
+"suede|the wild ones": {
+"u": "spotify:track:10hLkl5k0NjO7QAJvoVzIy",
+"d": "2026-10-28T05:41:18.149217+01:00"
+},
+"planningtorock feat romy|the one": {
+"u": "spotify:track:5MkC4l5EgOeLTd0CNb7IJz",
+"d": "2026-10-28T05:45:18.149754+01:00"
 }
 }
 }
