@@ -1,0 +1,888 @@
+[
+ {
+  "artist": "Chet Faker",
+  "title": "Over You (Radio Edit)",
+  "current": "spotify:track:036QOmnlr52hgeH1WmQ5OB",
+  "deezer_candidates": 1,
+  "deezer": {
+   "id": 3875813061,
+   "album": "A Love For Strangers",
+   "type": "album",
+   "date": "2026-02-13",
+   "isrc": "AUOXM2500161"
+  },
+  "songlink_s": 31.4,
+  "songlink": {
+   "spotify": null,
+   "error": "<HTTPError 401: 'Unauthorized'>"
+  },
+  "current_page": {
+   "title": "Over You",
+   "desc": "Chet Faker · Over You · Song · 2026"
+  }
+ },
+ {
+  "artist": "54 Ultra",
+  "title": "Tell Me",
+  "current": "spotify:track:6iXIvHGsLMJ89TuW1S9E3C",
+  "deezer_candidates": 1,
+  "deezer": {
+   "id": 4168253862,
+   "album": "Tell Me",
+   "type": "single",
+   "date": "2026-07-27",
+   "isrc": "USUG12606971"
+  },
+  "songlink_s": 31.7,
+  "songlink": {
+   "spotify": null,
+   "error": "<HTTPError 401: 'Unauthorized'>"
+  },
+  "current_page": {
+   "title": "Tell Me",
+   "desc": "54 Ultra · Tell Me · Song · 2026"
+  }
+ },
+ {
+  "artist": "Edwyn Collins",
+  "title": "A Girl Like You",
+  "current": "spotify:track:0MteK167vtyb6hoJNC3Uz3",
+  "deezer_candidates": 1,
+  "deezer": {
+   "id": 14282849,
+   "album": "Gorgeous George",
+   "type": "album",
+   "date": "2011-10-19",
+   "isrc": "GB72T1100001"
+  },
+  "songlink_s": 30.7,
+  "songlink": {
+   "spotify": null,
+   "error": "<HTTPError 401: 'Unauthorized'>"
+  },
+  "current_page": {
+   "title": "A Girl Like You",
+   "desc": "Edwyn Collins · Gorgeous George · Song · 2011"
+  }
+ },
+ {
+  "artist": "Madison Cunningham",
+  "title": "Golden Gate (On And On)",
+  "current": "spotify:track:4yjzFXK39hPQvF8kgeZ3C7",
+  "deezer_candidates": 1,
+  "deezer": {
+   "id": 3584515921,
+   "album": "Ace",
+   "type": "album",
+   "date": "2025-10-10",
+   "isrc": "USUM72508149"
+  },
+  "songlink_s": 31.3,
+  "songlink": {
+   "spotify": null,
+   "error": "<HTTPError 401: 'Unauthorized'>"
+  },
+  "current_page": {
+   "title": "Golden Gate (On And On)",
+   "desc": "Madison Cunningham · Ace · Song · 2025"
+  }
+ },
+ {
+  "artist": "The Asteroids Galaxy Tour",
+  "title": "The Sun Ain't Shining No More",
+  "current": "spotify:track:6ZEVMb0NsZX2ubSVwYYczv",
+  "deezer_candidates": 4,
+  "deezer": {
+   "id": 106938478,
+   "album": "Around the Bend",
+   "type": "ep",
+   "date": "2008-11-03",
+   "isrc": "GBWRR0800015"
+  },
+  "songlink_s": 30.3,
+  "songlink": {
+   "spotify": null,
+   "error": "<HTTPError 401: 'Unauthorized'>"
+  },
+  "current_page": {
+   "title": "The Sun Ain't Shining No More",
+   "desc": "The Asteroids Galaxy Tour · The Sun Ain't Shining No More · Song · 2009"
+  }
+ },
+ {
+  "artist": "Yard Act",
+  "title": "You're Gonna Need A Little Music",
+  "current": "spotify:track:43KS2LpjMVkvJdprLaoQxQ",
+  "deezer_candidates": 1,
+  "deezer": {
+   "id": 4144817312,
+   "album": "You're Gonna Need A Little Music",
+   "type": "album",
+   "date": "2026-07-17",
+   "isrc": "GBUM72602008"
+  },
+  "songlink_s": 30.4,
+  "songlink": {
+   "spotify": null,
+   "error": "<HTTPError 401: 'Unauthorized'>"
+  },
+  "current_page": {
+   "title": "You're Gonna Need A Little Music",
+   "desc": "Yard Act · You're Gonna Need A Little Music · Song · 2026"
+  }
+ },
+ {
+  "artist": "Gossip",
+  "title": "Heavy Cross",
+  "current": "spotify:track:6QMmQtdSoMA2EnU8WfyZR0",
+  "deezer_candidates": 1,
+  "deezer": {
+   "id": 3731377,
+   "album": "Heavy Cross",
+   "type": "single",
+   "date": "2009-06-08",
+   "isrc": "USSM10903089"
+  },
+  "songlink_s": 31.0,
+  "songlink": {
+   "spotify": null,
+   "error": "<HTTPError 401: 'Unauthorized'>"
+  },
+  "current_page": {
+   "title": "Heavy Cross (Fred Falke Remix)",
+   "desc": "Gossip, Fred Falke · Heavy Cross · Song · 2009"
+  }
+ },
+ {
+  "artist": "Beck",
+  "title": "Loser",
+  "current": "spotify:track:1sSGeqRSi9FODicdyOllbM",
+  "deezer_candidates": 2,
+  "deezer": {
+   "id": 422033092,
+   "album": "Mellow Gold",
+   "type": "album",
+   "date": "2004-08-10",
+   "isrc": "USGF19463401"
+  },
+  "songlink_s": 31.3,
+  "songlink": {
+   "spotify": null,
+   "error": "<HTTPError 401: 'Unauthorized'>"
+  },
+  "current_page": {
+   "title": "Loser",
+   "desc": "Beck · Loser · Song · 1993"
+  }
+ },
+ {
+  "artist": "Princess Chelsea",
+  "title": "Love Is More",
+  "current": "spotify:track:2a0SCFj0jawy90EKzYpuYX",
+  "deezer_candidates": 1,
+  "deezer": {
+   "id": 1809959187,
+   "album": "Everything Is Going To Be Alright",
+   "type": "album",
+   "date": "2022-10-07",
+   "isrc": "NZLC02200004"
+  },
+  "songlink_s": 30.8,
+  "songlink": {
+   "spotify": null,
+   "error": "<HTTPError 401: 'Unauthorized'>"
+  },
+  "current_page": {
+   "title": "Love Is More",
+   "desc": "Princess Chelsea · Everything Is Going To Be Alright · Song · 2022"
+  }
+ },
+ {
+  "artist": "The La's",
+  "title": "There She Goes",
+  "current": "spotify:track:0D3Th2YU14U737O0nSHXT8",
+  "deezer_candidates": 12,
+  "deezer": {
+   "id": 13086272,
+   "album": "International Raya Fan Club",
+   "type": "album",
+   "date": "1981-05-20",
+   "isrc": "GBHCD1156804"
+  },
+  "songlink_s": 31.4,
+  "songlink": {
+   "spotify": null,
+   "error": "<HTTPError 401: 'Unauthorized'>"
+  },
+  "current_page": {
+   "title": "There She Goes",
+   "desc": "The La's · The La's · Song · 1990"
+  }
+ },
+ {
+  "artist": "Yusuf",
+  "title": "Türkisch Mann",
+  "current": "spotify:track:62GWC1nCyjVX5zRMtWwcAs",
+  "deezer_candidates": 2,
+  "deezer": {
+   "id": 1060091592,
+   "album": "Türkisch Mann / Blondes Haar (Single Version)",
+   "type": "single",
+   "date": "2020-08-03",
+   "isrc": "DELJ82053997"
+  },
+  "songlink_s": 30.6,
+  "songlink": {
+   "spotify": null,
+   "error": "<HTTPError 401: 'Unauthorized'>"
+  },
+  "current_page": {
+   "title": "Türkisch Mann - Single Version",
+   "desc": "Yusuf · Türkisch Mann / Blondes Haar · Song · 1977"
+  }
+ },
+ {
+  "artist": "The Avalanches feat. Karen O",
+  "title": "Blue Shadows",
+  "current": "spotify:track:5bN5To0VLbNBKQDzJ1Lk6c",
+  "deezer_candidates": 1,
+  "deezer": {
+   "id": 4236728092,
+   "album": "No Bad Memories",
+   "type": "album",
+   "date": "2026-10-16",
+   "isrc": "AUUM72600248"
+  },
+  "songlink_s": 30.5,
+  "songlink": {
+   "spotify": null,
+   "error": "<HTTPError 401: 'Unauthorized'>"
+  },
+  "current_page": {
+   "title": "Blue Shadows (feat. Karen O)",
+   "desc": "The Avalanches, Karen O · Blue Shadows (feat. Karen O) · Song · 2026"
+  }
+ },
+ {
+  "artist": "Jungle",
+  "title": "The Wave",
+  "current": "spotify:track:6Ln44Up5lBxNgCsaLoXY6W",
+  "deezer_candidates": 2,
+  "deezer": {
+   "id": 1680600757,
+   "album": "Ephemeral Feast",
+   "type": "album",
+   "date": "2022-05-20",
+   "isrc": "BEAZ72200028"
+  },
+  "songlink_s": 30.7,
+  "songlink": {
+   "spotify": null,
+   "error": "<HTTPError 401: 'Unauthorized'>"
+  },
+  "current_page": {
+   "title": "The Wave",
+   "desc": "Jungle · The Wave · Song · 2026"
+  }
+ },
+ {
+  "artist": "Wallners",
+  "title": "Movie Stars",
+  "current": "spotify:track:7xesRbRs3O1MLOgWqMSN7a",
+  "deezer_candidates": 1,
+  "deezer": {
+   "id": 4296166722,
+   "album": "Movie Stars",
+   "type": "single",
+   "date": "2026-10-16",
+   "isrc": "QMFME2626739"
+  },
+  "songlink_s": 30.8,
+  "songlink": {
+   "spotify": null,
+   "error": "<HTTPError 401: 'Unauthorized'>"
+  },
+  "current_page": {
+   "title": "Movie Stars",
+   "desc": "Wallners · Movie Stars · Song · 2026"
+  }
+ },
+ {
+  "artist": "Lola Young",
+  "title": "From Down Here (Radio Edit)",
+  "current": "spotify:track:7Hg7l5aOygIHuaNDVFp3ox",
+  "deezer_candidates": 1,
+  "deezer": {
+   "id": 4022864201,
+   "album": "From Down Here",
+   "type": "single",
+   "date": "2026-05-22",
+   "isrc": "GBUM72602726"
+  },
+  "songlink_s": 30.4,
+  "songlink": {
+   "spotify": null,
+   "error": "<HTTPError 401: 'Unauthorized'>"
+  },
+  "current_page": {
+   "title": "From Down Here",
+   "desc": "Lola Young · From Down Here · Song · 2026"
+  }
+ },
+ {
+  "artist": "Tele",
+  "title": "Im Radio",
+  "current": "spotify:track:67tkWhkzDUNm7ocpJTmIWA",
+  "deezer_candidates": 1,
+  "deezer": {
+   "id": 3368142981,
+   "album": "Jedes Tier",
+   "type": "album",
+   "date": "2024-11-29",
+   "isrc": "DEU160801516"
+  },
+  "songlink_s": 31.8,
+  "songlink": {
+   "spotify": null,
+   "error": "<HTTPError 401: 'Unauthorized'>"
+  },
+  "current_page": {
+   "title": "Im Radio",
+   "desc": "Tele · Jedes Tier · Song · 2009"
+  }
+ },
+ {
+  "artist": "DJ Koze",
+  "title": "Spiralen (Radio Edit)",
+  "current": "spotify:track:03ra0kWWPT8fW3sy6onMfc",
+  "deezer_candidates": 1,
+  "deezer": {
+   "id": 3931173901,
+   "album": "Spiralen",
+   "type": "single",
+   "date": "2026-05-22",
+   "isrc": "FR59R2642234"
+  },
+  "songlink_s": 31.0,
+  "songlink": {
+   "spotify": null,
+   "error": "<HTTPError 401: 'Unauthorized'>"
+  },
+  "current_page": {
+   "title": "Spiralen",
+   "desc": "DJ Koze · Spiralen · Song · 2026"
+  }
+ },
+ {
+  "artist": "Bronski Beat",
+  "title": "Smalltown Boy",
+  "current": "spotify:track:5vmRQ3zELMLUQPo2FLQ76x",
+  "deezer_candidates": 14,
+  "deezer": {
+   "id": 428690122,
+   "album": "The Age of Consent",
+   "type": "album",
+   "date": "1984-10-15",
+   "isrc": "GBAAP0200005"
+  },
+  "songlink_s": 30.9,
+  "songlink": {
+   "spotify": null,
+   "error": "<HTTPError 401: 'Unauthorized'>"
+  },
+  "current_page": {
+   "title": "Smalltown Boy",
+   "desc": "Bronski Beat · The Age of Consent · Song · 1984"
+  }
+ },
+ {
+  "artist": "David Gray",
+  "title": "Babylon",
+  "current": "spotify:track:0hltBiPrw06vWjtadBn6oe",
+  "deezer_candidates": 5,
+  "deezer": {
+   "id": 2732684261,
+   "album": "White Ladder (2020 Remaster)",
+   "type": "album",
+   "date": "1998-11-27",
+   "isrc": "GBDLY1900014"
+  },
+  "songlink_s": 30.6,
+  "songlink": {
+   "spotify": null,
+   "error": "<HTTPError 401: 'Unauthorized'>"
+  },
+  "current_page": {
+   "title": "Babylon",
+   "desc": "David Gray · White Ladder (2020 Remaster) · Song · 1998"
+  }
+ },
+ {
+  "artist": "Sassy 009 feat. Blood Orange",
+  "title": "Tell Me (Jam City Remix) (Edit)",
+  "current": "spotify:track:1pDiRrLro0tlhsPSexB3Zv",
+  "deezer_candidates": 5,
+  "deezer": {
+   "id": 417602442,
+   "album": "Do you mind EP",
+   "type": "ep",
+   "date": "2017-11-03",
+   "isrc": "NOLFT1703030"
+  },
+  "songlink_s": 31.0,
+  "songlink": {
+   "spotify": null,
+   "error": "<HTTPError 401: 'Unauthorized'>"
+  },
+  "current_page": {
+   "title": "Tell Me",
+   "desc": "Sassy 009, Blood Orange · Tell Me · Song · 2025"
+  }
+ },
+ {
+  "artist": "The Romantics",
+  "title": "Talking In Your Sleep",
+  "current": "spotify:track:7fRvtXvJMpGfTLdF0M09a1",
+  "deezer_candidates": 2,
+  "deezer": {
+   "id": 1030263,
+   "album": "Super Hits",
+   "type": "album",
+   "date": "1997-01-27",
+   "isrc": "USSM18300249"
+  },
+  "songlink_s": 30.7,
+  "songlink": {
+   "spotify": null,
+   "error": "<HTTPError 401: 'Unauthorized'>"
+  },
+  "current_page": {
+   "title": "Talking In Your Sleep (2023 Remaster)",
+   "desc": "The Romantics · In Heat (2023 Remaster) · Song · 1983"
+  }
+ },
+ {
+  "artist": "Bleachers",
+  "title": "Blood Brothers",
+  "current": "spotify:track:7aMdmpShbYFRbdJigosY7C",
+  "deezer_candidates": 1,
+  "deezer": {
+   "id": 4299237772,
+   "album": "Blood Brothers",
+   "type": "single",
+   "date": "2026-10-14",
+   "isrc": "GBK3W2503723"
+  },
+  "songlink_s": 30.5,
+  "songlink": {
+   "spotify": null,
+   "error": "<HTTPError 401: 'Unauthorized'>"
+  },
+  "current_page": {
+   "title": "Blood Brothers",
+   "desc": "Bleachers · Blood Brothers · Song · 2026"
+  }
+ },
+ {
+  "artist": "Peter, Björn & John feat. Victoria",
+  "title": "Young Folks",
+  "current": "spotify:track:4dyx5SzxPPaD8xQIid5Wjj",
+  "deezer_candidates": 2,
+  "deezer": {
+   "id": 4194903,
+   "album": "Writer's Block",
+   "type": "album",
+   "date": "2006-01-01",
+   "isrc": "SEBPA0600024"
+  },
+  "songlink_s": 30.5,
+  "songlink": {
+   "spotify": null,
+   "error": "<HTTPError 401: 'Unauthorized'>"
+  },
+  "current_page": {
+   "title": "Young Folks",
+   "desc": "Peter Bjorn and John · Writer's Block · Song · 2006"
+  }
+ },
+ {
+  "artist": "Emma Louise",
+  "title": "Jungle",
+  "current": "spotify:track:54zwuYIW4H4HuHGdI2jxUC",
+  "deezer_candidates": 2,
+  "deezer": {
+   "id": 1895079227,
+   "album": "Jungle",
+   "type": "single",
+   "date": "2014-09-17",
+   "isrc": "AUM221100014"
+  },
+  "songlink_s": 31.1,
+  "songlink": {
+   "spotify": null,
+   "error": "<HTTPError 401: 'Unauthorized'>"
+  },
+  "current_page": {
+   "title": "Jungle",
+   "desc": "Emma Louise · Full Hearts and Empty Rooms · Song · 2011"
+  }
+ },
+ {
+  "artist": "Interpol",
+  "title": "Iron City",
+  "current": "spotify:track:7o9gwmscHBXh6sUEYkWQ4e",
+  "deezer_candidates": 1,
+  "deezer": {
+   "id": 4017099401,
+   "album": "This Mirror Weighs a Ton",
+   "type": "album",
+   "date": "2026-08-28",
+   "isrc": "USBQU2600033"
+  },
+  "songlink_s": 30.8,
+  "songlink": {
+   "spotify": null,
+   "error": "<HTTPError 401: 'Unauthorized'>"
+  },
+  "current_page": {
+   "title": "Iron City",
+   "desc": "Interpol · Iron City · Song · 2026"
+  }
+ },
+ {
+  "artist": "The Big Moon",
+  "title": "F.O.R.E.V.E.R",
+  "current": "spotify:track:0UaPOdi1O83vr1oTXaGqgx",
+  "deezer_candidates": 1,
+  "deezer": {
+   "id": 4126066891,
+   "album": "F.O.R.E.V.E.R",
+   "type": "ep",
+   "date": "2026-10-02",
+   "isrc": "USA2P2629363"
+  },
+  "songlink_s": 30.6,
+  "songlink": {
+   "spotify": null,
+   "error": "<HTTPError 401: 'Unauthorized'>"
+  },
+  "current_page": {
+   "title": "F.O.R.E.V.E.R",
+   "desc": "The Big Moon · F.O.R.E.V.E.R · Song · 2026"
+  }
+ },
+ {
+  "artist": "Anna F.",
+  "title": "Friedberg",
+  "current": "spotify:track:1wQK2qxr1DLZRwhCVj0e2V",
+  "deezer_candidates": 1,
+  "deezer": {
+   "id": 74897374,
+   "album": "King In The Mirror",
+   "type": "album",
+   "date": "2014-01-01",
+   "isrc": "ATWD21300015"
+  },
+  "songlink_s": 30.9,
+  "songlink": {
+   "spotify": null,
+   "error": "<HTTPError 401: 'Unauthorized'>"
+  },
+  "current_page": {
+   "title": "Friedberg",
+   "desc": "Anna F. · King In The Mirror · Song · 2014"
+  }
+ },
+ {
+  "artist": "Planningtorock feat. Romy",
+  "title": "The One",
+  "current": "spotify:track:5MkC4l5EgOeLTd0CNb7IJz",
+  "deezer_candidates": 3,
+  "deezer": {
+   "id": 1200612892,
+   "album": "W",
+   "type": "album",
+   "date": "2011-05-24",
+   "isrc": "US4GE1100015"
+  },
+  "songlink_s": 30.5,
+  "songlink": {
+   "spotify": null,
+   "error": "<HTTPError 401: 'Unauthorized'>"
+  },
+  "current_page": {
+   "title": "The One - Luca Perry Remix",
+   "desc": "Planningtorock, Luca Perry, Romy · The One (Luca Perry Remix) · Song · 2026"
+  }
+ },
+ {
+  "artist": "Étienne Daho",
+  "title": "Des attractions désastre",
+  "current": "spotify:track:26OB7Wz0T7vbYZDQHiRvAG",
+  "deezer_candidates": 8,
+  "deezer": {
+   "id": 775756732,
+   "album": "Paris ailleurs (2016 Remaster)",
+   "type": "album",
+   "date": "1991-12-06",
+   "isrc": "FRZ111500159"
+  },
+  "songlink_s": 30.7,
+  "songlink": {
+   "spotify": null,
+   "error": "<HTTPError 401: 'Unauthorized'>"
+  },
+  "current_page": {
+   "title": "Des attractions désastre - Live à l'Accor Arena, Paris - 22 décembre 2023",
+   "desc": "Étienne Daho · Etienne Live · Song · 2024"
+  }
+ },
+ {
+  "artist": "Bonaparte",
+  "title": "KiOSKO",
+  "current": "spotify:track:5seYGZRYuD3oPMxryJdvOk",
+  "deezer_candidates": 1,
+  "deezer": {
+   "id": 4208109172,
+   "album": "PARADISE IF YOU CAN STAND IT",
+   "type": "album",
+   "date": "2026-10-23",
+   "isrc": "FRX452645628"
+  },
+  "songlink_s": 30.5,
+  "songlink": {
+   "spotify": null,
+   "error": "<HTTPError 401: 'Unauthorized'>"
+  },
+  "current_page": {
+   "title": "KiOSKO",
+   "desc": "Bonaparte · KiOSKO · Song · 2026"
+  }
+ },
+ {
+  "artist": "Get Well Soon",
+  "title": "One For The Workout (Radio Edit)",
+  "current": "spotify:track:75hl31r8NOhWe5CKsiEsce",
+  "deezer_candidates": 1,
+  "deezer": {
+   "id": 1637422352,
+   "album": "One For Your Workout",
+   "type": "single",
+   "date": "2022-02-04",
+   "isrc": "GB2DY2100921"
+  },
+  "songlink_s": 30.9,
+  "songlink": {
+   "spotify": null,
+   "error": "<HTTPError 401: 'Unauthorized'>"
+  },
+  "current_page": {
+   "title": "One For Your Workout",
+   "desc": "Get Well Soon · One For Your Workout · Song · 2022"
+  }
+ },
+ {
+  "artist": "Nouvelle Vague",
+  "title": "Making Plans For Nigel",
+  "current": "spotify:track:1wLGaZpnYpcFggvtmCPWUh",
+  "deezer_candidates": 2,
+  "deezer": {
+   "id": 2336461665,
+   "album": "Nouvelle vague",
+   "type": "album",
+   "date": "2004-05-11",
+   "isrc": "GBEWK0400026"
+  },
+  "songlink_s": 30.9,
+  "songlink": {
+   "spotify": null,
+   "error": "<HTTPError 401: 'Unauthorized'>"
+  },
+  "current_page": {
+   "title": "Making Plans for Nigel",
+   "desc": "Nouvelle Vague, Camille · Nouvelle vague · Song · 2004"
+  }
+ },
+ {
+  "artist": "Kenny Dope feat. Róisín Murphy",
+  "title": "Born Under Punches (The Heat Goes On)",
+  "current": "spotify:track:2aXGl7VqgjULmAxJldWnNd",
+  "deezer_candidates": 3,
+  "deezer": {
+   "id": 3496397591,
+   "album": "Born Under Punches (The Heat Goes On)",
+   "type": "single",
+   "date": "2025-08-26",
+   "isrc": "GBEQT2500192"
+  },
+  "songlink_s": 31.0,
+  "songlink": {
+   "spotify": null,
+   "error": "<HTTPError 401: 'Unauthorized'>"
+  },
+  "current_page": {
+   "title": "Born Under Punches (The Heat Goes On) - Extended Version",
+   "desc": "Kenny Dope, Róisín Murphy · Born Under Punches (The Heat Goes On) · Song · 2025"
+  }
+ },
+ {
+  "artist": "Dekker",
+  "title": "Pick It Up, Put It Back",
+  "current": "spotify:track:0LhuToBNSlvYc4IwVJpYWH",
+  "deezer_candidates": 1,
+  "deezer": {
+   "id": 4273189352,
+   "album": "Pick It Up, Put It Back",
+   "type": "single",
+   "date": "2026-10-09",
+   "isrc": "DEAH12600071"
+  },
+  "songlink_s": 30.7,
+  "songlink": {
+   "spotify": null,
+   "error": "<HTTPError 401: 'Unauthorized'>"
+  },
+  "current_page": {
+   "title": "Pick It Up, Put It Back",
+   "desc": "Dekker · Pick It Up, Put It Back · Song · 2026"
+  }
+ },
+ {
+  "artist": "Sixpence None The Richer",
+  "title": "Kiss Me",
+  "current": "spotify:track:754kgU5rWscRTfvlsuEwFp",
+  "deezer_candidates": 5,
+  "deezer": {
+   "id": 134116940,
+   "album": "Sixpence None The Richer",
+   "type": "album",
+   "date": "1998-01-20",
+   "isrc": "USEE19900312"
+  },
+  "songlink_s": 30.7,
+  "songlink": {
+   "spotify": null,
+   "error": "<HTTPError 401: 'Unauthorized'>"
+  },
+  "current_page": {
+   "title": "Kiss Me",
+   "desc": "Sixpence None The Richer · Sixpence None The Richer · Song · 1997"
+  }
+ },
+ {
+  "artist": "The Hempolics",
+  "title": "Get It Right",
+  "current": "spotify:track:5x1jCXkUFQsWiZ0VNRih3E",
+  "deezer_candidates": 2,
+  "deezer": {
+   "id": 795573362,
+   "album": "Kiss, Cuddle & Torture Volume 2",
+   "type": "album",
+   "date": "2020-04-03",
+   "isrc": "UKSZ91900010"
+  },
+  "songlink_s": 32.6,
+  "songlink": {
+   "spotify": null,
+   "error": "<HTTPError 401: 'Unauthorized'>"
+  },
+  "current_page": {
+   "title": "Get It Right",
+   "desc": "The Hempolics · Get It Right · Song · 2020"
+  }
+ },
+ {
+  "artist": "Moscoman feat. Tom Sanders",
+  "title": "What Do We Care",
+  "current": "spotify:track:2AeJDk8SG8OmffAO7YkdDm",
+  "deezer_candidates": 4,
+  "deezer": {
+   "id": 2450379325,
+   "album": "Time Slips Away",
+   "type": "album",
+   "date": "2020-06-19",
+   "isrc": "GBGEY2000013"
+  },
+  "songlink_s": 30.5,
+  "songlink": {
+   "spotify": null,
+   "error": "<HTTPError 401: 'Unauthorized'>"
+  },
+  "current_page": {
+   "title": "What Do We Care",
+   "desc": "Moscoman, Tom Sanders (Teleman) · What Do We Care · Song · 2020"
+  }
+ },
+ {
+  "artist": "Unkle feat. Liela Moss",
+  "title": "Sunrise Always Comes Around",
+  "current": "spotify:track:1yomzXTz340doVll0UE5NC",
+  "deezer_candidates": 5,
+  "deezer": {
+   "id": 486329042,
+   "album": "Unkle: Live On The Road Koko",
+   "type": "album",
+   "date": "2018-05-04",
+   "isrc": "QMDA71880699"
+  },
+  "songlink_s": 30.5,
+  "songlink": {
+   "spotify": null,
+   "error": "<HTTPError 401: 'Unauthorized'>"
+  },
+  "current_page": {
+   "title": "Sunrise (Always Comes Around)",
+   "desc": "UNKLE · Unkle: Live On The Road Koko · Song · 2018"
+  }
+ },
+ {
+  "artist": "Friedberg",
+  "title": "Goodwife",
+  "current": "spotify:track:1H89j9NLse1E0Kmjb3tzW6",
+  "deezer_candidates": 1,
+  "deezer": {
+   "id": 4271837422,
+   "album": "Goodwife",
+   "type": "single",
+   "date": "2026-10-09",
+   "isrc": "DELK22600115"
+  },
+  "songlink_s": 30.7,
+  "songlink": {
+   "spotify": null,
+   "error": "<HTTPError 401: 'Unauthorized'>"
+  },
+  "current_page": {
+   "title": "Goodwife",
+   "desc": "Friedberg · Goodwife · Song · 2026"
+  }
+ },
+ {
+  "artist": "Jim James",
+  "title": "Come Again",
+  "current": "spotify:track:6S3Ao3HkuLpHffHWL8oRsz",
+  "deezer_candidates": 0,
+  "current_page": {
+   "title": "Come Again",
+   "desc": "Jim James · Wowed Out · Song · 2026"
+  }
+ },
+ {
+  "artist": "Red Hot Chili Peppers",
+  "title": "Californication (Edit)",
+  "current": null,
+  "deezer_candidates": 1,
+  "deezer": {
+   "id": 725274,
+   "album": "Californication (Deluxe Edition)",
+   "type": "album",
+   "date": "1999-06-07",
+   "isrc": "USWB19900690"
+  },
+  "songlink_s": 30.6,
+  "songlink": {
+   "spotify": null,
+   "error": "<HTTPError 401: 'Unauthorized'>"
+  }
+ }
+]
