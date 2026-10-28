@@ -1,12 +1,20 @@
 {
-"updated": "2026-10-28T08:10:28.289946+01:00",
+"updated": "2026-10-28T08:20:28.291166+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-28T05:17:44.758892+01:00",
 "details": "51e4e36c2ea1",
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAceKbkfVyMb0IBYzJg+t718bm26Ve9",
+"snapshot": "AAAcoJusQesFQCZX5NgbRnnYBIbzyXYP",
 "playlist": [
+[
+"2026-10-28T08:13|Yard Act|You're Gonna Need A Little Music",
+"spotify:track:43KS2LpjMVkvJdprLaoQxQ"
+],
+[
+"2026-10-28T08:04|Gossip|Heavy Cross",
+"spotify:track:6QMmQtdSoMA2EnU8WfyZR0"
+],
 [
 "2026-10-28T07:55|Beck|Loser",
 "spotify:track:1sSGeqRSi9FODicdyOllbM"
@@ -3690,17 +3698,21 @@
 [
 "2026-10-21T08:33|Black Marble|Jim Carol New Year",
 "spotify:track:3UhXNJjt6Y0sNCEwwhoJnT"
-],
-[
-"2026-10-21T08:17|Sade|Nothing Can Come Between Us",
-"spotify:track:2OtKvk9zsA9hbRJKMiyy3b"
-],
-[
-"2026-10-21T08:14|Tank And The Bangas|Ain’t That Deep",
-"spotify:track:0PokJfPldX6FgGR7covt03"
 ]
 ],
 "entries": [
+{
+"id": "2026-10-28T08:13|Yard Act|You're Gonna Need A Little Music",
+"t": "2026-10-28T08:13:00+01:00",
+"artist": "Yard Act",
+"title": "You're Gonna Need A Little Music"
+},
+{
+"id": "2026-10-28T08:04|Gossip|Heavy Cross",
+"t": "2026-10-28T08:04:00+01:00",
+"artist": "Gossip",
+"title": "Heavy Cross"
+},
 {
 "id": "2026-10-28T07:55|Beck|Loser",
 "t": "2026-10-28T07:55:00+01:00",
@@ -9370,18 +9382,6 @@
 "t": "2026-10-21T08:24:00+02:00",
 "artist": "FredAtlast",
 "title": "One Day (Radio Edit)"
-},
-{
-"id": "2026-10-21T08:17|Sade|Nothing Can Come Between Us",
-"t": "2026-10-21T08:17:00+02:00",
-"artist": "Sade",
-"title": "Nothing Can Come Between Us"
-},
-{
-"id": "2026-10-21T08:14|Tank And The Bangas|Ain’t That Deep",
-"t": "2026-10-21T08:14:00+02:00",
-"artist": "Tank And The Bangas",
-"title": "Ain’t That Deep"
 }
 ],
 "cache": {
@@ -9832,10 +9832,6 @@
 "ayele|fractured radio edit": {
 "u": "spotify:track:5EGnOBL2qoUNard3Oaq5Hc",
 "d": "2026-10-21T05:30:06.274195+02:00"
-},
-"sade|nothing can come between us": {
-"u": "spotify:track:2OtKvk9zsA9hbRJKMiyy3b",
-"d": "2026-10-21T08:25:06.297340+02:00"
 },
 "fredatlast|one day radio edit": {
 "u": null,
@@ -12260,6 +12256,10 @@
 "beck|loser": {
 "u": "spotify:track:1sSGeqRSi9FODicdyOllbM",
 "d": "2026-10-28T08:00:28.288528+01:00"
+},
+"gossip|heavy cross": {
+"u": "spotify:track:6QMmQtdSoMA2EnU8WfyZR0",
+"d": "2026-10-28T08:11:28.290069+01:00"
 }
 }
 }
