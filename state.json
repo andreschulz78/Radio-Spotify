@@ -1,18 +1,30 @@
 {
-"updated": "2026-10-29T17:47:19.015056+01:00",
+"updated": "2026-10-29T17:59:19.015414+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
-"synced": "2026-10-29T17:35:19.014687+01:00",
+"synced": "2026-10-29T17:51:19.015188+01:00",
 "pruned": "2026-10-29",
 "calls": {
 "2026-10-28": 21,
-"2026-10-29": 252
+"2026-10-29": 257
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAdWbxoS+HYmK4zVTzhxpjMALVXaccI",
+"snapshot": "AAAdXKMS6Zx/EgQLZs+Yl7uBaM5wiCoc",
 "playlist": [
+[
+"2026-10-29T17:46|Sergio Torales feat. Der Assistent|Veo",
+"spotify:track:6k1tMxv0y7hJJsQMMfnE6p"
+],
+[
+"2026-10-29T17:36|Allen Alexis|Secrets Of Love",
+"spotify:track:6E7tyukJeMoEZrpz7BCqNf"
+],
+[
+"2026-10-29T17:34|Gena feat. Liv.e, Karriem Riggins|Circlesz",
+"spotify:track:5jFt1do9B6cGoM0vhErWHO"
+],
 [
 "2026-10-29T17:27|Devendra Banhart|16th & Valencia Roxy Music",
 "spotify:track:6b6qt7rMWSBpoTABd6t9nB"
@@ -3650,10 +3662,6 @@
 "spotify:track:2gEXAZEFJ9Wf1tGJIyGBdT"
 ],
 [
-"2026-10-22T17:51|Yazmin Lacey|Summer Haze",
-"spotify:track:465QjZo1z1JAuLTTC7DnuK"
-],
-[
 "2026-10-22T17:46|Aaron Neville|Be Your Man",
 "spotify:track:5BHFBe3Glad2H6HIaq7xud"
 ],
@@ -4127,6 +4135,18 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-10-29T17:50|Danger Dan|Das ist alles von der Kunstfreiheit gedeckt",
+"t": "2026-10-29T17:50:00+01:00",
+"artist": "Danger Dan",
+"title": "Das ist alles von der Kunstfreiheit gedeckt"
+},
+{
+"id": "2026-10-29T17:46|Sergio Torales feat. Der Assistent|Veo",
+"t": "2026-10-29T17:46:00+01:00",
+"artist": "Sergio Torales feat. Der Assistent",
+"title": "Veo"
+},
 {
 "id": "2026-10-29T17:36|Allen Alexis|Secrets Of Love",
 "t": "2026-10-29T17:36:00+01:00",
@@ -9748,18 +9768,6 @@
 "t": "2026-10-22T18:06:00+02:00",
 "artist": "The Wholls",
 "title": "X21"
-},
-{
-"id": "2026-10-22T17:57|Rodriguez Jr. & Stereo MC's|Turn The Light On",
-"t": "2026-10-22T17:57:00+02:00",
-"artist": "Rodriguez Jr. & Stereo MC's",
-"title": "Turn The Light On"
-},
-{
-"id": "2026-10-22T17:51|Yazmin Lacey|Summer Haze",
-"t": "2026-10-22T17:51:00+02:00",
-"artist": "Yazmin Lacey",
-"title": "Summer Haze"
 }
 ]
 }
