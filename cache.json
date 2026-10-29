@@ -211,6 +211,10 @@
 "u": "spotify:track:678wI419HyRL4qSTbXdyLu",
 "d": "2026-10-29T00:02:55.368937+01:00"
 },
+"automatic|black box": {
+"u": "spotify:track:49nKBvOh2pk3U8Va9fJlU8",
+"d": "2026-10-29T05:31:04.317273+01:00"
+},
 "automatic|mercury": {
 "u": "spotify:track:0koaXm11b7sizUYJ67ebyn",
 "d": "2026-10-29T00:02:55.368937+01:00"
@@ -291,6 +295,10 @@
 "u": "spotify:track:2gDk1kZgffAesU0pGIInaG",
 "d": "2026-10-29T00:02:55.368937+01:00"
 },
+"belle sebastian|we were beautiful": {
+"u": "spotify:track:3F361WUtUwN7ZX8DlpK4Lz",
+"d": "2026-10-29T05:35:04.317380+01:00"
+},
 "ben lee|catch my disease": {
 "u": "spotify:track:18qiraxE3JznGhJyx5J28Y",
 "d": "2026-10-29T00:02:55.368937+01:00"
@@ -342,6 +350,10 @@
 "bilderbuch|maschin": {
 "u": "spotify:track:2Lg1njXKvhgv72U9QkrwXi",
 "d": "2026-10-29T00:02:55.368937+01:00"
+},
+"bilderbuch|nahuel huapi": {
+"u": "spotify:track:1s4MvxbKrFZ5po6g2ig9w2",
+"d": "2026-10-29T05:31:04.317273+01:00"
 },
 "bilderbuch|willkommen im dschungel": {
 "u": "spotify:track:7s0xV4DZ7g4y3kd0FtSfIz",
@@ -493,7 +505,7 @@
 },
 "chinese man|wolf": {
 "u": "spotify:track:6HtAJ6LeLVlDNmARFV5nqR",
-"d": "2026-10-28T17:42:46.178880+01:00"
+"d": "2026-10-29T05:31:04.317273+01:00"
 },
 "christine and the queens|5 dollars": {
 "u": "spotify:track:5KO53tfiVN6daF4w6twc63",
@@ -874,6 +886,10 @@
 "fontaines d c|tongue": {
 "u": "spotify:track:1XzQ57ONjIpRYB878VuGnF",
 "d": "2026-10-29T00:02:55.368937+01:00"
+},
+"frazey ford|done": {
+"u": "spotify:track:0SBgqjWlmhPfz5HTl9yHp3",
+"d": "2026-10-29T05:39:04.317506+01:00"
 },
 "freedom fry|she fell in love on the dance floor": {
 "u": "spotify:track:22uuH9uHRSdS2y2zvS5uEt",
@@ -1443,6 +1459,10 @@
 "u": "spotify:track:1ECugAb7Pg6UDA501YYgH9",
 "d": "2026-10-29T00:02:55.368937+01:00"
 },
+"lina maly moritz kramer|ade": {
+"u": "spotify:track:3E97feDILNLoSgGMy3nKTO",
+"d": "2026-10-29T05:35:04.317380+01:00"
+},
 "linka moja|men r dogs": {
 "u": "spotify:track:7AgfOLYDB7GrgIWg60PBw7",
 "d": "2026-10-29T00:02:55.368937+01:00"
@@ -1715,6 +1735,10 @@
 "u": "spotify:track:1C0Lpji3kKe7rZie1LC4bx",
 "d": "2026-10-29T00:02:55.368937+01:00"
 },
+"nick mulvey|brother to you": {
+"u": "spotify:track:0u9keTpHsXa73izEri7AJV",
+"d": "2026-10-29T05:39:04.317506+01:00"
+},
 "nightbus|angles mortz": {
 "u": "spotify:track:5XvRng3X26Q3oGMEoFKsWo",
 "d": "2026-10-29T00:02:55.368937+01:00"
@@ -1810,6 +1834,10 @@
 "passion mango|bloody eyes": {
 "u": "spotify:track:4YUBcBSUIXfCNNFAaWQcyG",
 "d": "2026-10-29T00:02:55.368937+01:00"
+},
+"patti smith|april fool": {
+"u": "spotify:track:7b9FS2uvbKobrnM2RyJDsB",
+"d": "2026-10-29T05:39:04.317506+01:00"
 },
 "patti smith|people have the power": {
 "u": "spotify:track:4GbnjrrobeVLCl1FQ5C0OY",
@@ -1982,6 +2010,10 @@
 "ray lozano|late night": {
 "u": "spotify:track:23i10hKRFFtyNN801D2AYz",
 "d": "2026-10-29T00:02:55.368937+01:00"
+},
+"raye|worth it radio edit": {
+"u": "spotify:track:7JgNAnCjJvL8hBR1kmCOFF",
+"d": "2026-10-29T05:31:04.317273+01:00"
 },
 "remy shand|take a message": {
 "u": "spotify:track:0hJPZ0v8QxRwGIKiMGKE1G",
@@ -2618,6 +2650,10 @@
 "white lies|am i really going to die edit": {
 "u": "spotify:track:0nhDAyyzpyDLdk531WAAs9",
 "d": "2026-10-29T00:02:55.368937+01:00"
+},
+"white lies|bigger than us": {
+"u": "spotify:track:16qk14k2wCyCWggv6kRATF",
+"d": "2026-10-29T05:35:04.317380+01:00"
 },
 "who made who|keep me in my plane": {
 "u": "spotify:track:4WISOdcFGnwP0skIKPD1nf",
