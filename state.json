@@ -1,18 +1,34 @@
 {
-"updated": "2026-10-29T11:19:11.973404+01:00",
+"updated": "2026-10-29T11:31:11.973692+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
-"synced": "2026-10-29T11:11:11.973144+01:00",
+"synced": "2026-10-29T11:27:11.973601+01:00",
 "pruned": "2026-10-29",
 "calls": {
 "2026-10-28": 21,
-"2026-10-29": 172
+"2026-10-29": 174
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAdOaO2e04YMvIQ0++iePyQlxob7ai2",
+"snapshot": "AAAdOkJtH1c1NFvfmsXalGx9yqxUOyaB",
 "playlist": [
+[
+"2026-10-29T11:23|Kelis|Trick Me",
+"spotify:track:2Kj2g7YOfd7XsmAlwk0X1B"
+],
+[
+"2026-10-29T11:19|Leon Bridges|Talk it over",
+"spotify:track:5Bdn8RyTqz4dV7F07EFBP5"
+],
+[
+"2026-10-29T11:16|Beck|It Ends Right Here",
+"spotify:track:3PmyDf7Zu4vveCnayueVYX"
+],
+[
+"2026-10-29T11:08|Alt-J|In Cold Blood",
+"spotify:track:3G51uIe192pEtcttD1cwrf"
+],
 [
 "2026-10-29T11:05|Passion Mango|Bloody Eyes",
 "spotify:track:4YUBcBSUIXfCNNFAaWQcyG"
@@ -3895,6 +3911,24 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-10-29T11:23|Kelis|Trick Me",
+"t": "2026-10-29T11:23:00+01:00",
+"artist": "Kelis",
+"title": "Trick Me"
+},
+{
+"id": "2026-10-29T11:19|Leon Bridges|Talk it over",
+"t": "2026-10-29T11:19:00+01:00",
+"artist": "Leon Bridges",
+"title": "Talk it over"
+},
+{
+"id": "2026-10-29T11:16|Beck|It Ends Right Here",
+"t": "2026-10-29T11:16:00+01:00",
+"artist": "Beck",
+"title": "It Ends Right Here"
+},
 {
 "id": "2026-10-29T11:08|Alt-J|In Cold Blood",
 "t": "2026-10-29T11:08:00+01:00",
@@ -9540,30 +9574,6 @@
 "t": "2026-10-22T11:34:00+02:00",
 "artist": "1-800 Girls feat. Art School Girlfriend",
 "title": "sometimes"
-},
-{
-"id": "2026-10-22T11:30|Toploader|Dancing In The Moonlight",
-"t": "2026-10-22T11:30:00+02:00",
-"artist": "Toploader",
-"title": "Dancing In The Moonlight"
-},
-{
-"id": "2026-10-22T11:26|JGrrey feat. Bel Cobain|Take My Hand",
-"t": "2026-10-22T11:26:00+02:00",
-"artist": "JGrrey feat. Bel Cobain",
-"title": "Take My Hand"
-},
-{
-"id": "2026-10-22T11:23|Elvis Costello|Accidents Will Happen",
-"t": "2026-10-22T11:23:00+02:00",
-"artist": "Elvis Costello",
-"title": "Accidents Will Happen"
-},
-{
-"id": "2026-10-22T11:20|Ibibio Sound Machine|Love",
-"t": "2026-10-22T11:20:00+02:00",
-"artist": "Ibibio Sound Machine",
-"title": "Love"
 }
 ]
 }
