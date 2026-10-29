@@ -1,18 +1,30 @@
 {
-"updated": "2026-10-29T12:07:11.974856+01:00",
+"updated": "2026-10-29T12:19:11.975247+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
-"synced": "2026-10-29T11:59:11.974584+01:00",
+"synced": "2026-10-29T12:15:11.975105+01:00",
 "pruned": "2026-10-29",
 "calls": {
 "2026-10-28": 21,
-"2026-10-29": 183
+"2026-10-29": 184
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAdPev6WPTS2sOphUF+gjKX/1SFEn+0",
+"snapshot": "AAAdPgAKzLKjxY42qnNi7HRwOcBgdZxm",
 "playlist": [
+[
+"2026-10-29T12:09|Keshavara|Oracular",
+"spotify:track:41sGSIiPi1QAYaL6nUWSDg"
+],
+[
+"2026-10-29T12:06|Holybones|Saltywater",
+"spotify:track:0Flns2ijD0KVZN7e60FrpJ"
+],
+[
+"2026-10-29T11:57|Claptone feat. Zola Blood|Birdsong",
+"spotify:track:7djWhNhXS4KhIi4DKA113M"
+],
 [
 "2026-10-29T11:49|The War On Drugs|Who's That",
 "spotify:track:2YPP52aPZiFUxTmbQTUiR6"
@@ -3927,6 +3939,18 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-10-29T12:09|Keshavara|Oracular",
+"t": "2026-10-29T12:09:00+01:00",
+"artist": "Keshavara",
+"title": "Oracular"
+},
+{
+"id": "2026-10-29T12:06|Holybones|Saltywater",
+"t": "2026-10-29T12:06:00+01:00",
+"artist": "Holybones",
+"title": "Saltywater"
+},
 {
 "id": "2026-10-29T11:57|Claptone feat. Zola Blood|Birdsong",
 "t": "2026-10-29T11:57:00+01:00",
@@ -9572,18 +9596,6 @@
 "t": "2026-10-22T12:20:00+02:00",
 "artist": "Junior Varsity",
 "title": "Bass Drum"
-},
-{
-"id": "2026-10-22T12:18|Anderson .Paak & Cordae|A Good Day",
-"t": "2026-10-22T12:18:00+02:00",
-"artist": "Anderson .Paak & Cordae",
-"title": "A Good Day"
-},
-{
-"id": "2026-10-22T12:14|Manic Street Preachers|So Why So Sad",
-"t": "2026-10-22T12:14:00+02:00",
-"artist": "Manic Street Preachers",
-"title": "So Why So Sad"
 }
 ]
 }
