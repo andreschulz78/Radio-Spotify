@@ -1,18 +1,26 @@
 {
-"updated": "2026-10-29T17:59:19.015414+01:00",
+"updated": "2026-10-29T18:11:19.015710+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
-"synced": "2026-10-29T17:51:19.015188+01:00",
+"synced": "2026-10-29T18:07:19.015602+01:00",
 "pruned": "2026-10-29",
 "calls": {
 "2026-10-28": 21,
-"2026-10-29": 257
+"2026-10-29": 260
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAdXKMS6Zx/EgQLZs+Yl7uBaM5wiCoc",
+"snapshot": "AAAdXWbWYk9gB27rmX1w7b9KGuytqbGY",
 "playlist": [
+[
+"2026-10-29T17:57|Noga Erez|Industry Baby",
+"spotify:track:0ypcpkYOckOLxySl4m69gM"
+],
+[
+"2026-10-29T17:50|Danger Dan|Das ist alles von der Kunstfreiheit gedeckt",
+"spotify:track:4ioQKdmkdBTkqjhfHeu4YU"
+],
 [
 "2026-10-29T17:46|Sergio Torales feat. Der Assistent|Veo",
 "spotify:track:6k1tMxv0y7hJJsQMMfnE6p"
@@ -4135,6 +4143,18 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-10-29T18:06|Kings Of Leon|Supersoaker",
+"t": "2026-10-29T18:06:00+01:00",
+"artist": "Kings Of Leon",
+"title": "Supersoaker"
+},
+{
+"id": "2026-10-29T17:57|Noga Erez|Industry Baby",
+"t": "2026-10-29T17:57:00+01:00",
+"artist": "Noga Erez",
+"title": "Industry Baby"
+},
 {
 "id": "2026-10-29T17:50|Danger Dan|Das ist alles von der Kunstfreiheit gedeckt",
 "t": "2026-10-29T17:50:00+01:00",
@@ -9756,18 +9776,6 @@
 "t": "2026-10-22T18:16:00+02:00",
 "artist": "The Flying Lizards",
 "title": "Money (That's What I Want)"
-},
-{
-"id": "2026-10-22T18:09|Linka Moja|Men R Dogs",
-"t": "2026-10-22T18:09:00+02:00",
-"artist": "Linka Moja",
-"title": "Men R Dogs"
-},
-{
-"id": "2026-10-22T18:06|The Wholls|X21",
-"t": "2026-10-22T18:06:00+02:00",
-"artist": "The Wholls",
-"title": "X21"
 }
 ]
 }
