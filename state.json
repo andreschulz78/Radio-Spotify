@@ -1,18 +1,22 @@
 {
-"updated": "2026-10-29T09:15:04.323786+01:00",
+"updated": "2026-10-29T09:27:04.324103+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
-"synced": "2026-10-29T09:03:04.323440+01:00",
+"synced": "2026-10-29T09:19:04.323877+01:00",
 "pruned": "2026-10-29",
 "calls": {
 "2026-10-28": 21,
-"2026-10-29": 148
+"2026-10-29": 151
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAdL7P2eFCmPSn54JwNvgNRSe8NGW1W",
+"snapshot": "AAAdMQ0vHM7NXN9MlPL2aSiehbGcjvLU",
 "playlist": [
+[
+"2026-10-29T09:06|Alexander IV feat. Cézanne|This Won't Do",
+"spotify:track:4WoKcfaslOE06IjpMVdVng"
+],
 [
 "2026-10-29T08:57|Hard-Fi|Watch Me Fall Apart",
 "spotify:track:2VS8gTvQiyhZP2wxis4Xjo"
@@ -3682,10 +3686,6 @@
 "spotify:track:5seYGZRYuD3oPMxryJdvOk"
 ],
 [
-"2026-10-22T09:19|The Magic Numbers|Take A Chance",
-"spotify:track:52EdchAkRfsbo5H2bSFlVa"
-],
-[
 "2026-10-22T09:15|Jungle|Someday, Somewhere",
 "spotify:track:20FqWsyuUaQTU5tk4nP6eN"
 ],
@@ -3827,6 +3827,18 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-10-29T09:17|Miles Kane|Rearrange",
+"t": "2026-10-29T09:17:00+01:00",
+"artist": "Miles Kane",
+"title": "Rearrange"
+},
+{
+"id": "2026-10-29T09:13|Kaktus Einarsson feat. John Grant|Follow",
+"t": "2026-10-29T09:13:00+01:00",
+"artist": "Kaktus Einarsson feat. John Grant",
+"title": "Follow"
+},
 {
 "id": "2026-10-29T09:06|Alexander IV feat. Cézanne|This Won't Do",
 "t": "2026-10-29T09:06:00+01:00",
@@ -9472,18 +9484,6 @@
 "t": "2026-10-22T09:33:00+02:00",
 "artist": "Marlon Magnee",
 "title": "People Are Afraid"
-},
-{
-"id": "2026-10-22T09:25|Bonaparte|KiOSKO",
-"t": "2026-10-22T09:25:00+02:00",
-"artist": "Bonaparte",
-"title": "KiOSKO"
-},
-{
-"id": "2026-10-22T09:19|The Magic Numbers|Take A Chance",
-"t": "2026-10-22T09:19:00+02:00",
-"artist": "The Magic Numbers",
-"title": "Take A Chance"
 }
 ]
 }
