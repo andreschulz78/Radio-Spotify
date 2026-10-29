@@ -1,18 +1,26 @@
 {
-"updated": "2026-10-29T15:19:11.980914+01:00",
+"updated": "2026-10-29T15:31:11.981290+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
-"synced": "2026-10-29T15:11:11.980668+01:00",
+"synced": "2026-10-29T15:27:11.981166+01:00",
 "pruned": "2026-10-29",
 "calls": {
 "2026-10-28": 21,
-"2026-10-29": 225
+"2026-10-29": 226
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAdUNIpIk2UDq0mMFVx0onu77Ouz4A8",
+"snapshot": "AAAdUaWH6SBU/O04xGrPMS9C/6jqcXUb",
 "playlist": [
+[
+"2026-10-29T15:18|Jungle|Someday, Somewhere",
+"spotify:track:20FqWsyuUaQTU5tk4nP6eN"
+],
+[
+"2026-10-29T15:09|Friedberg|Goodwife",
+"spotify:track:1H89j9NLse1E0Kmjb3tzW6"
+],
 [
 "2026-10-29T15:05|The Rapture|Sail Away",
 "spotify:track:7m07Cu2yMYtHn31iSQKGo2"
@@ -4051,6 +4059,12 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-10-29T15:18|Jungle|Someday, Somewhere",
+"t": "2026-10-29T15:18:00+01:00",
+"artist": "Jungle",
+"title": "Someday, Somewhere"
+},
 {
 "id": "2026-10-29T15:09|Friedberg|Goodwife",
 "t": "2026-10-29T15:09:00+01:00",
@@ -9684,24 +9698,6 @@
 "t": "2026-10-22T15:45:00+02:00",
 "artist": "Secret Machines",
 "title": "Nowhere Again"
-},
-{
-"id": "2026-10-22T15:31|Moonlight Breakfast|If Not Now, Then When?!",
-"t": "2026-10-22T15:31:00+02:00",
-"artist": "Moonlight Breakfast",
-"title": "If Not Now, Then When?!"
-},
-{
-"id": "2026-10-22T15:24|Yukno, Marco Kleebauer|Metaverse",
-"t": "2026-10-22T15:24:00+02:00",
-"artist": "Yukno, Marco Kleebauer",
-"title": "Metaverse"
-},
-{
-"id": "2026-10-22T15:21|Depeche Mode|Everything Counts",
-"t": "2026-10-22T15:21:00+02:00",
-"artist": "Depeche Mode",
-"title": "Everything Counts"
 }
 ]
 }
