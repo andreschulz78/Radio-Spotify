@@ -1,18 +1,30 @@
 {
-"updated": "2026-10-29T06:51:04.319492+01:00",
+"updated": "2026-10-29T07:03:04.319859+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
-"synced": "2026-10-29T06:39:04.319195+01:00",
+"synced": "2026-10-29T06:55:04.319603+01:00",
 "pruned": "2026-10-29",
 "calls": {
 "2026-10-28": 21,
-"2026-10-29": 94
+"2026-10-29": 111
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAdHORVrbOlJIdfWZ2jS3edDfRk7+No",
+"snapshot": "AAAdI+6XoLHVGsSpH7FIEDgC9Wa3wnuH",
 "playlist": [
+[
+"2026-10-29T06:50|Anderson .Paak & Cordae|A Good Day",
+"spotify:track:4CrnExkcZkg6Aek113hAWl"
+],
+[
+"2026-10-29T06:47|Overmono feat. Ruthven|Gem Lingo (ovr now)",
+"spotify:track:6dSqM0tWJPlchpmGrEwC1c"
+],
+[
+"2026-10-29T06:40|Arlo Parks|Heaven",
+"spotify:track:4zgFh0ZXkVcyXpJbteYviU"
+],
 [
 "2026-10-29T06:32|The Raconteurs|Steady, As She Goes",
 "spotify:track:4xlEKYv7HmC8zXoJIbpZKM"
@@ -422,8 +434,16 @@
 "spotify:track:0jL4IvzOzEcM0lO910hZkI"
 ],
 [
+"2026-10-28T11:40|Monsterheart|Flowers",
+"spotify:track:5BPW5QCfQ5iAhyJoRnrN9b"
+],
+[
 "2026-10-28T11:36|Curtis Mayfield|Move On Up",
 "spotify:track:01gDLZsi0j5fWC28FLPNO8"
+],
+[
+"2026-10-28T11:32|Eels|That Look You Give That Guy",
+"spotify:track:0z0SJq32rKZWGjrECfGuRE"
 ],
 [
 "2026-10-28T11:26|Benjamin Clementine|In Fact You Know You Gotto Go",
@@ -434,16 +454,48 @@
 "spotify:track:0jWZDtZgmV2LZ2iW4c3yB7"
 ],
 [
+"2026-10-28T11:19|Pink Floyd|Another brick in the Wall (Part 2)",
+"spotify:track:4gMgiXfqyzZLMhsksGmbQV"
+],
+[
 "2026-10-28T11:09|Jamie T|Tallahassee",
 "spotify:track:3Kwdvrz5PTUpAObYKNPlz0"
+],
+[
+"2026-10-28T11:05|Kosheen|Addict",
+"spotify:track:5QLYq9dWDc4fBxsIHCRCsH"
+],
+[
+"2026-10-28T10:55|Janis Joplin|Me And Bobby McGee",
+"spotify:track:1IqFh00G2kvvMm8pRMpehA"
 ],
 [
 "2026-10-28T10:50|Peki Momés|Ahşap Kutu",
 "spotify:track:0ldb6REGn8guDjkpA21tJx"
 ],
 [
+"2026-10-28T10:46|Bulgarian Cartrader|Golden Rope",
+"spotify:track:30mL21iWL4aJ17ynNBV4aL"
+],
+[
+"2026-10-28T10:34|Cults|Trials",
+"spotify:track:0jXyPhXThA9Dx6aV2IDven"
+],
+[
+"2026-10-28T10:27|The Smiths|You Just Haven't Earned It Yet, Baby",
+"spotify:track:5KMPp9asnxJwvaBuSZ5Nsn"
+],
+[
+"2026-10-28T10:23|The Pierces|You'll Be Mine",
+"spotify:track:6TpPwEz1YEPe7gCsXXQQFl"
+],
+[
 "2026-10-28T10:18|Fontaines D.C. & ROSALIA|Where Is Gone?",
 "spotify:track:6ZH1yeWUf3Xp2XO0EZk91i"
+],
+[
+"2026-10-28T10:08|Gabin|Doo Uap, Doo Uap, Doo Uap (It Don't Mean A Thing...)",
+"spotify:track:6J7AJe2Ge3H5KDWaoxhH9A"
 ],
 [
 "2026-10-28T09:51|Tom Misch|Slow Tonight",
@@ -3675,6 +3727,18 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-10-29T06:56|Röyksopp|Remind Me",
+"t": "2026-10-29T06:56:00+01:00",
+"artist": "Röyksopp",
+"title": "Remind Me"
+},
+{
+"id": "2026-10-29T06:50|Anderson .Paak & Cordae|A Good Day",
+"t": "2026-10-29T06:50:00+01:00",
+"artist": "Anderson .Paak & Cordae",
+"title": "A Good Day"
+},
 {
 "id": "2026-10-29T06:47|Overmono feat. Ruthven|Gem Lingo (ovr now)",
 "t": "2026-10-29T06:47:00+01:00",
@@ -9338,12 +9402,6 @@
 "t": "2026-10-22T07:06:00+02:00",
 "artist": "John Maus",
 "title": "Because We Built It"
-},
-{
-"id": "2026-10-22T06:57|AnnenMayKantereit|Wohin du gehst",
-"t": "2026-10-22T06:57:00+02:00",
-"artist": "AnnenMayKantereit",
-"title": "Wohin du gehst"
 }
 ]
 }
