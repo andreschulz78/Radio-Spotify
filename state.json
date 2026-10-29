@@ -1,18 +1,30 @@
 {
-"updated": "2026-10-29T10:43:11.972201+01:00",
+"updated": "2026-10-29T10:55:11.972614+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
-"synced": "2026-10-29T10:39:04.326048+01:00",
+"synced": "2026-10-29T10:55:11.972614+01:00",
 "pruned": "2026-10-29",
 "calls": {
 "2026-10-28": 21,
-"2026-10-29": 166
+"2026-10-29": 168
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAdNxXl8HOCWfHLycD8xwawXC7JqE52",
+"snapshot": "AAAdOPX4AzzInH5Fxb62GJWoYNjLCWtl",
 "playlist": [
+[
+"2026-10-29T10:51|Ex:Re|Sleep",
+"spotify:track:31hSy1c6SWABIV3W1LqjMz"
+],
+[
+"2026-10-29T10:47|WhoMadeWho|Hi & Low",
+"spotify:track:0AI538nn3t6rkRGrp29ZgI"
+],
+[
+"2026-10-29T10:35|347aidan|Dancing In My Room",
+"spotify:track:6Pgmqg15yVexuOgtzuxwoX"
+],
 [
 "2026-10-29T10:32|UFOs|UFO (Radio Edit)",
 "spotify:track:7pA7CZIJUpcD5X0QpLlESx"
@@ -3875,6 +3887,18 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-10-29T10:51|Ex:Re|Sleep",
+"t": "2026-10-29T10:51:00+01:00",
+"artist": "Ex:Re",
+"title": "Sleep"
+},
+{
+"id": "2026-10-29T10:47|WhoMadeWho|Hi & Low",
+"t": "2026-10-29T10:47:00+01:00",
+"artist": "WhoMadeWho",
+"title": "Hi & Low"
+},
 {
 "id": "2026-10-29T10:35|347aidan|Dancing In My Room",
 "t": "2026-10-29T10:35:00+01:00",
@@ -9532,12 +9556,6 @@
 "t": "2026-10-22T10:58:00+02:00",
 "artist": "Dahi feat. Kendrick Lamar & Amber Mark",
 "title": "How To Pray"
-},
-{
-"id": "2026-10-22T10:49|Sir Sly feat. Gary Clark jr.|Citizen",
-"t": "2026-10-22T10:49:00+02:00",
-"artist": "Sir Sly feat. Gary Clark jr.",
-"title": "Citizen"
 }
 ]
 }
