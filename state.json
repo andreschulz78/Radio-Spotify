@@ -1,18 +1,30 @@
 {
-"updated": "2026-10-29T06:15:04.318554+01:00",
+"updated": "2026-10-29T06:27:04.318873+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
-"synced": "2026-10-29T06:07:04.318296+01:00",
+"synced": "2026-10-29T06:23:04.318747+01:00",
 "pruned": "2026-10-29",
 "calls": {
 "2026-10-28": 21,
-"2026-10-29": 54
+"2026-10-29": 71
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAdET3xX/BLXCFftwTRpj5+H9xYVkYN",
+"snapshot": "AAAdGI6ta6rVeqc582IwO5JxzB+t7s5o",
 "playlist": [
+[
+"2026-10-29T06:15|Hatchie|Sure",
+"spotify:track:3zdTA309WHMFZo1l6IAiPu"
+],
+[
+"2026-10-29T06:11|Chinese American Bear|Dance Dance Dance (Edit)",
+"spotify:track:3Ct3ro3LnsTHjeRVPNSG5s"
+],
+[
+"2026-10-29T06:04|Tame Impala|Dracula",
+"spotify:track:709ZIqPHyFOpx2QdjmeWAM"
+],
 [
 "2026-10-29T05:55|The Streets|It's Too Late",
 "spotify:track:6E3I9LiVvrGD7Ooy97zUSW"
@@ -278,12 +290,36 @@
 "spotify:track:3ra7fDLqfUHBWBL702fOAn"
 ],
 [
+"2026-10-28T14:25|Kat Frankie|Du/Ich",
+"spotify:track:4oQbWDc5RbN2CDbjPhOGKY"
+],
+[
+"2026-10-28T14:22|Jamiroquai|You Give Me Something",
+"spotify:track:1x6jPyUfLuTNQ3o5zykG2x"
+],
+[
 "2026-10-28T14:18|BICEP feat. SOARR|Air (Radio Edit)",
 "spotify:track:2infXICqVSUM3bbGSOgFOY"
 ],
 [
+"2026-10-28T14:10|Django Django|Year Of The Snake",
+"spotify:track:6PyPvKLOukrS1ZJhxPvtDt"
+],
+[
+"2026-10-28T14:06|The National|Brainy",
+"spotify:track:0ySk1A7oprvyH2Sf4Q4eR4"
+],
+[
+"2026-10-28T13:57|Portishead|Glory Box",
+"spotify:track:3Ty7OTBNSigGEpeW2PqcsC"
+],
+[
 "2026-10-28T13:50|Austra & Patrick Holland|Siren Reprise",
 "spotify:track:678wI419HyRL4qSTbXdyLu"
+],
+[
+"2026-10-28T13:47|Gentleman|Lonely Days",
+"spotify:track:4wNbidFbSIQQMpbpnbxx43"
 ],
 [
 "2026-10-28T13:44|J.Bernardt|Love Is On My Mind",
@@ -294,8 +330,24 @@
 "spotify:track:1I3D3G5pwYFKNYGIYTLRCq"
 ],
 [
+"2026-10-28T13:32|Manic Street Preachers|If You Tolerate This Your Children Will Be Next",
+"spotify:track:2VmyLy2HQlkevZYboXHM5O"
+],
+[
+"2026-10-28T13:27|Steve Lacy|The Feeling",
+"spotify:track:3SoarlzPEiF7NgSeGsh44S"
+],
+[
+"2026-10-28T13:23|Jessie Ware|Selfish Love",
+"spotify:track:2Qa39Jw2bWBGrCuILbj1z2"
+],
+[
 "2026-10-28T13:20|Bonobo|Shokoufeh",
 "spotify:track:5cZ6iDczIvnNezs5sqdgU8"
+],
+[
+"2026-10-28T13:07|Tears For Fears|Shout",
+"spotify:track:6UQDkQdtvj3f7F7edAsqda"
 ],
 [
 "2026-10-28T13:04|Anderson .Paak & Cordae|A Good Day",
@@ -304,6 +356,10 @@
 [
 "2026-10-28T12:54|Tikhet|Burndowner",
 "spotify:track:76iRkapw7dHIlJhSoy7PCv"
+],
+[
+"2026-10-28T12:50|Brimheim|Literally Everything",
+"spotify:track:2IURd9EtLprqDo0PFFUkfk"
 ],
 [
 "2026-10-28T12:46|Boards Of Canada|Prophecy At 1420 MHz (Edit)",
@@ -3575,6 +3631,18 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-10-29T06:23|Tristan Brusch|Baggersee",
+"t": "2026-10-29T06:23:00+01:00",
+"artist": "Tristan Brusch",
+"title": "Baggersee"
+},
+{
+"id": "2026-10-29T06:15|Hatchie|Sure",
+"t": "2026-10-29T06:15:00+01:00",
+"artist": "Hatchie",
+"title": "Sure"
+},
 {
 "id": "2026-10-29T06:11|Chinese American Bear|Dance Dance Dance (Edit)",
 "t": "2026-10-29T06:11:00+01:00",
@@ -9232,18 +9300,6 @@
 "t": "2026-10-22T06:36:00+02:00",
 "artist": "Mount Kimbie feat. King Krule",
 "title": "Empty And Silent (Radio Edit)"
-},
-{
-"id": "2026-10-22T06:25|Boys' Shorts|New Era (Vocal Radio Mix)",
-"t": "2026-10-22T06:25:00+02:00",
-"artist": "Boys' Shorts",
-"title": "New Era (Vocal Radio Mix)"
-},
-{
-"id": "2026-10-22T06:18|Manu Chao|Bongo Bong (Je Ne T'aime Plus)",
-"t": "2026-10-22T06:18:00+02:00",
-"artist": "Manu Chao",
-"title": "Bongo Bong (Je Ne T'aime Plus)"
 }
 ]
 }
