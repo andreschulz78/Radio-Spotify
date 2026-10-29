@@ -1,18 +1,26 @@
 {
-"updated": "2026-10-29T07:51:04.321317+01:00",
+"updated": "2026-10-29T08:03:04.321700+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
-"synced": "2026-10-29T07:43:04.321090+01:00",
+"synced": "2026-10-29T07:59:04.321578+01:00",
 "pruned": "2026-10-29",
 "calls": {
 "2026-10-28": 21,
-"2026-10-29": 134
+"2026-10-29": 136
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAdKpTTMc749mF0AGdP7xItGkYYn4sm",
+"snapshot": "AAAdK0o3cPuNwNWzxM9urwXr0MCUJ9cZ",
 "playlist": [
+[
+"2026-10-29T07:46|Animal Collective|My Girls",
+"spotify:track:7jZBPuJmkOsfPkwFD30dAA"
+],
+[
+"2026-10-29T07:40|Tikhet|Burndowner",
+"spotify:track:76iRkapw7dHIlJhSoy7PCv"
+],
 [
 "2026-10-29T07:33|The Black Keys|The Night Before",
 "spotify:track:4kawArrYyru9uT0phHxWKt"
@@ -3783,6 +3791,12 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-10-29T07:55|Django Django|Reflections",
+"t": "2026-10-29T07:55:00+01:00",
+"artist": "Django Django",
+"title": "Reflections"
+},
 {
 "id": "2026-10-29T07:46|Animal Collective|My Girls",
 "t": "2026-10-29T07:46:00+01:00",
@@ -9446,12 +9460,6 @@
 "t": "2026-10-22T08:06:00+02:00",
 "artist": "Gossip",
 "title": "Standing In The Way Of Control"
-},
-{
-"id": "2026-10-22T07:58|Madanii|Dast",
-"t": "2026-10-22T07:58:00+02:00",
-"artist": "Madanii",
-"title": "Dast"
 }
 ]
 }
