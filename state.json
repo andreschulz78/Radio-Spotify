@@ -1,18 +1,26 @@
 {
-"updated": "2026-10-29T07:03:04.319859+01:00",
+"updated": "2026-10-29T07:15:04.320217+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
-"synced": "2026-10-29T06:55:04.319603+01:00",
+"synced": "2026-10-29T07:11:04.320099+01:00",
 "pruned": "2026-10-29",
 "calls": {
 "2026-10-28": 21,
-"2026-10-29": 111
+"2026-10-29": 128
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAdI+6XoLHVGsSpH7FIEDgC9Wa3wnuH",
+"snapshot": "AAAdKPugxTuhKXjTtG0zzTcts/e5ucb5",
 "playlist": [
+[
+"2026-10-29T07:05|Seamus Fogarty|Fire (Edit)",
+"spotify:track:383q4d3j4gnvNN6dtlxyvM"
+],
+[
+"2026-10-29T06:56|Röyksopp|Remind Me",
+"spotify:track:1XsY5pr5ib9MWYUpnrc5VJ"
+],
 [
 "2026-10-29T06:50|Anderson .Paak & Cordae|A Good Day",
 "spotify:track:4CrnExkcZkg6Aek113hAWl"
@@ -498,6 +506,14 @@
 "spotify:track:6J7AJe2Ge3H5KDWaoxhH9A"
 ],
 [
+"2026-10-28T10:05|New German Cinema|Water Drops",
+"spotify:track:65SwobxDwUigYvd91PIAuF"
+],
+[
+"2026-10-28T09:56|Depeche Mode|Behind The Wheel",
+"spotify:track:5ZO4gjA1fMk0cD4EFkPSYT"
+],
+[
 "2026-10-28T09:51|Tom Misch|Slow Tonight",
 "spotify:track:7cpoZVJlz9euhcgUfQBMRL"
 ],
@@ -506,12 +522,36 @@
 "spotify:track:2Bqy2DIYw0DXkZj8gHTg2p"
 ],
 [
+"2026-10-28T09:42|dEUS|Sirens",
+"spotify:track:3MKXdtTufdX4BwVbuJqFGW"
+],
+[
+"2026-10-28T09:33|Celeste|Stop This Flame",
+"spotify:track:1bObrsJGW0UCIGZkvnDqbe"
+],
+[
 "2026-10-28T09:27|Nihils|Lavender",
 "spotify:track:24IHKK4RZRa5WYOEigkp5h"
 ],
 [
+"2026-10-28T09:23|The War on Drugs|I Don't Live Here Anymore (Radio Edit)",
+"spotify:track:5Uou8idst1XJc0F6MRAk5S"
+],
+[
+"2026-10-28T09:16|Isaac Hayes|Theme From Shaft",
+"spotify:track:0e6ES2hH2CmEpCd0umbHFq"
+],
+[
+"2026-10-28T09:13|Billie Eilish|Ilomilo",
+"spotify:track:7qEKqBCD2vE5vIBsrUitpD"
+],
+[
 "2026-10-28T09:05|Leon Bridges|Light The Way",
 "spotify:track:3G1hTUddM2diIyYA0yy9kS"
+],
+[
+"2026-10-28T08:56|Jonathan Jeremiah|Youngblood",
+"spotify:track:11jCHa5pshglw7YHSmoDYm"
 ],
 [
 "2026-10-28T08:50|Grimes|Belly Of The Beat",
@@ -3727,6 +3767,12 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-10-29T07:05|Seamus Fogarty|Fire (Edit)",
+"t": "2026-10-29T07:05:00+01:00",
+"artist": "Seamus Fogarty",
+"title": "Fire (Edit)"
+},
 {
 "id": "2026-10-29T06:56|Röyksopp|Remind Me",
 "t": "2026-10-29T06:56:00+01:00",
@@ -9390,18 +9436,6 @@
 "t": "2026-10-22T07:18:00+02:00",
 "artist": "Widowspeak",
 "title": "Soft Cover (Edit)"
-},
-{
-"id": "2026-10-22T07:14|Tele|Falschrum",
-"t": "2026-10-22T07:14:00+02:00",
-"artist": "Tele",
-"title": "Falschrum"
-},
-{
-"id": "2026-10-22T07:06|John Maus|Because We Built It",
-"t": "2026-10-22T07:06:00+02:00",
-"artist": "John Maus",
-"title": "Because We Built It"
 }
 ]
 }
