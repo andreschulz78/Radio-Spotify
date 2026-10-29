@@ -1,18 +1,26 @@
 {
-"updated": "2026-10-29T06:27:04.318873+01:00",
+"updated": "2026-10-29T06:39:04.319195+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
-"synced": "2026-10-29T06:23:04.318747+01:00",
+"synced": "2026-10-29T06:39:04.319195+01:00",
 "pruned": "2026-10-29",
 "calls": {
 "2026-10-28": 21,
-"2026-10-29": 71
+"2026-10-29": 84
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAdGI6ta6rVeqc582IwO5JxzB+t7s5o",
+"snapshot": "AAAdHORVrbOlJIdfWZ2jS3edDfRk7+No",
 "playlist": [
+[
+"2026-10-29T06:32|The Raconteurs|Steady, As She Goes",
+"spotify:track:4xlEKYv7HmC8zXoJIbpZKM"
+],
+[
+"2026-10-29T06:23|Tristan Brusch|Baggersee",
+"spotify:track:1dm6gJGAPtctVriOGCTqS0"
+],
 [
 "2026-10-29T06:15|Hatchie|Sure",
 "spotify:track:3zdTA309WHMFZo1l6IAiPu"
@@ -366,6 +374,22 @@
 "spotify:track:4gYaI1S9Qug6B96E2HwxeN"
 ],
 [
+"2026-10-28T12:42|Udo Lindenberg|Ich lieb' dich überhaupt nicht mehr",
+"spotify:track:7EkciMWr0dwV2edqitvKL0"
+],
+[
+"2026-10-28T12:38|Róisín Murphy|The Universe (Radio Edit)",
+"spotify:track:031Jwhjt6zAuBLeWlY3AvH"
+],
+[
+"2026-10-28T12:34|Mattafix|Big City Life",
+"spotify:track:0Stkh0VvjWMqQOWNkHVhJq"
+],
+[
+"2026-10-28T12:31|Raoul Vignal|Red Fresco",
+"spotify:track:3K9LqDkPkrxkuXTTfxQQMd"
+],
+[
 "2026-10-28T12:26|Vince Staples|Tulsa, OK",
 "spotify:track:4lyK8sT0dLpxSBv14wtVet"
 ],
@@ -374,8 +398,28 @@
 "spotify:track:5QraYxwAgy8LloNZeIiuQ5"
 ],
 [
+"2026-10-28T12:18|Sade|Smooth Operator",
+"spotify:track:7pLuEMFougkSHXrPBtNxTR"
+],
+[
+"2026-10-28T12:14|Whitney|Kansas",
+"spotify:track:0x0OjST3CNulTlhzLybBc9"
+],
+[
 "2026-10-28T12:09|Get Well Soon|Siri, What Ruined The West ?",
 "spotify:track:3XY1xxFHeGHDDt33V6GoE2"
+],
+[
+"2026-10-28T12:05|Caribou|Never Come Back",
+"spotify:track:0Ej6OBBtMvhjaJvtt1vtUt"
+],
+[
+"2026-10-28T11:55|Jun Miyake|Lillies Of The Valley",
+"spotify:track:6hdkcO54dGOdP4uCutExMm"
+],
+[
+"2026-10-28T11:50|Fetsum|Tiger",
+"spotify:track:0jL4IvzOzEcM0lO910hZkI"
 ],
 [
 "2026-10-28T11:36|Curtis Mayfield|Move On Up",
@@ -3631,6 +3675,12 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-10-29T06:32|The Raconteurs|Steady, As She Goes",
+"t": "2026-10-29T06:32:00+01:00",
+"artist": "The Raconteurs",
+"title": "Steady, As She Goes"
+},
 {
 "id": "2026-10-29T06:23|Tristan Brusch|Baggersee",
 "t": "2026-10-29T06:23:00+01:00",
@@ -9294,12 +9344,6 @@
 "t": "2026-10-22T06:45:00+02:00",
 "artist": "Duffy",
 "title": "Mercy"
-},
-{
-"id": "2026-10-22T06:36|Mount Kimbie feat. King Krule|Empty And Silent (Radio Edit)",
-"t": "2026-10-22T06:36:00+02:00",
-"artist": "Mount Kimbie feat. King Krule",
-"title": "Empty And Silent (Radio Edit)"
 }
 ]
 }
