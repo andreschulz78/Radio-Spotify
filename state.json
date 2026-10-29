@@ -1,18 +1,26 @@
 {
-"updated": "2026-10-29T17:11:19.013929+01:00",
+"updated": "2026-10-29T17:23:19.014310+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
-"synced": "2026-10-29T17:03:19.013663+01:00",
+"synced": "2026-10-29T17:19:19.014164+01:00",
 "pruned": "2026-10-29",
 "calls": {
 "2026-10-28": 21,
-"2026-10-29": 244
+"2026-10-29": 248
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAdVyuu1svZYdFHreKuJoZ3aIvgXKDV",
+"snapshot": "AAAdWL+xyljvLIIFOJJLfoEvE0Rc2aZa",
 "playlist": [
+[
+"2026-10-29T17:10|Alabama 3|Ain't Goin' To Goa",
+"spotify:track:4Xa8swQPorL6e1ZF91PxIv"
+],
+[
+"2026-10-29T17:05|Grace Cummings|I'm Not Crazy",
+"spotify:track:70QaE9UJ2uTVwC4IGS6yvU"
+],
 [
 "2026-10-29T16:55|Grace Jones|I've Seen That Face Before",
 "spotify:track:6CsYNFIDcMtSdhYHKwxk3G"
@@ -4107,6 +4115,18 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-10-29T17:14|IDER|Unlearn",
+"t": "2026-10-29T17:14:00+01:00",
+"artist": "IDER",
+"title": "Unlearn"
+},
+{
+"id": "2026-10-29T17:10|Alabama 3|Ain't Goin' To Goa",
+"t": "2026-10-29T17:10:00+01:00",
+"artist": "Alabama 3",
+"title": "Ain't Goin' To Goa"
+},
 {
 "id": "2026-10-29T17:05|Grace Cummings|I'm Not Crazy",
 "t": "2026-10-29T17:05:00+01:00",
@@ -9728,12 +9748,6 @@
 "t": "2026-10-22T17:25:00+02:00",
 "artist": "Alewya",
 "title": "Cairo FM"
-},
-{
-"id": "2026-10-22T17:14|Little Dragon|Ritual Union",
-"t": "2026-10-22T17:14:00+02:00",
-"artist": "Little Dragon",
-"title": "Ritual Union"
 }
 ]
 }
