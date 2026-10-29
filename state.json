@@ -1,17 +1,221 @@
 {
-"updated": "2026-10-29T05:15:04.316799+01:00",
+"updated": "2026-10-29T05:27:04.317152+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
-"synced": null,
-"pruned": null,
+"synced": "2026-10-29T05:19:04.316917+01:00",
+"pruned": "2026-10-29",
 "calls": {
-"2026-10-28": 0
+"2026-10-28": 21
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": null,
+"snapshot": "AAAdAls5QS+JygZUrJJo3OrntwXN8Mzx",
 "playlist": [
+[
+"2026-10-29T05:12|Finley Quaye|Your Love Gets Sweeter",
+"spotify:track:1SfQCY234gf6C2dlyUUMn9"
+],
+[
+"2026-10-29T05:07|Benjamin Clementine|In Fact You Know You Gotto Go",
+"spotify:track:4cWEdRTQ8sg4QaTBIGn06j"
+],
+[
+"2026-10-29T05:03|Odd Beholder|Internet Famous",
+"spotify:track:50h9Bp3vYgDfv0852K2ZYJ"
+],
+[
+"2026-10-28T20:51|Sylvan Esso|Right to Left",
+"spotify:track:78xiuouD9dMXKXGKdDnjqB"
+],
+[
+"2026-10-28T20:41|49th & Main|Insomnia",
+"spotify:track:6JGrKJtW3CxLscWj7OJMYt"
+],
+[
+"2026-10-28T20:37|Ayele|Fractured (Radio Edit)",
+"spotify:track:5EGnOBL2qoUNard3Oaq5Hc"
+],
+[
+"2026-10-28T20:24|Moonlight Breakfast|If Not Now, Then When?!",
+"spotify:track:7rqjXsHITwfxR5XoKIGsaJ"
+],
+[
+"2026-10-28T20:21|Portugal. The Man feat. Edgar Winter|Champ (Edit)",
+"spotify:track:3OHYElP3QCFKfnReFTZ2nw"
+],
+[
+"2026-10-28T20:17|Paul Weller|Thinking Of You",
+"spotify:track:3AiGqxUUZZnVeRVShzutsy"
+],
+[
+"2026-10-28T20:04|Ibibio Sound Machine|Love",
+"spotify:track:0JGa4KrhqriWUuPcni3I8D"
+],
+[
+"2026-10-28T19:54|Meshell Ndegeocello feat. Cat Power|Don’t You Want Me",
+"spotify:track:5sbCqST9M4Q1sRSJM6L6oT"
+],
+[
+"2026-10-28T19:43|L'Rain|Elmyra (Edit)",
+"spotify:track:5pedzmyyKGTs8PV23dnvbc"
+],
+[
+"2026-10-28T18:40|Alice Costelloe|How Can I",
+"spotify:track:6ev5ii9Zpk67XEhdNTtY5z"
+],
+[
+"2026-10-28T18:27|JGrrey feat. Bel Cobain|Take My Hand",
+"spotify:track:0i4SCqKHjbBrPjUX4RPRq3"
+],
+[
+"2026-10-28T18:23|Kaktus Einarsson feat. John Grant|Follow",
+"spotify:track:0bbPqdrMN94XmIlBQS21B3"
+],
+[
+"2026-10-28T18:10|UCHE YARA|Hello Hello",
+"spotify:track:3hadpAb0vS5uYSrfidLaDr"
+],
+[
+"2026-10-28T17:24|Leon Bridges|Talk it over",
+"spotify:track:5Bdn8RyTqz4dV7F07EFBP5"
+],
+[
+"2026-10-28T17:18|Sam Burton|I'm A Stranger",
+"spotify:track:4hAYraVhSzgMTdvftCcqKo"
+],
+[
+"2026-10-28T17:05|Pamela.|Better than Before",
+"spotify:track:30ewsn0jSF9Jme7Altrz9X"
+],
+[
+"2026-10-28T16:55|Cass McCombs|Peace",
+"spotify:track:0HJuwBpU9bpH3Zt5r1PtNS"
+],
+[
+"2026-10-28T16:36|The Drums feat. Mareux|It Didn't Matter",
+"spotify:track:10kxTiNUTo4nlEbH1EzoX1"
+],
+[
+"2026-10-28T16:34|Nia Archives|There Goes Ma Head",
+"spotify:track:0ceKqpXrrC3CtFwFiLJeoY"
+],
+[
+"2026-10-28T16:22|Kelela|the bridge (feat. PinkPantheress)",
+"spotify:track:4Og22Djtd18AVqNgijpLsX"
+],
+[
+"2026-10-28T16:05|1-800 Girls feat. Art School Girlfriend|sometimes",
+"spotify:track:4akb3UnPEbDpUBc8JdQ5ED"
+],
+[
+"2026-10-28T15:57|Zaho de Sagazan|Ô travers",
+"spotify:track:2GK0yEfMHJg7pXloAtVQSb"
+],
+[
+"2026-10-28T15:52|Ibeyi|Hurry Hurry",
+"spotify:track:4BGA7VW330Eu1kaFNi98cG"
+],
+[
+"2026-10-28T15:10|Σtella|Belinda",
+"spotify:track:1rs2lOYfBKNW5OCpeTIiVf"
+],
+[
+"2026-10-28T14:51|Boy Harsher|Tough Luck (When You Don't Call)",
+"spotify:track:109AVLNWp2BnTXTzF4j6XE"
+],
+[
+"2026-10-28T14:29|Death Cab For Cutie|Pep Talk",
+"spotify:track:3ra7fDLqfUHBWBL702fOAn"
+],
+[
+"2026-10-28T14:18|BICEP feat. SOARR|Air (Radio Edit)",
+"spotify:track:2infXICqVSUM3bbGSOgFOY"
+],
+[
+"2026-10-28T13:50|Austra & Patrick Holland|Siren Reprise",
+"spotify:track:678wI419HyRL4qSTbXdyLu"
+],
+[
+"2026-10-28T13:44|J.Bernardt|Love Is On My Mind",
+"spotify:track:4LuP3veDBkqnyLQvgDQpJb"
+],
+[
+"2026-10-28T13:37|CECI feat. Lords of Lounge|Honey Honey",
+"spotify:track:1I3D3G5pwYFKNYGIYTLRCq"
+],
+[
+"2026-10-28T13:20|Bonobo|Shokoufeh",
+"spotify:track:5cZ6iDczIvnNezs5sqdgU8"
+],
+[
+"2026-10-28T13:04|Anderson .Paak & Cordae|A Good Day",
+"spotify:track:4CrnExkcZkg6Aek113hAWl"
+],
+[
+"2026-10-28T12:54|Tikhet|Burndowner",
+"spotify:track:76iRkapw7dHIlJhSoy7PCv"
+],
+[
+"2026-10-28T12:46|Boards Of Canada|Prophecy At 1420 MHz (Edit)",
+"spotify:track:4gYaI1S9Qug6B96E2HwxeN"
+],
+[
+"2026-10-28T12:26|Vince Staples|Tulsa, OK",
+"spotify:track:4lyK8sT0dLpxSBv14wtVet"
+],
+[
+"2026-10-28T12:21|Courtney Barnett|Wonder",
+"spotify:track:5QraYxwAgy8LloNZeIiuQ5"
+],
+[
+"2026-10-28T12:09|Get Well Soon|Siri, What Ruined The West ?",
+"spotify:track:3XY1xxFHeGHDDt33V6GoE2"
+],
+[
+"2026-10-28T11:36|Curtis Mayfield|Move On Up",
+"spotify:track:01gDLZsi0j5fWC28FLPNO8"
+],
+[
+"2026-10-28T11:26|Benjamin Clementine|In Fact You Know You Gotto Go",
+"spotify:track:4cWEdRTQ8sg4QaTBIGn06j"
+],
+[
+"2026-10-28T11:23|Stella Donnelly|Laying Low",
+"spotify:track:0jWZDtZgmV2LZ2iW4c3yB7"
+],
+[
+"2026-10-28T11:09|Jamie T|Tallahassee",
+"spotify:track:3Kwdvrz5PTUpAObYKNPlz0"
+],
+[
+"2026-10-28T10:50|Peki Momés|Ahşap Kutu",
+"spotify:track:0ldb6REGn8guDjkpA21tJx"
+],
+[
+"2026-10-28T10:18|Fontaines D.C. & ROSALIA|Where Is Gone?",
+"spotify:track:6ZH1yeWUf3Xp2XO0EZk91i"
+],
+[
+"2026-10-28T09:51|Tom Misch|Slow Tonight",
+"spotify:track:7cpoZVJlz9euhcgUfQBMRL"
+],
+[
+"2026-10-28T09:47|Flora Hibberd|Bowling Ball",
+"spotify:track:2Bqy2DIYw0DXkZj8gHTg2p"
+],
+[
+"2026-10-28T09:27|Nihils|Lavender",
+"spotify:track:24IHKK4RZRa5WYOEigkp5h"
+],
+[
+"2026-10-28T09:05|Leon Bridges|Light The Way",
+"spotify:track:3G1hTUddM2diIyYA0yy9kS"
+],
+[
+"2026-10-28T08:50|Grimes|Belly Of The Beat",
+"spotify:track:3tcMadg7fSfH0mFDo0408i"
+],
 [
 "2026-10-28T08:46|Chet Faker|Over You (Radio Edit)",
 "spotify:track:036QOmnlr52hgeH1WmQ5OB"
@@ -3219,497 +3423,33 @@
 [
 "2026-10-22T05:25|Alice Gift|Trance Park",
 "spotify:track:5TloORha2fVcdsLo63B4fo"
-],
-[
-"2026-10-22T05:19|Sassy 009 feat. Blood Orange|Tell Me (Jam City Remix) (Edit)",
-"spotify:track:1pDiRrLro0tlhsPSexB3Zv"
-],
-[
-"2026-10-22T05:12|Hundreds|Our Past",
-"spotify:track:6rpts1QdJjTYsj2DF32E5V"
-],
-[
-"2026-10-22T05:08|Eels|Mr. E's Beautiful Blues",
-"spotify:track:5PNUiY63pZTcJjevQmS7vO"
-],
-[
-"2026-10-22T05:06|Bilderbuch|Baby Junkie",
-"spotify:track:1bPs9oNEaAEUYfCL7tH79W"
-],
-[
-"2026-10-22T05:03|Avalon Emerson|Jupiter and Mars",
-"spotify:track:6uzYz5meqzlTltQ6E15uPd"
-],
-[
-"2026-10-21T20:52|Nakhane|Interloper",
-"spotify:track:7jFffUFY0qCVRcLtefFYoC"
-],
-[
-"2026-10-21T20:49|Elliott Smith|Angeles",
-"spotify:track:0Ziohm1Ku8E2yUDYoclfhO"
-],
-[
-"2026-10-21T20:38|Dry Cleaning|Gary Ashby",
-"spotify:track:30erf27MriGIsvb4rzria6"
-],
-[
-"2026-10-21T20:28|Keshavara|Moondram Sevi",
-"spotify:track:0jpeIdUkge4S8dMS0nkZ6r"
-],
-[
-"2026-10-21T20:24|Tinashe|Crash Out",
-"spotify:track:3IHTGwXvGyGslBbvHDDFrM"
-],
-[
-"2026-10-21T20:19|Automatic|Mercury",
-"spotify:track:0koaXm11b7sizUYJ67ebyn"
-],
-[
-"2026-10-21T20:16|Langoth|Grounding",
-"spotify:track:20dbDMpTif2vcnEWHnEHYR"
-],
-[
-"2026-10-21T20:04|Alewya|Cairo FM",
-"spotify:track:6v7hCIRoJkuYShT0wls1gD"
-],
-[
-"2026-10-21T19:54|Jeff Buckley|Grace",
-"spotify:track:64SIlhd3BaHCCMSfajXG7l"
-],
-[
-"2026-10-21T19:50|Chinese Man|Wolf",
-"spotify:track:6HtAJ6LeLVlDNmARFV5nqR"
-],
-[
-"2026-10-21T19:47|Girl Ray|Everybody's Saying That",
-"spotify:track:66zUar4P0lb9jZFtsJXwSw"
-],
-[
-"2026-10-21T19:30|Eels|Wonderful, Glorious",
-"spotify:track:0BxZDSMpflhTU4Y32da8VY"
-],
-[
-"2026-10-21T19:22|Anda Morts|Freitag",
-"spotify:track:6ECGcosMr9Cfdj5ooUbmAI"
-],
-[
-"2026-10-21T19:06|Courtney Barnett|Wonder",
-"spotify:track:5QraYxwAgy8LloNZeIiuQ5"
-],
-[
-"2026-10-21T18:55|Crash Test Dummies|God Shuffled His Feet",
-"spotify:track:6z2Rhkt1WJR9ex3uCeDrYj"
-],
-[
-"2026-10-21T18:49|Nneka|Shining Star",
-"spotify:track:6VhfsXyTnRRnNX77dQO1WA"
-],
-[
-"2026-10-21T18:45|Gotye|Hearts A Mess",
-"spotify:track:4nPzk1lhLWmQUX7tM94KZL"
-],
-[
-"2026-10-21T18:36|James Blake|When We’re Older",
-"spotify:track:4CbNIghDw41H5KwCHvJ6dc"
-],
-[
-"2026-10-21T18:34|Paul Kalkbrenner|Graf Zahl (Edit)",
-"spotify:track:33R7eq2Yqrhjz7eP6XhCsy"
-],
-[
-"2026-10-21T18:24|Moonlight Breakfast|If Not Now, Then When?!",
-"spotify:track:7rqjXsHITwfxR5XoKIGsaJ"
-],
-[
-"2026-10-21T18:20|Jools Holland feat. Jamiroquai|I'm In The Mood For Love",
-"spotify:track:1K2mskoYmN2Z05e6colFcr"
-],
-[
-"2026-10-21T18:17|Death Cab For Cutie|Pep Talk",
-"spotify:track:3ra7fDLqfUHBWBL702fOAn"
-],
-[
-"2026-10-21T18:08|Smidley feat. Lucy Dacus|Capstone",
-"spotify:track:0YosJMrYxYQP7mLXfFo0p1"
-],
-[
-"2026-10-21T18:05|Nightbus|Angles Mortz",
-"spotify:track:5XvRng3X26Q3oGMEoFKsWo"
-],
-[
-"2026-10-21T17:55|Interpol|Iron City",
-"spotify:track:7o9gwmscHBXh6sUEYkWQ4e"
-],
-[
-"2026-10-21T17:49|Ary|Higher",
-"spotify:track:5YaEGBOxcEHYY4o0SLJ6AR"
-],
-[
-"2026-10-21T17:45|Deki Alem|Mr Man",
-"spotify:track:37zztHh0JkdPuOYGzkLYKo"
-],
-[
-"2026-10-21T17:37|Groove Armada|Just For Tonight",
-"spotify:track:3P884E08aroqcUBo3SpcFX"
-],
-[
-"2026-10-21T17:33|Boy Harsher|Tough Luck (When You Don't Call)",
-"spotify:track:109AVLNWp2BnTXTzF4j6XE"
-],
-[
-"2026-10-21T17:26|Andy Shauf|Halloween Store",
-"spotify:track:3oWGBitSdsizfiIlCfwUqV"
-],
-[
-"2026-10-21T17:23|Ben Watt|Nathaniel",
-"spotify:track:7bpTKSgPClJZfgkjg2N0E8"
-],
-[
-"2026-10-21T17:08|Neal Francis|Hide",
-"spotify:track:197QlBcwTnJNU8DAf3BNLo"
-],
-[
-"2026-10-21T17:05|Philipp Johann Thimm|Have You Ever (feat. KOKA)",
-"spotify:track:4W2O5dHVnDH6suuhh0PjAS"
-],
-[
-"2026-10-21T16:56|No Doubt|Don't Speak",
-"spotify:track:6urCAbunOQI4bLhmGpX7iS"
-],
-[
-"2026-10-21T16:49|Niki & The Dove|Empires",
-"spotify:track:5rkmOa4PAh1aBMFph5Jdqa"
-],
-[
-"2026-10-21T16:45|Lou Reed|Walk On The Wild Side",
-"spotify:track:5p3JunprHCxClJjOmcLV8G"
-],
-[
-"2026-10-21T16:37|Babe Rainbow|Waterfall",
-"spotify:track:6b7xtvXFuODSbW4uq9IxBw"
-],
-[
-"2026-10-21T16:34|MorMor feat. Celeste|Like Heaven",
-"spotify:track:5pZGuhprytXKB7QRMul3jq"
-],
-[
-"2026-10-21T16:25|Liz Lawrence|Down For Fun",
-"spotify:track:1gaZNMKZXJQImBUEzKgGQZ"
-],
-[
-"2026-10-21T16:21|Radiohead|Knives Out",
-"spotify:track:521OhfIeThXJKiTyz0m883"
-],
-[
-"2026-10-21T16:17|Leon Bridges|Light The Way",
-"spotify:track:3G1hTUddM2diIyYA0yy9kS"
-],
-[
-"2026-10-21T16:13|SAULT|God Is Love",
-"spotify:track:3OFW1fKDdTTb3ZQ62UOLZy"
-],
-[
-"2026-10-21T16:05|The War On Drugs|Red Eyes",
-"spotify:track:3ZATMtNpzBKCLwE07hwgPc"
-],
-[
-"2026-10-21T15:57|Blonde Redhead|Sit Down For Dinner, Pt. 2",
-"spotify:track:1bCvD5l00vOU2Bk1uXtCms"
-],
-[
-"2026-10-21T15:53|Matilda Mann|Just Because",
-"spotify:track:6h6WgFMpWYbqekmeaXuaRl"
-],
-[
-"2026-10-21T15:46|Lola Young|FAKE",
-"spotify:track:3eImUEjfyVt2YtkyU6PNhB"
-],
-[
-"2026-10-21T15:32|Jamie Cullum|I'm All Over It",
-"spotify:track:293HNAjpy1wlDwFADrua2u"
-],
-[
-"2026-10-21T15:25|Marinero|Nuestra Victoria",
-"spotify:track:3ZRYcxElGx6Yjdj6uzqwYW"
-],
-[
-"2026-10-21T15:22|Erika De Casier|Delusional",
-"spotify:track:6M5Y8sn5cXePK58bH1WKon"
-],
-[
-"2026-10-21T15:18|Moby|Go",
-"spotify:track:342wZsKI3MUUgWTVKdBNtH"
-],
-[
-"2026-10-21T15:09|Tessa Rose Jackson|Built To Collide",
-"spotify:track:69saRCWp2ov8jBLOprFAfE"
-],
-[
-"2026-10-21T15:05|The Drums feat. Mareux|It Didn't Matter",
-"spotify:track:10kxTiNUTo4nlEbH1EzoX1"
-],
-[
-"2026-10-21T14:56|Sam Ragga Band feat. Jan Delay|Die Welt steht still",
-"spotify:track:4tfP0R0NoKh0jeSzBIHZ7d"
-],
-[
-"2026-10-21T14:51|Natalie Jane Hill|Never Left Me",
-"spotify:track:5mYV6uf5S0ChjFoLJWUJHI"
-],
-[
-"2026-10-21T14:44|Stevie Wonder|As",
-"spotify:track:13toFl1UwJPsRxDiD9jgtn"
-],
-[
-"2026-10-21T14:40|Kate Nash|Famine [Radio edit]",
-"spotify:track:5WJmTSsSLLOJJRkygaPSMe"
-],
-[
-"2026-10-21T14:36|Dahi feat. Kendrick Lamar & Amber Mark|How To Pray",
-"spotify:track:5M8eNQ6wLYPT9D60hbcxVU"
-],
-[
-"2026-10-21T14:32|Doechii|Anxiety",
-"spotify:track:1musbempyJAw5gfSKZHXP9"
-],
-[
-"2026-10-21T14:28|Widowspeak|Soft Cover (Edit)",
-"spotify:track:4O6f5Bgs94sUNNkNAdNyhW"
-],
-[
-"2026-10-21T14:23|DJ Shadow|Six Days",
-"spotify:track:525vGLj61tNqCToVJ9cPzp"
-],
-[
-"2026-10-21T14:17|Django Django ft. Max Pope|Feel Alright",
-"spotify:track:1TU9gJekTIXiu3RVb9wrzN"
-],
-[
-"2026-10-21T14:13|Fuffifufzich|New Era",
-"spotify:track:0sF1TJMDGYxKvu9pp1JQkQ"
-],
-[
-"2026-10-21T14:09|Moonbootica|Listen",
-"spotify:track:1WTuiLvaeykzOeK6JujW9b"
-],
-[
-"2026-10-21T14:05|Charlie Winston|Like A Hobo",
-"spotify:track:4AYtpScE2Pav9yBbM5cp56"
-],
-[
-"2026-10-21T13:56|Lightning Seeds|You Showed Me",
-"spotify:track:3BZbv2iCTCDhZ4jNJMp2bJ"
-],
-[
-"2026-10-21T13:50|Joan Baez|Dont Think Twice Its All Right",
-"spotify:track:1jWMYvFjuSzWda5mswu8r4"
-],
-[
-"2026-10-21T13:47|Starcrawler|Midnight",
-"spotify:track:0SYJnm38933pv191YArhoc"
-],
-[
-"2026-10-21T13:39|Σtella|Belinda",
-"spotify:track:1rs2lOYfBKNW5OCpeTIiVf"
-],
-[
-"2026-10-21T13:35|The Cure|A Fragile Thing",
-"spotify:track:17k0Dwj1nr2VnES26230lJ"
-],
-[
-"2026-10-21T13:32|Bilderbuch|Baby Junkie",
-"spotify:track:1bPs9oNEaAEUYfCL7tH79W"
-],
-[
-"2026-10-21T13:29|Gorillaz feat. Bizarrap, Kara Jackson and Anoushka Shankar|Orange County",
-"spotify:track:5l4Gq3UC0dHKSExIf5xD9N"
-],
-[
-"2026-10-21T13:24|Noel Harrison|The Windmills Of Your Mind",
-"spotify:track:5E7srKqL4Vh0VuB6mI03kS"
-],
-[
-"2026-10-21T13:22|Linka Moja|Men R Dogs",
-"spotify:track:7AgfOLYDB7GrgIWg60PBw7"
-],
-[
-"2026-10-21T13:14|Get Well Soon|Siri, What Ruined The West ?",
-"spotify:track:3XY1xxFHeGHDDt33V6GoE2"
-],
-[
-"2026-10-21T13:05|ERNIE|Hold Yr Horses",
-"spotify:track:5gKekPljHBtFvuQcaMOnii"
-],
-[
-"2026-10-21T12:56|L'Rain|Elmyra (Edit)",
-"spotify:track:5pedzmyyKGTs8PV23dnvbc"
-],
-[
-"2026-10-21T12:52|Florence + The Machine|Buckle",
-"spotify:track:2Ea5Qh9ijEt8og1ZNBgqhR"
-],
-[
-"2026-10-21T12:49|Squeeze|Tempted",
-"spotify:track:5r2z0FHOoFI06GZEVGDjzM"
-],
-[
-"2026-10-21T12:45|Benjamin Clementine|In Fact You Know You Gotto Go",
-"spotify:track:4cWEdRTQ8sg4QaTBIGn06j"
-],
-[
-"2026-10-21T12:41|Silly|Bye Bye",
-"spotify:track:1Fx6ARxk5ixzDxZEQw0f8j"
-],
-[
-"2026-10-21T12:36|Brian Eno & John Cale|Spinning Away",
-"spotify:track:1aMJTyCRfxfp8luej4rjAC"
-],
-[
-"2026-10-21T12:33|Grace Cummings|I'm Not Crazy",
-"spotify:track:70QaE9UJ2uTVwC4IGS6yvU"
-],
-[
-"2026-10-21T12:30|YellowStraps|Notice",
-"spotify:track:5mnfCw51Anxxyx1tFvFpNO"
-],
-[
-"2026-10-21T12:23|Lenny Kravitz|Circus",
-"spotify:track:773RId8EM5wexAlZMlVMeL"
-],
-[
-"2026-10-21T12:18|Moderat|Bad Kingdom",
-"spotify:track:4iRMYiBjR3ySyIrn2leUQH"
-],
-[
-"2026-10-21T12:10|Jorja Smith|Don't Leave",
-"spotify:track:44kUOVs16iRf11YjO7aaRW"
-],
-[
-"2026-10-21T12:07|Dekker|Pick It Up, Put It Back",
-"spotify:track:0LhuToBNSlvYc4IwVJpYWH"
-],
-[
-"2026-10-21T11:54|Big Audio Dynamite|E = MC2",
-"spotify:track:1brKHuTnA2VuMtSdfXCkDI"
-],
-[
-"2026-10-21T11:47|Ex:Re|Sleep",
-"spotify:track:31hSy1c6SWABIV3W1LqjMz"
-],
-[
-"2026-10-21T11:41|Underworld feat. Iggy Pop|Get Your Shirt",
-"spotify:track:7mhsxGnDd4Hjz7g5luuCd8"
-],
-[
-"2026-10-21T11:36|David Bowie|Everyone Says Hi",
-"spotify:track:1uckBSSDWMjRiNJ5bpWCHI"
-],
-[
-"2026-10-21T11:32|Seeed|Hale-Bopp",
-"spotify:track:73gwUCEJBgLhLzM1WTMBv0"
-],
-[
-"2026-10-21T11:30|Bonaparte|KiOSKO",
-"spotify:track:5seYGZRYuD3oPMxryJdvOk"
-],
-[
-"2026-10-21T11:25|Bob Dylan|I Want You",
-"spotify:track:7tJQ4Ekp2vN3NlI3vJJW3v"
-],
-[
-"2026-10-21T11:21|Big Thief|All Night All Day",
-"spotify:track:3gVrDEjo68KtplLuZuATTI"
-],
-[
-"2026-10-21T11:10|Fat Freddy's Drop|Boondigga",
-"spotify:track:0ZXdxmBVBpwV7WggSMcZR1"
-],
-[
-"2026-10-21T11:06|Jungle|The Wave",
-"spotify:track:6Ln44Up5lBxNgCsaLoXY6W"
-],
-[
-"2026-10-21T10:56|BICEP feat. SOARR|Air (Radio Edit)",
-"spotify:track:2infXICqVSUM3bbGSOgFOY"
-],
-[
-"2026-10-21T10:51|Beck|It Ends Right Here",
-"spotify:track:3PmyDf7Zu4vveCnayueVYX"
-],
-[
-"2026-10-21T10:45|Genesis|The Carpet Crawlers",
-"spotify:track:4T5rjxPvjsFKRcng4PAZSm"
-],
-[
-"2026-10-21T10:34|Oliver Koletzki feat. Kate Mosh|Headshaped Box",
-"spotify:track:7f2AMrk2ItnEPgDEhA4TDp"
-],
-[
-"2026-10-21T10:30|Lorde|Tennis Court",
-"spotify:track:4fnBNNoBiRqDgTTk3ZQo3E"
-],
-[
-"2026-10-21T10:26|Oscar Anton|Bye Bye (Radio Edit)",
-"spotify:track:02q60trEKaNAa9oZbGFBW0"
-],
-[
-"2026-10-21T10:23|Sassy 009 feat. Blood Orange|Tell Me (Jam City Remix) (Edit)",
-"spotify:track:1pDiRrLro0tlhsPSexB3Zv"
-],
-[
-"2026-10-21T10:19|Kings Of Leon|My Whole World",
-"spotify:track:2tfc81XZfVReM0kYQqv7o3"
-],
-[
-"2026-10-21T10:10|Gotan Project|La Vigüela",
-"spotify:track:2a3YtteFZ62E5yH3WGqUB1"
-],
-[
-"2026-10-21T10:05|Yard Act|You're Gonna Need A Little Music",
-"spotify:track:43KS2LpjMVkvJdprLaoQxQ"
-],
-[
-"2026-10-21T09:55|Everlast|What It's Like",
-"spotify:track:6vUPPEN2V2lZ78b6DyEIjZ"
-],
-[
-"2026-10-21T09:51|Kollektiv Turmstrasse feat. Joel Stewart|When The Lights Go Lower",
-"spotify:track:0KuVHr9kyw0Z2gBv5gwNH1"
-],
-[
-"2026-10-21T09:47|Bleachers|the van",
-"spotify:track:4C2o68XUoLpjvncsNsgwjA"
-],
-[
-"2026-10-21T09:43|The Avalanches feat. Karen O|Blue Shadows",
-"spotify:track:5bN5To0VLbNBKQDzJ1Lk6c"
-],
-[
-"2026-10-21T09:35|Tame Impala|Elephant",
-"spotify:track:6qZjm61s6u8Ead9sWxCDro"
-],
-[
-"2026-10-21T09:25|The Waterboys|The Whole Of The Moon",
-"spotify:track:5rUWsV9OlutKyq9aXUOYYw"
-],
-[
-"2026-10-21T09:19|Friedberg|Goodwife",
-"spotify:track:1H89j9NLse1E0Kmjb3tzW6"
-],
-[
-"2026-10-21T09:15|Bulgarian Cartrader|In My Zone (Radio Edit)",
-"spotify:track:5eRnR1gok6Btb2kYJICbsX"
-],
-[
-"2026-10-21T09:07|Maribou State feat. Khruangbin|Feel Good",
-"spotify:track:5EhyJGUafXNnPniaIQnSER"
-],
-[
-"2026-10-21T08:58|Viagra Boys|Uno II",
-"spotify:track:2CHdkhVS2Nh0fIEdzpokC7"
 ]
 ],
 "entries": [
+{
+"id": "2026-10-29T05:22|Ernie K-Doe|Here Comes The Girls (UK Hit Single Version)",
+"t": "2026-10-29T05:22:00+01:00",
+"artist": "Ernie K-Doe",
+"title": "Here Comes The Girls (UK Hit Single Version)"
+},
+{
+"id": "2026-10-29T05:17|Death Cab For Cutie|Pep Talk",
+"t": "2026-10-29T05:17:00+01:00",
+"artist": "Death Cab For Cutie",
+"title": "Pep Talk"
+},
+{
+"id": "2026-10-29T05:12|Finley Quaye|Your Love Gets Sweeter",
+"t": "2026-10-29T05:12:00+01:00",
+"artist": "Finley Quaye",
+"title": "Your Love Gets Sweeter"
+},
+{
+"id": "2026-10-29T05:07|Benjamin Clementine|In Fact You Know You Gotto Go",
+"t": "2026-10-29T05:07:00+01:00",
+"artist": "Benjamin Clementine",
+"title": "In Fact You Know You Gotto Go"
+},
 {
 "id": "2026-10-29T05:03|Odd Beholder|Internet Famous",
 "t": "2026-10-29T05:03:00+01:00",
@@ -9349,24 +9089,6 @@
 "t": "2026-10-22T05:31:00+02:00",
 "artist": "Steely Dan",
 "title": "Reelin' In The Years"
-},
-{
-"id": "2026-10-22T05:27|White Rabbits|Percussion Gun",
-"t": "2026-10-22T05:27:00+02:00",
-"artist": "White Rabbits",
-"title": "Percussion Gun"
-},
-{
-"id": "2026-10-22T05:25|Alice Gift|Trance Park",
-"t": "2026-10-22T05:25:00+02:00",
-"artist": "Alice Gift",
-"title": "Trance Park"
-},
-{
-"id": "2026-10-22T05:19|Sassy 009 feat. Blood Orange|Tell Me (Jam City Remix) (Edit)",
-"t": "2026-10-22T05:19:00+02:00",
-"artist": "Sassy 009 feat. Blood Orange",
-"title": "Tell Me (Jam City Remix) (Edit)"
 }
 ]
 }
