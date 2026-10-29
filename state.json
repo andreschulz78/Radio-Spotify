@@ -1,18 +1,30 @@
 {
-"updated": "2026-10-29T13:43:11.977877+01:00",
+"updated": "2026-10-29T13:55:11.978253+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
-"synced": "2026-10-29T13:35:11.977658+01:00",
+"synced": "2026-10-29T13:51:11.978129+01:00",
 "pruned": "2026-10-29",
 "calls": {
 "2026-10-28": 21,
-"2026-10-29": 202
+"2026-10-29": 211
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAdRff/up1/mLP3mnqX7+LN3E7/mxrA",
+"snapshot": "AAAdSgrnv8db3QOCEXDPKI/sYHoorvDp",
 "playlist": [
+[
+"2026-10-29T13:46|Aurora|All My Demons Greeting Me As A Friend",
+"spotify:track:5O1tikYb6HKrP5cxSQv0iV"
+],
+[
+"2026-10-29T13:42|Lord Huron|Bag of bones",
+"spotify:track:1M2AqYT4Y6X0zRboZgIw8K"
+],
+[
+"2026-10-29T13:35|Nia Archives|There Goes Ma Head",
+"spotify:track:0ceKqpXrrC3CtFwFiLJeoY"
+],
 [
 "2026-10-29T13:31|Phosphorescent|New birth in New England - Radio Edit",
 "spotify:track:27sYjzLP1g4xUrCKNvpBBW"
@@ -3670,10 +3682,6 @@
 "spotify:track:7Hg7l5aOygIHuaNDVFp3ox"
 ],
 [
-"2026-10-22T13:51|Friedberg|Goodwife",
-"spotify:track:1H89j9NLse1E0Kmjb3tzW6"
-],
-[
 "2026-10-22T13:46|Mumford & Sons|I Will Wait",
 "spotify:track:4kbYevkszYmMhoQcwnR7cZ"
 ],
@@ -3991,6 +3999,30 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-10-29T13:50|Linear John|Any Which Way To Go",
+"t": "2026-10-29T13:50:00+01:00",
+"artist": "Linear John",
+"title": "Any Which Way To Go"
+},
+{
+"id": "2026-10-29T13:46|Aurora|All My Demons Greeting Me As A Friend",
+"t": "2026-10-29T13:46:00+01:00",
+"artist": "Aurora",
+"title": "All My Demons Greeting Me As A Friend"
+},
+{
+"id": "2026-10-29T13:42|Lord Huron|Bag of bones",
+"t": "2026-10-29T13:42:00+01:00",
+"artist": "Lord Huron",
+"title": "Bag of bones"
+},
+{
+"id": "2026-10-29T13:39|Robert D.|Clubbed To Death (Edit)",
+"t": "2026-10-29T13:39:00+01:00",
+"artist": "Robert D.",
+"title": "Clubbed To Death (Edit)"
+},
 {
 "id": "2026-10-29T13:35|Nia Archives|There Goes Ma Head",
 "t": "2026-10-29T13:35:00+01:00",
@@ -9630,18 +9662,6 @@
 "t": "2026-10-22T13:57:00+02:00",
 "artist": "Lola Young",
 "title": "From Down Here (Radio Edit)"
-},
-{
-"id": "2026-10-22T13:51|Friedberg|Goodwife",
-"t": "2026-10-22T13:51:00+02:00",
-"artist": "Friedberg",
-"title": "Goodwife"
-},
-{
-"id": "2026-10-22T13:46|Mumford & Sons|I Will Wait",
-"t": "2026-10-22T13:46:00+02:00",
-"artist": "Mumford & Sons",
-"title": "I Will Wait"
 }
 ]
 }
