@@ -1,18 +1,30 @@
 {
-"updated": "2026-10-29T05:39:04.317506+01:00",
+"updated": "2026-10-29T05:51:04.317829+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
-"synced": "2026-10-29T05:35:04.317380+01:00",
+"synced": "2026-10-29T05:51:04.317829+01:00",
 "pruned": "2026-10-29",
 "calls": {
 "2026-10-28": 21,
-"2026-10-29": 14
+"2026-10-29": 29
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAdB4XMfa5IKSSAPR5W6RjtsRlq0ohn",
+"snapshot": "AAAdDNwpn+Iasu2UdmOK5aPkuYTo4yR9",
 "playlist": [
+[
+"2026-10-29T05:46|U2|Magnificent",
+"spotify:track:4Dsmse5UgrtyJecAGqhanG"
+],
+[
+"2026-10-29T05:41|Pip Blom|The Shed",
+"spotify:track:5jQPVHWPli7PbJz37Bc5Z8"
+],
+[
+"2026-10-29T05:37|Joy Fleming|Ein Lied kann eine Brücke sein",
+"spotify:track:68yLDTNBd1PZMl67k6fbY5"
+],
 [
 "2026-10-29T05:31|White Lies|Bigger Than Us",
 "spotify:track:16qk14k2wCyCWggv6kRATF"
@@ -130,12 +142,36 @@
 "spotify:track:3E97feDILNLoSgGMy3nKTO"
 ],
 [
+"2026-10-28T17:49|Patti Smith|April Fool",
+"spotify:track:7b9FS2uvbKobrnM2RyJDsB"
+],
+[
+"2026-10-28T17:46|Nick Mulvey|Brother To You",
+"spotify:track:0u9keTpHsXa73izEri7AJV"
+],
+[
+"2026-10-28T17:36|Frazey Ford|Done",
+"spotify:track:0SBgqjWlmhPfz5HTl9yHp3"
+],
+[
+"2026-10-28T17:33|Grace Jones|La Vie En Rose",
+"spotify:track:5yJrl2r0vr6u9BXqQXZE3V"
+],
+[
 "2026-10-28T17:24|Leon Bridges|Talk it over",
 "spotify:track:5Bdn8RyTqz4dV7F07EFBP5"
 ],
 [
 "2026-10-28T17:18|Sam Burton|I'm A Stranger",
 "spotify:track:4hAYraVhSzgMTdvftCcqKo"
+],
+[
+"2026-10-28T17:14|Garbage|Push It",
+"spotify:track:5i3jxCTGqa5zbplZzYzUcP"
+],
+[
+"2026-10-28T17:10|The Dead South|In Hell I'll Be Good Company",
+"spotify:track:4eMxLQtSdgxdA1Hs6D2YuN"
 ],
 [
 "2026-10-28T17:05|Pamela.|Better than Before",
@@ -146,12 +182,24 @@
 "spotify:track:0HJuwBpU9bpH3Zt5r1PtNS"
 ],
 [
+"2026-10-28T16:48|Apparat|Little Feet (Radio Edit)",
+"spotify:track:4urSQgCa5bJxrncJj6V68e"
+],
+[
+"2026-10-28T16:44|Amy Winehouse|Between The Cheats",
+"spotify:track:77RrNbeBUXb1Dtewp0HQuR"
+],
+[
 "2026-10-28T16:36|The Drums feat. Mareux|It Didn't Matter",
 "spotify:track:10kxTiNUTo4nlEbH1EzoX1"
 ],
 [
 "2026-10-28T16:34|Nia Archives|There Goes Ma Head",
 "spotify:track:0ceKqpXrrC3CtFwFiLJeoY"
+],
+[
+"2026-10-28T16:25|The The|The Beat(en) Generation",
+"spotify:track:4UuQYk4H88vLxVH2uW2QEy"
 ],
 [
 "2026-10-28T16:22|Kelela|the bridge (feat. PinkPantheress)",
@@ -3479,6 +3527,24 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-10-29T05:46|U2|Magnificent",
+"t": "2026-10-29T05:46:00+01:00",
+"artist": "U2",
+"title": "Magnificent"
+},
+{
+"id": "2026-10-29T05:41|Pip Blom|The Shed",
+"t": "2026-10-29T05:41:00+01:00",
+"artist": "Pip Blom",
+"title": "The Shed"
+},
+{
+"id": "2026-10-29T05:37|Joy Fleming|Ein Lied kann eine Brücke sein",
+"t": "2026-10-29T05:37:00+01:00",
+"artist": "Joy Fleming",
+"title": "Ein Lied kann eine Brücke sein"
+},
 {
 "id": "2026-10-29T05:31|White Lies|Bigger Than Us",
 "t": "2026-10-29T05:31:00+01:00",
@@ -9130,18 +9196,6 @@
 "t": "2026-10-22T05:52:00+02:00",
 "artist": "EL VY",
 "title": "Return To The Moon"
-},
-{
-"id": "2026-10-22T05:49|Belle & Sebastian|Act Of The Apostle Part 1",
-"t": "2026-10-22T05:49:00+02:00",
-"artist": "Belle & Sebastian",
-"title": "Act Of The Apostle Part 1"
-},
-{
-"id": "2026-10-22T05:42|Saint Motel|My Type",
-"t": "2026-10-22T05:42:00+02:00",
-"artist": "Saint Motel",
-"title": "My Type"
 }
 ]
 }
