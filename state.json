@@ -1,18 +1,34 @@
 {
-"updated": "2026-10-29T14:31:11.979357+01:00",
+"updated": "2026-10-29T14:43:11.979756+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
-"synced": "2026-10-29T14:23:11.979083+01:00",
+"synced": "2026-10-29T14:39:11.979629+01:00",
 "pruned": "2026-10-29",
 "calls": {
 "2026-10-28": 21,
-"2026-10-29": 215
+"2026-10-29": 219
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAdTBGjbJVHOt5QewQEwLtIi5rrF3SJ",
+"snapshot": "AAAdTtZAnGL985j9Ag3W+fg8MEKWzVod",
 "playlist": [
+[
+"2026-10-29T14:29|Brandt Brauer Frick feat. Sophie Hunger|This feeling (Radio Edit)",
+"spotify:track:5KpJFmh58kmirXTkC5zwZQ"
+],
+[
+"2026-10-29T14:24|Lola Young|From Down Here (Radio Edit)",
+"spotify:track:7Hg7l5aOygIHuaNDVFp3ox"
+],
+[
+"2026-10-29T14:21|Marmaduke Duke|Kid Gloves",
+"spotify:track:3ulVDX61VKj4N6RyZv9J6b"
+],
+[
+"2026-10-29T14:18|Bilderbuch|Baby Junkie",
+"spotify:track:1bPs9oNEaAEUYfCL7tH79W"
+],
 [
 "2026-10-29T14:10|The KLF feat. The Children Of The Revolution|3 A.M. Eternal",
 "spotify:track:0ldLTYuqnHU92weLtw6W9m"
@@ -3662,10 +3678,6 @@
 "spotify:track:0nhDAyyzpyDLdk531WAAs9"
 ],
 [
-"2026-10-22T14:39|Sparklmami|No te vayas",
-"spotify:track:6BEubkVfewFOsd0LUwtb0C"
-],
-[
 "2026-10-22T14:34|Lydmor & Bon Homme|Dream Of Fire",
 "spotify:track:72PNVrCqm2SjdaCAXznZI5"
 ],
@@ -4015,6 +4027,18 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-10-29T14:34|David Bowie|Heroes (Single Version)",
+"t": "2026-10-29T14:34:00+01:00",
+"artist": "David Bowie",
+"title": "Heroes (Single Version)"
+},
+{
+"id": "2026-10-29T14:29|Brandt Brauer Frick feat. Sophie Hunger|This feeling (Radio Edit)",
+"t": "2026-10-29T14:29:00+01:00",
+"artist": "Brandt Brauer Frick feat. Sophie Hunger",
+"title": "This feeling (Radio Edit)"
+},
 {
 "id": "2026-10-29T14:24|Lola Young|From Down Here (Radio Edit)",
 "t": "2026-10-29T14:24:00+01:00",
@@ -9654,24 +9678,6 @@
 "t": "2026-10-22T14:46:00+02:00",
 "artist": "Wanda",
 "title": "Salbei (Single Edit)"
-},
-{
-"id": "2026-10-22T14:42|White Lies|Am I Really Going To Die (Edit)",
-"t": "2026-10-22T14:42:00+02:00",
-"artist": "White Lies",
-"title": "Am I Really Going To Die (Edit)"
-},
-{
-"id": "2026-10-22T14:39|Sparklmami|No te vayas",
-"t": "2026-10-22T14:39:00+02:00",
-"artist": "Sparklmami",
-"title": "No te vayas"
-},
-{
-"id": "2026-10-22T14:34|Lydmor & Bon Homme|Dream Of Fire",
-"t": "2026-10-22T14:34:00+02:00",
-"artist": "Lydmor & Bon Homme",
-"title": "Dream Of Fire"
 }
 ]
 }
