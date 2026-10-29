@@ -1,5 +1,5 @@
 {
-"updated": "2026-10-29T10:55:11.972614+01:00",
+"updated": "2026-10-29T11:07:11.973022+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
@@ -7,7 +7,7 @@
 "pruned": "2026-10-29",
 "calls": {
 "2026-10-28": 21,
-"2026-10-29": 168
+"2026-10-29": 170
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
@@ -3887,6 +3887,12 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-10-29T10:57|Dusty Springfield|Son Of A Preacher Man",
+"t": "2026-10-29T10:57:00+01:00",
+"artist": "Dusty Springfield",
+"title": "Son Of A Preacher Man"
+},
 {
 "id": "2026-10-29T10:51|Ex:Re|Sleep",
 "t": "2026-10-29T10:51:00+01:00",
@@ -9544,18 +9550,6 @@
 "t": "2026-10-22T11:10:00+02:00",
 "artist": "Betterov",
 "title": "Immer die Musik"
-},
-{
-"id": "2026-10-22T11:07|Velar Prana|No Need To Hide",
-"t": "2026-10-22T11:07:00+02:00",
-"artist": "Velar Prana",
-"title": "No Need To Hide"
-},
-{
-"id": "2026-10-22T10:58|Dahi feat. Kendrick Lamar & Amber Mark|How To Pray",
-"t": "2026-10-22T10:58:00+02:00",
-"artist": "Dahi feat. Kendrick Lamar & Amber Mark",
-"title": "How To Pray"
 }
 ]
 }
