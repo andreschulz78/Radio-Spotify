@@ -1,18 +1,34 @@
 {
-"updated": "2026-10-29T19:59:19.018871+01:00",
+"updated": "2026-10-29T20:11:19.019237+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
-"synced": "2026-10-29T19:47:19.018494+01:00",
+"synced": "2026-10-29T20:03:19.019002+01:00",
 "pruned": "2026-10-29",
 "calls": {
 "2026-10-28": 21,
-"2026-10-29": 274
+"2026-10-29": 279
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAdY+nx1aUsK/xZI+R8fsyRnODg7STN",
+"snapshot": "AAAdZN96BI/x75jeQC1MkXfbDjyayPjn",
 "playlist": [
+[
+"2026-10-29T19:55|Yello|The Race",
+"spotify:track:7s7UTMVol8tCa889aPhZzS"
+],
+[
+"2026-10-29T19:53|Metronomy|The Look",
+"spotify:track:0ssgRdOcmC8rojsfAvdvFN"
+],
+[
+"2026-10-29T19:50|Gabriels|Break It",
+"spotify:track:5WiVqnjVzB9tNXqeSKZgxH"
+],
+[
+"2026-10-29T19:46|Elvis Costello & The Imposters|Unwanted number",
+"spotify:track:0o18FakQWjSDmbbJcq6Do3"
+],
 [
 "2026-10-29T19:43|Bonobo feat. Joy Crookes|Always on Your Side",
 "spotify:track:6jJTpzMquQLVuUkM2vVEIF"
@@ -4203,6 +4219,24 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-10-29T20:05|Mando Diao|If I Don't Live Today, Then I Might Be Here Tomorrow",
+"t": "2026-10-29T20:05:00+01:00",
+"artist": "Mando Diao",
+"title": "If I Don't Live Today, Then I Might Be Here Tomorrow"
+},
+{
+"id": "2026-10-29T19:55|Yello|The Race",
+"t": "2026-10-29T19:55:00+01:00",
+"artist": "Yello",
+"title": "The Race"
+},
+{
+"id": "2026-10-29T19:53|Metronomy|The Look",
+"t": "2026-10-29T19:53:00+01:00",
+"artist": "Metronomy",
+"title": "The Look"
+},
 {
 "id": "2026-10-29T19:50|Gabriels|Break It",
 "t": "2026-10-29T19:50:00+01:00",
@@ -9848,12 +9882,6 @@
 "t": "2026-10-22T20:19:00+02:00",
 "artist": "Bulgarian Cartrader",
 "title": "In My Zone (Radio Edit)"
-},
-{
-"id": "2026-10-22T20:04|Mumford & Sons|Roll Away Your Stone",
-"t": "2026-10-22T20:04:00+02:00",
-"artist": "Mumford & Sons",
-"title": "Roll Away Your Stone"
 }
 ]
 }
