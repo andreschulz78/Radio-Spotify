@@ -1,18 +1,30 @@
 {
-"updated": "2026-10-29T18:35:19.016387+01:00",
+"updated": "2026-10-29T18:47:19.016777+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
-"synced": "2026-10-29T18:23:19.016064+01:00",
+"synced": "2026-10-29T18:39:19.016538+01:00",
 "pruned": "2026-10-29",
 "calls": {
 "2026-10-28": 21,
-"2026-10-29": 264
+"2026-10-29": 266
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAdXvop3/kZi2TM8p/nUcCnEDKY5z7C",
+"snapshot": "AAAdXz0x1nwZAjzCh+/l6OCxxjU84nux",
 "playlist": [
+[
+"2026-10-29T18:26|Chelonis R. Jones|Le Bateau Ivre",
+"spotify:track:3pX6hHvkvf5wQYjilDWhgU"
+],
+[
+"2026-10-29T18:20|Vince Staples|Tulsa, OK",
+"spotify:track:4lyK8sT0dLpxSBv14wtVet"
+],
+[
+"2026-10-29T18:18|Gotye|Learnalilgivinanlovin",
+"spotify:track:5tbOJWvn9H7gB4Tb49nfI4"
+],
 [
 "2026-10-29T18:10|Jordan Rakei|Enemies",
 "spotify:track:0X9GwAax0c0HPe3iIoDVW6"
@@ -4151,6 +4163,18 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-10-29T18:41|Still Blank|Ain't Quite Right (Edit)",
+"t": "2026-10-29T18:41:00+01:00",
+"artist": "Still Blank",
+"title": "Ain't Quite Right (Edit)"
+},
+{
+"id": "2026-10-29T18:34|Tom Misch feat. De La Soul|It Runs Through Me  (Radio Edit)",
+"t": "2026-10-29T18:34:00+01:00",
+"artist": "Tom Misch feat. De La Soul",
+"title": "It Runs Through Me  (Radio Edit)"
+},
 {
 "id": "2026-10-29T18:26|Chelonis R. Jones|Le Bateau Ivre",
 "t": "2026-10-29T18:26:00+01:00",
@@ -9766,24 +9790,6 @@
 "t": "2026-10-22T18:50:00+02:00",
 "artist": "George Benson",
 "title": "On Broadway"
-},
-{
-"id": "2026-10-22T18:46|JJerome87|Green Velvet",
-"t": "2026-10-22T18:46:00+02:00",
-"artist": "JJerome87",
-"title": "Green Velvet"
-},
-{
-"id": "2026-10-22T18:43|Monolink|Running (Radio Edit)",
-"t": "2026-10-22T18:43:00+02:00",
-"artist": "Monolink",
-"title": "Running (Radio Edit)"
-},
-{
-"id": "2026-10-22T18:36|Michael Nau|Love Survive",
-"t": "2026-10-22T18:36:00+02:00",
-"artist": "Michael Nau",
-"title": "Love Survive"
 }
 ]
 }
