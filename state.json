@@ -1,18 +1,22 @@
 {
-"updated": "2026-10-29T20:11:19.019237+01:00",
+"updated": "2026-10-29T20:23:19.019571+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
-"synced": "2026-10-29T20:03:19.019002+01:00",
+"synced": "2026-10-29T20:19:19.019458+01:00",
 "pruned": "2026-10-29",
 "calls": {
 "2026-10-28": 21,
-"2026-10-29": 279
+"2026-10-29": 282
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAdZN96BI/x75jeQC1MkXfbDjyayPjn",
+"snapshot": "AAAdZ/LXvReoHlKoad8bhR/hDnn+1FgX",
 "playlist": [
+[
+"2026-10-29T20:05|Mando Diao|If I Don't Live Today, Then I Might Be Here Tomorrow",
+"spotify:track:1VgNVaWXTTuak2Ddnu9UVT"
+],
 [
 "2026-10-29T19:55|Yello|The Race",
 "spotify:track:7s7UTMVol8tCa889aPhZzS"
@@ -3686,10 +3690,6 @@
 "spotify:track:0uKPNVwP11KCIJxlmfhS36"
 ],
 [
-"2026-10-22T20:19|Bulgarian Cartrader|In My Zone (Radio Edit)",
-"spotify:track:5eRnR1gok6Btb2kYJICbsX"
-],
-[
 "2026-10-22T20:04|Mumford & Sons|Roll Away Your Stone",
 "spotify:track:2kT6X8PgXQ8GR2uhEQDZOc"
 ],
@@ -4219,6 +4219,12 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-10-29T20:16|Widowspeak|Soft Cover (Edit)",
+"t": "2026-10-29T20:16:00+01:00",
+"artist": "Widowspeak",
+"title": "Soft Cover (Edit)"
+},
 {
 "id": "2026-10-29T20:05|Mando Diao|If I Don't Live Today, Then I Might Be Here Tomorrow",
 "t": "2026-10-29T20:05:00+01:00",
@@ -9870,18 +9876,6 @@
 "t": "2026-10-22T20:39:00+02:00",
 "artist": "Leon Bridges",
 "title": "Light The Way"
-},
-{
-"id": "2026-10-22T20:22|The Fixx|Less Cities, More Moving People",
-"t": "2026-10-22T20:22:00+02:00",
-"artist": "The Fixx",
-"title": "Less Cities, More Moving People"
-},
-{
-"id": "2026-10-22T20:19|Bulgarian Cartrader|In My Zone (Radio Edit)",
-"t": "2026-10-22T20:19:00+02:00",
-"artist": "Bulgarian Cartrader",
-"title": "In My Zone (Radio Edit)"
 }
 ]
 }
