@@ -1,18 +1,30 @@
 {
-"updated": "2026-10-29T17:23:19.014310+01:00",
+"updated": "2026-10-29T17:35:19.014687+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
-"synced": "2026-10-29T17:19:19.014164+01:00",
+"synced": "2026-10-29T17:35:19.014687+01:00",
 "pruned": "2026-10-29",
 "calls": {
 "2026-10-28": 21,
-"2026-10-29": 248
+"2026-10-29": 251
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAdWL+xyljvLIIFOJJLfoEvE0Rc2aZa",
+"snapshot": "AAAdWbxoS+HYmK4zVTzhxpjMALVXaccI",
 "playlist": [
+[
+"2026-10-29T17:27|Devendra Banhart|16th & Valencia Roxy Music",
+"spotify:track:6b6qt7rMWSBpoTABd6t9nB"
+],
+[
+"2026-10-29T17:24|Django Django|Storm",
+"spotify:track:7wA4OhcSXa8WxEv9C3KLqb"
+],
+[
+"2026-10-29T17:14|IDER|Unlearn",
+"spotify:track:1hh2XBXvivMbbaeNsZhtyD"
+],
 [
 "2026-10-29T17:10|Alabama 3|Ain't Goin' To Goa",
 "spotify:track:4Xa8swQPorL6e1ZF91PxIv"
@@ -4115,6 +4127,18 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-10-29T17:27|Devendra Banhart|16th & Valencia Roxy Music",
+"t": "2026-10-29T17:27:00+01:00",
+"artist": "Devendra Banhart",
+"title": "16th & Valencia Roxy Music"
+},
+{
+"id": "2026-10-29T17:24|Django Django|Storm",
+"t": "2026-10-29T17:24:00+01:00",
+"artist": "Django Django",
+"title": "Storm"
+},
 {
 "id": "2026-10-29T17:14|IDER|Unlearn",
 "t": "2026-10-29T17:14:00+01:00",
@@ -9736,18 +9760,6 @@
 "t": "2026-10-22T17:38:00+02:00",
 "artist": "Ibeyi",
 "title": "Sister 2 Sister"
-},
-{
-"id": "2026-10-22T17:33|Moscoman & Tom Sanders|In Stereo",
-"t": "2026-10-22T17:33:00+02:00",
-"artist": "Moscoman & Tom Sanders",
-"title": "In Stereo"
-},
-{
-"id": "2026-10-22T17:25|Alewya|Cairo FM",
-"t": "2026-10-22T17:25:00+02:00",
-"artist": "Alewya",
-"title": "Cairo FM"
 }
 ]
 }
