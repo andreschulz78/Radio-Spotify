@@ -1,18 +1,30 @@
 {
-"updated": "2026-10-29T11:31:11.973692+01:00",
+"updated": "2026-10-29T11:43:11.974069+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
-"synced": "2026-10-29T11:27:11.973601+01:00",
+"synced": "2026-10-29T11:43:11.974069+01:00",
 "pruned": "2026-10-29",
 "calls": {
 "2026-10-28": 21,
-"2026-10-29": 174
+"2026-10-29": 180
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAdOkJtH1c1NFvfmsXalGx9yqxUOyaB",
+"snapshot": "AAAdPGp8TVuY3JCF2cdWYoEp7lyqnD9w",
 "playlist": [
+[
+"2026-10-29T11:35|Yard Act|Janey Said (Edit)",
+"spotify:track:0mV0B0SbcF6CMSdDyDNYpR"
+],
+[
+"2026-10-29T11:32|Shout Out Louds|Tonight I Have To Leave It",
+"spotify:track:4F995v1qo9LqxNlN0wCDnc"
+],
+[
+"2026-10-29T11:26|Cameo|Word up!",
+"spotify:track:7LoGfKBAaOl0nxhodJ1240"
+],
 [
 "2026-10-29T11:23|Kelis|Trick Me",
 "spotify:track:2Kj2g7YOfd7XsmAlwk0X1B"
@@ -3678,10 +3690,6 @@
 "spotify:track:383q4d3j4gnvNN6dtlxyvM"
 ],
 [
-"2026-10-22T11:43|Elton John; Dua Lipa|Cold Heart (Pnau Remix)",
-"spotify:track:0k6LV1ohcK2hlNPwu1nVw9"
-],
-[
 "2026-10-22T11:38|Klaxons|Golden Skans",
 "spotify:track:6BqWhxll86CGGE6WxgdRqG"
 ],
@@ -3911,6 +3919,24 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-10-29T11:35|Yard Act|Janey Said (Edit)",
+"t": "2026-10-29T11:35:00+01:00",
+"artist": "Yard Act",
+"title": "Janey Said (Edit)"
+},
+{
+"id": "2026-10-29T11:32|Shout Out Louds|Tonight I Have To Leave It",
+"t": "2026-10-29T11:32:00+01:00",
+"artist": "Shout Out Louds",
+"title": "Tonight I Have To Leave It"
+},
+{
+"id": "2026-10-29T11:26|Cameo|Word up!",
+"t": "2026-10-29T11:26:00+01:00",
+"artist": "Cameo",
+"title": "Word up!"
+},
 {
 "id": "2026-10-29T11:23|Kelis|Trick Me",
 "t": "2026-10-29T11:23:00+01:00",
@@ -9556,24 +9582,6 @@
 "t": "2026-10-22T11:47:00+02:00",
 "artist": "Seamus Fogarty",
 "title": "Fire (Edit)"
-},
-{
-"id": "2026-10-22T11:43|Elton John; Dua Lipa|Cold Heart (Pnau Remix)",
-"t": "2026-10-22T11:43:00+02:00",
-"artist": "Elton John; Dua Lipa",
-"title": "Cold Heart (Pnau Remix)"
-},
-{
-"id": "2026-10-22T11:38|Klaxons|Golden Skans",
-"t": "2026-10-22T11:38:00+02:00",
-"artist": "Klaxons",
-"title": "Golden Skans"
-},
-{
-"id": "2026-10-22T11:34|1-800 Girls feat. Art School Girlfriend|sometimes",
-"t": "2026-10-22T11:34:00+02:00",
-"artist": "1-800 Girls feat. Art School Girlfriend",
-"title": "sometimes"
 }
 ]
 }
