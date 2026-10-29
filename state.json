@@ -1,18 +1,22 @@
 {
-"updated": "2026-10-29T10:15:04.325293+01:00",
+"updated": "2026-10-29T10:27:04.325655+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
-"synced": "2026-10-29T10:07:04.325110+01:00",
+"synced": "2026-10-29T10:23:04.325516+01:00",
 "pruned": "2026-10-29",
 "calls": {
 "2026-10-28": 21,
-"2026-10-29": 158
+"2026-10-29": 163
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAdNJQrlt2/fjQ4KYdRypi2SJr3GR8N",
+"snapshot": "AAAdNod9MiG2EzsVPyXFN4GQGwB8wJMT",
 "playlist": [
+[
+"2026-10-29T10:08|Nichtseattle|Ich mit Brille",
+"spotify:track:1C0Lpji3kKe7rZie1LC4bx"
+],
 [
 "2026-10-29T09:56|Panda Bear & Sonic Boom|Edge of the Edge (Radio Edit)",
 "spotify:track:1FjITBDWT1DyZGiMaJvy2a"
@@ -3678,10 +3682,6 @@
 "spotify:track:0ZirVpVEx943xdUD9bivHe"
 ],
 [
-"2026-10-22T10:23|The Dodoz|Ghost",
-"spotify:track:3SfvjALirB1eW5eKJB3EBw"
-],
-[
 "2026-10-22T10:19|Banderas|This Is Your Life",
 "spotify:track:36m3Oa3hP5L7zMpgSERRNJ"
 ],
@@ -3859,6 +3859,12 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-10-29T10:20|Moby|Porcelain",
+"t": "2026-10-29T10:20:00+01:00",
+"artist": "Moby",
+"title": "Porcelain"
+},
 {
 "id": "2026-10-29T10:08|Nichtseattle|Ich mit Brille",
 "t": "2026-10-29T10:08:00+01:00",
@@ -9504,24 +9510,6 @@
 "t": "2026-10-22T10:33:00+02:00",
 "artist": "Jamie xx",
 "title": "Dream Night"
-},
-{
-"id": "2026-10-22T10:27|Mari Froes|Eu vou pro samba, viu?",
-"t": "2026-10-22T10:27:00+02:00",
-"artist": "Mari Froes",
-"title": "Eu vou pro samba, viu?"
-},
-{
-"id": "2026-10-22T10:23|The Dodoz|Ghost",
-"t": "2026-10-22T10:23:00+02:00",
-"artist": "The Dodoz",
-"title": "Ghost"
-},
-{
-"id": "2026-10-22T10:19|Banderas|This Is Your Life",
-"t": "2026-10-22T10:19:00+02:00",
-"artist": "Banderas",
-"title": "This Is Your Life"
 }
 ]
 }
