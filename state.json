@@ -1,18 +1,26 @@
 {
-"updated": "2026-10-29T08:27:04.322439+01:00",
+"updated": "2026-10-29T08:39:04.322820+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
-"synced": "2026-10-29T08:15:04.322048+01:00",
+"synced": "2026-10-29T08:31:04.322577+01:00",
 "pruned": "2026-10-29",
 "calls": {
 "2026-10-28": 21,
-"2026-10-29": 140
+"2026-10-29": 141
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAdLMENg550eMCXQkfCYNxfq/nXwYro",
+"snapshot": "AAAdLelQOmB8LVc1FyBhlGu0kltKVZi1",
 "playlist": [
+[
+"2026-10-29T08:24|Wanda|Salbei (Single Edit)",
+"spotify:track:1KTt6NGF0ZvnBtNBWTEBiU"
+],
+[
+"2026-10-29T08:16|Poliça|Carlines",
+"spotify:track:3yuU8d8ckQ1SeLNSynIurJ"
+],
 [
 "2026-10-29T08:12|Nia Archives|Vertical",
 "spotify:track:0ecQazzKkndVD8Ry9Orp9Q"
@@ -3803,6 +3811,12 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-10-29T08:24|Wanda|Salbei (Single Edit)",
+"t": "2026-10-29T08:24:00+01:00",
+"artist": "Wanda",
+"title": "Salbei (Single Edit)"
+},
 {
 "id": "2026-10-29T08:16|Poliça|Carlines",
 "t": "2026-10-29T08:16:00+01:00",
@@ -9454,12 +9468,6 @@
 "t": "2026-10-22T08:46:00+02:00",
 "artist": "Steve Lacy",
 "title": "Show You Me"
-},
-{
-"id": "2026-10-22T08:36|Crystal Fighters|Plage",
-"t": "2026-10-22T08:36:00+02:00",
-"artist": "Crystal Fighters",
-"title": "Plage"
 }
 ]
 }
