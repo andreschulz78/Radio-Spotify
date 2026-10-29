@@ -1,5 +1,5 @@
 {
-"updated": "2026-10-29T05:51:04.317829+01:00",
+"updated": "2026-10-29T06:03:04.318206+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
@@ -7,7 +7,7 @@
 "pruned": "2026-10-29",
 "calls": {
 "2026-10-28": 21,
-"2026-10-29": 29
+"2026-10-29": 39
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
@@ -3527,6 +3527,12 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-10-29T05:51|Morrissey|Spent The Day In Bed",
+"t": "2026-10-29T05:51:00+01:00",
+"artist": "Morrissey",
+"title": "Spent The Day In Bed"
+},
 {
 "id": "2026-10-29T05:46|U2|Magnificent",
 "t": "2026-10-29T05:46:00+01:00",
@@ -9184,18 +9190,6 @@
 "t": "2026-10-22T06:06:00+02:00",
 "artist": "Baxter Dury",
 "title": "Schadenfreude"
-},
-{
-"id": "2026-10-22T05:57|Dino|Call Me",
-"t": "2026-10-22T05:57:00+02:00",
-"artist": "Dino",
-"title": "Call Me"
-},
-{
-"id": "2026-10-22T05:52|EL VY|Return To The Moon",
-"t": "2026-10-22T05:52:00+02:00",
-"artist": "EL VY",
-"title": "Return To The Moon"
 }
 ]
 }
