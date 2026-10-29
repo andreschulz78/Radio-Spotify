@@ -1,18 +1,30 @@
 {
-"updated": "2026-10-29T08:51:04.323108+01:00",
+"updated": "2026-10-29T09:03:04.323440+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
-"synced": "2026-10-29T08:47:04.323011+01:00",
+"synced": "2026-10-29T09:03:04.323440+01:00",
 "pruned": "2026-10-29",
 "calls": {
 "2026-10-28": 21,
-"2026-10-29": 143
+"2026-10-29": 146
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAdLm/7VxLuGvVpEDonYSLr7vnzAd/e",
+"snapshot": "AAAdL7P2eFCmPSn54JwNvgNRSe8NGW1W",
 "playlist": [
+[
+"2026-10-29T08:57|Hard-Fi|Watch Me Fall Apart",
+"spotify:track:2VS8gTvQiyhZP2wxis4Xjo"
+],
+[
+"2026-10-29T08:48|Nick Cave & The Bad Seeds|Into My Arms",
+"spotify:track:2og7d5OuMa4xpZ14BBHuii"
+],
+[
+"2026-10-29T08:44|Steve Lacy|Show You Me",
+"spotify:track:4f50UTC41M2Ah5itifSGE5"
+],
 [
 "2026-10-29T08:34|Kllo|Still Here",
 "spotify:track:27E9SrEZkRdKKsEqWlYeQP"
@@ -3815,6 +3827,18 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-10-29T08:57|Hard-Fi|Watch Me Fall Apart",
+"t": "2026-10-29T08:57:00+01:00",
+"artist": "Hard-Fi",
+"title": "Watch Me Fall Apart"
+},
+{
+"id": "2026-10-29T08:48|Nick Cave & The Bad Seeds|Into My Arms",
+"t": "2026-10-29T08:48:00+01:00",
+"artist": "Nick Cave & The Bad Seeds",
+"title": "Into My Arms"
+},
 {
 "id": "2026-10-29T08:44|Steve Lacy|Show You Me",
 "t": "2026-10-29T08:44:00+01:00",
@@ -9466,12 +9490,6 @@
 "t": "2026-10-22T09:07:00+02:00",
 "artist": "Madonna",
 "title": "Danceteria"
-},
-{
-"id": "2026-10-22T08:58|Michael Kiwanuka|Cold Little Heart",
-"t": "2026-10-22T08:58:00+02:00",
-"artist": "Michael Kiwanuka",
-"title": "Cold Little Heart"
 }
 ]
 }
