@@ -1,18 +1,26 @@
 {
-"updated": "2026-10-29T12:19:11.975247+01:00",
+"updated": "2026-10-29T12:31:11.975677+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
-"synced": "2026-10-29T12:15:11.975105+01:00",
+"synced": "2026-10-29T12:31:11.975677+01:00",
 "pruned": "2026-10-29",
 "calls": {
 "2026-10-28": 21,
-"2026-10-29": 184
+"2026-10-29": 189
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAdPgAKzLKjxY42qnNi7HRwOcBgdZxm",
+"snapshot": "AAAdQfIS1h8VFoIgyMx8mTX3zuv/1YT2",
 "playlist": [
+[
+"2026-10-29T12:25|Mike D|I Don't Care",
+"spotify:track:6ZnBdUwirE7UhqMlAlV35G"
+],
+[
+"2026-10-29T12:21|Jamie xx|Dream Night",
+"spotify:track:2DewmibGFWxakcxvVyf2Tv"
+],
 [
 "2026-10-29T12:09|Keshavara|Oracular",
 "spotify:track:41sGSIiPi1QAYaL6nUWSDg"
@@ -3670,10 +3678,6 @@
 "spotify:track:4BeOtHTrVDazx007bGFFNL"
 ],
 [
-"2026-10-22T12:31|Kenny Dope feat. Róisín Murphy|Born Under Punches (The Heat Goes On)",
-"spotify:track:2aXGl7VqgjULmAxJldWnNd"
-],
-[
 "2026-10-22T12:28|Nia Archives|There Goes Ma Head",
 "spotify:track:0ceKqpXrrC3CtFwFiLJeoY"
 ],
@@ -3939,6 +3943,24 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-10-29T12:25|Mike D|I Don't Care",
+"t": "2026-10-29T12:25:00+01:00",
+"artist": "Mike D",
+"title": "I Don't Care"
+},
+{
+"id": "2026-10-29T12:21|Jamie xx|Dream Night",
+"t": "2026-10-29T12:21:00+01:00",
+"artist": "Jamie xx",
+"title": "Dream Night"
+},
+{
+"id": "2026-10-29T12:17|Sugar Ray|Spinning Away",
+"t": "2026-10-29T12:17:00+01:00",
+"artist": "Sugar Ray",
+"title": "Spinning Away"
+},
 {
 "id": "2026-10-29T12:09|Keshavara|Oracular",
 "t": "2026-10-29T12:09:00+01:00",
@@ -9572,30 +9594,6 @@
 "t": "2026-10-22T12:34:00+02:00",
 "artist": "Bear's Den feat. Jade Bird",
 "title": "Please Don't Hide Yourself Away"
-},
-{
-"id": "2026-10-22T12:31|Kenny Dope feat. Róisín Murphy|Born Under Punches (The Heat Goes On)",
-"t": "2026-10-22T12:31:00+02:00",
-"artist": "Kenny Dope feat. Róisín Murphy",
-"title": "Born Under Punches (The Heat Goes On)"
-},
-{
-"id": "2026-10-22T12:28|Nia Archives|There Goes Ma Head",
-"t": "2026-10-22T12:28:00+02:00",
-"artist": "Nia Archives",
-"title": "There Goes Ma Head"
-},
-{
-"id": "2026-10-22T12:22|Joesef|Limbo",
-"t": "2026-10-22T12:22:00+02:00",
-"artist": "Joesef",
-"title": "Limbo"
-},
-{
-"id": "2026-10-22T12:20|Junior Varsity|Bass Drum",
-"t": "2026-10-22T12:20:00+02:00",
-"artist": "Junior Varsity",
-"title": "Bass Drum"
 }
 ]
 }
