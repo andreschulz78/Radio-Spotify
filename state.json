@@ -1,5 +1,5 @@
 {
-"updated": "2026-10-29T06:39:04.319195+01:00",
+"updated": "2026-10-29T06:51:04.319492+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
@@ -7,7 +7,7 @@
 "pruned": "2026-10-29",
 "calls": {
 "2026-10-28": 21,
-"2026-10-29": 84
+"2026-10-29": 94
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
@@ -3675,6 +3675,18 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-10-29T06:47|Overmono feat. Ruthven|Gem Lingo (ovr now)",
+"t": "2026-10-29T06:47:00+01:00",
+"artist": "Overmono feat. Ruthven",
+"title": "Gem Lingo (ovr now)"
+},
+{
+"id": "2026-10-29T06:40|Arlo Parks|Heaven",
+"t": "2026-10-29T06:40:00+01:00",
+"artist": "Arlo Parks",
+"title": "Heaven"
+},
 {
 "id": "2026-10-29T06:32|The Raconteurs|Steady, As She Goes",
 "t": "2026-10-29T06:32:00+01:00",
@@ -9332,18 +9344,6 @@
 "t": "2026-10-22T06:57:00+02:00",
 "artist": "AnnenMayKantereit",
 "title": "Wohin du gehst"
-},
-{
-"id": "2026-10-22T06:51|Fontaines D.C.|Marianne",
-"t": "2026-10-22T06:51:00+02:00",
-"artist": "Fontaines D.C.",
-"title": "Marianne"
-},
-{
-"id": "2026-10-22T06:45|Duffy|Mercy",
-"t": "2026-10-22T06:45:00+02:00",
-"artist": "Duffy",
-"title": "Mercy"
 }
 ]
 }
