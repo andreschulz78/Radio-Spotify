@@ -1,18 +1,26 @@
 {
-"updated": "2026-10-29T15:07:11.980518+01:00",
+"updated": "2026-10-29T15:19:11.980914+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
-"synced": "2026-10-29T14:55:11.980116+01:00",
+"synced": "2026-10-29T15:11:11.980668+01:00",
 "pruned": "2026-10-29",
 "calls": {
 "2026-10-28": 21,
-"2026-10-29": 223
+"2026-10-29": 225
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAdT6AQS/MA1JkHOjOnG3btfNafvN7O",
+"snapshot": "AAAdUNIpIk2UDq0mMFVx0onu77Ouz4A8",
 "playlist": [
+[
+"2026-10-29T15:05|The Rapture|Sail Away",
+"spotify:track:7m07Cu2yMYtHn31iSQKGo2"
+],
+[
+"2026-10-29T14:57|Crystal Fighters|Champion Sound",
+"spotify:track:1QovEZWhDXKf7XAa5fmw29"
+],
 [
 "2026-10-29T14:50|Cameron Winter|Love Takes Miles",
 "spotify:track:2zf1izCOz2F22PF27uhxRF"
@@ -4043,6 +4051,18 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-10-29T15:09|Friedberg|Goodwife",
+"t": "2026-10-29T15:09:00+01:00",
+"artist": "Friedberg",
+"title": "Goodwife"
+},
+{
+"id": "2026-10-29T15:05|The Rapture|Sail Away",
+"t": "2026-10-29T15:05:00+01:00",
+"artist": "The Rapture",
+"title": "Sail Away"
+},
 {
 "id": "2026-10-29T14:57|Crystal Fighters|Champion Sound",
 "t": "2026-10-29T14:57:00+01:00",
@@ -9682,18 +9702,6 @@
 "t": "2026-10-22T15:21:00+02:00",
 "artist": "Depeche Mode",
 "title": "Everything Counts"
-},
-{
-"id": "2026-10-22T15:18|Black Marble|Jim Carol New Year",
-"t": "2026-10-22T15:18:00+02:00",
-"artist": "Black Marble",
-"title": "Jim Carol New Year"
-},
-{
-"id": "2026-10-22T15:09|BICEP feat. SOARR|Air (Radio Edit)",
-"t": "2026-10-22T15:09:00+02:00",
-"artist": "BICEP feat. SOARR",
-"title": "Air (Radio Edit)"
 }
 ]
 }
