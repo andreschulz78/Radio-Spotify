@@ -1,18 +1,34 @@
 {
-"updated": "2026-10-29T10:27:04.325655+01:00",
+"updated": "2026-10-29T10:39:04.326048+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
-"synced": "2026-10-29T10:23:04.325516+01:00",
+"synced": "2026-10-29T10:39:04.326048+01:00",
 "pruned": "2026-10-29",
 "calls": {
 "2026-10-28": 21,
-"2026-10-29": 163
+"2026-10-29": 165
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAdNod9MiG2EzsVPyXFN4GQGwB8wJMT",
+"snapshot": "AAAdNxXl8HOCWfHLycD8xwawXC7JqE52",
 "playlist": [
+[
+"2026-10-29T10:32|UFOs|UFO (Radio Edit)",
+"spotify:track:7pA7CZIJUpcD5X0QpLlESx"
+],
+[
+"2026-10-29T10:27|Bonaparte|KiOSKO",
+"spotify:track:5seYGZRYuD3oPMxryJdvOk"
+],
+[
+"2026-10-29T10:23|Orbital feat. Zola Jesus|New France",
+"spotify:track:2XnAPkp0DJYoXnj9rRkTWE"
+],
+[
+"2026-10-29T10:20|Moby|Porcelain",
+"spotify:track:6EXi6ZqTITKGtVBKqbphjL"
+],
 [
 "2026-10-29T10:08|Nichtseattle|Ich mit Brille",
 "spotify:track:1C0Lpji3kKe7rZie1LC4bx"
@@ -3859,6 +3875,24 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-10-29T10:32|UFOs|UFO (Radio Edit)",
+"t": "2026-10-29T10:32:00+01:00",
+"artist": "UFOs",
+"title": "UFO (Radio Edit)"
+},
+{
+"id": "2026-10-29T10:27|Bonaparte|KiOSKO",
+"t": "2026-10-29T10:27:00+01:00",
+"artist": "Bonaparte",
+"title": "KiOSKO"
+},
+{
+"id": "2026-10-29T10:23|Orbital feat. Zola Jesus|New France",
+"t": "2026-10-29T10:23:00+01:00",
+"artist": "Orbital feat. Zola Jesus",
+"title": "New France"
+},
 {
 "id": "2026-10-29T10:20|Moby|Porcelain",
 "t": "2026-10-29T10:20:00+01:00",
@@ -9498,18 +9532,6 @@
 "t": "2026-10-22T10:49:00+02:00",
 "artist": "Sir Sly feat. Gary Clark jr.",
 "title": "Citizen"
-},
-{
-"id": "2026-10-22T10:37|Jacob Bellens|Summer Sadness",
-"t": "2026-10-22T10:37:00+02:00",
-"artist": "Jacob Bellens",
-"title": "Summer Sadness"
-},
-{
-"id": "2026-10-22T10:33|Jamie xx|Dream Night",
-"t": "2026-10-22T10:33:00+02:00",
-"artist": "Jamie xx",
-"title": "Dream Night"
 }
 ]
 }
