@@ -1,18 +1,26 @@
 {
-"updated": "2026-10-29T18:59:19.017110+01:00",
+"updated": "2026-10-29T19:11:19.017434+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
-"synced": "2026-10-29T18:55:19.017005+01:00",
+"synced": "2026-10-29T19:11:19.017434+01:00",
 "pruned": "2026-10-29",
 "calls": {
 "2026-10-28": 21,
-"2026-10-29": 268
+"2026-10-29": 269
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAdYCzvZB/cYXFPoDLFFCK80XCrgqUi",
+"snapshot": "AAAdYXWjNMUvxp0ovHT5y/WXA+VwXhPm",
 "playlist": [
+[
+"2026-10-29T19:05|Dove Ellis|Heaven Has No Wings",
+"spotify:track:2Y4hGtm2AwkE0zge2CrqB8"
+],
+[
+"2026-10-29T18:56|Ex:Re|Radio Station",
+"spotify:track:2ixKxWKW6ejtIVr5gm00K7"
+],
 [
 "2026-10-29T18:49|White Lies|Am I Really Going To Die (Edit)",
 "spotify:track:0nhDAyyzpyDLdk531WAAs9"
@@ -4179,6 +4187,18 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-10-29T19:05|Dove Ellis|Heaven Has No Wings",
+"t": "2026-10-29T19:05:00+01:00",
+"artist": "Dove Ellis",
+"title": "Heaven Has No Wings"
+},
+{
+"id": "2026-10-29T18:56|Ex:Re|Radio Station",
+"t": "2026-10-29T18:56:00+01:00",
+"artist": "Ex:Re",
+"title": "Radio Station"
+},
 {
 "id": "2026-10-29T18:49|White Lies|Am I Really Going To Die (Edit)",
 "t": "2026-10-29T18:49:00+01:00",
@@ -9800,12 +9820,6 @@
 "t": "2026-10-22T19:20:00+02:00",
 "artist": "54 Ultra",
 "title": "Tell Me"
-},
-{
-"id": "2026-10-22T19:06|Odd Beholder|Internet Famous",
-"t": "2026-10-22T19:06:00+02:00",
-"artist": "Odd Beholder",
-"title": "Internet Famous"
 }
 ]
 }
