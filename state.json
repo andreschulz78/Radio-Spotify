@@ -1,18 +1,26 @@
 {
-"updated": "2026-10-29T07:15:04.320217+01:00",
+"updated": "2026-10-29T07:27:04.320567+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
-"synced": "2026-10-29T07:11:04.320099+01:00",
+"synced": "2026-10-29T07:27:04.320567+01:00",
 "pruned": "2026-10-29",
 "calls": {
 "2026-10-28": 21,
-"2026-10-29": 128
+"2026-10-29": 131
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAdKPugxTuhKXjTtG0zzTcts/e5ucb5",
+"snapshot": "AAAdKZBC9O1F8GP2STWPZVyfecfF96fZ",
 "playlist": [
+[
+"2026-10-29T07:18|Green, Adam|Jessica",
+"spotify:track:2ehYFtCSILvIAbm415rtXQ"
+],
+[
+"2026-10-29T07:14|Antony Szmierek|Chalk (Radio Edit)",
+"spotify:track:5HdeMdzAlNKwCM4L9cjehN"
+],
 [
 "2026-10-29T07:05|Seamus Fogarty|Fire (Edit)",
 "spotify:track:383q4d3j4gnvNN6dtlxyvM"
@@ -3767,6 +3775,18 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-10-29T07:18|Green, Adam|Jessica",
+"t": "2026-10-29T07:18:00+01:00",
+"artist": "Green, Adam",
+"title": "Jessica"
+},
+{
+"id": "2026-10-29T07:14|Antony Szmierek|Chalk (Radio Edit)",
+"t": "2026-10-29T07:14:00+01:00",
+"artist": "Antony Szmierek",
+"title": "Chalk (Radio Edit)"
+},
 {
 "id": "2026-10-29T07:05|Seamus Fogarty|Fire (Edit)",
 "t": "2026-10-29T07:05:00+01:00",
@@ -9424,18 +9444,6 @@
 "t": "2026-10-22T07:35:00+02:00",
 "artist": "Deichkind",
 "title": "In der Natur"
-},
-{
-"id": "2026-10-22T07:25|Blackalicious|If I May",
-"t": "2026-10-22T07:25:00+02:00",
-"artist": "Blackalicious",
-"title": "If I May"
-},
-{
-"id": "2026-10-22T07:18|Widowspeak|Soft Cover (Edit)",
-"t": "2026-10-22T07:18:00+02:00",
-"artist": "Widowspeak",
-"title": "Soft Cover (Edit)"
 }
 ]
 }
