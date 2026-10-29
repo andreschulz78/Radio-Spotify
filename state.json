@@ -1,18 +1,38 @@
 {
-"updated": "2026-10-29T12:43:11.976051+01:00",
+"updated": "2026-10-29T12:55:11.976410+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
-"synced": "2026-10-29T12:31:11.975677+01:00",
+"synced": "2026-10-29T12:47:11.976182+01:00",
 "pruned": "2026-10-29",
 "calls": {
 "2026-10-28": 21,
-"2026-10-29": 192
+"2026-10-29": 197
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAdQfIS1h8VFoIgyMx8mTX3zuv/1YT2",
+"snapshot": "AAAdQr3+DU11NTHQjtG540XuBDN38Own",
 "playlist": [
+[
+"2026-10-29T12:41|Hot Chip|Random Violence (Radio Edit)",
+"spotify:track:0T3vTM8KUAwGMukdAhNVj2"
+],
+[
+"2026-10-29T12:38|Plan B|She Said",
+"spotify:track:5uBrvMMZZOSCpNVcKvLns7"
+],
+[
+"2026-10-29T12:36|Ibeyi|Juice Of Mandarins",
+"spotify:track:7wwhqZRbbneBWh3NVJa7mB"
+],
+[
+"2026-10-29T12:33|COMA|Beyond You And Me (feat. Dillon) (Ada Remix)",
+"spotify:track:7JVeERbAaBfHrr0mR484ZR"
+],
+[
+"2026-10-29T12:30|Antony Szmierek|Seminal (Edit)",
+"spotify:track:3E4Tw3ilp8Ms4a5hHWsIxO"
+],
 [
 "2026-10-29T12:25|Mike D|I Don't Care",
 "spotify:track:6ZnBdUwirE7UhqMlAlV35G"
@@ -3943,6 +3963,36 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-10-29T12:52|blackwave. feat. David Ngyah|Elusive",
+"t": "2026-10-29T12:52:00+01:00",
+"artist": "blackwave. feat. David Ngyah",
+"title": "Elusive"
+},
+{
+"id": "2026-10-29T12:49|Junior Murvin|Police & Thieves",
+"t": "2026-10-29T12:49:00+01:00",
+"artist": "Junior Murvin",
+"title": "Police & Thieves"
+},
+{
+"id": "2026-10-29T12:45|Cari Cari|Zdarlight 1992",
+"t": "2026-10-29T12:45:00+01:00",
+"artist": "Cari Cari",
+"title": "Zdarlight 1992"
+},
+{
+"id": "2026-10-29T12:41|Hot Chip|Random Violence (Radio Edit)",
+"t": "2026-10-29T12:41:00+01:00",
+"artist": "Hot Chip",
+"title": "Random Violence (Radio Edit)"
+},
+{
+"id": "2026-10-29T12:38|Plan B|She Said",
+"t": "2026-10-29T12:38:00+01:00",
+"artist": "Plan B",
+"title": "She Said"
+},
 {
 "id": "2026-10-29T12:36|Ibeyi|Juice Of Mandarins",
 "t": "2026-10-29T12:36:00+01:00",
@@ -9570,30 +9620,6 @@
 "t": "2026-10-22T13:05:00+02:00",
 "artist": "Joe Goddard feat. Barrie",
 "title": "Moments Die (Radio Edit)"
-},
-{
-"id": "2026-10-22T12:52|Austra & Patrick Holland|Siren Reprise",
-"t": "2026-10-22T12:52:00+02:00",
-"artist": "Austra & Patrick Holland",
-"title": "Siren Reprise"
-},
-{
-"id": "2026-10-22T12:48|Fujiya & Miyagi|Personal Space",
-"t": "2026-10-22T12:48:00+02:00",
-"artist": "Fujiya & Miyagi",
-"title": "Personal Space"
-},
-{
-"id": "2026-10-22T12:45|Einstürzende Neubauten|Am Landwehrkanal",
-"t": "2026-10-22T12:45:00+02:00",
-"artist": "Einstürzende Neubauten",
-"title": "Am Landwehrkanal"
-},
-{
-"id": "2026-10-22T12:44|Rodriguez|Sugar Man",
-"t": "2026-10-22T12:44:00+02:00",
-"artist": "Rodriguez",
-"title": "Sugar Man"
 }
 ]
 }
