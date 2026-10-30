@@ -1,19 +1,35 @@
 {
-"updated": "2026-10-30T05:43:32.444333+01:00",
+"updated": "2026-10-30T05:55:32.444691+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
-"synced": "2026-10-30T05:31:32.443979+01:00",
+"synced": "2026-10-30T05:47:32.444440+01:00",
 "pruned": "2026-10-30",
 "calls": {
 "2026-10-28": 21,
 "2026-10-29": 300,
-"2026-10-30": 10
+"2026-10-30": 19
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAddrve48aSJ37FiuN8/F7iXx/2vyAX",
+"snapshot": "AAAdd5Bp9wLgbrcO8aJd+ftNUhQxVvKH",
 "playlist": [
+[
+"2026-10-30T05:41|Tilly and the Wall|Beat Control",
+"spotify:track:47hvpJRIa0JrAvKgcpTxt9"
+],
+[
+"2026-10-30T05:36|Frank Duval|Living Like A Cry",
+"spotify:track:4el9MGwuaksTjzzlfRImhB"
+],
+[
+"2026-10-30T05:31|Django Django|Cameos",
+"spotify:track:6q1og9CkTnFTTYqOSN9ed3"
+],
+[
+"2026-10-30T05:27|The Haunted Youth|Teen Rebel (Edit)",
+"spotify:track:3x20zcKUu6rKKsaHdGhyL9"
+],
 [
 "2026-10-30T05:23|Ásgeir|Against The Current",
 "spotify:track:5udQbIlHLaD6QRDJmv0bjX"
@@ -3716,6 +3732,24 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-10-30T05:51|Roo Panes|Lullaby Love",
+"t": "2026-10-30T05:51:00+01:00",
+"artist": "Roo Panes",
+"title": "Lullaby Love"
+},
+{
+"id": "2026-10-30T05:46|The War On Drugs|Who's That",
+"t": "2026-10-30T05:46:00+01:00",
+"artist": "The War On Drugs",
+"title": "Who's That"
+},
+{
+"id": "2026-10-30T05:41|Tilly and the Wall|Beat Control",
+"t": "2026-10-30T05:41:00+01:00",
+"artist": "Tilly and the Wall",
+"title": "Beat Control"
+},
 {
 "id": "2026-10-30T05:36|Frank Duval|Living Like A Cry",
 "t": "2026-10-30T05:36:00+01:00",
@@ -9361,24 +9395,6 @@
 "t": "2026-10-23T05:57:00+02:00",
 "artist": "Zaho de Sagazan",
 "title": "Ô travers"
-},
-{
-"id": "2026-10-23T05:53|Naked Lunch|Military of the heart",
-"t": "2026-10-23T05:53:00+02:00",
-"artist": "Naked Lunch",
-"title": "Military of the heart"
-},
-{
-"id": "2026-10-23T05:50|RAR|Kannst du bei mir bleiben?",
-"t": "2026-10-23T05:50:00+02:00",
-"artist": "RAR",
-"title": "Kannst du bei mir bleiben?"
-},
-{
-"id": "2026-10-23T05:45|Angel Olsen|What It Is",
-"t": "2026-10-23T05:45:00+02:00",
-"artist": "Angel Olsen",
-"title": "What It Is"
 }
 ]
 }
