@@ -1,5 +1,5 @@
 {
-"updated": "2026-10-30T05:31:32.443979+01:00",
+"updated": "2026-10-30T05:43:32.444333+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
@@ -8,7 +8,7 @@
 "calls": {
 "2026-10-28": 21,
 "2026-10-29": 300,
-"2026-10-30": 5
+"2026-10-30": 10
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
@@ -3716,6 +3716,24 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-10-30T05:36|Frank Duval|Living Like A Cry",
+"t": "2026-10-30T05:36:00+01:00",
+"artist": "Frank Duval",
+"title": "Living Like A Cry"
+},
+{
+"id": "2026-10-30T05:31|Django Django|Cameos",
+"t": "2026-10-30T05:31:00+01:00",
+"artist": "Django Django",
+"title": "Cameos"
+},
+{
+"id": "2026-10-30T05:27|The Haunted Youth|Teen Rebel (Edit)",
+"t": "2026-10-30T05:27:00+01:00",
+"artist": "The Haunted Youth",
+"title": "Teen Rebel (Edit)"
+},
 {
 "id": "2026-10-30T05:23|Ásgeir|Against The Current",
 "t": "2026-10-30T05:23:00+01:00",
@@ -9361,24 +9379,6 @@
 "t": "2026-10-23T05:45:00+02:00",
 "artist": "Angel Olsen",
 "title": "What It Is"
-},
-{
-"id": "2026-10-23T05:42|Jungle|The Wave",
-"t": "2026-10-23T05:42:00+02:00",
-"artist": "Jungle",
-"title": "The Wave"
-},
-{
-"id": "2026-10-23T05:38|Rainhard Fendrich und Reinhard Mey|Loch in der Kanne (live)",
-"t": "2026-10-23T05:38:00+02:00",
-"artist": "Rainhard Fendrich und Reinhard Mey",
-"title": "Loch in der Kanne (live)"
-},
-{
-"id": "2026-10-23T05:32|Joy Wellboy|Lay Down Your Blade",
-"t": "2026-10-23T05:32:00+02:00",
-"artist": "Joy Wellboy",
-"title": "Lay Down Your Blade"
 }
 ]
 }
