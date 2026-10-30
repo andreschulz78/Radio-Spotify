@@ -1,18 +1,35 @@
 {
-"updated": "2026-10-30T05:19:32.443610+01:00",
+"updated": "2026-10-30T05:31:32.443979+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
-"synced": "2026-10-30T05:03:32.443199+01:00",
+"synced": "2026-10-30T05:31:32.443979+01:00",
 "pruned": "2026-10-30",
 "calls": {
 "2026-10-28": 21,
-"2026-10-29": 300
+"2026-10-29": 300,
+"2026-10-30": 5
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAddfJlhXk3K0OtzrbV6rs2JiCvbXHM",
+"snapshot": "AAAddrve48aSJ37FiuN8/F7iXx/2vyAX",
 "playlist": [
+[
+"2026-10-30T05:23|Ásgeir|Against The Current",
+"spotify:track:5udQbIlHLaD6QRDJmv0bjX"
+],
+[
+"2026-10-30T05:17|Austra & Patrick Holland|Siren Reprise",
+"spotify:track:678wI419HyRL4qSTbXdyLu"
+],
+[
+"2026-10-30T05:09|The Dissociatives|Young Man, Old Man",
+"spotify:track:7KGBdcwN5tm1OUqD0ddYtp"
+],
+[
+"2026-10-30T05:03|Zoot Woman|Ordinary Face",
+"spotify:track:0TuwixNKNy4RnqHe5B287A"
+],
 [
 "2026-10-29T20:51|Ebow feat. FAYIM|Club 1990",
 "spotify:track:6gc4rTPbCBj7r52kwSGucl"
@@ -3699,6 +3716,18 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-10-30T05:23|Ásgeir|Against The Current",
+"t": "2026-10-30T05:23:00+01:00",
+"artist": "Ásgeir",
+"title": "Against The Current"
+},
+{
+"id": "2026-10-30T05:17|Austra & Patrick Holland|Siren Reprise",
+"t": "2026-10-30T05:17:00+01:00",
+"artist": "Austra & Patrick Holland",
+"title": "Siren Reprise"
+},
 {
 "id": "2026-10-30T05:09|The Dissociatives|Young Man, Old Man",
 "t": "2026-10-30T05:09:00+01:00",
@@ -9350,18 +9379,6 @@
 "t": "2026-10-23T05:32:00+02:00",
 "artist": "Joy Wellboy",
 "title": "Lay Down Your Blade"
-},
-{
-"id": "2026-10-23T05:27|Getdown Services|I Cant Die Like That",
-"t": "2026-10-23T05:27:00+02:00",
-"artist": "Getdown Services",
-"title": "I Cant Die Like That"
-},
-{
-"id": "2026-10-23T05:24|Joy Crookes|Feet Don't Fail Me Now",
-"t": "2026-10-23T05:24:00+02:00",
-"artist": "Joy Crookes",
-"title": "Feet Don't Fail Me Now"
 }
 ]
 }
