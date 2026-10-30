@@ -1,5 +1,5 @@
 {
-"updated": "2026-10-30T19:51:50.331406+01:00",
+"updated": "2026-10-30T20:03:50.331855+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
@@ -8,7 +8,7 @@
 "calls": {
 "2026-10-28": 21,
 "2026-10-29": 300,
-"2026-10-30": 127
+"2026-10-30": 129
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
@@ -3992,6 +3992,24 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-10-30T19:56|Alexander IV & IYAMAH|About Us",
+"t": "2026-10-30T19:56:00+01:00",
+"artist": "Alexander IV & IYAMAH",
+"title": "About Us"
+},
+{
+"id": "2026-10-30T19:52|Simple Minds|Don't You (Forget About Me)",
+"t": "2026-10-30T19:52:00+01:00",
+"artist": "Simple Minds",
+"title": "Don't You (Forget About Me)"
+},
+{
+"id": "2026-10-30T19:48|Hot Chip|Random Violence (Radio Edit)",
+"t": "2026-10-30T19:48:00+01:00",
+"artist": "Hot Chip",
+"title": "Random Violence (Radio Edit)"
+},
 {
 "id": "2026-10-30T19:40|Kitty Solaris|Disco Blues",
 "t": "2026-10-30T19:40:00+01:00",
@@ -9379,18 +9397,6 @@
 "t": "2026-10-23T20:05:00+02:00",
 "artist": "The Strokes",
 "title": "You Only Live Once"
-},
-{
-"id": "2026-10-23T19:56|Dope Lemon|Electric Green Lambo",
-"t": "2026-10-23T19:56:00+02:00",
-"artist": "Dope Lemon",
-"title": "Electric Green Lambo"
-},
-{
-"id": "2026-10-23T19:54|DJ Seinfeld feat. TS Graye|U Can't Come Home (Radio Edit)",
-"t": "2026-10-23T19:54:00+02:00",
-"artist": "DJ Seinfeld feat. TS Graye",
-"title": "U Can't Come Home (Radio Edit)"
 }
 ]
 }
