@@ -1,5 +1,5 @@
 {
-"updated": "2026-10-30T21:44:00.229763+01:00",
+"updated": "2026-10-30T21:56:00.230071+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
@@ -8,7 +8,7 @@
 "calls": {
 "2026-10-28": 21,
 "2026-10-29": 300,
-"2026-10-30": 151
+"2026-10-30": 153
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
@@ -4048,6 +4048,18 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-10-30T21:49|Queens of the Stone Age|Sunday",
+"t": "2026-10-30T21:49:00+01:00",
+"artist": "Queens of the Stone Age",
+"title": "Sunday"
+},
+{
+"id": "2026-10-30T21:43|Queens of the Stone Age|Easy Street",
+"t": "2026-10-30T21:43:00+01:00",
+"artist": "Queens of the Stone Age",
+"title": "Easy Street"
+},
 {
 "id": "2026-10-30T21:33|Queens of the Stone Age|Where The Goth Girls At",
 "t": "2026-10-30T21:33:00+01:00",
@@ -9471,12 +9483,6 @@
 "t": "2026-10-23T22:03:00+02:00",
 "artist": "Berq",
 "title": "09 Berq - Mein Herz"
-},
-{
-"id": "2026-10-23T21:55|Lambrini Girls|08 Lambrini Girls - Spilt",
-"t": "2026-10-23T21:55:00+02:00",
-"artist": "Lambrini Girls",
-"title": "08 Lambrini Girls - Spilt"
 }
 ]
 }
