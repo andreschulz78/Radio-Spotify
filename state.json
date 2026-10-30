@@ -1,19 +1,27 @@
 {
-"updated": "2026-10-30T12:23:40.155026+01:00",
+"updated": "2026-10-30T12:35:40.155385+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
-"synced": "2026-10-30T12:11:40.154616+01:00",
+"synced": "2026-10-30T12:27:40.155103+01:00",
 "pruned": "2026-10-30",
 "calls": {
 "2026-10-28": 21,
 "2026-10-29": 300,
-"2026-10-30": 106
+"2026-10-30": 110
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAdl/TY4LAZbwpJgjnIgkW6GjNa4luR",
+"snapshot": "AAAdmFXl3uYrPHT0+/OwjtgJteJ4spSf",
 "playlist": [
+[
+"2026-10-30T12:22|Zaho De Sagazan|Je rêve",
+"spotify:track:62a6sd4PYyhAI8egd5kHHB"
+],
+[
+"2026-10-30T12:15|The Strokes|Going Shopping",
+"spotify:track:4dUOhTTMy4ITIbNQKPKYFP"
+],
 [
 "2026-10-30T12:06|Little Dragon|Slugs Of Love (Radio Edit)",
 "spotify:track:29sTtddkz63yiOXb1piN2V"
@@ -3948,6 +3956,24 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-10-30T12:32|Kaktus Einarsson feat. John Grant|Follow",
+"t": "2026-10-30T12:32:00+01:00",
+"artist": "Kaktus Einarsson feat. John Grant",
+"title": "Follow"
+},
+{
+"id": "2026-10-30T12:26|Blur|There's No Other Way",
+"t": "2026-10-30T12:26:00+01:00",
+"artist": "Blur",
+"title": "There's No Other Way"
+},
+{
+"id": "2026-10-30T12:22|Zaho De Sagazan|Je rêve",
+"t": "2026-10-30T12:22:00+01:00",
+"artist": "Zaho De Sagazan",
+"title": "Je rêve"
+},
 {
 "id": "2026-10-30T12:15|The Strokes|Going Shopping",
 "t": "2026-10-30T12:15:00+01:00",
@@ -9587,24 +9613,6 @@
 "t": "2026-10-23T12:44:00+02:00",
 "artist": "Röyksopp",
 "title": "Eple"
-},
-{
-"id": "2026-10-23T12:35|Yard Act|Janey Said (Edit)",
-"t": "2026-10-23T12:35:00+02:00",
-"artist": "Yard Act",
-"title": "Janey Said (Edit)"
-},
-{
-"id": "2026-10-23T12:31|Balu Brigada|Backseat (Edit)",
-"t": "2026-10-23T12:31:00+02:00",
-"artist": "Balu Brigada",
-"title": "Backseat (Edit)"
-},
-{
-"id": "2026-10-23T12:26|Rahill|Futbol",
-"t": "2026-10-23T12:26:00+02:00",
-"artist": "Rahill",
-"title": "Futbol"
 }
 ]
 }
