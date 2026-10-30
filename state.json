@@ -1,5 +1,5 @@
 {
-"updated": "2026-10-30T14:11:40.158364+01:00",
+"updated": "2026-10-30T14:23:40.158716+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
@@ -9549,18 +9549,6 @@
 "t": "2026-10-23T14:24:00+02:00",
 "artist": "Tikhet",
 "title": "Burndowner"
-},
-{
-"id": "2026-10-23T14:20|Innenräume|Im Gegenlicht",
-"t": "2026-10-23T14:20:00+02:00",
-"artist": "Innenräume",
-"title": "Im Gegenlicht"
-},
-{
-"id": "2026-10-23T14:18|The Smiths|William It Was Really Nothing",
-"t": "2026-10-23T14:18:00+02:00",
-"artist": "The Smiths",
-"title": "William It Was Really Nothing"
 }
 ]
 }
