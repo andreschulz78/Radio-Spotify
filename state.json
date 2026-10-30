@@ -1,5 +1,5 @@
 {
-"updated": "2026-10-30T15:03:50.321151+01:00",
+"updated": "2026-10-30T15:15:50.321568+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
@@ -9489,18 +9489,6 @@
 "t": "2026-10-23T15:18:00+02:00",
 "artist": "Kate Bush",
 "title": "Babooshka"
-},
-{
-"id": "2026-10-23T15:08|CECI feat. Lords of Lounge|Honey Honey",
-"t": "2026-10-23T15:08:00+02:00",
-"artist": "CECI feat. Lords of Lounge",
-"title": "Honey Honey"
-},
-{
-"id": "2026-10-23T15:05|Interpol|The Heinrich Maneuver",
-"t": "2026-10-23T15:05:00+02:00",
-"artist": "Interpol",
-"title": "The Heinrich Maneuver"
 }
 ]
 }
