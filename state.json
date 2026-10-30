@@ -1,19 +1,27 @@
 {
-"updated": "2026-10-30T22:20:00.230768+01:00",
+"updated": "2026-10-30T22:32:00.231135+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
-"synced": "2026-10-30T22:16:00.230661+01:00",
+"synced": "2026-10-30T22:32:00.231135+01:00",
 "pruned": "2026-10-30",
 "calls": {
 "2026-10-28": 21,
 "2026-10-29": 300,
-"2026-10-30": 157
+"2026-10-30": 160
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAdrT3W+2XNsmQnFkrEoYMd9Hw3V0QC",
+"snapshot": "AAAdrhICfKTpxphdCKC0YAYkSQMZQhk9",
 "playlist": [
+[
+"2026-10-30T22:27|Sampa The Great|Canary",
+"spotify:track:2RqoTukas6v1tFb35pG2u6"
+],
+[
+"2026-10-30T22:19|Sampa The Great|Star [feat. KAMAUU]",
+"spotify:track:685KAKiC15L0NRgEbP1nBC"
+],
 [
 "2026-10-30T22:10|Sampa The Great|Location",
 "spotify:track:6k15cYdLOjmEMSWHHCArUj"
@@ -4068,6 +4076,18 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-10-30T22:27|Sampa The Great|Canary",
+"t": "2026-10-30T22:27:00+01:00",
+"artist": "Sampa The Great",
+"title": "Canary"
+},
+{
+"id": "2026-10-30T22:19|Sampa The Great|Star [feat. KAMAUU]",
+"t": "2026-10-30T22:19:00+01:00",
+"artist": "Sampa The Great",
+"title": "Star [feat. KAMAUU]"
+},
 {
 "id": "2026-10-30T22:10|Sampa The Great|Location",
 "t": "2026-10-30T22:10:00+01:00",
