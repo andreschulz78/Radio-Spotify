@@ -1,5 +1,5 @@
 {
-"updated": "2026-10-30T14:47:40.159466+01:00",
+"updated": "2026-10-30T14:59:40.159805+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
@@ -9501,24 +9501,6 @@
 "t": "2026-10-23T15:05:00+02:00",
 "artist": "Interpol",
 "title": "The Heinrich Maneuver"
-},
-{
-"id": "2026-10-23T14:57|Peter Fox feat. Bensh|Blackbirds BLN",
-"t": "2026-10-23T14:57:00+02:00",
-"artist": "Peter Fox feat. Bensh",
-"title": "Blackbirds BLN"
-},
-{
-"id": "2026-10-23T14:52|JJerome87|Green Velvet",
-"t": "2026-10-23T14:52:00+02:00",
-"artist": "JJerome87",
-"title": "Green Velvet"
-},
-{
-"id": "2026-10-23T14:49|New Order|Blue Monday (1988)",
-"t": "2026-10-23T14:49:00+02:00",
-"artist": "New Order",
-"title": "Blue Monday (1988)"
 }
 ]
 }
