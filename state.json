@@ -1,19 +1,31 @@
 {
-"updated": "2026-10-30T20:03:50.331855+01:00",
+"updated": "2026-10-30T20:15:50.332269+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
-"synced": "2026-10-30T19:51:50.331406+01:00",
+"synced": "2026-10-30T20:07:50.331998+01:00",
 "pruned": "2026-10-30",
 "calls": {
 "2026-10-28": 21,
 "2026-10-29": 300,
-"2026-10-30": 129
+"2026-10-30": 131
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAdoQvlvd98dvg21l+DFfnm4ooI1BGm",
+"snapshot": "AAAdogwpx+1y++r0DgAl9qPYkr6Us0+W",
 "playlist": [
+[
+"2026-10-30T19:56|Alexander IV & IYAMAH|About Us",
+"spotify:track:0c3tXpFKZilDSR3yAphPZt"
+],
+[
+"2026-10-30T19:52|Simple Minds|Don't You (Forget About Me)",
+"spotify:track:5Y8Rj0s6wuM5DlQdllYiWl"
+],
+[
+"2026-10-30T19:48|Hot Chip|Random Violence (Radio Edit)",
+"spotify:track:0T3vTM8KUAwGMukdAhNVj2"
+],
 [
 "2026-10-30T19:40|Kitty Solaris|Disco Blues",
 "spotify:track:0oqwOzURxvQi51PNVTtMdM"
@@ -3992,6 +4004,12 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-10-30T20:05|Nihils|Lavender",
+"t": "2026-10-30T20:05:00+01:00",
+"artist": "Nihils",
+"title": "Lavender"
+},
 {
 "id": "2026-10-30T19:56|Alexander IV & IYAMAH|About Us",
 "t": "2026-10-30T19:56:00+01:00",
@@ -9391,12 +9409,6 @@
 "t": "2026-10-23T20:18:00+02:00",
 "artist": "Yndling",
 "title": "Time Time Time (I'm in the Palm of Your Hand)"
-},
-{
-"id": "2026-10-23T20:05|The Strokes|You Only Live Once",
-"t": "2026-10-23T20:05:00+02:00",
-"artist": "The Strokes",
-"title": "You Only Live Once"
 }
 ]
 }
