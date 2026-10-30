@@ -1,19 +1,27 @@
 {
-"updated": "2026-10-30T09:07:32.450666+01:00",
+"updated": "2026-10-30T09:19:32.451015+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
-"synced": "2026-10-30T08:59:32.450396+01:00",
+"synced": "2026-10-30T09:15:32.450869+01:00",
 "pruned": "2026-10-30",
 "calls": {
 "2026-10-28": 21,
 "2026-10-29": 300,
-"2026-10-30": 64
+"2026-10-30": 68
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAdhbCv//5OEX6MKd/5mMLLjoJRIMsA",
+"snapshot": "AAAdhkjAbYk+mTplL2bio0fVWPaYGCcx",
 "playlist": [
+[
+"2026-10-30T09:05|Hana Vu|Parking Lot",
+"spotify:track:3eOIyvZvpg7XGMioBnSFvi"
+],
+[
+"2026-10-30T08:56|Jamila Woods|Boomerang",
+"spotify:track:6yEANV0C15jXJg2lsHf6F5"
+],
 [
 "2026-10-30T08:50|Ibeyi|Hurry Hurry",
 "spotify:track:4BGA7VW330Eu1kaFNi98cG"
@@ -3844,6 +3852,18 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-10-30T09:09|Cem Karaca|Willkommen",
+"t": "2026-10-30T09:09:00+01:00",
+"artist": "Cem Karaca",
+"title": "Willkommen"
+},
+{
+"id": "2026-10-30T09:05|Hana Vu|Parking Lot",
+"t": "2026-10-30T09:05:00+01:00",
+"artist": "Hana Vu",
+"title": "Parking Lot"
+},
 {
 "id": "2026-10-30T08:56|Jamila Woods|Boomerang",
 "t": "2026-10-30T08:56:00+01:00",
@@ -9489,18 +9509,6 @@
 "t": "2026-10-23T09:26:00+02:00",
 "artist": "Flora Hibberd",
 "title": "Bowling Ball"
-},
-{
-"id": "2026-10-23T09:18|Electric Light Orchestra (ELO)|Evil Woman",
-"t": "2026-10-23T09:18:00+02:00",
-"artist": "Electric Light Orchestra (ELO)",
-"title": "Evil Woman"
-},
-{
-"id": "2026-10-23T09:12|Alewya|Cairo FM",
-"t": "2026-10-23T09:12:00+02:00",
-"artist": "Alewya",
-"title": "Cairo FM"
 }
 ]
 }
