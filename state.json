@@ -1,19 +1,27 @@
 {
-"updated": "2026-10-30T10:47:40.151694+01:00",
+"updated": "2026-10-30T10:59:40.152138+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
-"synced": "2026-10-30T10:35:40.151320+01:00",
+"synced": "2026-10-30T10:51:40.151845+01:00",
 "pruned": "2026-10-30",
 "calls": {
 "2026-10-28": 21,
 "2026-10-29": 300,
-"2026-10-30": 84
+"2026-10-30": 86
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAdi1ntsCxZ8ka/BhIeGAl9Y37yzJrO",
+"snapshot": "AAAdjP0nxdGm9vZoueaSI5XkT16zvMQq",
 "playlist": [
+[
+"2026-10-30T10:45|Joni Mitchell|You Turn Me On, I'm A Radio",
+"spotify:track:0ClDL3UrFy6vXhuGPKlNMJ"
+],
+[
+"2026-10-30T10:34|Waldeck feat. Patrizia Ferrara|Never Let You Go",
+"spotify:track:5WHQZebHXJ9siaY6IY2PLj"
+],
 [
 "2026-10-30T10:29|Jungle|Someday, Somewhere",
 "spotify:track:20FqWsyuUaQTU5tk4nP6eN"
@@ -3900,6 +3908,18 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-10-30T10:49|Bleachers|Blood Brothers",
+"t": "2026-10-30T10:49:00+01:00",
+"artist": "Bleachers",
+"title": "Blood Brothers"
+},
+{
+"id": "2026-10-30T10:45|Joni Mitchell|You Turn Me On, I'm A Radio",
+"t": "2026-10-30T10:45:00+01:00",
+"artist": "Joni Mitchell",
+"title": "You Turn Me On, I'm A Radio"
+},
 {
 "id": "2026-10-30T10:34|Waldeck feat. Patrizia Ferrara|Never Let You Go",
 "t": "2026-10-30T10:34:00+01:00",
@@ -9539,18 +9559,6 @@
 "t": "2026-10-23T11:07:00+02:00",
 "artist": "The Last Shadow Puppets",
 "title": "The Age Of The Understatement"
-},
-{
-"id": "2026-10-23T10:58|Tank And The Bangas|Ain’t That Deep",
-"t": "2026-10-23T10:58:00+02:00",
-"artist": "Tank And The Bangas",
-"title": "Ain’t That Deep"
-},
-{
-"id": "2026-10-23T10:53|Peki Momés|Ahşap Kutu",
-"t": "2026-10-23T10:53:00+02:00",
-"artist": "Peki Momés",
-"title": "Ahşap Kutu"
 }
 ]
 }
