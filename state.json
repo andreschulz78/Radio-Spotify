@@ -1,5 +1,5 @@
 {
-"updated": "2026-10-30T07:55:32.448385+01:00",
+"updated": "2026-10-30T08:07:32.448732+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
@@ -8,7 +8,7 @@
 "calls": {
 "2026-10-28": 21,
 "2026-10-29": 300,
-"2026-10-30": 48
+"2026-10-30": 51
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
@@ -3808,6 +3808,12 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-10-30T07:56|STRFKR|Under Water / In Air",
+"t": "2026-10-30T07:56:00+01:00",
+"artist": "STRFKR",
+"title": "Under Water / In Air"
+},
 {
 "id": "2026-10-30T07:48|Seeed|Riddim No. 1",
 "t": "2026-10-30T07:48:00+01:00",
@@ -9459,18 +9465,6 @@
 "t": "2026-10-23T08:14:00+02:00",
 "artist": "Sylvan Esso",
 "title": "Right to Left"
-},
-{
-"id": "2026-10-23T08:05|Jamiroquai|Love Foolosophy",
-"t": "2026-10-23T08:05:00+02:00",
-"artist": "Jamiroquai",
-"title": "Love Foolosophy"
-},
-{
-"id": "2026-10-23T07:56|Air|Mer Du Japon",
-"t": "2026-10-23T07:56:00+02:00",
-"artist": "Air",
-"title": "Mer Du Japon"
 }
 ]
 }
