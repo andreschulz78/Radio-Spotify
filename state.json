@@ -1,19 +1,23 @@
 {
-"updated": "2026-10-30T19:39:50.330978+01:00",
+"updated": "2026-10-30T19:51:50.331406+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
-"synced": "2026-10-30T19:35:50.330796+01:00",
+"synced": "2026-10-30T19:51:50.331406+01:00",
 "pruned": "2026-10-30",
 "calls": {
 "2026-10-28": 21,
 "2026-10-29": 300,
-"2026-10-30": 125
+"2026-10-30": 127
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAdoHOR+0bgFTqwTe87kKWbOsqRwXx5",
+"snapshot": "AAAdoQvlvd98dvg21l+DFfnm4ooI1BGm",
 "playlist": [
+[
+"2026-10-30T19:40|Kitty Solaris|Disco Blues",
+"spotify:track:0oqwOzURxvQi51PNVTtMdM"
+],
 [
 "2026-10-30T19:28|Neal Francis|Hide",
 "spotify:track:197QlBcwTnJNU8DAf3BNLo"
@@ -3988,6 +3992,12 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-10-30T19:40|Kitty Solaris|Disco Blues",
+"t": "2026-10-30T19:40:00+01:00",
+"artist": "Kitty Solaris",
+"title": "Disco Blues"
+},
 {
 "id": "2026-10-30T19:28|Neal Francis|Hide",
 "t": "2026-10-30T19:28:00+01:00",
@@ -9381,12 +9391,6 @@
 "t": "2026-10-23T19:54:00+02:00",
 "artist": "DJ Seinfeld feat. TS Graye",
 "title": "U Can't Come Home (Radio Edit)"
-},
-{
-"id": "2026-10-23T19:44|Stromae|L’enfer",
-"t": "2026-10-23T19:44:00+02:00",
-"artist": "Stromae",
-"title": "L’enfer"
 }
 ]
 }
