@@ -1,19 +1,23 @@
 {
-"updated": "2026-10-30T18:51:50.329025+01:00",
+"updated": "2026-10-30T19:03:50.329533+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
-"synced": "2026-10-30T15:35:50.322157+01:00",
+"synced": "2026-10-30T19:03:50.329533+01:00",
 "pruned": "2026-10-30",
 "calls": {
 "2026-10-28": 21,
 "2026-10-29": 300,
-"2026-10-30": 119
+"2026-10-30": 121
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAdnaZt/sttEsOpePkmXsRR/IjhuljD",
+"snapshot": "AAAdnp6DlzaOWPNrUJLXySq3/B+6hsZT",
 "playlist": [
+[
+"2026-10-30T18:56|Sydney Minsky Sargeant|I Don't Wanna",
+"spotify:track:4hHizy49Hzl7QfP3mGVJOY"
+],
 [
 "2026-10-30T12:58|Liam Lynch|United States Of Whatever",
 "spotify:track:6Jub05dvpbF4Im83NqMCUg"
@@ -3972,6 +3976,12 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-10-30T18:56|Sydney Minsky Sargeant|I Don't Wanna",
+"t": "2026-10-30T18:56:00+01:00",
+"artist": "Sydney Minsky Sargeant",
+"title": "I Don't Wanna"
+},
 {
 "id": "2026-10-30T12:58|Liam Lynch|United States Of Whatever",
 "t": "2026-10-30T12:58:00+01:00",
@@ -9359,12 +9369,6 @@
 "t": "2026-10-23T19:06:00+02:00",
 "artist": "Tame Impala",
 "title": "Dracula"
-},
-{
-"id": "2026-10-23T18:57|Sepalot|My Own Way",
-"t": "2026-10-23T18:57:00+02:00",
-"artist": "Sepalot",
-"title": "My Own Way"
 }
 ]
 }
