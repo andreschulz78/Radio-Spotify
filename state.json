@@ -1,5 +1,5 @@
 {
-"updated": "2026-10-30T13:47:40.157624+01:00",
+"updated": "2026-10-30T13:59:40.157994+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
@@ -9577,24 +9577,6 @@
 "t": "2026-10-23T14:05:00+02:00",
 "artist": "Supershy feat. Roberta Flack",
 "title": "Feel Like Makin' Love"
-},
-{
-"id": "2026-10-23T13:57|Tuvaband|Im Safely Passing in Time",
-"t": "2026-10-23T13:57:00+02:00",
-"artist": "Tuvaband",
-"title": "Im Safely Passing in Time"
-},
-{
-"id": "2026-10-23T13:52|Madison McFerrin|Ain't It Nice",
-"t": "2026-10-23T13:52:00+02:00",
-"artist": "Madison McFerrin",
-"title": "Ain't It Nice"
-},
-{
-"id": "2026-10-23T13:48|Warhaus|No Surprise",
-"t": "2026-10-23T13:48:00+02:00",
-"artist": "Warhaus",
-"title": "No Surprise"
 }
 ]
 }
