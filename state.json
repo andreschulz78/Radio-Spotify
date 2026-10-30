@@ -1,19 +1,27 @@
 {
-"updated": "2026-10-30T09:59:40.150127+01:00",
+"updated": "2026-10-30T10:11:40.150517+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
-"synced": "2026-10-30T09:47:40.149762+01:00",
+"synced": "2026-10-30T10:03:40.150263+01:00",
 "pruned": "2026-10-30",
 "calls": {
 "2026-10-28": 21,
 "2026-10-29": 300,
-"2026-10-30": 74
+"2026-10-30": 76
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAdiK8FnQTLdv1ZJvB7E7pK9+yhKFgG",
+"snapshot": "AAAdiR+WJ+U9PfFVAoQs72UbJK+6cyj5",
 "playlist": [
+[
+"2026-10-30T09:54|Silly|Halloween in Ostberlin",
+"spotify:track:0kkGyxm1Cny4Ve1wvCyXK8"
+],
+[
+"2026-10-30T09:46|José González|El Invento (Sofia Kourtesis Remix)",
+"spotify:track:0vPAplC4nNHPeRl5TcRL47"
+],
 [
 "2026-10-30T09:42|Bel Cobain|Am I Dumb",
 "spotify:track:1sIVgEvTlxQ67GPZREOahZ"
@@ -3868,6 +3876,18 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-10-30T10:04|The Avalanches feat. Karen O|Blue Shadows",
+"t": "2026-10-30T10:04:00+01:00",
+"artist": "The Avalanches feat. Karen O",
+"title": "Blue Shadows"
+},
+{
+"id": "2026-10-30T09:54|Silly|Halloween in Ostberlin",
+"t": "2026-10-30T09:54:00+01:00",
+"artist": "Silly",
+"title": "Halloween in Ostberlin"
+},
 {
 "id": "2026-10-30T09:46|José González|El Invento (Sofia Kourtesis Remix)",
 "t": "2026-10-30T09:46:00+01:00",
@@ -9507,18 +9527,6 @@
 "t": "2026-10-23T10:17:00+02:00",
 "artist": "Mine & Fatoni",
 "title": "Erdbeeren ohne Grenzen"
-},
-{
-"id": "2026-10-23T10:09|Agnes Obel|Laymelli (Edit)",
-"t": "2026-10-23T10:09:00+02:00",
-"artist": "Agnes Obel",
-"title": "Laymelli (Edit)"
-},
-{
-"id": "2026-10-23T10:06|Phoenix|Too Young",
-"t": "2026-10-23T10:06:00+02:00",
-"artist": "Phoenix",
-"title": "Too Young"
 }
 ]
 }
