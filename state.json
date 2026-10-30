@@ -1,19 +1,23 @@
 {
-"updated": "2026-10-30T20:15:50.332269+01:00",
+"updated": "2026-10-30T20:27:50.332625+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
-"synced": "2026-10-30T20:07:50.331998+01:00",
+"synced": "2026-10-30T20:23:50.332497+01:00",
 "pruned": "2026-10-30",
 "calls": {
 "2026-10-28": 21,
 "2026-10-29": 300,
-"2026-10-30": 131
+"2026-10-30": 132
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAdogwpx+1y++r0DgAl9qPYkr6Us0+W",
+"snapshot": "AAAdo3hLKpFmDo7Tg8S5Jjxuukdn0g4f",
 "playlist": [
+[
+"2026-10-30T20:05|Nihils|Lavender",
+"spotify:track:24IHKK4RZRa5WYOEigkp5h"
+],
 [
 "2026-10-30T19:56|Alexander IV & IYAMAH|About Us",
 "spotify:track:0c3tXpFKZilDSR3yAphPZt"
@@ -4004,6 +4008,12 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-10-30T20:21|New German Cinema|Water Drops",
+"t": "2026-10-30T20:21:00+01:00",
+"artist": "New German Cinema",
+"title": "Water Drops"
+},
 {
 "id": "2026-10-30T20:05|Nihils|Lavender",
 "t": "2026-10-30T20:05:00+01:00",
@@ -9403,12 +9413,6 @@
 "t": "2026-10-23T20:29:00+02:00",
 "artist": "OutKast",
 "title": "Roses"
-},
-{
-"id": "2026-10-23T20:18|Yndling|Time Time Time (I'm in the Palm of Your Hand)",
-"t": "2026-10-23T20:18:00+02:00",
-"artist": "Yndling",
-"title": "Time Time Time (I'm in the Palm of Your Hand)"
 }
 ]
 }
