@@ -1,19 +1,35 @@
 {
-"updated": "2026-10-30T11:47:40.153776+01:00",
+"updated": "2026-10-30T11:59:40.154184+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
-"synced": "2026-10-30T11:39:40.153506+01:00",
+"synced": "2026-10-30T11:55:40.154056+01:00",
 "pruned": "2026-10-30",
 "calls": {
 "2026-10-28": 21,
 "2026-10-29": 300,
-"2026-10-30": 96
+"2026-10-30": 98
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAdkQ8BUHd0gY9kYa9PcEBkVtnOi3m/",
+"snapshot": "AAAdkpoMPb4ICAlpCeibPQSy/kjx8Wzt",
 "playlist": [
+[
+"2026-10-30T11:52|Fuffifufzich|New Era",
+"spotify:track:0sF1TJMDGYxKvu9pp1JQkQ"
+],
+[
+"2026-10-30T11:49|Morcheeba|Be Yourself",
+"spotify:track:1nYuroLdp35I01UFOvQABT"
+],
+[
+"2026-10-30T11:40|Felhur x Andro|Bourgeois jouissent",
+"spotify:track:5FXxtxEfo9NYsHZUFrHTKq"
+],
+[
+"2026-10-30T11:35|Widowspeak|Soft Cover (Edit)",
+"spotify:track:4O6f5Bgs94sUNNkNAdNyhW"
+],
 [
 "2026-10-30T11:29|Die Sauna|ich liebe dich",
 "spotify:track:6hlw9o1GgUSSummPTKacU0"
@@ -3928,6 +3944,18 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-10-30T11:52|Fuffifufzich|New Era",
+"t": "2026-10-30T11:52:00+01:00",
+"artist": "Fuffifufzich",
+"title": "New Era"
+},
+{
+"id": "2026-10-30T11:49|Morcheeba|Be Yourself",
+"t": "2026-10-30T11:49:00+01:00",
+"artist": "Morcheeba",
+"title": "Be Yourself"
+},
 {
 "id": "2026-10-30T11:40|Felhur x Andro|Bourgeois jouissent",
 "t": "2026-10-30T11:40:00+01:00",
@@ -9579,18 +9607,6 @@
 "t": "2026-10-23T12:05:00+02:00",
 "artist": "Orbital feat. Penelope Isles",
 "title": "Are You Alive?"
-},
-{
-"id": "2026-10-23T11:57|Thievery Corporation|The Numbers Game",
-"t": "2026-10-23T11:57:00+02:00",
-"artist": "Thievery Corporation",
-"title": "The Numbers Game"
-},
-{
-"id": "2026-10-23T11:48|Oscar Farrell feat. Sampha|Dream Therapy",
-"t": "2026-10-23T11:48:00+02:00",
-"artist": "Oscar Farrell feat. Sampha",
-"title": "Dream Therapy"
 }
 ]
 }
