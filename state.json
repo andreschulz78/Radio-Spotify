@@ -1,19 +1,27 @@
 {
-"updated": "2026-10-30T22:44:00.231503+01:00",
+"updated": "2026-10-30T22:56:00.231846+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
-"synced": "2026-10-30T22:32:00.231135+01:00",
+"synced": "2026-10-30T22:48:00.231615+01:00",
 "pruned": "2026-10-30",
 "calls": {
 "2026-10-28": 21,
 "2026-10-29": 300,
-"2026-10-30": 160
+"2026-10-30": 164
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAdrhICfKTpxphdCKC0YAYkSQMZQhk9",
+"snapshot": "AAAdr5hpNDOObWqnip5i7Q5c9uRwwgsV",
 "playlist": [
+[
+"2026-10-30T22:41|Ex Re|Am I Even Real",
+"spotify:track:3Rc5SHPyUIRMB9TpnxexG4"
+],
+[
+"2026-10-30T22:32|Ex Re|Radio Station",
+"spotify:track:2ixKxWKW6ejtIVr5gm00K7"
+],
 [
 "2026-10-30T22:27|Sampa The Great|Canary",
 "spotify:track:2RqoTukas6v1tFb35pG2u6"
@@ -4076,6 +4084,18 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-10-30T22:49|Ex Re|Save As",
+"t": "2026-10-30T22:49:00+01:00",
+"artist": "Ex Re",
+"title": "Save As"
+},
+{
+"id": "2026-10-30T22:41|Ex Re|Am I Even Real",
+"t": "2026-10-30T22:41:00+01:00",
+"artist": "Ex Re",
+"title": "Am I Even Real"
+},
 {
 "id": "2026-10-30T22:32|Ex Re|Radio Station",
 "t": "2026-10-30T22:32:00+01:00",
@@ -9523,12 +9543,6 @@
 "t": "2026-10-24T06:05:00+02:00",
 "artist": "Kutiman feat. Dekel",
 "title": "My Everything"
-},
-{
-"id": "2026-10-23T22:50|Eels|15 Eels - I'm On Standby",
-"t": "2026-10-23T22:50:00+02:00",
-"artist": "Eels",
-"title": "15 Eels - I'm On Standby"
 }
 ]
 }
