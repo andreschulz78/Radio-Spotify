@@ -1,19 +1,31 @@
 {
-"updated": "2026-10-30T08:19:32.449096+01:00",
+"updated": "2026-10-30T08:31:32.449506+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
-"synced": "2026-10-30T08:11:32.448872+01:00",
+"synced": "2026-10-30T08:27:32.449368+01:00",
 "pruned": "2026-10-30",
 "calls": {
 "2026-10-28": 21,
 "2026-10-29": 300,
-"2026-10-30": 55
+"2026-10-30": 58
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAdgsIpUaOd+yJ3No3y6+vx6UDVMMbn",
+"snapshot": "AAAdg4pETBvL0YD7556IiMfiyO5/3Kcr",
 "playlist": [
+[
+"2026-10-30T08:19|Die Ärzte|Mach die Augen zu",
+"spotify:track:1B3P89jiusQYlrx3oqXSgE"
+],
+[
+"2026-10-30T08:14|SOFY|50/50",
+"spotify:track:16QLv8xt9nPNBZCBDm3Gkv"
+],
+[
+"2026-10-30T08:10|Liz Lawrence|Whoosh",
+"spotify:track:68kNDxsu9zLR79AONs66jV"
+],
 [
 "2026-10-30T08:05|Sophia Kennedy|Hot Match",
 "spotify:track:1QBwezIfN3BP7CF1vN7wCk"
@@ -3816,6 +3828,24 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-10-30T08:26|Belle & Sebastian|Step Into My Office, Baby",
+"t": "2026-10-30T08:26:00+01:00",
+"artist": "Belle & Sebastian",
+"title": "Step Into My Office, Baby"
+},
+{
+"id": "2026-10-30T08:19|Die Ärzte|Mach die Augen zu",
+"t": "2026-10-30T08:19:00+01:00",
+"artist": "Die Ärzte",
+"title": "Mach die Augen zu"
+},
+{
+"id": "2026-10-30T08:14|SOFY|50/50",
+"t": "2026-10-30T08:14:00+01:00",
+"artist": "SOFY",
+"title": "50/50"
+},
 {
 "id": "2026-10-30T08:10|Liz Lawrence|Whoosh",
 "t": "2026-10-30T08:10:00+01:00",
@@ -9467,12 +9497,6 @@
 "t": "2026-10-23T08:32:00+02:00",
 "artist": "J.Bernardt",
 "title": "Love Is On My Mind"
-},
-{
-"id": "2026-10-23T08:25|Σtella|Belinda",
-"t": "2026-10-23T08:25:00+02:00",
-"artist": "Σtella",
-"title": "Belinda"
 }
 ]
 }
