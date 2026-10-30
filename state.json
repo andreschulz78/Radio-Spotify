@@ -1,5 +1,5 @@
 {
-"updated": "2026-10-30T17:51:50.326777+01:00",
+"updated": "2026-10-30T18:03:50.327164+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
@@ -9365,12 +9365,6 @@
 "t": "2026-10-23T18:57:00+02:00",
 "artist": "Sepalot",
 "title": "My Own Way"
-},
-{
-"id": "2026-10-23T17:57|Avalon Emerson|Astrology Poisoning",
-"t": "2026-10-23T17:57:00+02:00",
-"artist": "Avalon Emerson",
-"title": "Astrology Poisoning"
 }
 ]
 }
