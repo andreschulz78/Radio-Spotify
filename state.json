@@ -1,19 +1,27 @@
 {
-"updated": "2026-10-30T06:07:32.445070+01:00",
+"updated": "2026-10-30T06:19:32.445409+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
-"synced": "2026-10-30T06:03:32.444938+01:00",
+"synced": "2026-10-30T06:19:32.445409+01:00",
 "pruned": "2026-10-30",
 "calls": {
 "2026-10-28": 21,
 "2026-10-29": 300,
-"2026-10-30": 22
+"2026-10-30": 25
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAdeFUAm8fgBqXGdahlcbP35Zj89dk1",
+"snapshot": "AAAdefWVpkmdC+kSr7Tll45t4Vvxr14k",
 "playlist": [
+[
+"2026-10-30T06:10|J.Bernardt|Love Is On My Mind",
+"spotify:track:4LuP3veDBkqnyLQvgDQpJb"
+],
+[
+"2026-10-30T06:04|The Coral|In The Morning",
+"spotify:track:3q7D4kfMcju2alVibiUAcz"
+],
 [
 "2026-10-30T05:56|Ben Harper|Diamonds On The Inside",
 "spotify:track:6FvtSHS3hzjS8itHJPRzoJ"
@@ -3744,6 +3752,18 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-10-30T06:10|J.Bernardt|Love Is On My Mind",
+"t": "2026-10-30T06:10:00+01:00",
+"artist": "J.Bernardt",
+"title": "Love Is On My Mind"
+},
+{
+"id": "2026-10-30T06:04|The Coral|In The Morning",
+"t": "2026-10-30T06:04:00+01:00",
+"artist": "The Coral",
+"title": "In The Morning"
+},
 {
 "id": "2026-10-30T05:56|Ben Harper|Diamonds On The Inside",
 "t": "2026-10-30T05:56:00+01:00",
@@ -9389,18 +9409,6 @@
 "t": "2026-10-23T06:25:00+02:00",
 "artist": "Fever Ray",
 "title": "Seven"
-},
-{
-"id": "2026-10-23T06:18|Get Well Soon|Siri, What Ruined The West ?",
-"t": "2026-10-23T06:18:00+02:00",
-"artist": "Get Well Soon",
-"title": "Siri, What Ruined The West ?"
-},
-{
-"id": "2026-10-23T06:14|Boy & Bear|Telescope",
-"t": "2026-10-23T06:14:00+02:00",
-"artist": "Boy & Bear",
-"title": "Telescope"
 }
 ]
 }
