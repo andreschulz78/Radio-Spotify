@@ -1,19 +1,27 @@
 {
-"updated": "2026-10-30T20:27:50.332625+01:00",
+"updated": "2026-10-30T20:39:50.333083+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
-"synced": "2026-10-30T20:23:50.332497+01:00",
+"synced": "2026-10-30T20:39:50.333083+01:00",
 "pruned": "2026-10-30",
 "calls": {
 "2026-10-28": 21,
 "2026-10-29": 300,
-"2026-10-30": 132
+"2026-10-30": 133
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAdo3hLKpFmDo7Tg8S5Jjxuukdn0g4f",
+"snapshot": "AAAdpOPdhNuLPXeymJPvMzpoe4eak4Xa",
 "playlist": [
+[
+"2026-10-30T20:25|Aurora|All My Demons Greeting Me As A Friend",
+"spotify:track:5O1tikYb6HKrP5cxSQv0iV"
+],
+[
+"2026-10-30T20:21|New German Cinema|Water Drops",
+"spotify:track:65SwobxDwUigYvd91PIAuF"
+],
 [
 "2026-10-30T20:05|Nihils|Lavender",
 "spotify:track:24IHKK4RZRa5WYOEigkp5h"
@@ -4008,6 +4016,12 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-10-30T20:25|Aurora|All My Demons Greeting Me As A Friend",
+"t": "2026-10-30T20:25:00+01:00",
+"artist": "Aurora",
+"title": "All My Demons Greeting Me As A Friend"
+},
 {
 "id": "2026-10-30T20:21|New German Cinema|Water Drops",
 "t": "2026-10-30T20:21:00+01:00",
@@ -9407,12 +9421,6 @@
 "t": "2026-10-23T20:43:00+02:00",
 "artist": "The xx",
 "title": "Crystalised"
-},
-{
-"id": "2026-10-23T20:29|OutKast|Roses",
-"t": "2026-10-23T20:29:00+02:00",
-"artist": "OutKast",
-"title": "Roses"
 }
 ]
 }
