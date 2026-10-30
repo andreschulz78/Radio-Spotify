@@ -1,19 +1,27 @@
 {
-"updated": "2026-10-30T06:55:32.446566+01:00",
+"updated": "2026-10-30T07:07:32.446958+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
-"synced": "2026-10-30T06:51:32.446427+01:00",
+"synced": "2026-10-30T07:07:32.446958+01:00",
 "pruned": "2026-10-30",
 "calls": {
 "2026-10-28": 21,
 "2026-10-29": 300,
-"2026-10-30": 33
+"2026-10-30": 38
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAdfC6s3goCWc7Bujieeptq4hsQe4Pv",
+"snapshot": "AAAdfuzsRcPfZDO7fna0OfFgng7kVj2p",
 "playlist": [
+[
+"2026-10-30T06:56|AnnenMayKantereit|Warte auf mich [Padaschdi]",
+"spotify:track:31yIOqJfQD7H3jidxB9jPM"
+],
+[
+"2026-10-30T06:49|Tyler Ballgame|I Believe In Love",
+"spotify:track:6AtEQ14ER32D5Fk8QzIp3t"
+],
 [
 "2026-10-30T06:45|Ex:Re|Sleep",
 "spotify:track:31hSy1c6SWABIV3W1LqjMz"
@@ -3151,6 +3159,10 @@
 "spotify:track:2sKjOX72UX1HiCDhI2HdlR"
 ],
 [
+"2026-10-24T07:56|Be|By My Side",
+"spotify:track:6dpIFeHRiVF9yo6sSXlz5R"
+],
+[
 "2026-10-24T07:51|Hannah Jadagu|My Love",
 "spotify:track:4XM4c3zMS0orMhblnrZwnS"
 ],
@@ -3768,6 +3780,12 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-10-30T06:56|AnnenMayKantereit|Warte auf mich [Padaschdi]",
+"t": "2026-10-30T06:56:00+01:00",
+"artist": "AnnenMayKantereit",
+"title": "Warte auf mich [Padaschdi]"
+},
 {
 "id": "2026-10-30T06:49|Tyler Ballgame|I Believe In Love",
 "t": "2026-10-30T06:49:00+01:00",
@@ -9425,18 +9443,6 @@
 "t": "2026-10-23T07:11:00+02:00",
 "artist": "The Big Moon",
 "title": "F.O.R.E.V.E.R"
-},
-{
-"id": "2026-10-23T07:06|Jonathan Jeremiah|Kolkata Bear",
-"t": "2026-10-23T07:06:00+02:00",
-"artist": "Jonathan Jeremiah",
-"title": "Kolkata Bear"
-},
-{
-"id": "2026-10-23T06:57|Stella Donnelly|Laying Low",
-"t": "2026-10-23T06:57:00+02:00",
-"artist": "Stella Donnelly",
-"title": "Laying Low"
 }
 ]
 }
