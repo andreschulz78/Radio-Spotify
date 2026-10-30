@@ -1,18 +1,18 @@
 {
-"updated": "2026-10-30T13:59:40.157994+01:00",
+"updated": "2026-10-30T14:11:40.158364+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
-"synced": "2026-10-30T13:15:40.156666+01:00",
+"synced": "2026-10-30T14:11:40.158364+01:00",
 "pruned": "2026-10-30",
 "calls": {
 "2026-10-28": 21,
 "2026-10-29": 300,
-"2026-10-30": 116
+"2026-10-30": 118
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAdm9zRsmB2SdHcT7Mjgar/VyiJ9jv9",
+"snapshot": "AAAdnMY5GnwfZHiw/1ku2Bx7+jpaFH0C",
 "playlist": [
 [
 "2026-10-30T12:58|Liam Lynch|United States Of Whatever",
@@ -3649,10 +3649,6 @@
 [
 "2026-10-23T14:18|The Smiths|William It Was Really Nothing",
 "spotify:track:6SwqPZs0XuSnyqkbnkkAjQ"
-],
-[
-"2026-10-23T14:11|The Shins|The Rifle's Spiral",
-"spotify:track:4vg1R4QYoWSFUUj2qX5L5K"
 ],
 [
 "2026-10-23T14:05|Supershy feat. Roberta Flack|Feel Like Makin' Love",
@@ -9565,18 +9561,6 @@
 "t": "2026-10-23T14:18:00+02:00",
 "artist": "The Smiths",
 "title": "William It Was Really Nothing"
-},
-{
-"id": "2026-10-23T14:11|The Shins|The Rifle's Spiral",
-"t": "2026-10-23T14:11:00+02:00",
-"artist": "The Shins",
-"title": "The Rifle's Spiral"
-},
-{
-"id": "2026-10-23T14:05|Supershy feat. Roberta Flack|Feel Like Makin' Love",
-"t": "2026-10-23T14:05:00+02:00",
-"artist": "Supershy feat. Roberta Flack",
-"title": "Feel Like Makin' Love"
 }
 ]
 }
