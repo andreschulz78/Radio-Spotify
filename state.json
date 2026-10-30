@@ -1,5 +1,5 @@
 {
-"updated": "2026-10-30T14:35:40.159098+01:00",
+"updated": "2026-10-30T14:47:40.159466+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
@@ -9519,18 +9519,6 @@
 "t": "2026-10-23T14:49:00+02:00",
 "artist": "New Order",
 "title": "Blue Monday (1988)"
-},
-{
-"id": "2026-10-23T14:46|Eilis Frawley|Taken, Never Erased",
-"t": "2026-10-23T14:46:00+02:00",
-"artist": "Eilis Frawley",
-"title": "Taken, Never Erased"
-},
-{
-"id": "2026-10-23T14:42|Apollo Four Forty (Apollo 440)|Stop the Rock",
-"t": "2026-10-23T14:42:00+02:00",
-"artist": "Apollo Four Forty (Apollo 440)",
-"title": "Stop the Rock"
 }
 ]
 }
