@@ -1,5 +1,5 @@
 {
-"updated": "2026-10-30T14:23:40.158716+01:00",
+"updated": "2026-10-30T14:35:40.159098+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
@@ -9531,24 +9531,6 @@
 "t": "2026-10-23T14:42:00+02:00",
 "artist": "Apollo Four Forty (Apollo 440)",
 "title": "Stop the Rock"
-},
-{
-"id": "2026-10-23T14:33|Jonathan Richman|Roadrunner",
-"t": "2026-10-23T14:33:00+02:00",
-"artist": "Jonathan Richman",
-"title": "Roadrunner"
-},
-{
-"id": "2026-10-23T14:29|Tori Amos|Spies (UK Radio Edit)",
-"t": "2026-10-23T14:29:00+02:00",
-"artist": "Tori Amos",
-"title": "Spies (UK Radio Edit)"
-},
-{
-"id": "2026-10-23T14:24|Tikhet|Burndowner",
-"t": "2026-10-23T14:24:00+02:00",
-"artist": "Tikhet",
-"title": "Burndowner"
 }
 ]
 }
