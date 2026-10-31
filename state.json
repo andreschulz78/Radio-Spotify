@@ -1,20 +1,36 @@
 {
-"updated": "2026-10-31T10:52:17.890501+01:00",
+"updated": "2026-10-31T11:04:17.890896+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
-"synced": "2026-10-31T10:44:17.890235+01:00",
+"synced": "2026-10-31T11:00:17.890757+01:00",
 "pruned": "2026-10-31",
 "calls": {
 "2026-10-28": 21,
 "2026-10-29": 300,
 "2026-10-30": 178,
-"2026-10-31": 53
+"2026-10-31": 55
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAdzMlC3r0eYO/9bQX983K/ecmCSev/",
+"snapshot": "AAAdzUy4gt4SSxije/dinorAm2YjN45C",
 "playlist": [
+[
+"2026-10-31T10:57|The Black Angels|Here & Now",
+"spotify:track:2BLBYVk9pCw7S9LLi7kGNh"
+],
+[
+"2026-10-31T10:54|Bilderbuch|Baby Junkie",
+"spotify:track:1bPs9oNEaAEUYfCL7tH79W"
+],
+[
+"2026-10-31T10:50|Sergio Torales feat. Der Assistent|Veo",
+"spotify:track:6k1tMxv0y7hJJsQMMfnE6p"
+],
+[
+"2026-10-31T10:46|Robin S.|Show Me Love",
+"spotify:track:4t0UsYzmmmZRMTWn77jiGF"
+],
 [
 "2026-10-31T10:35|Goldfrapp|Happiness",
 "spotify:track:7FDzRpkPni2z2g4cptbfVx"
@@ -3769,6 +3785,24 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-10-31T10:57|The Black Angels|Here & Now",
+"t": "2026-10-31T10:57:00+01:00",
+"artist": "The Black Angels",
+"title": "Here & Now"
+},
+{
+"id": "2026-10-31T10:54|Bilderbuch|Baby Junkie",
+"t": "2026-10-31T10:54:00+01:00",
+"artist": "Bilderbuch",
+"title": "Baby Junkie"
+},
+{
+"id": "2026-10-31T10:50|Sergio Torales feat. Der Assistent|Veo",
+"t": "2026-10-31T10:50:00+01:00",
+"artist": "Sergio Torales feat. Der Assistent",
+"title": "Veo"
+},
 {
 "id": "2026-10-31T10:46|Robin S.|Show Me Love",
 "t": "2026-10-31T10:46:00+01:00",
@@ -9222,12 +9256,6 @@
 "t": "2026-10-24T11:05:00+02:00",
 "artist": "The Avalanches feat. Karen O",
 "title": "Blue Shadows"
-},
-{
-"id": "2026-10-24T10:55|Eagles|Hotel California",
-"t": "2026-10-24T10:55:00+02:00",
-"artist": "Eagles",
-"title": "Hotel California"
 }
 ]
 }
