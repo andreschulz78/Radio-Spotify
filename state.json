@@ -1,20 +1,36 @@
 {
-"updated": "2026-10-31T07:36:09.779873+01:00",
+"updated": "2026-10-31T07:48:09.780277+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
-"synced": "2026-10-31T07:32:09.779736+01:00",
+"synced": "2026-10-31T07:48:09.780277+01:00",
 "pruned": "2026-10-31",
 "calls": {
 "2026-10-28": 21,
 "2026-10-29": 300,
 "2026-10-30": 178,
-"2026-10-31": 18
+"2026-10-31": 22
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAdv03nFIDCqJdWh/DlPYLCsNbygDLO",
+"snapshot": "AAAdwA6fLi06Mdoq+f/VESwMuFLeyzwF",
 "playlist": [
+[
+"2026-10-31T07:42|ANOHNI And The Johnsons|It Must Change",
+"spotify:track:0kN5FVdrkO1w7itaepBMwM"
+],
+[
+"2026-10-31T07:39|Jack Johnson & Lee \"Scratch\" Perry|Traffic In The Sky (Lee Scratch Perry Dub)",
+"spotify:track:2WKV1J1ny7g0papXOVRBLR"
+],
+[
+"2026-10-31T07:32|Night Beats|New Day",
+"spotify:track:7D1LcKSVLyDWoIbM7VbIIB"
+],
+[
+"2026-10-31T07:27|Linka Moja|Men R Dogs",
+"spotify:track:7AgfOLYDB7GrgIWg60PBw7"
+],
 [
 "2026-10-31T07:24|Dojo Cuts|The Scene",
 "spotify:track:5WbIiaNommbTNicqBzfHZZ"
@@ -3645,6 +3661,18 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-10-31T07:42|ANOHNI And The Johnsons|It Must Change",
+"t": "2026-10-31T07:42:00+01:00",
+"artist": "ANOHNI And The Johnsons",
+"title": "It Must Change"
+},
+{
+"id": "2026-10-31T07:39|Jack Johnson & Lee \"Scratch\" Perry|Traffic In The Sky (Lee Scratch Perry Dub)",
+"t": "2026-10-31T07:39:00+01:00",
+"artist": "Jack Johnson & Lee \"Scratch\" Perry",
+"title": "Traffic In The Sky (Lee Scratch Perry Dub)"
+},
 {
 "id": "2026-10-31T07:32|Night Beats|New Day",
 "t": "2026-10-31T07:32:00+01:00",
@@ -9092,18 +9120,6 @@
 "t": "2026-10-24T07:51:00+02:00",
 "artist": "Hannah Jadagu",
 "title": "My Love"
-},
-{
-"id": "2026-10-24T07:44|Black Marble|Jim Carol New Year",
-"t": "2026-10-24T07:44:00+02:00",
-"artist": "Black Marble",
-"title": "Jim Carol New Year"
-},
-{
-"id": "2026-10-24T07:41|Kings Of Convenience|I'd Rather Dance With You",
-"t": "2026-10-24T07:41:00+02:00",
-"artist": "Kings Of Convenience",
-"title": "I'd Rather Dance With You"
 }
 ]
 }
