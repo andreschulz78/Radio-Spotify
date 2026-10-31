@@ -1,20 +1,32 @@
 {
-"updated": "2026-10-31T06:36:09.777923+01:00",
+"updated": "2026-10-31T06:48:09.778303+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
-"synced": "2026-10-31T06:28:09.777646+01:00",
+"synced": "2026-10-31T06:44:09.778167+01:00",
 "pruned": "2026-10-31",
 "calls": {
 "2026-10-28": 21,
 "2026-10-29": 300,
 "2026-10-30": 178,
-"2026-10-31": 8
+"2026-10-31": 11
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAdu/OnXC950pAM3XyZ8/VHr54WHRlM",
+"snapshot": "AAAdvCwdf0PQMttmz/JG78jBE3uvJPSO",
 "playlist": [
+[
+"2026-10-31T06:34|Curtis Mayfield|Just A Little Bit Of Love",
+"spotify:track:1m0rLkQgaGGDTriUUg4jnq"
+],
+[
+"2026-10-31T06:28|Gabriels|Break It",
+"spotify:track:5WiVqnjVzB9tNXqeSKZgxH"
+],
+[
+"2026-10-31T06:25|Marlon Magnee|La fureur d'Annie",
+"spotify:track:1inQ3cOt2oyXPOLqZHacuv"
+],
 [
 "2026-10-31T06:21|Mother Soki|Thicken",
 "spotify:track:1uQYHgPrjPBYG1d0D4RoTD"
@@ -3601,6 +3613,12 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-10-31T06:34|Curtis Mayfield|Just A Little Bit Of Love",
+"t": "2026-10-31T06:34:00+01:00",
+"artist": "Curtis Mayfield",
+"title": "Just A Little Bit Of Love"
+},
 {
 "id": "2026-10-31T06:28|Gabriels|Break It",
 "t": "2026-10-31T06:28:00+01:00",
@@ -9048,18 +9066,6 @@
 "t": "2026-10-24T06:51:00+02:00",
 "artist": "The Drums feat. Mareux",
 "title": "It Didn't Matter"
-},
-{
-"id": "2026-10-24T06:46|Cass McCombs|Peace",
-"t": "2026-10-24T06:46:00+02:00",
-"artist": "Cass McCombs",
-"title": "Peace"
-},
-{
-"id": "2026-10-24T06:42|Ayele|Fractured (Radio Edit)",
-"t": "2026-10-24T06:42:00+02:00",
-"artist": "Ayele",
-"title": "Fractured (Radio Edit)"
 }
 ]
 }
