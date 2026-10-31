@@ -1,20 +1,28 @@
 {
-"updated": "2026-10-31T11:28:17.891670+01:00",
+"updated": "2026-10-31T11:40:17.892065+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
-"synced": "2026-10-31T11:16:17.891266+01:00",
+"synced": "2026-10-31T11:32:17.891794+01:00",
 "pruned": "2026-10-31",
 "calls": {
 "2026-10-28": 21,
 "2026-10-29": 300,
 "2026-10-30": 178,
-"2026-10-31": 58
+"2026-10-31": 60
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAdzhtQpqBkYrc5wyefeZ4Xp9OjQX44",
+"snapshot": "AAAdz7O+vahX9h+S72WEM13GovXc8Det",
 "playlist": [
+[
+"2026-10-31T11:22|James Blake|Make something up",
+"spotify:track:64OIDldq25VvelMStZiDvy"
+],
+[
+"2026-10-31T11:18|Malcolm McLaren|Buffalo Gals",
+"spotify:track:4gCo2r1gCEw70OAq9cF1uW"
+],
 [
 "2026-10-31T11:09|DJ Koze|Pick Up",
 "spotify:track:2Qcub1Ib6yG8q8g1ccjdLT"
@@ -3793,6 +3801,24 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-10-31T11:35|Kelela|the bridge (feat. PinkPantheress)",
+"t": "2026-10-31T11:35:00+01:00",
+"artist": "Kelela",
+"title": "the bridge (feat. PinkPantheress)"
+},
+{
+"id": "2026-10-31T11:32|Boy & Bear|State of Flight",
+"t": "2026-10-31T11:32:00+01:00",
+"artist": "Boy & Bear",
+"title": "State of Flight"
+},
+{
+"id": "2026-10-31T11:26|Lola Young|From Down Here (Radio Edit)",
+"t": "2026-10-31T11:26:00+01:00",
+"artist": "Lola Young",
+"title": "From Down Here (Radio Edit)"
+},
 {
 "id": "2026-10-31T11:22|James Blake|Make something up",
 "t": "2026-10-31T11:22:00+01:00",
@@ -9246,18 +9272,6 @@
 "t": "2026-10-24T11:45:00+02:00",
 "artist": "Julie Driscoll, Brian Auger & The Trinit",
 "title": "This wheel's on fire"
-},
-{
-"id": "2026-10-24T11:35|Lo Moon|Loveless",
-"t": "2026-10-24T11:35:00+02:00",
-"artist": "Lo Moon",
-"title": "Loveless"
-},
-{
-"id": "2026-10-24T11:31|MorMor feat. Celeste|Like Heaven",
-"t": "2026-10-24T11:31:00+02:00",
-"artist": "MorMor feat. Celeste",
-"title": "Like Heaven"
 }
 ]
 }
