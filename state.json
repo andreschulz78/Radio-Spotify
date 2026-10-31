@@ -1,20 +1,28 @@
 {
-"updated": "2026-10-31T09:04:17.886843+01:00",
+"updated": "2026-10-31T09:16:17.887281+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
-"synced": "2026-10-31T08:52:17.886459+01:00",
+"synced": "2026-10-31T09:08:17.886997+01:00",
 "pruned": "2026-10-31",
 "calls": {
 "2026-10-28": 21,
 "2026-10-29": 300,
 "2026-10-30": 178,
-"2026-10-31": 30
+"2026-10-31": 35
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAdxTgj8xCxw81DumrqJAyvNC+AjupP",
+"snapshot": "AAAdxou+/enIyCq/rCD3wgSM9CbqilL9",
 "playlist": [
+[
+"2026-10-31T08:56|Soul II Soul|Keep On Movin'",
+"spotify:track:7upgDi9C0pQn9HZzGfksJq"
+],
+[
+"2026-10-31T08:51|Interpol|Iron City",
+"spotify:track:7o9gwmscHBXh6sUEYkWQ4e"
+],
 [
 "2026-10-31T08:47|Odd Beholder|Lean Dreams",
 "spotify:track:44KktJfihIKoQrUrnKCzTH"
@@ -3693,6 +3701,24 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-10-31T09:10|LP Giobbi feat. Sofi Tukker|If Love Is A Skill",
+"t": "2026-10-31T09:10:00+01:00",
+"artist": "LP Giobbi feat. Sofi Tukker",
+"title": "If Love Is A Skill"
+},
+{
+"id": "2026-10-31T09:04|Fleetwood Mac|Peacekeeper",
+"t": "2026-10-31T09:04:00+01:00",
+"artist": "Fleetwood Mac",
+"title": "Peacekeeper"
+},
+{
+"id": "2026-10-31T08:56|Soul II Soul|Keep On Movin'",
+"t": "2026-10-31T08:56:00+01:00",
+"artist": "Soul II Soul",
+"title": "Keep On Movin'"
+},
 {
 "id": "2026-10-31T08:51|Interpol|Iron City",
 "t": "2026-10-31T08:51:00+01:00",
@@ -9122,12 +9148,6 @@
 "t": "2026-10-24T09:25:00+02:00",
 "artist": "Sugarhill Gang",
 "title": "Rapper's Delight"
-},
-{
-"id": "2026-10-24T09:11|Austra & Patrick Holland|Siren Reprise",
-"t": "2026-10-24T09:11:00+02:00",
-"artist": "Austra & Patrick Holland",
-"title": "Siren Reprise"
 }
 ]
 }
