@@ -1,19 +1,19 @@
 {
-"updated": "2026-10-31T21:02:44.607393+01:00",
+"updated": "2026-10-31T21:14:44.607774+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
-"synced": "2026-10-31T14:34:37.479308+01:00",
+"synced": "2026-10-31T21:10:44.607644+01:00",
 "pruned": "2026-10-31",
 "calls": {
 "2026-10-28": 21,
 "2026-10-29": 300,
 "2026-10-30": 178,
-"2026-10-31": 75
+"2026-10-31": 76
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAd1uIZz1I6SMoiI5Sglvmcnd4TxdmJ",
+"snapshot": "AAAd12XEk71MzMmxN5gD8C4HGVTgZpmZ",
 "playlist": [
 [
 "2026-10-31T13:56|Yazmin Lacey|Summer Haze",
@@ -3606,10 +3606,6 @@
 [
 "2026-10-24T21:18|Jawdropped|Monday",
 "spotify:track:0UYqBPuwyIsP49vRIVzNlN"
-],
-[
-"2026-10-24T21:10|Party Dozen|Euro Stomper",
-"spotify:track:1eRaBvZFR2FPFkCR7fn3Tm"
 ],
 [
 "2026-10-24T21:03|Tom Jones|It's Not Unusual",
@@ -9366,18 +9362,6 @@
 "t": "2026-10-24T21:18:00+02:00",
 "artist": "Jawdropped",
 "title": "Monday"
-},
-{
-"id": "2026-10-24T21:10|Party Dozen|Euro Stomper",
-"t": "2026-10-24T21:10:00+02:00",
-"artist": "Party Dozen",
-"title": "Euro Stomper"
-},
-{
-"id": "2026-10-24T21:03|Tom Jones|It's Not Unusual",
-"t": "2026-10-24T21:03:00+02:00",
-"artist": "Tom Jones",
-"title": "It's Not Unusual"
 }
 ]
 }
