@@ -1,5 +1,5 @@
 {
-"updated": "2026-10-31T21:14:44.607774+01:00",
+"updated": "2026-10-31T21:26:44.608159+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
@@ -9356,12 +9356,6 @@
 "t": "2026-10-24T21:31:00+02:00",
 "artist": "The Drums, Genesis Owusu",
 "title": "Blackstar"
-},
-{
-"id": "2026-10-24T21:18|Jawdropped|Monday",
-"t": "2026-10-24T21:18:00+02:00",
-"artist": "Jawdropped",
-"title": "Monday"
 }
 ]
 }
