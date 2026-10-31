@@ -1,5 +1,5 @@
 {
-"updated": "2026-10-31T07:00:09.778729+01:00",
+"updated": "2026-10-31T07:12:09.779092+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
@@ -3625,6 +3625,18 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-10-31T07:05|Leon Bridges|Talk it over",
+"t": "2026-10-31T07:05:00+01:00",
+"artist": "Leon Bridges",
+"title": "Talk it over"
+},
+{
+"id": "2026-10-31T06:57|Joshua Idehen|Could Be Forever",
+"t": "2026-10-31T06:57:00+01:00",
+"artist": "Joshua Idehen",
+"title": "Could Be Forever"
+},
 {
 "id": "2026-10-31T06:54|Wallners|Movie Stars",
 "t": "2026-10-31T06:54:00+01:00",
@@ -9066,24 +9078,6 @@
 "t": "2026-10-24T07:15:00+02:00",
 "artist": "Lola Young",
 "title": "From Down Here (Radio Edit)"
-},
-{
-"id": "2026-10-24T07:10|Agnes Obel|Laymelli (Edit)",
-"t": "2026-10-24T07:10:00+02:00",
-"artist": "Agnes Obel",
-"title": "Laymelli (Edit)"
-},
-{
-"id": "2026-10-24T07:07|KT Tunstall|Black Horse & The Cherry Tree",
-"t": "2026-10-24T07:07:00+02:00",
-"artist": "KT Tunstall",
-"title": "Black Horse & The Cherry Tree"
-},
-{
-"id": "2026-10-24T07:04|Natalie Jane Hill|Never Left Me",
-"t": "2026-10-24T07:04:00+02:00",
-"artist": "Natalie Jane Hill",
-"title": "Never Left Me"
 }
 ]
 }
