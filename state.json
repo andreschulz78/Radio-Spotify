@@ -1,20 +1,24 @@
 {
-"updated": "2026-10-31T13:28:17.895675+01:00",
+"updated": "2026-10-31T13:40:17.896055+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
-"synced": "2026-10-31T13:00:17.894692+01:00",
+"synced": "2026-10-31T13:36:17.895928+01:00",
 "pruned": "2026-10-31",
 "calls": {
 "2026-10-28": 21,
 "2026-10-29": 300,
 "2026-10-30": 178,
-"2026-10-31": 70
+"2026-10-31": 73
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAd1K1GDFtQAGAlVSeQtj8Rm+6xYxx9",
+"snapshot": "AAAd1TGcDTxHChPv/pK+Non65CQ8ZUer",
 "playlist": [
+[
+"2026-10-31T13:32|Skeleten|Best Of My Love",
+"spotify:track:7MWmQe4MAD5GdOURae8jn2"
+],
 [
 "2026-10-31T12:55|The Liminanas|The Gift",
 "spotify:track:3d4oFlaGNE7OoBE3HXE2w7"
@@ -3845,6 +3849,12 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-10-31T13:32|Skeleten|Best Of My Love",
+"t": "2026-10-31T13:32:00+01:00",
+"artist": "Skeleten",
+"title": "Best Of My Love"
+},
 {
 "id": "2026-10-31T12:55|The Liminanas|The Gift",
 "t": "2026-10-31T12:55:00+01:00",
