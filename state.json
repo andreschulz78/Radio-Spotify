@@ -1,20 +1,24 @@
 {
-"updated": "2026-10-31T06:00:09.776709+01:00",
+"updated": "2026-10-31T06:12:09.777113+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
-"synced": "2026-10-31T04:00:09.772783+01:00",
+"synced": "2026-10-31T06:12:09.777113+01:00",
 "pruned": "2026-10-31",
 "calls": {
 "2026-10-28": 21,
 "2026-10-29": 300,
 "2026-10-30": 178,
-"2026-10-31": 2
+"2026-10-31": 4
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAduVhLZU4SgEERoe+zE7P21X1Jhj7w",
+"snapshot": "AAAduqGTXoCjxW2qoLwiGpCOtexLy/JF",
 "playlist": [
+[
+"2026-10-31T06:04|CATT|Wild Heart",
+"spotify:track:1YlDncsZulH1XolY0zDOUL"
+],
 [
 "2026-10-30T22:49|Ex Re|Save As",
 "spotify:track:5yCb4luL1khzEZ8cu69g5z"
@@ -3581,6 +3585,12 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-10-31T06:04|CATT|Wild Heart",
+"t": "2026-10-31T06:04:00+01:00",
+"artist": "CATT",
+"title": "Wild Heart"
+},
 {
 "id": "2026-10-30T22:49|Ex Re|Save As",
 "t": "2026-10-30T22:49:00+01:00",
@@ -9028,18 +9038,6 @@
 "t": "2026-10-24T06:13:00+02:00",
 "artist": "Tikhet",
 "title": "Burndowner"
-},
-{
-"id": "2026-10-24T06:09|Silicone Soul|Right On",
-"t": "2026-10-24T06:09:00+02:00",
-"artist": "Silicone Soul",
-"title": "Right On"
-},
-{
-"id": "2026-10-24T06:05|Kutiman feat. Dekel|My Everything",
-"t": "2026-10-24T06:05:00+02:00",
-"artist": "Kutiman feat. Dekel",
-"title": "My Everything"
 }
 ]
 }
