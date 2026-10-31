@@ -1,20 +1,40 @@
 {
-"updated": "2026-10-31T09:28:17.887669+01:00",
+"updated": "2026-10-31T09:40:17.888062+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
-"synced": "2026-10-31T09:24:17.887539+01:00",
+"synced": "2026-10-31T09:40:17.888062+01:00",
 "pruned": "2026-10-31",
 "calls": {
 "2026-10-28": 21,
 "2026-10-29": 300,
 "2026-10-30": 178,
-"2026-10-31": 37
+"2026-10-31": 40
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAdxwE0G3VdHJGGea0h+DgQ6QNkng+e",
+"snapshot": "AAAdyE2wwE6CrboZ/6Rpzx/3lbriyUTf",
 "playlist": [
+[
+"2026-10-31T09:36|Blue Öyster Cult|(Don't Fear) The Reaper",
+"spotify:track:75qtzy5W3QI3VScRxZxEv5"
+],
+[
+"2026-10-31T09:32|Ayele|Fractured (Radio Edit)",
+"spotify:track:5EGnOBL2qoUNard3Oaq5Hc"
+],
+[
+"2026-10-31T09:28|Nilüfer Yanya|Kneel",
+"spotify:track:3zHlu8zTCOQ2R6nobGogKJ"
+],
+[
+"2026-10-31T09:25|Keshavara|Oracular",
+"spotify:track:41sGSIiPi1QAYaL6nUWSDg"
+],
+[
+"2026-10-31T09:20|Wild Beasts|The Devil's Crayon",
+"spotify:track:6Mm0RWHGch0sJVxUyl19m3"
+],
 [
 "2026-10-31T09:10|LP Giobbi feat. Sofi Tukker|If Love Is A Skill",
 "spotify:track:4w5uos4sTvjQeg8ofXtBm8"
@@ -3709,6 +3729,30 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-10-31T09:36|Blue Öyster Cult|(Don't Fear) The Reaper",
+"t": "2026-10-31T09:36:00+01:00",
+"artist": "Blue Öyster Cult",
+"title": "(Don't Fear) The Reaper"
+},
+{
+"id": "2026-10-31T09:32|Ayele|Fractured (Radio Edit)",
+"t": "2026-10-31T09:32:00+01:00",
+"artist": "Ayele",
+"title": "Fractured (Radio Edit)"
+},
+{
+"id": "2026-10-31T09:28|Nilüfer Yanya|Kneel",
+"t": "2026-10-31T09:28:00+01:00",
+"artist": "Nilüfer Yanya",
+"title": "Kneel"
+},
+{
+"id": "2026-10-31T09:25|Keshavara|Oracular",
+"t": "2026-10-31T09:25:00+01:00",
+"artist": "Keshavara",
+"title": "Oracular"
+},
 {
 "id": "2026-10-31T09:20|Wild Beasts|The Devil's Crayon",
 "t": "2026-10-31T09:20:00+01:00",
@@ -9144,18 +9188,6 @@
 "t": "2026-10-24T09:48:00+02:00",
 "artist": "Ethan French",
 "title": "Reckless And Arranged - Day 56"
-},
-{
-"id": "2026-10-24T09:37|Cocteau Twins|Lorelei",
-"t": "2026-10-24T09:37:00+02:00",
-"artist": "Cocteau Twins",
-"title": "Lorelei"
-},
-{
-"id": "2026-10-24T09:33|Vince Staples|Cotton",
-"t": "2026-10-24T09:33:00+02:00",
-"artist": "Vince Staples",
-"title": "Cotton"
 }
 ]
 }
