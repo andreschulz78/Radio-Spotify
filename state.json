@@ -1,5 +1,5 @@
 {
-"updated": "2026-10-31T21:38:44.608522+01:00",
+"updated": "2026-10-31T21:50:44.608918+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
@@ -9338,12 +9338,6 @@
 "t": "2026-10-24T21:51:00+02:00",
 "artist": "Pineapple Thief, The",
 "title": "Scattering Like Flies"
-},
-{
-"id": "2026-10-24T21:39|Pavement|Stereo",
-"t": "2026-10-24T21:39:00+02:00",
-"artist": "Pavement",
-"title": "Stereo"
 }
 ]
 }
