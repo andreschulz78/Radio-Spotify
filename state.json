@@ -1,20 +1,32 @@
 {
-"updated": "2026-10-31T10:16:17.889281+01:00",
+"updated": "2026-10-31T10:28:17.889715+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
-"synced": "2026-10-31T10:12:17.889118+01:00",
+"synced": "2026-10-31T10:28:17.889715+01:00",
 "pruned": "2026-10-31",
 "calls": {
 "2026-10-28": 21,
 "2026-10-29": 300,
 "2026-10-30": 178,
-"2026-10-31": 46
+"2026-10-31": 49
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAdytlqEA0Dq79aeNiiB2M5zWiqkPjf",
+"snapshot": "AAAdy9OABtwxBpoHuDyYbELmne9MtB/S",
 "playlist": [
+[
+"2026-10-31T10:20|Claudja Barry|Love For The Sake Of Love",
+"spotify:track:5SjL7cp1L5nhXzBH88tG4R"
+],
+[
+"2026-10-31T10:17|Fred Again.. feat. Jozzy|Ten",
+"spotify:track:5QOBT97OmYCZo1W5u7tRrB"
+],
+[
+"2026-10-31T10:09|Niki & The Dove|Empires",
+"spotify:track:5rkmOa4PAh1aBMFph5Jdqa"
+],
 [
 "2026-10-31T10:05|Balu Brigada|Backseat (Edit)",
 "spotify:track:7yT4NJt5rgmVoMJMGPULcj"
@@ -3745,6 +3757,18 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-10-31T10:20|Claudja Barry|Love For The Sake Of Love",
+"t": "2026-10-31T10:20:00+01:00",
+"artist": "Claudja Barry",
+"title": "Love For The Sake Of Love"
+},
+{
+"id": "2026-10-31T10:17|Fred Again.. feat. Jozzy|Ten",
+"t": "2026-10-31T10:17:00+01:00",
+"artist": "Fred Again.. feat. Jozzy",
+"title": "Ten"
+},
 {
 "id": "2026-10-31T10:09|Niki & The Dove|Empires",
 "t": "2026-10-31T10:09:00+01:00",
@@ -9192,18 +9216,6 @@
 "t": "2026-10-24T10:31:00+02:00",
 "artist": "Smidley feat. Lucy Dacus",
 "title": "Capstone"
-},
-{
-"id": "2026-10-24T10:24|Anika|Walk Away",
-"t": "2026-10-24T10:24:00+02:00",
-"artist": "Anika",
-"title": "Walk Away"
-},
-{
-"id": "2026-10-24T10:19|Primal Scream|Come Together",
-"t": "2026-10-24T10:19:00+02:00",
-"artist": "Primal Scream",
-"title": "Come Together"
 }
 ]
 }
