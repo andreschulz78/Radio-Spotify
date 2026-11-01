@@ -1,21 +1,29 @@
 {
-"updated": "2026-11-01T11:20:52.442160+01:00",
+"updated": "2026-11-01T11:32:52.442515+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
-"synced": "2026-11-01T11:16:52.442029+01:00",
+"synced": "2026-11-01T11:32:52.442515+01:00",
 "pruned": "2026-11-01",
 "calls": {
 "2026-10-28": 21,
 "2026-10-29": 300,
 "2026-10-30": 178,
 "2026-10-31": 90,
-"2026-11-01": 69
+"2026-11-01": 70
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAd/CPgejRF6A418XuUF6q5fh15DHQq",
+"snapshot": "AAAd/W54zRnTx5P6ogr279Oza0QzGMAI",
 "playlist": [
+[
+"2026-11-01T11:25|Nightmares On Wax feat. Mozez|You Wish (Abbey Road Fuzz Gospel Version)",
+"spotify:track:6G6M4fl2I0eqEQnzyTwR8m"
+],
+[
+"2026-11-01T11:16|Sofi Tukker|Matadora",
+"spotify:track:2AtleKEZy5KkmlAj0krALx"
+],
 [
 "2026-11-01T11:09|The Egg|Wall",
 "spotify:track:2PJfN3cFFzfJu78cI5B2Si"
@@ -3758,6 +3766,12 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-11-01T11:25|Nightmares On Wax feat. Mozez|You Wish (Abbey Road Fuzz Gospel Version)",
+"t": "2026-11-01T11:25:00+01:00",
+"artist": "Nightmares On Wax feat. Mozez",
+"title": "You Wish (Abbey Road Fuzz Gospel Version)"
+},
 {
 "id": "2026-11-01T11:16|Sofi Tukker|Matadora",
 "t": "2026-11-01T11:16:00+01:00",
@@ -9139,18 +9153,6 @@
 "t": "2026-10-25T11:33:00+01:00",
 "artist": "Bilderbuch",
 "title": "Maschin"
-},
-{
-"id": "2026-10-25T11:27|Tikhet|Burndowner",
-"t": "2026-10-25T11:27:00+01:00",
-"artist": "Tikhet",
-"title": "Burndowner"
-},
-{
-"id": "2026-10-25T11:24|Baxter Dury|Mr W4",
-"t": "2026-10-25T11:24:00+01:00",
-"artist": "Baxter Dury",
-"title": "Mr W4"
 }
 ]
 }
