@@ -1,5 +1,5 @@
 {
-"updated": "2026-11-01T10:44:52.441069+01:00",
+"updated": "2026-11-01T10:56:52.441420+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
@@ -10,7 +10,7 @@
 "2026-10-29": 300,
 "2026-10-30": 178,
 "2026-10-31": 90,
-"2026-11-01": 62
+"2026-11-01": 65
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
@@ -3734,6 +3734,24 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-11-01T10:50|David Bowie|Helden (Heroes)",
+"t": "2026-11-01T10:50:00+01:00",
+"artist": "David Bowie",
+"title": "Helden (Heroes)"
+},
+{
+"id": "2026-11-01T10:48|Ran Nir|I Am With You",
+"t": "2026-11-01T10:48:00+01:00",
+"artist": "Ran Nir",
+"title": "I Am With You"
+},
+{
+"id": "2026-11-01T10:41|Grace Cummings|I'm Not Crazy",
+"t": "2026-11-01T10:41:00+01:00",
+"artist": "Grace Cummings",
+"title": "I'm Not Crazy"
+},
 {
 "id": "2026-11-01T10:31|Johnny Marr|Hi Hello",
 "t": "2026-11-01T10:31:00+01:00",
@@ -9103,18 +9121,6 @@
 "t": "2026-10-25T11:05:00+01:00",
 "artist": "Genesis Owusu",
 "title": "Human Again"
-},
-{
-"id": "2026-10-25T10:56|Prince & The New Power Generation|Money Don't Matter 2 Night",
-"t": "2026-10-25T10:56:00+01:00",
-"artist": "Prince & The New Power Generation",
-"title": "Money Don't Matter 2 Night"
-},
-{
-"id": "2026-10-25T10:51|Father John Misty|The Payoff (Radio Edit)",
-"t": "2026-10-25T10:51:00+01:00",
-"artist": "Father John Misty",
-"title": "The Payoff (Radio Edit)"
 }
 ]
 }
