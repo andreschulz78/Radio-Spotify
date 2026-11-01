@@ -1,21 +1,25 @@
 {
-"updated": "2026-11-01T07:56:52.435709+01:00",
+"updated": "2026-11-01T08:08:52.436097+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
-"synced": "2026-11-01T07:48:52.435438+01:00",
+"synced": "2026-11-01T08:04:52.435968+01:00",
 "pruned": "2026-11-01",
 "calls": {
 "2026-10-28": 21,
 "2026-10-29": 300,
 "2026-10-30": 178,
 "2026-10-31": 90,
-"2026-11-01": 27
+"2026-11-01": 28
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAd6+D1R/hXHd2MtLMjAdL1sBYz2X78",
+"snapshot": "AAAd7Pw0V8/mMcn8uXajUcIqf3ghFxvf",
 "playlist": [
+[
+"2026-11-01T07:51|Stevie Wonder|All I Do",
+"spotify:track:0k3fBeBIcok5gbYQyQbxP5"
+],
 [
 "2026-11-01T07:41|Ayele|Fractured (Radio Edit)",
 "spotify:track:5EGnOBL2qoUNard3Oaq5Hc"
@@ -3642,6 +3646,12 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-11-01T07:57|Carrtoons feat. Hailé Supreme|Labor Of Love",
+"t": "2026-11-01T07:57:00+01:00",
+"artist": "Carrtoons feat. Hailé Supreme",
+"title": "Labor Of Love"
+},
 {
 "id": "2026-11-01T07:51|Stevie Wonder|All I Do",
 "t": "2026-11-01T07:51:00+01:00",
@@ -9035,18 +9045,6 @@
 "t": "2026-10-25T08:12:00+01:00",
 "artist": "Ane Brun",
 "title": "Do You Remember"
-},
-{
-"id": "2026-10-25T08:05|Everyone Says Hi|Brain Freeze",
-"t": "2026-10-25T08:05:00+01:00",
-"artist": "Everyone Says Hi",
-"title": "Brain Freeze"
-},
-{
-"id": "2026-10-25T07:58|Jonathan Richman & The Modern Lovers|Egyptian Reggae",
-"t": "2026-10-25T07:58:00+01:00",
-"artist": "Jonathan Richman & The Modern Lovers",
-"title": "Egyptian Reggae"
 }
 ]
 }
