@@ -1,21 +1,37 @@
 {
-"updated": "2026-11-01T07:18:51.963622+01:00",
+"updated": "2026-11-01T07:30:51.963975+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
-"synced": "2026-11-01T07:14:51.963506+01:00",
+"synced": "2026-11-01T07:30:51.963975+01:00",
 "pruned": "2026-11-01",
 "calls": {
 "2026-10-28": 21,
 "2026-10-29": 300,
 "2026-10-30": 178,
 "2026-10-31": 90,
-"2026-11-01": 21
+"2026-11-01": 24
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAd6Q1zUMawHkG4l7C+PQ8Om32UovW8",
+"snapshot": "AAAd6tKIWbwq7GYaG3p4eYz0sIm5QQkX",
 "playlist": [
+[
+"2026-11-01T07:25|The National|Tropic Morning News (Radio Edit)",
+"spotify:track:6TZ6vaiyYeMZzPef9hvnZL"
+],
+[
+"2026-11-01T07:22|Erika De Casier|Delusional",
+"spotify:track:6M5Y8sn5cXePK58bH1WKon"
+],
+[
+"2026-11-01T07:17|Jamie Woon|Night Air",
+"spotify:track:20nUAfp21ZnvsyN2ZY0pKt"
+],
+[
+"2026-11-01T07:11|Nichtseattle|Ich mit Brille",
+"spotify:track:1C0Lpji3kKe7rZie1LC4bx"
+],
 [
 "2026-11-01T07:05|Van Morrison|Real Real Gone",
 "spotify:track:457Fi5oAVUZwSyZwNQ7afu"
@@ -3614,6 +3630,24 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-11-01T07:25|The National|Tropic Morning News (Radio Edit)",
+"t": "2026-11-01T07:25:00+01:00",
+"artist": "The National",
+"title": "Tropic Morning News (Radio Edit)"
+},
+{
+"id": "2026-11-01T07:22|Erika De Casier|Delusional",
+"t": "2026-11-01T07:22:00+01:00",
+"artist": "Erika De Casier",
+"title": "Delusional"
+},
+{
+"id": "2026-11-01T07:17|Jamie Woon|Night Air",
+"t": "2026-11-01T07:17:00+01:00",
+"artist": "Jamie Woon",
+"title": "Night Air"
+},
 {
 "id": "2026-11-01T07:11|Nichtseattle|Ich mit Brille",
 "t": "2026-11-01T07:11:00+01:00",
@@ -9013,18 +9047,6 @@
 "t": "2026-10-25T07:31:00+01:00",
 "artist": "Tom Petty & The Heartbreakers",
 "title": "The Last DJ"
-},
-{
-"id": "2026-10-25T07:26|Maribou State feat. Khruangbin|Turnmills",
-"t": "2026-10-25T07:26:00+01:00",
-"artist": "Maribou State feat. Khruangbin",
-"title": "Turnmills"
-},
-{
-"id": "2026-10-25T07:21|Sophia Kennedy|Schenke mir ein",
-"t": "2026-10-25T07:21:00+01:00",
-"artist": "Sophia Kennedy",
-"title": "Schenke mir ein"
 }
 ]
 }
