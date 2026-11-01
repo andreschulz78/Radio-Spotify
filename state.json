@@ -1,5 +1,5 @@
 {
-"updated": "2026-11-01T11:32:52.442515+01:00",
+"updated": "2026-11-01T11:44:52.442884+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
@@ -10,7 +10,7 @@
 "2026-10-29": 300,
 "2026-10-30": 178,
 "2026-10-31": 90,
-"2026-11-01": 70
+"2026-11-01": 72
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
@@ -3766,6 +3766,18 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-11-01T11:36|Crowded House|Nails In My Feet",
+"t": "2026-11-01T11:36:00+01:00",
+"artist": "Crowded House",
+"title": "Nails In My Feet"
+},
+{
+"id": "2026-11-01T11:32|Olivia Dean|Man I Need",
+"t": "2026-11-01T11:32:00+01:00",
+"artist": "Olivia Dean",
+"title": "Man I Need"
+},
 {
 "id": "2026-11-01T11:25|Nightmares On Wax feat. Mozez|You Wish (Abbey Road Fuzz Gospel Version)",
 "t": "2026-11-01T11:25:00+01:00",
@@ -9135,24 +9147,6 @@
 "t": "2026-10-25T11:47:00+01:00",
 "artist": "Goran Bregović feat. Iggy Pop",
 "title": "In The Death Car"
-},
-{
-"id": "2026-10-25T11:44|Peter Tosh|Get Up, Stand Up",
-"t": "2026-10-25T11:44:00+01:00",
-"artist": "Peter Tosh",
-"title": "Get Up, Stand Up"
-},
-{
-"id": "2026-10-25T11:36|Lola Young|From Down Here (Radio Edit)",
-"t": "2026-10-25T11:36:00+01:00",
-"artist": "Lola Young",
-"title": "From Down Here (Radio Edit)"
-},
-{
-"id": "2026-10-25T11:33|Bilderbuch|Maschin",
-"t": "2026-10-25T11:33:00+01:00",
-"artist": "Bilderbuch",
-"title": "Maschin"
 }
 ]
 }
