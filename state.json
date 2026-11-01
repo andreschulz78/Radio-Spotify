@@ -1,21 +1,33 @@
 {
-"updated": "2026-11-01T07:44:52.435309+01:00",
+"updated": "2026-11-01T07:56:52.435709+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
-"synced": "2026-11-01T07:30:51.963975+01:00",
+"synced": "2026-11-01T07:48:52.435438+01:00",
 "pruned": "2026-11-01",
 "calls": {
 "2026-10-28": 21,
 "2026-10-29": 300,
 "2026-10-30": 178,
 "2026-10-31": 90,
-"2026-11-01": 25
+"2026-11-01": 27
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAd6tKIWbwq7GYaG3p4eYz0sIm5QQkX",
+"snapshot": "AAAd6+D1R/hXHd2MtLMjAdL1sBYz2X78",
 "playlist": [
+[
+"2026-11-01T07:41|Ayele|Fractured (Radio Edit)",
+"spotify:track:5EGnOBL2qoUNard3Oaq5Hc"
+],
+[
+"2026-11-01T07:37|Andrew Bird|Sisyphus",
+"spotify:track:403vzOZN0tETDpvFipkNIL"
+],
+[
+"2026-11-01T07:31|Nihils|Lavender",
+"spotify:track:24IHKK4RZRa5WYOEigkp5h"
+],
 [
 "2026-11-01T07:25|The National|Tropic Morning News (Radio Edit)",
 "spotify:track:6TZ6vaiyYeMZzPef9hvnZL"
@@ -3630,6 +3642,18 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-11-01T07:51|Stevie Wonder|All I Do",
+"t": "2026-11-01T07:51:00+01:00",
+"artist": "Stevie Wonder",
+"title": "All I Do"
+},
+{
+"id": "2026-11-01T07:41|Ayele|Fractured (Radio Edit)",
+"t": "2026-11-01T07:41:00+01:00",
+"artist": "Ayele",
+"title": "Fractured (Radio Edit)"
+},
 {
 "id": "2026-11-01T07:37|Andrew Bird|Sisyphus",
 "t": "2026-11-01T07:37:00+01:00",
@@ -9023,24 +9047,6 @@
 "t": "2026-10-25T07:58:00+01:00",
 "artist": "Jonathan Richman & The Modern Lovers",
 "title": "Egyptian Reggae"
-},
-{
-"id": "2026-10-25T07:55|Bat For Lashes|Daniel",
-"t": "2026-10-25T07:55:00+01:00",
-"artist": "Bat For Lashes",
-"title": "Daniel"
-},
-{
-"id": "2026-10-25T07:50|Freedom Fry|She Fell In Love On The Dance Floor",
-"t": "2026-10-25T07:50:00+01:00",
-"artist": "Freedom Fry",
-"title": "She Fell In Love On The Dance Floor"
-},
-{
-"id": "2026-10-25T07:47|Deki Alem|Mr Man",
-"t": "2026-10-25T07:47:00+01:00",
-"artist": "Deki Alem",
-"title": "Mr Man"
 }
 ]
 }
