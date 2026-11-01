@@ -1,21 +1,29 @@
 {
-"updated": "2026-11-01T11:44:52.442884+01:00",
+"updated": "2026-11-01T11:56:52.443196+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
-"synced": "2026-11-01T11:32:52.442515+01:00",
+"synced": "2026-11-01T11:48:52.442992+01:00",
 "pruned": "2026-11-01",
 "calls": {
 "2026-10-28": 21,
 "2026-10-29": 300,
 "2026-10-30": 178,
 "2026-10-31": 90,
-"2026-11-01": 72
+"2026-11-01": 74
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAd/W54zRnTx5P6ogr279Oza0QzGMAI",
+"snapshot": "AAAd/t679EB8oWOYlIgWsnH85tOVnvN+",
 "playlist": [
+[
+"2026-11-01T11:36|Crowded House|Nails In My Feet",
+"spotify:track:7FNqD0gR84UhwRjM5eLeUI"
+],
+[
+"2026-11-01T11:32|Olivia Dean|Man I Need",
+"spotify:track:1qbmS6ep2hbBRaEZFpn7BX"
+],
 [
 "2026-11-01T11:25|Nightmares On Wax feat. Mozez|You Wish (Abbey Road Fuzz Gospel Version)",
 "spotify:track:6G6M4fl2I0eqEQnzyTwR8m"
@@ -3766,6 +3774,18 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-11-01T11:50|Aaron|Blouson noir",
+"t": "2026-11-01T11:50:00+01:00",
+"artist": "Aaron",
+"title": "Blouson noir"
+},
+{
+"id": "2026-11-01T11:47|Ibeyi|Hurry Hurry",
+"t": "2026-11-01T11:47:00+01:00",
+"artist": "Ibeyi",
+"title": "Hurry Hurry"
+},
 {
 "id": "2026-11-01T11:36|Crowded House|Nails In My Feet",
 "t": "2026-11-01T11:36:00+01:00",
@@ -9129,24 +9149,6 @@
 "t": "2026-10-25T11:58:00+01:00",
 "artist": "Bleachers",
 "title": "the van"
-},
-{
-"id": "2026-10-25T11:54|Ayo.|Fire",
-"t": "2026-10-25T11:54:00+01:00",
-"artist": "Ayo.",
-"title": "Fire"
-},
-{
-"id": "2026-10-25T11:52|Jamie T.|Calm Down Dearest",
-"t": "2026-10-25T11:52:00+01:00",
-"artist": "Jamie T.",
-"title": "Calm Down Dearest"
-},
-{
-"id": "2026-10-25T11:47|Goran Bregović feat. Iggy Pop|In The Death Car",
-"t": "2026-10-25T11:47:00+01:00",
-"artist": "Goran Bregović feat. Iggy Pop",
-"title": "In The Death Car"
 }
 ]
 }
