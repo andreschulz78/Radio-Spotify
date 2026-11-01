@@ -1,21 +1,37 @@
 {
-"updated": "2026-11-01T10:56:52.441420+01:00",
+"updated": "2026-11-01T11:08:52.441790+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
-"synced": "2026-11-01T10:44:52.441069+01:00",
+"synced": "2026-11-01T11:00:52.441539+01:00",
 "pruned": "2026-11-01",
 "calls": {
 "2026-10-28": 21,
 "2026-10-29": 300,
 "2026-10-30": 178,
 "2026-10-31": 90,
-"2026-11-01": 65
+"2026-11-01": 66
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAd+lBkvUXQMscGmEuLhGgSc5UXA9aG",
+"snapshot": "AAAd+9iuHGCSxNpBmJC8MvC6apj8sZLv",
 "playlist": [
+[
+"2026-11-01T10:57|Wallners|Movie Stars",
+"spotify:track:7xesRbRs3O1MLOgWqMSN7a"
+],
+[
+"2026-11-01T10:50|David Bowie|Helden (Heroes)",
+"spotify:track:7dCiqEHU97OX7mkRG1Kdjm"
+],
+[
+"2026-11-01T10:48|Ran Nir|I Am With You",
+"spotify:track:4DEaCtz31IiSe0EthgtxX3"
+],
+[
+"2026-11-01T10:41|Grace Cummings|I'm Not Crazy",
+"spotify:track:70QaE9UJ2uTVwC4IGS6yvU"
+],
 [
 "2026-11-01T10:31|Johnny Marr|Hi Hello",
 "spotify:track:2ZKDmfp73hHLIdII19TSK1"
@@ -3734,6 +3750,12 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-11-01T10:57|Wallners|Movie Stars",
+"t": "2026-11-01T10:57:00+01:00",
+"artist": "Wallners",
+"title": "Movie Stars"
+},
 {
 "id": "2026-11-01T10:50|David Bowie|Helden (Heroes)",
 "t": "2026-11-01T10:50:00+01:00",
@@ -9109,18 +9131,6 @@
 "t": "2026-10-25T11:14:00+01:00",
 "artist": "Dan Mangan",
 "title": "About As Helpful As You Can Be Without Being Any Help At all"
-},
-{
-"id": "2026-10-25T11:08|Tessa Rose Jackson|Built To Collide",
-"t": "2026-10-25T11:08:00+01:00",
-"artist": "Tessa Rose Jackson",
-"title": "Built To Collide"
-},
-{
-"id": "2026-10-25T11:05|Genesis Owusu|Human Again",
-"t": "2026-10-25T11:05:00+01:00",
-"artist": "Genesis Owusu",
-"title": "Human Again"
 }
 ]
 }
