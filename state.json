@@ -1,21 +1,37 @@
 {
-"updated": "2026-11-01T11:56:52.443196+01:00",
+"updated": "2026-11-01T12:08:52.443568+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
-"synced": "2026-11-01T11:48:52.442992+01:00",
+"synced": "2026-11-01T12:04:52.443444+01:00",
 "pruned": "2026-11-01",
 "calls": {
 "2026-10-28": 21,
 "2026-10-29": 300,
 "2026-10-30": 178,
 "2026-10-31": 90,
-"2026-11-01": 74
+"2026-11-01": 77
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAd/t679EB8oWOYlIgWsnH85tOVnvN+",
+"snapshot": "AAAd/27dAApAiPbLuH7PFidRsNgVzugw",
 "playlist": [
+[
+"2026-11-01T11:57|Antony Szmierek|Chalk (Radio Edit)",
+"spotify:track:5HdeMdzAlNKwCM4L9cjehN"
+],
+[
+"2026-11-01T11:53|Missincat|Back On My Feet",
+"spotify:track:4Lj6orCl0ZM7DoTBuzsEco"
+],
+[
+"2026-11-01T11:50|Aaron|Blouson noir",
+"spotify:track:4OvluvK1a6uwxUhwBxMbnY"
+],
+[
+"2026-11-01T11:47|Ibeyi|Hurry Hurry",
+"spotify:track:4BGA7VW330Eu1kaFNi98cG"
+],
 [
 "2026-11-01T11:36|Crowded House|Nails In My Feet",
 "spotify:track:7FNqD0gR84UhwRjM5eLeUI"
@@ -3774,6 +3790,18 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-11-01T11:57|Antony Szmierek|Chalk (Radio Edit)",
+"t": "2026-11-01T11:57:00+01:00",
+"artist": "Antony Szmierek",
+"title": "Chalk (Radio Edit)"
+},
+{
+"id": "2026-11-01T11:53|Missincat|Back On My Feet",
+"t": "2026-11-01T11:53:00+01:00",
+"artist": "Missincat",
+"title": "Back On My Feet"
+},
 {
 "id": "2026-11-01T11:50|Aaron|Blouson noir",
 "t": "2026-11-01T11:50:00+01:00",
@@ -9137,18 +9165,6 @@
 "t": "2026-10-25T12:15:00+01:00",
 "artist": "The Avalanches feat. Karen O",
 "title": "Blue Shadows"
-},
-{
-"id": "2026-10-25T12:05|Methyl Ethel|Ruiner",
-"t": "2026-10-25T12:05:00+01:00",
-"artist": "Methyl Ethel",
-"title": "Ruiner"
-},
-{
-"id": "2026-10-25T11:58|Bleachers|the van",
-"t": "2026-10-25T11:58:00+01:00",
-"artist": "Bleachers",
-"title": "the van"
 }
 ]
 }
