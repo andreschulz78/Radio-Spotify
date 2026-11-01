@@ -1,5 +1,5 @@
 {
-"updated": "2026-11-01T12:08:52.443568+01:00",
+"updated": "2026-11-01T12:20:52.443938+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
@@ -9153,18 +9153,6 @@
 "t": "2026-10-25T12:26:00+01:00",
 "artist": "Ibibio Sound Machine",
 "title": "Love"
-},
-{
-"id": "2026-10-25T12:18|The Clash|Train In Vain",
-"t": "2026-10-25T12:18:00+01:00",
-"artist": "The Clash",
-"title": "Train In Vain"
-},
-{
-"id": "2026-10-25T12:15|The Avalanches feat. Karen O|Blue Shadows",
-"t": "2026-10-25T12:15:00+01:00",
-"artist": "The Avalanches feat. Karen O",
-"title": "Blue Shadows"
 }
 ]
 }
