@@ -1,5 +1,5 @@
 {
-"updated": "2026-11-01T07:30:51.963975+01:00",
+"updated": "2026-11-01T07:44:52.435309+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
@@ -10,7 +10,7 @@
 "2026-10-29": 300,
 "2026-10-30": 178,
 "2026-10-31": 90,
-"2026-11-01": 24
+"2026-11-01": 25
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
@@ -3630,6 +3630,18 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-11-01T07:37|Andrew Bird|Sisyphus",
+"t": "2026-11-01T07:37:00+01:00",
+"artist": "Andrew Bird",
+"title": "Sisyphus"
+},
+{
+"id": "2026-11-01T07:31|Nihils|Lavender",
+"t": "2026-11-01T07:31:00+01:00",
+"artist": "Nihils",
+"title": "Lavender"
+},
 {
 "id": "2026-11-01T07:25|The National|Tropic Morning News (Radio Edit)",
 "t": "2026-11-01T07:25:00+01:00",
@@ -9029,24 +9041,6 @@
 "t": "2026-10-25T07:47:00+01:00",
 "artist": "Deki Alem",
 "title": "Mr Man"
-},
-{
-"id": "2026-10-25T07:43|Kelela|the bridge (feat. PinkPantheress)",
-"t": "2026-10-25T07:43:00+01:00",
-"artist": "Kelela",
-"title": "the bridge (feat. PinkPantheress)"
-},
-{
-"id": "2026-10-25T07:35|The Notwist|Projectors",
-"t": "2026-10-25T07:35:00+01:00",
-"artist": "The Notwist",
-"title": "Projectors"
-},
-{
-"id": "2026-10-25T07:31|Tom Petty & The Heartbreakers|The Last DJ",
-"t": "2026-10-25T07:31:00+01:00",
-"artist": "Tom Petty & The Heartbreakers",
-"title": "The Last DJ"
 }
 ]
 }
