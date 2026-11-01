@@ -1,21 +1,25 @@
 {
-"updated": "2026-11-01T06:06:51.961359+01:00",
+"updated": "2026-11-01T06:18:51.961725+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
-"synced": "2026-11-01T04:02:51.957289+01:00",
+"synced": "2026-11-01T06:10:51.961477+01:00",
 "pruned": "2026-11-01",
 "calls": {
 "2026-10-28": 21,
 "2026-10-29": 300,
 "2026-10-30": 178,
 "2026-10-31": 90,
-"2026-11-01": 3
+"2026-11-01": 5
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAd478mpUpuyhVCvvw0nzZq/5S7PT/i",
+"snapshot": "AAAd5PA+HbP5skTZYk3Dvs2OPIzLx+5f",
 "playlist": [
+[
+"2026-11-01T06:04|Two Medicine|Gold",
+"spotify:track:37eL0FpbKc4KyNerD1L9Vw"
+],
 [
 "2026-10-31T13:56|Yazmin Lacey|Summer Haze",
 "spotify:track:465QjZo1z1JAuLTTC7DnuK"
@@ -3562,6 +3566,18 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-11-01T06:08|Get Well Soon|Siri, What Ruined The West ?",
+"t": "2026-11-01T06:08:00+01:00",
+"artist": "Get Well Soon",
+"title": "Siri, What Ruined The West ?"
+},
+{
+"id": "2026-11-01T06:04|Two Medicine|Gold",
+"t": "2026-11-01T06:04:00+01:00",
+"artist": "Two Medicine",
+"title": "Gold"
+},
 {
 "id": "2026-10-31T13:56|Yazmin Lacey|Summer Haze",
 "t": "2026-10-31T13:56:00+01:00",
@@ -8967,24 +8983,6 @@
 "t": "2026-10-25T06:21:00+01:00",
 "artist": "The Stranglers",
 "title": "Golden Brown"
-},
-{
-"id": "2026-10-25T06:16|Lady Wray|Time",
-"t": "2026-10-25T06:16:00+01:00",
-"artist": "Lady Wray",
-"title": "Time"
-},
-{
-"id": "2026-10-25T06:12|Widowspeak|Soft Cover (Edit)",
-"t": "2026-10-25T06:12:00+01:00",
-"artist": "Widowspeak",
-"title": "Soft Cover (Edit)"
-},
-{
-"id": "2026-10-25T06:08|Portugal. The Man|So American",
-"t": "2026-10-25T06:08:00+01:00",
-"artist": "Portugal. The Man",
-"title": "So American"
 }
 ]
 }
