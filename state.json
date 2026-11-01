@@ -1,21 +1,33 @@
 {
-"updated": "2026-11-01T07:06:51.963257+01:00",
+"updated": "2026-11-01T07:18:51.963622+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
-"synced": "2026-11-01T06:58:51.962985+01:00",
+"synced": "2026-11-01T07:14:51.963506+01:00",
 "pruned": "2026-11-01",
 "calls": {
 "2026-10-28": 21,
 "2026-10-29": 300,
 "2026-10-30": 178,
 "2026-10-31": 90,
-"2026-11-01": 17
+"2026-11-01": 21
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAd5ztichQcy8HL+1919YR2r0aShZ2J",
+"snapshot": "AAAd6Q1zUMawHkG4l7C+PQ8Om32UovW8",
 "playlist": [
+[
+"2026-11-01T07:05|Van Morrison|Real Real Gone",
+"spotify:track:457Fi5oAVUZwSyZwNQ7afu"
+],
+[
+"2026-11-01T06:57|Grover Washington jr & Bill Withers|Just The Two Of Us",
+"spotify:track:5fdNHVZHbWB1AaXk4RBGVD"
+],
+[
+"2026-11-01T06:53|Passion Mango|Bloody Eyes",
+"spotify:track:4YUBcBSUIXfCNNFAaWQcyG"
+],
 [
 "2026-11-01T06:49|Kate Bush|Wild Man",
 "spotify:track:0XCWo7RVAkJXMD9fiK0bFZ"
@@ -3537,10 +3549,6 @@
 "spotify:track:5uKKPK1HAdPL3y4CEQDL7q"
 ],
 [
-"2026-10-25T07:14|Suzanne Vega|Frank & Ava",
-"spotify:track:7Md7yQtdlpW5nGghntHOEo"
-],
-[
 "2026-10-25T07:07|James Righton|The Performer",
 "spotify:track:1TcwCF5brR3coDOkKkxI4I"
 ],
@@ -3606,6 +3614,18 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-11-01T07:11|Nichtseattle|Ich mit Brille",
+"t": "2026-11-01T07:11:00+01:00",
+"artist": "Nichtseattle",
+"title": "Ich mit Brille"
+},
+{
+"id": "2026-11-01T07:05|Van Morrison|Real Real Gone",
+"t": "2026-11-01T07:05:00+01:00",
+"artist": "Van Morrison",
+"title": "Real Real Gone"
+},
 {
 "id": "2026-11-01T06:57|Grover Washington jr & Bill Withers|Just The Two Of Us",
 "t": "2026-11-01T06:57:00+01:00",
@@ -9005,24 +9025,6 @@
 "t": "2026-10-25T07:21:00+01:00",
 "artist": "Sophia Kennedy",
 "title": "Schenke mir ein"
-},
-{
-"id": "2026-10-25T07:17|Caravan Palace|Miracle",
-"t": "2026-10-25T07:17:00+01:00",
-"artist": "Caravan Palace",
-"title": "Miracle"
-},
-{
-"id": "2026-10-25T07:14|Suzanne Vega|Frank & Ava",
-"t": "2026-10-25T07:14:00+01:00",
-"artist": "Suzanne Vega",
-"title": "Frank & Ava"
-},
-{
-"id": "2026-10-25T07:07|James Righton|The Performer",
-"t": "2026-10-25T07:07:00+01:00",
-"artist": "James Righton",
-"title": "The Performer"
 }
 ]
 }
