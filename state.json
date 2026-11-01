@@ -1,21 +1,33 @@
 {
-"updated": "2026-11-01T08:32:52.436943+01:00",
+"updated": "2026-11-01T08:44:52.437322+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
-"synced": "2026-11-01T08:20:52.436509+01:00",
+"synced": "2026-11-01T08:36:52.437073+01:00",
 "pruned": "2026-11-01",
 "calls": {
 "2026-10-28": 21,
 "2026-10-29": 300,
 "2026-10-30": 178,
 "2026-10-31": 90,
-"2026-11-01": 33
+"2026-11-01": 35
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAd7T21P8FCp3+ihw9yZy4gH/d7e7HN",
+"snapshot": "AAAd7vMXcTeAj/6dHb/eY1HGAy3FNzto",
 "playlist": [
+[
+"2026-11-01T08:31|Tikhet|Burndowner",
+"spotify:track:76iRkapw7dHIlJhSoy7PCv"
+],
+[
+"2026-11-01T08:25|Yard Act|Janey Said (Edit)",
+"spotify:track:0mV0B0SbcF6CMSdDyDNYpR"
+],
+[
+"2026-11-01T08:16|Peter Gabriel|Sledgehammer",
+"spotify:track:029NqmIySn1kOY305AAhxT"
+],
 [
 "2026-11-01T08:12|Death Cab For Cutie|Pep Talk",
 "spotify:track:3ra7fDLqfUHBWBL702fOAn"
@@ -3658,6 +3670,18 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-11-01T08:35|Kelis|Friday Fish Fry",
+"t": "2026-11-01T08:35:00+01:00",
+"artist": "Kelis",
+"title": "Friday Fish Fry"
+},
+{
+"id": "2026-11-01T08:31|Tikhet|Burndowner",
+"t": "2026-11-01T08:31:00+01:00",
+"artist": "Tikhet",
+"title": "Burndowner"
+},
 {
 "id": "2026-11-01T08:25|Yard Act|Janey Said (Edit)",
 "t": "2026-11-01T08:25:00+01:00",
@@ -9039,18 +9063,6 @@
 "t": "2026-10-25T08:46:00+01:00",
 "artist": "Darkness Falls",
 "title": "The Void"
-},
-{
-"id": "2026-10-25T08:43|Marvin Gaye|What's Going On",
-"t": "2026-10-25T08:43:00+01:00",
-"artist": "Marvin Gaye",
-"title": "What's Going On"
-},
-{
-"id": "2026-10-25T08:35|Sofie Royer|Cowboy Mouth",
-"t": "2026-10-25T08:35:00+01:00",
-"artist": "Sofie Royer",
-"title": "Cowboy Mouth"
 }
 ]
 }
