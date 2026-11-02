@@ -1,9 +1,9 @@
 {
-"updated": "2026-11-02T21:27:16.592352+01:00",
+"updated": "2026-11-02T21:39:16.592753+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
-"synced": "2026-11-02T21:15:16.591985+01:00",
+"synced": "2026-11-02T21:31:16.592492+01:00",
 "pruned": "2026-11-02",
 "calls": {
 "2026-10-28": 21,
@@ -11,11 +11,11 @@
 "2026-10-30": 178,
 "2026-10-31": 90,
 "2026-11-01": 99,
-"2026-11-02": 175
+"2026-11-02": 178
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAeVWKInSqFq2rPc5ebr0nZEu0qjX2X",
+"snapshot": "AAAeWGe0CFuwy6gSCy9TYhdtEVvvXYsu",
 "playlist": [
 [
 "2026-11-02T20:56|Placebo|Meds",
@@ -38,8 +38,16 @@
 "spotify:track:56DYNKo3QHkakqOUkWi3vl"
 ],
 [
+"2026-11-02T19:54|The Smile|Friend Of A Friend",
+"spotify:track:3Mn22PKkfTR2CjaRt4ziNj"
+],
+[
 "2026-11-02T19:45|Stella Donnelly|Laying Low",
 "spotify:track:0jWZDtZgmV2LZ2iW4c3yB7"
+],
+[
+"2026-11-02T19:32|Kings Of Convenience|Live Long",
+"spotify:track:0vPtwmb8zBvcmOkPA8EWDN"
 ],
 [
 "2026-11-02T19:08|SOFY|50/50",
@@ -3404,10 +3412,6 @@
 [
 "2026-10-26T21:36|Lambrini Girls|The Basement",
 "spotify:track:6b1M7lKBrXFUp2kimbTmRu"
-],
-[
-"2026-10-26T21:31|L7|Loma Linda",
-"spotify:track:7d6L6EpAyGAIdMzz29LXR7"
 ],
 [
 "2026-10-26T21:28|Thees Uhlmann|Katy Grayson",
@@ -9188,30 +9192,6 @@
 "t": "2026-10-26T21:45:00+01:00",
 "artist": "Fontaines D.C.",
 "title": "Tongue"
-},
-{
-"id": "2026-10-26T21:39|Samiam|Crystallized",
-"t": "2026-10-26T21:39:00+01:00",
-"artist": "Samiam",
-"title": "Crystallized"
-},
-{
-"id": "2026-10-26T21:36|Lambrini Girls|The Basement",
-"t": "2026-10-26T21:36:00+01:00",
-"artist": "Lambrini Girls",
-"title": "The Basement"
-},
-{
-"id": "2026-10-26T21:31|L7|Loma Linda",
-"t": "2026-10-26T21:31:00+01:00",
-"artist": "L7",
-"title": "Loma Linda"
-},
-{
-"id": "2026-10-26T21:28|Thees Uhlmann|Katy Grayson",
-"t": "2026-10-26T21:28:00+01:00",
-"artist": "Thees Uhlmann",
-"title": "Katy Grayson"
 }
 ]
 }
