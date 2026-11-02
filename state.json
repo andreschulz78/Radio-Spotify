@@ -1,9 +1,9 @@
 {
-"updated": "2026-11-02T12:49:58.241564+01:00",
+"updated": "2026-11-02T13:01:58.241941+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
-"synced": "2026-11-02T12:41:58.241301+01:00",
+"synced": "2026-11-02T12:57:58.241803+01:00",
 "pruned": "2026-11-02",
 "calls": {
 "2026-10-28": 21,
@@ -11,12 +11,28 @@
 "2026-10-30": 178,
 "2026-10-31": 90,
 "2026-11-01": 99,
-"2026-11-02": 87
+"2026-11-02": 91
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAeLlB/6LFJor+U35xxE8Bz6F5KRF8P",
+"snapshot": "AAAeL93LTAywADabU9Hz2jtGV2gLVn7s",
 "playlist": [
+[
+"2026-11-02T12:52|Sydney Minsky Sargeant|I Don't Wanna",
+"spotify:track:4hHizy49Hzl7QfP3mGVJOY"
+],
+[
+"2026-11-02T12:47|Yard Act|You're Gonna Need A Little Music",
+"spotify:track:43KS2LpjMVkvJdprLaoQxQ"
+],
+[
+"2026-11-02T12:44|Tikhet|Trouble Is A State Of Mind",
+"spotify:track:5CGkv2xYLtHRrq5gbGlv4n"
+],
+[
+"2026-11-02T12:40|Madrugada|Shine",
+"spotify:track:6i0VhltaKVBRf2AyXz47Mo"
+],
 [
 "2026-11-02T12:37|L'Rain|Elmyra (Edit)",
 "spotify:track:5pedzmyyKGTs8PV23dnvbc"
@@ -3723,6 +3739,30 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-11-02T12:55|The Sundays|Here's Where The Story Ends",
+"t": "2026-11-02T12:55:00+01:00",
+"artist": "The Sundays",
+"title": "Here's Where The Story Ends"
+},
+{
+"id": "2026-11-02T12:52|Sydney Minsky Sargeant|I Don't Wanna",
+"t": "2026-11-02T12:52:00+01:00",
+"artist": "Sydney Minsky Sargeant",
+"title": "I Don't Wanna"
+},
+{
+"id": "2026-11-02T12:47|Yard Act|You're Gonna Need A Little Music",
+"t": "2026-11-02T12:47:00+01:00",
+"artist": "Yard Act",
+"title": "You're Gonna Need A Little Music"
+},
+{
+"id": "2026-11-02T12:44|Tikhet|Trouble Is A State Of Mind",
+"t": "2026-11-02T12:44:00+01:00",
+"artist": "Tikhet",
+"title": "Trouble Is A State Of Mind"
+},
 {
 "id": "2026-11-02T12:40|Madrugada|Shine",
 "t": "2026-11-02T12:40:00+01:00",
@@ -8972,18 +9012,6 @@
 "t": "2026-10-26T13:05:00+01:00",
 "artist": "Leon Bridges",
 "title": "Talk it over"
-},
-{
-"id": "2026-10-26T12:53|Haerts|Shivering",
-"t": "2026-10-26T12:53:00+01:00",
-"artist": "Haerts",
-"title": "Shivering"
-},
-{
-"id": "2026-10-26T12:51|Zero 7|Throw It All Away",
-"t": "2026-10-26T12:51:00+01:00",
-"artist": "Zero 7",
-"title": "Throw It All Away"
 }
 ]
 }
