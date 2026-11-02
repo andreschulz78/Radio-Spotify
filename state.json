@@ -1,9 +1,9 @@
 {
-"updated": "2026-11-02T08:13:58.232042+01:00",
+"updated": "2026-11-02T08:25:58.232451+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
-"synced": "2026-11-02T08:09:50.472513+01:00",
+"synced": "2026-11-02T08:25:58.232451+01:00",
 "pruned": "2026-11-02",
 "calls": {
 "2026-10-28": 21,
@@ -11,12 +11,24 @@
 "2026-10-30": 178,
 "2026-10-31": 90,
 "2026-11-01": 99,
-"2026-11-02": 39
+"2026-11-02": 42
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAeF9ex6Ja6yTQ8cR8cY7jKcEHFSMKd",
+"snapshot": "AAAeGSDXD+3Ykfcmn5D15L5Qnrz+6o2W",
 "playlist": [
+[
+"2026-11-02T08:19|Jonathan Richman & The Modern Lovers|Egyptian Reggae",
+"spotify:track:426eL4gFMqgtu3hulUEMFs"
+],
+[
+"2026-11-02T08:14|Ladytron|City Of Angels",
+"spotify:track:4wgs0jePkij5qlNu5o0GsR"
+],
+[
+"2026-11-02T08:07|Cassius|Toop Toop",
+"spotify:track:7cHhpJV9fC2AqgdiLvq1AO"
+],
 [
 "2026-11-02T07:56|Republica|Ready To Go",
 "spotify:track:5oQrjFYt6Vqv5oi9KB1DPU"
@@ -3438,10 +3450,6 @@
 "spotify:track:0YosJMrYxYQP7mLXfFo0p1"
 ],
 [
-"2026-10-26T08:25|Neneh Cherry|Woman",
-"spotify:track:1eOCyaSRBdFGofbLYjgGM2"
-],
-[
 "2026-10-26T08:19|Django Django|Cameos",
 "spotify:track:6q1og9CkTnFTTYqOSN9ed3"
 ],
@@ -3567,6 +3575,18 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-11-02T08:19|Jonathan Richman & The Modern Lovers|Egyptian Reggae",
+"t": "2026-11-02T08:19:00+01:00",
+"artist": "Jonathan Richman & The Modern Lovers",
+"title": "Egyptian Reggae"
+},
+{
+"id": "2026-11-02T08:14|Ladytron|City Of Angels",
+"t": "2026-11-02T08:14:00+01:00",
+"artist": "Ladytron",
+"title": "City Of Angels"
+},
 {
 "id": "2026-11-02T08:07|Cassius|Toop Toop",
 "t": "2026-11-02T08:07:00+01:00",
@@ -8822,18 +8842,6 @@
 "t": "2026-10-26T08:32:00+01:00",
 "artist": "Smidley feat. Lucy Dacus",
 "title": "Capstone"
-},
-{
-"id": "2026-10-26T08:25|Neneh Cherry|Woman",
-"t": "2026-10-26T08:25:00+01:00",
-"artist": "Neneh Cherry",
-"title": "Woman"
-},
-{
-"id": "2026-10-26T08:19|Django Django|Cameos",
-"t": "2026-10-26T08:19:00+01:00",
-"artist": "Django Django",
-"title": "Cameos"
 }
 ]
 }
