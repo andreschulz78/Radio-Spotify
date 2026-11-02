@@ -1,5 +1,5 @@
 {
-"updated": "2026-11-02T11:37:58.238891+01:00",
+"updated": "2026-11-02T11:49:58.239305+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
@@ -11,7 +11,7 @@
 "2026-10-30": 178,
 "2026-10-31": 90,
 "2026-11-01": 99,
-"2026-11-02": 73
+"2026-11-02": 75
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
@@ -3675,6 +3675,24 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-11-02T11:45|Meshell Ndegeocello feat. Cat Power|Don’t You Want Me",
+"t": "2026-11-02T11:45:00+01:00",
+"artist": "Meshell Ndegeocello feat. Cat Power",
+"title": "Don’t You Want Me"
+},
+{
+"id": "2026-11-02T11:40|The Carpenters|Rainy Days And Mondays",
+"t": "2026-11-02T11:40:00+01:00",
+"artist": "The Carpenters",
+"title": "Rainy Days And Mondays"
+},
+{
+"id": "2026-11-02T11:34|Acht Eimer Hühnerherzen|Straße der Gewalt",
+"t": "2026-11-02T11:34:00+01:00",
+"artist": "Acht Eimer Hühnerherzen",
+"title": "Straße der Gewalt"
+},
 {
 "id": "2026-11-02T11:30|Smidley feat. Lucy Dacus|Capstone",
 "t": "2026-11-02T11:30:00+01:00",
@@ -8918,18 +8936,6 @@
 "t": "2026-10-26T11:56:00+01:00",
 "artist": "MGMT",
 "title": "Mother Nature"
-},
-{
-"id": "2026-10-26T11:49|Sugababes|Overload",
-"t": "2026-10-26T11:49:00+01:00",
-"artist": "Sugababes",
-"title": "Overload"
-},
-{
-"id": "2026-10-26T11:43|Funkstörung feat. Enik|Moon Addicted",
-"t": "2026-10-26T11:43:00+01:00",
-"artist": "Funkstörung feat. Enik",
-"title": "Moon Addicted"
 }
 ]
 }
