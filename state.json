@@ -1,5 +1,5 @@
 {
-"updated": "2026-11-02T13:49:58.243498+01:00",
+"updated": "2026-11-02T13:54:12.007173+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
@@ -3775,6 +3775,12 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-11-02T13:44|Madison Cunningham|Golden Gate (On And On)",
+"t": "2026-11-02T13:44:00+01:00",
+"artist": "Madison Cunningham",
+"title": "Golden Gate (On And On)"
+},
 {
 "id": "2026-11-02T13:39|Kevin Morby|Gift Horse",
 "t": "2026-11-02T13:39:00+01:00",
@@ -9036,12 +9042,6 @@
 "t": "2026-10-26T13:57:00+01:00",
 "artist": "Westside Cowboy",
 "title": "Kick Stones (The Boys)"
-},
-{
-"id": "2026-10-26T13:51|Gena feat. Liv.e, Karriem Riggins|Circlesz",
-"t": "2026-10-26T13:51:00+01:00",
-"artist": "Gena feat. Liv.e, Karriem Riggins",
-"title": "Circlesz"
 }
 ]
 }
