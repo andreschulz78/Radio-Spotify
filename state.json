@@ -1,9 +1,9 @@
 {
-"updated": "2026-11-02T10:25:58.236386+01:00",
+"updated": "2026-11-02T10:37:58.236823+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
-"synced": "2026-11-02T10:17:58.236067+01:00",
+"synced": "2026-11-02T10:33:58.236700+01:00",
 "pruned": "2026-11-02",
 "calls": {
 "2026-10-28": 21,
@@ -11,12 +11,24 @@
 "2026-10-30": 178,
 "2026-10-31": 90,
 "2026-11-01": 99,
-"2026-11-02": 60
+"2026-11-02": 62
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAeIcuLkMToflPOit7jl1VjoNw/8ypl",
+"snapshot": "AAAeIvYNVNAnL9IhIGRLYu4csLvzc80C",
 "playlist": [
+[
+"2026-11-02T10:25|RUN-D.M.C.vs. Aerosmith|Walk This Way",
+"spotify:track:7s1zuCFsLb4ne97U3Hd6J3"
+],
+[
+"2026-11-02T10:21|Aurora|All My Demons Greeting Me As A Friend",
+"spotify:track:5O1tikYb6HKrP5cxSQv0iV"
+],
+[
+"2026-11-02T10:18|Django Django|Cameos",
+"spotify:track:6q1og9CkTnFTTYqOSN9ed3"
+],
 [
 "2026-11-02T10:09|Bedouine|Deghma Cheega",
 "spotify:track:5mz2vo9T3jeGlnLcbfFhjG"
@@ -3627,6 +3639,18 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-11-02T10:31|Joy Wellboy|Lay Down Your Blade",
+"t": "2026-11-02T10:31:00+01:00",
+"artist": "Joy Wellboy",
+"title": "Lay Down Your Blade"
+},
+{
+"id": "2026-11-02T10:25|RUN-D.M.C.vs. Aerosmith|Walk This Way",
+"t": "2026-11-02T10:25:00+01:00",
+"artist": "RUN-D.M.C.vs. Aerosmith",
+"title": "Walk This Way"
+},
 {
 "id": "2026-11-02T10:21|Aurora|All My Demons Greeting Me As A Friend",
 "t": "2026-11-02T10:21:00+01:00",
@@ -8870,24 +8894,6 @@
 "t": "2026-10-26T10:39:00+01:00",
 "artist": "Fritz Kalkbrenner",
 "title": "Facing The Sun"
-},
-{
-"id": "2026-10-26T10:34|Moscoman & SCUDFM|Low Blood Sugar",
-"t": "2026-10-26T10:34:00+01:00",
-"artist": "Moscoman & SCUDFM",
-"title": "Low Blood Sugar"
-},
-{
-"id": "2026-10-26T10:32|Xing|Was It?",
-"t": "2026-10-26T10:32:00+01:00",
-"artist": "Xing",
-"title": "Was It?"
-},
-{
-"id": "2026-10-26T10:26|Niki & The Dove|Play it on my radio",
-"t": "2026-10-26T10:26:00+01:00",
-"artist": "Niki & The Dove",
-"title": "Play it on my radio"
 }
 ]
 }
