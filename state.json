@@ -1,9 +1,9 @@
 {
-"updated": "2026-11-02T06:45:50.469798+01:00",
+"updated": "2026-11-02T06:57:50.470185+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
-"synced": "2026-11-02T06:33:50.469419+01:00",
+"synced": "2026-11-02T06:49:50.469933+01:00",
 "pruned": "2026-11-02",
 "calls": {
 "2026-10-28": 21,
@@ -11,12 +11,16 @@
 "2026-10-30": 178,
 "2026-10-31": 90,
 "2026-11-01": 99,
-"2026-11-02": 22
+"2026-11-02": 25
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAeEIH+UJFb2Np3uiXzgS+ctdb4a7oN",
+"snapshot": "AAAeEUZWCopxcvyWolbmm4LmY1JJ6Pet",
 "playlist": [
+[
+"2026-11-02T06:36|Bonobo feat. Joy Crookes|Always on Your Side",
+"spotify:track:6jJTpzMquQLVuUkM2vVEIF"
+],
 [
 "2026-11-02T06:27|Orphia|Oberheim",
 "spotify:track:4ggp8rShRoYgmeJygAXaCU"
@@ -3523,6 +3527,18 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-11-02T06:49|Laing|Morgens immer müde",
+"t": "2026-11-02T06:49:00+01:00",
+"artist": "Laing",
+"title": "Morgens immer müde"
+},
+{
+"id": "2026-11-02T06:44|The Head And The Heart|Our House",
+"t": "2026-11-02T06:44:00+01:00",
+"artist": "The Head And The Heart",
+"title": "Our House"
+},
 {
 "id": "2026-11-02T06:36|Bonobo feat. Joy Crookes|Always on Your Side",
 "t": "2026-11-02T06:36:00+01:00",
@@ -8784,24 +8800,6 @@
 "t": "2026-10-26T07:05:00+01:00",
 "artist": "PRESSYES",
 "title": "Purpose (Radio Edit)"
-},
-{
-"id": "2026-10-26T06:57|Beirut|Gallipoli",
-"t": "2026-10-26T06:57:00+01:00",
-"artist": "Beirut",
-"title": "Gallipoli"
-},
-{
-"id": "2026-10-26T06:51|Pepe Deluxe|Ask For A Kiss",
-"t": "2026-10-26T06:51:00+01:00",
-"artist": "Pepe Deluxe",
-"title": "Ask For A Kiss"
-},
-{
-"id": "2026-10-26T06:47|LP Giobbi|All I Need",
-"t": "2026-10-26T06:47:00+01:00",
-"artist": "LP Giobbi",
-"title": "All I Need"
 }
 ]
 }
