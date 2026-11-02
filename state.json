@@ -1,9 +1,9 @@
 {
-"updated": "2026-11-02T18:42:12.017250+01:00",
+"updated": "2026-11-02T18:54:12.017681+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
-"synced": "2026-11-02T18:34:12.016994+01:00",
+"synced": "2026-11-02T18:50:12.017555+01:00",
 "pruned": "2026-11-02",
 "calls": {
 "2026-10-28": 21,
@@ -11,12 +11,24 @@
 "2026-10-30": 178,
 "2026-10-31": 90,
 "2026-11-01": 99,
-"2026-11-02": 160
+"2026-11-02": 166
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAeT8sNquMCEXih6ejWJbsSOFjkusCu",
+"snapshot": "AAAeUk+wCadQgHCsMvAcb+mn0L3iNPnP",
 "playlist": [
+[
+"2026-11-02T18:46|S.C.U.M.|Faith Unfolds",
+"spotify:track:0lf8jbKdCim9dZz8dX3raD"
+],
+[
+"2026-11-02T18:44|Little Simz|Mood Swings",
+"spotify:track:124nj3QzqpccVdLbiFHPeB"
+],
+[
+"2026-11-02T18:34|Keshavara|Moondram Sevi",
+"spotify:track:0jpeIdUkge4S8dMS0nkZ6r"
+],
 [
 "2026-11-02T18:26|Holybones|Saltywater",
 "spotify:track:0Flns2ijD0KVZN7e60FrpJ"
@@ -3442,10 +3454,6 @@
 "spotify:track:5KhFKpzl9ynjeRR8UrDz34"
 ],
 [
-"2026-10-26T18:50|Steve Lacy|Show You Me",
-"spotify:track:4f50UTC41M2Ah5itifSGE5"
-],
-[
 "2026-10-26T18:47|Aztec Camera|Oblivious",
 "spotify:track:7bkMwQHz07hXH9hszEBZah"
 ],
@@ -3955,6 +3963,24 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-11-02T18:46|S.C.U.M.|Faith Unfolds",
+"t": "2026-11-02T18:46:00+01:00",
+"artist": "S.C.U.M.",
+"title": "Faith Unfolds"
+},
+{
+"id": "2026-11-02T18:44|Little Simz|Mood Swings",
+"t": "2026-11-02T18:44:00+01:00",
+"artist": "Little Simz",
+"title": "Mood Swings"
+},
+{
+"id": "2026-11-02T18:41|Suzanne Vega|99.9 Fahrenheit",
+"t": "2026-11-02T18:41:00+01:00",
+"artist": "Suzanne Vega",
+"title": "99.9 Fahrenheit"
+},
 {
 "id": "2026-11-02T18:34|Keshavara|Moondram Sevi",
 "t": "2026-11-02T18:34:00+01:00",
@@ -9198,24 +9224,6 @@
 "t": "2026-10-26T18:56:00+01:00",
 "artist": "Portugal. The Man",
 "title": "Yellow Red And Blue"
-},
-{
-"id": "2026-10-26T18:50|Steve Lacy|Show You Me",
-"t": "2026-10-26T18:50:00+01:00",
-"artist": "Steve Lacy",
-"title": "Show You Me"
-},
-{
-"id": "2026-10-26T18:47|Aztec Camera|Oblivious",
-"t": "2026-10-26T18:47:00+01:00",
-"artist": "Aztec Camera",
-"title": "Oblivious"
-},
-{
-"id": "2026-10-26T18:43|CECI feat. Lords of Lounge|Honey Honey",
-"t": "2026-10-26T18:43:00+01:00",
-"artist": "CECI feat. Lords of Lounge",
-"title": "Honey Honey"
 }
 ]
 }
