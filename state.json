@@ -1,9 +1,9 @@
 {
-"updated": "2026-11-02T17:54:12.015587+01:00",
+"updated": "2026-11-02T18:06:12.015993+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
-"synced": "2026-11-02T17:46:12.015312+01:00",
+"synced": "2026-11-02T18:02:12.015870+01:00",
 "pruned": "2026-11-02",
 "calls": {
 "2026-10-28": 21,
@@ -11,12 +11,24 @@
 "2026-10-30": 178,
 "2026-10-31": 90,
 "2026-11-01": 99,
-"2026-11-02": 151
+"2026-11-02": 153
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAeSYtrZN9hKJGjv+7S6A6T0aSPll3Y",
+"snapshot": "AAAeSrTYVuLwBS1zR6Jl+/cpmqYBCZIX",
 "playlist": [
+[
+"2026-11-02T17:56|Sergio Torales feat. Der Assistent|Veo",
+"spotify:track:6k1tMxv0y7hJJsQMMfnE6p"
+],
+[
+"2026-11-02T17:50|Little Dragon|Slumber",
+"spotify:track:0oF0OIjGA5DGl7WkyHjSXz"
+],
+[
+"2026-11-02T17:46|Django Django|Year Of The Snake",
+"spotify:track:6PyPvKLOukrS1ZJhxPvtDt"
+],
 [
 "2026-11-02T17:35|Tears For Fears|Pale Shelter",
 "spotify:track:1UfMmncg5kMuPBRlAx8Jtd"
@@ -3927,6 +3939,18 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-11-02T17:56|Sergio Torales feat. Der Assistent|Veo",
+"t": "2026-11-02T17:56:00+01:00",
+"artist": "Sergio Torales feat. Der Assistent",
+"title": "Veo"
+},
+{
+"id": "2026-11-02T17:50|Little Dragon|Slumber",
+"t": "2026-11-02T17:50:00+01:00",
+"artist": "Little Dragon",
+"title": "Slumber"
+},
 {
 "id": "2026-11-02T17:46|Django Django|Year Of The Snake",
 "t": "2026-11-02T17:46:00+01:00",
@@ -9170,18 +9194,6 @@
 "t": "2026-10-26T18:16:00+01:00",
 "artist": "Erika De Casier",
 "title": "Delusional"
-},
-{
-"id": "2026-10-26T18:05|Spoon|Silver Girl",
-"t": "2026-10-26T18:05:00+01:00",
-"artist": "Spoon",
-"title": "Silver Girl"
-},
-{
-"id": "2026-10-26T17:56|Lola Young|From Down Here (Radio Edit)",
-"t": "2026-10-26T17:56:00+01:00",
-"artist": "Lola Young",
-"title": "From Down Here (Radio Edit)"
 }
 ]
 }
