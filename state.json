@@ -1,9 +1,9 @@
 {
-"updated": "2026-11-02T13:01:58.241941+01:00",
+"updated": "2026-11-02T13:13:58.242324+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
-"synced": "2026-11-02T12:57:58.241803+01:00",
+"synced": "2026-11-02T13:13:58.242324+01:00",
 "pruned": "2026-11-02",
 "calls": {
 "2026-10-28": 21,
@@ -11,12 +11,20 @@
 "2026-10-30": 178,
 "2026-10-31": 90,
 "2026-11-01": 99,
-"2026-11-02": 91
+"2026-11-02": 93
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAeL93LTAywADabU9Hz2jtGV2gLVn7s",
+"snapshot": "AAAeMGnQZ/o6eFAGl4nuZak96o25mwZt",
 "playlist": [
+[
+"2026-11-02T13:06|Kutiman & Dekel|Everybody Needs to Be",
+"spotify:track:57nR701tskrQisI9GZJ9oq"
+],
+[
+"2026-11-02T12:55|The Sundays|Here's Where The Story Ends",
+"spotify:track:5gSHlT2SI0dtjeHrjj96A1"
+],
 [
 "2026-11-02T12:52|Sydney Minsky Sargeant|I Don't Wanna",
 "spotify:track:4hHizy49Hzl7QfP3mGVJOY"
@@ -3739,6 +3747,12 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-11-02T13:06|Kutiman & Dekel|Everybody Needs to Be",
+"t": "2026-11-02T13:06:00+01:00",
+"artist": "Kutiman & Dekel",
+"title": "Everybody Needs to Be"
+},
 {
 "id": "2026-11-02T12:55|The Sundays|Here's Where The Story Ends",
 "t": "2026-11-02T12:55:00+01:00",
@@ -9000,18 +9014,6 @@
 "t": "2026-10-26T13:18:00+01:00",
 "artist": "Flora Hibberd",
 "title": "Bowling Ball"
-},
-{
-"id": "2026-10-26T13:08|Primal Scream|Higher Than The Sun",
-"t": "2026-10-26T13:08:00+01:00",
-"artist": "Primal Scream",
-"title": "Higher Than The Sun"
-},
-{
-"id": "2026-10-26T13:05|Leon Bridges|Talk it over",
-"t": "2026-10-26T13:05:00+01:00",
-"artist": "Leon Bridges",
-"title": "Talk it over"
 }
 ]
 }
