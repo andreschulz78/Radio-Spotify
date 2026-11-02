@@ -1,9 +1,9 @@
 {
-"updated": "2026-11-02T17:18:12.014294+01:00",
+"updated": "2026-11-02T17:30:12.014737+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
-"synced": "2026-11-02T17:14:12.014138+01:00",
+"synced": "2026-11-02T17:30:12.014737+01:00",
 "pruned": "2026-11-02",
 "calls": {
 "2026-10-28": 21,
@@ -11,12 +11,24 @@
 "2026-10-30": 178,
 "2026-10-31": 90,
 "2026-11-01": 99,
-"2026-11-02": 146
+"2026-11-02": 148
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAeRlqLpk/Mj8Nky38v27JxoDY0Lbv6",
+"snapshot": "AAAeRy8I+o/NQnghUsgAA/4jro9fYe8f",
 "playlist": [
+[
+"2026-11-02T17:24|R Plus & Dido|My Boy",
+"spotify:track:1VIiEuqeJoQ823GhlDPrND"
+],
+[
+"2026-11-02T17:17|Ásgeir|Against The Current",
+"spotify:track:5udQbIlHLaD6QRDJmv0bjX"
+],
+[
+"2026-11-02T17:14|Bonobo|Shokoufeh",
+"spotify:track:5cZ6iDczIvnNezs5sqdgU8"
+],
 [
 "2026-11-02T17:05|Greentea Peng|One Foot",
 "spotify:track:7CpYtDjQe0qtyVxFFYBIl9"
@@ -3911,6 +3923,24 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-11-02T17:24|R Plus & Dido|My Boy",
+"t": "2026-11-02T17:24:00+01:00",
+"artist": "R Plus & Dido",
+"title": "My Boy"
+},
+{
+"id": "2026-11-02T17:17|Ásgeir|Against The Current",
+"t": "2026-11-02T17:17:00+01:00",
+"artist": "Ásgeir",
+"title": "Against The Current"
+},
+{
+"id": "2026-11-02T17:14|Bonobo|Shokoufeh",
+"t": "2026-11-02T17:14:00+01:00",
+"artist": "Bonobo",
+"title": "Shokoufeh"
+},
 {
 "id": "2026-11-02T17:05|Greentea Peng|One Foot",
 "t": "2026-11-02T17:05:00+01:00",
@@ -9160,18 +9190,6 @@
 "t": "2026-10-26T17:32:00+01:00",
 "artist": "Romy",
 "title": "Lifetime"
-},
-{
-"id": "2026-10-26T17:29|Oscar Peterson|Satisfaction",
-"t": "2026-10-26T17:29:00+01:00",
-"artist": "Oscar Peterson",
-"title": "Satisfaction"
-},
-{
-"id": "2026-10-26T17:24|ViVii|Rendezvous",
-"t": "2026-10-26T17:24:00+01:00",
-"artist": "ViVii",
-"title": "Rendezvous"
 }
 ]
 }
