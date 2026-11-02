@@ -1,5 +1,5 @@
 {
-"updated": "2026-11-02T22:03:16.593530+01:00",
+"updated": "2026-11-02T22:15:16.593940+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
@@ -9152,18 +9152,6 @@
 "t": "2026-10-26T22:19:00+01:00",
 "artist": "Angine de Poitrine",
 "title": "Tohogd"
-},
-{
-"id": "2026-10-26T22:13|Puscifer|Self Evident",
-"t": "2026-10-26T22:13:00+01:00",
-"artist": "Puscifer",
-"title": "Self Evident"
-},
-{
-"id": "2026-10-26T22:09|Steven Wilson|A Basket Of Bees",
-"t": "2026-10-26T22:09:00+01:00",
-"artist": "Steven Wilson",
-"title": "A Basket Of Bees"
 }
 ]
 }
