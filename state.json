@@ -1,9 +1,9 @@
 {
-"updated": "2026-11-02T17:42:12.015169+01:00",
+"updated": "2026-11-02T17:54:12.015587+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
-"synced": "2026-11-02T17:30:12.014737+01:00",
+"synced": "2026-11-02T17:46:12.015312+01:00",
 "pruned": "2026-11-02",
 "calls": {
 "2026-10-28": 21,
@@ -11,12 +11,20 @@
 "2026-10-30": 178,
 "2026-10-31": 90,
 "2026-11-01": 99,
-"2026-11-02": 149
+"2026-11-02": 151
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAeRy8I+o/NQnghUsgAA/4jro9fYe8f",
+"snapshot": "AAAeSYtrZN9hKJGjv+7S6A6T0aSPll3Y",
 "playlist": [
+[
+"2026-11-02T17:35|Tears For Fears|Pale Shelter",
+"spotify:track:1UfMmncg5kMuPBRlAx8Jtd"
+],
+[
+"2026-11-02T17:32|Freedom Fry|She Fell In Love On The Dance Floor",
+"spotify:track:22uuH9uHRSdS2y2zvS5uEt"
+],
 [
 "2026-11-02T17:24|R Plus & Dido|My Boy",
 "spotify:track:1VIiEuqeJoQ823GhlDPrND"
@@ -3446,10 +3454,6 @@
 "spotify:track:6dSqM0tWJPlchpmGrEwC1c"
 ],
 [
-"2026-10-26T17:46|Kraftwerk|Tour de France",
-"spotify:track:7JryYiDLZ8fBKu6yBbu5aH"
-],
-[
 "2026-10-26T17:43|Agnes Obel|Laymelli (Edit)",
 "spotify:track:0VzMHjWcs2P24LHLekZ8Qa"
 ],
@@ -3923,6 +3927,12 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-11-02T17:46|Django Django|Year Of The Snake",
+"t": "2026-11-02T17:46:00+01:00",
+"artist": "Django Django",
+"title": "Year Of The Snake"
+},
 {
 "id": "2026-11-02T17:35|Tears For Fears|Pale Shelter",
 "t": "2026-11-02T17:35:00+01:00",
@@ -9172,24 +9182,6 @@
 "t": "2026-10-26T17:56:00+01:00",
 "artist": "Lola Young",
 "title": "From Down Here (Radio Edit)"
-},
-{
-"id": "2026-10-26T17:49|Overmono feat. Ruthven|Gem Lingo (ovr now)",
-"t": "2026-10-26T17:49:00+01:00",
-"artist": "Overmono feat. Ruthven",
-"title": "Gem Lingo (ovr now)"
-},
-{
-"id": "2026-10-26T17:46|Kraftwerk|Tour de France",
-"t": "2026-10-26T17:46:00+01:00",
-"artist": "Kraftwerk",
-"title": "Tour de France"
-},
-{
-"id": "2026-10-26T17:43|Agnes Obel|Laymelli (Edit)",
-"t": "2026-10-26T17:43:00+01:00",
-"artist": "Agnes Obel",
-"title": "Laymelli (Edit)"
 }
 ]
 }
