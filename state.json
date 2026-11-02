@@ -1,9 +1,9 @@
 {
-"updated": "2026-11-02T12:37:58.241144+01:00",
+"updated": "2026-11-02T12:49:58.241564+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
-"synced": "2026-11-02T12:25:58.240703+01:00",
+"synced": "2026-11-02T12:41:58.241301+01:00",
 "pruned": "2026-11-02",
 "calls": {
 "2026-10-28": 21,
@@ -11,12 +11,28 @@
 "2026-10-30": 178,
 "2026-10-31": 90,
 "2026-11-01": 99,
-"2026-11-02": 85
+"2026-11-02": 87
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAeLY7XgC6tN9w0+T3mvW599Pd4sCis",
+"snapshot": "AAAeLlB/6LFJor+U35xxE8Bz6F5KRF8P",
 "playlist": [
+[
+"2026-11-02T12:37|L'Rain|Elmyra (Edit)",
+"spotify:track:5pedzmyyKGTs8PV23dnvbc"
+],
+[
+"2026-11-02T12:33|Daft Punk|Voyager",
+"spotify:track:7cMFjxhbXBpOlais7KMF3j"
+],
+[
+"2026-11-02T12:31|Alexander IV & IYAMAH|About Us",
+"spotify:track:0c3tXpFKZilDSR3yAphPZt"
+],
+[
+"2026-11-02T12:25|Bonaparte|KiOSKO",
+"spotify:track:5seYGZRYuD3oPMxryJdvOk"
+],
 [
 "2026-11-02T12:21|MorMor feat. Celeste|Like Heaven",
 "spotify:track:5pZGuhprytXKB7QRMul3jq"
@@ -3707,6 +3723,18 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-11-02T12:40|Madrugada|Shine",
+"t": "2026-11-02T12:40:00+01:00",
+"artist": "Madrugada",
+"title": "Shine"
+},
+{
+"id": "2026-11-02T12:37|L'Rain|Elmyra (Edit)",
+"t": "2026-11-02T12:37:00+01:00",
+"artist": "L'Rain",
+"title": "Elmyra (Edit)"
+},
 {
 "id": "2026-11-02T12:33|Daft Punk|Voyager",
 "t": "2026-11-02T12:33:00+01:00",
@@ -8956,24 +8984,6 @@
 "t": "2026-10-26T12:51:00+01:00",
 "artist": "Zero 7",
 "title": "Throw It All Away"
-},
-{
-"id": "2026-10-26T12:47|Extra Credit|It's Over (Edit)",
-"t": "2026-10-26T12:47:00+01:00",
-"artist": "Extra Credit",
-"title": "It's Over (Edit)"
-},
-{
-"id": "2026-10-26T12:43|Jen Meets Salz|Offcenter Moon",
-"t": "2026-10-26T12:43:00+01:00",
-"artist": "Jen Meets Salz",
-"title": "Offcenter Moon"
-},
-{
-"id": "2026-10-26T12:39|The Big Moon|F.O.R.E.V.E.R",
-"t": "2026-10-26T12:39:00+01:00",
-"artist": "The Big Moon",
-"title": "F.O.R.E.V.E.R"
 }
 ]
 }
