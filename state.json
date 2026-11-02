@@ -1,5 +1,5 @@
 {
-"updated": "2026-11-02T21:39:16.592753+01:00",
+"updated": "2026-11-02T21:51:16.593118+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
@@ -9180,18 +9180,6 @@
 "t": "2026-10-26T21:54:00+01:00",
 "artist": "Angine de Poitrine",
 "title": "Yor Zarad"
-},
-{
-"id": "2026-10-26T21:48|Foals|What Went Down",
-"t": "2026-10-26T21:48:00+01:00",
-"artist": "Foals",
-"title": "What Went Down"
-},
-{
-"id": "2026-10-26T21:45|Fontaines D.C.|Tongue",
-"t": "2026-10-26T21:45:00+01:00",
-"artist": "Fontaines D.C.",
-"title": "Tongue"
 }
 ]
 }
