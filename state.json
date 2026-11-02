@@ -1,9 +1,9 @@
 {
-"updated": "2026-11-02T15:30:12.010469+01:00",
+"updated": "2026-11-02T15:42:12.010881+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
-"synced": "2026-11-02T15:22:12.010174+01:00",
+"synced": "2026-11-02T15:38:12.010740+01:00",
 "pruned": "2026-11-02",
 "calls": {
 "2026-10-28": 21,
@@ -11,12 +11,24 @@
 "2026-10-30": 178,
 "2026-10-31": 90,
 "2026-11-01": 99,
-"2026-11-02": 127
+"2026-11-02": 129
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAePRXFpBySLwDN7qakdcN/ZUTDNogP",
+"snapshot": "AAAePp4+YsgOdVj27fOIKMkbAnuibWOi",
 "playlist": [
+[
+"2026-11-02T15:31|Seeed|Hale-Bopp",
+"spotify:track:73gwUCEJBgLhLzM1WTMBv0"
+],
+[
+"2026-11-02T15:25|Hannah Jadagu|My Love",
+"spotify:track:4XM4c3zMS0orMhblnrZwnS"
+],
+[
+"2026-11-02T15:22|Monako|I Forget",
+"spotify:track:2WFUEZwNBfOm8O0zghCEEe"
+],
 [
 "2026-11-02T15:14|Blood Orange feat. Caroline Polachek, Lorde, and Mustafa|Mind Loaded (Edit)",
 "spotify:track:4gVsKMMK0f8dweHL7Vm9HC"
@@ -3851,6 +3863,12 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-11-02T15:31|Seeed|Hale-Bopp",
+"t": "2026-11-02T15:31:00+01:00",
+"artist": "Seeed",
+"title": "Hale-Bopp"
+},
 {
 "id": "2026-11-02T15:25|Hannah Jadagu|My Love",
 "t": "2026-11-02T15:25:00+01:00",
@@ -9124,12 +9142,6 @@
 "t": "2026-10-26T15:44:00+01:00",
 "artist": "Bob Marley & The Wailers",
 "title": "Waiting In Vain"
-},
-{
-"id": "2026-10-26T15:31|Erik Truffaz feat. Sophie Hunger|Let Me Go",
-"t": "2026-10-26T15:31:00+01:00",
-"artist": "Erik Truffaz feat. Sophie Hunger",
-"title": "Let Me Go"
 }
 ]
 }
