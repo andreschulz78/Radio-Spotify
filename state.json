@@ -1,9 +1,9 @@
 {
-"updated": "2026-11-02T17:06:12.013859+01:00",
+"updated": "2026-11-02T17:18:12.014294+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
-"synced": "2026-11-02T16:58:12.013527+01:00",
+"synced": "2026-11-02T17:14:12.014138+01:00",
 "pruned": "2026-11-02",
 "calls": {
 "2026-10-28": 21,
@@ -11,12 +11,20 @@
 "2026-10-30": 178,
 "2026-10-31": 90,
 "2026-11-01": 99,
-"2026-11-02": 141
+"2026-11-02": 146
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAeQ3Yhlv9fv7VNmBivDqF883Y0fYmN",
+"snapshot": "AAAeRlqLpk/Mj8Nky38v27JxoDY0Lbv6",
 "playlist": [
+[
+"2026-11-02T17:05|Greentea Peng|One Foot",
+"spotify:track:7CpYtDjQe0qtyVxFFYBIl9"
+],
+[
+"2026-11-02T16:56|Moloko|Familiar Feelings",
+"spotify:track:0KVnytFhfPo4nGhULCQtlp"
+],
 [
 "2026-11-02T16:49|Moonlight Breakfast|If Not Now, Then When?!",
 "spotify:track:7rqjXsHITwfxR5XoKIGsaJ"
@@ -3446,10 +3454,6 @@
 "spotify:track:4RtoslvgfrBcr3EcyVn2xm"
 ],
 [
-"2026-10-26T17:14|UFOs|UFO (Radio Edit)",
-"spotify:track:7pA7CZIJUpcD5X0QpLlESx"
-],
-[
 "2026-10-26T17:05|Sassy 009 feat. Blood Orange|Tell Me (Jam City Remix) (Edit)",
 "spotify:track:1pDiRrLro0tlhsPSexB3Zv"
 ],
@@ -3907,6 +3911,12 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-11-02T17:05|Greentea Peng|One Foot",
+"t": "2026-11-02T17:05:00+01:00",
+"artist": "Greentea Peng",
+"title": "One Foot"
+},
 {
 "id": "2026-11-02T16:56|Moloko|Familiar Feelings",
 "t": "2026-11-02T16:56:00+01:00",
@@ -9162,18 +9172,6 @@
 "t": "2026-10-26T17:24:00+01:00",
 "artist": "ViVii",
 "title": "Rendezvous"
-},
-{
-"id": "2026-10-26T17:17|Hipkiss|Raw Love",
-"t": "2026-10-26T17:17:00+01:00",
-"artist": "Hipkiss",
-"title": "Raw Love"
-},
-{
-"id": "2026-10-26T17:14|UFOs|UFO (Radio Edit)",
-"t": "2026-10-26T17:14:00+01:00",
-"artist": "UFOs",
-"title": "UFO (Radio Edit)"
 }
 ]
 }
