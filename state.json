@@ -1,5 +1,5 @@
 {
-"updated": "2026-11-02T15:06:12.009590+01:00",
+"updated": "2026-11-02T15:18:12.010027+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
@@ -11,7 +11,7 @@
 "2026-10-30": 178,
 "2026-10-31": 90,
 "2026-11-01": 99,
-"2026-11-02": 123
+"2026-11-02": 124
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
@@ -3843,6 +3843,12 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-11-02T15:05|Daughter|Party",
+"t": "2026-11-02T15:05:00+01:00",
+"artist": "Daughter",
+"title": "Party"
+},
 {
 "id": "2026-11-02T14:56|Sparkling & COMA|It Won't Be Like This Forever",
 "t": "2026-11-02T14:56:00+01:00",
@@ -9110,18 +9116,6 @@
 "t": "2026-10-26T15:20:00+01:00",
 "artist": "Oscar Farrell feat. Sampha",
 "title": "Dream Therapy"
-},
-{
-"id": "2026-10-26T15:11|Yukimi|Break Me Down",
-"t": "2026-10-26T15:11:00+01:00",
-"artist": "Yukimi",
-"title": "Break Me Down"
-},
-{
-"id": "2026-10-26T15:08|Death Cab For Cutie|Pep Talk",
-"t": "2026-10-26T15:08:00+01:00",
-"artist": "Death Cab For Cutie",
-"title": "Pep Talk"
 }
 ]
 }
