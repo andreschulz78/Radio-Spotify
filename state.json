@@ -1,9 +1,9 @@
 {
-"updated": "2026-11-02T15:18:12.010027+01:00",
+"updated": "2026-11-02T15:30:12.010469+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
-"synced": "2026-11-02T15:06:12.009590+01:00",
+"synced": "2026-11-02T15:22:12.010174+01:00",
 "pruned": "2026-11-02",
 "calls": {
 "2026-10-28": 21,
@@ -11,12 +11,20 @@
 "2026-10-30": 178,
 "2026-10-31": 90,
 "2026-11-01": 99,
-"2026-11-02": 124
+"2026-11-02": 127
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAePJSKmkEpgPd1pLyzY6Xys9vFxAg+",
+"snapshot": "AAAePRXFpBySLwDN7qakdcN/ZUTDNogP",
 "playlist": [
+[
+"2026-11-02T15:14|Blood Orange feat. Caroline Polachek, Lorde, and Mustafa|Mind Loaded (Edit)",
+"spotify:track:4gVsKMMK0f8dweHL7Vm9HC"
+],
+[
+"2026-11-02T15:05|Daughter|Party",
+"spotify:track:6yKSbasXlkDEdrGzkyVqI9"
+],
 [
 "2026-11-02T14:56|Sparkling & COMA|It Won't Be Like This Forever",
 "spotify:track:1w6NksiUfe5WNa5wZAJXYO"
@@ -3843,6 +3851,24 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-11-02T15:25|Hannah Jadagu|My Love",
+"t": "2026-11-02T15:25:00+01:00",
+"artist": "Hannah Jadagu",
+"title": "My Love"
+},
+{
+"id": "2026-11-02T15:22|Monako|I Forget",
+"t": "2026-11-02T15:22:00+01:00",
+"artist": "Monako",
+"title": "I Forget"
+},
+{
+"id": "2026-11-02T15:14|Blood Orange feat. Caroline Polachek, Lorde, and Mustafa|Mind Loaded (Edit)",
+"t": "2026-11-02T15:14:00+01:00",
+"artist": "Blood Orange feat. Caroline Polachek, Lorde, and Mustafa",
+"title": "Mind Loaded (Edit)"
+},
 {
 "id": "2026-11-02T15:05|Daughter|Party",
 "t": "2026-11-02T15:05:00+01:00",
@@ -9104,18 +9130,6 @@
 "t": "2026-10-26T15:31:00+01:00",
 "artist": "Erik Truffaz feat. Sophie Hunger",
 "title": "Let Me Go"
-},
-{
-"id": "2026-10-26T15:24|Joan As Police Woman|Warning Bell",
-"t": "2026-10-26T15:24:00+01:00",
-"artist": "Joan As Police Woman",
-"title": "Warning Bell"
-},
-{
-"id": "2026-10-26T15:20|Oscar Farrell feat. Sampha|Dream Therapy",
-"t": "2026-10-26T15:20:00+01:00",
-"artist": "Oscar Farrell feat. Sampha",
-"title": "Dream Therapy"
 }
 ]
 }
