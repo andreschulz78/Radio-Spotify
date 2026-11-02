@@ -1,9 +1,9 @@
 {
-"updated": "2026-11-02T13:37:58.243093+01:00",
+"updated": "2026-11-02T13:49:58.243498+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
-"synced": "2026-11-02T13:29:58.242837+01:00",
+"synced": "2026-11-02T13:45:58.243372+01:00",
 "pruned": "2026-11-02",
 "calls": {
 "2026-10-28": 21,
@@ -11,12 +11,32 @@
 "2026-10-30": 178,
 "2026-10-31": 90,
 "2026-11-01": 99,
-"2026-11-02": 100
+"2026-11-02": 106
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAeMlENgGYViCPgofXKN5fgEulibJYK",
+"snapshot": "AAAeN+W6KCZc7h4nuqg7hDk3h92SVJ2J",
 "playlist": [
+[
+"2026-11-02T13:39|Kevin Morby|Gift Horse",
+"spotify:track:3aFxLF3ghZGFDo4YBC72aC"
+],
+[
+"2026-11-02T13:36|Friedberg|Goodwife",
+"spotify:track:1H89j9NLse1E0Kmjb3tzW6"
+],
+[
+"2026-11-02T13:32|Billie Eilish|Birds Of A Feather",
+"spotify:track:6dOtVTDdiauQNBQEDOtlAB"
+],
+[
+"2026-11-02T13:28|Matthias Vogt feat. Pete Josef|Can We All Be Still",
+"spotify:track:32Err5xYCZhHNOleXCuiwZ"
+],
+[
+"2026-11-02T13:24|Grace Cummings|I'm Not Crazy",
+"spotify:track:70QaE9UJ2uTVwC4IGS6yvU"
+],
 [
 "2026-11-02T13:21|Eilis Frawley|Taken, Never Erased",
 "spotify:track:5a3IV4xiA81Ucn98CHtJzb"
@@ -3438,10 +3458,6 @@
 "spotify:track:23i10hKRFFtyNN801D2AYz"
 ],
 [
-"2026-10-26T13:45|Beck|It Ends Right Here",
-"spotify:track:3PmyDf7Zu4vveCnayueVYX"
-],
-[
 "2026-10-26T13:42|Serebii|Even In The Quiet",
 "spotify:track:5ZIYdecFkCGyT6Tbyk7rAq"
 ],
@@ -3759,6 +3775,18 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-11-02T13:39|Kevin Morby|Gift Horse",
+"t": "2026-11-02T13:39:00+01:00",
+"artist": "Kevin Morby",
+"title": "Gift Horse"
+},
+{
+"id": "2026-11-02T13:36|Friedberg|Goodwife",
+"t": "2026-11-02T13:36:00+01:00",
+"artist": "Friedberg",
+"title": "Goodwife"
+},
 {
 "id": "2026-11-02T13:32|Billie Eilish|Birds Of A Feather",
 "t": "2026-11-02T13:32:00+01:00",
@@ -9014,30 +9042,6 @@
 "t": "2026-10-26T13:51:00+01:00",
 "artist": "Gena feat. Liv.e, Karriem Riggins",
 "title": "Circlesz"
-},
-{
-"id": "2026-10-26T13:48|Ray Lozano|Late Night",
-"t": "2026-10-26T13:48:00+01:00",
-"artist": "Ray Lozano",
-"title": "Late Night"
-},
-{
-"id": "2026-10-26T13:45|Beck|It Ends Right Here",
-"t": "2026-10-26T13:45:00+01:00",
-"artist": "Beck",
-"title": "It Ends Right Here"
-},
-{
-"id": "2026-10-26T13:42|Serebii|Even In The Quiet",
-"t": "2026-10-26T13:42:00+01:00",
-"artist": "Serebii",
-"title": "Even In The Quiet"
-},
-{
-"id": "2026-10-26T13:39|Anderson .Paak & Cordae|A Good Day",
-"t": "2026-10-26T13:39:00+01:00",
-"artist": "Anderson .Paak & Cordae",
-"title": "A Good Day"
 }
 ]
 }
