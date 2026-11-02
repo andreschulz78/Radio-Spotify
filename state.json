@@ -1,21 +1,34 @@
 {
-"updated": "2026-11-02T05:21:50.467078+01:00",
+"updated": "2026-11-02T05:33:50.467484+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
-"synced": "2026-11-02T05:13:50.466822+01:00",
+"synced": "2026-11-02T05:29:50.467352+01:00",
 "pruned": "2026-11-02",
 "calls": {
 "2026-10-28": 21,
 "2026-10-29": 300,
 "2026-10-30": 178,
 "2026-10-31": 90,
-"2026-11-01": 98
+"2026-11-01": 99,
+"2026-11-02": 3
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAeChz7nI7IGIAiTPojPoQWdG0bLUnL",
+"snapshot": "AAAeCz+DCI4Huymw0zwSXj5oJWJXASV/",
 "playlist": [
+[
+"2026-11-02T05:18|Beck|It Ends Right Here",
+"spotify:track:3PmyDf7Zu4vveCnayueVYX"
+],
+[
+"2026-11-02T05:14|Aminé (feat. Leon Thomas)|New Flower!",
+"spotify:track:3q8mXT1racKde1h8zHY1ko"
+],
+[
+"2026-11-02T05:08|Everything But The Girl|I Didn't Know I Was Looking For Love",
+"spotify:track:1o9BpUk7j0oQzvBQShFKgX"
+],
 [
 "2026-11-02T05:03|Brigitte Calls Me Baby|The Future is Our Way Out",
 "spotify:track:5trl9gPUhMMRNB2BRzf9cG"
@@ -3474,6 +3487,18 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-11-02T05:24|Simen Mitlid|It's Okay",
+"t": "2026-11-02T05:24:00+01:00",
+"artist": "Simen Mitlid",
+"title": "It's Okay"
+},
+{
+"id": "2026-11-02T05:18|Beck|It Ends Right Here",
+"t": "2026-11-02T05:18:00+01:00",
+"artist": "Beck",
+"title": "It Ends Right Here"
+},
 {
 "id": "2026-11-02T05:14|Aminé (feat. Leon Thomas)|New Flower!",
 "t": "2026-11-02T05:14:00+01:00",
@@ -8741,24 +8766,6 @@
 "t": "2026-10-26T05:38:00+01:00",
 "artist": "INXS",
 "title": "Elegantly wasted"
-},
-{
-"id": "2026-10-26T05:31|Hot Chip|Random Violence (Radio Edit)",
-"t": "2026-10-26T05:31:00+01:00",
-"artist": "Hot Chip",
-"title": "Random Violence (Radio Edit)"
-},
-{
-"id": "2026-10-26T05:27|54 Ultra|Tell Me",
-"t": "2026-10-26T05:27:00+01:00",
-"artist": "54 Ultra",
-"title": "Tell Me"
-},
-{
-"id": "2026-10-26T05:23|Nation of Language|Whatever You Want",
-"t": "2026-10-26T05:23:00+01:00",
-"artist": "Nation of Language",
-"title": "Whatever You Want"
 }
 ]
 }
