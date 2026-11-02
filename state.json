@@ -1,9 +1,9 @@
 {
-"updated": "2026-11-02T06:09:50.468637+01:00",
+"updated": "2026-11-02T06:21:50.468997+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
-"synced": "2026-11-02T06:01:50.468371+01:00",
+"synced": "2026-11-02T06:17:50.468849+01:00",
 "pruned": "2026-11-02",
 "calls": {
 "2026-10-28": 21,
@@ -11,12 +11,16 @@
 "2026-10-30": 178,
 "2026-10-31": 90,
 "2026-11-01": 99,
-"2026-11-02": 12
+"2026-11-02": 16
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAeDZxGEHWoi5kXzMvQ1WgYUoBJKqXR",
+"snapshot": "AAAeD6jERD7RXfB2mDrjK6lKEQXmW2Ui",
 "playlist": [
+[
+"2026-11-02T06:07|The Limiñanas feat. Peter Hook|Garden Of Love",
+"spotify:track:6kcRLo7m05rbaWkM2kApiY"
+],
 [
 "2026-11-02T05:57|Caribou|Can't Do Without You",
 "spotify:track:35p0Z5yZDogaXoWXhMVEv4"
@@ -3450,10 +3454,6 @@
 "spotify:track:6ev5ii9Zpk67XEhdNTtY5z"
 ],
 [
-"2026-10-26T06:17|Junior Boys|Hazel",
-"spotify:track:4qRHpUD1A7WoY8Wd9cE4ob"
-],
-[
 "2026-10-26T06:12|Meshell Ndegeocello feat. Cat Power|Don’t You Want Me",
 "spotify:track:5sbCqST9M4Q1sRSJM6L6oT"
 ],
@@ -3511,6 +3511,18 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-11-02T06:14|Austra & Patrick Holland|Siren Reprise",
+"t": "2026-11-02T06:14:00+01:00",
+"artist": "Austra & Patrick Holland",
+"title": "Siren Reprise"
+},
+{
+"id": "2026-11-02T06:07|The Limiñanas feat. Peter Hook|Garden Of Love",
+"t": "2026-11-02T06:07:00+01:00",
+"artist": "The Limiñanas feat. Peter Hook",
+"title": "Garden Of Love"
+},
 {
 "id": "2026-11-02T05:57|Caribou|Can't Do Without You",
 "t": "2026-11-02T05:57:00+01:00",
@@ -8778,18 +8790,6 @@
 "t": "2026-10-26T06:24:00+01:00",
 "artist": "Alice Costelloe",
 "title": "How Can I"
-},
-{
-"id": "2026-10-26T06:17|Junior Boys|Hazel",
-"t": "2026-10-26T06:17:00+01:00",
-"artist": "Junior Boys",
-"title": "Hazel"
-},
-{
-"id": "2026-10-26T06:12|Meshell Ndegeocello feat. Cat Power|Don’t You Want Me",
-"t": "2026-10-26T06:12:00+01:00",
-"artist": "Meshell Ndegeocello feat. Cat Power",
-"title": "Don’t You Want Me"
 }
 ]
 }
