@@ -1,9 +1,9 @@
 {
-"updated": "2026-11-02T11:01:58.237675+01:00",
+"updated": "2026-11-02T11:13:58.238085+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
-"synced": "2026-11-02T10:49:58.237252+01:00",
+"synced": "2026-11-02T11:05:58.237801+01:00",
 "pruned": "2026-11-02",
 "calls": {
 "2026-10-28": 21,
@@ -11,12 +11,20 @@
 "2026-10-30": 178,
 "2026-10-31": 90,
 "2026-11-01": 99,
-"2026-11-02": 64
+"2026-11-02": 66
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAeI/rt7ILQcpRag43C7Ur3Zg8Sc5NS",
+"snapshot": "AAAeJODudrpiofftipiswwt/B2PfPnrN",
 "playlist": [
+[
+"2026-11-02T10:58|Hooverphonic|The World Is Mine",
+"spotify:track:1r7JmWrJq3821aSBOZMGHU"
+],
+[
+"2026-11-02T10:51|Phoenix|Lisztomania (Radio Edit)",
+"spotify:track:378HDaqOZxzBkEIHzBzAJr"
+],
 [
 "2026-11-02T10:39|CECI feat. Lords of Lounge|Honey Honey",
 "spotify:track:1I3D3G5pwYFKNYGIYTLRCq"
@@ -3647,6 +3655,12 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-11-02T10:58|Hooverphonic|The World Is Mine",
+"t": "2026-11-02T10:58:00+01:00",
+"artist": "Hooverphonic",
+"title": "The World Is Mine"
+},
 {
 "id": "2026-11-02T10:51|Phoenix|Lisztomania (Radio Edit)",
 "t": "2026-11-02T10:51:00+01:00",
@@ -8884,18 +8898,6 @@
 "t": "2026-10-26T11:18:00+01:00",
 "artist": "Tame Impala",
 "title": "Afterthought"
-},
-{
-"id": "2026-10-26T11:11|Wings|Silly Love Songs",
-"t": "2026-10-26T11:11:00+01:00",
-"artist": "Wings",
-"title": "Silly Love Songs"
-},
-{
-"id": "2026-10-26T11:06|Austra & Patrick Holland|Siren Reprise",
-"t": "2026-10-26T11:06:00+01:00",
-"artist": "Austra & Patrick Holland",
-"title": "Siren Reprise"
 }
 ]
 }
