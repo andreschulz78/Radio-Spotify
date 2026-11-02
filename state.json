@@ -1,9 +1,9 @@
 {
-"updated": "2026-11-02T09:25:58.234398+01:00",
+"updated": "2026-11-02T09:37:58.234783+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
-"synced": "2026-11-02T09:13:58.234027+01:00",
+"synced": "2026-11-02T09:29:58.234524+01:00",
 "pruned": "2026-11-02",
 "calls": {
 "2026-10-28": 21,
@@ -11,12 +11,20 @@
 "2026-10-30": 178,
 "2026-10-31": 90,
 "2026-11-01": 99,
-"2026-11-02": 51
+"2026-11-02": 52
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAeHTAkao9k7SyxC0SojYwmbtfT732a",
+"snapshot": "AAAeHnjrtbX0zRKFZ2Kgxl5gCPZDLpYk",
 "playlist": [
+[
+"2026-11-02T09:21|Al Green|Let's Stay Together",
+"spotify:track:474iAHLvDbXAQnEI82i4RW"
+],
+[
+"2026-11-02T09:15|Mykki Blanco feat. ANOHNI & Kelsey Lu|French Lessons",
+"spotify:track:7kivbAAHjxCOnBtkQzRO8p"
+],
 [
 "2026-11-02T08:55|Lola Young|From Down Here (Radio Edit)",
 "spotify:track:7Hg7l5aOygIHuaNDVFp3ox"
@@ -3591,6 +3599,12 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-11-02T09:27|Wallners|Movie Stars",
+"t": "2026-11-02T09:27:00+01:00",
+"artist": "Wallners",
+"title": "Movie Stars"
+},
 {
 "id": "2026-11-02T09:21|Al Green|Let's Stay Together",
 "t": "2026-11-02T09:21:00+01:00",
@@ -8846,12 +8860,6 @@
 "t": "2026-10-26T09:40:00+01:00",
 "artist": "Brittany Howard",
 "title": "Stay High"
-},
-{
-"id": "2026-10-26T09:32|Bonaparte|KiOSKO",
-"t": "2026-10-26T09:32:00+01:00",
-"artist": "Bonaparte",
-"title": "KiOSKO"
 }
 ]
 }
