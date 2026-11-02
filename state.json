@@ -1,9 +1,9 @@
 {
-"updated": "2026-11-02T13:54:12.007173+01:00",
+"updated": "2026-11-02T14:06:12.007618+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
-"synced": "2026-11-02T13:45:58.243372+01:00",
+"synced": "2026-11-02T14:02:12.007453+01:00",
 "pruned": "2026-11-02",
 "calls": {
 "2026-10-28": 21,
@@ -11,12 +11,28 @@
 "2026-10-30": 178,
 "2026-10-31": 90,
 "2026-11-01": 99,
-"2026-11-02": 106
+"2026-11-02": 111
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAeN+W6KCZc7h4nuqg7hDk3h92SVJ2J",
+"snapshot": "AAAeOPkk+6ocIDXUgNv0gccqw3Oduqk2",
 "playlist": [
+[
+"2026-11-02T13:56|Inxs|By My Side",
+"spotify:track:1vmOWok3n7VAWh08KpEB4y"
+],
+[
+"2026-11-02T13:51|EELS|Congratulations To Me",
+"spotify:track:0PsZbSqZk6s6bEw5Ff3xrS"
+],
+[
+"2026-11-02T13:48|Andrew Bird|Make A Picture",
+"spotify:track:79nKml4A4m5KINlosGJNli"
+],
+[
+"2026-11-02T13:44|Madison Cunningham|Golden Gate (On And On)",
+"spotify:track:4yjzFXK39hPQvF8kgeZ3C7"
+],
 [
 "2026-11-02T13:39|Kevin Morby|Gift Horse",
 "spotify:track:3aFxLF3ghZGFDo4YBC72aC"
@@ -3775,6 +3791,24 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-11-02T13:56|Inxs|By My Side",
+"t": "2026-11-02T13:56:00+01:00",
+"artist": "Inxs",
+"title": "By My Side"
+},
+{
+"id": "2026-11-02T13:51|EELS|Congratulations To Me",
+"t": "2026-11-02T13:51:00+01:00",
+"artist": "EELS",
+"title": "Congratulations To Me"
+},
+{
+"id": "2026-11-02T13:48|Andrew Bird|Make A Picture",
+"t": "2026-11-02T13:48:00+01:00",
+"artist": "Andrew Bird",
+"title": "Make A Picture"
+},
 {
 "id": "2026-11-02T13:44|Madison Cunningham|Golden Gate (On And On)",
 "t": "2026-11-02T13:44:00+01:00",
@@ -9030,18 +9064,6 @@
 "t": "2026-10-26T14:10:00+01:00",
 "artist": "Friedberg",
 "title": "Goodwife"
-},
-{
-"id": "2026-10-26T14:06|Hercules & Love Affair|Blind",
-"t": "2026-10-26T14:06:00+01:00",
-"artist": "Hercules & Love Affair",
-"title": "Blind"
-},
-{
-"id": "2026-10-26T13:57|Westside Cowboy|Kick Stones (The Boys)",
-"t": "2026-10-26T13:57:00+01:00",
-"artist": "Westside Cowboy",
-"title": "Kick Stones (The Boys)"
 }
 ]
 }
