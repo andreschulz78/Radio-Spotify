@@ -1,5 +1,5 @@
 {
-"updated": "2026-11-02T12:25:58.240703+01:00",
+"updated": "2026-11-02T12:37:58.241144+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
@@ -11,7 +11,7 @@
 "2026-10-30": 178,
 "2026-10-31": 90,
 "2026-11-01": 99,
-"2026-11-02": 84
+"2026-11-02": 85
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
@@ -3707,6 +3707,24 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-11-02T12:33|Daft Punk|Voyager",
+"t": "2026-11-02T12:33:00+01:00",
+"artist": "Daft Punk",
+"title": "Voyager"
+},
+{
+"id": "2026-11-02T12:31|Alexander IV & IYAMAH|About Us",
+"t": "2026-11-02T12:31:00+01:00",
+"artist": "Alexander IV & IYAMAH",
+"title": "About Us"
+},
+{
+"id": "2026-11-02T12:25|Bonaparte|KiOSKO",
+"t": "2026-11-02T12:25:00+01:00",
+"artist": "Bonaparte",
+"title": "KiOSKO"
+},
 {
 "id": "2026-11-02T12:21|MorMor feat. Celeste|Like Heaven",
 "t": "2026-11-02T12:21:00+01:00",
@@ -8956,24 +8974,6 @@
 "t": "2026-10-26T12:39:00+01:00",
 "artist": "The Big Moon",
 "title": "F.O.R.E.V.E.R"
-},
-{
-"id": "2026-10-26T12:35|Laid Back|White Horse",
-"t": "2026-10-26T12:35:00+01:00",
-"artist": "Laid Back",
-"title": "White Horse"
-},
-{
-"id": "2026-10-26T12:31|Todd Terje|Inspector Norse",
-"t": "2026-10-26T12:31:00+01:00",
-"artist": "Todd Terje",
-"title": "Inspector Norse"
-},
-{
-"id": "2026-10-26T12:29|Alewya|Maktoub",
-"t": "2026-10-26T12:29:00+01:00",
-"artist": "Alewya",
-"title": "Maktoub"
 }
 ]
 }
