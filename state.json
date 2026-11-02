@@ -1,9 +1,9 @@
 {
-"updated": "2026-11-02T07:09:50.470589+01:00",
+"updated": "2026-11-02T07:21:50.470961+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
-"synced": "2026-11-02T07:05:50.470467+01:00",
+"synced": "2026-11-02T07:21:50.470961+01:00",
 "pruned": "2026-11-02",
 "calls": {
 "2026-10-28": 21,
@@ -11,12 +11,20 @@
 "2026-10-30": 178,
 "2026-10-31": 90,
 "2026-11-01": 99,
-"2026-11-02": 28
+"2026-11-02": 31
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAeE+vBnncSj2cxs9IboMIDRKIaI/Fk",
+"snapshot": "AAAeFDrdBPgg0ElhAJhqohvullY0mLcF",
 "playlist": [
+[
+"2026-11-02T07:14|Antony Szmierek|Seminal (Edit)",
+"spotify:track:3E4Tw3ilp8Ms4a5hHWsIxO"
+],
+[
+"2026-11-02T07:06|Ilgen-Nur|Easy Way Out",
+"spotify:track:6lqYL6GVrd4QwKs8rg1eUI"
+],
 [
 "2026-11-02T06:56|Arctic Monkeys|Cornerstone",
 "spotify:track:5bsnLiT00hG37qd8p2jdVl"
@@ -3535,6 +3543,18 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-11-02T07:14|Antony Szmierek|Seminal (Edit)",
+"t": "2026-11-02T07:14:00+01:00",
+"artist": "Antony Szmierek",
+"title": "Seminal (Edit)"
+},
+{
+"id": "2026-11-02T07:06|Ilgen-Nur|Easy Way Out",
+"t": "2026-11-02T07:06:00+01:00",
+"artist": "Ilgen-Nur",
+"title": "Easy Way Out"
+},
 {
 "id": "2026-11-02T06:56|Arctic Monkeys|Cornerstone",
 "t": "2026-11-02T06:56:00+01:00",
@@ -8796,18 +8816,6 @@
 "t": "2026-10-26T07:24:00+01:00",
 "artist": "Nightbus",
 "title": "Angles Mortz"
-},
-{
-"id": "2026-10-26T07:15|Orbital|Halcyon And On And On (Radio Edit)",
-"t": "2026-10-26T07:15:00+01:00",
-"artist": "Orbital",
-"title": "Halcyon And On And On (Radio Edit)"
-},
-{
-"id": "2026-10-26T07:10|Kaktus Einarsson feat. John Grant|Follow",
-"t": "2026-10-26T07:10:00+01:00",
-"artist": "Kaktus Einarsson feat. John Grant",
-"title": "Follow"
 }
 ]
 }
