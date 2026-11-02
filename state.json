@@ -1,9 +1,9 @@
 {
-"updated": "2026-11-02T09:37:58.234783+01:00",
+"updated": "2026-11-02T09:49:58.235184+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
-"synced": "2026-11-02T09:29:58.234524+01:00",
+"synced": "2026-11-02T09:45:58.235065+01:00",
 "pruned": "2026-11-02",
 "calls": {
 "2026-10-28": 21,
@@ -11,12 +11,20 @@
 "2026-10-30": 178,
 "2026-10-31": 90,
 "2026-11-01": 99,
-"2026-11-02": 52
+"2026-11-02": 53
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAeHnjrtbX0zRKFZ2Kgxl5gCPZDLpYk",
+"snapshot": "AAAeHykTFjbPy/zogjcEWfioIv+UULIk",
 "playlist": [
+[
+"2026-11-02T09:36|Methyl Ethel|Ruiner",
+"spotify:track:54BESzSCepH3QdKcZOkGz6"
+],
+[
+"2026-11-02T09:27|Wallners|Movie Stars",
+"spotify:track:7xesRbRs3O1MLOgWqMSN7a"
+],
 [
 "2026-11-02T09:21|Al Green|Let's Stay Together",
 "spotify:track:474iAHLvDbXAQnEI82i4RW"
@@ -3599,6 +3607,12 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-11-02T09:36|Methyl Ethel|Ruiner",
+"t": "2026-11-02T09:36:00+01:00",
+"artist": "Methyl Ethel",
+"title": "Ruiner"
+},
 {
 "id": "2026-11-02T09:27|Wallners|Movie Stars",
 "t": "2026-11-02T09:27:00+01:00",
@@ -8842,24 +8856,6 @@
 "t": "2026-10-26T09:55:00+01:00",
 "artist": "Fat Freddy's Drop",
 "title": "Roady"
-},
-{
-"id": "2026-10-26T09:47|Lord Huron|Bag of bones",
-"t": "2026-10-26T09:47:00+01:00",
-"artist": "Lord Huron",
-"title": "Bag of bones"
-},
-{
-"id": "2026-10-26T09:44|Odd Beholder|Lean Dreams",
-"t": "2026-10-26T09:44:00+01:00",
-"artist": "Odd Beholder",
-"title": "Lean Dreams"
-},
-{
-"id": "2026-10-26T09:40|Brittany Howard|Stay High",
-"t": "2026-10-26T09:40:00+01:00",
-"artist": "Brittany Howard",
-"title": "Stay High"
 }
 ]
 }
