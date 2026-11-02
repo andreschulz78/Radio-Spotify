@@ -1,5 +1,5 @@
 {
-"updated": "2026-11-02T10:49:58.237252+01:00",
+"updated": "2026-11-02T11:01:58.237675+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
@@ -11,7 +11,7 @@
 "2026-10-30": 178,
 "2026-10-31": 90,
 "2026-11-01": 99,
-"2026-11-02": 63
+"2026-11-02": 64
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
@@ -3647,6 +3647,12 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-11-02T10:51|Phoenix|Lisztomania (Radio Edit)",
+"t": "2026-11-02T10:51:00+01:00",
+"artist": "Phoenix",
+"title": "Lisztomania (Radio Edit)"
+},
 {
 "id": "2026-11-02T10:39|CECI feat. Lords of Lounge|Honey Honey",
 "t": "2026-11-02T10:39:00+01:00",
@@ -8890,18 +8896,6 @@
 "t": "2026-10-26T11:06:00+01:00",
 "artist": "Austra & Patrick Holland",
 "title": "Siren Reprise"
-},
-{
-"id": "2026-10-26T10:58|Ian Brown|Stellify",
-"t": "2026-10-26T10:58:00+01:00",
-"artist": "Ian Brown",
-"title": "Stellify"
-},
-{
-"id": "2026-10-26T10:51|Buena Vista Social Club|Chan Chan",
-"t": "2026-10-26T10:51:00+01:00",
-"artist": "Buena Vista Social Club",
-"title": "Chan Chan"
 }
 ]
 }
