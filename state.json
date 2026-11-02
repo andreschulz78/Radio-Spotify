@@ -1,9 +1,9 @@
 {
-"updated": "2026-11-02T12:01:58.239788+01:00",
+"updated": "2026-11-02T12:13:58.240222+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
-"synced": "2026-11-02T11:53:58.239437+01:00",
+"synced": "2026-11-02T12:09:58.240074+01:00",
 "pruned": "2026-11-02",
 "calls": {
 "2026-10-28": 21,
@@ -11,12 +11,24 @@
 "2026-10-30": 178,
 "2026-10-31": 90,
 "2026-11-01": 99,
-"2026-11-02": 77
+"2026-11-02": 81
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAeKLoBz0qs2hUacDT/MS2Y8Zx2Y7rQ",
+"snapshot": "AAAeLHjyBQZZBIUWxl0u3stKAwEjeZRm",
 "playlist": [
+[
+"2026-11-02T12:05|Interpol|Iron City",
+"spotify:track:7o9gwmscHBXh6sUEYkWQ4e"
+],
+[
+"2026-11-02T11:56|Keshavara|Oracular",
+"spotify:track:41sGSIiPi1QAYaL6nUWSDg"
+],
+[
+"2026-11-02T11:50|BIBIZA feat. Nicholas Ofczarek|Discoschnupfen",
+"spotify:track:0E2Wdy1kn6zXJyYjDzmtpS"
+],
 [
 "2026-11-02T11:45|Meshell Ndegeocello feat. Cat Power|Don’t You Want Me",
 "spotify:track:5sbCqST9M4Q1sRSJM6L6oT"
@@ -3430,10 +3442,6 @@
 "spotify:track:3PLI0jvm3wsJSqicjYyk7N"
 ],
 [
-"2026-10-26T12:09|Yazmin Lacey|Summer Haze",
-"spotify:track:465QjZo1z1JAuLTTC7DnuK"
-],
-[
 "2026-10-26T12:05|Cypress Hill|What's Your Number",
 "spotify:track:3bI9Eqin8kTzqKrs3Y4uGD"
 ],
@@ -3687,6 +3695,12 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-11-02T12:05|Interpol|Iron City",
+"t": "2026-11-02T12:05:00+01:00",
+"artist": "Interpol",
+"title": "Iron City"
+},
 {
 "id": "2026-11-02T11:56|Keshavara|Oracular",
 "t": "2026-11-02T11:56:00+01:00",
@@ -8942,18 +8956,6 @@
 "t": "2026-10-26T12:19:00+01:00",
 "artist": "Kurt Vile",
 "title": "One Trick Ponies"
-},
-{
-"id": "2026-10-26T12:09|Yazmin Lacey|Summer Haze",
-"t": "2026-10-26T12:09:00+01:00",
-"artist": "Yazmin Lacey",
-"title": "Summer Haze"
-},
-{
-"id": "2026-10-26T12:05|Cypress Hill|What's Your Number",
-"t": "2026-10-26T12:05:00+01:00",
-"artist": "Cypress Hill",
-"title": "What's Your Number"
 }
 ]
 }
