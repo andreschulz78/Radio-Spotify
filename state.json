@@ -1,5 +1,5 @@
 {
-"updated": "2026-11-02T15:54:12.011272+01:00",
+"updated": "2026-11-02T16:06:12.011644+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
@@ -11,7 +11,7 @@
 "2026-10-30": 178,
 "2026-10-31": 90,
 "2026-11-01": 99,
-"2026-11-02": 131
+"2026-11-02": 133
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
@@ -3867,6 +3867,18 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-11-02T15:57|Speech Debelle|I'm With It",
+"t": "2026-11-02T15:57:00+01:00",
+"artist": "Speech Debelle",
+"title": "I'm With It"
+},
+{
+"id": "2026-11-02T15:51|Odd Beholder|Internet Famous",
+"t": "2026-11-02T15:51:00+01:00",
+"artist": "Odd Beholder",
+"title": "Internet Famous"
+},
 {
 "id": "2026-11-02T15:44|Roxy Music|Jealous guy",
 "t": "2026-11-02T15:44:00+01:00",
@@ -9128,18 +9140,6 @@
 "t": "2026-10-26T16:08:00+01:00",
 "artist": "SOFY",
 "title": "50/50"
-},
-{
-"id": "2026-10-26T16:04|Balu Brigada|Backseat (Edit)",
-"t": "2026-10-26T16:04:00+01:00",
-"artist": "Balu Brigada",
-"title": "Backseat (Edit)"
-},
-{
-"id": "2026-10-26T15:55|James Blake|Make something up",
-"t": "2026-10-26T15:55:00+01:00",
-"artist": "James Blake",
-"title": "Make something up"
 }
 ]
 }
