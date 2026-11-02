@@ -1,9 +1,9 @@
 {
-"updated": "2026-11-02T07:33:50.471383+01:00",
+"updated": "2026-11-02T07:45:50.471820+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
-"synced": "2026-11-02T07:21:50.470961+01:00",
+"synced": "2026-11-02T07:37:50.471534+01:00",
 "pruned": "2026-11-02",
 "calls": {
 "2026-10-28": 21,
@@ -11,12 +11,20 @@
 "2026-10-30": 178,
 "2026-10-31": 90,
 "2026-11-01": 99,
-"2026-11-02": 32
+"2026-11-02": 33
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAeFDrdBPgg0ElhAJhqohvullY0mLcF",
+"snapshot": "AAAeFapfeZBkYzcn8BBu1Qk6gTzGXxSV",
 "playlist": [
+[
+"2026-11-02T07:24|Kevin Morby|Javelin",
+"spotify:track:66GKPLUMYSsSWirLHvEr0q"
+],
+[
+"2026-11-02T07:18|Ibeyi|Hurry Hurry",
+"spotify:track:4BGA7VW330Eu1kaFNi98cG"
+],
 [
 "2026-11-02T07:14|Antony Szmierek|Seminal (Edit)",
 "spotify:track:3E4Tw3ilp8Ms4a5hHWsIxO"
@@ -3543,6 +3551,12 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-11-02T07:35|1-800 Girls feat. Art School Girlfriend|sometimes",
+"t": "2026-11-02T07:35:00+01:00",
+"artist": "1-800 Girls feat. Art School Girlfriend",
+"title": "sometimes"
+},
 {
 "id": "2026-11-02T07:24|Kevin Morby|Javelin",
 "t": "2026-11-02T07:24:00+01:00",
@@ -8810,12 +8824,6 @@
 "t": "2026-10-26T07:47:00+01:00",
 "artist": "Mother Soki",
 "title": "Thicken"
-},
-{
-"id": "2026-10-26T07:41|Róisín Murphy|Narcissus (Edit)",
-"t": "2026-10-26T07:41:00+01:00",
-"artist": "Róisín Murphy",
-"title": "Narcissus (Edit)"
 }
 ]
 }
