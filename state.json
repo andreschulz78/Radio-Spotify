@@ -1,9 +1,9 @@
 {
-"updated": "2026-11-02T15:42:12.010881+01:00",
+"updated": "2026-11-02T15:54:12.011272+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
-"synced": "2026-11-02T15:38:12.010740+01:00",
+"synced": "2026-11-02T15:54:12.011272+01:00",
 "pruned": "2026-11-02",
 "calls": {
 "2026-10-28": 21,
@@ -11,12 +11,16 @@
 "2026-10-30": 178,
 "2026-10-31": 90,
 "2026-11-01": 99,
-"2026-11-02": 129
+"2026-11-02": 131
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAePp4+YsgOdVj27fOIKMkbAnuibWOi",
+"snapshot": "AAAeP73ZWa34xOLl7V/ZCHUVqMWumasf",
 "playlist": [
+[
+"2026-11-02T15:44|Roxy Music|Jealous guy",
+"spotify:track:0UBxAoUn07blHHdmLo9par"
+],
 [
 "2026-11-02T15:31|Seeed|Hale-Bopp",
 "spotify:track:73gwUCEJBgLhLzM1WTMBv0"
@@ -3863,6 +3867,12 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-11-02T15:44|Roxy Music|Jealous guy",
+"t": "2026-11-02T15:44:00+01:00",
+"artist": "Roxy Music",
+"title": "Jealous guy"
+},
 {
 "id": "2026-11-02T15:31|Seeed|Hale-Bopp",
 "t": "2026-11-02T15:31:00+01:00",
@@ -9130,18 +9140,6 @@
 "t": "2026-10-26T15:55:00+01:00",
 "artist": "James Blake",
 "title": "Make something up"
-},
-{
-"id": "2026-10-26T15:50|Jordan Rakei|Enemies",
-"t": "2026-10-26T15:50:00+01:00",
-"artist": "Jordan Rakei",
-"title": "Enemies"
-},
-{
-"id": "2026-10-26T15:44|Bob Marley & The Wailers|Waiting In Vain",
-"t": "2026-10-26T15:44:00+01:00",
-"artist": "Bob Marley & The Wailers",
-"title": "Waiting In Vain"
 }
 ]
 }
