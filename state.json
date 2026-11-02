@@ -1,5 +1,5 @@
 {
-"updated": "2026-11-02T05:45:50.467847+01:00",
+"updated": "2026-11-02T05:57:50.468247+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
@@ -11,7 +11,7 @@
 "2026-10-30": 178,
 "2026-10-31": 90,
 "2026-11-01": 99,
-"2026-11-02": 8
+"2026-11-02": 9
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
@@ -3499,6 +3499,12 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-11-02T05:46|Anika|Change",
+"t": "2026-11-02T05:46:00+01:00",
+"artist": "Anika",
+"title": "Change"
+},
 {
 "id": "2026-11-02T05:41|Dlé|MADI",
 "t": "2026-11-02T05:41:00+01:00",
@@ -8766,24 +8772,6 @@
 "t": "2026-10-26T06:05:00+01:00",
 "artist": "Bilderbuch",
 "title": "Willkommen im Dschungel"
-},
-{
-"id": "2026-10-26T05:56|Pulp|Spike Island (Radio Edit)",
-"t": "2026-10-26T05:56:00+01:00",
-"artist": "Pulp",
-"title": "Spike Island (Radio Edit)"
-},
-{
-"id": "2026-10-26T05:52|Friedberg|Go Wild",
-"t": "2026-10-26T05:52:00+01:00",
-"artist": "Friedberg",
-"title": "Go Wild"
-},
-{
-"id": "2026-10-26T05:49|Eilis Frawley|Taken, Never Erased",
-"t": "2026-10-26T05:49:00+01:00",
-"artist": "Eilis Frawley",
-"title": "Taken, Never Erased"
 }
 ]
 }
