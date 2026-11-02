@@ -1,21 +1,25 @@
 {
-"updated": "2026-11-02T05:09:50.466674+01:00",
+"updated": "2026-11-02T05:21:50.467078+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
-"synced": "2026-11-02T04:01:50.464479+01:00",
+"synced": "2026-11-02T05:13:50.466822+01:00",
 "pruned": "2026-11-02",
 "calls": {
 "2026-10-28": 21,
 "2026-10-29": 300,
 "2026-10-30": 178,
 "2026-10-31": 90,
-"2026-11-01": 93
+"2026-11-01": 98
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAeCVfgXFEdCvzz/qEvaQ3M+1x+DdvL",
+"snapshot": "AAAeChz7nI7IGIAiTPojPoQWdG0bLUnL",
 "playlist": [
+[
+"2026-11-02T05:03|Brigitte Calls Me Baby|The Future is Our Way Out",
+"spotify:track:5trl9gPUhMMRNB2BRzf9cG"
+],
 [
 "2026-11-01T11:57|Antony Szmierek|Chalk (Radio Edit)",
 "spotify:track:5HdeMdzAlNKwCM4L9cjehN"
@@ -3470,6 +3474,24 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-11-02T05:14|Aminé (feat. Leon Thomas)|New Flower!",
+"t": "2026-11-02T05:14:00+01:00",
+"artist": "Aminé (feat. Leon Thomas)",
+"title": "New Flower!"
+},
+{
+"id": "2026-11-02T05:08|Everything But The Girl|I Didn't Know I Was Looking For Love",
+"t": "2026-11-02T05:08:00+01:00",
+"artist": "Everything But The Girl",
+"title": "I Didn't Know I Was Looking For Love"
+},
+{
+"id": "2026-11-02T05:03|Brigitte Calls Me Baby|The Future is Our Way Out",
+"t": "2026-11-02T05:03:00+01:00",
+"artist": "Brigitte Calls Me Baby",
+"title": "The Future is Our Way Out"
+},
 {
 "id": "2026-11-01T11:57|Antony Szmierek|Chalk (Radio Edit)",
 "t": "2026-11-01T11:57:00+01:00",
@@ -8737,18 +8759,6 @@
 "t": "2026-10-26T05:23:00+01:00",
 "artist": "Nation of Language",
 "title": "Whatever You Want"
-},
-{
-"id": "2026-10-26T05:18|DJ Seinfeld feat. TS Graye|U Can't Come Home (Radio Edit)",
-"t": "2026-10-26T05:18:00+01:00",
-"artist": "DJ Seinfeld feat. TS Graye",
-"title": "U Can't Come Home (Radio Edit)"
-},
-{
-"id": "2026-10-26T05:11|Keshavara|Oracular",
-"t": "2026-10-26T05:11:00+01:00",
-"artist": "Keshavara",
-"title": "Oracular"
 }
 ]
 }
