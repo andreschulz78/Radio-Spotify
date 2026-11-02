@@ -1,9 +1,9 @@
 {
-"updated": "2026-11-02T14:06:12.007618+01:00",
+"updated": "2026-11-02T14:18:12.007995+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
-"synced": "2026-11-02T14:02:12.007453+01:00",
+"synced": "2026-11-02T14:18:12.007995+01:00",
 "pruned": "2026-11-02",
 "calls": {
 "2026-10-28": 21,
@@ -11,12 +11,20 @@
 "2026-10-30": 178,
 "2026-10-31": 90,
 "2026-11-01": 99,
-"2026-11-02": 111
+"2026-11-02": 113
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAeOPkk+6ocIDXUgNv0gccqw3Oduqk2",
+"snapshot": "AAAeOY2Ou5a8f69HfEppp0ggY7VKUV4g",
 "playlist": [
+[
+"2026-11-02T14:08|Freundeskreis feat. Joy Denalane|Mit dir",
+"spotify:track:5EX0HiIyvhavnpjgbwDCeL"
+],
+[
+"2026-11-02T14:04|Ayele|Fractured (Radio Edit)",
+"spotify:track:5EGnOBL2qoUNard3Oaq5Hc"
+],
 [
 "2026-11-02T13:56|Inxs|By My Side",
 "spotify:track:1vmOWok3n7VAWh08KpEB4y"
@@ -3791,6 +3799,18 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-11-02T14:08|Freundeskreis feat. Joy Denalane|Mit dir",
+"t": "2026-11-02T14:08:00+01:00",
+"artist": "Freundeskreis feat. Joy Denalane",
+"title": "Mit dir"
+},
+{
+"id": "2026-11-02T14:04|Ayele|Fractured (Radio Edit)",
+"t": "2026-11-02T14:04:00+01:00",
+"artist": "Ayele",
+"title": "Fractured (Radio Edit)"
+},
 {
 "id": "2026-11-02T13:56|Inxs|By My Side",
 "t": "2026-11-02T13:56:00+01:00",
@@ -9046,24 +9066,6 @@
 "t": "2026-10-26T14:21:00+01:00",
 "artist": "The Drums feat. Mareux",
 "title": "It Didn't Matter"
-},
-{
-"id": "2026-10-26T14:17|David Gray|Babylon",
-"t": "2026-10-26T14:17:00+01:00",
-"artist": "David Gray",
-"title": "Babylon"
-},
-{
-"id": "2026-10-26T14:14|Air|Don't Be Light",
-"t": "2026-10-26T14:14:00+01:00",
-"artist": "Air",
-"title": "Don't Be Light"
-},
-{
-"id": "2026-10-26T14:10|Friedberg|Goodwife",
-"t": "2026-10-26T14:10:00+01:00",
-"artist": "Friedberg",
-"title": "Goodwife"
 }
 ]
 }
