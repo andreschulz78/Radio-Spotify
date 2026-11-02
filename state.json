@@ -1,9 +1,9 @@
 {
-"updated": "2026-11-02T06:21:50.468997+01:00",
+"updated": "2026-11-02T06:33:50.469419+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
-"synced": "2026-11-02T06:17:50.468849+01:00",
+"synced": "2026-11-02T06:33:50.469419+01:00",
 "pruned": "2026-11-02",
 "calls": {
 "2026-10-28": 21,
@@ -11,12 +11,24 @@
 "2026-10-30": 178,
 "2026-10-31": 90,
 "2026-11-01": 99,
-"2026-11-02": 16
+"2026-11-02": 22
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAeD6jERD7RXfB2mDrjK6lKEQXmW2Ui",
+"snapshot": "AAAeEIH+UJFb2Np3uiXzgS+ctdb4a7oN",
 "playlist": [
+[
+"2026-11-02T06:27|Orphia|Oberheim",
+"spotify:track:4ggp8rShRoYgmeJygAXaCU"
+],
+[
+"2026-11-02T06:19|Kindness|Swingin' Party",
+"spotify:track:30CHepNhUAml9rw1Z0qPRf"
+],
+[
+"2026-11-02T06:14|Austra & Patrick Holland|Siren Reprise",
+"spotify:track:678wI419HyRL4qSTbXdyLu"
+],
 [
 "2026-11-02T06:07|The Limiñanas feat. Peter Hook|Garden Of Love",
 "spotify:track:6kcRLo7m05rbaWkM2kApiY"
@@ -3511,6 +3523,18 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-11-02T06:27|Orphia|Oberheim",
+"t": "2026-11-02T06:27:00+01:00",
+"artist": "Orphia",
+"title": "Oberheim"
+},
+{
+"id": "2026-11-02T06:19|Kindness|Swingin' Party",
+"t": "2026-11-02T06:19:00+01:00",
+"artist": "Kindness",
+"title": "Swingin' Party"
+},
 {
 "id": "2026-11-02T06:14|Austra & Patrick Holland|Siren Reprise",
 "t": "2026-11-02T06:14:00+01:00",
@@ -8784,12 +8808,6 @@
 "t": "2026-10-26T06:34:00+01:00",
 "artist": "Nihils",
 "title": "Lavender"
-},
-{
-"id": "2026-10-26T06:24|Alice Costelloe|How Can I",
-"t": "2026-10-26T06:24:00+01:00",
-"artist": "Alice Costelloe",
-"title": "How Can I"
 }
 ]
 }
