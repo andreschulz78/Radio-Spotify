@@ -1,9 +1,9 @@
 {
-"updated": "2026-11-02T05:33:50.467484+01:00",
+"updated": "2026-11-02T05:45:50.467847+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
-"synced": "2026-11-02T05:29:50.467352+01:00",
+"synced": "2026-11-02T05:45:50.467847+01:00",
 "pruned": "2026-11-02",
 "calls": {
 "2026-10-28": 21,
@@ -11,12 +11,24 @@
 "2026-10-30": 178,
 "2026-10-31": 90,
 "2026-11-01": 99,
-"2026-11-02": 3
+"2026-11-02": 8
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAeCz+DCI4Huymw0zwSXj5oJWJXASV/",
+"snapshot": "AAAeDNuKZdXxDQqwsXcG9hQrU9u9sM8D",
 "playlist": [
+[
+"2026-11-02T05:33|Oscar Farrell feat. Sampha|Dream Therapy",
+"spotify:track:1WCiaKkadXRQjK5LapkGtu"
+],
+[
+"2026-11-02T05:28|Widowspeak|Soft Cover (Edit)",
+"spotify:track:4O6f5Bgs94sUNNkNAdNyhW"
+],
+[
+"2026-11-02T05:24|Simen Mitlid|It's Okay",
+"spotify:track:549pALoY8HiYnE3QFpRw43"
+],
 [
 "2026-11-02T05:18|Beck|It Ends Right Here",
 "spotify:track:3PmyDf7Zu4vveCnayueVYX"
@@ -3487,6 +3499,24 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-11-02T05:41|Dlé|MADI",
+"t": "2026-11-02T05:41:00+01:00",
+"artist": "Dlé",
+"title": "MADI"
+},
+{
+"id": "2026-11-02T05:33|Oscar Farrell feat. Sampha|Dream Therapy",
+"t": "2026-11-02T05:33:00+01:00",
+"artist": "Oscar Farrell feat. Sampha",
+"title": "Dream Therapy"
+},
+{
+"id": "2026-11-02T05:28|Widowspeak|Soft Cover (Edit)",
+"t": "2026-11-02T05:28:00+01:00",
+"artist": "Widowspeak",
+"title": "Soft Cover (Edit)"
+},
 {
 "id": "2026-11-02T05:24|Simen Mitlid|It's Okay",
 "t": "2026-11-02T05:24:00+01:00",
@@ -8754,18 +8784,6 @@
 "t": "2026-10-26T05:49:00+01:00",
 "artist": "Eilis Frawley",
 "title": "Taken, Never Erased"
-},
-{
-"id": "2026-10-26T05:43|Tank And The Bangas|Ain’t That Deep",
-"t": "2026-10-26T05:43:00+01:00",
-"artist": "Tank And The Bangas",
-"title": "Ain’t That Deep"
-},
-{
-"id": "2026-10-26T05:38|INXS|Elegantly wasted",
-"t": "2026-10-26T05:38:00+01:00",
-"artist": "INXS",
-"title": "Elegantly wasted"
 }
 ]
 }
