@@ -1,9 +1,9 @@
 {
-"updated": "2026-11-02T19:18:12.018502+01:00",
+"updated": "2026-11-02T19:30:12.018900+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
-"synced": "2026-11-02T19:06:12.018066+01:00",
+"synced": "2026-11-02T19:22:12.018626+01:00",
 "pruned": "2026-11-02",
 "calls": {
 "2026-10-28": 21,
@@ -11,12 +11,16 @@
 "2026-10-30": 178,
 "2026-10-31": 90,
 "2026-11-01": 99,
-"2026-11-02": 167
+"2026-11-02": 169
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAeU5XrkrvNVLnkKVuZeatFR8mXCQsK",
+"snapshot": "AAAeVDbexThos/MGmaM3eZRjEQ0LPqgL",
 "playlist": [
+[
+"2026-11-02T19:08|SOFY|50/50",
+"spotify:track:16QLv8xt9nPNBZCBDm3Gkv"
+],
 [
 "2026-11-02T18:56|Agnes Obel|Laymelli (Edit)",
 "spotify:track:0VzMHjWcs2P24LHLekZ8Qa"
@@ -9226,18 +9230,6 @@
 "t": "2026-10-26T19:33:00+01:00",
 "artist": "Carrtoons feat. Hailé Supreme",
 "title": "Labor Of Love"
-},
-{
-"id": "2026-10-26T19:29|Sepalot Quartet|Rainbows (Live)",
-"t": "2026-10-26T19:29:00+01:00",
-"artist": "Sepalot Quartet",
-"title": "Rainbows (Live)"
-},
-{
-"id": "2026-10-26T19:19|Greentea Peng|Stuck In The Middle",
-"t": "2026-10-26T19:19:00+01:00",
-"artist": "Greentea Peng",
-"title": "Stuck In The Middle"
 }
 ]
 }
