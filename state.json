@@ -1,9 +1,9 @@
 {
-"updated": "2026-11-02T10:13:58.235955+01:00",
+"updated": "2026-11-02T10:25:58.236386+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
-"synced": "2026-11-02T10:01:58.235550+01:00",
+"synced": "2026-11-02T10:17:58.236067+01:00",
 "pruned": "2026-11-02",
 "calls": {
 "2026-10-28": 21,
@@ -11,12 +11,20 @@
 "2026-10-30": 178,
 "2026-10-31": 90,
 "2026-11-01": 99,
-"2026-11-02": 58
+"2026-11-02": 60
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAeIFnZ0OWL6ECxyqzRdeHOgnlRskMj",
+"snapshot": "AAAeIcuLkMToflPOit7jl1VjoNw/8ypl",
 "playlist": [
+[
+"2026-11-02T10:09|Bedouine|Deghma Cheega",
+"spotify:track:5mz2vo9T3jeGlnLcbfFhjG"
+],
+[
+"2026-11-02T10:05|LCD Soundsystem|I Can Change",
+"spotify:track:2073QOEC8rBtSyTsRyaWiP"
+],
 [
 "2026-11-02T09:56|Bleachers|the van",
 "spotify:track:4C2o68XUoLpjvncsNsgwjA"
@@ -3619,6 +3627,24 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-11-02T10:21|Aurora|All My Demons Greeting Me As A Friend",
+"t": "2026-11-02T10:21:00+01:00",
+"artist": "Aurora",
+"title": "All My Demons Greeting Me As A Friend"
+},
+{
+"id": "2026-11-02T10:18|Django Django|Cameos",
+"t": "2026-11-02T10:18:00+01:00",
+"artist": "Django Django",
+"title": "Cameos"
+},
+{
+"id": "2026-11-02T10:09|Bedouine|Deghma Cheega",
+"t": "2026-11-02T10:09:00+01:00",
+"artist": "Bedouine",
+"title": "Deghma Cheega"
+},
 {
 "id": "2026-11-02T10:05|LCD Soundsystem|I Can Change",
 "t": "2026-11-02T10:05:00+01:00",
@@ -8862,18 +8888,6 @@
 "t": "2026-10-26T10:26:00+01:00",
 "artist": "Niki & The Dove",
 "title": "Play it on my radio"
-},
-{
-"id": "2026-10-26T10:23|Niki & The Dove|Play it on my radio",
-"t": "2026-10-26T10:23:00+01:00",
-"artist": "Niki & The Dove",
-"title": "Play it on my radio"
-},
-{
-"id": "2026-10-26T10:19|Gil Scott-Heron|Me And The Devil",
-"t": "2026-10-26T10:19:00+01:00",
-"artist": "Gil Scott-Heron",
-"title": "Me And The Devil"
 }
 ]
 }
