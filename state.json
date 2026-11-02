@@ -1,9 +1,9 @@
 {
-"updated": "2026-11-02T11:13:58.238085+01:00",
+"updated": "2026-11-02T11:25:58.238474+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
-"synced": "2026-11-02T11:05:58.237801+01:00",
+"synced": "2026-11-02T11:21:58.238332+01:00",
 "pruned": "2026-11-02",
 "calls": {
 "2026-10-28": 21,
@@ -11,12 +11,20 @@
 "2026-10-30": 178,
 "2026-10-31": 90,
 "2026-11-01": 99,
-"2026-11-02": 66
+"2026-11-02": 71
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAeJODudrpiofftipiswwt/B2PfPnrN",
+"snapshot": "AAAeJcwI9fK41GOx3nDf7UsFlpc6fdkz",
 "playlist": [
+[
+"2026-11-02T11:16|Junior Varsity|Bass Drum",
+"spotify:track:1OiErAa7qNhNubMkvfFpAZ"
+],
+[
+"2026-11-02T11:07|Death Cab For Cutie|Pep Talk",
+"spotify:track:3ra7fDLqfUHBWBL702fOAn"
+],
 [
 "2026-11-02T10:58|Hooverphonic|The World Is Mine",
 "spotify:track:1r7JmWrJq3821aSBOZMGHU"
@@ -3655,6 +3663,36 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-11-02T11:22|Grauzone|Eisbär",
+"t": "2026-11-02T11:22:00+01:00",
+"artist": "Grauzone",
+"title": "Eisbär"
+},
+{
+"id": "2026-11-02T11:18|Mother Soki|Thicken",
+"t": "2026-11-02T11:18:00+01:00",
+"artist": "Mother Soki",
+"title": "Thicken"
+},
+{
+"id": "2026-11-02T11:16|Junior Varsity|Bass Drum",
+"t": "2026-11-02T11:16:00+01:00",
+"artist": "Junior Varsity",
+"title": "Bass Drum"
+},
+{
+"id": "2026-11-02T11:11|Freedom Satellite|Astro Black",
+"t": "2026-11-02T11:11:00+01:00",
+"artist": "Freedom Satellite",
+"title": "Astro Black"
+},
+{
+"id": "2026-11-02T11:07|Death Cab For Cutie|Pep Talk",
+"t": "2026-11-02T11:07:00+01:00",
+"artist": "Death Cab For Cutie",
+"title": "Pep Talk"
+},
 {
 "id": "2026-11-02T10:58|Hooverphonic|The World Is Mine",
 "t": "2026-11-02T10:58:00+01:00",
@@ -8880,24 +8918,6 @@
 "t": "2026-10-26T11:31:00+01:00",
 "artist": "Yard Act",
 "title": "You're Gonna Need A Little Music"
-},
-{
-"id": "2026-10-26T11:25|Aldous Harding|The Barrel",
-"t": "2026-10-26T11:25:00+01:00",
-"artist": "Aldous Harding",
-"title": "The Barrel"
-},
-{
-"id": "2026-10-26T11:22|Gabriels|Break It",
-"t": "2026-10-26T11:22:00+01:00",
-"artist": "Gabriels",
-"title": "Break It"
-},
-{
-"id": "2026-10-26T11:18|Tame Impala|Afterthought",
-"t": "2026-10-26T11:18:00+01:00",
-"artist": "Tame Impala",
-"title": "Afterthought"
 }
 ]
 }
