@@ -1,9 +1,9 @@
 {
-"updated": "2026-11-02T16:06:12.011644+01:00",
+"updated": "2026-11-02T16:18:12.012073+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
-"synced": "2026-11-02T15:54:12.011272+01:00",
+"synced": "2026-11-02T16:10:12.011772+01:00",
 "pruned": "2026-11-02",
 "calls": {
 "2026-10-28": 21,
@@ -11,12 +11,24 @@
 "2026-10-30": 178,
 "2026-10-31": 90,
 "2026-11-01": 99,
-"2026-11-02": 133
+"2026-11-02": 134
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAeP73ZWa34xOLl7V/ZCHUVqMWumasf",
+"snapshot": "AAAeQE1etXuAKsGRs/FQpjweW/w8Dkf6",
 "playlist": [
+[
+"2026-11-02T16:06|Hot Chip|Random Violence (Radio Edit)",
+"spotify:track:0T3vTM8KUAwGMukdAhNVj2"
+],
+[
+"2026-11-02T15:57|Speech Debelle|I'm With It",
+"spotify:track:19GsZXMApaWxF9CLAeYZLz"
+],
+[
+"2026-11-02T15:51|Odd Beholder|Internet Famous",
+"spotify:track:50h9Bp3vYgDfv0852K2ZYJ"
+],
 [
 "2026-11-02T15:44|Roxy Music|Jealous guy",
 "spotify:track:0UBxAoUn07blHHdmLo9par"
@@ -3867,6 +3879,12 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-11-02T16:06|Hot Chip|Random Violence (Radio Edit)",
+"t": "2026-11-02T16:06:00+01:00",
+"artist": "Hot Chip",
+"title": "Random Violence (Radio Edit)"
+},
 {
 "id": "2026-11-02T15:57|Speech Debelle|I'm With It",
 "t": "2026-11-02T15:57:00+01:00",
@@ -9128,18 +9146,6 @@
 "t": "2026-10-26T16:20:00+01:00",
 "artist": "Bonobo",
 "title": "Shokoufeh"
-},
-{
-"id": "2026-10-26T16:16|Cigarettes After Sex|Apocalypse",
-"t": "2026-10-26T16:16:00+01:00",
-"artist": "Cigarettes After Sex",
-"title": "Apocalypse"
-},
-{
-"id": "2026-10-26T16:08|SOFY|50/50",
-"t": "2026-10-26T16:08:00+01:00",
-"artist": "SOFY",
-"title": "50/50"
 }
 ]
 }
