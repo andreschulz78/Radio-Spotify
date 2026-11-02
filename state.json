@@ -1,9 +1,9 @@
 {
-"updated": "2026-11-02T19:30:12.018900+01:00",
+"updated": "2026-11-02T21:15:16.591985+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
-"synced": "2026-11-02T19:22:12.018626+01:00",
+"synced": "2026-11-02T21:15:16.591985+01:00",
 "pruned": "2026-11-02",
 "calls": {
 "2026-10-28": 21,
@@ -11,12 +11,36 @@
 "2026-10-30": 178,
 "2026-10-31": 90,
 "2026-11-01": 99,
-"2026-11-02": 169
+"2026-11-02": 173
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAeVDbexThos/MGmaM3eZRjEQ0LPqgL",
+"snapshot": "AAAeVWKInSqFq2rPc5ebr0nZEu0qjX2X",
 "playlist": [
+[
+"2026-11-02T20:56|Placebo|Meds",
+"spotify:track:2jMs4MwSFGWAyPp8JEOrEE"
+],
+[
+"2026-11-02T20:53|Bilderbuch|Baby Junkie",
+"spotify:track:1bPs9oNEaAEUYfCL7tH79W"
+],
+[
+"2026-11-02T20:40|Kirsty MacColl|Walking Down Madison",
+"spotify:track:7m5eep5h1CTw387aawZR91"
+],
+[
+"2026-11-02T20:23|Leonard Cohen|You Want It Darker",
+"spotify:track:7m7fvKgy2HBrVYXTZzupNt"
+],
+[
+"2026-11-02T20:05|Alewya|Maktoub",
+"spotify:track:56DYNKo3QHkakqOUkWi3vl"
+],
+[
+"2026-11-02T19:45|Stella Donnelly|Laying Low",
+"spotify:track:0jWZDtZgmV2LZ2iW4c3yB7"
+],
 [
 "2026-11-02T19:08|SOFY|50/50",
 "spotify:track:16QLv8xt9nPNBZCBDm3Gkv"
@@ -3975,6 +3999,54 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-11-02T20:56|Placebo|Meds",
+"t": "2026-11-02T20:56:00+01:00",
+"artist": "Placebo",
+"title": "Meds"
+},
+{
+"id": "2026-11-02T20:53|Bilderbuch|Baby Junkie",
+"t": "2026-11-02T20:53:00+01:00",
+"artist": "Bilderbuch",
+"title": "Baby Junkie"
+},
+{
+"id": "2026-11-02T20:40|Kirsty MacColl|Walking Down Madison",
+"t": "2026-11-02T20:40:00+01:00",
+"artist": "Kirsty MacColl",
+"title": "Walking Down Madison"
+},
+{
+"id": "2026-11-02T20:23|Leonard Cohen|You Want It Darker",
+"t": "2026-11-02T20:23:00+01:00",
+"artist": "Leonard Cohen",
+"title": "You Want It Darker"
+},
+{
+"id": "2026-11-02T20:05|Alewya|Maktoub",
+"t": "2026-11-02T20:05:00+01:00",
+"artist": "Alewya",
+"title": "Maktoub"
+},
+{
+"id": "2026-11-02T19:54|The Smile|Friend Of A Friend",
+"t": "2026-11-02T19:54:00+01:00",
+"artist": "The Smile",
+"title": "Friend Of A Friend"
+},
+{
+"id": "2026-11-02T19:45|Stella Donnelly|Laying Low",
+"t": "2026-11-02T19:45:00+01:00",
+"artist": "Stella Donnelly",
+"title": "Laying Low"
+},
+{
+"id": "2026-11-02T19:32|Kings Of Convenience|Live Long",
+"t": "2026-11-02T19:32:00+01:00",
+"artist": "Kings Of Convenience",
+"title": "Live Long"
+},
 {
 "id": "2026-11-02T19:08|SOFY|50/50",
 "t": "2026-11-02T19:08:00+01:00",
@@ -9152,84 +9224,6 @@
 "t": "2026-10-26T21:17:00+01:00",
 "artist": "Fontaines D.C.",
 "title": "A Hero's Death"
-},
-{
-"id": "2026-10-26T21:13|Interpol|Wings On Fire",
-"t": "2026-10-26T21:13:00+01:00",
-"artist": "Interpol",
-"title": "Wings On Fire"
-},
-{
-"id": "2026-10-26T21:08|Liars|Ice Pick, Kalamazoo",
-"t": "2026-10-26T21:08:00+01:00",
-"artist": "Liars",
-"title": "Ice Pick, Kalamazoo"
-},
-{
-"id": "2026-10-26T21:03|The Offspring|The Kids Aren't Alright",
-"t": "2026-10-26T21:03:00+01:00",
-"artist": "The Offspring",
-"title": "The Kids Aren't Alright"
-},
-{
-"id": "2026-10-26T20:54|Tyler Ballgame|I Believe In Love",
-"t": "2026-10-26T20:54:00+01:00",
-"artist": "Tyler Ballgame",
-"title": "I Believe In Love"
-},
-{
-"id": "2026-10-26T20:50|Jamie T|Tallahassee",
-"t": "2026-10-26T20:50:00+01:00",
-"artist": "Jamie T",
-"title": "Tallahassee"
-},
-{
-"id": "2026-10-26T20:39|Chinese American Bear|Dance Dance Dance (Edit)",
-"t": "2026-10-26T20:39:00+01:00",
-"artist": "Chinese American Bear",
-"title": "Dance Dance Dance (Edit)"
-},
-{
-"id": "2026-10-26T20:26|mooryc|Inconceivable",
-"t": "2026-10-26T20:26:00+01:00",
-"artist": "mooryc",
-"title": "Inconceivable"
-},
-{
-"id": "2026-10-26T20:16|Jungle|The Wave",
-"t": "2026-10-26T20:16:00+01:00",
-"artist": "Jungle",
-"title": "The Wave"
-},
-{
-"id": "2026-10-26T20:05|A Tribe Called Quest feat. Norman Cook|I Left My Wallet In El Segundo",
-"t": "2026-10-26T20:05:00+01:00",
-"artist": "A Tribe Called Quest feat. Norman Cook",
-"title": "I Left My Wallet In El Segundo"
-},
-{
-"id": "2026-10-26T19:56|Nia Archives|Vertical",
-"t": "2026-10-26T19:56:00+01:00",
-"artist": "Nia Archives",
-"title": "Vertical"
-},
-{
-"id": "2026-10-26T19:53|Grace Cummings|I'm Not Crazy",
-"t": "2026-10-26T19:53:00+01:00",
-"artist": "Grace Cummings",
-"title": "I'm Not Crazy"
-},
-{
-"id": "2026-10-26T19:42|Aurora|All My Demons Greeting Me As A Friend",
-"t": "2026-10-26T19:42:00+01:00",
-"artist": "Aurora",
-"title": "All My Demons Greeting Me As A Friend"
-},
-{
-"id": "2026-10-26T19:33|Carrtoons feat. Hailé Supreme|Labor Of Love",
-"t": "2026-10-26T19:33:00+01:00",
-"artist": "Carrtoons feat. Hailé Supreme",
-"title": "Labor Of Love"
 }
 ]
 }
