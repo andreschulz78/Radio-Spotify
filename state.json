@@ -1,9 +1,9 @@
 {
-"updated": "2026-11-02T16:18:12.012073+01:00",
+"updated": "2026-11-02T16:30:12.012520+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
-"synced": "2026-11-02T16:10:12.011772+01:00",
+"synced": "2026-11-02T16:26:12.012362+01:00",
 "pruned": "2026-11-02",
 "calls": {
 "2026-10-28": 21,
@@ -11,12 +11,20 @@
 "2026-10-30": 178,
 "2026-10-31": 90,
 "2026-11-01": 99,
-"2026-11-02": 134
+"2026-11-02": 137
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAeQE1etXuAKsGRs/FQpjweW/w8Dkf6",
+"snapshot": "AAAeQXZ18VefgCldo06Bnt02dVTgyXDL",
 "playlist": [
+[
+"2026-11-02T16:18|Tessa Rose Jackson|Built To Collide",
+"spotify:track:69saRCWp2ov8jBLOprFAfE"
+],
+[
+"2026-11-02T16:15|Tom Misch|Slow Tonight",
+"spotify:track:7cpoZVJlz9euhcgUfQBMRL"
+],
 [
 "2026-11-02T16:06|Hot Chip|Random Violence (Radio Edit)",
 "spotify:track:0T3vTM8KUAwGMukdAhNVj2"
@@ -3879,6 +3887,24 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-11-02T16:23|The Doobie Brothers|Black Water",
+"t": "2026-11-02T16:23:00+01:00",
+"artist": "The Doobie Brothers",
+"title": "Black Water"
+},
+{
+"id": "2026-11-02T16:18|Tessa Rose Jackson|Built To Collide",
+"t": "2026-11-02T16:18:00+01:00",
+"artist": "Tessa Rose Jackson",
+"title": "Built To Collide"
+},
+{
+"id": "2026-11-02T16:15|Tom Misch|Slow Tonight",
+"t": "2026-11-02T16:15:00+01:00",
+"artist": "Tom Misch",
+"title": "Slow Tonight"
+},
 {
 "id": "2026-11-02T16:06|Hot Chip|Random Violence (Radio Edit)",
 "t": "2026-11-02T16:06:00+01:00",
@@ -9134,18 +9160,6 @@
 "t": "2026-10-26T16:33:00+01:00",
 "artist": "Antony Szmierek",
 "title": "Seminal (Edit)"
-},
-{
-"id": "2026-10-26T16:24|Bill Withers|Use me",
-"t": "2026-10-26T16:24:00+01:00",
-"artist": "Bill Withers",
-"title": "Use me"
-},
-{
-"id": "2026-10-26T16:20|Bonobo|Shokoufeh",
-"t": "2026-10-26T16:20:00+01:00",
-"artist": "Bonobo",
-"title": "Shokoufeh"
 }
 ]
 }
