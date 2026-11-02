@@ -1,9 +1,9 @@
 {
-"updated": "2026-11-02T22:15:16.593940+01:00",
+"updated": "2026-11-02T22:27:16.594325+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
-"synced": "2026-11-02T22:03:16.593530+01:00",
+"synced": "2026-11-02T22:19:16.594064+01:00",
 "pruned": "2026-11-02",
 "calls": {
 "2026-10-28": 21,
@@ -11,11 +11,11 @@
 "2026-10-30": 178,
 "2026-10-31": 90,
 "2026-11-01": 99,
-"2026-11-02": 180
+"2026-11-02": 183
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAeWrX505Mog6SYfDykpAMUJ8gGXMW7",
+"snapshot": "AAAeXOvevAOaAzLWIIZq4d+9CYPwKxPn",
 "playlist": [
 [
 "2026-11-02T20:56|Placebo|Meds",
@@ -3376,10 +3376,6 @@
 [
 "2026-10-26T22:23|The Smashing Pumpkins|Black Stars",
 "spotify:track:6qHi1FLsfgru61mcjxwDjm"
-],
-[
-"2026-10-26T22:19|Angine de Poitrine|Tohogd",
-"spotify:track:664mxd7tkS4Nc1ktjuY6C2"
 ],
 [
 "2026-10-26T22:13|Puscifer|Self Evident",
@@ -9140,18 +9136,6 @@
 "t": "2026-10-26T22:29:00+01:00",
 "artist": "blink-182",
 "title": "The Rock Show"
-},
-{
-"id": "2026-10-26T22:23|The Smashing Pumpkins|Black Stars",
-"t": "2026-10-26T22:23:00+01:00",
-"artist": "The Smashing Pumpkins",
-"title": "Black Stars"
-},
-{
-"id": "2026-10-26T22:19|Angine de Poitrine|Tohogd",
-"t": "2026-10-26T22:19:00+01:00",
-"artist": "Angine de Poitrine",
-"title": "Tohogd"
 }
 ]
 }
