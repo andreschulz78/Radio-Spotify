@@ -1,9 +1,9 @@
 {
-"updated": "2026-11-02T14:42:12.008753+01:00",
+"updated": "2026-11-02T14:54:12.009178+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
-"synced": "2026-11-02T14:34:12.008498+01:00",
+"synced": "2026-11-02T14:50:12.009061+01:00",
 "pruned": "2026-11-02",
 "calls": {
 "2026-10-28": 21,
@@ -11,12 +11,32 @@
 "2026-10-30": 178,
 "2026-10-31": 90,
 "2026-11-01": 99,
-"2026-11-02": 118
+"2026-11-02": 120
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAeOlIL3k8VLEkzXwvOm4cNMDIGwhiQ",
+"snapshot": "AAAeO9RtdXkBiPzzkaR34x4pHfzgnFVO",
 "playlist": [
+[
+"2026-11-02T14:45|Hubbabubbaklubb|Mopedbart",
+"spotify:track:7xHxDE898j1kfvcWlRfQy5"
+],
+[
+"2026-11-02T14:41|Fontaines D.C.|Marianne",
+"spotify:track:69rHKcrQpYGfToPThOV1UB"
+],
+[
+"2026-11-02T14:37|Editors|Seriously",
+"spotify:track:3dZTrUqLpivFUkSuIpSoyb"
+],
+[
+"2026-11-02T14:34|Editors|Seriously",
+"spotify:track:3dZTrUqLpivFUkSuIpSoyb"
+],
+[
+"2026-11-02T14:30|Public Service Broadcasting|Electra",
+"spotify:track:3gQXw5LXuDX4B0fllgMcp9"
+],
 [
 "2026-11-02T14:25|Bent|Comin' Back",
 "spotify:track:7KEwk8kBiMw9DTB7E2yAhU"
@@ -3815,6 +3835,18 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-11-02T14:45|Hubbabubbaklubb|Mopedbart",
+"t": "2026-11-02T14:45:00+01:00",
+"artist": "Hubbabubbaklubb",
+"title": "Mopedbart"
+},
+{
+"id": "2026-11-02T14:41|Fontaines D.C.|Marianne",
+"t": "2026-11-02T14:41:00+01:00",
+"artist": "Fontaines D.C.",
+"title": "Marianne"
+},
 {
 "id": "2026-11-02T14:37|Editors|Seriously",
 "t": "2026-11-02T14:37:00+01:00",
@@ -9076,24 +9108,6 @@
 "t": "2026-10-26T14:58:00+01:00",
 "artist": "Peki Momés",
 "title": "Ahşap Kutu"
-},
-{
-"id": "2026-10-26T14:51|Sylvan Esso|Right to Left",
-"t": "2026-10-26T14:51:00+01:00",
-"artist": "Sylvan Esso",
-"title": "Right to Left"
-},
-{
-"id": "2026-10-26T14:47|American Football|Uncomfortably Numb (feat. Hayley Williams)",
-"t": "2026-10-26T14:47:00+01:00",
-"artist": "American Football",
-"title": "Uncomfortably Numb (feat. Hayley Williams)"
-},
-{
-"id": "2026-10-26T14:44|Philipp Johann Thimm feat. Mieke Miami|Future Skies (Single Edit)",
-"t": "2026-10-26T14:44:00+01:00",
-"artist": "Philipp Johann Thimm feat. Mieke Miami",
-"title": "Future Skies (Single Edit)"
 }
 ]
 }
