@@ -1,9 +1,9 @@
 {
-"updated": "2026-11-02T12:13:58.240222+01:00",
+"updated": "2026-11-02T12:25:58.240703+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
-"synced": "2026-11-02T12:09:58.240074+01:00",
+"synced": "2026-11-02T12:25:58.240703+01:00",
 "pruned": "2026-11-02",
 "calls": {
 "2026-10-28": 21,
@@ -11,12 +11,24 @@
 "2026-10-30": 178,
 "2026-10-31": 90,
 "2026-11-01": 99,
-"2026-11-02": 81
+"2026-11-02": 84
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAeLHjyBQZZBIUWxl0u3stKAwEjeZRm",
+"snapshot": "AAAeLY7XgC6tN9w0+T3mvW599Pd4sCis",
 "playlist": [
+[
+"2026-11-02T12:21|MorMor feat. Celeste|Like Heaven",
+"spotify:track:5pZGuhprytXKB7QRMul3jq"
+],
+[
+"2026-11-02T12:18|Mercury Rev|Goddess On A Hiway",
+"spotify:track:40MTAe7rupM7DNRrw72Q8i"
+],
+[
+"2026-11-02T12:09|M83|Reunion",
+"spotify:track:6vi4I2vZkN5mDePmVSSVTq"
+],
 [
 "2026-11-02T12:05|Interpol|Iron City",
 "spotify:track:7o9gwmscHBXh6sUEYkWQ4e"
@@ -3695,6 +3707,24 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-11-02T12:21|MorMor feat. Celeste|Like Heaven",
+"t": "2026-11-02T12:21:00+01:00",
+"artist": "MorMor feat. Celeste",
+"title": "Like Heaven"
+},
+{
+"id": "2026-11-02T12:18|Mercury Rev|Goddess On A Hiway",
+"t": "2026-11-02T12:18:00+01:00",
+"artist": "Mercury Rev",
+"title": "Goddess On A Hiway"
+},
+{
+"id": "2026-11-02T12:09|M83|Reunion",
+"t": "2026-11-02T12:09:00+01:00",
+"artist": "M83",
+"title": "Reunion"
+},
 {
 "id": "2026-11-02T12:05|Interpol|Iron City",
 "t": "2026-11-02T12:05:00+01:00",
@@ -8944,18 +8974,6 @@
 "t": "2026-10-26T12:29:00+01:00",
 "artist": "Alewya",
 "title": "Maktoub"
-},
-{
-"id": "2026-10-26T12:24|Tom Misch|Slow Tonight",
-"t": "2026-10-26T12:24:00+01:00",
-"artist": "Tom Misch",
-"title": "Slow Tonight"
-},
-{
-"id": "2026-10-26T12:19|Kurt Vile|One Trick Ponies",
-"t": "2026-10-26T12:19:00+01:00",
-"artist": "Kurt Vile",
-"title": "One Trick Ponies"
 }
 ]
 }
