@@ -1,9 +1,9 @@
 {
-"updated": "2026-11-02T11:49:58.239305+01:00",
+"updated": "2026-11-02T12:01:58.239788+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
-"synced": "2026-11-02T11:37:58.238891+01:00",
+"synced": "2026-11-02T11:53:58.239437+01:00",
 "pruned": "2026-11-02",
 "calls": {
 "2026-10-28": 21,
@@ -11,12 +11,24 @@
 "2026-10-30": 178,
 "2026-10-31": 90,
 "2026-11-01": 99,
-"2026-11-02": 75
+"2026-11-02": 77
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAeJ+wDDKbgz+0AJlLSMt/5nO8PsNui",
+"snapshot": "AAAeKLoBz0qs2hUacDT/MS2Y8Zx2Y7rQ",
 "playlist": [
+[
+"2026-11-02T11:45|Meshell Ndegeocello feat. Cat Power|Don’t You Want Me",
+"spotify:track:5sbCqST9M4Q1sRSJM6L6oT"
+],
+[
+"2026-11-02T11:40|The Carpenters|Rainy Days And Mondays",
+"spotify:track:5cbZDpFu1hTwaU7hDQpf13"
+],
+[
+"2026-11-02T11:34|Acht Eimer Hühnerherzen|Straße der Gewalt",
+"spotify:track:795u6nAdz1JLwE8HoGZ7fT"
+],
 [
 "2026-11-02T11:30|Smidley feat. Lucy Dacus|Capstone",
 "spotify:track:0YosJMrYxYQP7mLXfFo0p1"
@@ -3675,6 +3687,18 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-11-02T11:56|Keshavara|Oracular",
+"t": "2026-11-02T11:56:00+01:00",
+"artist": "Keshavara",
+"title": "Oracular"
+},
+{
+"id": "2026-11-02T11:50|BIBIZA feat. Nicholas Ofczarek|Discoschnupfen",
+"t": "2026-11-02T11:50:00+01:00",
+"artist": "BIBIZA feat. Nicholas Ofczarek",
+"title": "Discoschnupfen"
+},
 {
 "id": "2026-11-02T11:45|Meshell Ndegeocello feat. Cat Power|Don’t You Want Me",
 "t": "2026-11-02T11:45:00+01:00",
@@ -8930,12 +8954,6 @@
 "t": "2026-10-26T12:05:00+01:00",
 "artist": "Cypress Hill",
 "title": "What's Your Number"
-},
-{
-"id": "2026-10-26T11:56|MGMT|Mother Nature",
-"t": "2026-10-26T11:56:00+01:00",
-"artist": "MGMT",
-"title": "Mother Nature"
 }
 ]
 }
