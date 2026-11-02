@@ -1,9 +1,9 @@
 {
-"updated": "2026-11-02T11:25:58.238474+01:00",
+"updated": "2026-11-02T11:37:58.238891+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
-"synced": "2026-11-02T11:21:58.238332+01:00",
+"synced": "2026-11-02T11:37:58.238891+01:00",
 "pruned": "2026-11-02",
 "calls": {
 "2026-10-28": 21,
@@ -11,12 +11,28 @@
 "2026-10-30": 178,
 "2026-10-31": 90,
 "2026-11-01": 99,
-"2026-11-02": 71
+"2026-11-02": 73
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAeJcwI9fK41GOx3nDf7UsFlpc6fdkz",
+"snapshot": "AAAeJ+wDDKbgz+0AJlLSMt/5nO8PsNui",
 "playlist": [
+[
+"2026-11-02T11:30|Smidley feat. Lucy Dacus|Capstone",
+"spotify:track:0YosJMrYxYQP7mLXfFo0p1"
+],
+[
+"2026-11-02T11:25|Sylvan Esso|Right to Left",
+"spotify:track:78xiuouD9dMXKXGKdDnjqB"
+],
+[
+"2026-11-02T11:22|Grauzone|Eisbär",
+"spotify:track:6dO3t1e3pb7sxyDQbDyVNX"
+],
+[
+"2026-11-02T11:18|Mother Soki|Thicken",
+"spotify:track:1uQYHgPrjPBYG1d0D4RoTD"
+],
 [
 "2026-11-02T11:16|Junior Varsity|Bass Drum",
 "spotify:track:1OiErAa7qNhNubMkvfFpAZ"
@@ -3422,10 +3438,6 @@
 "spotify:track:09NFtpTHcK46LRl9b20Hha"
 ],
 [
-"2026-10-26T11:37|Kelela|Crystalize",
-"spotify:track:4dDECyaCvbKYrPYy4qCbzm"
-],
-[
 "2026-10-26T11:31|Yard Act|You're Gonna Need A Little Music",
 "spotify:track:43KS2LpjMVkvJdprLaoQxQ"
 ],
@@ -3663,6 +3675,18 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-11-02T11:30|Smidley feat. Lucy Dacus|Capstone",
+"t": "2026-11-02T11:30:00+01:00",
+"artist": "Smidley feat. Lucy Dacus",
+"title": "Capstone"
+},
+{
+"id": "2026-11-02T11:25|Sylvan Esso|Right to Left",
+"t": "2026-11-02T11:25:00+01:00",
+"artist": "Sylvan Esso",
+"title": "Right to Left"
+},
 {
 "id": "2026-11-02T11:22|Grauzone|Eisbär",
 "t": "2026-11-02T11:22:00+01:00",
@@ -8906,18 +8930,6 @@
 "t": "2026-10-26T11:43:00+01:00",
 "artist": "Funkstörung feat. Enik",
 "title": "Moon Addicted"
-},
-{
-"id": "2026-10-26T11:37|Kelela|Crystalize",
-"t": "2026-10-26T11:37:00+01:00",
-"artist": "Kelela",
-"title": "Crystalize"
-},
-{
-"id": "2026-10-26T11:31|Yard Act|You're Gonna Need A Little Music",
-"t": "2026-10-26T11:31:00+01:00",
-"artist": "Yard Act",
-"title": "You're Gonna Need A Little Music"
 }
 ]
 }
