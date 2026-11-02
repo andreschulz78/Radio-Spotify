@@ -1,9 +1,9 @@
 {
-"updated": "2026-11-02T07:57:50.472133+01:00",
+"updated": "2026-11-02T08:09:50.472513+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
-"synced": "2026-11-02T07:53:50.472027+01:00",
+"synced": "2026-11-02T08:09:50.472513+01:00",
 "pruned": "2026-11-02",
 "calls": {
 "2026-10-28": 21,
@@ -11,12 +11,20 @@
 "2026-10-30": 178,
 "2026-10-31": 90,
 "2026-11-01": 99,
-"2026-11-02": 34
+"2026-11-02": 38
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAeFq+nycMeIH24bKvmi3/tgJFkFd6g",
+"snapshot": "AAAeF9ex6Ja6yTQ8cR8cY7jKcEHFSMKd",
 "playlist": [
+[
+"2026-11-02T07:56|Republica|Ready To Go",
+"spotify:track:5oQrjFYt6Vqv5oi9KB1DPU"
+],
+[
+"2026-11-02T07:51|Jordan Rakei|Enemies",
+"spotify:track:0X9GwAax0c0HPe3iIoDVW6"
+],
 [
 "2026-11-02T07:46|Overmono feat. Ruthven|Gem Lingo (ovr now)",
 "spotify:track:6dSqM0tWJPlchpmGrEwC1c"
@@ -3559,6 +3567,12 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-11-02T07:56|Republica|Ready To Go",
+"t": "2026-11-02T07:56:00+01:00",
+"artist": "Republica",
+"title": "Ready To Go"
+},
 {
 "id": "2026-11-02T07:51|Jordan Rakei|Enemies",
 "t": "2026-11-02T07:51:00+01:00",
@@ -8820,12 +8834,6 @@
 "t": "2026-10-26T08:13:00+01:00",
 "artist": "Skeleten",
 "title": "Deep Scene"
-},
-{
-"id": "2026-10-26T08:05|MadCon|Beggin'",
-"t": "2026-10-26T08:05:00+01:00",
-"artist": "MadCon",
-"title": "Beggin'"
 }
 ]
 }
