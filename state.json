@@ -1,9 +1,9 @@
 {
-"updated": "2026-11-02T07:45:50.471820+01:00",
+"updated": "2026-11-02T07:57:50.472133+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
-"synced": "2026-11-02T07:37:50.471534+01:00",
+"synced": "2026-11-02T07:53:50.472027+01:00",
 "pruned": "2026-11-02",
 "calls": {
 "2026-10-28": 21,
@@ -11,12 +11,20 @@
 "2026-10-30": 178,
 "2026-10-31": 90,
 "2026-11-01": 99,
-"2026-11-02": 33
+"2026-11-02": 34
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAeFapfeZBkYzcn8BBu1Qk6gTzGXxSV",
+"snapshot": "AAAeFq+nycMeIH24bKvmi3/tgJFkFd6g",
 "playlist": [
+[
+"2026-11-02T07:46|Overmono feat. Ruthven|Gem Lingo (ovr now)",
+"spotify:track:6dSqM0tWJPlchpmGrEwC1c"
+],
+[
+"2026-11-02T07:35|1-800 Girls feat. Art School Girlfriend|sometimes",
+"spotify:track:4akb3UnPEbDpUBc8JdQ5ED"
+],
 [
 "2026-11-02T07:24|Kevin Morby|Javelin",
 "spotify:track:66GKPLUMYSsSWirLHvEr0q"
@@ -3551,6 +3559,18 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-11-02T07:51|Jordan Rakei|Enemies",
+"t": "2026-11-02T07:51:00+01:00",
+"artist": "Jordan Rakei",
+"title": "Enemies"
+},
+{
+"id": "2026-11-02T07:46|Overmono feat. Ruthven|Gem Lingo (ovr now)",
+"t": "2026-11-02T07:46:00+01:00",
+"artist": "Overmono feat. Ruthven",
+"title": "Gem Lingo (ovr now)"
+},
 {
 "id": "2026-11-02T07:35|1-800 Girls feat. Art School Girlfriend|sometimes",
 "t": "2026-11-02T07:35:00+01:00",
@@ -8806,24 +8826,6 @@
 "t": "2026-10-26T08:05:00+01:00",
 "artist": "MadCon",
 "title": "Beggin'"
-},
-{
-"id": "2026-10-26T07:56|Glass Animals|Your Love (Déjà Vu)",
-"t": "2026-10-26T07:56:00+01:00",
-"artist": "Glass Animals",
-"title": "Your Love (Déjà Vu)"
-},
-{
-"id": "2026-10-26T07:49|Still Blank|Ain't Quite Right (Edit)",
-"t": "2026-10-26T07:49:00+01:00",
-"artist": "Still Blank",
-"title": "Ain't Quite Right (Edit)"
-},
-{
-"id": "2026-10-26T07:47|Mother Soki|Thicken",
-"t": "2026-10-26T07:47:00+01:00",
-"artist": "Mother Soki",
-"title": "Thicken"
 }
 ]
 }
