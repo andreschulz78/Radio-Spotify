@@ -1,9 +1,9 @@
 {
-"updated": "2026-11-02T06:57:50.470185+01:00",
+"updated": "2026-11-02T07:09:50.470589+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
-"synced": "2026-11-02T06:49:50.469933+01:00",
+"synced": "2026-11-02T07:05:50.470467+01:00",
 "pruned": "2026-11-02",
 "calls": {
 "2026-10-28": 21,
@@ -11,12 +11,24 @@
 "2026-10-30": 178,
 "2026-10-31": 90,
 "2026-11-01": 99,
-"2026-11-02": 25
+"2026-11-02": 28
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAeEUZWCopxcvyWolbmm4LmY1JJ6Pet",
+"snapshot": "AAAeE+vBnncSj2cxs9IboMIDRKIaI/Fk",
 "playlist": [
+[
+"2026-11-02T06:56|Arctic Monkeys|Cornerstone",
+"spotify:track:5bsnLiT00hG37qd8p2jdVl"
+],
+[
+"2026-11-02T06:49|Laing|Morgens immer müde",
+"spotify:track:5TivaDsrJsPHJURznEyGmj"
+],
+[
+"2026-11-02T06:44|The Head And The Heart|Our House",
+"spotify:track:08sn2aLyHIGwUalxqkPmaO"
+],
 [
 "2026-11-02T06:36|Bonobo feat. Joy Crookes|Always on Your Side",
 "spotify:track:6jJTpzMquQLVuUkM2vVEIF"
@@ -3442,10 +3454,6 @@
 "spotify:track:0bbPqdrMN94XmIlBQS21B3"
 ],
 [
-"2026-10-26T07:05|PRESSYES|Purpose (Radio Edit)",
-"spotify:track:06b3aZwELDmgee9WBfewLn"
-],
-[
 "2026-10-26T06:57|Beirut|Gallipoli",
 "spotify:track:3rWZv4pUVvPkQLYm3ItGDv"
 ],
@@ -3527,6 +3535,12 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-11-02T06:56|Arctic Monkeys|Cornerstone",
+"t": "2026-11-02T06:56:00+01:00",
+"artist": "Arctic Monkeys",
+"title": "Cornerstone"
+},
 {
 "id": "2026-11-02T06:49|Laing|Morgens immer müde",
 "t": "2026-11-02T06:49:00+01:00",
@@ -8794,12 +8808,6 @@
 "t": "2026-10-26T07:10:00+01:00",
 "artist": "Kaktus Einarsson feat. John Grant",
 "title": "Follow"
-},
-{
-"id": "2026-10-26T07:05|PRESSYES|Purpose (Radio Edit)",
-"t": "2026-10-26T07:05:00+01:00",
-"artist": "PRESSYES",
-"title": "Purpose (Radio Edit)"
 }
 ]
 }
