@@ -1,9 +1,9 @@
 {
-"updated": "2026-11-02T08:49:58.233214+01:00",
+"updated": "2026-11-02T09:01:58.233603+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
-"synced": "2026-11-02T08:41:58.232962+01:00",
+"synced": "2026-11-02T08:57:58.233471+01:00",
 "pruned": "2026-11-02",
 "calls": {
 "2026-10-28": 21,
@@ -11,12 +11,20 @@
 "2026-10-30": 178,
 "2026-10-31": 90,
 "2026-11-01": 99,
-"2026-11-02": 43
+"2026-11-02": 45
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAeGpqSNFi9yU9UGpI2CHz/p/6D8qQb",
+"snapshot": "AAAeHM3FZCDa2Gsq2ODTUTLvbZhPEcsF",
 "playlist": [
+[
+"2026-11-02T08:48|Kings Of Leon|My Whole World",
+"spotify:track:2tfc81XZfVReM0kYQqv7o3"
+],
+[
+"2026-11-02T08:41|Neal Francis|Hide",
+"spotify:track:197QlBcwTnJNU8DAf3BNLo"
+],
 [
 "2026-11-02T08:34|The Avalanches feat. Karen O|Blue Shadows",
 "spotify:track:5bN5To0VLbNBKQDzJ1Lk6c"
@@ -3438,10 +3446,6 @@
 "spotify:track:772TnPnZfWglFmfysHtAYZ"
 ],
 [
-"2026-10-26T08:57|Willy DeVille|Demasiado Corazon",
-"spotify:track:1sHYjY7EsVul6dgXBsL7mB"
-],
-[
 "2026-10-26T08:51|1-800 Girls feat. Art School Girlfriend|sometimes",
 "spotify:track:4akb3UnPEbDpUBc8JdQ5ED"
 ],
@@ -3583,6 +3587,18 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-11-02T08:55|Lola Young|From Down Here (Radio Edit)",
+"t": "2026-11-02T08:55:00+01:00",
+"artist": "Lola Young",
+"title": "From Down Here (Radio Edit)"
+},
+{
+"id": "2026-11-02T08:48|Kings Of Leon|My Whole World",
+"t": "2026-11-02T08:48:00+01:00",
+"artist": "Kings Of Leon",
+"title": "My Whole World"
+},
 {
 "id": "2026-11-02T08:41|Neal Francis|Hide",
 "t": "2026-11-02T08:41:00+01:00",
@@ -8838,18 +8854,6 @@
 "t": "2026-10-26T09:05:00+01:00",
 "artist": "Tikhet",
 "title": "Almost Up In Space"
-},
-{
-"id": "2026-10-26T08:57|Willy DeVille|Demasiado Corazon",
-"t": "2026-10-26T08:57:00+01:00",
-"artist": "Willy DeVille",
-"title": "Demasiado Corazon"
-},
-{
-"id": "2026-10-26T08:51|1-800 Girls feat. Art School Girlfriend|sometimes",
-"t": "2026-10-26T08:51:00+01:00",
-"artist": "1-800 Girls feat. Art School Girlfriend",
-"title": "sometimes"
 }
 ]
 }
