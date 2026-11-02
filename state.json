@@ -1,9 +1,9 @@
 {
-"updated": "2026-11-02T18:06:12.015993+01:00",
+"updated": "2026-11-02T18:18:12.016443+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
-"synced": "2026-11-02T18:02:12.015870+01:00",
+"synced": "2026-11-02T18:18:12.016443+01:00",
 "pruned": "2026-11-02",
 "calls": {
 "2026-10-28": 21,
@@ -11,12 +11,20 @@
 "2026-10-30": 178,
 "2026-10-31": 90,
 "2026-11-01": 99,
-"2026-11-02": 153
+"2026-11-02": 158
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAeSrTYVuLwBS1zR6Jl+/cpmqYBCZIX",
+"snapshot": "AAAeTmISBI0+Lp+Fd0DUPyAu4YMgxNsE",
 "playlist": [
+[
+"2026-11-02T18:09|Sophia Kennedy|Schenke mir ein",
+"spotify:track:1nh7tFgkfO0Q7B6EAdUaJ2"
+],
+[
+"2026-11-02T18:05|Antony Szmierek|Chalk (Radio Edit)",
+"spotify:track:5HdeMdzAlNKwCM4L9cjehN"
+],
 [
 "2026-11-02T17:56|Sergio Torales feat. Der Assistent|Veo",
 "spotify:track:6k1tMxv0y7hJJsQMMfnE6p"
@@ -3446,10 +3454,6 @@
 "spotify:track:1MvJHvU5tXQ6aPtEZSH1Ti"
 ],
 [
-"2026-10-26T18:18|J.Bernardt|Love Is On My Mind",
-"spotify:track:4LuP3veDBkqnyLQvgDQpJb"
-],
-[
 "2026-10-26T18:16|Erika De Casier|Delusional",
 "spotify:track:6M5Y8sn5cXePK58bH1WKon"
 ],
@@ -3939,6 +3943,18 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-11-02T18:09|Sophia Kennedy|Schenke mir ein",
+"t": "2026-11-02T18:09:00+01:00",
+"artist": "Sophia Kennedy",
+"title": "Schenke mir ein"
+},
+{
+"id": "2026-11-02T18:05|Antony Szmierek|Chalk (Radio Edit)",
+"t": "2026-11-02T18:05:00+01:00",
+"artist": "Antony Szmierek",
+"title": "Chalk (Radio Edit)"
+},
 {
 "id": "2026-11-02T17:56|Sergio Torales feat. Der Assistent|Veo",
 "t": "2026-11-02T17:56:00+01:00",
@@ -9182,18 +9198,6 @@
 "t": "2026-10-26T18:25:00+01:00",
 "artist": "Waldeck feat. Joy Malcolm",
 "title": "Where Do We Go From Here?"
-},
-{
-"id": "2026-10-26T18:18|J.Bernardt|Love Is On My Mind",
-"t": "2026-10-26T18:18:00+01:00",
-"artist": "J.Bernardt",
-"title": "Love Is On My Mind"
-},
-{
-"id": "2026-10-26T18:16|Erika De Casier|Delusional",
-"t": "2026-10-26T18:16:00+01:00",
-"artist": "Erika De Casier",
-"title": "Delusional"
 }
 ]
 }
