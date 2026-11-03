@@ -1,9 +1,9 @@
 {
-"updated": "2026-11-03T06:12:08.133429+01:00",
+"updated": "2026-11-03T06:24:08.133771+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
-"synced": "2026-11-03T06:00:08.133095+01:00",
+"synced": "2026-11-03T06:16:08.133548+01:00",
 "pruned": "2026-11-03",
 "calls": {
 "2026-10-28": 21,
@@ -12,12 +12,24 @@
 "2026-10-31": 90,
 "2026-11-01": 99,
 "2026-11-02": 197,
-"2026-11-03": 11
+"2026-11-03": 13
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAeauKx2s8u+jlNB3aF3/aeU4nKMyRw",
+"snapshot": "AAAeax0xHaIS4UOOPk0R9+eZ+IzCkcLh",
 "playlist": [
+[
+"2026-11-03T06:12|Andrew Collberg|Hi Hopes (Edit)",
+"spotify:track:1kjdZI17F6ONf5iluLS0in"
+],
+[
+"2026-11-03T06:06|Phoenix|After Midnight",
+"spotify:track:21rpBPAlXAvBavvu5kCQzs"
+],
+[
+"2026-11-03T05:56|Fontaines D.C. & ROSALIA|Where Is Gone?",
+"spotify:track:6ZH1yeWUf3Xp2XO0EZk91i"
+],
 [
 "2026-11-03T05:51|Genesis Owusu|Human Again",
 "spotify:track:3uP7jqdt4haiuL4acLhrDY"
@@ -3396,6 +3408,12 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-11-03T06:12|Andrew Collberg|Hi Hopes (Edit)",
+"t": "2026-11-03T06:12:00+01:00",
+"artist": "Andrew Collberg",
+"title": "Hi Hopes (Edit)"
+},
 {
 "id": "2026-11-03T06:06|Phoenix|After Midnight",
 "t": "2026-11-03T06:06:00+01:00",
@@ -8495,18 +8513,6 @@
 "t": "2026-10-27T06:27:00+01:00",
 "artist": "Nia Archives",
 "title": "There Goes Ma Head"
-},
-{
-"id": "2026-10-27T06:22|Fontaines D.C. & ROSALIA|Where Is Gone?",
-"t": "2026-10-27T06:22:00+01:00",
-"artist": "Fontaines D.C. & ROSALIA",
-"title": "Where Is Gone?"
-},
-{
-"id": "2026-10-27T06:15|ViVii|Suckerpunch",
-"t": "2026-10-27T06:15:00+01:00",
-"artist": "ViVii",
-"title": "Suckerpunch"
 }
 ]
 }
