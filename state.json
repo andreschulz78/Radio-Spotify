@@ -1,9 +1,9 @@
 {
-"updated": "2026-11-03T09:00:08.138133+01:00",
+"updated": "2026-11-03T09:12:08.138446+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
-"synced": "2026-11-03T08:56:08.138000+01:00",
+"synced": "2026-11-03T09:12:08.138446+01:00",
 "pruned": "2026-11-03",
 "calls": {
 "2026-10-28": 21,
@@ -12,12 +12,20 @@
 "2026-10-31": 90,
 "2026-11-01": 99,
 "2026-11-02": 197,
-"2026-11-03": 45
+"2026-11-03": 47
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAeeQLpPfJbeKErN9mqm4RVTw+zll1X",
+"snapshot": "AAAee/avPQw0udXZvaAFmfetgv8wIZBg",
 "playlist": [
+[
+"2026-11-03T09:05|Avalon Emerson|Jupiter and Mars",
+"spotify:track:6uzYz5meqzlTltQ6E15uPd"
+],
+[
+"2026-11-03T08:56|Living Colour|Solace Of You",
+"spotify:track:1vSGsBEbcSS3EZKxTv6msz"
+],
 [
 "2026-11-03T08:49|Kronstad 23|Høytrykk",
 "spotify:track:6B44D99N2FplJvlfUBIdzV"
@@ -3343,10 +3351,6 @@
 "spotify:track:4hHizy49Hzl7QfP3mGVJOY"
 ],
 [
-"2026-10-27T09:12|Lady Wray|You're Gonna Win",
-"spotify:track:6rD4rSzKgu7YSy9RR5ICsS"
-],
-[
 "2026-10-27T09:05|The Drums feat. Mareux|It Didn't Matter",
 "spotify:track:10kxTiNUTo4nlEbH1EzoX1"
 ],
@@ -3500,6 +3504,12 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-11-03T09:05|Avalon Emerson|Jupiter and Mars",
+"t": "2026-11-03T09:05:00+01:00",
+"artist": "Avalon Emerson",
+"title": "Jupiter and Mars"
+},
 {
 "id": "2026-11-03T08:56|Living Colour|Solace Of You",
 "t": "2026-11-03T08:56:00+01:00",
@@ -8599,18 +8609,6 @@
 "t": "2026-10-27T09:19:00+01:00",
 "artist": "Sydney Minsky Sargeant",
 "title": "I Don't Wanna"
-},
-{
-"id": "2026-10-27T09:12|Lady Wray|You're Gonna Win",
-"t": "2026-10-27T09:12:00+01:00",
-"artist": "Lady Wray",
-"title": "You're Gonna Win"
-},
-{
-"id": "2026-10-27T09:05|The Drums feat. Mareux|It Didn't Matter",
-"t": "2026-10-27T09:05:00+01:00",
-"artist": "The Drums feat. Mareux",
-"title": "It Didn't Matter"
 }
 ]
 }
