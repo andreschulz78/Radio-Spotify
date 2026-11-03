@@ -1,9 +1,9 @@
 {
-"updated": "2026-11-03T14:00:31.183560+01:00",
+"updated": "2026-11-03T14:12:31.183967+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
-"synced": "2026-11-03T13:56:31.183439+01:00",
+"synced": "2026-11-03T14:12:31.183967+01:00",
 "pruned": "2026-11-03",
 "calls": {
 "2026-10-28": 21,
@@ -12,12 +12,20 @@
 "2026-10-31": 90,
 "2026-11-01": 99,
 "2026-11-02": 197,
-"2026-11-03": 102
+"2026-11-03": 105
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAejbKm02pZEF2HLqf8N3MiiChQfGSE",
+"snapshot": "AAAejsp4bEifag/IrzbAUjfS0qOM6WFZ",
 "playlist": [
+[
+"2026-11-03T14:05|The Avalanches feat. Karen O|Blue Shadows",
+"spotify:track:5bN5To0VLbNBKQDzJ1Lk6c"
+],
+[
+"2026-11-03T13:56|Wir sind Helden|Wenn es passiert",
+"spotify:track:0tqdwcXyp9EytUIsR46OBw"
+],
 [
 "2026-11-03T13:51|Nia Archives|There Goes Ma Head",
 "spotify:track:0ceKqpXrrC3CtFwFiLJeoY"
@@ -3708,6 +3716,18 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-11-03T14:05|The Avalanches feat. Karen O|Blue Shadows",
+"t": "2026-11-03T14:05:00+01:00",
+"artist": "The Avalanches feat. Karen O",
+"title": "Blue Shadows"
+},
+{
+"id": "2026-11-03T13:56|Wir sind Helden|Wenn es passiert",
+"t": "2026-11-03T13:56:00+01:00",
+"artist": "Wir sind Helden",
+"title": "Wenn es passiert"
+},
 {
 "id": "2026-11-03T13:51|Nia Archives|There Goes Ma Head",
 "t": "2026-11-03T13:51:00+01:00",
@@ -8795,18 +8815,6 @@
 "t": "2026-10-27T14:20:00+01:00",
 "artist": "Poliça",
 "title": "Dark Star"
-},
-{
-"id": "2026-10-27T14:08|The Beloved|Sweet harmony",
-"t": "2026-10-27T14:08:00+01:00",
-"artist": "The Beloved",
-"title": "Sweet harmony"
-},
-{
-"id": "2026-10-27T14:05|Bonaparte|KiOSKO",
-"t": "2026-10-27T14:05:00+01:00",
-"artist": "Bonaparte",
-"title": "KiOSKO"
 }
 ]
 }
