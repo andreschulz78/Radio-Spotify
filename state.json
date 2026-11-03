@@ -1,9 +1,9 @@
 {
-"updated": "2026-11-03T08:12:08.136725+01:00",
+"updated": "2026-11-03T08:24:08.137094+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
-"synced": "2026-11-03T08:08:08.136601+01:00",
+"synced": "2026-11-03T08:24:08.137094+01:00",
 "pruned": "2026-11-03",
 "calls": {
 "2026-10-28": 21,
@@ -12,12 +12,20 @@
 "2026-10-31": 90,
 "2026-11-01": 99,
 "2026-11-02": 197,
-"2026-11-03": 37
+"2026-11-03": 40
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAednid5wi/6pUDCcVcK0FIS5GT7aCp",
+"snapshot": "AAAed+lvgGj2newAVnvKph6KglnWbfoy",
 "playlist": [
+[
+"2026-11-03T08:14|Nerina Pallot|Put Your Hands Up",
+"spotify:track:3SYUpqvC1iYxoVS6xIqa3w"
+],
+[
+"2026-11-03T08:06|Leon Bridges|Talk it over",
+"spotify:track:5Bdn8RyTqz4dV7F07EFBP5"
+],
 [
 "2026-11-03T07:56|Texas & Wu-Tang Clan|Say What You Want (All Day Everyday)",
 "spotify:track:6h6Ccbgvhibl2XQ0SQNR70"
@@ -3468,6 +3476,12 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-11-03T08:14|Nerina Pallot|Put Your Hands Up",
+"t": "2026-11-03T08:14:00+01:00",
+"artist": "Nerina Pallot",
+"title": "Put Your Hands Up"
+},
 {
 "id": "2026-11-03T08:06|Leon Bridges|Talk it over",
 "t": "2026-11-03T08:06:00+01:00",
@@ -8561,18 +8575,6 @@
 "t": "2026-10-27T08:27:00+01:00",
 "artist": "Get Well Soon",
 "title": "Siri, What Ruined The West ?"
-},
-{
-"id": "2026-10-27T08:20|Kurtis Blow|Basketball",
-"t": "2026-10-27T08:20:00+01:00",
-"artist": "Kurtis Blow",
-"title": "Basketball"
-},
-{
-"id": "2026-10-27T08:17|Ibadet Ramadani|Forest",
-"t": "2026-10-27T08:17:00+01:00",
-"artist": "Ibadet Ramadani",
-"title": "Forest"
 }
 ]
 }
