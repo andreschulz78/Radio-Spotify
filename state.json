@@ -1,9 +1,9 @@
 {
-"updated": "2026-11-03T16:24:31.188334+01:00",
+"updated": "2026-11-03T16:36:31.188730+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
-"synced": "2026-11-03T16:20:31.188170+01:00",
+"synced": "2026-11-03T16:36:31.188730+01:00",
 "pruned": "2026-11-03",
 "calls": {
 "2026-10-28": 21,
@@ -12,12 +12,20 @@
 "2026-10-31": 90,
 "2026-11-01": 99,
 "2026-11-02": 197,
-"2026-11-03": 124
+"2026-11-03": 127
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAellQXaX/wmVBE4OSmVKY9gvqgmXYp",
+"snapshot": "AAAemAXR7M/2IClj3XFLqEPgoak+H2Eo",
 "playlist": [
+[
+"2026-11-03T16:25|Mike D|I Don't Care",
+"spotify:track:6ZnBdUwirE7UhqMlAlV35G"
+],
+[
+"2026-11-03T16:21|Grace Jones|Slave To The Rhythm",
+"spotify:track:3Hv9i1KAOXF2Wn42tj5s0h"
+],
 [
 "2026-11-03T16:11|Yard Act|Janey Said (Edit)",
 "spotify:track:0mV0B0SbcF6CMSdDyDNYpR"
@@ -3339,10 +3347,6 @@
 "spotify:track:63XoYcjAxher0PxQhsFz5d"
 ],
 [
-"2026-10-27T16:36|Jamie Woon|Heavy Going...",
-"spotify:track:79ieU2vuYImbGnz3E3a9Y3"
-],
-[
 "2026-10-27T16:34|Alewya|Maktoub",
 "spotify:track:56DYNKo3QHkakqOUkWi3vl"
 ],
@@ -3796,6 +3800,18 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-11-03T16:25|Mike D|I Don't Care",
+"t": "2026-11-03T16:25:00+01:00",
+"artist": "Mike D",
+"title": "I Don't Care"
+},
+{
+"id": "2026-11-03T16:21|Grace Jones|Slave To The Rhythm",
+"t": "2026-11-03T16:21:00+01:00",
+"artist": "Grace Jones",
+"title": "Slave To The Rhythm"
+},
 {
 "id": "2026-11-03T16:11|Yard Act|Janey Said (Edit)",
 "t": "2026-11-03T16:11:00+01:00",
@@ -8889,24 +8905,6 @@
 "t": "2026-10-27T16:45:00+01:00",
 "artist": "Saint Etienne",
 "title": "The Bad Photographer"
-},
-{
-"id": "2026-10-27T16:36|Jamie Woon|Heavy Going...",
-"t": "2026-10-27T16:36:00+01:00",
-"artist": "Jamie Woon",
-"title": "Heavy Going..."
-},
-{
-"id": "2026-10-27T16:34|Alewya|Maktoub",
-"t": "2026-10-27T16:34:00+01:00",
-"artist": "Alewya",
-"title": "Maktoub"
-},
-{
-"id": "2026-10-27T16:26|Anderson .Paak & Cordae|A Good Day",
-"t": "2026-10-27T16:26:00+01:00",
-"artist": "Anderson .Paak & Cordae",
-"title": "A Good Day"
 }
 ]
 }
