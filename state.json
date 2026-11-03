@@ -1,9 +1,9 @@
 {
-"updated": "2026-11-03T19:43:15.605446+01:00",
+"updated": "2026-11-03T19:55:15.605723+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
-"synced": "2026-11-03T19:31:15.605143+01:00",
+"synced": "2026-11-03T19:51:15.605635+01:00",
 "pruned": "2026-11-03",
 "calls": {
 "2026-10-28": 21,
@@ -12,12 +12,16 @@
 "2026-10-31": 90,
 "2026-11-01": 99,
 "2026-11-02": 197,
-"2026-11-03": 147
+"2026-11-03": 150
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAeoKpCHrNvGsPvvZcmz3MOl1QzmOaB",
+"snapshot": "AAAeoWvTCaPZj1+pSP2ACY1hDL/QaWAj",
 "playlist": [
+[
+"2026-11-03T19:45|Steve Earle & Emmilou Harris|Taneytown (gekürzt)",
+"spotify:track:6uOnIcnNQZ4FzRv7iMUA5y"
+],
 [
 "2026-11-03T19:22|Vince Staples|Tulsa, OK",
 "spotify:track:4lyK8sT0dLpxSBv14wtVet"
@@ -3908,6 +3912,12 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-11-03T19:45|Steve Earle & Emmilou Harris|Taneytown (gekürzt)",
+"t": "2026-11-03T19:45:00+01:00",
+"artist": "Steve Earle & Emmilou Harris",
+"title": "Taneytown (gekürzt)"
+},
 {
 "id": "2026-11-03T19:22|Vince Staples|Tulsa, OK",
 "t": "2026-11-03T19:22:00+01:00",
@@ -9001,30 +9011,6 @@
 "t": "2026-10-27T20:04:00+01:00",
 "artist": "Loma",
 "title": "Going Out"
-},
-{
-"id": "2026-10-27T19:55|Death Cab For Cutie|Pep Talk",
-"t": "2026-10-27T19:55:00+01:00",
-"artist": "Death Cab For Cutie",
-"title": "Pep Talk"
-},
-{
-"id": "2026-10-27T19:53|Ebow|ARBAYT",
-"t": "2026-10-27T19:53:00+01:00",
-"artist": "Ebow",
-"title": "ARBAYT"
-},
-{
-"id": "2026-10-27T19:49|Tinashe|Crash Out",
-"t": "2026-10-27T19:49:00+01:00",
-"artist": "Tinashe",
-"title": "Crash Out"
-},
-{
-"id": "2026-10-27T19:46|Fontaines D.C.|Marianne",
-"t": "2026-10-27T19:46:00+01:00",
-"artist": "Fontaines D.C.",
-"title": "Marianne"
 }
 ]
 }
