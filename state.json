@@ -1,5 +1,5 @@
 {
-"updated": "2026-11-03T11:00:31.177529+01:00",
+"updated": "2026-11-03T11:12:31.177956+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
@@ -12,7 +12,7 @@
 "2026-10-31": 90,
 "2026-11-01": 99,
 "2026-11-02": 197,
-"2026-11-03": 52
+"2026-11-03": 61
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
@@ -3544,6 +3544,12 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-11-03T11:05|Bobby Hebb|Sunny",
+"t": "2026-11-03T11:05:00+01:00",
+"artist": "Bobby Hebb",
+"title": "Sunny"
+},
 {
 "id": "2026-11-03T10:56|Jazz Against The Machine|Come As You Are (Franksens Late Dub Edit)",
 "t": "2026-11-03T10:56:00+01:00",
@@ -8649,18 +8655,6 @@
 "t": "2026-10-27T11:18:00+01:00",
 "artist": "Jill Scott",
 "title": "Golden"
-},
-{
-"id": "2026-10-27T11:08|Compuphonic|Metropolis",
-"t": "2026-10-27T11:08:00+01:00",
-"artist": "Compuphonic",
-"title": "Metropolis"
-},
-{
-"id": "2026-10-27T11:06|Hannah Jadagu|My Love",
-"t": "2026-10-27T11:06:00+01:00",
-"artist": "Hannah Jadagu",
-"title": "My Love"
 }
 ]
 }
