@@ -1,9 +1,9 @@
 {
-"updated": "2026-11-03T07:24:08.135400+01:00",
+"updated": "2026-11-03T07:36:08.135708+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
-"synced": "2026-11-03T07:20:08.135284+01:00",
+"synced": "2026-11-03T07:36:08.135708+01:00",
 "pruned": "2026-11-03",
 "calls": {
 "2026-10-28": 21,
@@ -12,12 +12,20 @@
 "2026-10-31": 90,
 "2026-11-01": 99,
 "2026-11-02": 197,
-"2026-11-03": 30
+"2026-11-03": 31
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAec6GMcMLaj0UZIPRByaLTcHtbzqNt",
+"snapshot": "AAAedO2523acDzHYVcOoreOKRwqSuwDD",
 "playlist": [
+[
+"2026-11-03T07:25|Black Marble|Jim Carol New Year",
+"spotify:track:3UhXNJjt6Y0sNCEwwhoJnT"
+],
+[
+"2026-11-03T07:18|Alexander IV & IYAMAH|About Us",
+"spotify:track:0c3tXpFKZilDSR3yAphPZt"
+],
 [
 "2026-11-03T07:14|Still Blank|Ain't Quite Right (Edit)",
 "spotify:track:5nWOtBZtVpDEhPBhDZzudd"
@@ -3444,6 +3452,18 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-11-03T07:25|Black Marble|Jim Carol New Year",
+"t": "2026-11-03T07:25:00+01:00",
+"artist": "Black Marble",
+"title": "Jim Carol New Year"
+},
+{
+"id": "2026-11-03T07:18|Alexander IV & IYAMAH|About Us",
+"t": "2026-11-03T07:18:00+01:00",
+"artist": "Alexander IV & IYAMAH",
+"title": "About Us"
+},
 {
 "id": "2026-11-03T07:14|Still Blank|Ain't Quite Right (Edit)",
 "t": "2026-11-03T07:14:00+01:00",
@@ -8543,18 +8563,6 @@
 "t": "2026-10-27T07:41:00+01:00",
 "artist": "Katy J Pearson",
 "title": "Talk Over Town"
-},
-{
-"id": "2026-10-27T07:33|UCHE YARA|Hello Hello",
-"t": "2026-10-27T07:33:00+01:00",
-"artist": "UCHE YARA",
-"title": "Hello Hello"
-},
-{
-"id": "2026-10-27T07:26|Gorillaz|Dare",
-"t": "2026-10-27T07:26:00+01:00",
-"artist": "Gorillaz",
-"title": "Dare"
 }
 ]
 }
