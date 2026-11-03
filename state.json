@@ -1,9 +1,9 @@
 {
-"updated": "2026-11-03T11:12:31.177956+01:00",
+"updated": "2026-11-03T11:24:31.178388+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
-"synced": "2026-11-03T11:00:31.177529+01:00",
+"synced": "2026-11-03T11:16:31.178107+01:00",
 "pruned": "2026-11-03",
 "calls": {
 "2026-10-28": 21,
@@ -12,12 +12,20 @@
 "2026-10-31": 90,
 "2026-11-01": 99,
 "2026-11-02": 197,
-"2026-11-03": 61
+"2026-11-03": 68
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAefKhz6WhQMAlTdwbSO6wR8lRscYe1",
+"snapshot": "AAAegseQXvZ96+5B1CmCVWPZ+OYqwtGc",
 "playlist": [
+[
+"2026-11-03T11:08|Getdown Services|I'm Not Feeling It",
+"spotify:track:7xvlfxgCGYonQklS547AgR"
+],
+[
+"2026-11-03T11:05|Bobby Hebb|Sunny",
+"spotify:track:4vju55Ag7apDL2CfotuE7Q"
+],
 [
 "2026-11-03T10:56|Jazz Against The Machine|Come As You Are (Franksens Late Dub Edit)",
 "spotify:track:6DyFE1RYH0er2e1qkTDYVW"
@@ -35,12 +43,32 @@
 "spotify:track:6WdxUix0wtxxoAMTAcG71I"
 ],
 [
+"2026-11-03T10:29|Fritz Kalkbrenner|Kick It With You",
+"spotify:track:5XeT6esdcC700dngtrumkx"
+],
+[
 "2026-11-03T10:24|Cassia|lovedrunk",
 "spotify:track:73HM4oXqEBDbeKn8GexF3c"
 ],
 [
+"2026-11-03T10:20|Perel|Alles",
+"spotify:track:26gfWRqtpcDB1GVUieK6vG"
+],
+[
+"2026-11-03T10:17|Zoh Amba|Eyes Full",
+"spotify:track:5OlWw39hFkSc8GTULhwbKE"
+],
+[
+"2026-11-03T10:09|The National|Fake Empire",
+"spotify:track:0azRmczvz97kixqOScQ1vQ"
+],
+[
 "2026-11-03T10:05|Moonlight Breakfast|If Not Now, Then When?!",
 "spotify:track:7rqjXsHITwfxR5XoKIGsaJ"
+],
+[
+"2026-11-03T09:57|Amy Winehouse|Love Is A Losing Game",
+"spotify:track:568d3A1d2OAffNAeiAaoZu"
 ],
 [
 "2026-11-03T09:50|UCHE YARA|Hello Hello",
@@ -51,8 +79,20 @@
 "spotify:track:0PokJfPldX6FgGR7covt03"
 ],
 [
+"2026-11-03T09:44|Madison McFerrin|(Please Don't) Leave Me Now",
+"spotify:track:0FsApA1lcgdcUHFlwEnTfE"
+],
+[
 "2026-11-03T09:35|Keshavara|Moondram Sevi",
 "spotify:track:0jpeIdUkge4S8dMS0nkZ6r"
+],
+[
+"2026-11-03T09:25|Harry Styles|Aperture",
+"spotify:track:45Z3m6yazmAi4jZuW0tzW0"
+],
+[
+"2026-11-03T09:18|Anita Baker|Sweet Love",
+"spotify:track:6Ycf7Ch2VlEKlORbz7yfpJ"
 ],
 [
 "2026-11-03T09:12|Antony Szmierek|Chalk (Radio Edit)",
@@ -3544,6 +3584,12 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-11-03T11:08|Getdown Services|I'm Not Feeling It",
+"t": "2026-11-03T11:08:00+01:00",
+"artist": "Getdown Services",
+"title": "I'm Not Feeling It"
+},
 {
 "id": "2026-11-03T11:05|Bobby Hebb|Sunny",
 "t": "2026-11-03T11:05:00+01:00",
@@ -8643,18 +8689,6 @@
 "t": "2026-10-27T11:25:00+01:00",
 "artist": "Grace Cummings",
 "title": "I'm Not Crazy"
-},
-{
-"id": "2026-10-27T11:21|Marlon Magnee|La fureur d'Annie",
-"t": "2026-10-27T11:21:00+01:00",
-"artist": "Marlon Magnee",
-"title": "La fureur d'Annie"
-},
-{
-"id": "2026-10-27T11:18|Jill Scott|Golden",
-"t": "2026-10-27T11:18:00+01:00",
-"artist": "Jill Scott",
-"title": "Golden"
 }
 ]
 }
