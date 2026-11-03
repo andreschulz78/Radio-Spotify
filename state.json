@@ -1,9 +1,9 @@
 {
-"updated": "2026-11-03T12:12:31.179928+01:00",
+"updated": "2026-11-03T12:24:31.180369+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
-"synced": "2026-11-03T12:04:31.179671+01:00",
+"synced": "2026-11-03T12:20:31.180233+01:00",
 "pruned": "2026-11-03",
 "calls": {
 "2026-10-28": 21,
@@ -12,12 +12,28 @@
 "2026-10-31": 90,
 "2026-11-01": 99,
 "2026-11-02": 197,
-"2026-11-03": 77
+"2026-11-03": 81
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAehaq0wk+W+d8csw8ZsLOjxokouaQl",
+"snapshot": "AAAehso93mNL6pmxFHX/oWJdPC6ybVMQ",
 "playlist": [
+[
+"2026-11-03T12:17|Hank|I'll Be Your Friend",
+"spotify:track:0Enw0kKRv5usctzvsLgJwf"
+],
+[
+"2026-11-03T12:14|The Notwist|Pilot",
+"spotify:track:6s5tcWumg0ApmXV17mjMmT"
+],
+[
+"2026-11-03T12:09|Emiliana Torrini|Let's Keep Dancing",
+"spotify:track:2XtJULAuP8vEyCPCqs0md7"
+],
+[
+"2026-11-03T12:05|Ex:Re|Sleep",
+"spotify:track:31hSy1c6SWABIV3W1LqjMz"
+],
 [
 "2026-11-03T11:57|Radiohead|Burn The Witch",
 "spotify:track:4d8Zzjdh0LZ5UYf4Yu7VPI"
@@ -3624,6 +3640,24 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-11-03T12:17|Hank|I'll Be Your Friend",
+"t": "2026-11-03T12:17:00+01:00",
+"artist": "Hank",
+"title": "I'll Be Your Friend"
+},
+{
+"id": "2026-11-03T12:14|The Notwist|Pilot",
+"t": "2026-11-03T12:14:00+01:00",
+"artist": "The Notwist",
+"title": "Pilot"
+},
+{
+"id": "2026-11-03T12:09|Emiliana Torrini|Let's Keep Dancing",
+"t": "2026-11-03T12:09:00+01:00",
+"artist": "Emiliana Torrini",
+"title": "Let's Keep Dancing"
+},
 {
 "id": "2026-11-03T12:05|Ex:Re|Sleep",
 "t": "2026-11-03T12:05:00+01:00",
@@ -8723,24 +8757,6 @@
 "t": "2026-10-27T12:25:00+01:00",
 "artist": "Tank And The Bangas",
 "title": "Ain’t That Deep"
-},
-{
-"id": "2026-10-27T12:22|Philipp Johann Thimm|Have You Ever (feat. KOKA)",
-"t": "2026-10-27T12:22:00+01:00",
-"artist": "Philipp Johann Thimm",
-"title": "Have You Ever (feat. KOKA)"
-},
-{
-"id": "2026-10-27T12:19|Damien Jurado|Lon Bella",
-"t": "2026-10-27T12:19:00+01:00",
-"artist": "Damien Jurado",
-"title": "Lon Bella"
-},
-{
-"id": "2026-10-27T12:15|Kaeto|Distance",
-"t": "2026-10-27T12:15:00+01:00",
-"artist": "Kaeto",
-"title": "Distance"
 }
 ]
 }
