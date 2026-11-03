@@ -1,9 +1,9 @@
 {
-"updated": "2026-11-03T09:12:08.138446+01:00",
+"updated": "2026-11-03T11:00:31.177529+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
-"synced": "2026-11-03T09:12:08.138446+01:00",
+"synced": "2026-11-03T11:00:31.177529+01:00",
 "pruned": "2026-11-03",
 "calls": {
 "2026-10-28": 21,
@@ -12,12 +12,52 @@
 "2026-10-31": 90,
 "2026-11-01": 99,
 "2026-11-02": 197,
-"2026-11-03": 47
+"2026-11-03": 52
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAee/avPQw0udXZvaAFmfetgv8wIZBg",
+"snapshot": "AAAefKhz6WhQMAlTdwbSO6wR8lRscYe1",
 "playlist": [
+[
+"2026-11-03T10:56|Jazz Against The Machine|Come As You Are (Franksens Late Dub Edit)",
+"spotify:track:6DyFE1RYH0er2e1qkTDYVW"
+],
+[
+"2026-11-03T10:49|The Big Moon|F.O.R.E.V.E.R",
+"spotify:track:0UaPOdi1O83vr1oTXaGqgx"
+],
+[
+"2026-11-03T10:37|St Germain|Rose Rouge",
+"spotify:track:0leOkbBw6jpCFCO0dRoJQb"
+],
+[
+"2026-11-03T10:32|The All Seeing I feat. Tony Christie|Walk Like A Panther",
+"spotify:track:6WdxUix0wtxxoAMTAcG71I"
+],
+[
+"2026-11-03T10:24|Cassia|lovedrunk",
+"spotify:track:73HM4oXqEBDbeKn8GexF3c"
+],
+[
+"2026-11-03T10:05|Moonlight Breakfast|If Not Now, Then When?!",
+"spotify:track:7rqjXsHITwfxR5XoKIGsaJ"
+],
+[
+"2026-11-03T09:50|UCHE YARA|Hello Hello",
+"spotify:track:3hadpAb0vS5uYSrfidLaDr"
+],
+[
+"2026-11-03T09:47|Tank And The Bangas|Ain’t That Deep",
+"spotify:track:0PokJfPldX6FgGR7covt03"
+],
+[
+"2026-11-03T09:35|Keshavara|Moondram Sevi",
+"spotify:track:0jpeIdUkge4S8dMS0nkZ6r"
+],
+[
+"2026-11-03T09:12|Antony Szmierek|Chalk (Radio Edit)",
+"spotify:track:5HdeMdzAlNKwCM4L9cjehN"
+],
 [
 "2026-11-03T09:05|Avalon Emerson|Jupiter and Mars",
 "spotify:track:6uzYz5meqzlTltQ6E15uPd"
@@ -3504,6 +3544,114 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-11-03T10:56|Jazz Against The Machine|Come As You Are (Franksens Late Dub Edit)",
+"t": "2026-11-03T10:56:00+01:00",
+"artist": "Jazz Against The Machine",
+"title": "Come As You Are (Franksens Late Dub Edit)"
+},
+{
+"id": "2026-11-03T10:49|The Big Moon|F.O.R.E.V.E.R",
+"t": "2026-11-03T10:49:00+01:00",
+"artist": "The Big Moon",
+"title": "F.O.R.E.V.E.R"
+},
+{
+"id": "2026-11-03T10:37|St Germain|Rose Rouge",
+"t": "2026-11-03T10:37:00+01:00",
+"artist": "St Germain",
+"title": "Rose Rouge"
+},
+{
+"id": "2026-11-03T10:32|The All Seeing I feat. Tony Christie|Walk Like A Panther",
+"t": "2026-11-03T10:32:00+01:00",
+"artist": "The All Seeing I feat. Tony Christie",
+"title": "Walk Like A Panther"
+},
+{
+"id": "2026-11-03T10:29|Fritz Kalkbrenner|Kick It With You",
+"t": "2026-11-03T10:29:00+01:00",
+"artist": "Fritz Kalkbrenner",
+"title": "Kick It With You"
+},
+{
+"id": "2026-11-03T10:24|Cassia|lovedrunk",
+"t": "2026-11-03T10:24:00+01:00",
+"artist": "Cassia",
+"title": "lovedrunk"
+},
+{
+"id": "2026-11-03T10:20|Perel|Alles",
+"t": "2026-11-03T10:20:00+01:00",
+"artist": "Perel",
+"title": "Alles"
+},
+{
+"id": "2026-11-03T10:17|Zoh Amba|Eyes Full",
+"t": "2026-11-03T10:17:00+01:00",
+"artist": "Zoh Amba",
+"title": "Eyes Full"
+},
+{
+"id": "2026-11-03T10:09|The National|Fake Empire",
+"t": "2026-11-03T10:09:00+01:00",
+"artist": "The National",
+"title": "Fake Empire"
+},
+{
+"id": "2026-11-03T10:05|Moonlight Breakfast|If Not Now, Then When?!",
+"t": "2026-11-03T10:05:00+01:00",
+"artist": "Moonlight Breakfast",
+"title": "If Not Now, Then When?!"
+},
+{
+"id": "2026-11-03T09:57|Amy Winehouse|Love Is A Losing Game",
+"t": "2026-11-03T09:57:00+01:00",
+"artist": "Amy Winehouse",
+"title": "Love Is A Losing Game"
+},
+{
+"id": "2026-11-03T09:50|UCHE YARA|Hello Hello",
+"t": "2026-11-03T09:50:00+01:00",
+"artist": "UCHE YARA",
+"title": "Hello Hello"
+},
+{
+"id": "2026-11-03T09:47|Tank And The Bangas|Ain’t That Deep",
+"t": "2026-11-03T09:47:00+01:00",
+"artist": "Tank And The Bangas",
+"title": "Ain’t That Deep"
+},
+{
+"id": "2026-11-03T09:44|Madison McFerrin|(Please Don't) Leave Me Now",
+"t": "2026-11-03T09:44:00+01:00",
+"artist": "Madison McFerrin",
+"title": "(Please Don't) Leave Me Now"
+},
+{
+"id": "2026-11-03T09:35|Keshavara|Moondram Sevi",
+"t": "2026-11-03T09:35:00+01:00",
+"artist": "Keshavara",
+"title": "Moondram Sevi"
+},
+{
+"id": "2026-11-03T09:25|Harry Styles|Aperture",
+"t": "2026-11-03T09:25:00+01:00",
+"artist": "Harry Styles",
+"title": "Aperture"
+},
+{
+"id": "2026-11-03T09:18|Anita Baker|Sweet Love",
+"t": "2026-11-03T09:18:00+01:00",
+"artist": "Anita Baker",
+"title": "Sweet Love"
+},
+{
+"id": "2026-11-03T09:12|Antony Szmierek|Chalk (Radio Edit)",
+"t": "2026-11-03T09:12:00+01:00",
+"artist": "Antony Szmierek",
+"title": "Chalk (Radio Edit)"
+},
 {
 "id": "2026-11-03T09:05|Avalon Emerson|Jupiter and Mars",
 "t": "2026-11-03T09:05:00+01:00",
@@ -8513,102 +8661,6 @@
 "t": "2026-10-27T11:06:00+01:00",
 "artist": "Hannah Jadagu",
 "title": "My Love"
-},
-{
-"id": "2026-10-27T10:57|Ásgeir|Against The Current",
-"t": "2026-10-27T10:57:00+01:00",
-"artist": "Ásgeir",
-"title": "Against The Current"
-},
-{
-"id": "2026-10-27T10:50|Sonny & Cher|I Got You Babe",
-"t": "2026-10-27T10:50:00+01:00",
-"artist": "Sonny & Cher",
-"title": "I Got You Babe"
-},
-{
-"id": "2026-10-27T10:47|SOFY|50/50",
-"t": "2026-10-27T10:47:00+01:00",
-"artist": "SOFY",
-"title": "50/50"
-},
-{
-"id": "2026-10-27T10:34|Anika|Change",
-"t": "2026-10-27T10:34:00+01:00",
-"artist": "Anika",
-"title": "Change"
-},
-{
-"id": "2026-10-27T10:31|Caribou|Got To Change",
-"t": "2026-10-27T10:31:00+01:00",
-"artist": "Caribou",
-"title": "Got To Change"
-},
-{
-"id": "2026-10-27T10:26|The Last Shadow Puppets|Meeting Place",
-"t": "2026-10-27T10:26:00+01:00",
-"artist": "The Last Shadow Puppets",
-"title": "Meeting Place"
-},
-{
-"id": "2026-10-27T10:23|CECI feat. Lords of Lounge|Honey Honey",
-"t": "2026-10-27T10:23:00+01:00",
-"artist": "CECI feat. Lords of Lounge",
-"title": "Honey Honey"
-},
-{
-"id": "2026-10-27T10:17|Fontaines D.C. & ROSALIA|Where Is Gone?",
-"t": "2026-10-27T10:17:00+01:00",
-"artist": "Fontaines D.C. & ROSALIA",
-"title": "Where Is Gone?"
-},
-{
-"id": "2026-10-27T10:08|Joshua Idehen|Could Be Forever",
-"t": "2026-10-27T10:08:00+01:00",
-"artist": "Joshua Idehen",
-"title": "Could Be Forever"
-},
-{
-"id": "2026-10-27T10:04|Luis Laserpower|Mond",
-"t": "2026-10-27T10:04:00+01:00",
-"artist": "Luis Laserpower",
-"title": "Mond"
-},
-{
-"id": "2026-10-27T09:54|Patti Smith|People Have The Power",
-"t": "2026-10-27T09:54:00+01:00",
-"artist": "Patti Smith",
-"title": "People Have The Power"
-},
-{
-"id": "2026-10-27T09:46|Mykki Blanco|Free Ride",
-"t": "2026-10-27T09:46:00+01:00",
-"artist": "Mykki Blanco",
-"title": "Free Ride"
-},
-{
-"id": "2026-10-27T09:42|Lola Young|From Down Here (Radio Edit)",
-"t": "2026-10-27T09:42:00+01:00",
-"artist": "Lola Young",
-"title": "From Down Here (Radio Edit)"
-},
-{
-"id": "2026-10-27T09:33|Money Mark|Hand In Your Head",
-"t": "2026-10-27T09:33:00+01:00",
-"artist": "Money Mark",
-"title": "Hand In Your Head"
-},
-{
-"id": "2026-10-27T09:24|Arcade Fire|Reflektor",
-"t": "2026-10-27T09:24:00+01:00",
-"artist": "Arcade Fire",
-"title": "Reflektor"
-},
-{
-"id": "2026-10-27T09:19|Sydney Minsky Sargeant|I Don't Wanna",
-"t": "2026-10-27T09:19:00+01:00",
-"artist": "Sydney Minsky Sargeant",
-"title": "I Don't Wanna"
 }
 ]
 }
