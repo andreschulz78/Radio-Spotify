@@ -1,5 +1,5 @@
 {
-"updated": "2026-11-03T07:36:08.135708+01:00",
+"updated": "2026-11-03T07:48:08.136035+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
@@ -12,7 +12,7 @@
 "2026-10-31": 90,
 "2026-11-01": 99,
 "2026-11-02": 197,
-"2026-11-03": 31
+"2026-11-03": 32
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
@@ -3452,6 +3452,12 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-11-03T07:35|Arcade Fire|Rebellion",
+"t": "2026-11-03T07:35:00+01:00",
+"artist": "Arcade Fire",
+"title": "Rebellion"
+},
 {
 "id": "2026-11-03T07:25|Black Marble|Jim Carol New Year",
 "t": "2026-11-03T07:25:00+01:00",
@@ -8551,18 +8557,6 @@
 "t": "2026-10-27T07:49:00+01:00",
 "artist": "King Gizzard & The Lizard Wizard",
 "title": "Hate Dancin'"
-},
-{
-"id": "2026-10-27T07:45|Neal Francis|Hide",
-"t": "2026-10-27T07:45:00+01:00",
-"artist": "Neal Francis",
-"title": "Hide"
-},
-{
-"id": "2026-10-27T07:41|Katy J Pearson|Talk Over Town",
-"t": "2026-10-27T07:41:00+01:00",
-"artist": "Katy J Pearson",
-"title": "Talk Over Town"
 }
 ]
 }
