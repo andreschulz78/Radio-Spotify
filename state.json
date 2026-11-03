@@ -1,5 +1,5 @@
 {
-"updated": "2026-11-03T11:48:31.179186+01:00",
+"updated": "2026-11-03T12:00:31.179588+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
@@ -12,7 +12,7 @@
 "2026-10-31": 90,
 "2026-11-01": 99,
 "2026-11-02": 197,
-"2026-11-03": 72
+"2026-11-03": 76
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
@@ -3608,6 +3608,30 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-11-03T11:57|Radiohead|Burn The Witch",
+"t": "2026-11-03T11:57:00+01:00",
+"artist": "Radiohead",
+"title": "Burn The Witch"
+},
+{
+"id": "2026-11-03T11:52|Peki Momés|Ahşap Kutu",
+"t": "2026-11-03T11:52:00+01:00",
+"artist": "Peki Momés",
+"title": "Ahşap Kutu"
+},
+{
+"id": "2026-11-03T11:48|Joan As Police Woman|The Action Man",
+"t": "2026-11-03T11:48:00+01:00",
+"artist": "Joan As Police Woman",
+"title": "The Action Man"
+},
+{
+"id": "2026-11-03T11:44|Charlotte Day Wilson|Work",
+"t": "2026-11-03T11:44:00+01:00",
+"artist": "Charlotte Day Wilson",
+"title": "Work"
+},
 {
 "id": "2026-11-03T11:40|Serebii|Even In The Quiet",
 "t": "2026-11-03T11:40:00+01:00",
@@ -8707,18 +8731,6 @@
 "t": "2026-10-27T12:05:00+01:00",
 "artist": "Ayele",
 "title": "Fractured (Radio Edit)"
-},
-{
-"id": "2026-10-27T11:57|Natalie Jane Hill|Never Left Me",
-"t": "2026-10-27T11:57:00+01:00",
-"artist": "Natalie Jane Hill",
-"title": "Never Left Me"
-},
-{
-"id": "2026-10-27T11:51|Sting|Rushing Water (Radio Edit)",
-"t": "2026-10-27T11:51:00+01:00",
-"artist": "Sting",
-"title": "Rushing Water (Radio Edit)"
 }
 ]
 }
