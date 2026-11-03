@@ -1,9 +1,9 @@
 {
-"updated": "2026-11-03T08:00:08.136381+01:00",
+"updated": "2026-11-03T08:12:08.136725+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
-"synced": "2026-11-03T07:52:08.136149+01:00",
+"synced": "2026-11-03T08:08:08.136601+01:00",
 "pruned": "2026-11-03",
 "calls": {
 "2026-10-28": 21,
@@ -12,12 +12,20 @@
 "2026-10-31": 90,
 "2026-11-01": 99,
 "2026-11-02": 197,
-"2026-11-03": 36
+"2026-11-03": 37
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAedXp0UEmHJ4envR17EgvMuCcMLAr6",
+"snapshot": "AAAednid5wi/6pUDCcVcK0FIS5GT7aCp",
 "playlist": [
+[
+"2026-11-03T07:56|Texas & Wu-Tang Clan|Say What You Want (All Day Everyday)",
+"spotify:track:6h6Ccbgvhibl2XQ0SQNR70"
+],
+[
+"2026-11-03T07:49|The Drums feat. Mareux|It Didn't Matter",
+"spotify:track:10kxTiNUTo4nlEbH1EzoX1"
+],
 [
 "2026-11-03T07:45|Greentea Peng|Whatcha Mean",
 "spotify:track:4PMUCNKZptDE7RwuQazgAT"
@@ -3460,6 +3468,12 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-11-03T08:06|Leon Bridges|Talk it over",
+"t": "2026-11-03T08:06:00+01:00",
+"artist": "Leon Bridges",
+"title": "Talk it over"
+},
 {
 "id": "2026-11-03T07:56|Texas & Wu-Tang Clan|Say What You Want (All Day Everyday)",
 "t": "2026-11-03T07:56:00+01:00",
@@ -8559,18 +8573,6 @@
 "t": "2026-10-27T08:17:00+01:00",
 "artist": "Ibadet Ramadani",
 "title": "Forest"
-},
-{
-"id": "2026-10-27T08:12|Austra & Patrick Holland|Siren Reprise",
-"t": "2026-10-27T08:12:00+01:00",
-"artist": "Austra & Patrick Holland",
-"title": "Siren Reprise"
-},
-{
-"id": "2026-10-27T08:05|When Saints Go Machine|Kelly",
-"t": "2026-10-27T08:05:00+01:00",
-"artist": "When Saints Go Machine",
-"title": "Kelly"
 }
 ]
 }
