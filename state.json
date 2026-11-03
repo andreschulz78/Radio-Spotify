@@ -1,9 +1,9 @@
 {
-"updated": "2026-11-03T12:24:31.180369+01:00",
+"updated": "2026-11-03T12:36:31.180788+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
-"synced": "2026-11-03T12:20:31.180233+01:00",
+"synced": "2026-11-03T12:36:31.180788+01:00",
 "pruned": "2026-11-03",
 "calls": {
 "2026-10-28": 21,
@@ -12,12 +12,20 @@
 "2026-10-31": 90,
 "2026-11-01": 99,
 "2026-11-02": 197,
-"2026-11-03": 81
+"2026-11-03": 84
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAehso93mNL6pmxFHX/oWJdPC6ybVMQ",
+"snapshot": "AAAeiF6jKn4gVy8uLy5fCaAKQs7MYsI9",
 "playlist": [
+[
+"2026-11-03T12:30|Django Django|Year Of The Snake",
+"spotify:track:6PyPvKLOukrS1ZJhxPvtDt"
+],
+[
+"2026-11-03T12:24|JJerome87|Brush Me Like A Horse",
+"spotify:track:1Qx7aZ34LHzx9Dl8IEqm6J"
+],
 [
 "2026-11-03T12:17|Hank|I'll Be Your Friend",
 "spotify:track:0Enw0kKRv5usctzvsLgJwf"
@@ -3343,10 +3351,6 @@
 "spotify:track:20FqWsyuUaQTU5tk4nP6eN"
 ],
 [
-"2026-10-27T12:36|Bicep|Glue",
-"spotify:track:5ZYAufbhkzyhLxk0u2uLqj"
-],
-[
 "2026-10-27T12:32|Automat|Easy Riding",
 "spotify:track:7tGw9tEoxCVCEWKx6apTup"
 ],
@@ -3640,6 +3644,18 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-11-03T12:30|Django Django|Year Of The Snake",
+"t": "2026-11-03T12:30:00+01:00",
+"artist": "Django Django",
+"title": "Year Of The Snake"
+},
+{
+"id": "2026-11-03T12:24|JJerome87|Brush Me Like A Horse",
+"t": "2026-11-03T12:24:00+01:00",
+"artist": "JJerome87",
+"title": "Brush Me Like A Horse"
+},
 {
 "id": "2026-11-03T12:17|Hank|I'll Be Your Friend",
 "t": "2026-11-03T12:17:00+01:00",
@@ -8733,30 +8749,6 @@
 "t": "2026-10-27T12:40:00+01:00",
 "artist": "Jungle",
 "title": "Someday, Somewhere"
-},
-{
-"id": "2026-10-27T12:36|Bicep|Glue",
-"t": "2026-10-27T12:36:00+01:00",
-"artist": "Bicep",
-"title": "Glue"
-},
-{
-"id": "2026-10-27T12:32|Automat|Easy Riding",
-"t": "2026-10-27T12:32:00+01:00",
-"artist": "Automat",
-"title": "Easy Riding"
-},
-{
-"id": "2026-10-27T12:29|Django Django|Cameos",
-"t": "2026-10-27T12:29:00+01:00",
-"artist": "Django Django",
-"title": "Cameos"
-},
-{
-"id": "2026-10-27T12:25|Tank And The Bangas|Ain’t That Deep",
-"t": "2026-10-27T12:25:00+01:00",
-"artist": "Tank And The Bangas",
-"title": "Ain’t That Deep"
 }
 ]
 }
