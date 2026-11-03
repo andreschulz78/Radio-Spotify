@@ -1,9 +1,9 @@
 {
-"updated": "2026-11-03T20:43:15.606848+01:00",
+"updated": "2026-11-03T20:55:15.607188+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
-"synced": "2026-11-03T20:39:15.606750+01:00",
+"synced": "2026-11-03T20:55:15.607188+01:00",
 "pruned": "2026-11-03",
 "calls": {
 "2026-10-28": 21,
@@ -12,12 +12,20 @@
 "2026-10-31": 90,
 "2026-11-01": 99,
 "2026-11-02": 197,
-"2026-11-03": 156
+"2026-11-03": 160
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAepEQQNvdCzUgPrKVLlhKl6linbVMR",
+"snapshot": "AAAepoq0L28oZTWdlUu5vJu05QIC8Uz2",
 "playlist": [
+[
+"2026-11-03T20:52|Fontaines D.C.|Marianne",
+"spotify:track:69rHKcrQpYGfToPThOV1UB"
+],
+[
+"2026-11-03T20:48|The Cardigans|My Favourite Game",
+"spotify:track:0Ui05Ov0s4PnRc4JI3Pilg"
+],
 [
 "2026-11-03T20:33|Pankow|Stille",
 "spotify:track:7nCPOOhTVkz73Jig09ZpcL"
@@ -3319,10 +3327,6 @@
 "spotify:track:5x1jCXkUFQsWiZ0VNRih3E"
 ],
 [
-"2026-10-27T20:55|Moscoman feat. Tom Sanders|What Do We Care",
-"spotify:track:2AeJDk8SG8OmffAO7YkdDm"
-],
-[
 "2026-10-27T20:51|Unkle feat. Liela Moss|Sunrise Always Comes Around",
 "spotify:track:1yomzXTz340doVll0UE5NC"
 ],
@@ -3924,6 +3928,18 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-11-03T20:52|Fontaines D.C.|Marianne",
+"t": "2026-11-03T20:52:00+01:00",
+"artist": "Fontaines D.C.",
+"title": "Marianne"
+},
+{
+"id": "2026-11-03T20:48|The Cardigans|My Favourite Game",
+"t": "2026-11-03T20:48:00+01:00",
+"artist": "The Cardigans",
+"title": "My Favourite Game"
+},
 {
 "id": "2026-11-03T20:33|Pankow|Stille",
 "t": "2026-11-03T20:33:00+01:00",
@@ -8987,24 +9003,6 @@
 "t": "2026-10-28T05:03:00+01:00",
 "artist": "The Hempolics",
 "title": "Get It Right"
-},
-{
-"id": "2026-10-27T20:55|Moscoman feat. Tom Sanders|What Do We Care",
-"t": "2026-10-27T20:55:00+01:00",
-"artist": "Moscoman feat. Tom Sanders",
-"title": "What Do We Care"
-},
-{
-"id": "2026-10-27T20:51|Unkle feat. Liela Moss|Sunrise Always Comes Around",
-"t": "2026-10-27T20:51:00+01:00",
-"artist": "Unkle feat. Liela Moss",
-"title": "Sunrise Always Comes Around"
-},
-{
-"id": "2026-10-27T20:48|Friedberg|Goodwife",
-"t": "2026-10-27T20:48:00+01:00",
-"artist": "Friedberg",
-"title": "Goodwife"
 }
 ]
 }
