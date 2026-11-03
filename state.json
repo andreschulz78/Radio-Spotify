@@ -1,5 +1,5 @@
 {
-"updated": "2026-11-03T06:48:08.134425+01:00",
+"updated": "2026-11-03T07:00:08.134718+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
@@ -12,7 +12,7 @@
 "2026-10-31": 90,
 "2026-11-01": 99,
 "2026-11-02": 197,
-"2026-11-03": 25
+"2026-11-03": 27
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
@@ -3420,6 +3420,30 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-11-03T06:57|The Coral|1000 Years",
+"t": "2026-11-03T06:57:00+01:00",
+"artist": "The Coral",
+"title": "1000 Years"
+},
+{
+"id": "2026-11-03T06:52|Bonaparte|KiOSKO",
+"t": "2026-11-03T06:52:00+01:00",
+"artist": "Bonaparte",
+"title": "KiOSKO"
+},
+{
+"id": "2026-11-03T06:49|Yndling|Time Time Time (I'm in the Palm of Your Hand)",
+"t": "2026-11-03T06:49:00+01:00",
+"artist": "Yndling",
+"title": "Time Time Time (I'm in the Palm of Your Hand)"
+},
+{
+"id": "2026-11-03T06:44|Interpol|Iron City",
+"t": "2026-11-03T06:44:00+01:00",
+"artist": "Interpol",
+"title": "Iron City"
+},
 {
 "id": "2026-11-03T06:38|Crooked Man|The Girl With Better Clothes",
 "t": "2026-11-03T06:38:00+01:00",
@@ -8513,18 +8537,6 @@
 "t": "2026-10-27T07:06:00+01:00",
 "artist": "Beatsteaks",
 "title": "I Don't Care As Long As You Sing"
-},
-{
-"id": "2026-10-27T06:57|The Rodeo|L'hymne À La Moue",
-"t": "2026-10-27T06:57:00+01:00",
-"artist": "The Rodeo",
-"title": "L'hymne À La Moue"
-},
-{
-"id": "2026-10-27T06:51|Villagers|Mountain Out Of A Molehill",
-"t": "2026-10-27T06:51:00+01:00",
-"artist": "Villagers",
-"title": "Mountain Out Of A Molehill"
 }
 ]
 }
