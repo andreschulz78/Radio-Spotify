@@ -1,9 +1,9 @@
 {
-"updated": "2026-11-03T13:36:31.182800+01:00",
+"updated": "2026-11-03T13:48:31.183179+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
-"synced": "2026-11-03T13:24:31.182342+01:00",
+"synced": "2026-11-03T13:40:31.182924+01:00",
 "pruned": "2026-11-03",
 "calls": {
 "2026-10-28": 21,
@@ -12,12 +12,24 @@
 "2026-10-31": 90,
 "2026-11-01": 99,
 "2026-11-02": 197,
-"2026-11-03": 98
+"2026-11-03": 100
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAei2G1gtRR8dbU+8e0dsIHQkO8zeEm",
+"snapshot": "AAAejIv8kcUHn3oeps+DuotqnF6QNmGP",
 "playlist": [
+[
+"2026-11-03T13:31|Model 500|No UFO's",
+"spotify:track:1Ro7L7RPp5P8heOfW4EQKA"
+],
+[
+"2026-11-03T13:26|Natalie Jane Hill|Never Left Me",
+"spotify:track:5mYV6uf5S0ChjFoLJWUJHI"
+],
+[
+"2026-11-03T13:23|Vepsestikk|Fuckin’ gudinne",
+"spotify:track:2odv4HUZWETEB3eZ6G7lZA"
+],
 [
 "2026-11-03T13:11|Paul Hardcastle|19 (Nineteen)",
 "spotify:track:6B2Tn5vzAFhJUuBG3N77op"
@@ -3680,6 +3692,18 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-11-03T13:41|Σtella|Belinda",
+"t": "2026-11-03T13:41:00+01:00",
+"artist": "Σtella",
+"title": "Belinda"
+},
+{
+"id": "2026-11-03T13:38|James Blake|Limit To Your Love",
+"t": "2026-11-03T13:38:00+01:00",
+"artist": "James Blake",
+"title": "Limit To Your Love"
+},
 {
 "id": "2026-11-03T13:31|Model 500|No UFO's",
 "t": "2026-11-03T13:31:00+01:00",
@@ -8773,12 +8797,6 @@
 "t": "2026-10-27T13:49:00+01:00",
 "artist": "Jonathan Jeremiah",
 "title": "Kolkata Bear"
-},
-{
-"id": "2026-10-27T13:44|Amy Winehouse|You Know I'm No Good",
-"t": "2026-10-27T13:44:00+01:00",
-"artist": "Amy Winehouse",
-"title": "You Know I'm No Good"
 }
 ]
 }
