@@ -1,9 +1,9 @@
 {
-"updated": "2026-11-03T05:48:08.132778+01:00",
+"updated": "2026-11-03T06:00:08.133095+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
-"synced": "2026-11-03T05:44:08.132666+01:00",
+"synced": "2026-11-03T06:00:08.133095+01:00",
 "pruned": "2026-11-03",
 "calls": {
 "2026-10-28": 21,
@@ -12,12 +12,24 @@
 "2026-10-31": 90,
 "2026-11-01": 99,
 "2026-11-02": 197,
-"2026-11-03": 8
+"2026-11-03": 10
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAeaRe0N8xYlyxywdemS08+TopA+o4z",
+"snapshot": "AAAeauKx2s8u+jlNB3aF3/aeU4nKMyRw",
 "playlist": [
+[
+"2026-11-03T05:51|Genesis Owusu|Human Again",
+"spotify:track:3uP7jqdt4haiuL4acLhrDY"
+],
+[
+"2026-11-03T05:48|Boxed In|Jist",
+"spotify:track:19jy1fRmEnrI9XNQMFmyND"
+],
+[
+"2026-11-03T05:42|CECI feat. Lords of Lounge|Honey Honey",
+"spotify:track:1I3D3G5pwYFKNYGIYTLRCq"
+],
 [
 "2026-11-03T05:32|Gerry Read feat. Gregor|Taking All My Clothes Off",
 "spotify:track:0a1BTzQAc7NuYreRDWMV63"
@@ -3384,6 +3396,18 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-11-03T05:51|Genesis Owusu|Human Again",
+"t": "2026-11-03T05:51:00+01:00",
+"artist": "Genesis Owusu",
+"title": "Human Again"
+},
+{
+"id": "2026-11-03T05:48|Boxed In|Jist",
+"t": "2026-11-03T05:48:00+01:00",
+"artist": "Boxed In",
+"title": "Jist"
+},
 {
 "id": "2026-11-03T05:42|CECI feat. Lords of Lounge|Honey Honey",
 "t": "2026-11-03T05:42:00+01:00",
@@ -8483,18 +8507,6 @@
 "t": "2026-10-27T06:05:00+01:00",
 "artist": "Alexander IV & IYAMAH",
 "title": "About Us"
-},
-{
-"id": "2026-10-27T05:55|Curtis Harding|Where We Are",
-"t": "2026-10-27T05:55:00+01:00",
-"artist": "Curtis Harding",
-"title": "Where We Are"
-},
-{
-"id": "2026-10-27T05:49|Jamie xx|Dream Night",
-"t": "2026-10-27T05:49:00+01:00",
-"artist": "Jamie xx",
-"title": "Dream Night"
 }
 ]
 }
