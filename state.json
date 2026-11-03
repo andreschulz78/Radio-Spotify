@@ -1,9 +1,9 @@
 {
-"updated": "2026-11-03T05:00:08.131529+01:00",
+"updated": "2026-11-03T05:12:08.131860+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
-"synced": "2026-11-03T04:00:08.129890+01:00",
+"synced": "2026-11-03T05:12:08.131860+01:00",
 "pruned": "2026-11-03",
 "calls": {
 "2026-10-28": 21,
@@ -11,12 +11,20 @@
 "2026-10-30": 178,
 "2026-10-31": 90,
 "2026-11-01": 99,
-"2026-11-02": 193
+"2026-11-02": 196
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAeZtp/bXbE+VWmRTMy4h/DW0/rEfbe",
+"snapshot": "AAAeZ8e1Ft/yZYpjJ53iLkiHdI03rHaO",
 "playlist": [
+[
+"2026-11-03T05:07|James|Just Like Fred Astaire",
+"spotify:track:2AWmDgoeU8L8PXPVniYtHp"
+],
+[
+"2026-11-03T05:03|Sofie Royer|Cowboy Mouth",
+"spotify:track:7qgYR8fHsHyyS5WKvA9srS"
+],
 [
 "2026-11-02T20:56|Placebo|Meds",
 "spotify:track:2jMs4MwSFGWAyPp8JEOrEE"
@@ -3359,6 +3367,18 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-11-03T05:07|James|Just Like Fred Astaire",
+"t": "2026-11-03T05:07:00+01:00",
+"artist": "James",
+"title": "Just Like Fred Astaire"
+},
+{
+"id": "2026-11-03T05:03|Sofie Royer|Cowboy Mouth",
+"t": "2026-11-03T05:03:00+01:00",
+"artist": "Sofie Royer",
+"title": "Cowboy Mouth"
+},
 {
 "id": "2026-11-02T20:56|Placebo|Meds",
 "t": "2026-11-02T20:56:00+01:00",
@@ -8458,24 +8478,6 @@
 "t": "2026-10-27T05:16:00+01:00",
 "artist": "Bonobo feat. Joy Crookes",
 "title": "Always on Your Side"
-},
-{
-"id": "2026-10-27T05:10|The Charlatans|My Beautiful Friend",
-"t": "2026-10-27T05:10:00+01:00",
-"artist": "The Charlatans",
-"title": "My Beautiful Friend"
-},
-{
-"id": "2026-10-27T05:07|Flora Hibberd|Bowling Ball",
-"t": "2026-10-27T05:07:00+01:00",
-"artist": "Flora Hibberd",
-"title": "Bowling Ball"
-},
-{
-"id": "2026-10-27T05:03|Django Django ft. Max Pope|Feel Alright",
-"t": "2026-10-27T05:03:00+01:00",
-"artist": "Django Django ft. Max Pope",
-"title": "Feel Alright"
 }
 ]
 }
