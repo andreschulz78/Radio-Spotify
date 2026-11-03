@@ -1,9 +1,9 @@
 {
-"updated": "2026-11-03T07:12:08.135041+01:00",
+"updated": "2026-11-03T07:24:08.135400+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
-"synced": "2026-11-03T07:04:08.134823+01:00",
+"synced": "2026-11-03T07:20:08.135284+01:00",
 "pruned": "2026-11-03",
 "calls": {
 "2026-10-28": 21,
@@ -12,12 +12,20 @@
 "2026-10-31": 90,
 "2026-11-01": 99,
 "2026-11-02": 197,
-"2026-11-03": 28
+"2026-11-03": 30
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAecu/tZPTptFr8nZ2MHuwMecGtsVDK",
+"snapshot": "AAAec6GMcMLaj0UZIPRByaLTcHtbzqNt",
 "playlist": [
+[
+"2026-11-03T07:14|Still Blank|Ain't Quite Right (Edit)",
+"spotify:track:5nWOtBZtVpDEhPBhDZzudd"
+],
+[
+"2026-11-03T07:06|Phantogram|Earthshaker",
+"spotify:track:3dcAXXsNJb2VgX7k1Okz2L"
+],
 [
 "2026-11-03T06:57|The Coral|1000 Years",
 "spotify:track:1ysC5PDEn80tbLZ2MKcf8E"
@@ -3436,6 +3444,12 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-11-03T07:14|Still Blank|Ain't Quite Right (Edit)",
+"t": "2026-11-03T07:14:00+01:00",
+"artist": "Still Blank",
+"title": "Ain't Quite Right (Edit)"
+},
 {
 "id": "2026-11-03T07:06|Phantogram|Earthshaker",
 "t": "2026-11-03T07:06:00+01:00",
@@ -8541,18 +8555,6 @@
 "t": "2026-10-27T07:26:00+01:00",
 "artist": "Gorillaz",
 "title": "Dare"
-},
-{
-"id": "2026-10-27T07:19|Alewya|Cairo FM",
-"t": "2026-10-27T07:19:00+01:00",
-"artist": "Alewya",
-"title": "Cairo FM"
-},
-{
-"id": "2026-10-27T07:13|Amy Winehouse|Back To Black",
-"t": "2026-10-27T07:13:00+01:00",
-"artist": "Amy Winehouse",
-"title": "Back To Black"
 }
 ]
 }
