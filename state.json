@@ -1,9 +1,9 @@
 {
-"updated": "2026-11-03T08:48:08.137759+01:00",
+"updated": "2026-11-03T09:00:08.138133+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
-"synced": "2026-11-03T08:40:08.137546+01:00",
+"synced": "2026-11-03T08:56:08.138000+01:00",
 "pruned": "2026-11-03",
 "calls": {
 "2026-10-28": 21,
@@ -12,12 +12,20 @@
 "2026-10-31": 90,
 "2026-11-01": 99,
 "2026-11-02": 197,
-"2026-11-03": 42
+"2026-11-03": 45
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAeeGBdthP4cHn7KCDNCCMzkn9Vhw8h",
+"snapshot": "AAAeeQLpPfJbeKErN9mqm4RVTw+zll1X",
 "playlist": [
+[
+"2026-11-03T08:49|Kronstad 23|Høytrykk",
+"spotify:track:6B44D99N2FplJvlfUBIdzV"
+],
+[
+"2026-11-03T08:44|Fink|Looking Too Closely",
+"spotify:track:7bhI6rnvaVw8qgZPn32qE0"
+],
 [
 "2026-11-03T08:35|DJ Seinfeld feat. TS Graye|U Can't Come Home (Radio Edit)",
 "spotify:track:6cB7xUxRQgx1k9WwvRNoPr"
@@ -3492,6 +3500,24 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-11-03T08:56|Living Colour|Solace Of You",
+"t": "2026-11-03T08:56:00+01:00",
+"artist": "Living Colour",
+"title": "Solace Of You"
+},
+{
+"id": "2026-11-03T08:49|Kronstad 23|Høytrykk",
+"t": "2026-11-03T08:49:00+01:00",
+"artist": "Kronstad 23",
+"title": "Høytrykk"
+},
+{
+"id": "2026-11-03T08:44|Fink|Looking Too Closely",
+"t": "2026-11-03T08:44:00+01:00",
+"artist": "Fink",
+"title": "Looking Too Closely"
+},
 {
 "id": "2026-11-03T08:35|DJ Seinfeld feat. TS Graye|U Can't Come Home (Radio Edit)",
 "t": "2026-11-03T08:35:00+01:00",
@@ -8585,18 +8611,6 @@
 "t": "2026-10-27T09:05:00+01:00",
 "artist": "The Drums feat. Mareux",
 "title": "It Didn't Matter"
-},
-{
-"id": "2026-10-27T08:57|Jorja Smith|Don't Leave",
-"t": "2026-10-27T08:57:00+01:00",
-"artist": "Jorja Smith",
-"title": "Don't Leave"
-},
-{
-"id": "2026-10-27T08:49|Suede|The Wild Ones",
-"t": "2026-10-27T08:49:00+01:00",
-"artist": "Suede",
-"title": "The Wild Ones"
 }
 ]
 }
