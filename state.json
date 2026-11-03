@@ -1,9 +1,9 @@
 {
-"updated": "2026-11-03T14:24:31.184366+01:00",
+"updated": "2026-11-03T14:36:31.184765+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
-"synced": "2026-11-03T14:12:31.183967+01:00",
+"synced": "2026-11-03T14:28:31.184513+01:00",
 "pruned": "2026-11-03",
 "calls": {
 "2026-10-28": 21,
@@ -12,12 +12,20 @@
 "2026-10-31": 90,
 "2026-11-01": 99,
 "2026-11-02": 197,
-"2026-11-03": 106
+"2026-11-03": 109
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAejsp4bEifag/IrzbAUjfS0qOM6WFZ",
+"snapshot": "AAAej66rtVXwHFQ52ZG5+tooudhTi5No",
 "playlist": [
+[
+"2026-11-03T14:17|Smidley feat. Lucy Dacus|Capstone",
+"spotify:track:0YosJMrYxYQP7mLXfFo0p1"
+],
+[
+"2026-11-03T14:08|José González|Teardrop",
+"spotify:track:6Veim0li1VszLIPbcp3iKE"
+],
 [
 "2026-11-03T14:05|The Avalanches feat. Karen O|Blue Shadows",
 "spotify:track:5bN5To0VLbNBKQDzJ1Lk6c"
@@ -3716,6 +3724,24 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-11-03T14:31|Alewya|Maktoub",
+"t": "2026-11-03T14:31:00+01:00",
+"artist": "Alewya",
+"title": "Maktoub"
+},
+{
+"id": "2026-11-03T14:25|Benjamin Clementine|In Fact You Know You Gotto Go",
+"t": "2026-11-03T14:25:00+01:00",
+"artist": "Benjamin Clementine",
+"title": "In Fact You Know You Gotto Go"
+},
+{
+"id": "2026-11-03T14:21|Mandalay|Beautiful",
+"t": "2026-11-03T14:21:00+01:00",
+"artist": "Mandalay",
+"title": "Beautiful"
+},
 {
 "id": "2026-11-03T14:17|Smidley feat. Lucy Dacus|Capstone",
 "t": "2026-11-03T14:17:00+01:00",
@@ -8797,24 +8823,6 @@
 "t": "2026-10-27T14:37:00+01:00",
 "artist": "Chinese American Bear",
 "title": "Dance Dance Dance (Edit)"
-},
-{
-"id": "2026-10-27T14:33|Getdown Services|I Cant Die Like That",
-"t": "2026-10-27T14:33:00+01:00",
-"artist": "Getdown Services",
-"title": "I Cant Die Like That"
-},
-{
-"id": "2026-10-27T14:30|Who Made Who|Keep Me In My Plane",
-"t": "2026-10-27T14:30:00+01:00",
-"artist": "Who Made Who",
-"title": "Keep Me In My Plane"
-},
-{
-"id": "2026-10-27T14:27|Dahi feat. Kendrick Lamar & Amber Mark|How To Pray",
-"t": "2026-10-27T14:27:00+01:00",
-"artist": "Dahi feat. Kendrick Lamar & Amber Mark",
-"title": "How To Pray"
 }
 ]
 }
