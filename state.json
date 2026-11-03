@@ -1,5 +1,5 @@
 {
-"updated": "2026-11-03T15:00:31.185548+01:00",
+"updated": "2026-11-03T15:12:31.185932+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
@@ -12,7 +12,7 @@
 "2026-10-31": 90,
 "2026-11-01": 99,
 "2026-11-02": 197,
-"2026-11-03": 113
+"2026-11-03": 116
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
@@ -3752,6 +3752,18 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-11-03T15:05|The Apache Relay|Katie Queen Of Tennessee",
+"t": "2026-11-03T15:05:00+01:00",
+"artist": "The Apache Relay",
+"title": "Katie Queen Of Tennessee"
+},
+{
+"id": "2026-11-03T14:56|A Tribe Called Quest|Enough!!",
+"t": "2026-11-03T14:56:00+01:00",
+"artist": "A Tribe Called Quest",
+"title": "Enough!!"
+},
 {
 "id": "2026-11-03T14:50|AGASSI|The Whole Shebang",
 "t": "2026-11-03T14:50:00+01:00",
@@ -8845,18 +8857,6 @@
 "t": "2026-10-27T15:20:00+01:00",
 "artist": "Ata Canani",
 "title": "Deutsche Freunde"
-},
-{
-"id": "2026-10-27T15:10|Eilis Frawley|Taken, Never Erased",
-"t": "2026-10-27T15:10:00+01:00",
-"artist": "Eilis Frawley",
-"title": "Taken, Never Erased"
-},
-{
-"id": "2026-10-27T15:06|Miike Snow|Song For No One",
-"t": "2026-10-27T15:06:00+01:00",
-"artist": "Miike Snow",
-"title": "Song For No One"
 }
 ]
 }
