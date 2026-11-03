@@ -1,9 +1,9 @@
 {
-"updated": "2026-11-03T05:24:08.132135+01:00",
+"updated": "2026-11-03T05:36:08.132458+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
-"synced": "2026-11-03T05:12:08.131860+01:00",
+"synced": "2026-11-03T05:28:08.132242+01:00",
 "pruned": "2026-11-03",
 "calls": {
 "2026-10-28": 21,
@@ -11,12 +11,21 @@
 "2026-10-30": 178,
 "2026-10-31": 90,
 "2026-11-01": 99,
-"2026-11-02": 196
+"2026-11-02": 197,
+"2026-11-03": 3
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAeZ8e1Ft/yZYpjJ53iLkiHdI03rHaO",
+"snapshot": "AAAeaK/Qp3sWdzFT9KfFC5cEIIPvIbQc",
 "playlist": [
+[
+"2026-11-03T05:18|Ex:Re|Radio Station",
+"spotify:track:2ixKxWKW6ejtIVr5gm00K7"
+],
+[
+"2026-11-03T05:13|Bleachers|Blood Brothers",
+"spotify:track:7aMdmpShbYFRbdJigosY7C"
+],
 [
 "2026-11-03T05:07|James|Just Like Fred Astaire",
 "spotify:track:2AWmDgoeU8L8PXPVniYtHp"
@@ -3367,6 +3376,18 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-11-03T05:27|Bill Withers|Ain't no sunshine",
+"t": "2026-11-03T05:27:00+01:00",
+"artist": "Bill Withers",
+"title": "Ain't no sunshine"
+},
+{
+"id": "2026-11-03T05:18|Ex:Re|Radio Station",
+"t": "2026-11-03T05:18:00+01:00",
+"artist": "Ex:Re",
+"title": "Radio Station"
+},
 {
 "id": "2026-11-03T05:13|Bleachers|Blood Brothers",
 "t": "2026-11-03T05:13:00+01:00",
@@ -8460,18 +8481,6 @@
 "t": "2026-10-27T05:37:00+01:00",
 "artist": "Schandmaul",
 "title": "Willst Du"
-},
-{
-"id": "2026-10-27T05:31|MorMor feat. Celeste|Like Heaven",
-"t": "2026-10-27T05:31:00+01:00",
-"artist": "MorMor feat. Celeste",
-"title": "Like Heaven"
-},
-{
-"id": "2026-10-27T05:26|The Human League|Being Boiled",
-"t": "2026-10-27T05:26:00+01:00",
-"artist": "The Human League",
-"title": "Being Boiled"
 }
 ]
 }
