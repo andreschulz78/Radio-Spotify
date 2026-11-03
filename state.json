@@ -1,9 +1,9 @@
 {
-"updated": "2026-11-03T18:55:15.604356+01:00",
+"updated": "2026-11-03T19:07:15.604602+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
-"synced": "2026-11-03T18:43:15.604029+01:00",
+"synced": "2026-11-03T18:59:15.604440+01:00",
 "pruned": "2026-11-03",
 "calls": {
 "2026-10-28": 21,
@@ -12,12 +12,24 @@
 "2026-10-31": 90,
 "2026-11-01": 99,
 "2026-11-02": 197,
-"2026-11-03": 140
+"2026-11-03": 145
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAema82t5xOgJnZPtHTnxpE+jN3uF0L",
+"snapshot": "AAAenn/4Bx2sYBRSWoFcrJKSyt6UdG6I",
 "playlist": [
+[
+"2026-11-03T18:51|Hether|Falling For The Feeling",
+"spotify:track:2JPMgyBJhIBE5vzKa7jaK6"
+],
+[
+"2026-11-03T18:46|Odd Beholder|Lean Dreams",
+"spotify:track:44KktJfihIKoQrUrnKCzTH"
+],
+[
+"2026-11-03T18:43|John Frusciante|Going Inside",
+"spotify:track:7vxlM6ouhpJy5WMEZqU7vV"
+],
 [
 "2026-11-03T18:37|Ruti|So Much More",
 "spotify:track:0h9Pnob0fMd0VU5KXEBQXN"
@@ -43,12 +55,20 @@
 "spotify:track:4CJnE8k3CDYJspFXXlnFgy"
 ],
 [
+"2026-11-03T18:06|Bombay Bicycle Club|Shuffle",
+"spotify:track:4yYvWFUWMaKMXtoJKJnmZk"
+],
+[
 "2026-11-03T17:57|Grace Cummings|I'm Not Crazy",
 "spotify:track:70QaE9UJ2uTVwC4IGS6yvU"
 ],
 [
 "2026-11-03T17:51|Laing|Du bist dir nicht mehr sicher",
 "spotify:track:1HB2F68vykY836HuvzN8bX"
+],
+[
+"2026-11-03T17:47|Chris Isaak|Dancin'",
+"spotify:track:35tSmHCRK188zhfI97Vh0f"
 ],
 [
 "2026-11-03T17:37|Ella Eyre|Kintsugi",
@@ -67,8 +87,32 @@
 "spotify:track:678wI419HyRL4qSTbXdyLu"
 ],
 [
+"2026-11-03T17:10|War|Low Rider",
+"spotify:track:7Bz8yww6UMbTgTVLG6zbI4"
+],
+[
+"2026-11-03T17:07|The Black Keys|On Repeat",
+"spotify:track:2B5ZNovTMGMW50ml95BP7L"
+],
+[
+"2026-11-03T16:57|Future Islands|Ran",
+"spotify:track:7BTaDw9yXTknLItNtuZFgF"
+],
+[
 "2026-11-03T16:50|Kings Of Leon|My Whole World",
 "spotify:track:2tfc81XZfVReM0kYQqv7o3"
+],
+[
+"2026-11-03T16:45|Emma-Jean Thackray|Save Me",
+"spotify:track:6cyceLjnnc8JzkhhqGTbGz"
+],
+[
+"2026-11-03T16:37|Gotan Project|La Vigüela",
+"spotify:track:2a3YtteFZ62E5yH3WGqUB1"
+],
+[
+"2026-11-03T16:34|Thee Maddkatt Courtship|My Life Muzik",
+"spotify:track:3ewmYX7ZgsZ8BuitJxQfwo"
 ],
 [
 "2026-11-03T16:25|Mike D|I Don't Care",
@@ -3852,6 +3896,12 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-11-03T18:56|Overmono feat. Ruthven|Gem Lingo (ovr now)",
+"t": "2026-11-03T18:56:00+01:00",
+"artist": "Overmono feat. Ruthven",
+"title": "Gem Lingo (ovr now)"
+},
 {
 "id": "2026-11-03T18:51|Hether|Falling For The Feeling",
 "t": "2026-11-03T18:51:00+01:00",
@@ -8963,18 +9013,6 @@
 "t": "2026-10-27T19:26:00+01:00",
 "artist": "Boy Harsher",
 "title": "Tough Luck (When You Don't Call)"
-},
-{
-"id": "2026-10-27T19:05|Kutiman & Dekel|Hope",
-"t": "2026-10-27T19:05:00+01:00",
-"artist": "Kutiman & Dekel",
-"title": "Hope"
-},
-{
-"id": "2026-10-27T18:57|Wild Beasts|Alpha Female",
-"t": "2026-10-27T18:57:00+01:00",
-"artist": "Wild Beasts",
-"title": "Alpha Female"
 }
 ]
 }
