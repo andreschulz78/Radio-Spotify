@@ -1,5 +1,5 @@
 {
-"updated": "2026-11-03T18:43:15.604029+01:00",
+"updated": "2026-11-03T18:55:15.604356+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
@@ -12,7 +12,7 @@
 "2026-10-31": 90,
 "2026-11-01": 99,
 "2026-11-02": 197,
-"2026-11-03": 131
+"2026-11-03": 140
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
@@ -3852,6 +3852,24 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-11-03T18:51|Hether|Falling For The Feeling",
+"t": "2026-11-03T18:51:00+01:00",
+"artist": "Hether",
+"title": "Falling For The Feeling"
+},
+{
+"id": "2026-11-03T18:46|Odd Beholder|Lean Dreams",
+"t": "2026-11-03T18:46:00+01:00",
+"artist": "Odd Beholder",
+"title": "Lean Dreams"
+},
+{
+"id": "2026-11-03T18:43|John Frusciante|Going Inside",
+"t": "2026-11-03T18:43:00+01:00",
+"artist": "John Frusciante",
+"title": "Going Inside"
+},
 {
 "id": "2026-11-03T18:37|Ruti|So Much More",
 "t": "2026-11-03T18:37:00+01:00",
@@ -8957,18 +8975,6 @@
 "t": "2026-10-27T18:57:00+01:00",
 "artist": "Wild Beasts",
 "title": "Alpha Female"
-},
-{
-"id": "2026-10-27T18:51|Mari Froes|Eu vou pro samba, viu?",
-"t": "2026-10-27T18:51:00+01:00",
-"artist": "Mari Froes",
-"title": "Eu vou pro samba, viu?"
-},
-{
-"id": "2026-10-27T18:48|Faithless|Mass Destruction",
-"t": "2026-10-27T18:48:00+01:00",
-"artist": "Faithless",
-"title": "Mass Destruction"
 }
 ]
 }
