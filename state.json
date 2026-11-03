@@ -1,5 +1,5 @@
 {
-"updated": "2026-11-03T08:24:08.137094+01:00",
+"updated": "2026-11-03T08:36:08.137435+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
@@ -12,7 +12,7 @@
 "2026-10-31": 90,
 "2026-11-01": 99,
 "2026-11-02": 197,
-"2026-11-03": 40
+"2026-11-03": 41
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
@@ -3476,6 +3476,24 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-11-03T08:26|Villagers|You Lucky One",
+"t": "2026-11-03T08:26:00+01:00",
+"artist": "Villagers",
+"title": "You Lucky One"
+},
+{
+"id": "2026-11-03T08:22|The Spinners|The Rubberband Man",
+"t": "2026-11-03T08:22:00+01:00",
+"artist": "The Spinners",
+"title": "The Rubberband Man"
+},
+{
+"id": "2026-11-03T08:19|Friedberg|Goodwife",
+"t": "2026-11-03T08:19:00+01:00",
+"artist": "Friedberg",
+"title": "Goodwife"
+},
 {
 "id": "2026-11-03T08:14|Nerina Pallot|Put Your Hands Up",
 "t": "2026-11-03T08:14:00+01:00",
@@ -8563,18 +8581,6 @@
 "t": "2026-10-27T08:43:00+01:00",
 "artist": "Nôze",
 "title": "Danse Avec Moi"
-},
-{
-"id": "2026-10-27T08:34|Bilderbuch|Checkpoint (Nie Game Over)",
-"t": "2026-10-27T08:34:00+01:00",
-"artist": "Bilderbuch",
-"title": "Checkpoint (Nie Game Over)"
-},
-{
-"id": "2026-10-27T08:27|Get Well Soon|Siri, What Ruined The West ?",
-"t": "2026-10-27T08:27:00+01:00",
-"artist": "Get Well Soon",
-"title": "Siri, What Ruined The West ?"
 }
 ]
 }
