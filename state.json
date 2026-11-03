@@ -1,9 +1,9 @@
 {
-"updated": "2026-11-03T06:36:08.134090+01:00",
+"updated": "2026-11-03T06:48:08.134425+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
-"synced": "2026-11-03T06:32:08.133981+01:00",
+"synced": "2026-11-03T06:48:08.134425+01:00",
 "pruned": "2026-11-03",
 "calls": {
 "2026-10-28": 21,
@@ -12,12 +12,20 @@
 "2026-10-31": 90,
 "2026-11-01": 99,
 "2026-11-02": 197,
-"2026-11-03": 18
+"2026-11-03": 25
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAebEKfC4tWCt1NpHcPRmrmCx0deIFD",
+"snapshot": "AAAecVwRGFIBlXscRRnVPaD6mfWkyCy+",
 "playlist": [
+[
+"2026-11-03T06:38|Crooked Man|The Girl With Better Clothes",
+"spotify:track:6f19KCBGPPa3hqqbrVxMEk"
+],
+[
+"2026-11-03T06:35|Ethan French|reckless and arranged - day 56 (extended)",
+"spotify:track:6H2ZSdZkYYW63UM6K2GcFh"
+],
 [
 "2026-11-03T06:25|US3|You Can't Hold Me Down",
 "spotify:track:366E1dYGmFM75DxX0yxlSq"
@@ -3339,10 +3347,6 @@
 "spotify:track:6XiREk9KhKOGI2iRS6ltAb"
 ],
 [
-"2026-10-27T06:48|Jordan Rakei|Enemies",
-"spotify:track:0X9GwAax0c0HPe3iIoDVW6"
-],
-[
 "2026-10-27T06:43|Ibibio Sound Machine|Love",
 "spotify:track:0JGa4KrhqriWUuPcni3I8D"
 ],
@@ -3416,6 +3420,18 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-11-03T06:38|Crooked Man|The Girl With Better Clothes",
+"t": "2026-11-03T06:38:00+01:00",
+"artist": "Crooked Man",
+"title": "The Girl With Better Clothes"
+},
+{
+"id": "2026-11-03T06:35|Ethan French|reckless and arranged - day 56 (extended)",
+"t": "2026-11-03T06:35:00+01:00",
+"artist": "Ethan French",
+"title": "reckless and arranged - day 56 (extended)"
+},
 {
 "id": "2026-11-03T06:25|US3|You Can't Hold Me Down",
 "t": "2026-11-03T06:25:00+01:00",
@@ -8509,18 +8525,6 @@
 "t": "2026-10-27T06:51:00+01:00",
 "artist": "Villagers",
 "title": "Mountain Out Of A Molehill"
-},
-{
-"id": "2026-10-27T06:48|Jordan Rakei|Enemies",
-"t": "2026-10-27T06:48:00+01:00",
-"artist": "Jordan Rakei",
-"title": "Enemies"
-},
-{
-"id": "2026-10-27T06:43|Ibibio Sound Machine|Love",
-"t": "2026-10-27T06:43:00+01:00",
-"artist": "Ibibio Sound Machine",
-"title": "Love"
 }
 ]
 }
