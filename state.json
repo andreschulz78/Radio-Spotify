@@ -1,9 +1,9 @@
 {
-"updated": "2026-11-04T06:27:31.657643+01:00",
+"updated": "2026-11-04T06:39:31.658037+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
-"synced": "2026-11-04T06:23:31.657512+01:00",
+"synced": "2026-11-04T06:39:31.658037+01:00",
 "pruned": "2026-11-04",
 "calls": {
 "2026-10-28": 21,
@@ -13,12 +13,20 @@
 "2026-11-01": 99,
 "2026-11-02": 197,
 "2026-11-03": 174,
-"2026-11-04": 13
+"2026-11-04": 17
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAetidYJ5zw48os8rKb6fD6qmxkN22g",
+"snapshot": "AAAeuIHN3Plv7u0waxVKE4XKWHzUzttB",
 "playlist": [
+[
+"2026-11-04T06:25|Fleetwood Mac|Dreams",
+"spotify:track:5TDZyWDfbQFQJabbPwImVY"
+],
+[
+"2026-11-04T06:19|RY X|Howling (Robin Hannibal Remix)",
+"spotify:track:1NDbkh9bObdqQIYmpFGJLB"
+],
 [
 "2026-11-04T06:14|Lola Young|From Down Here (Radio Edit)",
 "spotify:track:7Hg7l5aOygIHuaNDVFp3ox"
@@ -3312,10 +3320,6 @@
 "spotify:track:5vmRQ3zELMLUQPo2FLQ76x"
 ],
 [
-"2026-10-28T06:39|David Gray|Babylon",
-"spotify:track:0hltBiPrw06vWjtadBn6oe"
-],
-[
 "2026-10-28T06:32|Sassy 009 feat. Blood Orange|Tell Me (Jam City Remix) (Edit)",
 "spotify:track:1pDiRrLro0tlhsPSexB3Zv"
 ],
@@ -3377,6 +3381,12 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-11-04T06:25|Fleetwood Mac|Dreams",
+"t": "2026-11-04T06:25:00+01:00",
+"artist": "Fleetwood Mac",
+"title": "Dreams"
+},
 {
 "id": "2026-11-04T06:19|RY X|Howling (Robin Hannibal Remix)",
 "t": "2026-11-04T06:19:00+01:00",
@@ -8428,18 +8438,6 @@
 "t": "2026-10-28T06:48:00+01:00",
 "artist": "Bronski Beat",
 "title": "Smalltown Boy"
-},
-{
-"id": "2026-10-28T06:39|David Gray|Babylon",
-"t": "2026-10-28T06:39:00+01:00",
-"artist": "David Gray",
-"title": "Babylon"
-},
-{
-"id": "2026-10-28T06:32|Sassy 009 feat. Blood Orange|Tell Me (Jam City Remix) (Edit)",
-"t": "2026-10-28T06:32:00+01:00",
-"artist": "Sassy 009 feat. Blood Orange",
-"title": "Tell Me (Jam City Remix) (Edit)"
 }
 ]
 }
