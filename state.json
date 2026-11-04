@@ -1,9 +1,9 @@
 {
-"updated": "2026-11-04T15:29:15.685195+01:00",
+"updated": "2026-11-04T15:41:15.685628+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
-"synced": "2026-11-04T15:25:15.685054+01:00",
+"synced": "2026-11-04T15:41:15.685628+01:00",
 "pruned": "2026-11-04",
 "calls": {
 "2026-10-28": 21,
@@ -13,12 +13,20 @@
 "2026-11-01": 99,
 "2026-11-02": 197,
 "2026-11-03": 174,
-"2026-11-04": 120
+"2026-11-04": 123
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAe3QbUkAEu/HzGUQVjuRD4unhQALJ5",
+"snapshot": "AAAe3v05WTh3wBHwKIzV2925UjxumEmp",
 "playlist": [
+[
+"2026-11-04T15:31|Leon Bridges|Talk it over",
+"spotify:track:5Bdn8RyTqz4dV7F07EFBP5"
+],
+[
+"2026-11-04T15:23|Bosse|3 Millionen",
+"spotify:track:6VzEUprlLHmKNOW117Lef9"
+],
 [
 "2026-11-04T15:20|Jungle|The Wave",
 "spotify:track:6Ln44Up5lBxNgCsaLoXY6W"
@@ -3697,6 +3705,18 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-11-04T15:31|Leon Bridges|Talk it over",
+"t": "2026-11-04T15:31:00+01:00",
+"artist": "Leon Bridges",
+"title": "Talk it over"
+},
+{
+"id": "2026-11-04T15:23|Bosse|3 Millionen",
+"t": "2026-11-04T15:23:00+01:00",
+"artist": "Bosse",
+"title": "3 Millionen"
+},
 {
 "id": "2026-11-04T15:20|Jungle|The Wave",
 "t": "2026-11-04T15:20:00+01:00",
@@ -8742,12 +8762,6 @@
 "t": "2026-10-28T15:45:00+01:00",
 "artist": "M.I.A.",
 "title": "Borders"
-},
-{
-"id": "2026-10-28T15:31|Father John Misty|I Guess Time Just Makes Fools Of Us All",
-"t": "2026-10-28T15:31:00+01:00",
-"artist": "Father John Misty",
-"title": "I Guess Time Just Makes Fools Of Us All"
 }
 ]
 }
