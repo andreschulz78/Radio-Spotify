@@ -1,9 +1,9 @@
 {
-"updated": "2026-11-04T10:51:31.666595+01:00",
+"updated": "2026-11-04T11:27:31.667722+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
-"synced": "2026-11-04T10:39:31.666178+01:00",
+"synced": "2026-11-04T11:27:31.667722+01:00",
 "pruned": "2026-11-04",
 "calls": {
 "2026-10-28": 21,
@@ -13,12 +13,44 @@
 "2026-11-01": 99,
 "2026-11-02": 197,
 "2026-11-03": 174,
-"2026-11-04": 68
+"2026-11-04": 76
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAey9VBPkT4Lk76pnhBUxHom+hB5c2R",
+"snapshot": "AAAez81boTrI3DoAne2a7DBZE9uRdPrz",
 "playlist": [
+[
+"2026-11-04T11:21|Nichtseattle|Ich mit Brille",
+"spotify:track:1C0Lpji3kKe7rZie1LC4bx"
+],
+[
+"2026-11-04T11:18|Throws|The Harbour",
+"spotify:track:23bbdDQGLwsHTwARTP1PEd"
+],
+[
+"2026-11-04T11:10|Simon & Garfunkel|Mrs. Robinson",
+"spotify:track:2Aa7a2Fr6IAVzngTSoAUNx"
+],
+[
+"2026-11-04T11:07|Pamela.|Better than Before",
+"spotify:track:30ewsn0jSF9Jme7Altrz9X"
+],
+[
+"2026-11-04T10:55|Apparat|Little Feet (Radio Edit)",
+"spotify:track:4urSQgCa5bJxrncJj6V68e"
+],
+[
+"2026-11-04T10:49|Talisco|Stay (Before The Picture Fades)",
+"spotify:track:4lsn9FjW1G9r7OAFyW2KJ7"
+],
+[
+"2026-11-04T10:46|St. Vincent|...At The Holiday Party",
+"spotify:track:5LvNPnYoZA1XCMgUGgAges"
+],
+[
+"2026-11-04T10:34|Leon Bridges|Light The Way",
+"spotify:track:3G1hTUddM2diIyYA0yy9kS"
+],
 [
 "2026-11-04T10:32|Jorja Smith|Don't Leave",
 "spotify:track:44kUOVs16iRf11YjO7aaRW"
@@ -3316,10 +3348,6 @@
 "spotify:track:5QLYq9dWDc4fBxsIHCRCsH"
 ],
 [
-"2026-10-28T10:55|Janis Joplin|Me And Bobby McGee",
-"spotify:track:1IqFh00G2kvvMm8pRMpehA"
-],
-[
 "2026-10-28T10:50|Peki Momés|Ahşap Kutu",
 "spotify:track:0ldb6REGn8guDjkpA21tJx"
 ],
@@ -3521,6 +3549,42 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-11-04T11:21|Nichtseattle|Ich mit Brille",
+"t": "2026-11-04T11:21:00+01:00",
+"artist": "Nichtseattle",
+"title": "Ich mit Brille"
+},
+{
+"id": "2026-11-04T11:18|Throws|The Harbour",
+"t": "2026-11-04T11:18:00+01:00",
+"artist": "Throws",
+"title": "The Harbour"
+},
+{
+"id": "2026-11-04T11:10|Simon & Garfunkel|Mrs. Robinson",
+"t": "2026-11-04T11:10:00+01:00",
+"artist": "Simon & Garfunkel",
+"title": "Mrs. Robinson"
+},
+{
+"id": "2026-11-04T11:07|Pamela.|Better than Before",
+"t": "2026-11-04T11:07:00+01:00",
+"artist": "Pamela.",
+"title": "Better than Before"
+},
+{
+"id": "2026-11-04T10:55|Apparat|Little Feet (Radio Edit)",
+"t": "2026-11-04T10:55:00+01:00",
+"artist": "Apparat",
+"title": "Little Feet (Radio Edit)"
+},
+{
+"id": "2026-11-04T10:49|Talisco|Stay (Before The Picture Fades)",
+"t": "2026-11-04T10:49:00+01:00",
+"artist": "Talisco",
+"title": "Stay (Before The Picture Fades)"
+},
 {
 "id": "2026-11-04T10:46|St. Vincent|...At The Holiday Party",
 "t": "2026-11-04T10:46:00+01:00",
@@ -8548,42 +8612,6 @@
 "t": "2026-10-28T11:32:00+01:00",
 "artist": "Eels",
 "title": "That Look You Give That Guy"
-},
-{
-"id": "2026-10-28T11:26|Benjamin Clementine|In Fact You Know You Gotto Go",
-"t": "2026-10-28T11:26:00+01:00",
-"artist": "Benjamin Clementine",
-"title": "In Fact You Know You Gotto Go"
-},
-{
-"id": "2026-10-28T11:23|Stella Donnelly|Laying Low",
-"t": "2026-10-28T11:23:00+01:00",
-"artist": "Stella Donnelly",
-"title": "Laying Low"
-},
-{
-"id": "2026-10-28T11:19|Pink Floyd|Another brick in the Wall (Part 2)",
-"t": "2026-10-28T11:19:00+01:00",
-"artist": "Pink Floyd",
-"title": "Another brick in the Wall (Part 2)"
-},
-{
-"id": "2026-10-28T11:09|Jamie T|Tallahassee",
-"t": "2026-10-28T11:09:00+01:00",
-"artist": "Jamie T",
-"title": "Tallahassee"
-},
-{
-"id": "2026-10-28T11:05|Kosheen|Addict",
-"t": "2026-10-28T11:05:00+01:00",
-"artist": "Kosheen",
-"title": "Addict"
-},
-{
-"id": "2026-10-28T10:55|Janis Joplin|Me And Bobby McGee",
-"t": "2026-10-28T10:55:00+01:00",
-"artist": "Janis Joplin",
-"title": "Me And Bobby McGee"
 }
 ]
 }
