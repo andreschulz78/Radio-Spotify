@@ -1,9 +1,9 @@
 {
-"updated": "2026-11-04T13:29:15.681212+01:00",
+"updated": "2026-11-04T13:41:15.681600+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
-"synced": "2026-11-04T13:17:15.680797+01:00",
+"synced": "2026-11-04T13:33:15.681337+01:00",
 "pruned": "2026-11-04",
 "calls": {
 "2026-10-28": 21,
@@ -13,12 +13,24 @@
 "2026-11-01": 99,
 "2026-11-02": 197,
 "2026-11-03": 174,
-"2026-11-04": 94
+"2026-11-04": 99
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAe1D0EDC/kfXtKyEishUi9rtPUHQxB",
+"snapshot": "AAAe1XM53C5H5U1saC9/7D2rJb6HoPRZ",
 "playlist": [
+[
+"2026-11-04T13:23|Mac Miller|What's The Use",
+"spotify:track:5fyqqaqTmcNDixYABJO99I"
+],
+[
+"2026-11-04T13:20|Sylvan Esso|Right to Left",
+"spotify:track:78xiuouD9dMXKXGKdDnjqB"
+],
+[
+"2026-11-04T13:16|Gorillaz feat. Fatoumata Diawara|Désolé",
+"spotify:track:1lPjbmk2TylddPKESSIBfm"
+],
 [
 "2026-11-04T13:06|The Rakes|Suspicious Eyes",
 "spotify:track:15Y5nIGFignwUX1bJD5e7A"
@@ -3613,6 +3625,30 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-11-04T13:36|Antony Szmierek|Seminal (Edit)",
+"t": "2026-11-04T13:36:00+01:00",
+"artist": "Antony Szmierek",
+"title": "Seminal (Edit)"
+},
+{
+"id": "2026-11-04T13:33|Tricky feat. Francesca Belmonte|Nicotine Love",
+"t": "2026-11-04T13:33:00+01:00",
+"artist": "Tricky feat. Francesca Belmonte",
+"title": "Nicotine Love"
+},
+{
+"id": "2026-11-04T13:28|Youssou N'Dour & Neneh Cherry|7 Seconds",
+"t": "2026-11-04T13:28:00+01:00",
+"artist": "Youssou N'Dour & Neneh Cherry",
+"title": "7 Seconds"
+},
+{
+"id": "2026-11-04T13:23|Mac Miller|What's The Use",
+"t": "2026-11-04T13:23:00+01:00",
+"artist": "Mac Miller",
+"title": "What's The Use"
+},
 {
 "id": "2026-11-04T13:20|Sylvan Esso|Right to Left",
 "t": "2026-11-04T13:20:00+01:00",
@@ -8634,18 +8670,6 @@
 "t": "2026-10-28T13:44:00+01:00",
 "artist": "J.Bernardt",
 "title": "Love Is On My Mind"
-},
-{
-"id": "2026-10-28T13:37|CECI feat. Lords of Lounge|Honey Honey",
-"t": "2026-10-28T13:37:00+01:00",
-"artist": "CECI feat. Lords of Lounge",
-"title": "Honey Honey"
-},
-{
-"id": "2026-10-28T13:32|Manic Street Preachers|If You Tolerate This Your Children Will Be Next",
-"t": "2026-10-28T13:32:00+01:00",
-"artist": "Manic Street Preachers",
-"title": "If You Tolerate This Your Children Will Be Next"
 }
 ]
 }
