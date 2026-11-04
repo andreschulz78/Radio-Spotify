@@ -1,9 +1,9 @@
 {
-"updated": "2026-11-04T10:27:31.665786+01:00",
+"updated": "2026-11-04T10:39:31.666178+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
-"synced": "2026-11-04T10:23:31.665658+01:00",
+"synced": "2026-11-04T10:39:31.666178+01:00",
 "pruned": "2026-11-04",
 "calls": {
 "2026-10-28": 21,
@@ -13,12 +13,32 @@
 "2026-11-01": 99,
 "2026-11-02": 197,
 "2026-11-03": 174,
-"2026-11-04": 64
+"2026-11-04": 67
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAeypEIn8qmRFPOW+fdRFW/czJIbaon",
+"snapshot": "AAAey9VBPkT4Lk76pnhBUxHom+hB5c2R",
 "playlist": [
+[
+"2026-11-04T10:32|Jorja Smith|Don't Leave",
+"spotify:track:44kUOVs16iRf11YjO7aaRW"
+],
+[
+"2026-11-04T10:27|Noiseshaper feat. Juggla|All A Dem A Do",
+"spotify:track:4NCFSJJEKbCB2gUxHBSqNN"
+],
+[
+"2026-11-04T10:24|Sam Burton|I'm A Stranger",
+"spotify:track:4hAYraVhSzgMTdvftCcqKo"
+],
+[
+"2026-11-04T10:20|Chet Faker & Marcus Marr|The Trouble With Us",
+"spotify:track:3InG9qXfDFKfDrzzUJh6tD"
+],
+[
+"2026-11-04T10:17|Inxs|Beautiful Girl",
+"spotify:track:4FtcubXLzT1821D5vLK9H8"
+],
 [
 "2026-11-04T10:09|Jamie Drake|Easy Target",
 "spotify:track:0IlQJgTcFIRGdnrzNvu1cN"
@@ -3501,6 +3521,24 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-11-04T10:32|Jorja Smith|Don't Leave",
+"t": "2026-11-04T10:32:00+01:00",
+"artist": "Jorja Smith",
+"title": "Don't Leave"
+},
+{
+"id": "2026-11-04T10:27|Noiseshaper feat. Juggla|All A Dem A Do",
+"t": "2026-11-04T10:27:00+01:00",
+"artist": "Noiseshaper feat. Juggla",
+"title": "All A Dem A Do"
+},
+{
+"id": "2026-11-04T10:24|Sam Burton|I'm A Stranger",
+"t": "2026-11-04T10:24:00+01:00",
+"artist": "Sam Burton",
+"title": "I'm A Stranger"
+},
 {
 "id": "2026-11-04T10:20|Chet Faker & Marcus Marr|The Trouble With Us",
 "t": "2026-11-04T10:20:00+01:00",
@@ -8546,18 +8584,6 @@
 "t": "2026-10-28T10:46:00+01:00",
 "artist": "Bulgarian Cartrader",
 "title": "Golden Rope"
-},
-{
-"id": "2026-10-28T10:34|Cults|Trials",
-"t": "2026-10-28T10:34:00+01:00",
-"artist": "Cults",
-"title": "Trials"
-},
-{
-"id": "2026-10-28T10:31|Dr. Ring-Ding & The Senior Allstars|Careless Love",
-"t": "2026-10-28T10:31:00+01:00",
-"artist": "Dr. Ring-Ding & The Senior Allstars",
-"title": "Careless Love"
 }
 ]
 }
