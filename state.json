@@ -1,5 +1,5 @@
 {
-"updated": "2026-11-04T12:29:15.679300+01:00",
+"updated": "2026-11-04T12:41:15.679671+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
@@ -13,7 +13,7 @@
 "2026-11-01": 99,
 "2026-11-02": 197,
 "2026-11-03": 174,
-"2026-11-04": 80
+"2026-11-04": 85
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
@@ -3577,6 +3577,24 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-11-04T12:35|Fontaines D.C. & ROSALIA|Where Is Gone?",
+"t": "2026-11-04T12:35:00+01:00",
+"artist": "Fontaines D.C. & ROSALIA",
+"title": "Where Is Gone?"
+},
+{
+"id": "2026-11-04T12:31|John Legend|Who Did That to You",
+"t": "2026-11-04T12:31:00+01:00",
+"artist": "John Legend",
+"title": "Who Did That to You"
+},
+{
+"id": "2026-11-04T12:26|Element Of Crime|Delmenhorst",
+"t": "2026-11-04T12:26:00+01:00",
+"artist": "Element Of Crime",
+"title": "Delmenhorst"
+},
 {
 "id": "2026-11-04T12:19|Ibeyi|Hurry Hurry",
 "t": "2026-11-04T12:19:00+01:00",
@@ -8604,30 +8622,6 @@
 "t": "2026-10-28T12:42:00+01:00",
 "artist": "Udo Lindenberg",
 "title": "Ich lieb' dich überhaupt nicht mehr"
-},
-{
-"id": "2026-10-28T12:40|The Doors|A feast of friends",
-"t": "2026-10-28T12:40:00+01:00",
-"artist": "The Doors",
-"title": "A feast of friends"
-},
-{
-"id": "2026-10-28T12:38|Róisín Murphy|The Universe (Radio Edit)",
-"t": "2026-10-28T12:38:00+01:00",
-"artist": "Róisín Murphy",
-"title": "The Universe (Radio Edit)"
-},
-{
-"id": "2026-10-28T12:34|Mattafix|Big City Life",
-"t": "2026-10-28T12:34:00+01:00",
-"artist": "Mattafix",
-"title": "Big City Life"
-},
-{
-"id": "2026-10-28T12:31|Raoul Vignal|Red Fresco",
-"t": "2026-10-28T12:31:00+01:00",
-"artist": "Raoul Vignal",
-"title": "Red Fresco"
 }
 ]
 }
