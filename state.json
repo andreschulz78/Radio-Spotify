@@ -1,9 +1,9 @@
 {
-"updated": "2026-11-04T05:23:23.177149+01:00",
+"updated": "2026-11-04T05:35:23.177467+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
-"synced": "2026-11-04T05:19:23.177024+01:00",
+"synced": "2026-11-04T05:35:23.177467+01:00",
 "pruned": "2026-11-04",
 "calls": {
 "2026-10-28": 21,
@@ -12,12 +12,25 @@
 "2026-10-31": 90,
 "2026-11-01": 99,
 "2026-11-02": 197,
-"2026-11-03": 174
+"2026-11-03": 174,
+"2026-11-04": 5
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAesRuSwbsKKfSb2UgBg7aOvpBA9xV/",
+"snapshot": "AAAes+b6M6wIsHoNR52pjNFMuZ2VR9Q3",
 "playlist": [
+[
+"2026-11-04T05:28|54 Ultra|Tell Me",
+"spotify:track:6iXIvHGsLMJ89TuW1S9E3C"
+],
+[
+"2026-11-04T05:24|Travis|Why Does It Always Rain On Me?",
+"spotify:track:0LhsJM8IE4zdHB0igh2EGa"
+],
+[
+"2026-11-04T05:16|Lady Wray|You're Gonna Win",
+"spotify:track:6rD4rSzKgu7YSy9RR5ICsS"
+],
 [
 "2026-11-04T05:12|Deki Alem|Mr Man",
 "spotify:track:37zztHh0JkdPuOYGzkLYKo"
@@ -3307,10 +3320,6 @@
 "spotify:track:5MkC4l5EgOeLTd0CNb7IJz"
 ],
 [
-"2026-10-28T05:35|Étienne Daho|Des attractions désastre",
-"spotify:track:26OB7Wz0T7vbYZDQHiRvAG"
-],
-[
 "2026-10-28T05:31|Bonaparte|KiOSKO",
 "spotify:track:5seYGZRYuD3oPMxryJdvOk"
 ],
@@ -3336,6 +3345,18 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-11-04T05:28|54 Ultra|Tell Me",
+"t": "2026-11-04T05:28:00+01:00",
+"artist": "54 Ultra",
+"title": "Tell Me"
+},
+{
+"id": "2026-11-04T05:24|Travis|Why Does It Always Rain On Me?",
+"t": "2026-11-04T05:24:00+01:00",
+"artist": "Travis",
+"title": "Why Does It Always Rain On Me?"
+},
 {
 "id": "2026-11-04T05:16|Lady Wray|You're Gonna Win",
 "t": "2026-11-04T05:16:00+01:00",
@@ -8387,24 +8408,6 @@
 "t": "2026-10-28T05:39:00+01:00",
 "artist": "Planningtorock feat. Romy",
 "title": "The One"
-},
-{
-"id": "2026-10-28T05:35|Étienne Daho|Des attractions désastre",
-"t": "2026-10-28T05:35:00+01:00",
-"artist": "Étienne Daho",
-"title": "Des attractions désastre"
-},
-{
-"id": "2026-10-28T05:31|Bonaparte|KiOSKO",
-"t": "2026-10-28T05:31:00+01:00",
-"artist": "Bonaparte",
-"title": "KiOSKO"
-},
-{
-"id": "2026-10-28T05:26|Get Well Soon|One For The Workout (Radio Edit)",
-"t": "2026-10-28T05:26:00+01:00",
-"artist": "Get Well Soon",
-"title": "One For The Workout (Radio Edit)"
 }
 ]
 }
