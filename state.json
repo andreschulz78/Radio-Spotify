@@ -1,9 +1,9 @@
 {
-"updated": "2026-11-04T16:53:15.687960+01:00",
+"updated": "2026-11-04T17:05:15.688346+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
-"synced": "2026-11-04T16:45:15.687701+01:00",
+"synced": "2026-11-04T17:01:15.688214+01:00",
 "pruned": "2026-11-04",
 "calls": {
 "2026-10-28": 21,
@@ -13,12 +13,24 @@
 "2026-11-01": 99,
 "2026-11-02": 197,
 "2026-11-03": 174,
-"2026-11-04": 137
+"2026-11-04": 140
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAe41rJZSXw/uO9a1e02lNDOPrCo9GP",
+"snapshot": "AAAe5Ds9vgsJH67KXpKa+vM3C8dq6PFu",
 "playlist": [
+[
+"2026-11-04T16:57|Groove Armada|At The River (Radio Edit)",
+"spotify:track:0KIPa0YuQ5QFmlAqRyXNd9"
+],
+[
+"2026-11-04T16:50|Jamie xx|Dream Night",
+"spotify:track:2DewmibGFWxakcxvVyf2Tv"
+],
+[
+"2026-11-04T16:46|JGrrey feat. Bel Cobain|Take My Hand",
+"spotify:track:0i4SCqKHjbBrPjUX4RPRq3"
+],
 [
 "2026-11-04T16:43|Kevin Morby|I Have Been To The Mountain",
 "spotify:track:2umTklGNx0IiiTFFVNZNlC"
@@ -3745,6 +3757,18 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-11-04T16:57|Groove Armada|At The River (Radio Edit)",
+"t": "2026-11-04T16:57:00+01:00",
+"artist": "Groove Armada",
+"title": "At The River (Radio Edit)"
+},
+{
+"id": "2026-11-04T16:50|Jamie xx|Dream Night",
+"t": "2026-11-04T16:50:00+01:00",
+"artist": "Jamie xx",
+"title": "Dream Night"
+},
 {
 "id": "2026-11-04T16:46|JGrrey feat. Bel Cobain|Take My Hand",
 "t": "2026-11-04T16:46:00+01:00",
@@ -8790,18 +8814,6 @@
 "t": "2026-10-28T17:10:00+01:00",
 "artist": "The Dead South",
 "title": "In Hell I'll Be Good Company"
-},
-{
-"id": "2026-10-28T17:05|Pamela.|Better than Before",
-"t": "2026-10-28T17:05:00+01:00",
-"artist": "Pamela.",
-"title": "Better than Before"
-},
-{
-"id": "2026-10-28T16:55|Cass McCombs|Peace",
-"t": "2026-10-28T16:55:00+01:00",
-"artist": "Cass McCombs",
-"title": "Peace"
 }
 ]
 }
