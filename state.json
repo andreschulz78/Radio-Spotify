@@ -1,9 +1,9 @@
 {
-"updated": "2026-11-04T12:41:15.679671+01:00",
+"updated": "2026-11-04T12:53:15.680058+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
-"synced": "2026-11-04T12:29:15.679300+01:00",
+"synced": "2026-11-04T12:45:15.679799+01:00",
 "pruned": "2026-11-04",
 "calls": {
 "2026-10-28": 21,
@@ -13,12 +13,24 @@
 "2026-11-01": 99,
 "2026-11-02": 197,
 "2026-11-03": 174,
-"2026-11-04": 85
+"2026-11-04": 89
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAe0IZyNkVrO5XjxrCIQL8zrX11UZRi",
+"snapshot": "AAAe0qBQowCImzZ0jiRxMpoXn5xQQVUW",
 "playlist": [
+[
+"2026-11-04T12:40|The Cure|I Can Never Say Goodbye",
+"spotify:track:1gXS1LBxTyfZ7Lf380CR9E"
+],
+[
+"2026-11-04T12:35|Fontaines D.C. & ROSALIA|Where Is Gone?",
+"spotify:track:6ZH1yeWUf3Xp2XO0EZk91i"
+],
+[
+"2026-11-04T12:26|Element Of Crime|Delmenhorst",
+"spotify:track:4l6y3dhGfu2GRLqzmUa6Ma"
+],
 [
 "2026-11-04T12:19|Ibeyi|Hurry Hurry",
 "spotify:track:4BGA7VW330Eu1kaFNi98cG"
@@ -38,6 +50,14 @@
 [
 "2026-11-04T11:44|Roisín Murphy|Murphy's Law",
 "spotify:track:4vPHYmIczB9quxzX6JxO5Q"
+],
+[
+"2026-11-04T11:37|Robert Plant|29 Palms",
+"spotify:track:5hrsqusQlSqlWpvtjJpxPq"
+],
+[
+"2026-11-04T11:35|Nabiha|Deep Sleep",
+"spotify:track:5q3Xr2CNtjm1CspKd1hSix"
 ],
 [
 "2026-11-04T11:30|Gabriels|Break It",
@@ -3577,6 +3597,18 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-11-04T12:46|The Streets|I Love You More Than You Like Me",
+"t": "2026-11-04T12:46:00+01:00",
+"artist": "The Streets",
+"title": "I Love You More Than You Like Me"
+},
+{
+"id": "2026-11-04T12:40|The Cure|I Can Never Say Goodbye",
+"t": "2026-11-04T12:40:00+01:00",
+"artist": "The Cure",
+"title": "I Can Never Say Goodbye"
+},
 {
 "id": "2026-11-04T12:35|Fontaines D.C. & ROSALIA|Where Is Gone?",
 "t": "2026-11-04T12:35:00+01:00",
@@ -8604,24 +8636,6 @@
 "t": "2026-10-28T12:54:00+01:00",
 "artist": "Tikhet",
 "title": "Burndowner"
-},
-{
-"id": "2026-10-28T12:50|Brimheim|Literally Everything",
-"t": "2026-10-28T12:50:00+01:00",
-"artist": "Brimheim",
-"title": "Literally Everything"
-},
-{
-"id": "2026-10-28T12:46|Boards Of Canada|Prophecy At 1420 MHz (Edit)",
-"t": "2026-10-28T12:46:00+01:00",
-"artist": "Boards Of Canada",
-"title": "Prophecy At 1420 MHz (Edit)"
-},
-{
-"id": "2026-10-28T12:42|Udo Lindenberg|Ich lieb' dich überhaupt nicht mehr",
-"t": "2026-10-28T12:42:00+01:00",
-"artist": "Udo Lindenberg",
-"title": "Ich lieb' dich überhaupt nicht mehr"
 }
 ]
 }
