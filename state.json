@@ -1,9 +1,9 @@
 {
-"updated": "2026-11-04T05:47:23.177817+01:00",
+"updated": "2026-11-04T05:59:23.178107+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
-"synced": "2026-11-04T05:35:23.177467+01:00",
+"synced": "2026-11-04T05:51:23.177921+01:00",
 "pruned": "2026-11-04",
 "calls": {
 "2026-10-28": 21,
@@ -13,12 +13,24 @@
 "2026-11-01": 99,
 "2026-11-02": 197,
 "2026-11-03": 174,
-"2026-11-04": 7
+"2026-11-04": 9
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAes+b6M6wIsHoNR52pjNFMuZ2VR9Q3",
+"snapshot": "AAAetE9ArguB8sqcFMXampc7H3tlRLAv",
 "playlist": [
+[
+"2026-11-04T05:43|Bat For Lashes|Daniel",
+"spotify:track:3jgGvWC8icBVtEj0ZzCvBf"
+],
+[
+"2026-11-04T05:39|Torfrock|Preßlufthammer B-B-Bernhard (live)",
+"spotify:track:1gLNV5LYL5tLVfOs4NPiUO"
+],
+[
+"2026-11-04T05:33|Bloc Party|Two More Years",
+"spotify:track:52c93CNF0GfJIc1udPLP95"
+],
 [
 "2026-11-04T05:28|54 Ultra|Tell Me",
 "spotify:track:6iXIvHGsLMJ89TuW1S9E3C"
@@ -3345,6 +3357,24 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-11-04T05:53|Dry Cleaning|Gary Ashby",
+"t": "2026-11-04T05:53:00+01:00",
+"artist": "Dry Cleaning",
+"title": "Gary Ashby"
+},
+{
+"id": "2026-11-04T05:50|Kelis Feat. Cee-Lo|Lil Star",
+"t": "2026-11-04T05:50:00+01:00",
+"artist": "Kelis Feat. Cee-Lo",
+"title": "Lil Star"
+},
+{
+"id": "2026-11-04T05:43|Bat For Lashes|Daniel",
+"t": "2026-11-04T05:43:00+01:00",
+"artist": "Bat For Lashes",
+"title": "Daniel"
+},
 {
 "id": "2026-11-04T05:39|Torfrock|Preßlufthammer B-B-Bernhard (live)",
 "t": "2026-11-04T05:39:00+01:00",
@@ -8396,18 +8426,6 @@
 "t": "2026-10-28T06:04:00+01:00",
 "artist": "Emma Louise",
 "title": "Jungle"
-},
-{
-"id": "2026-10-28T05:55|Interpol|Iron City",
-"t": "2026-10-28T05:55:00+01:00",
-"artist": "Interpol",
-"title": "Iron City"
-},
-{
-"id": "2026-10-28T05:49|The Big Moon|F.O.R.E.V.E.R",
-"t": "2026-10-28T05:49:00+01:00",
-"artist": "The Big Moon",
-"title": "F.O.R.E.V.E.R"
 }
 ]
 }
