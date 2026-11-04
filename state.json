@@ -1,9 +1,9 @@
 {
-"updated": "2026-11-04T07:03:31.658822+01:00",
+"updated": "2026-11-04T07:15:31.659230+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
-"synced": "2026-11-04T06:55:31.658567+01:00",
+"synced": "2026-11-04T07:11:31.659075+01:00",
 "pruned": "2026-11-04",
 "calls": {
 "2026-10-28": 21,
@@ -13,12 +13,20 @@
 "2026-11-01": 99,
 "2026-11-02": 197,
 "2026-11-03": 174,
-"2026-11-04": 24
+"2026-11-04": 26
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAeuZerAMmTa9TkUtMcZmmgU90ZGQPb",
+"snapshot": "AAAeujgJOWbc/8S1VEchI5TtKE8MISsP",
 "playlist": [
+[
+"2026-11-04T07:05|Death Cab For Cutie|Pep Talk",
+"spotify:track:3ra7fDLqfUHBWBL702fOAn"
+],
+[
+"2026-11-04T06:56|Jonathan Jeremiah|Good Day",
+"spotify:track:48U9LaxtNKyy2yp8wKEWuJ"
+],
 [
 "2026-11-04T06:50|Yazmin Lacey feat. TYSON|Water",
 "spotify:track:0iPRaGu0MkIfLHRjFfWedg"
@@ -3397,6 +3405,18 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-11-04T07:12|Tunde Adebimpe|God Knows",
+"t": "2026-11-04T07:12:00+01:00",
+"artist": "Tunde Adebimpe",
+"title": "God Knows"
+},
+{
+"id": "2026-11-04T07:05|Death Cab For Cutie|Pep Talk",
+"t": "2026-11-04T07:05:00+01:00",
+"artist": "Death Cab For Cutie",
+"title": "Pep Talk"
+},
 {
 "id": "2026-11-04T06:56|Jonathan Jeremiah|Good Day",
 "t": "2026-11-04T06:56:00+01:00",
@@ -8460,18 +8480,6 @@
 "t": "2026-10-28T07:17:00+01:00",
 "artist": "Wallners",
 "title": "Movie Stars"
-},
-{
-"id": "2026-10-28T07:12|Lola Young|From Down Here (Radio Edit)",
-"t": "2026-10-28T07:12:00+01:00",
-"artist": "Lola Young",
-"title": "From Down Here (Radio Edit)"
-},
-{
-"id": "2026-10-28T07:06|Tele|Im Radio",
-"t": "2026-10-28T07:06:00+01:00",
-"artist": "Tele",
-"title": "Im Radio"
 }
 ]
 }
