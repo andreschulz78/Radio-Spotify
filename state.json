@@ -1,9 +1,9 @@
 {
-"updated": "2026-11-04T08:51:31.662409+01:00",
+"updated": "2026-11-04T09:03:31.662931+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
-"synced": "2026-11-04T08:47:31.662260+01:00",
+"synced": "2026-11-04T09:03:31.662931+01:00",
 "pruned": "2026-11-04",
 "calls": {
 "2026-10-28": 21,
@@ -13,12 +13,24 @@
 "2026-11-01": 99,
 "2026-11-02": 197,
 "2026-11-03": 174,
-"2026-11-04": 39
+"2026-11-04": 41
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAewaHLNqrC3wIrbXBdJdCu9tlokfBe",
+"snapshot": "AAAewmaU4uT+6Lo+aUUBQf2yAvKGxxx+",
 "playlist": [
+[
+"2026-11-04T08:57|Feist|My Moon My Man",
+"spotify:track:4fQVQKIiidREPI0MhFEuDn"
+],
+[
+"2026-11-04T08:52|Dahi feat. Kendrick Lamar & Amber Mark|How To Pray",
+"spotify:track:5M8eNQ6wLYPT9D60hbcxVU"
+],
+[
+"2026-11-04T08:48|MorMor feat. Celeste|Like Heaven",
+"spotify:track:5pZGuhprytXKB7QRMul3jq"
+],
 [
 "2026-11-04T08:42|Anderson .Paak & Cordae|A Good Day",
 "spotify:track:4CrnExkcZkg6Aek113hAWl"
@@ -3453,6 +3465,24 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-11-04T08:57|Feist|My Moon My Man",
+"t": "2026-11-04T08:57:00+01:00",
+"artist": "Feist",
+"title": "My Moon My Man"
+},
+{
+"id": "2026-11-04T08:52|Dahi feat. Kendrick Lamar & Amber Mark|How To Pray",
+"t": "2026-11-04T08:52:00+01:00",
+"artist": "Dahi feat. Kendrick Lamar & Amber Mark",
+"title": "How To Pray"
+},
+{
+"id": "2026-11-04T08:48|MorMor feat. Celeste|Like Heaven",
+"t": "2026-11-04T08:48:00+01:00",
+"artist": "MorMor feat. Celeste",
+"title": "Like Heaven"
+},
 {
 "id": "2026-11-04T08:42|Anderson .Paak & Cordae|A Good Day",
 "t": "2026-11-04T08:42:00+01:00",
@@ -8504,12 +8534,6 @@
 "t": "2026-10-28T09:05:00+01:00",
 "artist": "Leon Bridges",
 "title": "Light The Way"
-},
-{
-"id": "2026-10-28T08:56|Jonathan Jeremiah|Youngblood",
-"t": "2026-10-28T08:56:00+01:00",
-"artist": "Jonathan Jeremiah",
-"title": "Youngblood"
 }
 ]
 }
