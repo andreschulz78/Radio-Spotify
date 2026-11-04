@@ -1,9 +1,9 @@
 {
-"updated": "2026-11-04T11:39:31.668122+01:00",
+"updated": "2026-11-04T12:29:15.679300+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
-"synced": "2026-11-04T11:27:31.667722+01:00",
+"synced": "2026-11-04T12:29:15.679300+01:00",
 "pruned": "2026-11-04",
 "calls": {
 "2026-10-28": 21,
@@ -13,12 +13,40 @@
 "2026-11-01": 99,
 "2026-11-02": 197,
 "2026-11-03": 174,
-"2026-11-04": 76
+"2026-11-04": 80
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAez81boTrI3DoAne2a7DBZE9uRdPrz",
+"snapshot": "AAAe0IZyNkVrO5XjxrCIQL8zrX11UZRi",
 "playlist": [
+[
+"2026-11-04T12:19|Ibeyi|Hurry Hurry",
+"spotify:track:4BGA7VW330Eu1kaFNi98cG"
+],
+[
+"2026-11-04T12:09|Black Pumas|Colors",
+"spotify:track:7mzocQrHwKd19aLrjT3isS"
+],
+[
+"2026-11-04T12:06|Hot Chip|Eleanor (Edit)",
+"spotify:track:4kLyAbRTMMfmAH5Fjm3cYU"
+],
+[
+"2026-11-04T11:56|Wallners|Movie Stars",
+"spotify:track:7xesRbRs3O1MLOgWqMSN7a"
+],
+[
+"2026-11-04T11:44|Roisín Murphy|Murphy's Law",
+"spotify:track:4vPHYmIczB9quxzX6JxO5Q"
+],
+[
+"2026-11-04T11:30|Gabriels|Break It",
+"spotify:track:5WiVqnjVzB9tNXqeSKZgxH"
+],
+[
+"2026-11-04T11:26|Theophilus London feat. Ariel Pink|Revenge",
+"spotify:track:4WJgcVQ3oAtvlWuB2KgYi0"
+],
 [
 "2026-11-04T11:21|Nichtseattle|Ich mit Brille",
 "spotify:track:1C0Lpji3kKe7rZie1LC4bx"
@@ -3549,6 +3577,48 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-11-04T12:19|Ibeyi|Hurry Hurry",
+"t": "2026-11-04T12:19:00+01:00",
+"artist": "Ibeyi",
+"title": "Hurry Hurry"
+},
+{
+"id": "2026-11-04T12:09|Black Pumas|Colors",
+"t": "2026-11-04T12:09:00+01:00",
+"artist": "Black Pumas",
+"title": "Colors"
+},
+{
+"id": "2026-11-04T12:06|Hot Chip|Eleanor (Edit)",
+"t": "2026-11-04T12:06:00+01:00",
+"artist": "Hot Chip",
+"title": "Eleanor (Edit)"
+},
+{
+"id": "2026-11-04T11:56|Wallners|Movie Stars",
+"t": "2026-11-04T11:56:00+01:00",
+"artist": "Wallners",
+"title": "Movie Stars"
+},
+{
+"id": "2026-11-04T11:44|Roisín Murphy|Murphy's Law",
+"t": "2026-11-04T11:44:00+01:00",
+"artist": "Roisín Murphy",
+"title": "Murphy's Law"
+},
+{
+"id": "2026-11-04T11:37|Robert Plant|29 Palms",
+"t": "2026-11-04T11:37:00+01:00",
+"artist": "Robert Plant",
+"title": "29 Palms"
+},
+{
+"id": "2026-11-04T11:35|Nabiha|Deep Sleep",
+"t": "2026-11-04T11:35:00+01:00",
+"artist": "Nabiha",
+"title": "Deep Sleep"
+},
 {
 "id": "2026-11-04T11:30|Gabriels|Break It",
 "t": "2026-11-04T11:30:00+01:00",
@@ -8558,60 +8628,6 @@
 "t": "2026-10-28T12:31:00+01:00",
 "artist": "Raoul Vignal",
 "title": "Red Fresco"
-},
-{
-"id": "2026-10-28T12:26|Vince Staples|Tulsa, OK",
-"t": "2026-10-28T12:26:00+01:00",
-"artist": "Vince Staples",
-"title": "Tulsa, OK"
-},
-{
-"id": "2026-10-28T12:21|Courtney Barnett|Wonder",
-"t": "2026-10-28T12:21:00+01:00",
-"artist": "Courtney Barnett",
-"title": "Wonder"
-},
-{
-"id": "2026-10-28T12:18|Sade|Smooth Operator",
-"t": "2026-10-28T12:18:00+01:00",
-"artist": "Sade",
-"title": "Smooth Operator"
-},
-{
-"id": "2026-10-28T12:14|Whitney|Kansas",
-"t": "2026-10-28T12:14:00+01:00",
-"artist": "Whitney",
-"title": "Kansas"
-},
-{
-"id": "2026-10-28T12:09|Get Well Soon|Siri, What Ruined The West ?",
-"t": "2026-10-28T12:09:00+01:00",
-"artist": "Get Well Soon",
-"title": "Siri, What Ruined The West ?"
-},
-{
-"id": "2026-10-28T12:05|Caribou|Never Come Back",
-"t": "2026-10-28T12:05:00+01:00",
-"artist": "Caribou",
-"title": "Never Come Back"
-},
-{
-"id": "2026-10-28T11:55|Jun Miyake|Lillies Of The Valley",
-"t": "2026-10-28T11:55:00+01:00",
-"artist": "Jun Miyake",
-"title": "Lillies Of The Valley"
-},
-{
-"id": "2026-10-28T11:50|Fetsum|Tiger",
-"t": "2026-10-28T11:50:00+01:00",
-"artist": "Fetsum",
-"title": "Tiger"
-},
-{
-"id": "2026-10-28T11:40|Monsterheart|Flowers",
-"t": "2026-10-28T11:40:00+01:00",
-"artist": "Monsterheart",
-"title": "Flowers"
 }
 ]
 }
