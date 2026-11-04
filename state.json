@@ -1,9 +1,9 @@
 {
-"updated": "2026-11-04T16:05:15.686374+01:00",
+"updated": "2026-11-04T16:17:15.686747+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
-"synced": "2026-11-04T15:57:15.686129+01:00",
+"synced": "2026-11-04T16:13:15.686618+01:00",
 "pruned": "2026-11-04",
 "calls": {
 "2026-10-28": 21,
@@ -13,12 +13,20 @@
 "2026-11-01": 99,
 "2026-11-02": 197,
 "2026-11-03": 174,
-"2026-11-04": 128
+"2026-11-04": 129
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAe4LWwaXZfdCuEvyfohkuNMqasfGID",
+"snapshot": "AAAe4UYzIq3p46TMgrqr/wSG23qlC1Ch",
 "playlist": [
+[
+"2026-11-04T16:05|Get Well Soon|Siri, What Ruined The West ?",
+"spotify:track:3XY1xxFHeGHDDt33V6GoE2"
+],
+[
+"2026-11-04T15:57|Grace Cummings|I'm Not Crazy",
+"spotify:track:70QaE9UJ2uTVwC4IGS6yvU"
+],
 [
 "2026-11-04T15:51|Queen Latifah|U.N.I.T.Y.",
 "spotify:track:4DyJzMpx8tqdziS5EHnAer"
@@ -3709,6 +3717,18 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-11-04T16:08|Alice Costelloe|How Can I",
+"t": "2026-11-04T16:08:00+01:00",
+"artist": "Alice Costelloe",
+"title": "How Can I"
+},
+{
+"id": "2026-11-04T16:05|Get Well Soon|Siri, What Ruined The West ?",
+"t": "2026-11-04T16:05:00+01:00",
+"artist": "Get Well Soon",
+"title": "Siri, What Ruined The West ?"
+},
 {
 "id": "2026-11-04T15:57|Grace Cummings|I'm Not Crazy",
 "t": "2026-11-04T15:57:00+01:00",
@@ -8754,12 +8774,6 @@
 "t": "2026-10-28T16:18:00+01:00",
 "artist": "The Proclaimers",
 "title": "I'm Gonna Be (500 Miles)"
-},
-{
-"id": "2026-10-28T16:09|Slut|For The Soul There Is No Hospital",
-"t": "2026-10-28T16:09:00+01:00",
-"artist": "Slut",
-"title": "For The Soul There Is No Hospital"
 }
 ]
 }
