@@ -1,9 +1,9 @@
 {
-"updated": "2026-11-04T09:39:31.664181+01:00",
+"updated": "2026-11-04T09:51:31.664592+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
-"synced": "2026-11-04T09:35:31.664025+01:00",
+"synced": "2026-11-04T09:51:31.664592+01:00",
 "pruned": "2026-11-04",
 "calls": {
 "2026-10-28": 21,
@@ -13,12 +13,24 @@
 "2026-11-01": 99,
 "2026-11-02": 197,
 "2026-11-03": 174,
-"2026-11-04": 46
+"2026-11-04": 53
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAexDjtERw85bXlhS3pYGMON0ydtpRI",
+"snapshot": "AAAex9u3hXSu/2ZMFjaeuuMXfo6GsmGH",
 "playlist": [
+[
+"2026-11-04T09:47|Grace Cummings|On And On",
+"spotify:track:3jP5pUJsLMgWsD3TZVx6xm"
+],
+[
+"2026-11-04T09:40|The Big Moon|Barcelona (Edit)",
+"spotify:track:6V8IY1khSjXlgvG6mbIyXQ"
+],
+[
+"2026-11-04T09:35|New Order|Crystal",
+"spotify:track:7JvTheiFwSaMFXFEbHnStK"
+],
 [
 "2026-11-04T09:26|Beirut|Santa Fe",
 "spotify:track:2bxQP85JNU11CQV4KXCnau"
@@ -3308,10 +3320,6 @@
 "spotify:track:5ZO4gjA1fMk0cD4EFkPSYT"
 ],
 [
-"2026-10-28T09:51|Tom Misch|Slow Tonight",
-"spotify:track:7cpoZVJlz9euhcgUfQBMRL"
-],
-[
 "2026-10-28T09:47|Flora Hibberd|Bowling Ball",
 "spotify:track:2Bqy2DIYw0DXkZj8gHTg2p"
 ],
@@ -3481,6 +3489,24 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-11-04T09:47|Grace Cummings|On And On",
+"t": "2026-11-04T09:47:00+01:00",
+"artist": "Grace Cummings",
+"title": "On And On"
+},
+{
+"id": "2026-11-04T09:40|The Big Moon|Barcelona (Edit)",
+"t": "2026-11-04T09:40:00+01:00",
+"artist": "The Big Moon",
+"title": "Barcelona (Edit)"
+},
+{
+"id": "2026-11-04T09:35|New Order|Crystal",
+"t": "2026-11-04T09:35:00+01:00",
+"artist": "New Order",
+"title": "Crystal"
+},
 {
 "id": "2026-11-04T09:26|Beirut|Santa Fe",
 "t": "2026-11-04T09:26:00+01:00",
@@ -8520,24 +8546,6 @@
 "t": "2026-10-28T09:56:00+01:00",
 "artist": "Depeche Mode",
 "title": "Behind The Wheel"
-},
-{
-"id": "2026-10-28T09:51|Tom Misch|Slow Tonight",
-"t": "2026-10-28T09:51:00+01:00",
-"artist": "Tom Misch",
-"title": "Slow Tonight"
-},
-{
-"id": "2026-10-28T09:47|Flora Hibberd|Bowling Ball",
-"t": "2026-10-28T09:47:00+01:00",
-"artist": "Flora Hibberd",
-"title": "Bowling Ball"
-},
-{
-"id": "2026-10-28T09:42|dEUS|Sirens",
-"t": "2026-10-28T09:42:00+01:00",
-"artist": "dEUS",
-"title": "Sirens"
 }
 ]
 }
