@@ -1,9 +1,9 @@
 {
-"updated": "2026-11-04T07:51:31.660443+01:00",
+"updated": "2026-11-04T08:03:31.660805+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
-"synced": "2026-11-04T07:43:31.660192+01:00",
+"synced": "2026-11-04T07:59:31.660665+01:00",
 "pruned": "2026-11-04",
 "calls": {
 "2026-10-28": 21,
@@ -13,12 +13,20 @@
 "2026-11-01": 99,
 "2026-11-02": 197,
 "2026-11-03": 174,
-"2026-11-04": 30
+"2026-11-04": 32
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAevUTkHbyDRbNpU1vvEk5JzDs36c3s",
+"snapshot": "AAAevpomJ06KXOREirlnplYJK0uIEozX",
 "playlist": [
+[
+"2026-11-04T07:49|Sinéad O'Connor|Nothing Compares 2 U",
+"spotify:track:1F8cCNOchnil7feYXXD2In"
+],
+[
+"2026-11-04T07:43|Die Sauna|ich liebe dich",
+"spotify:track:6hlw9o1GgUSSummPTKacU0"
+],
 [
 "2026-11-04T07:35|Madonna|Danceteria",
 "spotify:track:6oFNBxTVpYNpNCRehH05Ly"
@@ -3417,6 +3425,12 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-11-04T07:49|Sinéad O'Connor|Nothing Compares 2 U",
+"t": "2026-11-04T07:49:00+01:00",
+"artist": "Sinéad O'Connor",
+"title": "Nothing Compares 2 U"
+},
 {
 "id": "2026-11-04T07:43|Die Sauna|ich liebe dich",
 "t": "2026-11-04T07:43:00+01:00",
@@ -8474,12 +8488,6 @@
 "t": "2026-10-28T08:04:00+01:00",
 "artist": "Gossip",
 "title": "Heavy Cross"
-},
-{
-"id": "2026-10-28T07:55|Beck|Loser",
-"t": "2026-10-28T07:55:00+01:00",
-"artist": "Beck",
-"title": "Loser"
 }
 ]
 }
