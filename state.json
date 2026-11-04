@@ -1,9 +1,9 @@
 {
-"updated": "2026-11-04T06:03:31.656912+01:00",
+"updated": "2026-11-04T06:15:31.657295+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
-"synced": "2026-11-04T05:51:23.177921+01:00",
+"synced": "2026-11-04T06:07:31.657038+01:00",
 "pruned": "2026-11-04",
 "calls": {
 "2026-10-28": 21,
@@ -13,12 +13,24 @@
 "2026-11-01": 99,
 "2026-11-02": 197,
 "2026-11-03": 174,
-"2026-11-04": 9
+"2026-11-04": 11
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAetE9ArguB8sqcFMXampc7H3tlRLAv",
+"snapshot": "AAAetWBMdUCwXhI0KnBoxDscwmbs7tWS",
 "playlist": [
+[
+"2026-11-04T05:56|Meshell Ndegeocello feat. Cat Power|Don’t You Want Me",
+"spotify:track:5sbCqST9M4Q1sRSJM6L6oT"
+],
+[
+"2026-11-04T05:53|Dry Cleaning|Gary Ashby",
+"spotify:track:30erf27MriGIsvb4rzria6"
+],
+[
+"2026-11-04T05:50|Kelis Feat. Cee-Lo|Lil Star",
+"spotify:track:5bzxmhZ6ONvzaQbf9OjssI"
+],
 [
 "2026-11-04T05:43|Bat For Lashes|Daniel",
 "spotify:track:3jgGvWC8icBVtEj0ZzCvBf"
@@ -3357,6 +3369,18 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-11-04T06:07|Hilltop Hoods|Leave Me Lonely",
+"t": "2026-11-04T06:07:00+01:00",
+"artist": "Hilltop Hoods",
+"title": "Leave Me Lonely"
+},
+{
+"id": "2026-11-04T05:56|Meshell Ndegeocello feat. Cat Power|Don’t You Want Me",
+"t": "2026-11-04T05:56:00+01:00",
+"artist": "Meshell Ndegeocello feat. Cat Power",
+"title": "Don’t You Want Me"
+},
 {
 "id": "2026-11-04T05:53|Dry Cleaning|Gary Ashby",
 "t": "2026-11-04T05:53:00+01:00",
@@ -8414,18 +8438,6 @@
 "t": "2026-10-28T06:16:00+01:00",
 "artist": "Jessie Ware",
 "title": "110%"
-},
-{
-"id": "2026-10-28T06:11|Peter, Björn & John feat. Victoria|Young Folks",
-"t": "2026-10-28T06:11:00+01:00",
-"artist": "Peter, Björn & John feat. Victoria",
-"title": "Young Folks"
-},
-{
-"id": "2026-10-28T06:04|Emma Louise|Jungle",
-"t": "2026-10-28T06:04:00+01:00",
-"artist": "Emma Louise",
-"title": "Jungle"
 }
 ]
 }
