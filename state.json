@@ -1,9 +1,9 @@
 {
-"updated": "2026-11-04T08:39:31.661956+01:00",
+"updated": "2026-11-04T08:51:31.662409+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
-"synced": "2026-11-04T08:31:31.661705+01:00",
+"synced": "2026-11-04T08:47:31.662260+01:00",
 "pruned": "2026-11-04",
 "calls": {
 "2026-10-28": 21,
@@ -13,12 +13,20 @@
 "2026-11-01": 99,
 "2026-11-02": 197,
 "2026-11-03": 174,
-"2026-11-04": 38
+"2026-11-04": 39
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAewIXLBKqnNrlGYoxCAV/R2fPzgCkU",
+"snapshot": "AAAewaHLNqrC3wIrbXBdJdCu9tlokfBe",
 "playlist": [
+[
+"2026-11-04T08:42|Anderson .Paak & Cordae|A Good Day",
+"spotify:track:4CrnExkcZkg6Aek113hAWl"
+],
+[
+"2026-11-04T08:35|49th & Main|Insomnia",
+"spotify:track:6JGrKJtW3CxLscWj7OJMYt"
+],
 [
 "2026-11-04T08:25|Barenaked Ladies|Pinch Me",
 "spotify:track:2RQ3fWFZJJe4G5KkHEACww"
@@ -3445,6 +3453,18 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-11-04T08:42|Anderson .Paak & Cordae|A Good Day",
+"t": "2026-11-04T08:42:00+01:00",
+"artist": "Anderson .Paak & Cordae",
+"title": "A Good Day"
+},
+{
+"id": "2026-11-04T08:35|49th & Main|Insomnia",
+"t": "2026-11-04T08:35:00+01:00",
+"artist": "49th & Main",
+"title": "Insomnia"
+},
 {
 "id": "2026-11-04T08:25|Barenaked Ladies|Pinch Me",
 "t": "2026-11-04T08:25:00+01:00",
@@ -8490,24 +8510,6 @@
 "t": "2026-10-28T08:56:00+01:00",
 "artist": "Jonathan Jeremiah",
 "title": "Youngblood"
-},
-{
-"id": "2026-10-28T08:50|Grimes|Belly Of The Beat",
-"t": "2026-10-28T08:50:00+01:00",
-"artist": "Grimes",
-"title": "Belly Of The Beat"
-},
-{
-"id": "2026-10-28T08:46|Chet Faker|Over You (Radio Edit)",
-"t": "2026-10-28T08:46:00+01:00",
-"artist": "Chet Faker",
-"title": "Over You (Radio Edit)"
-},
-{
-"id": "2026-10-28T08:43|54 Ultra|Tell Me",
-"t": "2026-10-28T08:43:00+01:00",
-"artist": "54 Ultra",
-"title": "Tell Me"
 }
 ]
 }
