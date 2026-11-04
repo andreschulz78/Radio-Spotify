@@ -1,5 +1,5 @@
 {
-"updated": "2026-11-04T17:17:15.688733+01:00",
+"updated": "2026-11-04T17:29:15.689121+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
@@ -13,7 +13,7 @@
 "2026-11-01": 99,
 "2026-11-02": 197,
 "2026-11-03": 174,
-"2026-11-04": 142
+"2026-11-04": 143
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
@@ -3765,6 +3765,12 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-11-04T17:16|The War On Drugs|Under The Pressure",
+"t": "2026-11-04T17:16:00+01:00",
+"artist": "The War On Drugs",
+"title": "Under The Pressure"
+},
 {
 "id": "2026-11-04T17:12|Ex:Re|Radio Station",
 "t": "2026-11-04T17:12:00+01:00",
@@ -8810,18 +8816,6 @@
 "t": "2026-10-28T17:33:00+01:00",
 "artist": "Grace Jones",
 "title": "La Vie En Rose"
-},
-{
-"id": "2026-10-28T17:24|Leon Bridges|Talk it over",
-"t": "2026-10-28T17:24:00+01:00",
-"artist": "Leon Bridges",
-"title": "Talk it over"
-},
-{
-"id": "2026-10-28T17:18|Sam Burton|I'm A Stranger",
-"t": "2026-10-28T17:18:00+01:00",
-"artist": "Sam Burton",
-"title": "I'm A Stranger"
 }
 ]
 }
