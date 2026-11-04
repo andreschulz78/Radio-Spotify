@@ -1,9 +1,9 @@
 {
-"updated": "2026-11-04T20:02:15.677048+01:00",
+"updated": "2026-11-04T20:14:15.677418+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
-"synced": "2026-11-04T19:50:15.676658+01:00",
+"synced": "2026-11-04T20:06:15.677177+01:00",
 "pruned": "2026-11-04",
 "calls": {
 "2026-10-28": 21,
@@ -13,12 +13,20 @@
 "2026-11-01": 99,
 "2026-11-02": 197,
 "2026-11-03": 174,
-"2026-11-04": 164
+"2026-11-04": 167
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAe7LC9XVjJ+0pPIxXJhJUzsT+PNlfA",
+"snapshot": "AAAe73zu6yosJKzYcrWb1lZRdXBYc8aM",
 "playlist": [
+[
+"2026-11-04T19:56|The Avalanches feat. Karen O|Blue Shadows",
+"spotify:track:5bN5To0VLbNBKQDzJ1Lk6c"
+],
+[
+"2026-11-04T19:52|Ten Fé|Candidate",
+"spotify:track:5wjRZRpkGpfZHXLXuVHQaW"
+],
 [
 "2026-11-04T19:06|Bleachers|the van",
 "spotify:track:4C2o68XUoLpjvncsNsgwjA"
@@ -32,6 +40,10 @@
 "spotify:track:641vrWRFwdm1uIlym276kO"
 ],
 [
+"2026-11-04T18:46|Jamiroquai|Corner Of The Earth",
+"spotify:track:3jmbIhguc5uxiOdZ7ak8H3"
+],
+[
 "2026-11-04T18:42|Django Django|Cameos",
 "spotify:track:6q1og9CkTnFTTYqOSN9ed3"
 ],
@@ -42,6 +54,14 @@
 [
 "2026-11-04T18:25|Erika De Casier|Delusional",
 "spotify:track:6M5Y8sn5cXePK58bH1WKon"
+],
+[
+"2026-11-04T18:20|Ash|There's A Star",
+"spotify:track:7jNTZz1Dr1j5cnzlpYVSYI"
+],
+[
+"2026-11-04T18:17|Marlon Williams|Thinking Of Nina",
+"spotify:track:4g3dRdPPil0iHxsb9NIYh0"
 ],
 [
 "2026-11-04T18:08|Dream Boat|Real!",
@@ -8854,12 +8874,6 @@
 "t": "2026-10-28T20:17:00+01:00",
 "artist": "Paul Weller",
 "title": "Thinking Of You"
-},
-{
-"id": "2026-10-28T20:04|Ibibio Sound Machine|Love",
-"t": "2026-10-28T20:04:00+01:00",
-"artist": "Ibibio Sound Machine",
-"title": "Love"
 }
 ]
 }
