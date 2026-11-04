@@ -1,9 +1,9 @@
 {
-"updated": "2026-11-04T05:11:23.176828+01:00",
+"updated": "2026-11-04T05:23:23.177149+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
-"synced": "2026-11-04T05:03:23.176617+01:00",
+"synced": "2026-11-04T05:19:23.177024+01:00",
 "pruned": "2026-11-04",
 "calls": {
 "2026-10-28": 21,
@@ -12,12 +12,24 @@
 "2026-10-31": 90,
 "2026-11-01": 99,
 "2026-11-02": 197,
-"2026-11-03": 173
+"2026-11-03": 174
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAesEDBy1y/ZUbrF5ebFdzI6CybZZ26",
+"snapshot": "AAAesRuSwbsKKfSb2UgBg7aOvpBA9xV/",
 "playlist": [
+[
+"2026-11-04T05:12|Deki Alem|Mr Man",
+"spotify:track:37zztHh0JkdPuOYGzkLYKo"
+],
+[
+"2026-11-04T05:07|Linka Moja|Men R Dogs",
+"spotify:track:7AgfOLYDB7GrgIWg60PBw7"
+],
+[
+"2026-11-04T05:03|Peter Gabriel|Olive tree (Radio Edit)",
+"spotify:track:63Yg7sstcAF6bJbHeB4fHM"
+],
 [
 "2026-11-03T20:52|Fontaines D.C.|Marianne",
 "spotify:track:69rHKcrQpYGfToPThOV1UB"
@@ -3324,6 +3336,24 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-11-04T05:16|Lady Wray|You're Gonna Win",
+"t": "2026-11-04T05:16:00+01:00",
+"artist": "Lady Wray",
+"title": "You're Gonna Win"
+},
+{
+"id": "2026-11-04T05:12|Deki Alem|Mr Man",
+"t": "2026-11-04T05:12:00+01:00",
+"artist": "Deki Alem",
+"title": "Mr Man"
+},
+{
+"id": "2026-11-04T05:07|Linka Moja|Men R Dogs",
+"t": "2026-11-04T05:07:00+01:00",
+"artist": "Linka Moja",
+"title": "Men R Dogs"
+},
 {
 "id": "2026-11-04T05:03|Peter Gabriel|Olive tree (Radio Edit)",
 "t": "2026-11-04T05:03:00+01:00",
@@ -8375,18 +8405,6 @@
 "t": "2026-10-28T05:26:00+01:00",
 "artist": "Get Well Soon",
 "title": "One For The Workout (Radio Edit)"
-},
-{
-"id": "2026-10-28T05:23|Nouvelle Vague|Making Plans For Nigel",
-"t": "2026-10-28T05:23:00+01:00",
-"artist": "Nouvelle Vague",
-"title": "Making Plans For Nigel"
-},
-{
-"id": "2026-10-28T05:17|Kenny Dope feat. Róisín Murphy|Born Under Punches (The Heat Goes On)",
-"t": "2026-10-28T05:17:00+01:00",
-"artist": "Kenny Dope feat. Róisín Murphy",
-"title": "Born Under Punches (The Heat Goes On)"
 }
 ]
 }
