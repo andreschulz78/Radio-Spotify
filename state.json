@@ -1,9 +1,9 @@
 {
-"updated": "2026-11-04T13:53:15.681960+01:00",
+"updated": "2026-11-04T14:05:15.682341+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
-"synced": "2026-11-04T13:49:15.681846+01:00",
+"synced": "2026-11-04T14:05:15.682341+01:00",
 "pruned": "2026-11-04",
 "calls": {
 "2026-10-28": 21,
@@ -13,12 +13,28 @@
 "2026-11-01": 99,
 "2026-11-02": 197,
 "2026-11-03": 174,
-"2026-11-04": 100
+"2026-11-04": 103
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAe1mN6f+/e6fqatMQogmbV/89+3tsE",
+"snapshot": "AAAe13kfaWSebGrGoCBiT6c4FYrkpYrw",
 "playlist": [
+[
+"2026-11-04T13:58|Pink Martini|Hey Eugene!",
+"spotify:track:0lPN6MA6NuJl1MKxnFnj2t"
+],
+[
+"2026-11-04T13:51|Sergio Torales feat. Der Assistent|Veo",
+"spotify:track:6k1tMxv0y7hJJsQMMfnE6p"
+],
+[
+"2026-11-04T13:47|Aurora|All My Demons Greeting Me As A Friend",
+"spotify:track:5O1tikYb6HKrP5cxSQv0iV"
+],
+[
+"2026-11-04T13:44|Kings Of Convenience|I'd Rather Dance With You",
+"spotify:track:119MXpXxpY20WUkDIdE6U4"
+],
 [
 "2026-11-04T13:36|Antony Szmierek|Seminal (Edit)",
 "spotify:track:3E4Tw3ilp8Ms4a5hHWsIxO"
@@ -3637,6 +3653,24 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-11-04T13:58|Pink Martini|Hey Eugene!",
+"t": "2026-11-04T13:58:00+01:00",
+"artist": "Pink Martini",
+"title": "Hey Eugene!"
+},
+{
+"id": "2026-11-04T13:51|Sergio Torales feat. Der Assistent|Veo",
+"t": "2026-11-04T13:51:00+01:00",
+"artist": "Sergio Torales feat. Der Assistent",
+"title": "Veo"
+},
+{
+"id": "2026-11-04T13:47|Aurora|All My Demons Greeting Me As A Friend",
+"t": "2026-11-04T13:47:00+01:00",
+"artist": "Aurora",
+"title": "All My Demons Greeting Me As A Friend"
+},
 {
 "id": "2026-11-04T13:44|Kings Of Convenience|I'd Rather Dance With You",
 "t": "2026-11-04T13:44:00+01:00",
@@ -8664,12 +8698,6 @@
 "t": "2026-10-28T14:06:00+01:00",
 "artist": "The National",
 "title": "Brainy"
-},
-{
-"id": "2026-10-28T13:57|Portishead|Glory Box",
-"t": "2026-10-28T13:57:00+01:00",
-"artist": "Portishead",
-"title": "Glory Box"
 }
 ]
 }
