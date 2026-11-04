@@ -1,9 +1,9 @@
 {
-"updated": "2026-11-04T18:05:15.690190+01:00",
+"updated": "2026-11-04T19:50:15.676658+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
-"synced": "2026-11-04T18:05:15.690190+01:00",
+"synced": "2026-11-04T19:50:15.676658+01:00",
 "pruned": "2026-11-04",
 "calls": {
 "2026-10-28": 21,
@@ -13,12 +13,40 @@
 "2026-11-01": 99,
 "2026-11-02": 197,
 "2026-11-03": 174,
-"2026-11-04": 155
+"2026-11-04": 159
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAe6+l3RFNJ/bItT+EJ36qL+FqaGdMj",
+"snapshot": "AAAe7LC9XVjJ+0pPIxXJhJUzsT+PNlfA",
 "playlist": [
+[
+"2026-11-04T19:06|Bleachers|the van",
+"spotify:track:4C2o68XUoLpjvncsNsgwjA"
+],
+[
+"2026-11-04T18:56|Gordon Lightfoot|If You Could Read My Mind",
+"spotify:track:57ct8jKi6trntXiRV0NnXi"
+],
+[
+"2026-11-04T18:50|Katy J Pearson|Maybe",
+"spotify:track:641vrWRFwdm1uIlym276kO"
+],
+[
+"2026-11-04T18:42|Django Django|Cameos",
+"spotify:track:6q1og9CkTnFTTYqOSN9ed3"
+],
+[
+"2026-11-04T18:33|Moonlight Breakfast|If Not Now, Then When?!",
+"spotify:track:7rqjXsHITwfxR5XoKIGsaJ"
+],
+[
+"2026-11-04T18:25|Erika De Casier|Delusional",
+"spotify:track:6M5Y8sn5cXePK58bH1WKon"
+],
+[
+"2026-11-04T18:08|Dream Boat|Real!",
+"spotify:track:1yxpRDrcK5ExwNiThPa9Uh"
+],
 [
 "2026-11-04T17:57|SBTRKT feat. Toro y Moi|Days Go By (Radio Edit)",
 "spotify:track:0IngWDycujRx7MPYCqImO0"
@@ -3781,6 +3809,78 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-11-04T19:20|Ove|3-4 Zoll auf 1 Zoll flachdichtendes Reduzierdoppelnippels",
+"t": "2026-11-04T19:20:00+01:00",
+"artist": "Ove",
+"title": "3-4 Zoll auf 1 Zoll flachdichtendes Reduzierdoppelnippels"
+},
+{
+"id": "2026-11-04T19:06|Bleachers|the van",
+"t": "2026-11-04T19:06:00+01:00",
+"artist": "Bleachers",
+"title": "the van"
+},
+{
+"id": "2026-11-04T18:56|Gordon Lightfoot|If You Could Read My Mind",
+"t": "2026-11-04T18:56:00+01:00",
+"artist": "Gordon Lightfoot",
+"title": "If You Could Read My Mind"
+},
+{
+"id": "2026-11-04T18:50|Katy J Pearson|Maybe",
+"t": "2026-11-04T18:50:00+01:00",
+"artist": "Katy J Pearson",
+"title": "Maybe"
+},
+{
+"id": "2026-11-04T18:46|Jamiroquai|Corner Of The Earth",
+"t": "2026-11-04T18:46:00+01:00",
+"artist": "Jamiroquai",
+"title": "Corner Of The Earth"
+},
+{
+"id": "2026-11-04T18:42|Django Django|Cameos",
+"t": "2026-11-04T18:42:00+01:00",
+"artist": "Django Django",
+"title": "Cameos"
+},
+{
+"id": "2026-11-04T18:33|Moonlight Breakfast|If Not Now, Then When?!",
+"t": "2026-11-04T18:33:00+01:00",
+"artist": "Moonlight Breakfast",
+"title": "If Not Now, Then When?!"
+},
+{
+"id": "2026-11-04T18:25|Erika De Casier|Delusional",
+"t": "2026-11-04T18:25:00+01:00",
+"artist": "Erika De Casier",
+"title": "Delusional"
+},
+{
+"id": "2026-11-04T18:20|Ash|There's A Star",
+"t": "2026-11-04T18:20:00+01:00",
+"artist": "Ash",
+"title": "There's A Star"
+},
+{
+"id": "2026-11-04T18:17|Marlon Williams|Thinking Of Nina",
+"t": "2026-11-04T18:17:00+01:00",
+"artist": "Marlon Williams",
+"title": "Thinking Of Nina"
+},
+{
+"id": "2026-11-04T18:08|Dream Boat|Real!",
+"t": "2026-11-04T18:08:00+01:00",
+"artist": "Dream Boat",
+"title": "Real!"
+},
+{
+"id": "2026-11-04T18:05|FredAtlast|One Day (Radio Edit)",
+"t": "2026-11-04T18:05:00+01:00",
+"artist": "FredAtlast",
+"title": "One Day (Radio Edit)"
+},
 {
 "id": "2026-11-04T17:57|SBTRKT feat. Toro y Moi|Days Go By (Radio Edit)",
 "t": "2026-11-04T17:57:00+01:00",
@@ -8754,84 +8854,6 @@
 "t": "2026-10-28T19:54:00+01:00",
 "artist": "Meshell Ndegeocello feat. Cat Power",
 "title": "Don’t You Want Me"
-},
-{
-"id": "2026-10-28T19:43|L'Rain|Elmyra (Edit)",
-"t": "2026-10-28T19:43:00+01:00",
-"artist": "L'Rain",
-"title": "Elmyra (Edit)"
-},
-{
-"id": "2026-10-28T19:32|They Might Be Giants|Birdhouse In Your Soul",
-"t": "2026-10-28T19:32:00+01:00",
-"artist": "They Might Be Giants",
-"title": "Birdhouse In Your Soul"
-},
-{
-"id": "2026-10-28T19:28|Ben Watt|Nathaniel",
-"t": "2026-10-28T19:28:00+01:00",
-"artist": "Ben Watt",
-"title": "Nathaniel"
-},
-{
-"id": "2026-10-28T19:06|Black Eyed Peas|Let's Get It Started",
-"t": "2026-10-28T19:06:00+01:00",
-"artist": "Black Eyed Peas",
-"title": "Let's Get It Started"
-},
-{
-"id": "2026-10-28T18:54|Kid Loco meets Soul Sugar|The Robots (Dub)",
-"t": "2026-10-28T18:54:00+01:00",
-"artist": "Kid Loco meets Soul Sugar",
-"title": "The Robots (Dub)"
-},
-{
-"id": "2026-10-28T18:48|Althea & Donna|Uptown Top Ranking",
-"t": "2026-10-28T18:48:00+01:00",
-"artist": "Althea & Donna",
-"title": "Uptown Top Ranking"
-},
-{
-"id": "2026-10-28T18:44|Raye|Worth It. (Radio Edit)",
-"t": "2026-10-28T18:44:00+01:00",
-"artist": "Raye",
-"title": "Worth It. (Radio Edit)"
-},
-{
-"id": "2026-10-28T18:40|Alice Costelloe|How Can I",
-"t": "2026-10-28T18:40:00+01:00",
-"artist": "Alice Costelloe",
-"title": "How Can I"
-},
-{
-"id": "2026-10-28T18:34|Bilderbuch|Nahuel Huapi",
-"t": "2026-10-28T18:34:00+01:00",
-"artist": "Bilderbuch",
-"title": "Nahuel Huapi"
-},
-{
-"id": "2026-10-28T18:27|JGrrey feat. Bel Cobain|Take My Hand",
-"t": "2026-10-28T18:27:00+01:00",
-"artist": "JGrrey feat. Bel Cobain",
-"title": "Take My Hand"
-},
-{
-"id": "2026-10-28T18:23|Kaktus Einarsson feat. John Grant|Follow",
-"t": "2026-10-28T18:23:00+01:00",
-"artist": "Kaktus Einarsson feat. John Grant",
-"title": "Follow"
-},
-{
-"id": "2026-10-28T18:19|Automatic|Black Box",
-"t": "2026-10-28T18:19:00+01:00",
-"artist": "Automatic",
-"title": "Black Box"
-},
-{
-"id": "2026-10-28T18:10|UCHE YARA|Hello Hello",
-"t": "2026-10-28T18:10:00+01:00",
-"artist": "UCHE YARA",
-"title": "Hello Hello"
 }
 ]
 }

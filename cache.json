@@ -123,10 +123,6 @@
 "u": "spotify:track:3G51uIe192pEtcttD1cwrf",
 "d": "2026-11-04T00:03:15.612079+01:00"
 },
-"althea donna|uptown top ranking": {
-"u": null,
-"d": "2026-11-04T05:31:23.177353+01:00"
-},
 "american football|uncomfortably numb feat hayley williams": {
 "u": "spotify:track:22bjxoF7OSitN3VbZUbtSx",
 "d": "2026-11-02T00:01:41.599683+01:00"
@@ -1643,6 +1639,10 @@
 "u": "spotify:track:1WVhulmaOQafvebRQ7O8w4",
 "d": "2026-11-01T00:02:44.613186+01:00"
 },
+"gordon lightfoot|if you could read my mind": {
+"u": "spotify:track:57ct8jKi6trntXiRV0NnXi",
+"d": "2026-11-04T19:50:15.676658+01:00"
+},
 "gorillaz feat bizarrap kara jackson and anoushka shankar|orange county": {
 "u": "spotify:track:5l4Gq3UC0dHKSExIf5xD9N",
 "d": "2026-10-31T00:00:00.233654+01:00"
@@ -2226,6 +2226,10 @@
 "kate bush|wild man": {
 "u": "spotify:track:0XCWo7RVAkJXMD9fiK0bFZ",
 "d": "2026-11-04T00:03:15.612079+01:00"
+},
+"katy j pearson|maybe": {
+"u": "spotify:track:641vrWRFwdm1uIlym276kO",
+"d": "2026-11-04T19:50:15.676658+01:00"
 },
 "katy j pearson|talk over town": {
 "u": "spotify:track:45lHbwtumdPy7lGxWQZTs5",
@@ -3070,6 +3074,10 @@
 "overmono feat ruthven|gem lingo ovr now": {
 "u": "spotify:track:6dSqM0tWJPlchpmGrEwC1c",
 "d": "2026-11-04T00:03:15.612079+01:00"
+},
+"ove|3 4 zoll auf 1 zoll flachdichtendes reduzierdoppelnippels": {
+"u": null,
+"d": "2026-11-04T19:50:15.676658+01:00"
 },
 "pamela|better than before": {
 "u": "spotify:track:30ewsn0jSF9Jme7Altrz9X",
