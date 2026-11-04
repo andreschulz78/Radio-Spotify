@@ -1,9 +1,9 @@
 {
-"updated": "2026-11-04T09:27:31.663771+01:00",
+"updated": "2026-11-04T09:39:31.664181+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
-"synced": "2026-11-04T09:19:31.663503+01:00",
+"synced": "2026-11-04T09:35:31.664025+01:00",
 "pruned": "2026-11-04",
 "calls": {
 "2026-10-28": 21,
@@ -13,12 +13,24 @@
 "2026-11-01": 99,
 "2026-11-02": 197,
 "2026-11-03": 174,
-"2026-11-04": 44
+"2026-11-04": 46
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAew05D5I9pX5mxszSOAyxveKIeSztw",
+"snapshot": "AAAexDjtERw85bXlhS3pYGMON0ydtpRI",
 "playlist": [
+[
+"2026-11-04T09:26|Beirut|Santa Fe",
+"spotify:track:2bxQP85JNU11CQV4KXCnau"
+],
+[
+"2026-11-04T09:19|Lenny Kravitz|Believe In Me",
+"spotify:track:7aJjhQlplwtUS7emsLIEWC"
+],
+[
+"2026-11-04T09:16|Tikhet|Burndowner",
+"spotify:track:76iRkapw7dHIlJhSoy7PCv"
+],
 [
 "2026-11-04T09:07|Benjamin Clementine|In Fact You Know You Gotto Go",
 "spotify:track:4cWEdRTQ8sg4QaTBIGn06j"
@@ -3469,6 +3481,12 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-11-04T09:26|Beirut|Santa Fe",
+"t": "2026-11-04T09:26:00+01:00",
+"artist": "Beirut",
+"title": "Santa Fe"
+},
 {
 "id": "2026-11-04T09:19|Lenny Kravitz|Believe In Me",
 "t": "2026-11-04T09:19:00+01:00",
@@ -8520,12 +8538,6 @@
 "t": "2026-10-28T09:42:00+01:00",
 "artist": "dEUS",
 "title": "Sirens"
-},
-{
-"id": "2026-10-28T09:33|Celeste|Stop This Flame",
-"t": "2026-10-28T09:33:00+01:00",
-"artist": "Celeste",
-"title": "Stop This Flame"
 }
 ]
 }
