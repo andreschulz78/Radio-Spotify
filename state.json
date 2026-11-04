@@ -1,9 +1,9 @@
 {
-"updated": "2026-11-04T10:15:31.665398+01:00",
+"updated": "2026-11-04T10:27:31.665786+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
-"synced": "2026-11-04T10:07:31.665131+01:00",
+"synced": "2026-11-04T10:23:31.665658+01:00",
 "pruned": "2026-11-04",
 "calls": {
 "2026-10-28": 21,
@@ -13,12 +13,20 @@
 "2026-11-01": 99,
 "2026-11-02": 197,
 "2026-11-03": 174,
-"2026-11-04": 58
+"2026-11-04": 64
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAeyLKmAsbwuDGekeJ43JYsvOqqfsWK",
+"snapshot": "AAAeypEIn8qmRFPOW+fdRFW/czJIbaon",
 "playlist": [
+[
+"2026-11-04T10:09|Jamie Drake|Easy Target",
+"spotify:track:0IlQJgTcFIRGdnrzNvu1cN"
+],
+[
+"2026-11-04T10:07|Alewya|Cairo FM",
+"spotify:track:6v7hCIRoJkuYShT0wls1gD"
+],
 [
 "2026-11-04T09:57|The War On Drugs|Red Eyes",
 "spotify:track:3ZATMtNpzBKCLwE07hwgPc"
@@ -3308,10 +3316,6 @@
 "spotify:track:5KMPp9asnxJwvaBuSZ5Nsn"
 ],
 [
-"2026-10-28T10:23|The Pierces|You'll Be Mine",
-"spotify:track:6TpPwEz1YEPe7gCsXXQQFl"
-],
-[
 "2026-10-28T10:18|Fontaines D.C. & ROSALIA|Where Is Gone?",
 "spotify:track:6ZH1yeWUf3Xp2XO0EZk91i"
 ],
@@ -3497,6 +3501,18 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-11-04T10:20|Chet Faker & Marcus Marr|The Trouble With Us",
+"t": "2026-11-04T10:20:00+01:00",
+"artist": "Chet Faker & Marcus Marr",
+"title": "The Trouble With Us"
+},
+{
+"id": "2026-11-04T10:17|Inxs|Beautiful Girl",
+"t": "2026-11-04T10:17:00+01:00",
+"artist": "Inxs",
+"title": "Beautiful Girl"
+},
 {
 "id": "2026-11-04T10:09|Jamie Drake|Easy Target",
 "t": "2026-11-04T10:09:00+01:00",
@@ -8542,24 +8558,6 @@
 "t": "2026-10-28T10:31:00+01:00",
 "artist": "Dr. Ring-Ding & The Senior Allstars",
 "title": "Careless Love"
-},
-{
-"id": "2026-10-28T10:27|The Smiths|You Just Haven't Earned It Yet, Baby",
-"t": "2026-10-28T10:27:00+01:00",
-"artist": "The Smiths",
-"title": "You Just Haven't Earned It Yet, Baby"
-},
-{
-"id": "2026-10-28T10:23|The Pierces|You'll Be Mine",
-"t": "2026-10-28T10:23:00+01:00",
-"artist": "The Pierces",
-"title": "You'll Be Mine"
-},
-{
-"id": "2026-10-28T10:18|Fontaines D.C. & ROSALIA|Where Is Gone?",
-"t": "2026-10-28T10:18:00+01:00",
-"artist": "Fontaines D.C. & ROSALIA",
-"title": "Where Is Gone?"
 }
 ]
 }
