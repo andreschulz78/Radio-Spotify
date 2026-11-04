@@ -1,9 +1,9 @@
 {
-"updated": "2026-11-04T17:53:15.689814+01:00",
+"updated": "2026-11-04T18:05:15.690190+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
-"synced": "2026-11-04T17:49:15.689689+01:00",
+"synced": "2026-11-04T18:05:15.690190+01:00",
 "pruned": "2026-11-04",
 "calls": {
 "2026-10-28": 21,
@@ -13,12 +13,24 @@
 "2026-11-01": 99,
 "2026-11-02": 197,
 "2026-11-03": 174,
-"2026-11-04": 152
+"2026-11-04": 155
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAe6TkYANcnnR15DxdbRgsTYYlwuH75",
+"snapshot": "AAAe6+l3RFNJ/bItT+EJ36qL+FqaGdMj",
 "playlist": [
+[
+"2026-11-04T17:57|SBTRKT feat. Toro y Moi|Days Go By (Radio Edit)",
+"spotify:track:0IngWDycujRx7MPYCqImO0"
+],
+[
+"2026-11-04T17:50|Flora Hibberd|Bowling Ball",
+"spotify:track:2Bqy2DIYw0DXkZj8gHTg2p"
+],
+[
+"2026-11-04T17:46|George Harrison|My Sweet Lord",
+"spotify:track:0KZodeWxqxd88F9wY1cqgs"
+],
 [
 "2026-11-04T17:43|Alewya|Maktoub",
 "spotify:track:56DYNKo3QHkakqOUkWi3vl"
@@ -3296,10 +3308,6 @@
 "spotify:track:3hadpAb0vS5uYSrfidLaDr"
 ],
 [
-"2026-10-28T18:05|Belle & Sebastian|We Were Beautiful",
-"spotify:track:3F361WUtUwN7ZX8DlpK4Lz"
-],
-[
 "2026-10-28T17:56|Lina Maly & Moritz Krämer|Ade",
 "spotify:track:3E97feDILNLoSgGMy3nKTO"
 ],
@@ -3773,6 +3781,18 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-11-04T17:57|SBTRKT feat. Toro y Moi|Days Go By (Radio Edit)",
+"t": "2026-11-04T17:57:00+01:00",
+"artist": "SBTRKT feat. Toro y Moi",
+"title": "Days Go By (Radio Edit)"
+},
+{
+"id": "2026-11-04T17:50|Flora Hibberd|Bowling Ball",
+"t": "2026-11-04T17:50:00+01:00",
+"artist": "Flora Hibberd",
+"title": "Bowling Ball"
+},
 {
 "id": "2026-11-04T17:46|George Harrison|My Sweet Lord",
 "t": "2026-11-04T17:46:00+01:00",
@@ -8812,18 +8832,6 @@
 "t": "2026-10-28T18:10:00+01:00",
 "artist": "UCHE YARA",
 "title": "Hello Hello"
-},
-{
-"id": "2026-10-28T18:05|Belle & Sebastian|We Were Beautiful",
-"t": "2026-10-28T18:05:00+01:00",
-"artist": "Belle & Sebastian",
-"title": "We Were Beautiful"
-},
-{
-"id": "2026-10-28T17:56|Lina Maly & Moritz Krämer|Ade",
-"t": "2026-10-28T17:56:00+01:00",
-"artist": "Lina Maly & Moritz Krämer",
-"title": "Ade"
 }
 ]
 }
