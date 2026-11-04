@@ -1,5 +1,5 @@
 {
-"updated": "2026-11-04T08:15:31.661191+01:00",
+"updated": "2026-11-04T08:27:31.661553+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
@@ -13,7 +13,7 @@
 "2026-11-01": 99,
 "2026-11-02": 197,
 "2026-11-03": 174,
-"2026-11-04": 35
+"2026-11-04": 36
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
@@ -3433,6 +3433,18 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-11-04T08:19|Peki Momés|Ahşap Kutu",
+"t": "2026-11-04T08:19:00+01:00",
+"artist": "Peki Momés",
+"title": "Ahşap Kutu"
+},
+{
+"id": "2026-11-04T08:15|SYML|True",
+"t": "2026-11-04T08:15:00+01:00",
+"artist": "SYML",
+"title": "True"
+},
 {
 "id": "2026-11-04T08:07|Austra & Patrick Holland|Siren Reprise",
 "t": "2026-11-04T08:07:00+01:00",
@@ -8484,18 +8496,6 @@
 "t": "2026-10-28T08:34:00+01:00",
 "artist": "Edwyn Collins",
 "title": "A Girl Like You"
-},
-{
-"id": "2026-10-28T08:26|Madison Cunningham|Golden Gate (On And On)",
-"t": "2026-10-28T08:26:00+01:00",
-"artist": "Madison Cunningham",
-"title": "Golden Gate (On And On)"
-},
-{
-"id": "2026-10-28T08:18|The Asteroids Galaxy Tour|The Sun Ain't Shining No More",
-"t": "2026-10-28T08:18:00+01:00",
-"artist": "The Asteroids Galaxy Tour",
-"title": "The Sun Ain't Shining No More"
 }
 ]
 }
