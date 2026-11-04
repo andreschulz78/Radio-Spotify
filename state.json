@@ -1,9 +1,9 @@
 {
-"updated": "2026-11-04T13:41:15.681600+01:00",
+"updated": "2026-11-04T13:53:15.681960+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
-"synced": "2026-11-04T13:33:15.681337+01:00",
+"synced": "2026-11-04T13:49:15.681846+01:00",
 "pruned": "2026-11-04",
 "calls": {
 "2026-10-28": 21,
@@ -13,12 +13,24 @@
 "2026-11-01": 99,
 "2026-11-02": 197,
 "2026-11-03": 174,
-"2026-11-04": 99
+"2026-11-04": 100
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAe1XM53C5H5U1saC9/7D2rJb6HoPRZ",
+"snapshot": "AAAe1mN6f+/e6fqatMQogmbV/89+3tsE",
 "playlist": [
+[
+"2026-11-04T13:36|Antony Szmierek|Seminal (Edit)",
+"spotify:track:3E4Tw3ilp8Ms4a5hHWsIxO"
+],
+[
+"2026-11-04T13:33|Tricky feat. Francesca Belmonte|Nicotine Love",
+"spotify:track:1WaDp4DCM5cYaZQl1Cb67o"
+],
+[
+"2026-11-04T13:28|Youssou N'Dour & Neneh Cherry|7 Seconds",
+"spotify:track:4sv1iemiMkkZVTUbV16C8L"
+],
 [
 "2026-11-04T13:23|Mac Miller|What's The Use",
 "spotify:track:5fyqqaqTmcNDixYABJO99I"
@@ -3625,6 +3637,12 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-11-04T13:44|Kings Of Convenience|I'd Rather Dance With You",
+"t": "2026-11-04T13:44:00+01:00",
+"artist": "Kings Of Convenience",
+"title": "I'd Rather Dance With You"
+},
 {
 "id": "2026-11-04T13:36|Antony Szmierek|Seminal (Edit)",
 "t": "2026-11-04T13:36:00+01:00",
@@ -8652,24 +8670,6 @@
 "t": "2026-10-28T13:57:00+01:00",
 "artist": "Portishead",
 "title": "Glory Box"
-},
-{
-"id": "2026-10-28T13:50|Austra & Patrick Holland|Siren Reprise",
-"t": "2026-10-28T13:50:00+01:00",
-"artist": "Austra & Patrick Holland",
-"title": "Siren Reprise"
-},
-{
-"id": "2026-10-28T13:47|Gentleman|Lonely Days",
-"t": "2026-10-28T13:47:00+01:00",
-"artist": "Gentleman",
-"title": "Lonely Days"
-},
-{
-"id": "2026-10-28T13:44|J.Bernardt|Love Is On My Mind",
-"t": "2026-10-28T13:44:00+01:00",
-"artist": "J.Bernardt",
-"title": "Love Is On My Mind"
 }
 ]
 }
