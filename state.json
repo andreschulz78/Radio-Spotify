@@ -1,9 +1,9 @@
 {
-"updated": "2026-11-04T08:03:31.660805+01:00",
+"updated": "2026-11-04T08:15:31.661191+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
-"synced": "2026-11-04T07:59:31.660665+01:00",
+"synced": "2026-11-04T08:15:31.661191+01:00",
 "pruned": "2026-11-04",
 "calls": {
 "2026-10-28": 21,
@@ -13,12 +13,20 @@
 "2026-11-01": 99,
 "2026-11-02": 197,
 "2026-11-03": 174,
-"2026-11-04": 32
+"2026-11-04": 35
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAevpomJ06KXOREirlnplYJK0uIEozX",
+"snapshot": "AAAevyFlYh3wyzn5GwF1TRjOkwPxkkGb",
 "playlist": [
+[
+"2026-11-04T08:07|Austra & Patrick Holland|Siren Reprise",
+"spotify:track:678wI419HyRL4qSTbXdyLu"
+],
+[
+"2026-11-04T07:56|Nick Cave & The Bad Seeds|More News From Nowhere",
+"spotify:track:6pl9ED8G9NJ0C7sHGrDquI"
+],
 [
 "2026-11-04T07:49|Sinéad O'Connor|Nothing Compares 2 U",
 "spotify:track:1F8cCNOchnil7feYXXD2In"
@@ -3425,6 +3433,18 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-11-04T08:07|Austra & Patrick Holland|Siren Reprise",
+"t": "2026-11-04T08:07:00+01:00",
+"artist": "Austra & Patrick Holland",
+"title": "Siren Reprise"
+},
+{
+"id": "2026-11-04T07:56|Nick Cave & The Bad Seeds|More News From Nowhere",
+"t": "2026-11-04T07:56:00+01:00",
+"artist": "Nick Cave & The Bad Seeds",
+"title": "More News From Nowhere"
+},
 {
 "id": "2026-11-04T07:49|Sinéad O'Connor|Nothing Compares 2 U",
 "t": "2026-11-04T07:49:00+01:00",
@@ -8476,18 +8496,6 @@
 "t": "2026-10-28T08:18:00+01:00",
 "artist": "The Asteroids Galaxy Tour",
 "title": "The Sun Ain't Shining No More"
-},
-{
-"id": "2026-10-28T08:13|Yard Act|You're Gonna Need A Little Music",
-"t": "2026-10-28T08:13:00+01:00",
-"artist": "Yard Act",
-"title": "You're Gonna Need A Little Music"
-},
-{
-"id": "2026-10-28T08:04|Gossip|Heavy Cross",
-"t": "2026-10-28T08:04:00+01:00",
-"artist": "Gossip",
-"title": "Heavy Cross"
 }
 ]
 }
