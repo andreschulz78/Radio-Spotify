@@ -1,5 +1,5 @@
 {
-"updated": "2026-11-04T19:50:15.676658+01:00",
+"updated": "2026-11-04T20:02:15.677048+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
@@ -13,7 +13,7 @@
 "2026-11-01": 99,
 "2026-11-02": 197,
 "2026-11-03": 174,
-"2026-11-04": 159
+"2026-11-04": 164
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
@@ -3809,6 +3809,18 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-11-04T19:56|The Avalanches feat. Karen O|Blue Shadows",
+"t": "2026-11-04T19:56:00+01:00",
+"artist": "The Avalanches feat. Karen O",
+"title": "Blue Shadows"
+},
+{
+"id": "2026-11-04T19:52|Ten Fé|Candidate",
+"t": "2026-11-04T19:52:00+01:00",
+"artist": "Ten Fé",
+"title": "Candidate"
+},
 {
 "id": "2026-11-04T19:20|Ove|3-4 Zoll auf 1 Zoll flachdichtendes Reduzierdoppelnippels",
 "t": "2026-11-04T19:20:00+01:00",
@@ -8848,12 +8860,6 @@
 "t": "2026-10-28T20:04:00+01:00",
 "artist": "Ibibio Sound Machine",
 "title": "Love"
-},
-{
-"id": "2026-10-28T19:54|Meshell Ndegeocello feat. Cat Power|Don’t You Want Me",
-"t": "2026-10-28T19:54:00+01:00",
-"artist": "Meshell Ndegeocello feat. Cat Power",
-"title": "Don’t You Want Me"
 }
 ]
 }
