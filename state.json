@@ -1,9 +1,9 @@
 {
-"updated": "2026-11-04T14:41:15.683608+01:00",
+"updated": "2026-11-04T14:53:15.684018+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
-"synced": "2026-11-04T14:37:15.683482+01:00",
+"synced": "2026-11-04T14:53:15.684018+01:00",
 "pruned": "2026-11-04",
 "calls": {
 "2026-10-28": 21,
@@ -13,12 +13,24 @@
 "2026-11-01": 99,
 "2026-11-02": 197,
 "2026-11-03": 174,
-"2026-11-04": 113
+"2026-11-04": 115
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAe2q6f3Ko6J+Bzr18ILp5VNE39vGRv",
+"snapshot": "AAAe2wyHNihFTjjY4rzg9EKMuWAoR6E/",
 "playlist": [
+[
+"2026-11-04T14:43|The Monkees|I'm A Believer",
+"spotify:track:1XC2irxGspcKmhOPrPsfL2"
+],
+[
+"2026-11-04T14:40|Jake Bugg|Lightning Bolt",
+"spotify:track:1K7XZtTV6izFybwiMlCj8V"
+],
+[
+"2026-11-04T14:37|Genesis Owusu|Human Again",
+"spotify:track:3uP7jqdt4haiuL4acLhrDY"
+],
 [
 "2026-11-04T14:33|Natalie Bergmann|White Oak (Kosta G. Remix)",
 "spotify:track:18PftHVAUSO5vTwdeRa7Lv"
@@ -3669,6 +3681,18 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-11-04T14:43|The Monkees|I'm A Believer",
+"t": "2026-11-04T14:43:00+01:00",
+"artist": "The Monkees",
+"title": "I'm A Believer"
+},
+{
+"id": "2026-11-04T14:40|Jake Bugg|Lightning Bolt",
+"t": "2026-11-04T14:40:00+01:00",
+"artist": "Jake Bugg",
+"title": "Lightning Bolt"
+},
 {
 "id": "2026-11-04T14:37|Genesis Owusu|Human Again",
 "t": "2026-11-04T14:37:00+01:00",
@@ -8708,18 +8732,6 @@
 "t": "2026-10-28T14:56:00+01:00",
 "artist": "Emiliana Torrini",
 "title": "Baby Blue"
-},
-{
-"id": "2026-10-28T14:51|Boy Harsher|Tough Luck (When You Don't Call)",
-"t": "2026-10-28T14:51:00+01:00",
-"artist": "Boy Harsher",
-"title": "Tough Luck (When You Don't Call)"
-},
-{
-"id": "2026-10-28T14:48|Jake Bugg|Lightning Bolt",
-"t": "2026-10-28T14:48:00+01:00",
-"artist": "Jake Bugg",
-"title": "Lightning Bolt"
 }
 ]
 }
