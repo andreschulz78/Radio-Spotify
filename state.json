@@ -1,9 +1,9 @@
 {
-"updated": "2026-11-04T09:15:31.663369+01:00",
+"updated": "2026-11-04T09:27:31.663771+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
-"synced": "2026-11-04T09:03:31.662931+01:00",
+"synced": "2026-11-04T09:19:31.663503+01:00",
 "pruned": "2026-11-04",
 "calls": {
 "2026-10-28": 21,
@@ -13,12 +13,16 @@
 "2026-11-01": 99,
 "2026-11-02": 197,
 "2026-11-03": 174,
-"2026-11-04": 41
+"2026-11-04": 44
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAewmaU4uT+6Lo+aUUBQf2yAvKGxxx+",
+"snapshot": "AAAew05D5I9pX5mxszSOAyxveKIeSztw",
 "playlist": [
+[
+"2026-11-04T09:07|Benjamin Clementine|In Fact You Know You Gotto Go",
+"spotify:track:4cWEdRTQ8sg4QaTBIGn06j"
+],
 [
 "2026-11-04T08:57|Feist|My Moon My Man",
 "spotify:track:4fQVQKIiidREPI0MhFEuDn"
@@ -3465,6 +3469,18 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-11-04T09:19|Lenny Kravitz|Believe In Me",
+"t": "2026-11-04T09:19:00+01:00",
+"artist": "Lenny Kravitz",
+"title": "Believe In Me"
+},
+{
+"id": "2026-11-04T09:16|Tikhet|Burndowner",
+"t": "2026-11-04T09:16:00+01:00",
+"artist": "Tikhet",
+"title": "Burndowner"
+},
 {
 "id": "2026-11-04T09:07|Benjamin Clementine|In Fact You Know You Gotto Go",
 "t": "2026-11-04T09:07:00+01:00",
@@ -8510,24 +8526,6 @@
 "t": "2026-10-28T09:33:00+01:00",
 "artist": "Celeste",
 "title": "Stop This Flame"
-},
-{
-"id": "2026-10-28T09:27|Nihils|Lavender",
-"t": "2026-10-28T09:27:00+01:00",
-"artist": "Nihils",
-"title": "Lavender"
-},
-{
-"id": "2026-10-28T09:23|The War on Drugs|I Don't Live Here Anymore (Radio Edit)",
-"t": "2026-10-28T09:23:00+01:00",
-"artist": "The War on Drugs",
-"title": "I Don't Live Here Anymore (Radio Edit)"
-},
-{
-"id": "2026-10-28T09:16|Isaac Hayes|Theme From Shaft",
-"t": "2026-10-28T09:16:00+01:00",
-"artist": "Isaac Hayes",
-"title": "Theme From Shaft"
 }
 ]
 }
