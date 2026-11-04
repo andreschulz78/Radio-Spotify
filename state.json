@@ -1,9 +1,9 @@
 {
-"updated": "2026-11-04T15:05:15.684431+01:00",
+"updated": "2026-11-04T15:17:15.684805+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
-"synced": "2026-11-04T14:53:15.684018+01:00",
+"synced": "2026-11-04T15:09:15.684557+01:00",
 "pruned": "2026-11-04",
 "calls": {
 "2026-10-28": 21,
@@ -13,12 +13,20 @@
 "2026-11-01": 99,
 "2026-11-02": 197,
 "2026-11-03": 174,
-"2026-11-04": 116
+"2026-11-04": 119
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAe2wyHNihFTjjY4rzg9EKMuWAoR6E/",
+"snapshot": "AAAe3BZpGEc9IAsP0iPbiwTjQY+1PR3G",
 "playlist": [
+[
+"2026-11-04T14:56|CocoRosie|Rainbowarriors",
+"spotify:track:1nq0L0isqgGi5CpvkvPGLm"
+],
+[
+"2026-11-04T14:50|Jordan Rakei|Enemies",
+"spotify:track:0X9GwAax0c0HPe3iIoDVW6"
+],
 [
 "2026-11-04T14:43|The Monkees|I'm A Believer",
 "spotify:track:1XC2irxGspcKmhOPrPsfL2"
@@ -3681,6 +3689,18 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-11-04T15:10|Freebass|The God Machine",
+"t": "2026-11-04T15:10:00+01:00",
+"artist": "Freebass",
+"title": "The God Machine"
+},
+{
+"id": "2026-11-04T15:06|Planningtorock feat. Romy|The One",
+"t": "2026-11-04T15:06:00+01:00",
+"artist": "Planningtorock feat. Romy",
+"title": "The One"
+},
 {
 "id": "2026-11-04T14:56|CocoRosie|Rainbowarriors",
 "t": "2026-11-04T14:56:00+01:00",
@@ -8726,18 +8746,6 @@
 "t": "2026-10-28T15:20:00+01:00",
 "artist": "Yüksel Özkasap",
 "title": "Almanya 'ya mecbur ettin"
-},
-{
-"id": "2026-10-28T15:10|Σtella|Belinda",
-"t": "2026-10-28T15:10:00+01:00",
-"artist": "Σtella",
-"title": "Belinda"
-},
-{
-"id": "2026-10-28T15:06|Babyshambles|Dr. No",
-"t": "2026-10-28T15:06:00+01:00",
-"artist": "Babyshambles",
-"title": "Dr. No"
 }
 ]
 }
