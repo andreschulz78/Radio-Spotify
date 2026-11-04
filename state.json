@@ -1,9 +1,9 @@
 {
-"updated": "2026-11-04T06:51:31.658445+01:00",
+"updated": "2026-11-04T07:03:31.658822+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
-"synced": "2026-11-04T06:39:31.658037+01:00",
+"synced": "2026-11-04T06:55:31.658567+01:00",
 "pruned": "2026-11-04",
 "calls": {
 "2026-10-28": 21,
@@ -13,12 +13,28 @@
 "2026-11-01": 99,
 "2026-11-02": 197,
 "2026-11-03": 174,
-"2026-11-04": 18
+"2026-11-04": 24
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAeuIHN3Plv7u0waxVKE4XKWHzUzttB",
+"snapshot": "AAAeuZerAMmTa9TkUtMcZmmgU90ZGQPb",
 "playlist": [
+[
+"2026-11-04T06:50|Yazmin Lacey feat. TYSON|Water",
+"spotify:track:0iPRaGu0MkIfLHRjFfWedg"
+],
+[
+"2026-11-04T06:45|Elliott Smith|Son Of Sam",
+"spotify:track:6tPiCU4LFsXUQPRIykOAnl"
+],
+[
+"2026-11-04T06:43|SOFY|50/50",
+"spotify:track:16QLv8xt9nPNBZCBDm3Gkv"
+],
+[
+"2026-11-04T06:35|Faithless|I Need Someone (Edit)",
+"spotify:track:45XlgoqQuVQdyVmPGXDb5b"
+],
 [
 "2026-11-04T06:25|Fleetwood Mac|Dreams",
 "spotify:track:5TDZyWDfbQFQJabbPwImVY"
@@ -3381,6 +3397,24 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-11-04T06:56|Jonathan Jeremiah|Good Day",
+"t": "2026-11-04T06:56:00+01:00",
+"artist": "Jonathan Jeremiah",
+"title": "Good Day"
+},
+{
+"id": "2026-11-04T06:50|Yazmin Lacey feat. TYSON|Water",
+"t": "2026-11-04T06:50:00+01:00",
+"artist": "Yazmin Lacey feat. TYSON",
+"title": "Water"
+},
+{
+"id": "2026-11-04T06:45|Elliott Smith|Son Of Sam",
+"t": "2026-11-04T06:45:00+01:00",
+"artist": "Elliott Smith",
+"title": "Son Of Sam"
+},
 {
 "id": "2026-11-04T06:43|SOFY|50/50",
 "t": "2026-11-04T06:43:00+01:00",
@@ -8438,12 +8472,6 @@
 "t": "2026-10-28T07:06:00+01:00",
 "artist": "Tele",
 "title": "Im Radio"
-},
-{
-"id": "2026-10-28T06:56|DJ Koze|Spiralen (Radio Edit)",
-"t": "2026-10-28T06:56:00+01:00",
-"artist": "DJ Koze",
-"title": "Spiralen (Radio Edit)"
 }
 ]
 }
