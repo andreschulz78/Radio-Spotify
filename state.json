@@ -1,9 +1,9 @@
 {
-"updated": "2026-11-04T16:17:15.686747+01:00",
+"updated": "2026-11-04T16:29:15.687126+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
-"synced": "2026-11-04T16:13:15.686618+01:00",
+"synced": "2026-11-04T16:29:15.687126+01:00",
 "pruned": "2026-11-04",
 "calls": {
 "2026-10-28": 21,
@@ -13,12 +13,24 @@
 "2026-11-01": 99,
 "2026-11-02": 197,
 "2026-11-03": 174,
-"2026-11-04": 129
+"2026-11-04": 131
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAe4UYzIq3p46TMgrqr/wSG23qlC1Ch",
+"snapshot": "AAAe4gA3tiXl3dLMDNLaIBt68cei7k+F",
 "playlist": [
+[
+"2026-11-04T16:20|Kaktus Einarsson feat. John Grant|Follow",
+"spotify:track:0bbPqdrMN94XmIlBQS21B3"
+],
+[
+"2026-11-04T16:18|Air|Surfing On A Rocket",
+"spotify:track:0RFduQOfkrP1jhoV0m8US2"
+],
+[
+"2026-11-04T16:08|Alice Costelloe|How Can I",
+"spotify:track:6ev5ii9Zpk67XEhdNTtY5z"
+],
 [
 "2026-11-04T16:05|Get Well Soon|Siri, What Ruined The West ?",
 "spotify:track:3XY1xxFHeGHDDt33V6GoE2"
@@ -3717,6 +3729,18 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-11-04T16:20|Kaktus Einarsson feat. John Grant|Follow",
+"t": "2026-11-04T16:20:00+01:00",
+"artist": "Kaktus Einarsson feat. John Grant",
+"title": "Follow"
+},
+{
+"id": "2026-11-04T16:18|Air|Surfing On A Rocket",
+"t": "2026-11-04T16:18:00+01:00",
+"artist": "Air",
+"title": "Surfing On A Rocket"
+},
 {
 "id": "2026-11-04T16:08|Alice Costelloe|How Can I",
 "t": "2026-11-04T16:08:00+01:00",
@@ -8756,24 +8780,6 @@
 "t": "2026-10-28T16:34:00+01:00",
 "artist": "Nia Archives",
 "title": "There Goes Ma Head"
-},
-{
-"id": "2026-10-28T16:25|The The|The Beat(en) Generation",
-"t": "2026-10-28T16:25:00+01:00",
-"artist": "The The",
-"title": "The Beat(en) Generation"
-},
-{
-"id": "2026-10-28T16:22|Kelela|the bridge (feat. PinkPantheress)",
-"t": "2026-10-28T16:22:00+01:00",
-"artist": "Kelela",
-"title": "the bridge (feat. PinkPantheress)"
-},
-{
-"id": "2026-10-28T16:18|The Proclaimers|I'm Gonna Be (500 Miles)",
-"t": "2026-10-28T16:18:00+01:00",
-"artist": "The Proclaimers",
-"title": "I'm Gonna Be (500 Miles)"
 }
 ]
 }
