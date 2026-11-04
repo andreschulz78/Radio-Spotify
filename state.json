@@ -1,9 +1,9 @@
 {
-"updated": "2026-11-04T16:41:15.687562+01:00",
+"updated": "2026-11-04T16:53:15.687960+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
-"synced": "2026-11-04T16:29:15.687126+01:00",
+"synced": "2026-11-04T16:45:15.687701+01:00",
 "pruned": "2026-11-04",
 "calls": {
 "2026-10-28": 21,
@@ -13,12 +13,28 @@
 "2026-11-01": 99,
 "2026-11-02": 197,
 "2026-11-03": 174,
-"2026-11-04": 135
+"2026-11-04": 137
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAe4gA3tiXl3dLMDNLaIBt68cei7k+F",
+"snapshot": "AAAe41rJZSXw/uO9a1e02lNDOPrCo9GP",
 "playlist": [
+[
+"2026-11-04T16:43|Kevin Morby|I Have Been To The Mountain",
+"spotify:track:2umTklGNx0IiiTFFVNZNlC"
+],
+[
+"2026-11-04T16:35|David Bowie feat. Pat Metheny|This Is Not America",
+"spotify:track:49WmLXTw04jOVMoFHR8nd7"
+],
+[
+"2026-11-04T16:33|Nia Archives|Vertical",
+"spotify:track:0ecQazzKkndVD8Ry9Orp9Q"
+],
+[
+"2026-11-04T16:24|The Afghan Whigs|Algiers",
+"spotify:track:4S12gt45KpuVAMfcgQzbyn"
+],
 [
 "2026-11-04T16:20|Kaktus Einarsson feat. John Grant|Follow",
 "spotify:track:0bbPqdrMN94XmIlBQS21B3"
@@ -3729,6 +3745,18 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-11-04T16:46|JGrrey feat. Bel Cobain|Take My Hand",
+"t": "2026-11-04T16:46:00+01:00",
+"artist": "JGrrey feat. Bel Cobain",
+"title": "Take My Hand"
+},
+{
+"id": "2026-11-04T16:43|Kevin Morby|I Have Been To The Mountain",
+"t": "2026-11-04T16:43:00+01:00",
+"artist": "Kevin Morby",
+"title": "I Have Been To The Mountain"
+},
 {
 "id": "2026-11-04T16:35|David Bowie feat. Pat Metheny|This Is Not America",
 "t": "2026-11-04T16:35:00+01:00",
@@ -8774,18 +8802,6 @@
 "t": "2026-10-28T16:55:00+01:00",
 "artist": "Cass McCombs",
 "title": "Peace"
-},
-{
-"id": "2026-10-28T16:48|Apparat|Little Feet (Radio Edit)",
-"t": "2026-10-28T16:48:00+01:00",
-"artist": "Apparat",
-"title": "Little Feet (Radio Edit)"
-},
-{
-"id": "2026-10-28T16:44|Amy Winehouse|Between The Cheats",
-"t": "2026-10-28T16:44:00+01:00",
-"artist": "Amy Winehouse",
-"title": "Between The Cheats"
 }
 ]
 }
