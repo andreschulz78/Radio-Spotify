@@ -1,9 +1,9 @@
 {
-"updated": "2026-11-04T10:03:31.664997+01:00",
+"updated": "2026-11-04T10:15:31.665398+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
-"synced": "2026-11-04T09:51:31.664592+01:00",
+"synced": "2026-11-04T10:07:31.665131+01:00",
 "pruned": "2026-11-04",
 "calls": {
 "2026-10-28": 21,
@@ -13,12 +13,20 @@
 "2026-11-01": 99,
 "2026-11-02": 197,
 "2026-11-03": 174,
-"2026-11-04": 55
+"2026-11-04": 58
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAex9u3hXSu/2ZMFjaeuuMXfo6GsmGH",
+"snapshot": "AAAeyLKmAsbwuDGekeJ43JYsvOqqfsWK",
 "playlist": [
+[
+"2026-11-04T09:57|The War On Drugs|Red Eyes",
+"spotify:track:3ZATMtNpzBKCLwE07hwgPc"
+],
+[
+"2026-11-04T09:51|Underworld|Burst Of Laughter",
+"spotify:track:4nlFHZKwBM3lW8uMjYiDpf"
+],
 [
 "2026-11-04T09:47|Grace Cummings|On And On",
 "spotify:track:3jP5pUJsLMgWsD3TZVx6xm"
@@ -3489,6 +3497,18 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-11-04T10:09|Jamie Drake|Easy Target",
+"t": "2026-11-04T10:09:00+01:00",
+"artist": "Jamie Drake",
+"title": "Easy Target"
+},
+{
+"id": "2026-11-04T10:07|Alewya|Cairo FM",
+"t": "2026-11-04T10:07:00+01:00",
+"artist": "Alewya",
+"title": "Cairo FM"
+},
 {
 "id": "2026-11-04T09:57|The War On Drugs|Red Eyes",
 "t": "2026-11-04T09:57:00+01:00",
@@ -8540,18 +8560,6 @@
 "t": "2026-10-28T10:18:00+01:00",
 "artist": "Fontaines D.C. & ROSALIA",
 "title": "Where Is Gone?"
-},
-{
-"id": "2026-10-28T10:08|Gabin|Doo Uap, Doo Uap, Doo Uap (It Don't Mean A Thing...)",
-"t": "2026-10-28T10:08:00+01:00",
-"artist": "Gabin",
-"title": "Doo Uap, Doo Uap, Doo Uap (It Don't Mean A Thing...)"
-},
-{
-"id": "2026-10-28T10:05|New German Cinema|Water Drops",
-"t": "2026-10-28T10:05:00+01:00",
-"artist": "New German Cinema",
-"title": "Water Drops"
 }
 ]
 }
