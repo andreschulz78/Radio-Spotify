@@ -1,5 +1,5 @@
 {
-"updated": "2026-11-04T14:53:15.684018+01:00",
+"updated": "2026-11-04T15:05:15.684431+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
@@ -13,7 +13,7 @@
 "2026-11-01": 99,
 "2026-11-02": 197,
 "2026-11-03": 174,
-"2026-11-04": 115
+"2026-11-04": 116
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
@@ -3681,6 +3681,18 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-11-04T14:56|CocoRosie|Rainbowarriors",
+"t": "2026-11-04T14:56:00+01:00",
+"artist": "CocoRosie",
+"title": "Rainbowarriors"
+},
+{
+"id": "2026-11-04T14:50|Jordan Rakei|Enemies",
+"t": "2026-11-04T14:50:00+01:00",
+"artist": "Jordan Rakei",
+"title": "Enemies"
+},
 {
 "id": "2026-11-04T14:43|The Monkees|I'm A Believer",
 "t": "2026-11-04T14:43:00+01:00",
@@ -8726,12 +8738,6 @@
 "t": "2026-10-28T15:06:00+01:00",
 "artist": "Babyshambles",
 "title": "Dr. No"
-},
-{
-"id": "2026-10-28T14:56|Emiliana Torrini|Baby Blue",
-"t": "2026-10-28T14:56:00+01:00",
-"artist": "Emiliana Torrini",
-"title": "Baby Blue"
 }
 ]
 }
