@@ -1,9 +1,9 @@
 {
-"updated": "2026-11-04T07:15:31.659230+01:00",
+"updated": "2026-11-04T07:27:31.659620+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
-"synced": "2026-11-04T07:11:31.659075+01:00",
+"synced": "2026-11-04T07:27:31.659620+01:00",
 "pruned": "2026-11-04",
 "calls": {
 "2026-10-28": 21,
@@ -13,12 +13,20 @@
 "2026-11-01": 99,
 "2026-11-02": 197,
 "2026-11-03": 174,
-"2026-11-04": 26
+"2026-11-04": 28
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAeujgJOWbc/8S1VEchI5TtKE8MISsP",
+"snapshot": "AAAeu6EKgZabQeWXNO//VpUmvfRCm5Fb",
 "playlist": [
+[
+"2026-11-04T07:18|Pet Shop Boys feat. Dusty Springfield|What Have I Done To Deserve This",
+"spotify:track:08gxkIUIRCUJmw5AEKJVz7"
+],
+[
+"2026-11-04T07:12|Tunde Adebimpe|God Knows",
+"spotify:track:1g9o6MNw8DQEFGmKQwbyYa"
+],
 [
 "2026-11-04T07:05|Death Cab For Cutie|Pep Talk",
 "spotify:track:3ra7fDLqfUHBWBL702fOAn"
@@ -3405,6 +3413,12 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-11-04T07:18|Pet Shop Boys feat. Dusty Springfield|What Have I Done To Deserve This",
+"t": "2026-11-04T07:18:00+01:00",
+"artist": "Pet Shop Boys feat. Dusty Springfield",
+"title": "What Have I Done To Deserve This"
+},
 {
 "id": "2026-11-04T07:12|Tunde Adebimpe|God Knows",
 "t": "2026-11-04T07:12:00+01:00",
@@ -8468,18 +8482,6 @@
 "t": "2026-10-28T07:33:00+01:00",
 "artist": "The Avalanches feat. Karen O",
 "title": "Blue Shadows"
-},
-{
-"id": "2026-10-28T07:25|Jungle|The Wave",
-"t": "2026-10-28T07:25:00+01:00",
-"artist": "Jungle",
-"title": "The Wave"
-},
-{
-"id": "2026-10-28T07:17|Wallners|Movie Stars",
-"t": "2026-10-28T07:17:00+01:00",
-"artist": "Wallners",
-"title": "Movie Stars"
 }
 ]
 }
