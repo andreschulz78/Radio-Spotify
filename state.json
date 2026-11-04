@@ -1,9 +1,9 @@
 {
-"updated": "2026-11-04T07:39:31.660015+01:00",
+"updated": "2026-11-04T07:51:31.660443+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
-"synced": "2026-11-04T07:27:31.659620+01:00",
+"synced": "2026-11-04T07:43:31.660192+01:00",
 "pruned": "2026-11-04",
 "calls": {
 "2026-10-28": 21,
@@ -13,12 +13,20 @@
 "2026-11-01": 99,
 "2026-11-02": 197,
 "2026-11-03": 174,
-"2026-11-04": 28
+"2026-11-04": 30
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAeu6EKgZabQeWXNO//VpUmvfRCm5Fb",
+"snapshot": "AAAevUTkHbyDRbNpU1vvEk5JzDs36c3s",
 "playlist": [
+[
+"2026-11-04T07:35|Madonna|Danceteria",
+"spotify:track:6oFNBxTVpYNpNCRehH05Ly"
+],
+[
+"2026-11-04T07:27|Bilderbuch|Baby Junkie",
+"spotify:track:1bPs9oNEaAEUYfCL7tH79W"
+],
 [
 "2026-11-04T07:18|Pet Shop Boys feat. Dusty Springfield|What Have I Done To Deserve This",
 "spotify:track:08gxkIUIRCUJmw5AEKJVz7"
@@ -3316,10 +3324,6 @@
 "spotify:track:2a0SCFj0jawy90EKzYpuYX"
 ],
 [
-"2026-10-28T07:43|The La's|There She Goes",
-"spotify:track:0D3Th2YU14U737O0nSHXT8"
-],
-[
 "2026-10-28T07:40|Yusuf|Türkisch Mann",
 "spotify:track:62GWC1nCyjVX5zRMtWwcAs"
 ],
@@ -3413,6 +3417,18 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-11-04T07:43|Die Sauna|ich liebe dich",
+"t": "2026-11-04T07:43:00+01:00",
+"artist": "Die Sauna",
+"title": "ich liebe dich"
+},
+{
+"id": "2026-11-04T07:35|Madonna|Danceteria",
+"t": "2026-11-04T07:35:00+01:00",
+"artist": "Madonna",
+"title": "Danceteria"
+},
 {
 "id": "2026-11-04T07:27|Bilderbuch|Baby Junkie",
 "t": "2026-11-04T07:27:00+01:00",
@@ -8464,24 +8480,6 @@
 "t": "2026-10-28T07:55:00+01:00",
 "artist": "Beck",
 "title": "Loser"
-},
-{
-"id": "2026-10-28T07:48|Princess Chelsea|Love Is More",
-"t": "2026-10-28T07:48:00+01:00",
-"artist": "Princess Chelsea",
-"title": "Love Is More"
-},
-{
-"id": "2026-10-28T07:43|The La's|There She Goes",
-"t": "2026-10-28T07:43:00+01:00",
-"artist": "The La's",
-"title": "There She Goes"
-},
-{
-"id": "2026-10-28T07:40|Yusuf|Türkisch Mann",
-"t": "2026-10-28T07:40:00+01:00",
-"artist": "Yusuf",
-"title": "Türkisch Mann"
 }
 ]
 }
