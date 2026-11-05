@@ -1,9 +1,9 @@
 {
-"updated": "2026-11-05T10:06:17.160789+01:00",
+"updated": "2026-11-05T10:18:17.161090+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
-"synced": "2026-11-05T09:54:17.160466+01:00",
+"synced": "2026-11-05T10:10:17.160906+01:00",
 "pruned": "2026-11-05",
 "calls": {
 "2026-10-29": 300,
@@ -13,12 +13,24 @@
 "2026-11-02": 197,
 "2026-11-03": 174,
 "2026-11-04": 181,
-"2026-11-05": 48
+"2026-11-05": 49
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAfCa3t6bYixZikk5a/3LzxOtWX/zwr",
+"snapshot": "AAAfCmSguhEwQeZzid9RCzE6nTE8704h",
 "playlist": [
+[
+"2026-11-05T09:58|Bulgarian Cartrader|Toothpicks",
+"spotify:track:7KIR7YHG12P8JkgD33O0a3"
+],
+[
+"2026-11-05T09:52|Raphael Saadiq|Good Man",
+"spotify:track:53t0aD0Suwofba0q4aY0B3"
+],
+[
+"2026-11-05T09:49|Yazmin Lacey|Summer Haze",
+"spotify:track:465QjZo1z1JAuLTTC7DnuK"
+],
 [
 "2026-11-05T09:43|Kaktus Einarsson feat. John Grant|Follow",
 "spotify:track:0bbPqdrMN94XmIlBQS21B3"
@@ -3429,6 +3441,18 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-11-05T10:10|The Drums feat. Mareux|It Didn't Matter",
+"t": "2026-11-05T10:10:00+01:00",
+"artist": "The Drums feat. Mareux",
+"title": "It Didn't Matter"
+},
+{
+"id": "2026-11-05T10:07|Death Cab For Cutie|Pep Talk",
+"t": "2026-11-05T10:07:00+01:00",
+"artist": "Death Cab For Cutie",
+"title": "Pep Talk"
+},
 {
 "id": "2026-11-05T09:58|Bulgarian Cartrader|Toothpicks",
 "t": "2026-11-05T09:58:00+01:00",
@@ -8426,12 +8450,6 @@
 "t": "2026-10-29T10:20:00+01:00",
 "artist": "Moby",
 "title": "Porcelain"
-},
-{
-"id": "2026-10-29T10:08|Nichtseattle|Ich mit Brille",
-"t": "2026-10-29T10:08:00+01:00",
-"artist": "Nichtseattle",
-"title": "Ich mit Brille"
 }
 ]
 }
