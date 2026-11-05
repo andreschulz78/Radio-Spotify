@@ -1,9 +1,9 @@
 {
-"updated": "2026-11-05T09:18:17.159677+01:00",
+"updated": "2026-11-05T09:30:17.159933+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
-"synced": "2026-11-05T09:06:17.159426+01:00",
+"synced": "2026-11-05T09:22:17.159770+01:00",
 "pruned": "2026-11-05",
 "calls": {
 "2026-10-29": 300,
@@ -13,12 +13,20 @@
 "2026-11-02": 197,
 "2026-11-03": 174,
 "2026-11-04": 181,
-"2026-11-05": 40
+"2026-11-05": 44
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAfBm5LJOYTsXNtRG4K3YnYFqx0OZZi",
+"snapshot": "AAAfB/Yg9qCjkPMTspiL7eZw2495MEls",
 "playlist": [
+[
+"2026-11-05T09:15|POND|So Lo",
+"spotify:track:2JSBPIMY7FYDIe4rnpLBQa"
+],
+[
+"2026-11-05T09:06|Holybones|Saltywater",
+"spotify:track:0Flns2ijD0KVZN7e60FrpJ"
+],
 [
 "2026-11-05T08:55|Babyshambles|Fall From Grace",
 "spotify:track:5d82qDP65V3F0iQ6hDNcSu"
@@ -3405,6 +3413,24 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-11-05T09:26|Albert Hammond Jr.|Back To The 101",
+"t": "2026-11-05T09:26:00+01:00",
+"artist": "Albert Hammond Jr.",
+"title": "Back To The 101"
+},
+{
+"id": "2026-11-05T09:19|2raumwohnung|2 von Millionen von Sternen",
+"t": "2026-11-05T09:19:00+01:00",
+"artist": "2raumwohnung",
+"title": "2 von Millionen von Sternen"
+},
+{
+"id": "2026-11-05T09:15|POND|So Lo",
+"t": "2026-11-05T09:15:00+01:00",
+"artist": "POND",
+"title": "So Lo"
+},
 {
 "id": "2026-11-05T09:06|Holybones|Saltywater",
 "t": "2026-11-05T09:06:00+01:00",
@@ -8396,12 +8422,6 @@
 "t": "2026-10-29T09:34:00+01:00",
 "artist": "Austra",
 "title": "Math Equation"
-},
-{
-"id": "2026-10-29T09:24|Jacob Bellens|Summer Sadness",
-"t": "2026-10-29T09:24:00+01:00",
-"artist": "Jacob Bellens",
-"title": "Summer Sadness"
 }
 ]
 }
