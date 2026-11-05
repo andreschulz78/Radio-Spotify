@@ -1,9 +1,9 @@
 {
-"updated": "2026-11-05T18:09:33.483409+01:00",
+"updated": "2026-11-05T18:21:33.483737+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
-"synced": "2026-11-05T18:05:33.483293+01:00",
+"synced": "2026-11-05T18:21:33.483737+01:00",
 "pruned": "2026-11-05",
 "calls": {
 "2026-10-29": 300,
@@ -13,12 +13,24 @@
 "2026-11-02": 197,
 "2026-11-03": 174,
 "2026-11-04": 181,
-"2026-11-05": 131
+"2026-11-05": 133
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAfJg3j6RRqEdnntJBWTRimuKnNcnPm",
+"snapshot": "AAAfJ/+QQgjcYH6nIXawy1HJGQcA1dXC",
 "playlist": [
+[
+"2026-11-05T18:16|Jungle|The Wave",
+"spotify:track:6Ln44Up5lBxNgCsaLoXY6W"
+],
+[
+"2026-11-05T18:10|Lusts|Sometimes",
+"spotify:track:0r9Wr99KvRYaWh0WyyXaHw"
+],
+[
+"2026-11-05T18:06|Gorillaz feat. Bizarrap, Kara Jackson and Anoushka Shankar|Orange County",
+"spotify:track:5l4Gq3UC0dHKSExIf5xD9N"
+],
 [
 "2026-11-05T17:57|The Avalanches feat. Karen O|Blue Shadows",
 "spotify:track:5bN5To0VLbNBKQDzJ1Lk6c"
@@ -3753,6 +3765,24 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-11-05T18:16|Jungle|The Wave",
+"t": "2026-11-05T18:16:00+01:00",
+"artist": "Jungle",
+"title": "The Wave"
+},
+{
+"id": "2026-11-05T18:10|Lusts|Sometimes",
+"t": "2026-11-05T18:10:00+01:00",
+"artist": "Lusts",
+"title": "Sometimes"
+},
+{
+"id": "2026-11-05T18:06|Gorillaz feat. Bizarrap, Kara Jackson and Anoushka Shankar|Orange County",
+"t": "2026-11-05T18:06:00+01:00",
+"artist": "Gorillaz feat. Bizarrap, Kara Jackson and Anoushka Shankar",
+"title": "Orange County"
+},
 {
 "id": "2026-11-05T17:57|The Avalanches feat. Karen O|Blue Shadows",
 "t": "2026-11-05T17:57:00+01:00",
@@ -8732,24 +8762,6 @@
 "t": "2026-10-29T18:26:00+01:00",
 "artist": "Chelonis R. Jones",
 "title": "Le Bateau Ivre"
-},
-{
-"id": "2026-10-29T18:20|Vince Staples|Tulsa, OK",
-"t": "2026-10-29T18:20:00+01:00",
-"artist": "Vince Staples",
-"title": "Tulsa, OK"
-},
-{
-"id": "2026-10-29T18:18|Gotye|Learnalilgivinanlovin",
-"t": "2026-10-29T18:18:00+01:00",
-"artist": "Gotye",
-"title": "Learnalilgivinanlovin"
-},
-{
-"id": "2026-10-29T18:10|Jordan Rakei|Enemies",
-"t": "2026-10-29T18:10:00+01:00",
-"artist": "Jordan Rakei",
-"title": "Enemies"
 }
 ]
 }
