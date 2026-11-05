@@ -1,9 +1,9 @@
 {
-"updated": "2026-11-05T13:42:17.166453+01:00",
+"updated": "2026-11-05T13:54:17.166794+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
-"synced": "2026-11-05T13:38:17.166339+01:00",
+"synced": "2026-11-05T13:54:17.166794+01:00",
 "pruned": "2026-11-05",
 "calls": {
 "2026-10-29": 300,
@@ -13,12 +13,20 @@
 "2026-11-02": 197,
 "2026-11-03": 174,
 "2026-11-04": 181,
-"2026-11-05": 91
+"2026-11-05": 92
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAfGOKV42RWgmrdRAn0acOZjLZyIyXb",
+"snapshot": "AAAfGSdclHW+lk7OUfviBGIYxX1YpcJl",
 "playlist": [
+[
+"2026-11-05T13:43|The Big Moon|F.O.R.E.V.E.R",
+"spotify:track:0UaPOdi1O83vr1oTXaGqgx"
+],
+[
+"2026-11-05T13:38|Tikhet|Burndowner",
+"spotify:track:76iRkapw7dHIlJhSoy7PCv"
+],
 [
 "2026-11-05T13:32|Echo & The Bunnymen|The Killing Moon",
 "spotify:track:35E2eKIEXXnP5q9L51iOAk"
@@ -3581,6 +3589,18 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-11-05T13:43|The Big Moon|F.O.R.E.V.E.R",
+"t": "2026-11-05T13:43:00+01:00",
+"artist": "The Big Moon",
+"title": "F.O.R.E.V.E.R"
+},
+{
+"id": "2026-11-05T13:38|Tikhet|Burndowner",
+"t": "2026-11-05T13:38:00+01:00",
+"artist": "Tikhet",
+"title": "Burndowner"
+},
 {
 "id": "2026-11-05T13:32|Echo & The Bunnymen|The Killing Moon",
 "t": "2026-11-05T13:32:00+01:00",
@@ -8548,18 +8568,6 @@
 "t": "2026-10-29T13:56:00+01:00",
 "artist": "Kelela",
 "title": "the bridge (feat. PinkPantheress)"
-},
-{
-"id": "2026-10-29T13:50|Linear John|Any Which Way To Go",
-"t": "2026-10-29T13:50:00+01:00",
-"artist": "Linear John",
-"title": "Any Which Way To Go"
-},
-{
-"id": "2026-10-29T13:46|Aurora|All My Demons Greeting Me As A Friend",
-"t": "2026-10-29T13:46:00+01:00",
-"artist": "Aurora",
-"title": "All My Demons Greeting Me As A Friend"
 }
 ]
 }
