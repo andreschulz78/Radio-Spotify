@@ -1,5 +1,5 @@
 {
-"updated": "2026-11-05T05:42:23.311732+01:00",
+"updated": "2026-11-05T05:54:23.312208+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
@@ -13,7 +13,7 @@
 "2026-11-02": 197,
 "2026-11-03": 174,
 "2026-11-04": 181,
-"2026-11-05": 4
+"2026-11-05": 7
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
@@ -3305,6 +3305,18 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-11-05T05:44|Ultimate Painting|Bills",
+"t": "2026-11-05T05:44:00+01:00",
+"artist": "Ultimate Painting",
+"title": "Bills"
+},
+{
+"id": "2026-11-05T05:39|Kate Bush|December Will Be Magic Again",
+"t": "2026-11-05T05:39:00+01:00",
+"artist": "Kate Bush",
+"title": "December Will Be Magic Again"
+},
 {
 "id": "2026-11-05T05:33|The Herbaliser feat. Jessica Darlin|You're Not All That",
 "t": "2026-11-05T05:33:00+01:00",
@@ -8290,18 +8302,6 @@
 "t": "2026-10-29T05:55:00+01:00",
 "artist": "The Streets",
 "title": "It's Too Late"
-},
-{
-"id": "2026-10-29T05:51|Morrissey|Spent The Day In Bed",
-"t": "2026-10-29T05:51:00+01:00",
-"artist": "Morrissey",
-"title": "Spent The Day In Bed"
-},
-{
-"id": "2026-10-29T05:46|U2|Magnificent",
-"t": "2026-10-29T05:46:00+01:00",
-"artist": "U2",
-"title": "Magnificent"
 }
 ]
 }
