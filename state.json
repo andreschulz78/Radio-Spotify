@@ -1,9 +1,9 @@
 {
-"updated": "2026-11-05T07:06:23.314315+01:00",
+"updated": "2026-11-05T08:18:17.158184+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
-"synced": "2026-11-05T07:02:23.314160+01:00",
+"synced": "2026-11-05T08:18:17.158184+01:00",
 "pruned": "2026-11-05",
 "calls": {
 "2026-10-29": 300,
@@ -13,12 +13,48 @@
 "2026-11-02": 197,
 "2026-11-03": 174,
 "2026-11-04": 181,
-"2026-11-05": 24
+"2026-11-05": 28
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAfAL9WKlXVpP7SR7/nRbR1Q2M6KC52",
+"snapshot": "AAAfAXUbunpw9FFE0c5G58WLnU4UOZ+R",
 "playlist": [
+[
+"2026-11-05T08:06|Glasvegas|Geraldine",
+"spotify:track:3YYqLN0ZhMNqmGHvndpGCf"
+],
+[
+"2026-11-05T07:56|Ray Lozano|Late Night",
+"spotify:track:23i10hKRFFtyNN801D2AYz"
+],
+[
+"2026-11-05T07:50|Lionel Boy|Potions",
+"spotify:track:60WRLpyyY8GC4psR3O33z7"
+],
+[
+"2026-11-05T07:43|Jungle|Someday, Somewhere",
+"spotify:track:20FqWsyuUaQTU5tk4nP6eN"
+],
+[
+"2026-11-05T07:34|Circa Waves|Battered & Bruised",
+"spotify:track:0aMTOwMg93ZJlM1xCZy0ia"
+],
+[
+"2026-11-05T07:25|Wallners|Movie Stars",
+"spotify:track:7xesRbRs3O1MLOgWqMSN7a"
+],
+[
+"2026-11-05T07:17|Grace Cummings|I'm Not Crazy",
+"spotify:track:70QaE9UJ2uTVwC4IGS6yvU"
+],
+[
+"2026-11-05T07:14|Alewya|Cairo FM",
+"spotify:track:6v7hCIRoJkuYShT0wls1gD"
+],
+[
+"2026-11-05T07:05|Genesis Owusu|Human Again",
+"spotify:track:3uP7jqdt4haiuL4acLhrDY"
+],
 [
 "2026-11-05T06:50|Chinese American Bear|Dance Dance Dance (Edit)",
 "spotify:track:3Ct3ro3LnsTHjeRVPNSG5s"
@@ -3349,6 +3385,66 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-11-05T08:06|Glasvegas|Geraldine",
+"t": "2026-11-05T08:06:00+01:00",
+"artist": "Glasvegas",
+"title": "Geraldine"
+},
+{
+"id": "2026-11-05T07:56|Ray Lozano|Late Night",
+"t": "2026-11-05T07:56:00+01:00",
+"artist": "Ray Lozano",
+"title": "Late Night"
+},
+{
+"id": "2026-11-05T07:50|Lionel Boy|Potions",
+"t": "2026-11-05T07:50:00+01:00",
+"artist": "Lionel Boy",
+"title": "Potions"
+},
+{
+"id": "2026-11-05T07:43|Jungle|Someday, Somewhere",
+"t": "2026-11-05T07:43:00+01:00",
+"artist": "Jungle",
+"title": "Someday, Somewhere"
+},
+{
+"id": "2026-11-05T07:34|Circa Waves|Battered & Bruised",
+"t": "2026-11-05T07:34:00+01:00",
+"artist": "Circa Waves",
+"title": "Battered & Bruised"
+},
+{
+"id": "2026-11-05T07:25|Wallners|Movie Stars",
+"t": "2026-11-05T07:25:00+01:00",
+"artist": "Wallners",
+"title": "Movie Stars"
+},
+{
+"id": "2026-11-05T07:17|Grace Cummings|I'm Not Crazy",
+"t": "2026-11-05T07:17:00+01:00",
+"artist": "Grace Cummings",
+"title": "I'm Not Crazy"
+},
+{
+"id": "2026-11-05T07:14|Alewya|Cairo FM",
+"t": "2026-11-05T07:14:00+01:00",
+"artist": "Alewya",
+"title": "Cairo FM"
+},
+{
+"id": "2026-11-05T07:08|King Gizzard & The Lizard Wizard|Bone",
+"t": "2026-11-05T07:08:00+01:00",
+"artist": "King Gizzard & The Lizard Wizard",
+"title": "Bone"
+},
+{
+"id": "2026-11-05T07:05|Genesis Owusu|Human Again",
+"t": "2026-11-05T07:05:00+01:00",
+"artist": "Genesis Owusu",
+"title": "Human Again"
+},
 {
 "id": "2026-11-05T06:56|Anderson .Paak|Fire In The Sky",
 "t": "2026-11-05T06:56:00+01:00",
@@ -8286,66 +8382,6 @@
 "t": "2026-10-29T08:24:00+01:00",
 "artist": "Wanda",
 "title": "Salbei (Single Edit)"
-},
-{
-"id": "2026-10-29T08:16|Poliça|Carlines",
-"t": "2026-10-29T08:16:00+01:00",
-"artist": "Poliça",
-"title": "Carlines"
-},
-{
-"id": "2026-10-29T08:12|Nia Archives|Vertical",
-"t": "2026-10-29T08:12:00+01:00",
-"artist": "Nia Archives",
-"title": "Vertical"
-},
-{
-"id": "2026-10-29T08:04|The Duke Spirit|The Step And The Walk",
-"t": "2026-10-29T08:04:00+01:00",
-"artist": "The Duke Spirit",
-"title": "The Step And The Walk"
-},
-{
-"id": "2026-10-29T07:55|Django Django|Reflections",
-"t": "2026-10-29T07:55:00+01:00",
-"artist": "Django Django",
-"title": "Reflections"
-},
-{
-"id": "2026-10-29T07:46|Animal Collective|My Girls",
-"t": "2026-10-29T07:46:00+01:00",
-"artist": "Animal Collective",
-"title": "My Girls"
-},
-{
-"id": "2026-10-29T07:40|Tikhet|Burndowner",
-"t": "2026-10-29T07:40:00+01:00",
-"artist": "Tikhet",
-"title": "Burndowner"
-},
-{
-"id": "2026-10-29T07:33|The Black Keys|The Night Before",
-"t": "2026-10-29T07:33:00+01:00",
-"artist": "The Black Keys",
-"title": "The Night Before"
-},
-{
-"id": "2026-10-29T07:25|Babe Rainbow|Waterfall",
-"t": "2026-10-29T07:25:00+01:00",
-"artist": "Babe Rainbow",
-"title": "Waterfall"
-},
-{
-"id": "2026-10-29T07:18|Green, Adam|Jessica",
-"t": "2026-10-29T07:18:00+01:00",
-"artist": "Green, Adam",
-"title": "Jessica"
-},
-{
-"id": "2026-10-29T07:14|Antony Szmierek|Chalk (Radio Edit)",
-"t": "2026-10-29T07:14:00+01:00",
-"artist": "Antony Szmierek",
-"title": "Chalk (Radio Edit)"
 }
 ]
 }
