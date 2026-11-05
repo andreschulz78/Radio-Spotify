@@ -1,9 +1,9 @@
 {
-"updated": "2026-11-05T11:18:17.162659+01:00",
+"updated": "2026-11-05T11:30:17.162984+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
-"synced": "2026-11-05T11:14:17.162555+01:00",
+"synced": "2026-11-05T11:30:17.162984+01:00",
 "pruned": "2026-11-05",
 "calls": {
 "2026-10-29": 300,
@@ -13,12 +13,24 @@
 "2026-11-02": 197,
 "2026-11-03": 174,
 "2026-11-04": 181,
-"2026-11-05": 62
+"2026-11-05": 65
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAfDkau4hFcw7zTOqYg73SyTdfoYAs+",
+"snapshot": "AAAfD2YJnC9Kz7JBUw/N+TV5dmbaDBVW",
 "playlist": [
+[
+"2026-11-05T11:23|UCHE YARA|Hello Hello",
+"spotify:track:3hadpAb0vS5uYSrfidLaDr"
+],
+[
+"2026-11-05T11:20|Pixies|Here Comes Your Man",
+"spotify:track:4IvZLDtwBHmBmwgDIUbuwa"
+],
+[
+"2026-11-05T11:10|Anna B Savage feat. Anna Mieke|Agnes",
+"spotify:track:0yCQ1i0BLkoD7RRxtJq3jP"
+],
 [
 "2026-11-05T11:06|Mark Ronson X RAYE|Suzanne (Radio Edit)",
 "spotify:track:3EL4YcUAmGkfTKXhS49Y3w"
@@ -3481,6 +3493,18 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-11-05T11:23|UCHE YARA|Hello Hello",
+"t": "2026-11-05T11:23:00+01:00",
+"artist": "UCHE YARA",
+"title": "Hello Hello"
+},
+{
+"id": "2026-11-05T11:20|Pixies|Here Comes Your Man",
+"t": "2026-11-05T11:20:00+01:00",
+"artist": "Pixies",
+"title": "Here Comes Your Man"
+},
 {
 "id": "2026-11-05T11:10|Anna B Savage feat. Anna Mieke|Agnes",
 "t": "2026-11-05T11:10:00+01:00",
@@ -8460,24 +8484,6 @@
 "t": "2026-10-29T11:32:00+01:00",
 "artist": "Shout Out Louds",
 "title": "Tonight I Have To Leave It"
-},
-{
-"id": "2026-10-29T11:26|Cameo|Word up!",
-"t": "2026-10-29T11:26:00+01:00",
-"artist": "Cameo",
-"title": "Word up!"
-},
-{
-"id": "2026-10-29T11:23|Kelis|Trick Me",
-"t": "2026-10-29T11:23:00+01:00",
-"artist": "Kelis",
-"title": "Trick Me"
-},
-{
-"id": "2026-10-29T11:19|Leon Bridges|Talk it over",
-"t": "2026-10-29T11:19:00+01:00",
-"artist": "Leon Bridges",
-"title": "Talk it over"
 }
 ]
 }
