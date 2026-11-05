@@ -1,9 +1,9 @@
 {
-"updated": "2026-11-05T18:57:33.484921+01:00",
+"updated": "2026-11-05T19:09:33.485263+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
-"synced": "2026-11-05T18:53:33.484836+01:00",
+"synced": "2026-11-05T19:09:33.485263+01:00",
 "pruned": "2026-11-05",
 "calls": {
 "2026-10-29": 300,
@@ -13,12 +13,20 @@
 "2026-11-02": 197,
 "2026-11-03": 174,
 "2026-11-04": 181,
-"2026-11-05": 140
+"2026-11-05": 142
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAfKRYimRJbRU3rx9L267emw3ctC0vl",
+"snapshot": "AAAfKlYlN10gpOi5Dbg2iG8t6OeJEQBz",
 "playlist": [
+[
+"2026-11-05T18:51|Benjamin Clementine|In Fact You Know You Gotto Go",
+"spotify:track:4cWEdRTQ8sg4QaTBIGn06j"
+],
+[
+"2026-11-05T18:48|Eilis Frawley|Taken, Never Erased",
+"spotify:track:5a3IV4xiA81Ucn98CHtJzb"
+],
 [
 "2026-11-05T18:44|Spoon|I Turn My Camera On",
 "spotify:track:0eNFXjOG8XOgGzeCJDCbI1"
@@ -3781,6 +3789,12 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-11-05T18:57|Tegan & Sara|Back In Your Head",
+"t": "2026-11-05T18:57:00+01:00",
+"artist": "Tegan & Sara",
+"title": "Back In Your Head"
+},
 {
 "id": "2026-11-05T18:51|Benjamin Clementine|In Fact You Know You Gotto Go",
 "t": "2026-11-05T18:51:00+01:00",
@@ -8772,12 +8786,6 @@
 "t": "2026-10-29T19:25:00+01:00",
 "artist": "54 Ultra",
 "title": "Tell Me"
-},
-{
-"id": "2026-10-29T19:05|Dove Ellis|Heaven Has No Wings",
-"t": "2026-10-29T19:05:00+01:00",
-"artist": "Dove Ellis",
-"title": "Heaven Has No Wings"
 }
 ]
 }
