@@ -1,9 +1,9 @@
 {
-"updated": "2026-11-05T05:06:23.310747+01:00",
+"updated": "2026-11-05T05:18:23.311067+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
-"synced": "2026-11-05T04:02:23.308847+01:00",
+"synced": "2026-11-05T05:10:23.310836+01:00",
 "pruned": "2026-11-05",
 "calls": {
 "2026-10-29": 300,
@@ -12,12 +12,20 @@
 "2026-11-01": 99,
 "2026-11-02": 197,
 "2026-11-03": 174,
-"2026-11-04": 177
+"2026-11-04": 179
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAe+IEbAgnsn5bU/HqP2SHbtWc3xjki",
+"snapshot": "AAAe+TW36o3PgjvmIwBtX74x45TXr27N",
 "playlist": [
+[
+"2026-11-05T05:07|Sparkling & COMA|It Won't Be Like This Forever",
+"spotify:track:1w6NksiUfe5WNa5wZAJXYO"
+],
+[
+"2026-11-05T05:03|Courtney Barnett|Wonder",
+"spotify:track:5QraYxwAgy8LloNZeIiuQ5"
+],
 [
 "2026-11-04T19:56|The Avalanches feat. Karen O|Blue Shadows",
 "spotify:track:5bN5To0VLbNBKQDzJ1Lk6c"
@@ -3276,6 +3284,18 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-11-05T05:07|Sparkling & COMA|It Won't Be Like This Forever",
+"t": "2026-11-05T05:07:00+01:00",
+"artist": "Sparkling & COMA",
+"title": "It Won't Be Like This Forever"
+},
+{
+"id": "2026-11-05T05:03|Courtney Barnett|Wonder",
+"t": "2026-11-05T05:03:00+01:00",
+"artist": "Courtney Barnett",
+"title": "Wonder"
+},
 {
 "id": "2026-11-04T19:56|The Avalanches feat. Karen O|Blue Shadows",
 "t": "2026-11-04T19:56:00+01:00",
@@ -8261,24 +8281,6 @@
 "t": "2026-10-29T05:22:00+01:00",
 "artist": "Ernie K-Doe",
 "title": "Here Comes The Girls (UK Hit Single Version)"
-},
-{
-"id": "2026-10-29T05:17|Death Cab For Cutie|Pep Talk",
-"t": "2026-10-29T05:17:00+01:00",
-"artist": "Death Cab For Cutie",
-"title": "Pep Talk"
-},
-{
-"id": "2026-10-29T05:12|Finley Quaye|Your Love Gets Sweeter",
-"t": "2026-10-29T05:12:00+01:00",
-"artist": "Finley Quaye",
-"title": "Your Love Gets Sweeter"
-},
-{
-"id": "2026-10-29T05:07|Benjamin Clementine|In Fact You Know You Gotto Go",
-"t": "2026-10-29T05:07:00+01:00",
-"artist": "Benjamin Clementine",
-"title": "In Fact You Know You Gotto Go"
 }
 ]
 }
