@@ -1,9 +1,9 @@
 {
-"updated": "2026-11-05T17:21:33.481929+01:00",
+"updated": "2026-11-05T17:33:33.482213+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
-"synced": "2026-11-05T17:17:33.481827+01:00",
+"synced": "2026-11-05T17:33:33.482213+01:00",
 "pruned": "2026-11-05",
 "calls": {
 "2026-10-29": 300,
@@ -13,12 +13,16 @@
 "2026-11-02": 197,
 "2026-11-03": 174,
 "2026-11-04": 181,
-"2026-11-05": 123
+"2026-11-05": 125
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAfIyaDYxpAHbhTZfump/8ZiYMV+cew",
+"snapshot": "AAAfJDuvaBhBJ04tJtD/0nmGRZja4m/k",
 "playlist": [
+[
+"2026-11-05T17:16|Natalie Imbruglia|Torn",
+"spotify:track:1Jaah2tmN9Hv81A87KZ1MU"
+],
 [
 "2026-11-05T17:09|CECI feat. Lords of Lounge|Honey Honey",
 "spotify:track:1I3D3G5pwYFKNYGIYTLRCq"
@@ -3725,6 +3729,12 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-11-05T17:16|Natalie Imbruglia|Torn",
+"t": "2026-11-05T17:16:00+01:00",
+"artist": "Natalie Imbruglia",
+"title": "Torn"
+},
 {
 "id": "2026-11-05T17:09|CECI feat. Lords of Lounge|Honey Honey",
 "t": "2026-11-05T17:09:00+01:00",
@@ -8716,18 +8726,6 @@
 "t": "2026-10-29T17:34:00+01:00",
 "artist": "Gena feat. Liv.e, Karriem Riggins",
 "title": "Circlesz"
-},
-{
-"id": "2026-10-29T17:27|Devendra Banhart|16th & Valencia Roxy Music",
-"t": "2026-10-29T17:27:00+01:00",
-"artist": "Devendra Banhart",
-"title": "16th & Valencia Roxy Music"
-},
-{
-"id": "2026-10-29T17:24|Django Django|Storm",
-"t": "2026-10-29T17:24:00+01:00",
-"artist": "Django Django",
-"title": "Storm"
 }
 ]
 }
