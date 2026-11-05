@@ -1,9 +1,9 @@
 {
-"updated": "2026-11-05T19:21:33.485589+01:00",
+"updated": "2026-11-05T19:33:33.485838+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
-"synced": "2026-11-05T19:09:33.485263+01:00",
+"synced": "2026-11-05T19:25:33.485674+01:00",
 "pruned": "2026-11-05",
 "calls": {
 "2026-10-29": 300,
@@ -13,11 +13,11 @@
 "2026-11-02": 197,
 "2026-11-03": 174,
 "2026-11-04": 181,
-"2026-11-05": 142
+"2026-11-05": 146
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAfKlYlN10gpOi5Dbg2iG8t6OeJEQBz",
+"snapshot": "AAAfLsqo3Pr/Jo2WBlkAI2E5WOUPhOwt",
 "playlist": [
 [
 "2026-11-05T18:51|Benjamin Clementine|In Fact You Know You Gotto Go",
@@ -3258,10 +3258,6 @@
 [
 "2026-10-29T19:28|Kaiser Chiefs|Everyday I Love You Less And Less",
 "spotify:track:5dvBeCMTzUNjyWIcuykzyh"
-],
-[
-"2026-10-29T19:25|54 Ultra|Tell Me",
-"spotify:track:6iXIvHGsLMJ89TuW1S9E3C"
 ],
 [
 "2026-10-29T19:05|Dove Ellis|Heaven Has No Wings",
@@ -8774,18 +8770,6 @@
 "t": "2026-10-29T19:41:00+01:00",
 "artist": "Linka Moja",
 "title": "Men R Dogs"
-},
-{
-"id": "2026-10-29T19:28|Kaiser Chiefs|Everyday I Love You Less And Less",
-"t": "2026-10-29T19:28:00+01:00",
-"artist": "Kaiser Chiefs",
-"title": "Everyday I Love You Less And Less"
-},
-{
-"id": "2026-10-29T19:25|54 Ultra|Tell Me",
-"t": "2026-10-29T19:25:00+01:00",
-"artist": "54 Ultra",
-"title": "Tell Me"
 }
 ]
 }
