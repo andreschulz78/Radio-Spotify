@@ -1,9 +1,9 @@
 {
-"updated": "2026-11-05T11:54:17.163622+01:00",
+"updated": "2026-11-05T12:06:17.163941+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
-"synced": "2026-11-05T11:46:17.163419+01:00",
+"synced": "2026-11-05T12:02:17.163836+01:00",
 "pruned": "2026-11-05",
 "calls": {
 "2026-10-29": 300,
@@ -13,12 +13,20 @@
 "2026-11-02": 197,
 "2026-11-03": 174,
 "2026-11-04": 181,
-"2026-11-05": 68
+"2026-11-05": 70
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAfEad3J92Z+SMBa5QtmMZpzn1SZBlO",
+"snapshot": "AAAfEi66c6FLJnU1PnOyqjpTQ7BBF5sM",
 "playlist": [
+[
+"2026-11-05T11:50|Poliça|Carlines",
+"spotify:track:3yuU8d8ckQ1SeLNSynIurJ"
+],
+[
+"2026-11-05T11:47|Vince Staples|Tulsa, OK",
+"spotify:track:4lyK8sT0dLpxSBv14wtVet"
+],
 [
 "2026-11-05T11:37|TV On The Radio|Will Do",
 "spotify:track:5iHK8VI9XkJJdXQHCBXeM4"
@@ -3501,6 +3509,24 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-11-05T11:57|Ouzo Bazooka|Going Down",
+"t": "2026-11-05T11:57:00+01:00",
+"artist": "Ouzo Bazooka",
+"title": "Going Down"
+},
+{
+"id": "2026-11-05T11:50|Poliça|Carlines",
+"t": "2026-11-05T11:50:00+01:00",
+"artist": "Poliça",
+"title": "Carlines"
+},
+{
+"id": "2026-11-05T11:47|Vince Staples|Tulsa, OK",
+"t": "2026-11-05T11:47:00+01:00",
+"artist": "Vince Staples",
+"title": "Tulsa, OK"
+},
 {
 "id": "2026-11-05T11:37|TV On The Radio|Will Do",
 "t": "2026-11-05T11:37:00+01:00",
@@ -8474,18 +8500,6 @@
 "t": "2026-10-29T12:09:00+01:00",
 "artist": "Keshavara",
 "title": "Oracular"
-},
-{
-"id": "2026-10-29T12:06|Holybones|Saltywater",
-"t": "2026-10-29T12:06:00+01:00",
-"artist": "Holybones",
-"title": "Saltywater"
-},
-{
-"id": "2026-10-29T11:57|Claptone feat. Zola Blood|Birdsong",
-"t": "2026-10-29T11:57:00+01:00",
-"artist": "Claptone feat. Zola Blood",
-"title": "Birdsong"
 }
 ]
 }
