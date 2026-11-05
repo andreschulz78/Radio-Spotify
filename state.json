@@ -1,5 +1,5 @@
 {
-"updated": "2026-11-05T20:09:33.486737+01:00",
+"updated": "2026-11-05T20:21:33.487000+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
@@ -8708,18 +8708,6 @@
 "t": "2026-10-29T20:24:00+01:00",
 "artist": "Pamela.",
 "title": "Better than Before"
-},
-{
-"id": "2026-10-29T20:19|JJerome87|Green Velvet",
-"t": "2026-10-29T20:19:00+01:00",
-"artist": "JJerome87",
-"title": "Green Velvet"
-},
-{
-"id": "2026-10-29T20:16|Widowspeak|Soft Cover (Edit)",
-"t": "2026-10-29T20:16:00+01:00",
-"artist": "Widowspeak",
-"title": "Soft Cover (Edit)"
 }
 ]
 }
