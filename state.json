@@ -1,9 +1,9 @@
 {
-"updated": "2026-11-05T08:42:17.158788+01:00",
+"updated": "2026-11-05T08:54:17.159083+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
-"synced": "2026-11-05T08:34:17.158581+01:00",
+"synced": "2026-11-05T08:50:17.158979+01:00",
 "pruned": "2026-11-05",
 "calls": {
 "2026-10-29": 300,
@@ -13,12 +13,20 @@
 "2026-11-02": 197,
 "2026-11-03": 174,
 "2026-11-04": 181,
-"2026-11-05": 33
+"2026-11-05": 34
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAfA0kNwnTIEoaQh+2n9zkJoaoCaAv6",
+"snapshot": "AAAfBPlUA3xffuxdlADc4OsgpEHB7uY9",
 "playlist": [
+[
+"2026-11-05T08:45|Natalie Bergmann|White Oak (Kosta G. Remix)",
+"spotify:track:18PftHVAUSO5vTwdeRa7Lv"
+],
+[
+"2026-11-05T08:35|Julia Jacklin|You Were Right",
+"spotify:track:3oWElH2PFEX2bQdwhrIxNh"
+],
 [
 "2026-11-05T08:25|Danger Dan|Dass es hier so schön ist",
 "spotify:track:1HGb9YabpkJHq6i8A1HY6n"
@@ -3393,6 +3401,12 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-11-05T08:45|Natalie Bergmann|White Oak (Kosta G. Remix)",
+"t": "2026-11-05T08:45:00+01:00",
+"artist": "Natalie Bergmann",
+"title": "White Oak (Kosta G. Remix)"
+},
 {
 "id": "2026-11-05T08:35|Julia Jacklin|You Were Right",
 "t": "2026-11-05T08:35:00+01:00",
@@ -8390,18 +8404,6 @@
 "t": "2026-10-29T08:57:00+01:00",
 "artist": "Hard-Fi",
 "title": "Watch Me Fall Apart"
-},
-{
-"id": "2026-10-29T08:48|Nick Cave & The Bad Seeds|Into My Arms",
-"t": "2026-10-29T08:48:00+01:00",
-"artist": "Nick Cave & The Bad Seeds",
-"title": "Into My Arms"
-},
-{
-"id": "2026-10-29T08:44|Steve Lacy|Show You Me",
-"t": "2026-10-29T08:44:00+01:00",
-"artist": "Steve Lacy",
-"title": "Show You Me"
 }
 ]
 }
