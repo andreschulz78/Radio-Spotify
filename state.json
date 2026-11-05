@@ -1,9 +1,9 @@
 {
-"updated": "2026-11-05T12:42:17.164841+01:00",
+"updated": "2026-11-05T12:54:17.165158+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
-"synced": "2026-11-05T12:34:17.164650+01:00",
+"synced": "2026-11-05T12:50:17.165045+01:00",
 "pruned": "2026-11-05",
 "calls": {
 "2026-10-29": 300,
@@ -13,12 +13,32 @@
 "2026-11-02": 197,
 "2026-11-03": 174,
 "2026-11-04": 181,
-"2026-11-05": 78
+"2026-11-05": 82
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAfFAD2OdlwJYYs0Gr04kk9kqqOiuBa",
+"snapshot": "AAAfFeETES4ugHKF6Iv9aL7RgxvUxSN+",
 "playlist": [
+[
+"2026-11-05T12:45|TSHA|Running",
+"spotify:track:2sFOzyRqcN5fKXPrZJjoc2"
+],
+[
+"2026-11-05T12:41|Frank Ocean|Lost",
+"spotify:track:3GZD6HmiNUhxXYf8Gch723"
+],
+[
+"2026-11-05T12:39|Husten|Liebe Kaputt",
+"spotify:track:228AIVwSxAmZmoMWIuluFm"
+],
+[
+"2026-11-05T12:34|Chicks On Speed|Wordy Rappinghood",
+"spotify:track:4OHG25qtSq9E6EIT03NNCb"
+],
+[
+"2026-11-05T12:31|Moonlight Breakfast|If Not Now, Then When?!",
+"spotify:track:7rqjXsHITwfxR5XoKIGsaJ"
+],
 [
 "2026-11-05T12:25|Nneka|Walking",
 "spotify:track:6rW2IhYxTISt9w1CQamouh"
@@ -3533,6 +3553,24 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-11-05T12:45|TSHA|Running",
+"t": "2026-11-05T12:45:00+01:00",
+"artist": "TSHA",
+"title": "Running"
+},
+{
+"id": "2026-11-05T12:41|Frank Ocean|Lost",
+"t": "2026-11-05T12:41:00+01:00",
+"artist": "Frank Ocean",
+"title": "Lost"
+},
+{
+"id": "2026-11-05T12:39|Husten|Liebe Kaputt",
+"t": "2026-11-05T12:39:00+01:00",
+"artist": "Husten",
+"title": "Liebe Kaputt"
+},
 {
 "id": "2026-11-05T12:34|Chicks On Speed|Wordy Rappinghood",
 "t": "2026-11-05T12:34:00+01:00",
@@ -8494,24 +8532,6 @@
 "t": "2026-10-29T13:04:00+01:00",
 "artist": "Moscoman & Tom Sanders",
 "title": "In Stereo"
-},
-{
-"id": "2026-10-29T12:52|blackwave. feat. David Ngyah|Elusive",
-"t": "2026-10-29T12:52:00+01:00",
-"artist": "blackwave. feat. David Ngyah",
-"title": "Elusive"
-},
-{
-"id": "2026-10-29T12:49|Junior Murvin|Police & Thieves",
-"t": "2026-10-29T12:49:00+01:00",
-"artist": "Junior Murvin",
-"title": "Police & Thieves"
-},
-{
-"id": "2026-10-29T12:45|Cari Cari|Zdarlight 1992",
-"t": "2026-10-29T12:45:00+01:00",
-"artist": "Cari Cari",
-"title": "Zdarlight 1992"
 }
 ]
 }
