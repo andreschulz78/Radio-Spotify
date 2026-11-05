@@ -1,9 +1,9 @@
 {
-"updated": "2026-11-05T16:57:33.481263+01:00",
+"updated": "2026-11-05T17:09:33.481589+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
-"synced": "2026-11-05T16:45:33.480945+01:00",
+"synced": "2026-11-05T17:01:33.481360+01:00",
 "pruned": "2026-11-05",
 "calls": {
 "2026-10-29": 300,
@@ -13,12 +13,24 @@
 "2026-11-02": 197,
 "2026-11-03": 174,
 "2026-11-04": 181,
-"2026-11-05": 106
+"2026-11-05": 119
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAfGm2MEN2Kiy/NUB2wUXcYOosX+lXz",
+"snapshot": "AAAfH+9abs9uB39fgBX+UHDIjUnkGTfC",
 "playlist": [
+[
+"2026-11-05T16:56|M.I.A.|Paper Planes",
+"spotify:track:1ixbwbeBi5ufN4noUKmW5a"
+],
+[
+"2026-11-05T16:49|Mo' Horizons|Foto Viva",
+"spotify:track:5dCbRr9FnnToqDgs86WJSC"
+],
+[
+"2026-11-05T16:45|Tristan Brusch|Vierzehn",
+"spotify:track:6bauquMrawP7ZfZ6qsmOtr"
+],
 [
 "2026-11-05T16:42|Keane|This Is The Last Time",
 "spotify:track:3fKCT2KNVPw5E5uthkh7xP"
@@ -44,8 +56,24 @@
 "spotify:track:6YOVSmh0qqnFwE8zAmW8M6"
 ],
 [
+"2026-11-05T16:06|Ben Folds feat. Regina Spektor|You Don't Know Me",
+"spotify:track:0YnJgVYOKIVSFdq22HFXvo"
+],
+[
+"2026-11-05T15:58|Elderbrook|Body",
+"spotify:track:5nbq4CyzheTl7BLPR3caJY"
+],
+[
+"2026-11-05T15:52|The Jimi Hendrix Experience|The Wind Cries Mary",
+"spotify:track:5ygQD0fcj0vRGx9KUBENtT"
+],
+[
 "2026-11-05T15:46|Austra & Patrick Holland|Siren Reprise",
 "spotify:track:678wI419HyRL4qSTbXdyLu"
+],
+[
+"2026-11-05T15:32|The Streets feat. Tame Impala|Call My Phone Thinking I'm Doing Nothing Better",
+"spotify:track:6iL8HJz9hm6et1pU9JIvx2"
 ],
 [
 "2026-11-05T15:26|Passion Mango|Bloody Eyes",
@@ -56,8 +84,24 @@
 "spotify:track:0c3tXpFKZilDSR3yAphPZt"
 ],
 [
+"2026-11-05T15:06|Editors|Munich",
+"spotify:track:1TF8mSG5YHyaS4o3NeBSAo"
+],
+[
+"2026-11-05T14:56|Lykke Li|Get Some",
+"spotify:track:0mipxOSmMcP12mEOk3LE2n"
+],
+[
 "2026-11-05T14:50|JGrrey feat. Bel Cobain|Take My Hand",
 "spotify:track:0i4SCqKHjbBrPjUX4RPRq3"
+],
+[
+"2026-11-05T14:44|The Temptations|Law Of The Land",
+"spotify:track:2YxKzHSQeVzBpXj8ucpzoA"
+],
+[
+"2026-11-05T14:40|Heather Nova|The Orchard",
+"spotify:track:15NsnJl1XhQG7P7cEMiTKG"
 ],
 [
 "2026-11-05T14:27|Madison McFerrin|Ain't It Nice",
@@ -3649,6 +3693,12 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-11-05T16:56|M.I.A.|Paper Planes",
+"t": "2026-11-05T16:56:00+01:00",
+"artist": "M.I.A.",
+"title": "Paper Planes"
+},
 {
 "id": "2026-11-05T16:49|Mo' Horizons|Foto Viva",
 "t": "2026-11-05T16:49:00+01:00",
@@ -8646,12 +8696,6 @@
 "t": "2026-10-29T17:10:00+01:00",
 "artist": "Alabama 3",
 "title": "Ain't Goin' To Goa"
-},
-{
-"id": "2026-10-29T17:05|Grace Cummings|I'm Not Crazy",
-"t": "2026-10-29T17:05:00+01:00",
-"artist": "Grace Cummings",
-"title": "I'm Not Crazy"
 }
 ]
 }
