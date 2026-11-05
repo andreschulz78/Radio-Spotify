@@ -1,9 +1,9 @@
 {
-"updated": "2026-11-05T13:54:17.166794+01:00",
+"updated": "2026-11-05T16:45:33.480945+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
-"synced": "2026-11-05T13:54:17.166794+01:00",
+"synced": "2026-11-05T16:45:33.480945+01:00",
 "pruned": "2026-11-05",
 "calls": {
 "2026-10-29": 300,
@@ -13,12 +13,72 @@
 "2026-11-02": 197,
 "2026-11-03": 174,
 "2026-11-04": 181,
-"2026-11-05": 92
+"2026-11-05": 96
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAfGSdclHW+lk7OUfviBGIYxX1YpcJl",
+"snapshot": "AAAfGm2MEN2Kiy/NUB2wUXcYOosX+lXz",
 "playlist": [
+[
+"2026-11-05T16:42|Keane|This Is The Last Time",
+"spotify:track:3fKCT2KNVPw5E5uthkh7xP"
+],
+[
+"2026-11-05T16:34|Lucy Dacus|Ankles",
+"spotify:track:4VhbsGXRGDncpi79aiX8eE"
+],
+[
+"2026-11-05T16:24|Westside Cowboy|Kick Stones (The Boys)",
+"spotify:track:6qIdkfxjme3OEkdgsA8ANp"
+],
+[
+"2026-11-05T16:21|Gabriels|Break It",
+"spotify:track:5WiVqnjVzB9tNXqeSKZgxH"
+],
+[
+"2026-11-05T16:18|Nihils|Lavender",
+"spotify:track:24IHKK4RZRa5WYOEigkp5h"
+],
+[
+"2026-11-05T16:09|Suzanne Vega|I Never Wear White",
+"spotify:track:6YOVSmh0qqnFwE8zAmW8M6"
+],
+[
+"2026-11-05T15:46|Austra & Patrick Holland|Siren Reprise",
+"spotify:track:678wI419HyRL4qSTbXdyLu"
+],
+[
+"2026-11-05T15:26|Passion Mango|Bloody Eyes",
+"spotify:track:4YUBcBSUIXfCNNFAaWQcyG"
+],
+[
+"2026-11-05T15:19|Alexander IV & IYAMAH|About Us",
+"spotify:track:0c3tXpFKZilDSR3yAphPZt"
+],
+[
+"2026-11-05T14:50|JGrrey feat. Bel Cobain|Take My Hand",
+"spotify:track:0i4SCqKHjbBrPjUX4RPRq3"
+],
+[
+"2026-11-05T14:27|Madison McFerrin|Ain't It Nice",
+"spotify:track:1HpOY4aHE6ELbGN5dVYwS6"
+],
+[
+"2026-11-05T14:23|Fuffifufzich|New Era",
+"spotify:track:0sF1TJMDGYxKvu9pp1JQkQ"
+],
+[
+"2026-11-05T14:15|Flora Hibberd|Bowling Ball",
+"spotify:track:2Bqy2DIYw0DXkZj8gHTg2p"
+],
+[
+"2026-11-05T14:07|Linka Moja|Men R Dogs",
+"spotify:track:7AgfOLYDB7GrgIWg60PBw7"
+],
+[
+"2026-11-05T13:47|Oscar Farrell feat. Sampha|Dream Therapy",
+"spotify:track:1WCiaKkadXRQjK5LapkGtu"
+],
 [
 "2026-11-05T13:43|The Big Moon|F.O.R.E.V.E.R",
 "spotify:track:0UaPOdi1O83vr1oTXaGqgx"
@@ -3589,6 +3649,186 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-11-05T16:42|Keane|This Is The Last Time",
+"t": "2026-11-05T16:42:00+01:00",
+"artist": "Keane",
+"title": "This Is The Last Time"
+},
+{
+"id": "2026-11-05T16:34|Lucy Dacus|Ankles",
+"t": "2026-11-05T16:34:00+01:00",
+"artist": "Lucy Dacus",
+"title": "Ankles"
+},
+{
+"id": "2026-11-05T16:24|Westside Cowboy|Kick Stones (The Boys)",
+"t": "2026-11-05T16:24:00+01:00",
+"artist": "Westside Cowboy",
+"title": "Kick Stones (The Boys)"
+},
+{
+"id": "2026-11-05T16:21|Gabriels|Break It",
+"t": "2026-11-05T16:21:00+01:00",
+"artist": "Gabriels",
+"title": "Break It"
+},
+{
+"id": "2026-11-05T16:18|Nihils|Lavender",
+"t": "2026-11-05T16:18:00+01:00",
+"artist": "Nihils",
+"title": "Lavender"
+},
+{
+"id": "2026-11-05T16:09|Suzanne Vega|I Never Wear White",
+"t": "2026-11-05T16:09:00+01:00",
+"artist": "Suzanne Vega",
+"title": "I Never Wear White"
+},
+{
+"id": "2026-11-05T16:06|Ben Folds feat. Regina Spektor|You Don't Know Me",
+"t": "2026-11-05T16:06:00+01:00",
+"artist": "Ben Folds feat. Regina Spektor",
+"title": "You Don't Know Me"
+},
+{
+"id": "2026-11-05T15:58|Elderbrook|Body",
+"t": "2026-11-05T15:58:00+01:00",
+"artist": "Elderbrook",
+"title": "Body"
+},
+{
+"id": "2026-11-05T15:52|The Jimi Hendrix Experience|The Wind Cries Mary",
+"t": "2026-11-05T15:52:00+01:00",
+"artist": "The Jimi Hendrix Experience",
+"title": "The Wind Cries Mary"
+},
+{
+"id": "2026-11-05T15:46|Austra & Patrick Holland|Siren Reprise",
+"t": "2026-11-05T15:46:00+01:00",
+"artist": "Austra & Patrick Holland",
+"title": "Siren Reprise"
+},
+{
+"id": "2026-11-05T15:32|The Streets feat. Tame Impala|Call My Phone Thinking I'm Doing Nothing Better",
+"t": "2026-11-05T15:32:00+01:00",
+"artist": "The Streets feat. Tame Impala",
+"title": "Call My Phone Thinking I'm Doing Nothing Better"
+},
+{
+"id": "2026-11-05T15:26|Passion Mango|Bloody Eyes",
+"t": "2026-11-05T15:26:00+01:00",
+"artist": "Passion Mango",
+"title": "Bloody Eyes"
+},
+{
+"id": "2026-11-05T15:19|Alexander IV & IYAMAH|About Us",
+"t": "2026-11-05T15:19:00+01:00",
+"artist": "Alexander IV & IYAMAH",
+"title": "About Us"
+},
+{
+"id": "2026-11-05T15:10|Fischer-Z|Room Service",
+"t": "2026-11-05T15:10:00+01:00",
+"artist": "Fischer-Z",
+"title": "Room Service"
+},
+{
+"id": "2026-11-05T15:06|Editors|Munich",
+"t": "2026-11-05T15:06:00+01:00",
+"artist": "Editors",
+"title": "Munich"
+},
+{
+"id": "2026-11-05T14:56|Lykke Li|Get Some",
+"t": "2026-11-05T14:56:00+01:00",
+"artist": "Lykke Li",
+"title": "Get Some"
+},
+{
+"id": "2026-11-05T14:50|JGrrey feat. Bel Cobain|Take My Hand",
+"t": "2026-11-05T14:50:00+01:00",
+"artist": "JGrrey feat. Bel Cobain",
+"title": "Take My Hand"
+},
+{
+"id": "2026-11-05T14:44|The Temptations|Law Of The Land",
+"t": "2026-11-05T14:44:00+01:00",
+"artist": "The Temptations",
+"title": "Law Of The Land"
+},
+{
+"id": "2026-11-05T14:40|Heather Nova|The Orchard",
+"t": "2026-11-05T14:40:00+01:00",
+"artist": "Heather Nova",
+"title": "The Orchard"
+},
+{
+"id": "2026-11-05T14:34|Dina Ögon|Det läcker",
+"t": "2026-11-05T14:34:00+01:00",
+"artist": "Dina Ögon",
+"title": "Det läcker"
+},
+{
+"id": "2026-11-05T14:32|Modeselektor|IWUDLYK",
+"t": "2026-11-05T14:32:00+01:00",
+"artist": "Modeselektor",
+"title": "IWUDLYK"
+},
+{
+"id": "2026-11-05T14:27|Madison McFerrin|Ain't It Nice",
+"t": "2026-11-05T14:27:00+01:00",
+"artist": "Madison McFerrin",
+"title": "Ain't It Nice"
+},
+{
+"id": "2026-11-05T14:23|Fuffifufzich|New Era",
+"t": "2026-11-05T14:23:00+01:00",
+"artist": "Fuffifufzich",
+"title": "New Era"
+},
+{
+"id": "2026-11-05T14:18|Kelly Joyce|Vivre La Vie",
+"t": "2026-11-05T14:18:00+01:00",
+"artist": "Kelly Joyce",
+"title": "Vivre La Vie"
+},
+{
+"id": "2026-11-05T14:15|Flora Hibberd|Bowling Ball",
+"t": "2026-11-05T14:15:00+01:00",
+"artist": "Flora Hibberd",
+"title": "Bowling Ball"
+},
+{
+"id": "2026-11-05T14:07|Linka Moja|Men R Dogs",
+"t": "2026-11-05T14:07:00+01:00",
+"artist": "Linka Moja",
+"title": "Men R Dogs"
+},
+{
+"id": "2026-11-05T13:57|Kurt Vile & The Violators|Run run run (Radio Edit)",
+"t": "2026-11-05T13:57:00+01:00",
+"artist": "Kurt Vile & The Violators",
+"title": "Run run run (Radio Edit)"
+},
+{
+"id": "2026-11-05T13:52|Edie Brickell|Good Times",
+"t": "2026-11-05T13:52:00+01:00",
+"artist": "Edie Brickell",
+"title": "Good Times"
+},
+{
+"id": "2026-11-05T13:51|Edie Brickell|Good Times",
+"t": "2026-11-05T13:51:00+01:00",
+"artist": "Edie Brickell",
+"title": "Good Times"
+},
+{
+"id": "2026-11-05T13:47|Oscar Farrell feat. Sampha|Dream Therapy",
+"t": "2026-11-05T13:47:00+01:00",
+"artist": "Oscar Farrell feat. Sampha",
+"title": "Dream Therapy"
+},
 {
 "id": "2026-11-05T13:43|The Big Moon|F.O.R.E.V.E.R",
 "t": "2026-11-05T13:43:00+01:00",
@@ -8418,156 +8658,6 @@
 "t": "2026-10-29T16:46:00+01:00",
 "artist": "Peki Momés",
 "title": "Ahşap Kutu"
-},
-{
-"id": "2026-10-29T16:43|Zoot Woman|Taken It All",
-"t": "2026-10-29T16:43:00+01:00",
-"artist": "Zoot Woman",
-"title": "Taken It All"
-},
-{
-"id": "2026-10-29T16:35|Bronson feat. Lau.ra|Heart Attack",
-"t": "2026-10-29T16:35:00+01:00",
-"artist": "Bronson feat. Lau.ra",
-"title": "Heart Attack"
-},
-{
-"id": "2026-10-29T16:25|Pet Shop Boys|Left To My Own Devices",
-"t": "2026-10-29T16:25:00+01:00",
-"artist": "Pet Shop Boys",
-"title": "Left To My Own Devices"
-},
-{
-"id": "2026-10-29T16:18|Innenräume|Im Gegenlicht",
-"t": "2026-10-29T16:18:00+01:00",
-"artist": "Innenräume",
-"title": "Im Gegenlicht"
-},
-{
-"id": "2026-10-29T16:15|Broken Bells|Good Luck",
-"t": "2026-10-29T16:15:00+01:00",
-"artist": "Broken Bells",
-"title": "Good Luck"
-},
-{
-"id": "2026-10-29T16:06|Get Well Soon|Siri, What Ruined The West ?",
-"t": "2026-10-29T16:06:00+01:00",
-"artist": "Get Well Soon",
-"title": "Siri, What Ruined The West ?"
-},
-{
-"id": "2026-10-29T15:54|DeEtta Little / Bill Conti|Gonna fly now (Theme)",
-"t": "2026-10-29T15:54:00+01:00",
-"artist": "DeEtta Little / Bill Conti",
-"title": "Gonna fly now (Theme)"
-},
-{
-"id": "2026-10-29T15:47|Mark Ronson|Bang Bang Bang",
-"t": "2026-10-29T15:47:00+01:00",
-"artist": "Mark Ronson",
-"title": "Bang Bang Bang"
-},
-{
-"id": "2026-10-29T15:32|Key Largo|22334 (The Way I Like It) (Baby Elephant Walk)",
-"t": "2026-10-29T15:32:00+01:00",
-"artist": "Key Largo",
-"title": "22334 (The Way I Like It) (Baby Elephant Walk)"
-},
-{
-"id": "2026-10-29T15:28|The Pogues|Summer in Siam",
-"t": "2026-10-29T15:28:00+01:00",
-"artist": "The Pogues",
-"title": "Summer in Siam"
-},
-{
-"id": "2026-10-29T15:18|Jungle|Someday, Somewhere",
-"t": "2026-10-29T15:18:00+01:00",
-"artist": "Jungle",
-"title": "Someday, Somewhere"
-},
-{
-"id": "2026-10-29T15:09|Friedberg|Goodwife",
-"t": "2026-10-29T15:09:00+01:00",
-"artist": "Friedberg",
-"title": "Goodwife"
-},
-{
-"id": "2026-10-29T15:05|The Rapture|Sail Away",
-"t": "2026-10-29T15:05:00+01:00",
-"artist": "The Rapture",
-"title": "Sail Away"
-},
-{
-"id": "2026-10-29T14:57|Crystal Fighters|Champion Sound",
-"t": "2026-10-29T14:57:00+01:00",
-"artist": "Crystal Fighters",
-"title": "Champion Sound"
-},
-{
-"id": "2026-10-29T14:50|Cameron Winter|Love Takes Miles",
-"t": "2026-10-29T14:50:00+01:00",
-"artist": "Cameron Winter",
-"title": "Love Takes Miles"
-},
-{
-"id": "2026-10-29T14:44|Angine de Poitrine|Tohogd",
-"t": "2026-10-29T14:44:00+01:00",
-"artist": "Angine de Poitrine",
-"title": "Tohogd"
-},
-{
-"id": "2026-10-29T14:38|Freedom Fry|She Fell In Love On The Dance Floor",
-"t": "2026-10-29T14:38:00+01:00",
-"artist": "Freedom Fry",
-"title": "She Fell In Love On The Dance Floor"
-},
-{
-"id": "2026-10-29T14:34|David Bowie|Heroes (Single Version)",
-"t": "2026-10-29T14:34:00+01:00",
-"artist": "David Bowie",
-"title": "Heroes (Single Version)"
-},
-{
-"id": "2026-10-29T14:29|Brandt Brauer Frick feat. Sophie Hunger|This feeling (Radio Edit)",
-"t": "2026-10-29T14:29:00+01:00",
-"artist": "Brandt Brauer Frick feat. Sophie Hunger",
-"title": "This feeling (Radio Edit)"
-},
-{
-"id": "2026-10-29T14:24|Lola Young|From Down Here (Radio Edit)",
-"t": "2026-10-29T14:24:00+01:00",
-"artist": "Lola Young",
-"title": "From Down Here (Radio Edit)"
-},
-{
-"id": "2026-10-29T14:21|Marmaduke Duke|Kid Gloves",
-"t": "2026-10-29T14:21:00+01:00",
-"artist": "Marmaduke Duke",
-"title": "Kid Gloves"
-},
-{
-"id": "2026-10-29T14:18|Bilderbuch|Baby Junkie",
-"t": "2026-10-29T14:18:00+01:00",
-"artist": "Bilderbuch",
-"title": "Baby Junkie"
-},
-{
-"id": "2026-10-29T14:10|The KLF feat. The Children Of The Revolution|3 A.M. Eternal",
-"t": "2026-10-29T14:10:00+01:00",
-"artist": "The KLF feat. The Children Of The Revolution",
-"title": "3 A.M. Eternal"
-},
-{
-"id": "2026-10-29T14:05|Madonna|Danceteria",
-"t": "2026-10-29T14:05:00+01:00",
-"artist": "Madonna",
-"title": "Danceteria"
-},
-{
-"id": "2026-10-29T13:56|Kelela|the bridge (feat. PinkPantheress)",
-"t": "2026-10-29T13:56:00+01:00",
-"artist": "Kelela",
-"title": "the bridge (feat. PinkPantheress)"
 }
 ]
 }
