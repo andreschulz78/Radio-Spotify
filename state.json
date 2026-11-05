@@ -1,9 +1,9 @@
 {
-"updated": "2026-11-05T08:30:17.158483+01:00",
+"updated": "2026-11-05T08:42:17.158788+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
-"synced": "2026-11-05T08:18:17.158184+01:00",
+"synced": "2026-11-05T08:34:17.158581+01:00",
 "pruned": "2026-11-05",
 "calls": {
 "2026-10-29": 300,
@@ -13,12 +13,24 @@
 "2026-11-02": 197,
 "2026-11-03": 174,
 "2026-11-04": 181,
-"2026-11-05": 30
+"2026-11-05": 33
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAfAXUbunpw9FFE0c5G58WLnU4UOZ+R",
+"snapshot": "AAAfA0kNwnTIEoaQh+2n9zkJoaoCaAv6",
 "playlist": [
+[
+"2026-11-05T08:25|Danger Dan|Dass es hier so schön ist",
+"spotify:track:1HGb9YabpkJHq6i8A1HY6n"
+],
+[
+"2026-11-05T08:19|Blondie|Hanging On The Telephone",
+"spotify:track:6gPPHaa0e3EhtfgHweIR3N"
+],
+[
+"2026-11-05T08:13|Ex:Re|Sleep",
+"spotify:track:31hSy1c6SWABIV3W1LqjMz"
+],
 [
 "2026-11-05T08:06|Glasvegas|Geraldine",
 "spotify:track:3YYqLN0ZhMNqmGHvndpGCf"
@@ -3248,10 +3260,6 @@
 "spotify:track:4f50UTC41M2Ah5itifSGE5"
 ],
 [
-"2026-10-29T08:34|Kllo|Still Here",
-"spotify:track:27E9SrEZkRdKKsEqWlYeQP"
-],
-[
 "2026-10-29T08:24|Wanda|Salbei (Single Edit)",
 "spotify:track:1KTt6NGF0ZvnBtNBWTEBiU"
 ],
@@ -3385,6 +3393,12 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-11-05T08:35|Julia Jacklin|You Were Right",
+"t": "2026-11-05T08:35:00+01:00",
+"artist": "Julia Jacklin",
+"title": "You Were Right"
+},
 {
 "id": "2026-11-05T08:25|Danger Dan|Dass es hier so schön ist",
 "t": "2026-11-05T08:25:00+01:00",
@@ -8388,12 +8402,6 @@
 "t": "2026-10-29T08:44:00+01:00",
 "artist": "Steve Lacy",
 "title": "Show You Me"
-},
-{
-"id": "2026-10-29T08:34|Kllo|Still Here",
-"t": "2026-10-29T08:34:00+01:00",
-"artist": "Kllo",
-"title": "Still Here"
 }
 ]
 }
