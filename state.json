@@ -1,9 +1,9 @@
 {
-"updated": "2026-11-06T12:46:35.348846+01:00",
+"updated": "2026-11-06T12:58:35.349188+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
-"synced": "2026-11-06T12:38:35.348605+01:00",
+"synced": "2026-11-06T12:54:35.349081+01:00",
 "pruned": "2026-11-06",
 "calls": {
 "2026-10-30": 178,
@@ -13,12 +13,24 @@
 "2026-11-03": 174,
 "2026-11-04": 181,
 "2026-11-05": 165,
-"2026-11-06": 90
+"2026-11-06": 93
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAfXw7lqD8ba/dd7mTQvLlqy+00C7Kv",
+"snapshot": "AAAfYKBk1gfZuRgszbHGt9UVU0vISrJd",
 "playlist": [
+[
+"2026-11-06T12:46|Loaded Honey|Don't Speak",
+"spotify:track:2sKjOX72UX1HiCDhI2HdlR"
+],
+[
+"2026-11-06T12:43|Nia Archives|Vertical",
+"spotify:track:0ecQazzKkndVD8Ry9Orp9Q"
+],
+[
+"2026-11-06T12:34|The Flaming Lips|God Will Control The Werewolves (Radio Edit)",
+"spotify:track:63hixy83eOlSRb4JFnmnpg"
+],
 [
 "2026-11-06T12:31|Razorlight|Golden Touch",
 "spotify:track:13bEwk7dTy0RdOAY3ZNNBD"
@@ -3453,6 +3465,24 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-11-06T12:49|The Beatles|Sgt Pepper's Lonely Hearts Club Band",
+"t": "2026-11-06T12:49:00+01:00",
+"artist": "The Beatles",
+"title": "Sgt Pepper's Lonely Hearts Club Band"
+},
+{
+"id": "2026-11-06T12:46|Loaded Honey|Don't Speak",
+"t": "2026-11-06T12:46:00+01:00",
+"artist": "Loaded Honey",
+"title": "Don't Speak"
+},
+{
+"id": "2026-11-06T12:43|Nia Archives|Vertical",
+"t": "2026-11-06T12:43:00+01:00",
+"artist": "Nia Archives",
+"title": "Vertical"
+},
 {
 "id": "2026-11-06T12:34|The Flaming Lips|God Will Control The Werewolves (Radio Edit)",
 "t": "2026-11-06T12:34:00+01:00",
@@ -8330,24 +8360,6 @@
 "t": "2026-10-30T18:56:00+01:00",
 "artist": "Sydney Minsky Sargeant",
 "title": "I Don't Wanna"
-},
-{
-"id": "2026-10-30T12:58|Liam Lynch|United States Of Whatever",
-"t": "2026-10-30T12:58:00+01:00",
-"artist": "Liam Lynch",
-"title": "United States Of Whatever"
-},
-{
-"id": "2026-10-30T12:51|Little Element|Birds Leave",
-"t": "2026-10-30T12:51:00+01:00",
-"artist": "Little Element",
-"title": "Birds Leave"
-},
-{
-"id": "2026-10-30T12:48|Friedberg|Goodwife",
-"t": "2026-10-30T12:48:00+01:00",
-"artist": "Friedberg",
-"title": "Goodwife"
 }
 ]
 }
