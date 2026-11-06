@@ -1,5 +1,5 @@
 {
-"updated": "2026-11-06T11:34:35.346770+01:00",
+"updated": "2026-11-06T11:46:35.347114+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
@@ -13,7 +13,7 @@
 "2026-11-03": 174,
 "2026-11-04": 181,
 "2026-11-05": 165,
-"2026-11-06": 74
+"2026-11-06": 78
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
@@ -3421,6 +3421,18 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-11-06T11:42|Angus & Julia Stone|Karaoke Bar",
+"t": "2026-11-06T11:42:00+01:00",
+"artist": "Angus & Julia Stone",
+"title": "Karaoke Bar"
+},
+{
+"id": "2026-11-06T11:31|Erobique & Jacques Palminger|Discoroller",
+"t": "2026-11-06T11:31:00+01:00",
+"artist": "Erobique & Jacques Palminger",
+"title": "Discoroller"
+},
 {
 "id": "2026-11-06T11:27|The Style Council|Shout To The Top!",
 "t": "2026-11-06T11:27:00+01:00",
@@ -8304,18 +8316,6 @@
 "t": "2026-10-30T11:49:00+01:00",
 "artist": "Morcheeba",
 "title": "Be Yourself"
-},
-{
-"id": "2026-10-30T11:40|Felhur x Andro|Bourgeois jouissent",
-"t": "2026-10-30T11:40:00+01:00",
-"artist": "Felhur x Andro",
-"title": "Bourgeois jouissent"
-},
-{
-"id": "2026-10-30T11:35|Widowspeak|Soft Cover (Edit)",
-"t": "2026-10-30T11:35:00+01:00",
-"artist": "Widowspeak",
-"title": "Soft Cover (Edit)"
 }
 ]
 }
