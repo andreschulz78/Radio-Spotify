@@ -1,9 +1,9 @@
 {
-"updated": "2026-11-06T11:58:35.347465+01:00",
+"updated": "2026-11-06T12:10:35.347760+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
-"synced": "2026-11-06T11:50:35.347232+01:00",
+"synced": "2026-11-06T12:06:35.347666+01:00",
 "pruned": "2026-11-06",
 "calls": {
 "2026-10-30": 178,
@@ -13,12 +13,20 @@
 "2026-11-03": 174,
 "2026-11-04": 181,
 "2026-11-05": 165,
-"2026-11-06": 79
+"2026-11-06": 82
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAfWU5xk7iQ+8T/lV+1rsEYrmyD+f8d",
+"snapshot": "AAAfWxlSSZanyfz5artxh9i2ersSS4g9",
 "playlist": [
+[
+"2026-11-06T11:58|I Am Kloot|Over My Shoulder",
+"spotify:track:3YZ76Yq5T5kbVd59uWKrM9"
+],
+[
+"2026-11-06T11:51|Ex:Re|Radio Station",
+"spotify:track:2ixKxWKW6ejtIVr5gm00K7"
+],
 [
 "2026-11-06T11:42|Angus & Julia Stone|Karaoke Bar",
 "spotify:track:6LnSW4vYgR1nVsbnkhxqEN"
@@ -3188,10 +3196,6 @@
 "spotify:track:4dUOhTTMy4ITIbNQKPKYFP"
 ],
 [
-"2026-10-30T12:06|Little Dragon|Slugs Of Love (Radio Edit)",
-"spotify:track:29sTtddkz63yiOXb1piN2V"
-],
-[
 "2026-10-30T11:58|Beach Fossils|Seconds",
 "spotify:track:1tObJybm96JPKfR56vTh7m"
 ],
@@ -3429,6 +3433,18 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-11-06T12:06|John Maus|Because We Built It",
+"t": "2026-11-06T12:06:00+01:00",
+"artist": "John Maus",
+"title": "Because We Built It"
+},
+{
+"id": "2026-11-06T11:58|I Am Kloot|Over My Shoulder",
+"t": "2026-11-06T11:58:00+01:00",
+"artist": "I Am Kloot",
+"title": "Over My Shoulder"
+},
 {
 "id": "2026-11-06T11:51|Ex:Re|Radio Station",
 "t": "2026-11-06T11:51:00+01:00",
@@ -8306,12 +8322,6 @@
 "t": "2026-10-30T12:15:00+01:00",
 "artist": "The Strokes",
 "title": "Going Shopping"
-},
-{
-"id": "2026-10-30T12:06|Little Dragon|Slugs Of Love (Radio Edit)",
-"t": "2026-10-30T12:06:00+01:00",
-"artist": "Little Dragon",
-"title": "Slugs Of Love (Radio Edit)"
 }
 ]
 }
