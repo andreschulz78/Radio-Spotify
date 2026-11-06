@@ -1,9 +1,9 @@
 {
-"updated": "2026-11-06T11:22:35.346424+01:00",
+"updated": "2026-11-06T11:34:35.346770+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
-"synced": "2026-11-06T11:18:35.346303+01:00",
+"synced": "2026-11-06T11:34:35.346770+01:00",
 "pruned": "2026-11-06",
 "calls": {
 "2026-10-30": 178,
@@ -13,12 +13,20 @@
 "2026-11-03": 174,
 "2026-11-04": 181,
 "2026-11-05": 165,
-"2026-11-06": 71
+"2026-11-06": 74
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAfV2ITRJ3Y7iujPbZJ/pemJwZ958o4",
+"snapshot": "AAAfWJ3qxFf/mwhEY92gXtqZCzzt5Go4",
 "playlist": [
+[
+"2026-11-06T11:27|The Style Council|Shout To The Top!",
+"spotify:track:11kRdqv2AsftnzINFoLQsM"
+],
+[
+"2026-11-06T11:17|Grinderman|Palaces Of Montezuma",
+"spotify:track:0enI706jL6wsQS5QGPMeKf"
+],
 [
 "2026-11-06T11:07|Viagra Boys|Uno II",
 "spotify:track:2CHdkhVS2Nh0fIEdzpokC7"
@@ -3413,6 +3421,18 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-11-06T11:27|The Style Council|Shout To The Top!",
+"t": "2026-11-06T11:27:00+01:00",
+"artist": "The Style Council",
+"title": "Shout To The Top!"
+},
+{
+"id": "2026-11-06T11:17|Grinderman|Palaces Of Montezuma",
+"t": "2026-11-06T11:17:00+01:00",
+"artist": "Grinderman",
+"title": "Palaces Of Montezuma"
+},
 {
 "id": "2026-11-06T11:07|Viagra Boys|Uno II",
 "t": "2026-11-06T11:07:00+01:00",
@@ -8296,18 +8316,6 @@
 "t": "2026-10-30T11:35:00+01:00",
 "artist": "Widowspeak",
 "title": "Soft Cover (Edit)"
-},
-{
-"id": "2026-10-30T11:29|Die Sauna|ich liebe dich",
-"t": "2026-10-30T11:29:00+01:00",
-"artist": "Die Sauna",
-"title": "ich liebe dich"
-},
-{
-"id": "2026-10-30T11:25|Anderson .Paak & Cordae|A Good Day",
-"t": "2026-10-30T11:25:00+01:00",
-"artist": "Anderson .Paak & Cordae",
-"title": "A Good Day"
 }
 ]
 }
