@@ -1,5 +1,5 @@
 {
-"updated": "2026-11-06T18:47:44.144060+01:00",
+"updated": "2026-11-06T18:59:44.144435+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
@@ -8728,12 +8728,6 @@
 "t": "2026-10-30T19:06:00+01:00",
 "artist": "Florence + The Machine",
 "title": "You've Got The Love"
-},
-{
-"id": "2026-10-30T18:56|Sydney Minsky Sargeant|I Don't Wanna",
-"t": "2026-10-30T18:56:00+01:00",
-"artist": "Sydney Minsky Sargeant",
-"title": "I Don't Wanna"
 }
 ]
 }
