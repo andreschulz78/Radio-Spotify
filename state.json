@@ -1,9 +1,9 @@
 {
-"updated": "2026-11-06T22:11:44.150705+01:00",
+"updated": "2026-11-06T22:23:44.151074+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
-"synced": "2026-11-06T21:59:44.150272+01:00",
+"synced": "2026-11-06T22:15:44.150828+01:00",
 "pruned": "2026-11-06",
 "calls": {
 "2026-10-30": 178,
@@ -13,12 +13,24 @@
 "2026-11-03": 174,
 "2026-11-04": 181,
 "2026-11-05": 165,
-"2026-11-06": 171
+"2026-11-06": 172
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAfffpUXv/e0b2gVWPYf5UsAZ6c3JEU",
+"snapshot": "AAAffizBUHnVhHb1zbSjqghzXHP4W+BJ",
 "playlist": [
+[
+"2026-11-06T22:09|Kings Of Leon|My Whole World",
+"spotify:track:2tfc81XZfVReM0kYQqv7o3"
+],
+[
+"2026-11-06T22:03|Hannah Jadagu|Curse",
+"spotify:track:7pQId23MVVM18bOPZ7v9qH"
+],
+[
+"2026-11-06T21:55|Shygirl|Eternal",
+"spotify:track:7e26IslZ17O3l39AkNNJ8Z"
+],
 [
 "2026-11-06T21:51|Django Django|Feel Alright",
 "spotify:track:1TU9gJekTIXiu3RVb9wrzN"
@@ -3665,6 +3677,12 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-11-06T22:09|Kings Of Leon|My Whole World",
+"t": "2026-11-06T22:09:00+01:00",
+"artist": "Kings Of Leon",
+"title": "My Whole World"
+},
 {
 "id": "2026-11-06T22:03|Hannah Jadagu|Curse",
 "t": "2026-11-06T22:03:00+01:00",
@@ -8746,12 +8764,6 @@
 "t": "2026-10-30T22:27:00+01:00",
 "artist": "Sampa The Great",
 "title": "Canary"
-},
-{
-"id": "2026-10-30T22:19|Sampa The Great|Star [feat. KAMAUU]",
-"t": "2026-10-30T22:19:00+01:00",
-"artist": "Sampa The Great",
-"title": "Star [feat. KAMAUU]"
 }
 ]
 }
