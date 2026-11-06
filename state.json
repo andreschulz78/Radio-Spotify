@@ -1,9 +1,9 @@
 {
-"updated": "2026-11-06T10:11:02.645848+01:00",
+"updated": "2026-11-06T10:46:35.345321+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
-"synced": "2026-11-06T10:07:02.645732+01:00",
+"synced": "2026-11-06T10:46:35.345321+01:00",
 "pruned": "2026-11-06",
 "calls": {
 "2026-10-30": 178,
@@ -13,12 +13,32 @@
 "2026-11-03": 174,
 "2026-11-04": 181,
 "2026-11-05": 165,
-"2026-11-06": 58
+"2026-11-06": 63
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAfU66HY96zRpi13L11FLItygX5hQZD",
+"snapshot": "AAAfVBVZkAUrqI/+09AvQRoAEf+S2Y9D",
 "playlist": [
+[
+"2026-11-06T10:41|Black Marble|Jim Carol New Year",
+"spotify:track:3UhXNJjt6Y0sNCEwwhoJnT"
+],
+[
+"2026-11-06T10:31|Nada Surf|Whose Authority",
+"spotify:track:2W7dcYl038pyOMT5ovRGeD"
+],
+[
+"2026-11-06T10:25|Stereo MC's|Connected",
+"spotify:track:4itZ6gSnOZUWnfqDw8qtVe"
+],
+[
+"2026-11-06T10:21|Cari Cari|My Grandma Says We Have No Future",
+"spotify:track:594dZgtbD0x0VbahbWTqtA"
+],
+[
+"2026-11-06T10:09|Phantogram|Earthshaker",
+"spotify:track:3dcAXXsNJb2VgX7k1Okz2L"
+],
 [
 "2026-11-06T09:57|The Electric Soft Parade|Lose Yr. Frown",
 "spotify:track:1aL9sau7m7z6UBKb98213J"
@@ -3377,6 +3397,42 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-11-06T10:41|Black Marble|Jim Carol New Year",
+"t": "2026-11-06T10:41:00+01:00",
+"artist": "Black Marble",
+"title": "Jim Carol New Year"
+},
+{
+"id": "2026-11-06T10:31|Nada Surf|Whose Authority",
+"t": "2026-11-06T10:31:00+01:00",
+"artist": "Nada Surf",
+"title": "Whose Authority"
+},
+{
+"id": "2026-11-06T10:25|Stereo MC's|Connected",
+"t": "2026-11-06T10:25:00+01:00",
+"artist": "Stereo MC's",
+"title": "Connected"
+},
+{
+"id": "2026-11-06T10:21|Cari Cari|My Grandma Says We Have No Future",
+"t": "2026-11-06T10:21:00+01:00",
+"artist": "Cari Cari",
+"title": "My Grandma Says We Have No Future"
+},
+{
+"id": "2026-11-06T10:16|The Beatles|When I'm Sixty Four",
+"t": "2026-11-06T10:16:00+01:00",
+"artist": "The Beatles",
+"title": "When I'm Sixty Four"
+},
+{
+"id": "2026-11-06T10:09|Phantogram|Earthshaker",
+"t": "2026-11-06T10:09:00+01:00",
+"artist": "Phantogram",
+"title": "Earthshaker"
+},
 {
 "id": "2026-11-06T09:57|The Electric Soft Parade|Lose Yr. Frown",
 "t": "2026-11-06T09:57:00+01:00",
@@ -8248,42 +8304,6 @@
 "t": "2026-10-30T10:49:00+01:00",
 "artist": "Bleachers",
 "title": "Blood Brothers"
-},
-{
-"id": "2026-10-30T10:45|Joni Mitchell|You Turn Me On, I'm A Radio",
-"t": "2026-10-30T10:45:00+01:00",
-"artist": "Joni Mitchell",
-"title": "You Turn Me On, I'm A Radio"
-},
-{
-"id": "2026-10-30T10:34|Waldeck feat. Patrizia Ferrara|Never Let You Go",
-"t": "2026-10-30T10:34:00+01:00",
-"artist": "Waldeck feat. Patrizia Ferrara",
-"title": "Never Let You Go"
-},
-{
-"id": "2026-10-30T10:29|Jungle|Someday, Somewhere",
-"t": "2026-10-30T10:29:00+01:00",
-"artist": "Jungle",
-"title": "Someday, Somewhere"
-},
-{
-"id": "2026-10-30T10:24|Greentea Peng|Revolution",
-"t": "2026-10-30T10:24:00+01:00",
-"artist": "Greentea Peng",
-"title": "Revolution"
-},
-{
-"id": "2026-10-30T10:20|Benjamin Biolay|Dans La Merco Benz",
-"t": "2026-10-30T10:20:00+01:00",
-"artist": "Benjamin Biolay",
-"title": "Dans La Merco Benz"
-},
-{
-"id": "2026-10-30T10:15|Beatsteaks vs. Dirk von Lotzow|French Disko",
-"t": "2026-10-30T10:15:00+01:00",
-"artist": "Beatsteaks vs. Dirk von Lotzow",
-"title": "French Disko"
 }
 ]
 }
