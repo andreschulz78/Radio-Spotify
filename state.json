@@ -1,9 +1,9 @@
 {
-"updated": "2026-11-06T12:10:35.347760+01:00",
+"updated": "2026-11-06T12:22:35.348162+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
-"synced": "2026-11-06T12:06:35.347666+01:00",
+"synced": "2026-11-06T12:22:35.348162+01:00",
 "pruned": "2026-11-06",
 "calls": {
 "2026-10-30": 178,
@@ -13,12 +13,20 @@
 "2026-11-03": 174,
 "2026-11-04": 181,
 "2026-11-05": 165,
-"2026-11-06": 82
+"2026-11-06": 86
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAfWxlSSZanyfz5artxh9i2ersSS4g9",
+"snapshot": "AAAfXn78g0sbUGB/rpz44W47b6gfNW+L",
 "playlist": [
+[
+"2026-11-06T12:10|Lauryn Hill|Can't Take My Eyes Off Of You",
+"spotify:track:2GFExyKXf9383tSRSrEHEt"
+],
+[
+"2026-11-06T12:06|John Maus|Because We Built It",
+"spotify:track:3Qv9irQWmhbYFKR13d0dJ5"
+],
 [
 "2026-11-06T11:58|I Am Kloot|Over My Shoulder",
 "spotify:track:3YZ76Yq5T5kbVd59uWKrM9"
@@ -3188,10 +3196,6 @@
 "spotify:track:7qk4uPeLpaKhp8lwas1sBb"
 ],
 [
-"2026-10-30T12:22|Zaho De Sagazan|Je rêve",
-"spotify:track:62a6sd4PYyhAI8egd5kHHB"
-],
-[
 "2026-10-30T12:15|The Strokes|Going Shopping",
 "spotify:track:4dUOhTTMy4ITIbNQKPKYFP"
 ],
@@ -3433,6 +3437,12 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-11-06T12:10|Lauryn Hill|Can't Take My Eyes Off Of You",
+"t": "2026-11-06T12:10:00+01:00",
+"artist": "Lauryn Hill",
+"title": "Can't Take My Eyes Off Of You"
+},
 {
 "id": "2026-11-06T12:06|John Maus|Because We Built It",
 "t": "2026-11-06T12:06:00+01:00",
@@ -8310,18 +8320,6 @@
 "t": "2026-10-30T12:26:00+01:00",
 "artist": "Blur",
 "title": "There's No Other Way"
-},
-{
-"id": "2026-10-30T12:22|Zaho De Sagazan|Je rêve",
-"t": "2026-10-30T12:22:00+01:00",
-"artist": "Zaho De Sagazan",
-"title": "Je rêve"
-},
-{
-"id": "2026-10-30T12:15|The Strokes|Going Shopping",
-"t": "2026-10-30T12:15:00+01:00",
-"artist": "The Strokes",
-"title": "Going Shopping"
 }
 ]
 }
