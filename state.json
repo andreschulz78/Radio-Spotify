@@ -1,9 +1,9 @@
 {
-"updated": "2026-11-06T11:10:35.346071+01:00",
+"updated": "2026-11-06T11:22:35.346424+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
-"synced": "2026-11-06T11:02:35.345840+01:00",
+"synced": "2026-11-06T11:18:35.346303+01:00",
 "pruned": "2026-11-06",
 "calls": {
 "2026-10-30": 178,
@@ -13,12 +13,20 @@
 "2026-11-03": 174,
 "2026-11-04": 181,
 "2026-11-05": 165,
-"2026-11-06": 69
+"2026-11-06": 71
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAfVpNFBhHGQupz0ILL18PEMJdImUug",
+"snapshot": "AAAfV2ITRJ3Y7iujPbZJ/pemJwZ958o4",
 "playlist": [
+[
+"2026-11-06T11:07|Viagra Boys|Uno II",
+"spotify:track:2CHdkhVS2Nh0fIEdzpokC7"
+],
+[
+"2026-11-06T10:58|Odd Beholder|Insecurities",
+"spotify:track:6Uoy9kA7D9dFxrAJ8zntKa"
+],
 [
 "2026-11-06T10:50|Die Lassie Singers|Hamburg",
 "spotify:track:4vGZ3MKRnsk8UhXHCWe9wG"
@@ -3405,6 +3413,12 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-11-06T11:07|Viagra Boys|Uno II",
+"t": "2026-11-06T11:07:00+01:00",
+"artist": "Viagra Boys",
+"title": "Uno II"
+},
 {
 "id": "2026-11-06T10:58|Odd Beholder|Insecurities",
 "t": "2026-11-06T10:58:00+01:00",
@@ -8294,18 +8308,6 @@
 "t": "2026-10-30T11:25:00+01:00",
 "artist": "Anderson .Paak & Cordae",
 "title": "A Good Day"
-},
-{
-"id": "2026-10-30T11:19|Interpol|No I In Threesome",
-"t": "2026-10-30T11:19:00+01:00",
-"artist": "Interpol",
-"title": "No I In Threesome"
-},
-{
-"id": "2026-10-30T11:13|Flora Hibberd|Bowling Ball",
-"t": "2026-10-30T11:13:00+01:00",
-"artist": "Flora Hibberd",
-"title": "Bowling Ball"
 }
 ]
 }
