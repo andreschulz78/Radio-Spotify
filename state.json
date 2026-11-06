@@ -1,9 +1,9 @@
 {
-"updated": "2026-11-06T07:35:02.641123+01:00",
+"updated": "2026-11-06T07:47:02.641517+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
-"synced": "2026-11-06T07:27:02.640880+01:00",
+"synced": "2026-11-06T07:43:02.641361+01:00",
 "pruned": "2026-11-06",
 "calls": {
 "2026-10-30": 178,
@@ -13,12 +13,24 @@
 "2026-11-03": 174,
 "2026-11-04": 181,
 "2026-11-05": 165,
-"2026-11-06": 30
+"2026-11-06": 33
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAfSOlJ9oOkiATGwJJwmfCsryUOyUba",
+"snapshot": "AAAfSYzhAb7s3Hjbh2yKpmrmcZx42nv5",
 "playlist": [
+[
+"2026-11-06T07:35|Jamiroquai|(Don't) Give Hate A Chance",
+"spotify:track:2IJk5fQC6Qiu2gRrCR2977"
+],
+[
+"2026-11-06T07:27|Peter Doherty feat. Aime Simone|Serenity",
+"spotify:track:4decmcY0GV0fStkm5REcRE"
+],
+[
+"2026-11-06T07:24|Wolf Alice|Freazy",
+"spotify:track:6YYU9JbeWnW4L5NY7hlLlw"
+],
 [
 "2026-11-06T07:15|Get Well Soon|Siri, What Ruined The West ?",
 "spotify:track:3XY1xxFHeGHDDt33V6GoE2"
@@ -3285,6 +3297,12 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-11-06T07:35|Jamiroquai|(Don't) Give Hate A Chance",
+"t": "2026-11-06T07:35:00+01:00",
+"artist": "Jamiroquai",
+"title": "(Don't) Give Hate A Chance"
+},
 {
 "id": "2026-11-06T07:27|Peter Doherty feat. Aime Simone|Serenity",
 "t": "2026-11-06T07:27:00+01:00",
@@ -8186,12 +8204,6 @@
 "t": "2026-10-30T07:48:00+01:00",
 "artist": "Seeed",
 "title": "Riddim No. 1"
-},
-{
-"id": "2026-10-30T07:42|Dream Boat|Real!",
-"t": "2026-10-30T07:42:00+01:00",
-"artist": "Dream Boat",
-"title": "Real!"
 }
 ]
 }
