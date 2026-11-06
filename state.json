@@ -1,9 +1,9 @@
 {
-"updated": "2026-11-06T16:22:35.354410+01:00",
+"updated": "2026-11-06T18:23:44.143308+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
-"synced": "2026-11-06T16:10:35.354152+01:00",
+"synced": "2026-11-06T18:23:44.143308+01:00",
 "pruned": "2026-11-06",
 "calls": {
 "2026-10-30": 178,
@@ -13,12 +13,36 @@
 "2026-11-03": 174,
 "2026-11-04": 181,
 "2026-11-05": 165,
-"2026-11-06": 129
+"2026-11-06": 133
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAfbCU6Hqh9Du+WUMzVMh1R6Ikc876W",
+"snapshot": "AAAfbbZQI+w4bq7St4d3WXKFAQLnr76J",
 "playlist": [
+[
+"2026-11-06T17:59|Jean-Michel Jarre|Oxygene 4 (Edit ohne Intro)",
+"spotify:track:7vLKG4ww0P8seUUsbgpcz3"
+],
+[
+"2026-11-06T16:56|Depeche Mode|Dream On",
+"spotify:track:3fIsVx19pqTGejb7cwlLQB"
+],
+[
+"2026-11-06T16:51|UCHE YARA|Hello Hello",
+"spotify:track:3hadpAb0vS5uYSrfidLaDr"
+],
+[
+"2026-11-06T16:47|Ayele|Fractured (Radio Edit)",
+"spotify:track:5EGnOBL2qoUNard3Oaq5Hc"
+],
+[
+"2026-11-06T16:35|Art d'Ecco|Survival Of The Fittest",
+"spotify:track:2p66RxPoZQd6E8fbq2QOIF"
+],
+[
+"2026-11-06T16:11|Yard Act|You're Gonna Need A Little Music",
+"spotify:track:43KS2LpjMVkvJdprLaoQxQ"
+],
 [
 "2026-11-06T16:06|Portugal. The Man|The Sun",
 "spotify:track:13OMsk0XnOlCW4TboBeQxu"
@@ -3589,6 +3613,42 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-11-06T17:59|Jean-Michel Jarre|Oxygene 4 (Edit ohne Intro)",
+"t": "2026-11-06T17:59:00+01:00",
+"artist": "Jean-Michel Jarre",
+"title": "Oxygene 4 (Edit ohne Intro)"
+},
+{
+"id": "2026-11-06T16:56|Depeche Mode|Dream On",
+"t": "2026-11-06T16:56:00+01:00",
+"artist": "Depeche Mode",
+"title": "Dream On"
+},
+{
+"id": "2026-11-06T16:51|UCHE YARA|Hello Hello",
+"t": "2026-11-06T16:51:00+01:00",
+"artist": "UCHE YARA",
+"title": "Hello Hello"
+},
+{
+"id": "2026-11-06T16:47|Ayele|Fractured (Radio Edit)",
+"t": "2026-11-06T16:47:00+01:00",
+"artist": "Ayele",
+"title": "Fractured (Radio Edit)"
+},
+{
+"id": "2026-11-06T16:35|Art d'Ecco|Survival Of The Fittest",
+"t": "2026-11-06T16:35:00+01:00",
+"artist": "Art d'Ecco",
+"title": "Survival Of The Fittest"
+},
+{
+"id": "2026-11-06T16:25|Sade|Soldier Of Love",
+"t": "2026-11-06T16:25:00+01:00",
+"artist": "Sade",
+"title": "Soldier Of Love"
+},
 {
 "id": "2026-11-06T16:11|Yard Act|You're Gonna Need A Little Music",
 "t": "2026-11-06T16:11:00+01:00",
