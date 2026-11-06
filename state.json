@@ -1,9 +1,9 @@
 {
-"updated": "2026-11-06T05:11:02.636875+01:00",
+"updated": "2026-11-06T05:23:02.637211+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
-"synced": "2026-11-06T05:03:02.636664+01:00",
+"synced": "2026-11-06T05:19:02.637103+01:00",
 "pruned": "2026-11-06",
 "calls": {
 "2026-10-30": 178,
@@ -12,12 +12,24 @@
 "2026-11-02": 197,
 "2026-11-03": 174,
 "2026-11-04": 181,
-"2026-11-05": 163
+"2026-11-05": 165
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAfPJVyk2nipe1XbXKy+xfaZ1wqm+qa",
+"snapshot": "AAAfPQxBlHNH1+5SRsgvtL88u/+SoZ4s",
 "playlist": [
+[
+"2026-11-06T05:11|The xx|I Dare You",
+"spotify:track:3pAw0BXL8acShtjUwLosw8"
+],
+[
+"2026-11-06T05:06|Peter and Kerry|All I've Got Are My Dreams",
+"spotify:track:3GvMPgHM6pEK20uD0WjOQC"
+],
+[
+"2026-11-06T05:03|Anderson .Paak & Cordae|A Good Day",
+"spotify:track:4CrnExkcZkg6Aek113hAWl"
+],
 [
 "2026-11-05T18:51|Benjamin Clementine|In Fact You Know You Gotto Go",
 "spotify:track:4cWEdRTQ8sg4QaTBIGn06j"
@@ -3200,6 +3212,12 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-11-06T05:11|The xx|I Dare You",
+"t": "2026-11-06T05:11:00+01:00",
+"artist": "The xx",
+"title": "I Dare You"
+},
 {
 "id": "2026-11-06T05:06|Peter and Kerry|All I've Got Are My Dreams",
 "t": "2026-11-06T05:06:00+01:00",
@@ -8095,18 +8113,6 @@
 "t": "2026-10-30T05:27:00+01:00",
 "artist": "The Haunted Youth",
 "title": "Teen Rebel (Edit)"
-},
-{
-"id": "2026-10-30T05:23|Ásgeir|Against The Current",
-"t": "2026-10-30T05:23:00+01:00",
-"artist": "Ásgeir",
-"title": "Against The Current"
-},
-{
-"id": "2026-10-30T05:17|Austra & Patrick Holland|Siren Reprise",
-"t": "2026-10-30T05:17:00+01:00",
-"artist": "Austra & Patrick Holland",
-"title": "Siren Reprise"
 }
 ]
 }
