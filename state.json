@@ -1,9 +1,9 @@
 {
-"updated": "2026-11-06T05:23:02.637211+01:00",
+"updated": "2026-11-06T05:35:02.637542+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
-"synced": "2026-11-06T05:19:02.637103+01:00",
+"synced": "2026-11-06T05:35:02.637542+01:00",
 "pruned": "2026-11-06",
 "calls": {
 "2026-10-30": 178,
@@ -12,12 +12,29 @@
 "2026-11-02": 197,
 "2026-11-03": 174,
 "2026-11-04": 181,
-"2026-11-05": 165
+"2026-11-05": 165,
+"2026-11-06": 4
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAfPQxBlHNH1+5SRsgvtL88u/+SoZ4s",
+"snapshot": "AAAfPkrDwPdmDq+NJvEQyWvepY99oX84",
 "playlist": [
+[
+"2026-11-06T05:32|Olivia Dean|Man I Need",
+"spotify:track:1qbmS6ep2hbBRaEZFpn7BX"
+],
+[
+"2026-11-06T05:26|Dillon|Separate Us",
+"spotify:track:1OTfGZcyl7Eh5TXaDtLgod"
+],
+[
+"2026-11-06T05:23|Chris Malinchak|So Good To Me",
+"spotify:track:1mGGVB5nDxGObTP26RhjyT"
+],
+[
+"2026-11-06T05:15|Nichtseattle|Ich mit Brille",
+"spotify:track:1C0Lpji3kKe7rZie1LC4bx"
+],
 [
 "2026-11-06T05:11|The xx|I Dare You",
 "spotify:track:3pAw0BXL8acShtjUwLosw8"
@@ -3212,6 +3229,30 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-11-06T05:32|Olivia Dean|Man I Need",
+"t": "2026-11-06T05:32:00+01:00",
+"artist": "Olivia Dean",
+"title": "Man I Need"
+},
+{
+"id": "2026-11-06T05:26|Dillon|Separate Us",
+"t": "2026-11-06T05:26:00+01:00",
+"artist": "Dillon",
+"title": "Separate Us"
+},
+{
+"id": "2026-11-06T05:23|Chris Malinchak|So Good To Me",
+"t": "2026-11-06T05:23:00+01:00",
+"artist": "Chris Malinchak",
+"title": "So Good To Me"
+},
+{
+"id": "2026-11-06T05:15|Nichtseattle|Ich mit Brille",
+"t": "2026-11-06T05:15:00+01:00",
+"artist": "Nichtseattle",
+"title": "Ich mit Brille"
+},
 {
 "id": "2026-11-06T05:11|The xx|I Dare You",
 "t": "2026-11-06T05:11:00+01:00",
@@ -8101,18 +8142,6 @@
 "t": "2026-10-30T05:36:00+01:00",
 "artist": "Frank Duval",
 "title": "Living Like A Cry"
-},
-{
-"id": "2026-10-30T05:31|Django Django|Cameos",
-"t": "2026-10-30T05:31:00+01:00",
-"artist": "Django Django",
-"title": "Cameos"
-},
-{
-"id": "2026-10-30T05:27|The Haunted Youth|Teen Rebel (Edit)",
-"t": "2026-10-30T05:27:00+01:00",
-"artist": "The Haunted Youth",
-"title": "Teen Rebel (Edit)"
 }
 ]
 }
