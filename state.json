@@ -1,9 +1,9 @@
 {
-"updated": "2026-11-06T22:59:44.152197+01:00",
+"updated": "2026-11-06T23:11:44.152590+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
-"synced": "2026-11-06T22:47:44.151829+01:00",
+"synced": "2026-11-06T23:03:44.152339+01:00",
 "pruned": "2026-11-06",
 "calls": {
 "2026-10-30": 178,
@@ -13,12 +13,16 @@
 "2026-11-03": 174,
 "2026-11-04": 181,
 "2026-11-05": 165,
-"2026-11-06": 180
+"2026-11-06": 181
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAfgHII5YX6r9YOnLptrUadmTXWg7DK",
+"snapshot": "AAAfgW/IYoD+u1gg9VJ2a9T3T/7XtH6o",
 "playlist": [
+[
+"2026-11-06T22:49|Mittekill|Das warst Du",
+"spotify:track:6gPnXuU8t0SQiulJMMQQPO"
+],
 [
 "2026-11-06T22:40|Mittekill|Deutsche Migranten",
 "spotify:track:1tIW83XUcnNCN6P8c8Ccpm"
