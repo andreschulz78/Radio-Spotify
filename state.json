@@ -1,9 +1,9 @@
 {
-"updated": "2026-11-06T21:35:44.149493+01:00",
+"updated": "2026-11-06T21:47:44.149874+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
-"synced": "2026-11-06T21:27:44.149242+01:00",
+"synced": "2026-11-06T21:43:44.149737+01:00",
 "pruned": "2026-11-06",
 "calls": {
 "2026-10-30": 178,
@@ -13,12 +13,20 @@
 "2026-11-03": 174,
 "2026-11-04": 181,
 "2026-11-05": 165,
-"2026-11-06": 163
+"2026-11-06": 167
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAfenKYKJj+S1/PmUcVGVYB7qs5p4g+",
+"snapshot": "AAAffCTodQ/QU/SSHxqu2LcyJyiu124d",
 "playlist": [
+[
+"2026-11-06T21:34|Django Django|Year Of The Snake",
+"spotify:track:6PyPvKLOukrS1ZJhxPvtDt"
+],
+[
+"2026-11-06T21:28|Twisted|Darker The Night Is The Brighter I See",
+"spotify:track:7ldi014ErS42KJ3S5HdqAD"
+],
 [
 "2026-11-06T21:18|Twisted|I Spend My Time Crying",
 "spotify:track:6bvcSEgoD9I42gqqi0UjyM"
@@ -3316,10 +3324,6 @@
 "spotify:track:2vfjg1ElyT5SNZDF6Up2X3"
 ],
 [
-"2026-10-30T21:43|Queens of the Stone Age|Easy Street",
-"spotify:track:415xhtL862VVvSiKWuS2SW"
-],
-[
 "2026-10-30T21:33|Queens of the Stone Age|Where The Goth Girls At",
 "spotify:track:5kPfThD8sI2AvIhTkf0nbs"
 ],
@@ -3653,6 +3657,18 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-11-06T21:42|Django Django|Still Life",
+"t": "2026-11-06T21:42:00+01:00",
+"artist": "Django Django",
+"title": "Still Life"
+},
+{
+"id": "2026-11-06T21:34|Django Django|Year Of The Snake",
+"t": "2026-11-06T21:34:00+01:00",
+"artist": "Django Django",
+"title": "Year Of The Snake"
+},
 {
 "id": "2026-11-06T21:28|Twisted|Darker The Night Is The Brighter I See",
 "t": "2026-11-06T21:28:00+01:00",
@@ -8734,12 +8750,6 @@
 "t": "2026-10-30T21:49:00+01:00",
 "artist": "Queens of the Stone Age",
 "title": "Sunday"
-},
-{
-"id": "2026-10-30T21:43|Queens of the Stone Age|Easy Street",
-"t": "2026-10-30T21:43:00+01:00",
-"artist": "Queens of the Stone Age",
-"title": "Easy Street"
 }
 ]
 }
