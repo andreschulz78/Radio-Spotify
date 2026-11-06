@@ -1,9 +1,9 @@
 {
-"updated": "2026-11-06T12:34:35.348485+01:00",
+"updated": "2026-11-06T12:46:35.348846+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
-"synced": "2026-11-06T12:22:35.348162+01:00",
+"synced": "2026-11-06T12:38:35.348605+01:00",
 "pruned": "2026-11-06",
 "calls": {
 "2026-10-30": 178,
@@ -13,12 +13,28 @@
 "2026-11-03": 174,
 "2026-11-04": 181,
 "2026-11-05": 165,
-"2026-11-06": 87
+"2026-11-06": 90
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAfXn78g0sbUGB/rpz44W47b6gfNW+L",
+"snapshot": "AAAfXw7lqD8ba/dd7mTQvLlqy+00C7Kv",
 "playlist": [
+[
+"2026-11-06T12:31|Razorlight|Golden Touch",
+"spotify:track:13bEwk7dTy0RdOAY3ZNNBD"
+],
+[
+"2026-11-06T12:26|Bonobo feat. Joy Crookes|Always on Your Side",
+"spotify:track:6jJTpzMquQLVuUkM2vVEIF"
+],
+[
+"2026-11-06T12:22|Arctic Monkeys|Opening Night",
+"spotify:track:7HXzuAd8UNJj2yCAS0NWbB"
+],
+[
+"2026-11-06T12:17|Jungle|The Wave",
+"spotify:track:6Ln44Up5lBxNgCsaLoXY6W"
+],
 [
 "2026-11-06T12:10|Lauryn Hill|Can't Take My Eyes Off Of You",
 "spotify:track:2GFExyKXf9383tSRSrEHEt"
@@ -3437,6 +3453,18 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-11-06T12:34|The Flaming Lips|God Will Control The Werewolves (Radio Edit)",
+"t": "2026-11-06T12:34:00+01:00",
+"artist": "The Flaming Lips",
+"title": "God Will Control The Werewolves (Radio Edit)"
+},
+{
+"id": "2026-11-06T12:31|Razorlight|Golden Touch",
+"t": "2026-11-06T12:31:00+01:00",
+"artist": "Razorlight",
+"title": "Golden Touch"
+},
 {
 "id": "2026-11-06T12:26|Bonobo feat. Joy Crookes|Always on Your Side",
 "t": "2026-11-06T12:26:00+01:00",
@@ -8320,12 +8348,6 @@
 "t": "2026-10-30T12:48:00+01:00",
 "artist": "Friedberg",
 "title": "Goodwife"
-},
-{
-"id": "2026-10-30T12:39|Tricky feat. Mina Rosa|Running Wild",
-"t": "2026-10-30T12:39:00+01:00",
-"artist": "Tricky feat. Mina Rosa",
-"title": "Running Wild"
 }
 ]
 }
