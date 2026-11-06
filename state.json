@@ -1,9 +1,9 @@
 {
-"updated": "2026-11-06T20:35:44.147542+01:00",
+"updated": "2026-11-06T20:47:44.147970+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
-"synced": "2026-11-06T20:23:44.147168+01:00",
+"synced": "2026-11-06T20:39:44.147677+01:00",
 "pruned": "2026-11-06",
 "calls": {
 "2026-10-30": 178,
@@ -13,12 +13,16 @@
 "2026-11-03": 174,
 "2026-11-04": 181,
 "2026-11-05": 165,
-"2026-11-06": 152
+"2026-11-06": 155
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAfdT7O2bBSifl282YE/olEw56lFmZQ",
+"snapshot": "AAAfd11Kv/k2mPRCy+r7rqF7Coecri+3",
 "playlist": [
+[
+"2026-11-06T20:26|Wyclef Jean feat. R Kelly Canibus|Gone Till November (The Makin Runs Remix)",
+"spotify:track:0jOXmNowR2j1hVpZMqnz9P"
+],
 [
 "2026-11-06T20:15|Earth, Wind & Fire|Boogie Wonderland",
 "spotify:track:6ztstiyZL6FXzh4aG46ZPD"
@@ -3330,10 +3334,6 @@
 [
 "2026-10-30T20:51|John Maus|The Combine",
 "spotify:track:6JyGk2O6Mb1dNG474bJf77"
-],
-[
-"2026-10-30T20:39|David Bowie|Sound And Vision",
-"spotify:track:5a0Rkl6Hmgk7e2LDAD6yNY"
 ],
 [
 "2026-10-30T20:35|Feist|One Evening",
@@ -8744,12 +8744,6 @@
 "t": "2026-10-30T20:51:00+01:00",
 "artist": "John Maus",
 "title": "The Combine"
-},
-{
-"id": "2026-10-30T20:39|David Bowie|Sound And Vision",
-"t": "2026-10-30T20:39:00+01:00",
-"artist": "David Bowie",
-"title": "Sound And Vision"
 }
 ]
 }
