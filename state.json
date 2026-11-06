@@ -1,9 +1,9 @@
 {
-"updated": "2026-11-06T06:59:02.640019+01:00",
+"updated": "2026-11-06T07:11:02.640382+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
-"synced": "2026-11-06T06:55:02.639899+01:00",
+"synced": "2026-11-06T07:11:02.640382+01:00",
 "pruned": "2026-11-06",
 "calls": {
 "2026-10-30": 178,
@@ -13,12 +13,20 @@
 "2026-11-03": 174,
 "2026-11-04": 181,
 "2026-11-05": 165,
-"2026-11-06": 22
+"2026-11-06": 26
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAfRedVmz7lUH0XbhbsmGJq6V5m+/Jw",
+"snapshot": "AAAfR5qxxd0Qw675Z9pL81zM5BwaX1wr",
 "playlist": [
+[
+"2026-11-06T07:06|Uche Yara|Yesterday I Was In London",
+"spotify:track:0Kl3aryDqrFj1IK0wsDJoL"
+],
+[
+"2026-11-06T06:57|Baxter Dury|I'm Not Your Dog",
+"spotify:track:0akzU7VdwCaGjDWZnvK1G1"
+],
 [
 "2026-11-06T06:50|Aldous Harding|One Stop",
 "spotify:track:3VsRmRzYpLv4YpjSwbeP8J"
@@ -3196,10 +3204,6 @@
 "spotify:track:0k4XDoI1iCB3fV2RstqiYA"
 ],
 [
-"2026-10-30T07:11|Kelela|Happy Ending",
-"spotify:track:6RxVB52FcxiuH3moPgTNj7"
-],
-[
 "2026-10-30T07:04|The Cure|Boys Don't Cry",
 "spotify:track:1YrhoxYtegw7IDv7JHJTHl"
 ],
@@ -3273,6 +3277,18 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-11-06T07:06|Uche Yara|Yesterday I Was In London",
+"t": "2026-11-06T07:06:00+01:00",
+"artist": "Uche Yara",
+"title": "Yesterday I Was In London"
+},
+{
+"id": "2026-11-06T06:57|Baxter Dury|I'm Not Your Dog",
+"t": "2026-11-06T06:57:00+01:00",
+"artist": "Baxter Dury",
+"title": "I'm Not Your Dog"
+},
 {
 "id": "2026-11-06T06:50|Aldous Harding|One Stop",
 "t": "2026-11-06T06:50:00+01:00",
@@ -8162,18 +8178,6 @@
 "t": "2026-10-30T07:16:00+01:00",
 "artist": "Bon Iver",
 "title": "Things Behind Things Behind Things"
-},
-{
-"id": "2026-10-30T07:11|Kelela|Happy Ending",
-"t": "2026-10-30T07:11:00+01:00",
-"artist": "Kelela",
-"title": "Happy Ending"
-},
-{
-"id": "2026-10-30T07:04|The Cure|Boys Don't Cry",
-"t": "2026-10-30T07:04:00+01:00",
-"artist": "The Cure",
-"title": "Boys Don't Cry"
 }
 ]
 }
