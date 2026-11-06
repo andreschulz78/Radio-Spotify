@@ -1,9 +1,9 @@
 {
-"updated": "2026-11-06T19:47:44.146003+01:00",
+"updated": "2026-11-06T19:59:44.146400+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
-"synced": "2026-11-06T19:35:44.145590+01:00",
+"synced": "2026-11-06T19:51:44.146127+01:00",
 "pruned": "2026-11-06",
 "calls": {
 "2026-10-30": 178,
@@ -13,12 +13,24 @@
 "2026-11-03": 174,
 "2026-11-04": 181,
 "2026-11-05": 165,
-"2026-11-06": 144
+"2026-11-06": 146
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAfcpQ/23eMDq5EeP0O8sXNrOPilb/K",
+"snapshot": "AAAfc/f2w+zJODZJm9bsRgxVTtCupwtV",
 "playlist": [
+[
+"2026-11-06T19:45|Michael Franks|Dont Be Blue",
+"spotify:track:4SCCUg5WK5ZvJCbP1T0WZE"
+],
+[
+"2026-11-06T19:39|The Doors|Alabama Song (Moon of Alabama)",
+"spotify:track:0JNZGIavoUrdup1NsgJOQs"
+],
+[
+"2026-11-06T19:36|Bryan Ferry|The Way You Look Tonight",
+"spotify:track:7rgH7KKKu8Qh2klK15jUQh"
+],
 [
 "2026-11-06T19:31|Panthéon Rococó|Vendedora de caricias",
 "spotify:track:4jikVslCvDrDysc3p4tFHM"
@@ -3625,6 +3637,12 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-11-06T19:45|Michael Franks|Dont Be Blue",
+"t": "2026-11-06T19:45:00+01:00",
+"artist": "Michael Franks",
+"title": "Dont Be Blue"
+},
 {
 "id": "2026-11-06T19:39|The Doors|Alabama Song (Moon of Alabama)",
 "t": "2026-11-06T19:39:00+01:00",
@@ -8724,24 +8742,6 @@
 "t": "2026-10-30T20:05:00+01:00",
 "artist": "Nihils",
 "title": "Lavender"
-},
-{
-"id": "2026-10-30T19:56|Alexander IV & IYAMAH|About Us",
-"t": "2026-10-30T19:56:00+01:00",
-"artist": "Alexander IV & IYAMAH",
-"title": "About Us"
-},
-{
-"id": "2026-10-30T19:52|Simple Minds|Don't You (Forget About Me)",
-"t": "2026-10-30T19:52:00+01:00",
-"artist": "Simple Minds",
-"title": "Don't You (Forget About Me)"
-},
-{
-"id": "2026-10-30T19:48|Hot Chip|Random Violence (Radio Edit)",
-"t": "2026-10-30T19:48:00+01:00",
-"artist": "Hot Chip",
-"title": "Random Violence (Radio Edit)"
 }
 ]
 }
