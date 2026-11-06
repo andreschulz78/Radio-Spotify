@@ -1,9 +1,9 @@
 {
-"updated": "2026-11-06T08:35:02.643015+01:00",
+"updated": "2026-11-06T08:47:02.643450+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
-"synced": "2026-11-06T08:31:02.642909+01:00",
+"synced": "2026-11-06T08:47:02.643450+01:00",
 "pruned": "2026-11-06",
 "calls": {
 "2026-10-30": 178,
@@ -13,12 +13,20 @@
 "2026-11-03": 174,
 "2026-11-04": 181,
 "2026-11-05": 165,
-"2026-11-06": 40
+"2026-11-06": 44
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAfTM8e2ZmAFme/1DdWX1Wa2LU1m0Qr",
+"snapshot": "AAAfTZipU9EYkz5MrLVHY3XDQMm+ie28",
 "playlist": [
+[
+"2026-11-06T08:35|Rachel Chinouriri|It Is What It Is",
+"spotify:track:7rYAJwAZ7gokGokrsfrOQ5"
+],
+[
+"2026-11-06T08:28|Kings Of Leon|KOYSAR",
+"spotify:track:6Xe1HtLCdWp3Citi2UKVRd"
+],
 [
 "2026-11-06T08:20|Rainbirds|Blueprint (Radio Edit)",
 "spotify:track:72zOETQxh17gpQbYmEhzTM"
@@ -3321,6 +3329,18 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-11-06T08:35|Rachel Chinouriri|It Is What It Is",
+"t": "2026-11-06T08:35:00+01:00",
+"artist": "Rachel Chinouriri",
+"title": "It Is What It Is"
+},
+{
+"id": "2026-11-06T08:28|Kings Of Leon|KOYSAR",
+"t": "2026-11-06T08:28:00+01:00",
+"artist": "Kings Of Leon",
+"title": "KOYSAR"
+},
 {
 "id": "2026-11-06T08:20|Rainbirds|Blueprint (Radio Edit)",
 "t": "2026-11-06T08:20:00+01:00",
@@ -8210,12 +8230,6 @@
 "t": "2026-10-30T08:50:00+01:00",
 "artist": "Ibeyi",
 "title": "Hurry Hurry"
-},
-{
-"id": "2026-10-30T08:43|Andrew Collberg|Hi Hopes (Edit)",
-"t": "2026-10-30T08:43:00+01:00",
-"artist": "Andrew Collberg",
-"title": "Hi Hopes (Edit)"
 }
 ]
 }
