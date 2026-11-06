@@ -1,9 +1,9 @@
 {
-"updated": "2026-11-06T05:47:02.637955+01:00",
+"updated": "2026-11-06T05:59:02.638275+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
-"synced": "2026-11-06T05:35:02.637542+01:00",
+"synced": "2026-11-06T05:51:02.638047+01:00",
 "pruned": "2026-11-06",
 "calls": {
 "2026-10-30": 178,
@@ -13,12 +13,20 @@
 "2026-11-03": 174,
 "2026-11-04": 181,
 "2026-11-05": 165,
-"2026-11-06": 5
+"2026-11-06": 9
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAfPkrDwPdmDq+NJvEQyWvepY99oX84",
+"snapshot": "AAAfQFt5OPovrntdh+XDe1D1WPS2Cc6t",
 "playlist": [
+[
+"2026-11-06T05:43|Edward Sharpe & The Magnetic Zeros|Home",
+"spotify:track:6Lru82bLtbHzAVXYHvn8R2"
+],
+[
+"2026-11-06T05:38|Nationalgalerie|Tütensuppe",
+"spotify:track:12s6LmN0o8gJHH7CQj2bq7"
+],
 [
 "2026-11-06T05:32|Olivia Dean|Man I Need",
 "spotify:track:1qbmS6ep2hbBRaEZFpn7BX"
@@ -3192,10 +3200,6 @@
 "spotify:track:6FvtSHS3hzjS8itHJPRzoJ"
 ],
 [
-"2026-10-30T05:51|Roo Panes|Lullaby Love",
-"spotify:track:3pAen9KHWcFiwQIZUHXJYD"
-],
-[
 "2026-10-30T05:46|The War On Drugs|Who's That",
 "spotify:track:2YPP52aPZiFUxTmbQTUiR6"
 ],
@@ -3229,6 +3233,24 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-11-06T05:52|Interpol|Iron City",
+"t": "2026-11-06T05:52:00+01:00",
+"artist": "Interpol",
+"title": "Iron City"
+},
+{
+"id": "2026-11-06T05:49|Hannah Jadagu|My Love",
+"t": "2026-11-06T05:49:00+01:00",
+"artist": "Hannah Jadagu",
+"title": "My Love"
+},
+{
+"id": "2026-11-06T05:43|Edward Sharpe & The Magnetic Zeros|Home",
+"t": "2026-11-06T05:43:00+01:00",
+"artist": "Edward Sharpe & The Magnetic Zeros",
+"title": "Home"
+},
 {
 "id": "2026-11-06T05:38|Nationalgalerie|Tütensuppe",
 "t": "2026-11-06T05:38:00+01:00",
@@ -8118,18 +8140,6 @@
 "t": "2026-10-30T06:04:00+01:00",
 "artist": "The Coral",
 "title": "In The Morning"
-},
-{
-"id": "2026-10-30T05:56|Ben Harper|Diamonds On The Inside",
-"t": "2026-10-30T05:56:00+01:00",
-"artist": "Ben Harper",
-"title": "Diamonds On The Inside"
-},
-{
-"id": "2026-10-30T05:51|Roo Panes|Lullaby Love",
-"t": "2026-10-30T05:51:00+01:00",
-"artist": "Roo Panes",
-"title": "Lullaby Love"
 }
 ]
 }
