@@ -1,9 +1,9 @@
 {
-"updated": "2026-11-06T06:47:02.639672+01:00",
+"updated": "2026-11-06T06:59:02.640019+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
-"synced": "2026-11-06T06:39:02.639450+01:00",
+"synced": "2026-11-06T06:55:02.639899+01:00",
 "pruned": "2026-11-06",
 "calls": {
 "2026-10-30": 178,
@@ -13,12 +13,28 @@
 "2026-11-03": 174,
 "2026-11-04": 181,
 "2026-11-05": 165,
-"2026-11-06": 19
+"2026-11-06": 22
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAfRCrUdvz/yGRaWWF9HbXfL0sRtz5M",
+"snapshot": "AAAfRedVmz7lUH0XbhbsmGJq6V5m+/Jw",
 "playlist": [
+[
+"2026-11-06T06:50|Aldous Harding|One Stop",
+"spotify:track:3VsRmRzYpLv4YpjSwbeP8J"
+],
+[
+"2026-11-06T06:47|Anthea|Run",
+"spotify:track:5q6UJFWsjGjJUw33MkcZcn"
+],
+[
+"2026-11-06T06:43|Phoebe Bridgers|Lost Boys (Radio Edit)",
+"spotify:track:2Rbkkd9pKlLtBOhsp5NmSI"
+],
+[
+"2026-11-06T06:34|Jim Noir|Eanie Meany (Fat Boy Slim Remix)",
+"spotify:track:6mmDu9F26OBkyfvtXtOAo3"
+],
 [
 "2026-11-06T06:26|Housemartins, The|Sheep",
 "spotify:track:0bOUZVeCPY1MYEuFIVMazJ"
@@ -3257,6 +3273,18 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-11-06T06:50|Aldous Harding|One Stop",
+"t": "2026-11-06T06:50:00+01:00",
+"artist": "Aldous Harding",
+"title": "One Stop"
+},
+{
+"id": "2026-11-06T06:47|Anthea|Run",
+"t": "2026-11-06T06:47:00+01:00",
+"artist": "Anthea",
+"title": "Run"
+},
 {
 "id": "2026-11-06T06:43|Phoebe Bridgers|Lost Boys (Radio Edit)",
 "t": "2026-11-06T06:43:00+01:00",
@@ -8146,18 +8174,6 @@
 "t": "2026-10-30T07:04:00+01:00",
 "artist": "The Cure",
 "title": "Boys Don't Cry"
-},
-{
-"id": "2026-10-30T06:56|AnnenMayKantereit|Warte auf mich [Padaschdi]",
-"t": "2026-10-30T06:56:00+01:00",
-"artist": "AnnenMayKantereit",
-"title": "Warte auf mich [Padaschdi]"
-},
-{
-"id": "2026-10-30T06:49|Tyler Ballgame|I Believe In Love",
-"t": "2026-10-30T06:49:00+01:00",
-"artist": "Tyler Ballgame",
-"title": "I Believe In Love"
 }
 ]
 }
