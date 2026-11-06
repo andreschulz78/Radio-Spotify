@@ -1,9 +1,9 @@
 {
-"updated": "2026-11-06T05:59:02.638275+01:00",
+"updated": "2026-11-06T06:11:02.638595+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
-"synced": "2026-11-06T05:51:02.638047+01:00",
+"synced": "2026-11-06T06:07:02.638484+01:00",
 "pruned": "2026-11-06",
 "calls": {
 "2026-10-30": 178,
@@ -13,12 +13,24 @@
 "2026-11-03": 174,
 "2026-11-04": 181,
 "2026-11-05": 165,
-"2026-11-06": 9
+"2026-11-06": 11
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAfQFt5OPovrntdh+XDe1D1WPS2Cc6t",
+"snapshot": "AAAfQYfl1/HJzzpzGZIvdiQDX1pcQxAr",
 "playlist": [
+[
+"2026-11-06T05:57|Kings Of Convenience|Mrs. Cold",
+"spotify:track:4aQRqTTEDBhHPDtfaQDLhy"
+],
+[
+"2026-11-06T05:52|Interpol|Iron City",
+"spotify:track:7o9gwmscHBXh6sUEYkWQ4e"
+],
+[
+"2026-11-06T05:49|Hannah Jadagu|My Love",
+"spotify:track:4XM4c3zMS0orMhblnrZwnS"
+],
 [
 "2026-11-06T05:43|Edward Sharpe & The Magnetic Zeros|Home",
 "spotify:track:6Lru82bLtbHzAVXYHvn8R2"
@@ -3233,6 +3245,12 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-11-06T05:57|Kings Of Convenience|Mrs. Cold",
+"t": "2026-11-06T05:57:00+01:00",
+"artist": "Kings Of Convenience",
+"title": "Mrs. Cold"
+},
 {
 "id": "2026-11-06T05:52|Interpol|Iron City",
 "t": "2026-11-06T05:52:00+01:00",
@@ -8128,18 +8146,6 @@
 "t": "2026-10-30T06:14:00+01:00",
 "artist": "Cat Power",
 "title": "Cherokee"
-},
-{
-"id": "2026-10-30T06:10|J.Bernardt|Love Is On My Mind",
-"t": "2026-10-30T06:10:00+01:00",
-"artist": "J.Bernardt",
-"title": "Love Is On My Mind"
-},
-{
-"id": "2026-10-30T06:04|The Coral|In The Morning",
-"t": "2026-10-30T06:04:00+01:00",
-"artist": "The Coral",
-"title": "In The Morning"
 }
 ]
 }
