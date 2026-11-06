@@ -1,9 +1,9 @@
 {
-"updated": "2026-11-06T09:47:02.645181+01:00",
+"updated": "2026-11-06T09:59:02.645520+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
-"synced": "2026-11-06T09:35:02.644809+01:00",
+"synced": "2026-11-06T09:51:02.645288+01:00",
 "pruned": "2026-11-06",
 "calls": {
 "2026-10-30": 178,
@@ -13,12 +13,20 @@
 "2026-11-03": 174,
 "2026-11-04": 181,
 "2026-11-05": 165,
-"2026-11-06": 54
+"2026-11-06": 56
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAfUeGLh5jb7VAw8QkKLdJysI/Cwdea",
+"snapshot": "AAAfUnWEyx1COTaVb0s6EAEKhqTD+8Iz",
 "playlist": [
+[
+"2026-11-06T09:43|Sylvan Esso|Right to Left",
+"spotify:track:78xiuouD9dMXKXGKdDnjqB"
+],
+[
+"2026-11-06T09:35|Mia|Hungriges Herz",
+"spotify:track:6RB1fEznHzr1TITfnnyitI"
+],
 [
 "2026-11-06T09:27|Damien Jurado|Percy Faith",
 "spotify:track:1qCgkpuBE1M3C4TJbsJkEN"
@@ -3357,6 +3365,24 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-11-06T09:52|Gena feat. Liv.e, Karriem Riggins|Circlesz",
+"t": "2026-11-06T09:52:00+01:00",
+"artist": "Gena feat. Liv.e, Karriem Riggins",
+"title": "Circlesz"
+},
+{
+"id": "2026-11-06T09:47|TLC|Waterfalls",
+"t": "2026-11-06T09:47:00+01:00",
+"artist": "TLC",
+"title": "Waterfalls"
+},
+{
+"id": "2026-11-06T09:43|Sylvan Esso|Right to Left",
+"t": "2026-11-06T09:43:00+01:00",
+"artist": "Sylvan Esso",
+"title": "Right to Left"
+},
 {
 "id": "2026-11-06T09:35|Mia|Hungriges Herz",
 "t": "2026-11-06T09:35:00+01:00",
@@ -8252,12 +8278,6 @@
 "t": "2026-10-30T10:04:00+01:00",
 "artist": "The Avalanches feat. Karen O",
 "title": "Blue Shadows"
-},
-{
-"id": "2026-10-30T09:54|Silly|Halloween in Ostberlin",
-"t": "2026-10-30T09:54:00+01:00",
-"artist": "Silly",
-"title": "Halloween in Ostberlin"
 }
 ]
 }
