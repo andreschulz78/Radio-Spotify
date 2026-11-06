@@ -603,6 +603,10 @@
 "u": "spotify:track:7s0xV4DZ7g4y3kd0FtSfIz",
 "d": "2026-11-02T00:01:41.599683+01:00"
 },
+"bilderbuch|zahlen als beweis": {
+"u": "spotify:track:4DMzOq4TEfN1brCgM0wKVg",
+"d": "2026-11-06T09:11:02.644174+01:00"
+},
 "bill withers|ain t no sunshine": {
 "u": "spotify:track:1k1Bqnv2R0uJXQN4u6LKYt",
 "d": "2026-11-06T00:02:55.176430+01:00"
@@ -898,10 +902,6 @@
 "celeste|stop this flame": {
 "u": "spotify:track:1bObrsJGW0UCIGZkvnDqbe",
 "d": "2026-11-04T00:03:15.612079+01:00"
-},
-"cem karaca|willkommen": {
-"u": null,
-"d": "2026-11-05T09:18:17.159677+01:00"
 },
 "charlotte day wilson|work": {
 "u": "spotify:track:1knUACOt5yfNAYn7gnYQVt",
@@ -3105,7 +3105,7 @@
 },
 "moscoman tom sanders|in stereo": {
 "u": "spotify:track:6VBbmDuYFGj4xAxLM79JB7",
-"d": "2026-11-05T00:02:15.684801+01:00"
+"d": "2026-11-06T09:03:02.643905+01:00"
 },
 "mother s cake|love your smell": {
 "u": "spotify:track:7ushCmTr07sfa7zKAKkf70",
