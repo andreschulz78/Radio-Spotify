@@ -1,9 +1,9 @@
 {
-"updated": "2026-11-06T06:35:02.639333+01:00",
+"updated": "2026-11-06T06:47:02.639672+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
-"synced": "2026-11-06T06:23:02.638971+01:00",
+"synced": "2026-11-06T06:39:02.639450+01:00",
 "pruned": "2026-11-06",
 "calls": {
 "2026-10-30": 178,
@@ -13,12 +13,20 @@
 "2026-11-03": 174,
 "2026-11-04": 181,
 "2026-11-05": 165,
-"2026-11-06": 15
+"2026-11-06": 19
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAfQhuks60p8pzfgbk60NBQPB01BRVz",
+"snapshot": "AAAfRCrUdvz/yGRaWWF9HbXfL0sRtz5M",
 "playlist": [
+[
+"2026-11-06T06:26|Housemartins, The|Sheep",
+"spotify:track:0bOUZVeCPY1MYEuFIVMazJ"
+],
+[
+"2026-11-06T06:18|Automatic|Shadowplay",
+"spotify:track:0pT1m2UpNBliUb6W7S7YzA"
+],
 [
 "2026-11-06T06:14|Django Django ft. Max Pope|Feel Alright",
 "spotify:track:1TU9gJekTIXiu3RVb9wrzN"
@@ -3192,10 +3200,6 @@
 "spotify:track:31hSy1c6SWABIV3W1LqjMz"
 ],
 [
-"2026-10-30T06:39|Broken Bells|The High Road",
-"spotify:track:5cwN1htZyoWqZCc33f3RfE"
-],
-[
 "2026-10-30T06:32|Samantha Crain|Dragonfly",
 "spotify:track:2Z5DIhqjCI1MarKVEuV2hZ"
 ],
@@ -3253,6 +3257,18 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-11-06T06:43|Phoebe Bridgers|Lost Boys (Radio Edit)",
+"t": "2026-11-06T06:43:00+01:00",
+"artist": "Phoebe Bridgers",
+"title": "Lost Boys (Radio Edit)"
+},
+{
+"id": "2026-11-06T06:34|Jim Noir|Eanie Meany (Fat Boy Slim Remix)",
+"t": "2026-11-06T06:34:00+01:00",
+"artist": "Jim Noir",
+"title": "Eanie Meany (Fat Boy Slim Remix)"
+},
 {
 "id": "2026-11-06T06:26|Housemartins, The|Sheep",
 "t": "2026-11-06T06:26:00+01:00",
@@ -8142,18 +8158,6 @@
 "t": "2026-10-30T06:49:00+01:00",
 "artist": "Tyler Ballgame",
 "title": "I Believe In Love"
-},
-{
-"id": "2026-10-30T06:45|Ex:Re|Sleep",
-"t": "2026-10-30T06:45:00+01:00",
-"artist": "Ex:Re",
-"title": "Sleep"
-},
-{
-"id": "2026-10-30T06:39|Broken Bells|The High Road",
-"t": "2026-10-30T06:39:00+01:00",
-"artist": "Broken Bells",
-"title": "The High Road"
 }
 ]
 }
