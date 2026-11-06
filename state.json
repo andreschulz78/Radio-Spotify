@@ -1,9 +1,9 @@
 {
-"updated": "2026-11-06T10:58:35.345729+01:00",
+"updated": "2026-11-06T11:10:35.346071+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
-"synced": "2026-11-06T10:46:35.345321+01:00",
+"synced": "2026-11-06T11:02:35.345840+01:00",
 "pruned": "2026-11-06",
 "calls": {
 "2026-10-30": 178,
@@ -13,12 +13,16 @@
 "2026-11-03": 174,
 "2026-11-04": 181,
 "2026-11-05": 165,
-"2026-11-06": 66
+"2026-11-06": 69
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAfVBVZkAUrqI/+09AvQRoAEf+S2Y9D",
+"snapshot": "AAAfVpNFBhHGQupz0ILL18PEMJdImUug",
 "playlist": [
+[
+"2026-11-06T10:50|Die Lassie Singers|Hamburg",
+"spotify:track:4vGZ3MKRnsk8UhXHCWe9wG"
+],
 [
 "2026-11-06T10:41|Black Marble|Jim Carol New Year",
 "spotify:track:3UhXNJjt6Y0sNCEwwhoJnT"
@@ -34,6 +38,10 @@
 [
 "2026-11-06T10:21|Cari Cari|My Grandma Says We Have No Future",
 "spotify:track:594dZgtbD0x0VbahbWTqtA"
+],
+[
+"2026-11-06T10:16|The Beatles|When I'm Sixty Four",
+"spotify:track:1NrbnHlR2BFREcyWXHIHip"
 ],
 [
 "2026-11-06T10:09|Phantogram|Earthshaker",
@@ -3397,6 +3405,12 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-11-06T10:58|Odd Beholder|Insecurities",
+"t": "2026-11-06T10:58:00+01:00",
+"artist": "Odd Beholder",
+"title": "Insecurities"
+},
 {
 "id": "2026-11-06T10:50|Die Lassie Singers|Hamburg",
 "t": "2026-11-06T10:50:00+01:00",
@@ -8292,12 +8306,6 @@
 "t": "2026-10-30T11:13:00+01:00",
 "artist": "Flora Hibberd",
 "title": "Bowling Ball"
-},
-{
-"id": "2026-10-30T11:05|Mattiel|Jeff Goldblum",
-"t": "2026-10-30T11:05:00+01:00",
-"artist": "Mattiel",
-"title": "Jeff Goldblum"
 }
 ]
 }
