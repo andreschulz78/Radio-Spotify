@@ -1,9 +1,9 @@
 {
-"updated": "2026-11-06T21:23:44.149109+01:00",
+"updated": "2026-11-06T21:35:44.149493+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
-"synced": "2026-11-06T21:11:44.148736+01:00",
+"synced": "2026-11-06T21:27:44.149242+01:00",
 "pruned": "2026-11-06",
 "calls": {
 "2026-10-30": 178,
@@ -13,12 +13,20 @@
 "2026-11-03": 174,
 "2026-11-04": 181,
 "2026-11-05": 165,
-"2026-11-06": 160
+"2026-11-06": 163
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAfeby5jKe5iMUVzqwS516bzJqbyomp",
+"snapshot": "AAAfenKYKJj+S1/PmUcVGVYB7qs5p4g+",
 "playlist": [
+[
+"2026-11-06T21:18|Twisted|I Spend My Time Crying",
+"spotify:track:6bvcSEgoD9I42gqqi0UjyM"
+],
+[
+"2026-11-06T21:12|Twisted|When We First Met",
+"spotify:track:5IkNi8sYuM2B4sD7G7v24t"
+],
 [
 "2026-11-06T21:04|Heidi Curtis|Summon",
 "spotify:track:7Fr5OIHrtbxWsYglEXdqow"
@@ -3645,6 +3653,18 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-11-06T21:28|Twisted|Darker The Night Is The Brighter I See",
+"t": "2026-11-06T21:28:00+01:00",
+"artist": "Twisted",
+"title": "Darker The Night Is The Brighter I See"
+},
+{
+"id": "2026-11-06T21:18|Twisted|I Spend My Time Crying",
+"t": "2026-11-06T21:18:00+01:00",
+"artist": "Twisted",
+"title": "I Spend My Time Crying"
+},
 {
 "id": "2026-11-06T21:12|Twisted|When We First Met",
 "t": "2026-11-06T21:12:00+01:00",
@@ -8720,18 +8740,6 @@
 "t": "2026-10-30T21:43:00+01:00",
 "artist": "Queens of the Stone Age",
 "title": "Easy Street"
-},
-{
-"id": "2026-10-30T21:33|Queens of the Stone Age|Where The Goth Girls At",
-"t": "2026-10-30T21:33:00+01:00",
-"artist": "Queens of the Stone Age",
-"title": "Where The Goth Girls At"
-},
-{
-"id": "2026-10-30T21:26|TRAENEN|Du Hund",
-"t": "2026-10-30T21:26:00+01:00",
-"artist": "TRAENEN",
-"title": "Du Hund"
 }
 ]
 }
