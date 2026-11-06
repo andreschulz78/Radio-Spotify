@@ -1,9 +1,9 @@
 {
-"updated": "2026-11-06T12:58:35.349188+01:00",
+"updated": "2026-11-06T13:10:35.349559+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
-"synced": "2026-11-06T12:54:35.349081+01:00",
+"synced": "2026-11-06T13:10:35.349559+01:00",
 "pruned": "2026-11-06",
 "calls": {
 "2026-10-30": 178,
@@ -13,12 +13,24 @@
 "2026-11-03": 174,
 "2026-11-04": 181,
 "2026-11-05": 165,
-"2026-11-06": 93
+"2026-11-06": 94
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAfYKBk1gfZuRgszbHGt9UVU0vISrJd",
+"snapshot": "AAAfYWi5VVOM707sO2HeydlKnf4WyXkw",
 "playlist": [
+[
+"2026-11-06T13:04|Nihils|Lavender",
+"spotify:track:24IHKK4RZRa5WYOEigkp5h"
+],
+[
+"2026-11-06T12:55|Benjamin Clementine|In Fact You Know You Gotto Go",
+"spotify:track:4cWEdRTQ8sg4QaTBIGn06j"
+],
+[
+"2026-11-06T12:49|The Beatles|Sgt Pepper's Lonely Hearts Club Band",
+"spotify:track:42ocGQCOT0xYtV3f5kJDsD"
+],
 [
 "2026-11-06T12:46|Loaded Honey|Don't Speak",
 "spotify:track:2sKjOX72UX1HiCDhI2HdlR"
@@ -3465,6 +3477,18 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-11-06T13:04|Nihils|Lavender",
+"t": "2026-11-06T13:04:00+01:00",
+"artist": "Nihils",
+"title": "Lavender"
+},
+{
+"id": "2026-11-06T12:55|Benjamin Clementine|In Fact You Know You Gotto Go",
+"t": "2026-11-06T12:55:00+01:00",
+"artist": "Benjamin Clementine",
+"title": "In Fact You Know You Gotto Go"
+},
 {
 "id": "2026-11-06T12:49|The Beatles|Sgt Pepper's Lonely Hearts Club Band",
 "t": "2026-11-06T12:49:00+01:00",
