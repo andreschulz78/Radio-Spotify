@@ -1,5 +1,5 @@
 {
-"updated": "2026-11-06T21:59:44.150272+01:00",
+"updated": "2026-11-06T22:11:44.150705+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
@@ -13,7 +13,7 @@
 "2026-11-03": 174,
 "2026-11-04": 181,
 "2026-11-05": 165,
-"2026-11-06": 169
+"2026-11-06": 171
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
@@ -3665,6 +3665,18 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-11-06T22:03|Hannah Jadagu|Curse",
+"t": "2026-11-06T22:03:00+01:00",
+"artist": "Hannah Jadagu",
+"title": "Curse"
+},
+{
+"id": "2026-11-06T21:55|Shygirl|Eternal",
+"t": "2026-11-06T21:55:00+01:00",
+"artist": "Shygirl",
+"title": "Eternal"
+},
 {
 "id": "2026-11-06T21:51|Django Django|Feel Alright",
 "t": "2026-11-06T21:51:00+01:00",
@@ -8740,18 +8752,6 @@
 "t": "2026-10-30T22:19:00+01:00",
 "artist": "Sampa The Great",
 "title": "Star [feat. KAMAUU]"
-},
-{
-"id": "2026-10-30T22:10|Sampa The Great|Location",
-"t": "2026-10-30T22:10:00+01:00",
-"artist": "Sampa The Great",
-"title": "Location"
-},
-{
-"id": "2026-10-30T22:03|Editors|Much Love",
-"t": "2026-10-30T22:03:00+01:00",
-"artist": "Editors",
-"title": "Much Love"
 }
 ]
 }
