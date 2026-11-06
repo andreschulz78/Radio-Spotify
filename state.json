@@ -1,9 +1,9 @@
 {
-"updated": "2026-11-06T20:59:44.148326+01:00",
+"updated": "2026-11-06T21:11:44.148736+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
-"synced": "2026-11-06T20:55:44.148202+01:00",
+"synced": "2026-11-06T21:11:44.148736+01:00",
 "pruned": "2026-11-06",
 "calls": {
 "2026-10-30": 178,
@@ -13,12 +13,16 @@
 "2026-11-03": 174,
 "2026-11-04": 181,
 "2026-11-05": 165,
-"2026-11-06": 156
+"2026-11-06": 159
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAfeD6jOZZ6oPjkP4mbFozoWXtQKreM",
+"snapshot": "AAAfeby5jKe5iMUVzqwS516bzJqbyomp",
 "playlist": [
+[
+"2026-11-06T21:04|Heidi Curtis|Summon",
+"spotify:track:7Fr5OIHrtbxWsYglEXdqow"
+],
 [
 "2026-11-06T20:26|Wyclef Jean feat. R Kelly Canibus|Gone Till November (The Makin Runs Remix)",
 "spotify:track:0jOXmNowR2j1hVpZMqnz9P"
@@ -3641,6 +3645,18 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-11-06T21:04|Heidi Curtis|Summon",
+"t": "2026-11-06T21:04:00+01:00",
+"artist": "Heidi Curtis",
+"title": "Summon"
+},
+{
+"id": "2026-11-06T20:54|Lorie|A Little Affair",
+"t": "2026-11-06T20:54:00+01:00",
+"artist": "Lorie",
+"title": "A Little Affair"
+},
 {
 "id": "2026-11-06T20:26|Wyclef Jean feat. R Kelly Canibus|Gone Till November (The Makin Runs Remix)",
 "t": "2026-11-06T20:26:00+01:00",
@@ -8716,18 +8732,6 @@
 "t": "2026-10-30T21:19:00+01:00",
 "artist": "TRAENEN",
 "title": "Das Gegenteil von Scheisse"
-},
-{
-"id": "2026-10-30T21:10|TRAENEN|Chrom im Wald",
-"t": "2026-10-30T21:10:00+01:00",
-"artist": "TRAENEN",
-"title": "Chrom im Wald"
-},
-{
-"id": "2026-10-30T21:04|Yello|Break Out",
-"t": "2026-10-30T21:04:00+01:00",
-"artist": "Yello",
-"title": "Break Out"
 }
 ]
 }
