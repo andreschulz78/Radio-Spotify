@@ -1,9 +1,9 @@
 {
-"updated": "2026-11-06T07:47:02.641517+01:00",
+"updated": "2026-11-06T07:59:02.641929+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
-"synced": "2026-11-06T07:43:02.641361+01:00",
+"synced": "2026-11-06T07:59:02.641929+01:00",
 "pruned": "2026-11-06",
 "calls": {
 "2026-10-30": 178,
@@ -13,12 +13,20 @@
 "2026-11-03": 174,
 "2026-11-04": 181,
 "2026-11-05": 165,
-"2026-11-06": 33
+"2026-11-06": 35
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAfSYzhAb7s3Hjbh2yKpmrmcZx42nv5",
+"snapshot": "AAAfSuTZXQk1ICdBgk1hCsM2QJWqT9tj",
 "playlist": [
+[
+"2026-11-06T07:51|Obongjayar|Sweet Danger",
+"spotify:track:1IPRwv7FqZvdaawA2YWCcQ"
+],
+[
+"2026-11-06T07:44|The Big Moon|F.O.R.E.V.E.R",
+"spotify:track:0UaPOdi1O83vr1oTXaGqgx"
+],
 [
 "2026-11-06T07:35|Jamiroquai|(Don't) Give Hate A Chance",
 "spotify:track:2IJk5fQC6Qiu2gRrCR2977"
@@ -3297,6 +3305,18 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-11-06T07:51|Obongjayar|Sweet Danger",
+"t": "2026-11-06T07:51:00+01:00",
+"artist": "Obongjayar",
+"title": "Sweet Danger"
+},
+{
+"id": "2026-11-06T07:44|The Big Moon|F.O.R.E.V.E.R",
+"t": "2026-11-06T07:44:00+01:00",
+"artist": "The Big Moon",
+"title": "F.O.R.E.V.E.R"
+},
 {
 "id": "2026-11-06T07:35|Jamiroquai|(Don't) Give Hate A Chance",
 "t": "2026-11-06T07:35:00+01:00",
@@ -8192,18 +8212,6 @@
 "t": "2026-10-30T08:05:00+01:00",
 "artist": "Sophia Kennedy",
 "title": "Hot Match"
-},
-{
-"id": "2026-10-30T07:56|STRFKR|Under Water / In Air",
-"t": "2026-10-30T07:56:00+01:00",
-"artist": "STRFKR",
-"title": "Under Water / In Air"
-},
-{
-"id": "2026-10-30T07:48|Seeed|Riddim No. 1",
-"t": "2026-10-30T07:48:00+01:00",
-"artist": "Seeed",
-"title": "Riddim No. 1"
 }
 ]
 }
