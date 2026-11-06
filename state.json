@@ -1,5 +1,5 @@
 {
-"updated": "2026-11-06T10:46:35.345321+01:00",
+"updated": "2026-11-06T10:58:35.345729+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
@@ -13,7 +13,7 @@
 "2026-11-03": 174,
 "2026-11-04": 181,
 "2026-11-05": 165,
-"2026-11-06": 63
+"2026-11-06": 66
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
@@ -3397,6 +3397,12 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-11-06T10:50|Die Lassie Singers|Hamburg",
+"t": "2026-11-06T10:50:00+01:00",
+"artist": "Die Lassie Singers",
+"title": "Hamburg"
+},
 {
 "id": "2026-11-06T10:41|Black Marble|Jim Carol New Year",
 "t": "2026-11-06T10:41:00+01:00",
@@ -8292,18 +8298,6 @@
 "t": "2026-10-30T11:05:00+01:00",
 "artist": "Mattiel",
 "title": "Jeff Goldblum"
-},
-{
-"id": "2026-10-30T10:56|Death Cab For Cutie|Pep Talk",
-"t": "2026-10-30T10:56:00+01:00",
-"artist": "Death Cab For Cutie",
-"title": "Pep Talk"
-},
-{
-"id": "2026-10-30T10:49|Bleachers|Blood Brothers",
-"t": "2026-10-30T10:49:00+01:00",
-"artist": "Bleachers",
-"title": "Blood Brothers"
 }
 ]
 }
