@@ -1,9 +1,9 @@
 {
-"updated": "2026-11-07T06:08:00.755462+01:00",
+"updated": "2026-11-07T06:20:00.755796+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
-"synced": "2026-11-07T06:04:00.755334+01:00",
+"synced": "2026-11-07T06:20:00.755796+01:00",
 "pruned": "2026-11-07",
 "calls": {
 "2026-10-31": 90,
@@ -13,12 +13,24 @@
 "2026-11-04": 181,
 "2026-11-05": 165,
 "2026-11-06": 191,
-"2026-11-07": 1
+"2026-11-07": 5
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAfizqhH8ta153Efj7auLbrf7SEaSHn",
+"snapshot": "AAAfjFYbPfc/LfvK6Y1BEJHlI+TFaYcY",
 "playlist": [
+[
+"2026-11-07T06:14|Antony Szmierek|Chalk (Radio Edit)",
+"spotify:track:5HdeMdzAlNKwCM4L9cjehN"
+],
+[
+"2026-11-07T06:08|George Thorogood and the Destroyers|Bad To The Bone",
+"spotify:track:63IogjyJiFthyxyC0mJrwE"
+],
+[
+"2026-11-07T06:03|AV AV AV|A Number Of Things (Edit)",
+"spotify:track:4XR2CuIYKRMDVa9H1J2Ppo"
+],
 [
 "2026-11-06T22:49|Mittekill|Das warst Du",
 "spotify:track:6gPnXuU8t0SQiulJMMQQPO"
@@ -3325,6 +3337,24 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-11-07T06:14|Antony Szmierek|Chalk (Radio Edit)",
+"t": "2026-11-07T06:14:00+01:00",
+"artist": "Antony Szmierek",
+"title": "Chalk (Radio Edit)"
+},
+{
+"id": "2026-11-07T06:08|George Thorogood and the Destroyers|Bad To The Bone",
+"t": "2026-11-07T06:08:00+01:00",
+"artist": "George Thorogood and the Destroyers",
+"title": "Bad To The Bone"
+},
+{
+"id": "2026-11-07T06:03|AV AV AV|A Number Of Things (Edit)",
+"t": "2026-11-07T06:03:00+01:00",
+"artist": "AV AV AV",
+"title": "A Number Of Things (Edit)"
+},
 {
 "id": "2026-11-06T22:49|Mittekill|Das warst Du",
 "t": "2026-11-06T22:49:00+01:00",
@@ -8394,18 +8424,6 @@
 "t": "2026-10-31T06:21:00+01:00",
 "artist": "Mother Soki",
 "title": "Thicken"
-},
-{
-"id": "2026-10-31T06:16|Trans-X|Living On Video",
-"t": "2026-10-31T06:16:00+01:00",
-"artist": "Trans-X",
-"title": "Living On Video"
-},
-{
-"id": "2026-10-31T06:13|Jungle|Someday, Somewhere",
-"t": "2026-10-31T06:13:00+01:00",
-"artist": "Jungle",
-"title": "Someday, Somewhere"
 }
 ]
 }
