@@ -1,9 +1,9 @@
 {
-"updated": "2026-11-07T22:56:23.877692+01:00",
+"updated": "2026-11-07T23:08:23.878046+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
-"synced": "2026-11-07T22:44:23.877316+01:00",
+"synced": "2026-11-07T23:00:23.877822+01:00",
 "pruned": "2026-11-07",
 "calls": {
 "2026-10-31": 90,
@@ -13,12 +13,28 @@
 "2026-11-04": 181,
 "2026-11-05": 165,
 "2026-11-06": 191,
-"2026-11-07": 116
+"2026-11-07": 117
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAfu9gsqaMxzogbTR77DAkLn5er3h7k",
+"snapshot": "AAAfvBfXDItDoiXZEJSm/zI9Xjphxekc",
 "playlist": [
+[
+"2026-11-07T22:51|Fat Dog|Heart of Darkness",
+"spotify:track:24zbHhoxY7EKcijv98EWL7"
+],
+[
+"2026-11-07T22:46|Lemonheads|It's A Shame About Ray",
+"spotify:track:7q6Af0HbiQmg4WN3LPWSu7"
+],
+[
+"2026-11-07T22:43|The Bevis Frond|My Drug Buddy",
+"spotify:track:274ONErpXN9PfHUePjf50M"
+],
+[
+"2026-11-07T22:37|Clinic|You and I",
+"spotify:track:1PZlaH5eXJzQmOYKTxkdU9"
+],
 [
 "2026-11-07T22:28|Hot Chip|Random violence",
 "spotify:track:0T3vTM8KUAwGMukdAhNVj2"
