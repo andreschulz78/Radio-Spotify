@@ -1,5 +1,5 @@
 {
-"updated": "2026-11-07T22:44:23.877316+01:00",
+"updated": "2026-11-07T22:56:23.877692+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
@@ -13,7 +13,7 @@
 "2026-11-04": 181,
 "2026-11-05": 165,
 "2026-11-06": 191,
-"2026-11-07": 112
+"2026-11-07": 116
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
@@ -3605,6 +3605,30 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-11-07T22:51|Fat Dog|Heart of Darkness",
+"t": "2026-11-07T22:51:00+01:00",
+"artist": "Fat Dog",
+"title": "Heart of Darkness"
+},
+{
+"id": "2026-11-07T22:46|Lemonheads|It's A Shame About Ray",
+"t": "2026-11-07T22:46:00+01:00",
+"artist": "Lemonheads",
+"title": "It's A Shame About Ray"
+},
+{
+"id": "2026-11-07T22:43|The Bevis Frond|My Drug Buddy",
+"t": "2026-11-07T22:43:00+01:00",
+"artist": "The Bevis Frond",
+"title": "My Drug Buddy"
+},
+{
+"id": "2026-11-07T22:37|Clinic|You and I",
+"t": "2026-11-07T22:37:00+01:00",
+"artist": "Clinic",
+"title": "You and I"
+},
 {
 "id": "2026-11-07T22:28|Hot Chip|Random violence",
 "t": "2026-11-07T22:28:00+01:00",
