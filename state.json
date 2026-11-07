@@ -1,9 +1,9 @@
 {
-"updated": "2026-11-07T11:36:08.142113+01:00",
+"updated": "2026-11-07T11:48:08.142396+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
-"synced": "2026-11-07T11:24:08.141827+01:00",
+"synced": "2026-11-07T11:40:08.142211+01:00",
 "pruned": "2026-11-07",
 "calls": {
 "2026-10-31": 90,
@@ -13,12 +13,32 @@
 "2026-11-04": 181,
 "2026-11-05": 165,
 "2026-11-06": 191,
-"2026-11-07": 72
+"2026-11-07": 74
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAfrI2uBtarLboMtVJUu7ppaPWtpHIj",
+"snapshot": "AAAfrS0Boh2NQUjT3b/e0ud0LV62tmS8",
 "playlist": [
+[
+"2026-11-07T11:34|The Chap|We Work In Bars",
+"spotify:track:0hKDFJQDl4KphaxqX2AMSZ"
+],
+[
+"2026-11-07T11:31|Pachyman|Toyota nuevo",
+"spotify:track:6d2prsWxX9DPWlA2mgwDdY"
+],
+[
+"2026-11-07T11:26|Boy Harsher|Tough Luck (When You Don't Call)",
+"spotify:track:109AVLNWp2BnTXTzF4j6XE"
+],
+[
+"2026-11-07T11:24|Joshua Idehen|Could Be Forever",
+"spotify:track:0ZUKth5xg7UM6Q73YhDq2w"
+],
+[
+"2026-11-07T11:18|The Stranglers|The Raven",
+"spotify:track:6MQoBnZJnGdD00RTrPamdE"
+],
 [
 "2026-11-07T11:10|Alewya|Cairo FM",
 "spotify:track:6v7hCIRoJkuYShT0wls1gD"
@@ -3521,6 +3541,12 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-11-07T11:34|The Chap|We Work In Bars",
+"t": "2026-11-07T11:34:00+01:00",
+"artist": "The Chap",
+"title": "We Work In Bars"
+},
 {
 "id": "2026-11-07T11:31|Pachyman|Toyota nuevo",
 "t": "2026-11-07T11:31:00+01:00",
@@ -8602,12 +8628,6 @@
 "t": "2026-10-31T11:50:00+01:00",
 "artist": "Beach House",
 "title": "Once Twice Melody (Radio Edit)"
-},
-{
-"id": "2026-10-31T11:46|Baxter Dury|Schadenfreude",
-"t": "2026-10-31T11:46:00+01:00",
-"artist": "Baxter Dury",
-"title": "Schadenfreude"
 }
 ]
 }
