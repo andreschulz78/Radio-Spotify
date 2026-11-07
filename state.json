@@ -1,5 +1,5 @@
 {
-"updated": "2026-11-07T11:24:08.141827+01:00",
+"updated": "2026-11-07T11:36:08.142113+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
@@ -13,7 +13,7 @@
 "2026-11-04": 181,
 "2026-11-05": 165,
 "2026-11-06": 191,
-"2026-11-07": 70
+"2026-11-07": 72
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
@@ -3521,6 +3521,30 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-11-07T11:31|Pachyman|Toyota nuevo",
+"t": "2026-11-07T11:31:00+01:00",
+"artist": "Pachyman",
+"title": "Toyota nuevo"
+},
+{
+"id": "2026-11-07T11:26|Boy Harsher|Tough Luck (When You Don't Call)",
+"t": "2026-11-07T11:26:00+01:00",
+"artist": "Boy Harsher",
+"title": "Tough Luck (When You Don't Call)"
+},
+{
+"id": "2026-11-07T11:24|Joshua Idehen|Could Be Forever",
+"t": "2026-11-07T11:24:00+01:00",
+"artist": "Joshua Idehen",
+"title": "Could Be Forever"
+},
+{
+"id": "2026-11-07T11:18|The Stranglers|The Raven",
+"t": "2026-11-07T11:18:00+01:00",
+"artist": "The Stranglers",
+"title": "The Raven"
+},
 {
 "id": "2026-11-07T11:10|Alewya|Cairo FM",
 "t": "2026-11-07T11:10:00+01:00",
@@ -8584,24 +8608,6 @@
 "t": "2026-10-31T11:46:00+01:00",
 "artist": "Baxter Dury",
 "title": "Schadenfreude"
-},
-{
-"id": "2026-10-31T11:35|Kelela|the bridge (feat. PinkPantheress)",
-"t": "2026-10-31T11:35:00+01:00",
-"artist": "Kelela",
-"title": "the bridge (feat. PinkPantheress)"
-},
-{
-"id": "2026-10-31T11:32|Boy & Bear|State of Flight",
-"t": "2026-10-31T11:32:00+01:00",
-"artist": "Boy & Bear",
-"title": "State of Flight"
-},
-{
-"id": "2026-10-31T11:26|Lola Young|From Down Here (Radio Edit)",
-"t": "2026-10-31T11:26:00+01:00",
-"artist": "Lola Young",
-"title": "From Down Here (Radio Edit)"
 }
 ]
 }
