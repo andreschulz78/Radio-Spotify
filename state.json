@@ -1,9 +1,9 @@
 {
-"updated": "2026-11-07T11:48:08.142396+01:00",
+"updated": "2026-11-07T12:00:08.142740+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
-"synced": "2026-11-07T11:40:08.142211+01:00",
+"synced": "2026-11-07T11:56:08.142631+01:00",
 "pruned": "2026-11-07",
 "calls": {
 "2026-10-31": 90,
@@ -13,12 +13,24 @@
 "2026-11-04": 181,
 "2026-11-05": 165,
 "2026-11-06": 191,
-"2026-11-07": 74
+"2026-11-07": 78
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAfrS0Boh2NQUjT3b/e0ud0LV62tmS8",
+"snapshot": "AAAfrnUKkmZAE0DyZhbDEvmtAElzaXA4",
 "playlist": [
+[
+"2026-11-07T11:50|Real Estate|Water Underground",
+"spotify:track:56UnwWtjPqJA2gQthNALiR"
+],
+[
+"2026-11-07T11:48|Chinese American Bear|Dance Dance Dance (Edit)",
+"spotify:track:3Ct3ro3LnsTHjeRVPNSG5s"
+],
+[
+"2026-11-07T11:44|Loma|How It Starts (Radio Edit)",
+"spotify:track:0X9wvHNouiEKb1mq375aVr"
+],
 [
 "2026-11-07T11:34|The Chap|We Work In Bars",
 "spotify:track:0hKDFJQDl4KphaxqX2AMSZ"
@@ -3541,6 +3553,30 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-11-07T11:56|Ben Kweller|Falling",
+"t": "2026-11-07T11:56:00+01:00",
+"artist": "Ben Kweller",
+"title": "Falling"
+},
+{
+"id": "2026-11-07T11:50|Real Estate|Water Underground",
+"t": "2026-11-07T11:50:00+01:00",
+"artist": "Real Estate",
+"title": "Water Underground"
+},
+{
+"id": "2026-11-07T11:48|Chinese American Bear|Dance Dance Dance (Edit)",
+"t": "2026-11-07T11:48:00+01:00",
+"artist": "Chinese American Bear",
+"title": "Dance Dance Dance (Edit)"
+},
+{
+"id": "2026-11-07T11:44|Loma|How It Starts (Radio Edit)",
+"t": "2026-11-07T11:44:00+01:00",
+"artist": "Loma",
+"title": "How It Starts (Radio Edit)"
+},
 {
 "id": "2026-11-07T11:34|The Chap|We Work In Bars",
 "t": "2026-11-07T11:34:00+01:00",
@@ -8610,24 +8646,6 @@
 "t": "2026-10-31T12:06:00+01:00",
 "artist": "Blood Orange",
 "title": "Augustine"
-},
-{
-"id": "2026-10-31T11:57|Sofie Royer|Cowboy Mouth",
-"t": "2026-10-31T11:57:00+01:00",
-"artist": "Sofie Royer",
-"title": "Cowboy Mouth"
-},
-{
-"id": "2026-10-31T11:52|Babe Rainbow|Waterfall",
-"t": "2026-10-31T11:52:00+01:00",
-"artist": "Babe Rainbow",
-"title": "Waterfall"
-},
-{
-"id": "2026-10-31T11:50|Beach House|Once Twice Melody (Radio Edit)",
-"t": "2026-10-31T11:50:00+01:00",
-"artist": "Beach House",
-"title": "Once Twice Melody (Radio Edit)"
 }
 ]
 }
