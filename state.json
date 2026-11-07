@@ -1,9 +1,9 @@
 {
-"updated": "2026-11-07T10:56:00.763554+01:00",
+"updated": "2026-11-07T11:08:00.763911+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
-"synced": "2026-11-07T10:52:00.763409+01:00",
+"synced": "2026-11-07T11:08:00.763911+01:00",
 "pruned": "2026-11-07",
 "calls": {
 "2026-10-31": 90,
@@ -13,12 +13,20 @@
 "2026-11-04": 181,
 "2026-11-05": 165,
 "2026-11-06": 191,
-"2026-11-07": 66
+"2026-11-07": 69
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAfqol7p3ebYlWRE5149cLqgNYnKv8M",
+"snapshot": "AAAfq7AVfU23Kj7DpeMcGO7yegz2xpID",
 "playlist": [
+[
+"2026-11-07T10:56|fijuka|Behave (From Now On)",
+"spotify:track:6QJSPlTrOv16QcLMn0EWuA"
+],
+[
+"2026-11-07T10:49|Black Pumas|More than a Love Song (Radio Edit)",
+"spotify:track:75Bc1mWdIfftfh2qCYpNxA"
+],
 [
 "2026-11-07T10:36|Alessi Brothers|Seabird",
 "spotify:track:1iUpSRmgnbTRqU0Pb217qI"
@@ -3505,6 +3513,12 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-11-07T10:56|fijuka|Behave (From Now On)",
+"t": "2026-11-07T10:56:00+01:00",
+"artist": "fijuka",
+"title": "Behave (From Now On)"
+},
 {
 "id": "2026-11-07T10:49|Black Pumas|More than a Love Song (Radio Edit)",
 "t": "2026-11-07T10:49:00+01:00",
@@ -8586,18 +8600,6 @@
 "t": "2026-10-31T11:09:00+01:00",
 "artist": "DJ Koze",
 "title": "Pick Up"
-},
-{
-"id": "2026-10-31T11:05|Sam Burton|I'm A Stranger",
-"t": "2026-10-31T11:05:00+01:00",
-"artist": "Sam Burton",
-"title": "I'm A Stranger"
-},
-{
-"id": "2026-10-31T10:57|The Black Angels|Here & Now",
-"t": "2026-10-31T10:57:00+01:00",
-"artist": "The Black Angels",
-"title": "Here & Now"
 }
 ]
 }
