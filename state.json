@@ -1,9 +1,9 @@
 {
-"updated": "2026-11-07T06:44:00.756428+01:00",
+"updated": "2026-11-07T06:56:00.756625+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
-"synced": "2026-11-07T06:36:00.756237+01:00",
+"synced": "2026-11-07T06:52:00.756540+01:00",
 "pruned": "2026-11-07",
 "calls": {
 "2026-10-31": 90,
@@ -13,12 +13,24 @@
 "2026-11-04": 181,
 "2026-11-05": 165,
 "2026-11-06": 191,
-"2026-11-07": 10
+"2026-11-07": 13
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAfjVLEAJrBfbPyZp6WrimfbQI9oK5T",
+"snapshot": "AAAfjpXyI+uOOY7B1A7wE9istCvpI3Lj",
 "playlist": [
+[
+"2026-11-07T06:46|Odyssey|Going Back To My Roots",
+"spotify:track:3ntG1KkKA0bQQScGXzPCTL"
+],
+[
+"2026-11-07T06:37|Sono|A New Cage",
+"spotify:track:1n5BRTrF4Qu0eh9yvKs8Y4"
+],
+[
+"2026-11-07T06:34|Kutiman & Dekel|Hope",
+"spotify:track:4gFA57bNxMSqRk3q0vALkl"
+],
 [
 "2026-11-07T06:27|Danger Mouse & Black Thought feat. Joey Bada$$, Russ & Dylan Cartlidge|Because",
 "spotify:track:3q3gOKM3jh26W5SKQUfDOh"
@@ -3349,6 +3361,18 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-11-07T06:50|Tomorrow's World|Drive",
+"t": "2026-11-07T06:50:00+01:00",
+"artist": "Tomorrow's World",
+"title": "Drive"
+},
+{
+"id": "2026-11-07T06:46|Odyssey|Going Back To My Roots",
+"t": "2026-11-07T06:46:00+01:00",
+"artist": "Odyssey",
+"title": "Going Back To My Roots"
+},
 {
 "id": "2026-11-07T06:37|Sono|A New Cage",
 "t": "2026-11-07T06:37:00+01:00",
@@ -8424,18 +8448,6 @@
 "t": "2026-10-31T06:57:00+01:00",
 "artist": "Joshua Idehen",
 "title": "Could Be Forever"
-},
-{
-"id": "2026-10-31T06:54|Wallners|Movie Stars",
-"t": "2026-10-31T06:54:00+01:00",
-"artist": "Wallners",
-"title": "Movie Stars"
-},
-{
-"id": "2026-10-31T06:51|Julia Stone|Dance",
-"t": "2026-10-31T06:51:00+01:00",
-"artist": "Julia Stone",
-"title": "Dance"
 }
 ]
 }
