@@ -1,9 +1,9 @@
 {
-"updated": "2026-11-07T07:20:00.757196+01:00",
+"updated": "2026-11-07T07:32:00.757481+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
-"synced": "2026-11-07T07:08:00.756899+01:00",
+"synced": "2026-11-07T07:24:00.757282+01:00",
 "pruned": "2026-11-07",
 "calls": {
 "2026-10-31": 90,
@@ -13,12 +13,28 @@
 "2026-11-04": 181,
 "2026-11-05": 165,
 "2026-11-06": 191,
-"2026-11-07": 17
+"2026-11-07": 21
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAfj3vBRdXok6tfllPsrxZAzX3Elbm/",
+"snapshot": "AAAfkfCuG7hUz2UtfbAViVyTYUZd5olq",
 "playlist": [
+[
+"2026-11-07T07:15|Odd Beholder|Your Emancipation",
+"spotify:track:1uLBaUVurwbtHnyAlD7ExO"
+],
+[
+"2026-11-07T07:12|Lorde|Royals",
+"spotify:track:4SDWMFvYJKtK1QPhIOeZhd"
+],
+[
+"2026-11-07T07:07|BAYNK|Grin",
+"spotify:track:5wXmPTEY49DWP8b0dfk7F7"
+],
+[
+"2026-11-07T07:04|CECI feat. Lords of Lounge|Honey Honey",
+"spotify:track:1I3D3G5pwYFKNYGIYTLRCq"
+],
 [
 "2026-11-07T06:58|Hot Butter|Popcorn",
 "spotify:track:45aoC0yE3RZGWz5QPb41M1"
@@ -3312,10 +3328,6 @@
 "spotify:track:7AgfOLYDB7GrgIWg60PBw7"
 ],
 [
-"2026-10-31T07:24|Dojo Cuts|The Scene",
-"spotify:track:5WbIiaNommbTNicqBzfHZZ"
-],
-[
 "2026-10-31T07:16|UCHE YARA|Hello Hello",
 "spotify:track:3hadpAb0vS5uYSrfidLaDr"
 ],
@@ -3373,6 +3385,30 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-11-07T07:26|Supermax|Lovemachine (Part 1)",
+"t": "2026-11-07T07:26:00+01:00",
+"artist": "Supermax",
+"title": "Lovemachine (Part 1)"
+},
+{
+"id": "2026-11-07T07:22|Widowspeak|Soft Cover (Edit)",
+"t": "2026-11-07T07:22:00+01:00",
+"artist": "Widowspeak",
+"title": "Soft Cover (Edit)"
+},
+{
+"id": "2026-11-07T07:21|Supermax|Lovemachine (Part 1)",
+"t": "2026-11-07T07:21:00+01:00",
+"artist": "Supermax",
+"title": "Lovemachine (Part 1)"
+},
+{
+"id": "2026-11-07T07:15|Odd Beholder|Your Emancipation",
+"t": "2026-11-07T07:15:00+01:00",
+"artist": "Odd Beholder",
+"title": "Your Emancipation"
+},
 {
 "id": "2026-11-07T07:12|Lorde|Royals",
 "t": "2026-11-07T07:12:00+01:00",
@@ -8448,24 +8484,6 @@
 "t": "2026-10-31T07:39:00+01:00",
 "artist": "Jack Johnson & Lee \"Scratch\" Perry",
 "title": "Traffic In The Sky (Lee Scratch Perry Dub)"
-},
-{
-"id": "2026-10-31T07:32|Night Beats|New Day",
-"t": "2026-10-31T07:32:00+01:00",
-"artist": "Night Beats",
-"title": "New Day"
-},
-{
-"id": "2026-10-31T07:27|Linka Moja|Men R Dogs",
-"t": "2026-10-31T07:27:00+01:00",
-"artist": "Linka Moja",
-"title": "Men R Dogs"
-},
-{
-"id": "2026-10-31T07:24|Dojo Cuts|The Scene",
-"t": "2026-10-31T07:24:00+01:00",
-"artist": "Dojo Cuts",
-"title": "The Scene"
 }
 ]
 }
