@@ -1,9 +1,9 @@
 {
-"updated": "2026-11-07T10:32:00.762716+01:00",
+"updated": "2026-11-07T10:44:00.763128+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
-"synced": "2026-11-07T10:20:00.762385+01:00",
+"synced": "2026-11-07T10:36:00.762859+01:00",
 "pruned": "2026-11-07",
 "calls": {
 "2026-10-31": 90,
@@ -13,12 +13,28 @@
 "2026-11-04": 181,
 "2026-11-05": 165,
 "2026-11-06": 191,
-"2026-11-07": 60
+"2026-11-07": 64
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAfqLFs1zDru2jzkaPMB9hNg3t3Fy7f",
+"snapshot": "AAAfqbpVhAY5AH3TmOMyajfABfJK1grl",
 "playlist": [
+[
+"2026-11-07T10:32|Miss Kittin & The Hacker|1000 Dreams",
+"spotify:track:1VNIzINc1CYjB6y6tI774j"
+],
+[
+"2026-11-07T10:26|Yndling|Time Time Time (I'm in the Palm of Your Hand)",
+"spotify:track:02UC3kQj8XFMqW1oeVo9xD"
+],
+[
+"2026-11-07T10:23|Jungle|Someday, Somewhere",
+"spotify:track:20FqWsyuUaQTU5tk4nP6eN"
+],
+[
+"2026-11-07T10:19|The Flaming Lips|What Is The Light",
+"spotify:track:5KoyXFZuJICHNDNiqfSvDn"
+],
 [
 "2026-11-07T10:08|Jürgen Paape|Mit Dir",
 "spotify:track:39cHfFYBVsIgj07SzenRW2"
@@ -3485,6 +3501,18 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-11-07T10:36|Alessi Brothers|Seabird",
+"t": "2026-11-07T10:36:00+01:00",
+"artist": "Alessi Brothers",
+"title": "Seabird"
+},
+{
+"id": "2026-11-07T10:32|Miss Kittin & The Hacker|1000 Dreams",
+"t": "2026-11-07T10:32:00+01:00",
+"artist": "Miss Kittin & The Hacker",
+"title": "1000 Dreams"
+},
 {
 "id": "2026-11-07T10:26|Yndling|Time Time Time (I'm in the Palm of Your Hand)",
 "t": "2026-11-07T10:26:00+01:00",
@@ -8578,12 +8606,6 @@
 "t": "2026-10-31T10:46:00+01:00",
 "artist": "Robin S.",
 "title": "Show Me Love"
-},
-{
-"id": "2026-10-31T10:35|Goldfrapp|Happiness",
-"t": "2026-10-31T10:35:00+01:00",
-"artist": "Goldfrapp",
-"title": "Happiness"
 }
 ]
 }
