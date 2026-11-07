@@ -1,9 +1,9 @@
 {
-"updated": "2026-11-07T22:04:15.864836+01:00",
+"updated": "2026-11-07T22:16:15.865154+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
-"synced": "2026-11-07T21:56:15.864637+01:00",
+"synced": "2026-11-07T22:12:15.865041+01:00",
 "pruned": "2026-11-07",
 "calls": {
 "2026-10-31": 90,
@@ -13,12 +13,24 @@
 "2026-11-04": 181,
 "2026-11-05": 165,
 "2026-11-06": 191,
-"2026-11-07": 104
+"2026-11-07": 108
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAfuMVFJzNwVbO10nq6dDNlsHN17fXh",
+"snapshot": "AAAfuZYeIAypFTtPsDwXDtAlYWI+FZLY",
 "playlist": [
+[
+"2026-11-07T22:05|Fujiya & Miyagi|No Green Light",
+"spotify:track:1a3UHO2sQKvNHMU8Dkivrx"
+],
+[
+"2026-11-07T22:03|Alexander Marcus|Presslufthammer",
+"spotify:track:77NAR2cBoHQqorsc81qAQl"
+],
+[
+"2026-11-07T21:55|Awning|Little Green Book",
+"spotify:track:6Qv9ShMC8XZOSNbUqMwGeq"
+],
 [
 "2026-11-07T21:46|The Jesus & Mary Chain|Sometimes Always",
 "spotify:track:16vuZiAS0YQkQvAkRtI2d3"
@@ -3585,6 +3597,18 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-11-07T22:05|Fujiya & Miyagi|No Green Light",
+"t": "2026-11-07T22:05:00+01:00",
+"artist": "Fujiya & Miyagi",
+"title": "No Green Light"
+},
+{
+"id": "2026-11-07T22:03|Alexander Marcus|Presslufthammer",
+"t": "2026-11-07T22:03:00+01:00",
+"artist": "Alexander Marcus",
+"title": "Presslufthammer"
+},
 {
 "id": "2026-11-07T21:55|Awning|Little Green Book",
 "t": "2026-11-07T21:55:00+01:00",
