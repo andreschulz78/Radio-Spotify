@@ -1,9 +1,9 @@
 {
-"updated": "2026-11-07T08:32:00.759192+01:00",
+"updated": "2026-11-07T08:44:00.759522+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
-"synced": "2026-11-07T08:28:00.759082+01:00",
+"synced": "2026-11-07T08:44:00.759522+01:00",
 "pruned": "2026-11-07",
 "calls": {
 "2026-10-31": 90,
@@ -13,12 +13,24 @@
 "2026-11-04": 181,
 "2026-11-05": 165,
 "2026-11-06": 191,
-"2026-11-07": 36
+"2026-11-07": 38
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAfm/IYIP6UmlutNNEJ5hAnHePabVt9",
+"snapshot": "AAAfnPwoTn4V9T8VrxIe2aC3KBSfrAi0",
 "playlist": [
+[
+"2026-11-07T08:35|The Dig|Million Dollar Man",
+"spotify:track:3u1c4BJRtbS08gRTEjzK49"
+],
+[
+"2026-11-07T08:33|Metronomy|The Look",
+"spotify:track:0ssgRdOcmC8rojsfAvdvFN"
+],
+[
+"2026-11-07T08:26|Boy & Bear|Tripping Over Time",
+"spotify:track:0s3R2UEykTPuilo5QTzH7P"
+],
 [
 "2026-11-07T08:20|Ayele|Fractured (Radio Edit)",
 "spotify:track:5EGnOBL2qoUNard3Oaq5Hc"
@@ -3429,6 +3441,18 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-11-07T08:35|The Dig|Million Dollar Man",
+"t": "2026-11-07T08:35:00+01:00",
+"artist": "The Dig",
+"title": "Million Dollar Man"
+},
+{
+"id": "2026-11-07T08:33|Metronomy|The Look",
+"t": "2026-11-07T08:33:00+01:00",
+"artist": "Metronomy",
+"title": "The Look"
+},
 {
 "id": "2026-11-07T08:26|Boy & Bear|Tripping Over Time",
 "t": "2026-11-07T08:26:00+01:00",
@@ -8534,18 +8558,6 @@
 "t": "2026-10-31T08:47:00+01:00",
 "artist": "Odd Beholder",
 "title": "Lean Dreams"
-},
-{
-"id": "2026-10-31T08:43|Travis|Sing",
-"t": "2026-10-31T08:43:00+01:00",
-"artist": "Travis",
-"title": "Sing"
-},
-{
-"id": "2026-10-31T08:33|Stella Donnelly|Laying Low",
-"t": "2026-10-31T08:33:00+01:00",
-"artist": "Stella Donnelly",
-"title": "Laying Low"
 }
 ]
 }
