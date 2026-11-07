@@ -1,9 +1,9 @@
 {
-"updated": "2026-11-07T07:44:00.757816+01:00",
+"updated": "2026-11-07T07:56:00.758181+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
-"synced": "2026-11-07T07:40:00.757688+01:00",
+"synced": "2026-11-07T07:56:00.758181+01:00",
 "pruned": "2026-11-07",
 "calls": {
 "2026-10-31": 90,
@@ -13,12 +13,28 @@
 "2026-11-04": 181,
 "2026-11-05": 165,
 "2026-11-06": 191,
-"2026-11-07": 22
+"2026-11-07": 28
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAfkjRnITxxn0tFm1BsJ1E+SE870BzO",
+"snapshot": "AAAflmwI7sLH0aHv7x6dbRYbOQrW+iH4",
 "playlist": [
+[
+"2026-11-07T07:49|Benjamin Clementine|In Fact You Know You Gotto Go",
+"spotify:track:4cWEdRTQ8sg4QaTBIGn06j"
+],
+[
+"2026-11-07T07:45|Chet Faker|Over You (Radio Edit)",
+"spotify:track:036QOmnlr52hgeH1WmQ5OB"
+],
+[
+"2026-11-07T07:42|Röyksopp feat. Astrid S|Let's Get It Right (Radio Edit)",
+"spotify:track:6KQCvjxj0uknK1vH8cbguO"
+],
+[
+"2026-11-07T07:35|UFOs|UFO (Radio Edit)",
+"spotify:track:7pA7CZIJUpcD5X0QpLlESx"
+],
 [
 "2026-11-07T07:32|Sydney Minsky Sargeant|I Don't Wanna",
 "spotify:track:4hHizy49Hzl7QfP3mGVJOY"
@@ -3320,10 +3336,6 @@
 "spotify:track:3LG7idLKsij0m4GTeQvjn2"
 ],
 [
-"2026-10-31T07:56|Tessa Rose Jackson|Built To Collide",
-"spotify:track:69saRCWp2ov8jBLOprFAfE"
-],
-[
 "2026-10-31T07:52|L'Rain|Elmyra (Edit)",
 "spotify:track:5pedzmyyKGTs8PV23dnvbc"
 ],
@@ -3401,6 +3413,24 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-11-07T07:49|Benjamin Clementine|In Fact You Know You Gotto Go",
+"t": "2026-11-07T07:49:00+01:00",
+"artist": "Benjamin Clementine",
+"title": "In Fact You Know You Gotto Go"
+},
+{
+"id": "2026-11-07T07:45|Chet Faker|Over You (Radio Edit)",
+"t": "2026-11-07T07:45:00+01:00",
+"artist": "Chet Faker",
+"title": "Over You (Radio Edit)"
+},
+{
+"id": "2026-11-07T07:42|Röyksopp feat. Astrid S|Let's Get It Right (Radio Edit)",
+"t": "2026-11-07T07:42:00+01:00",
+"artist": "Röyksopp feat. Astrid S",
+"title": "Let's Get It Right (Radio Edit)"
+},
 {
 "id": "2026-11-07T07:35|UFOs|UFO (Radio Edit)",
 "t": "2026-11-07T07:35:00+01:00",
@@ -8488,18 +8518,6 @@
 "t": "2026-10-31T08:04:00+01:00",
 "artist": "Joe Smooth",
 "title": "Promised Land"
-},
-{
-"id": "2026-10-31T07:56|Tessa Rose Jackson|Built To Collide",
-"t": "2026-10-31T07:56:00+01:00",
-"artist": "Tessa Rose Jackson",
-"title": "Built To Collide"
-},
-{
-"id": "2026-10-31T07:52|L'Rain|Elmyra (Edit)",
-"t": "2026-10-31T07:52:00+01:00",
-"artist": "L'Rain",
-"title": "Elmyra (Edit)"
 }
 ]
 }
