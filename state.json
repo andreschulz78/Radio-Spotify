@@ -1,9 +1,9 @@
 {
-"updated": "2026-11-07T07:32:00.757481+01:00",
+"updated": "2026-11-07T07:44:00.757816+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
-"synced": "2026-11-07T07:24:00.757282+01:00",
+"synced": "2026-11-07T07:40:00.757688+01:00",
 "pruned": "2026-11-07",
 "calls": {
 "2026-10-31": 90,
@@ -13,12 +13,28 @@
 "2026-11-04": 181,
 "2026-11-05": 165,
 "2026-11-06": 191,
-"2026-11-07": 21
+"2026-11-07": 22
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAfkfCuG7hUz2UtfbAViVyTYUZd5olq",
+"snapshot": "AAAfkjRnITxxn0tFm1BsJ1E+SE870BzO",
 "playlist": [
+[
+"2026-11-07T07:32|Sydney Minsky Sargeant|I Don't Wanna",
+"spotify:track:4hHizy49Hzl7QfP3mGVJOY"
+],
+[
+"2026-11-07T07:26|Supermax|Lovemachine (Part 1)",
+"spotify:track:2A9EqW476Cp9z8PqQE4pPN"
+],
+[
+"2026-11-07T07:22|Widowspeak|Soft Cover (Edit)",
+"spotify:track:4O6f5Bgs94sUNNkNAdNyhW"
+],
+[
+"2026-11-07T07:21|Supermax|Lovemachine (Part 1)",
+"spotify:track:2A9EqW476Cp9z8PqQE4pPN"
+],
 [
 "2026-11-07T07:15|Odd Beholder|Your Emancipation",
 "spotify:track:1uLBaUVurwbtHnyAlD7ExO"
@@ -3385,6 +3401,18 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-11-07T07:35|UFOs|UFO (Radio Edit)",
+"t": "2026-11-07T07:35:00+01:00",
+"artist": "UFOs",
+"title": "UFO (Radio Edit)"
+},
+{
+"id": "2026-11-07T07:32|Sydney Minsky Sargeant|I Don't Wanna",
+"t": "2026-11-07T07:32:00+01:00",
+"artist": "Sydney Minsky Sargeant",
+"title": "I Don't Wanna"
+},
 {
 "id": "2026-11-07T07:26|Supermax|Lovemachine (Part 1)",
 "t": "2026-11-07T07:26:00+01:00",
@@ -8472,18 +8500,6 @@
 "t": "2026-10-31T07:52:00+01:00",
 "artist": "L'Rain",
 "title": "Elmyra (Edit)"
-},
-{
-"id": "2026-10-31T07:42|ANOHNI And The Johnsons|It Must Change",
-"t": "2026-10-31T07:42:00+01:00",
-"artist": "ANOHNI And The Johnsons",
-"title": "It Must Change"
-},
-{
-"id": "2026-10-31T07:39|Jack Johnson & Lee \"Scratch\" Perry|Traffic In The Sky (Lee Scratch Perry Dub)",
-"t": "2026-10-31T07:39:00+01:00",
-"artist": "Jack Johnson & Lee \"Scratch\" Perry",
-"title": "Traffic In The Sky (Lee Scratch Perry Dub)"
 }
 ]
 }
