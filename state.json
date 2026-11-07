@@ -1,9 +1,9 @@
 {
-"updated": "2026-11-07T13:36:08.145282+01:00",
+"updated": "2026-11-07T13:48:08.145624+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
-"synced": "2026-11-07T13:32:08.145161+01:00",
+"synced": "2026-11-07T13:48:08.145624+01:00",
 "pruned": "2026-11-07",
 "calls": {
 "2026-10-31": 90,
@@ -13,11 +13,11 @@
 "2026-11-04": 181,
 "2026-11-05": 165,
 "2026-11-06": 191,
-"2026-11-07": 83
+"2026-11-07": 85
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAfsaHR+8+4GQD4EeYZuQbEtMpIFu84",
+"snapshot": "AAAfstSlK/IybmfmA1OYdUD1GP/+Te4Q",
 "playlist": [
 [
 "2026-11-07T12:56|Austra & Patrick Holland|Siren Reprise",
@@ -3302,10 +3302,6 @@
 [
 "2026-10-31T13:52|Hot Chip|Random Violence (Radio Edit)",
 "spotify:track:0T3vTM8KUAwGMukdAhNVj2"
-],
-[
-"2026-10-31T13:48|Everything But The Girl|Rollercoaster",
-"spotify:track:4uD3ViV0PoZMwV915sheLt"
 ],
 [
 "2026-10-31T13:44|Bonobo feat. Joy Crookes|Always on Your Side",
@@ -8614,18 +8610,6 @@
 "t": "2026-10-31T13:52:00+01:00",
 "artist": "Hot Chip",
 "title": "Random Violence (Radio Edit)"
-},
-{
-"id": "2026-10-31T13:48|Everything But The Girl|Rollercoaster",
-"t": "2026-10-31T13:48:00+01:00",
-"artist": "Everything But The Girl",
-"title": "Rollercoaster"
-},
-{
-"id": "2026-10-31T13:44|Bonobo feat. Joy Crookes|Always on Your Side",
-"t": "2026-10-31T13:44:00+01:00",
-"artist": "Bonobo feat. Joy Crookes",
-"title": "Always on Your Side"
 }
 ]
 }
