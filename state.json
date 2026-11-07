@@ -1,9 +1,9 @@
 {
-"updated": "2026-11-07T10:44:00.763128+01:00",
+"updated": "2026-11-07T10:56:00.763554+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
-"synced": "2026-11-07T10:36:00.762859+01:00",
+"synced": "2026-11-07T10:52:00.763409+01:00",
 "pruned": "2026-11-07",
 "calls": {
 "2026-10-31": 90,
@@ -13,12 +13,16 @@
 "2026-11-04": 181,
 "2026-11-05": 165,
 "2026-11-06": 191,
-"2026-11-07": 64
+"2026-11-07": 66
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAfqbpVhAY5AH3TmOMyajfABfJK1grl",
+"snapshot": "AAAfqol7p3ebYlWRE5149cLqgNYnKv8M",
 "playlist": [
+[
+"2026-11-07T10:36|Alessi Brothers|Seabird",
+"spotify:track:1iUpSRmgnbTRqU0Pb217qI"
+],
 [
 "2026-11-07T10:32|Miss Kittin & The Hacker|1000 Dreams",
 "spotify:track:1VNIzINc1CYjB6y6tI774j"
@@ -3501,6 +3505,12 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-11-07T10:49|Black Pumas|More than a Love Song (Radio Edit)",
+"t": "2026-11-07T10:49:00+01:00",
+"artist": "Black Pumas",
+"title": "More than a Love Song (Radio Edit)"
+},
 {
 "id": "2026-11-07T10:36|Alessi Brothers|Seabird",
 "t": "2026-11-07T10:36:00+01:00",
@@ -8588,24 +8598,6 @@
 "t": "2026-10-31T10:57:00+01:00",
 "artist": "The Black Angels",
 "title": "Here & Now"
-},
-{
-"id": "2026-10-31T10:54|Bilderbuch|Baby Junkie",
-"t": "2026-10-31T10:54:00+01:00",
-"artist": "Bilderbuch",
-"title": "Baby Junkie"
-},
-{
-"id": "2026-10-31T10:50|Sergio Torales feat. Der Assistent|Veo",
-"t": "2026-10-31T10:50:00+01:00",
-"artist": "Sergio Torales feat. Der Assistent",
-"title": "Veo"
-},
-{
-"id": "2026-10-31T10:46|Robin S.|Show Me Love",
-"t": "2026-10-31T10:46:00+01:00",
-"artist": "Robin S.",
-"title": "Show Me Love"
 }
 ]
 }
