@@ -1,9 +1,9 @@
 {
-"updated": "2026-11-07T10:08:00.762032+01:00",
+"updated": "2026-11-07T10:20:00.762385+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
-"synced": "2026-11-07T10:04:00.761910+01:00",
+"synced": "2026-11-07T10:20:00.762385+01:00",
 "pruned": "2026-11-07",
 "calls": {
 "2026-10-31": 90,
@@ -13,12 +13,20 @@
 "2026-11-04": 181,
 "2026-11-05": 165,
 "2026-11-06": 191,
-"2026-11-07": 56
+"2026-11-07": 59
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAfpsHzRhCJmQ1WCJlevkC4+B91X1Gb",
+"snapshot": "AAAfqLFs1zDru2jzkaPMB9hNg3t3Fy7f",
 "playlist": [
+[
+"2026-11-07T10:08|Jürgen Paape|Mit Dir",
+"spotify:track:39cHfFYBVsIgj07SzenRW2"
+],
+[
+"2026-11-07T10:05|Gerry Read feat. Gregor|Taking All My Clothes Off",
+"spotify:track:0a1BTzQAc7NuYreRDWMV63"
+],
 [
 "2026-11-07T09:56|Bonobo|Shokoufeh",
 "spotify:track:5cZ6iDczIvnNezs5sqdgU8"
@@ -3320,10 +3328,6 @@
 "spotify:track:0X9GwAax0c0HPe3iIoDVW6"
 ],
 [
-"2026-10-31T10:20|Claudja Barry|Love For The Sake Of Love",
-"spotify:track:5SjL7cp1L5nhXzBH88tG4R"
-],
-[
 "2026-10-31T10:17|Fred Again.. feat. Jozzy|Ten",
 "spotify:track:5QOBT97OmYCZo1W5u7tRrB"
 ],
@@ -3481,6 +3485,18 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-11-07T10:08|Jürgen Paape|Mit Dir",
+"t": "2026-11-07T10:08:00+01:00",
+"artist": "Jürgen Paape",
+"title": "Mit Dir"
+},
+{
+"id": "2026-11-07T10:05|Gerry Read feat. Gregor|Taking All My Clothes Off",
+"t": "2026-11-07T10:05:00+01:00",
+"artist": "Gerry Read feat. Gregor",
+"title": "Taking All My Clothes Off"
+},
 {
 "id": "2026-11-07T09:56|Bonobo|Shokoufeh",
 "t": "2026-11-07T09:56:00+01:00",
@@ -8562,24 +8578,6 @@
 "t": "2026-10-31T10:27:00+01:00",
 "artist": "Jordan Rakei",
 "title": "Enemies"
-},
-{
-"id": "2026-10-31T10:20|Claudja Barry|Love For The Sake Of Love",
-"t": "2026-10-31T10:20:00+01:00",
-"artist": "Claudja Barry",
-"title": "Love For The Sake Of Love"
-},
-{
-"id": "2026-10-31T10:17|Fred Again.. feat. Jozzy|Ten",
-"t": "2026-10-31T10:17:00+01:00",
-"artist": "Fred Again.. feat. Jozzy",
-"title": "Ten"
-},
-{
-"id": "2026-10-31T10:09|Niki & The Dove|Empires",
-"t": "2026-10-31T10:09:00+01:00",
-"artist": "Niki & The Dove",
-"title": "Empires"
 }
 ]
 }
