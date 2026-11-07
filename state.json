@@ -1,9 +1,9 @@
 {
-"updated": "2026-11-07T09:20:00.760588+01:00",
+"updated": "2026-11-07T09:32:00.760911+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
-"synced": "2026-11-07T09:16:00.760468+01:00",
+"synced": "2026-11-07T09:32:00.760911+01:00",
 "pruned": "2026-11-07",
 "calls": {
 "2026-10-31": 90,
@@ -13,12 +13,20 @@
 "2026-11-04": 181,
 "2026-11-05": 165,
 "2026-11-06": 191,
-"2026-11-07": 43
+"2026-11-07": 51
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAfnkuVcLDjGuHiGgKrW0tvbbEeV3DG",
+"snapshot": "AAAfpNccWEPhnbRsp/hRbftbA7q3te5g",
 "playlist": [
+[
+"2026-11-07T09:25|Fleet Foxes|White Winter Hymnal",
+"spotify:track:1FrautEtRpRhBHaHgkFn6S"
+],
+[
+"2026-11-07T09:21|Hope|Osmosis",
+"spotify:track:3qgYWSMc6W73gsUpBFmsTy"
+],
 [
 "2026-11-07T09:09|Pressyes|Blue Crystal Water",
 "spotify:track:0ZAuzWS5Yc8EcXSba0JzBh"
@@ -3328,10 +3336,6 @@
 "spotify:track:75qtzy5W3QI3VScRxZxEv5"
 ],
 [
-"2026-10-31T09:32|Ayele|Fractured (Radio Edit)",
-"spotify:track:5EGnOBL2qoUNard3Oaq5Hc"
-],
-[
 "2026-10-31T09:28|Nilüfer Yanya|Kneel",
 "spotify:track:3zHlu8zTCOQ2R6nobGogKJ"
 ],
@@ -3461,6 +3465,18 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-11-07T09:25|Fleet Foxes|White Winter Hymnal",
+"t": "2026-11-07T09:25:00+01:00",
+"artist": "Fleet Foxes",
+"title": "White Winter Hymnal"
+},
+{
+"id": "2026-11-07T09:21|Hope|Osmosis",
+"t": "2026-11-07T09:21:00+01:00",
+"artist": "Hope",
+"title": "Osmosis"
+},
 {
 "id": "2026-11-07T09:09|Pressyes|Blue Crystal Water",
 "t": "2026-11-07T09:09:00+01:00",
@@ -8554,24 +8570,6 @@
 "t": "2026-10-31T09:36:00+01:00",
 "artist": "Blue Öyster Cult",
 "title": "(Don't Fear) The Reaper"
-},
-{
-"id": "2026-10-31T09:32|Ayele|Fractured (Radio Edit)",
-"t": "2026-10-31T09:32:00+01:00",
-"artist": "Ayele",
-"title": "Fractured (Radio Edit)"
-},
-{
-"id": "2026-10-31T09:28|Nilüfer Yanya|Kneel",
-"t": "2026-10-31T09:28:00+01:00",
-"artist": "Nilüfer Yanya",
-"title": "Kneel"
-},
-{
-"id": "2026-10-31T09:25|Keshavara|Oracular",
-"t": "2026-10-31T09:25:00+01:00",
-"artist": "Keshavara",
-"title": "Oracular"
 }
 ]
 }
