@@ -1,9 +1,9 @@
 {
-"updated": "2026-11-08T07:36:30.203988+01:00",
+"updated": "2026-11-08T07:48:30.204273+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
-"synced": "2026-11-08T07:24:30.203733+01:00",
+"synced": "2026-11-08T07:40:30.204065+01:00",
 "pruned": "2026-11-08",
 "calls": {
 "2026-11-01": 99,
@@ -13,12 +13,28 @@
 "2026-11-05": 165,
 "2026-11-06": 191,
 "2026-11-07": 127,
-"2026-11-08": 20
+"2026-11-08": 22
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAfyw2v/w1wF4O0V6nR/fgU0bQxKS9a",
+"snapshot": "AAAfzEVB6lwnyaK5C+6XcDGQ/WSl5xKI",
 "playlist": [
+[
+"2026-11-08T07:36|Marvin Gaye|Sexual Healing",
+"spotify:track:4Ap7UuhQAduibxbvROk8U3"
+],
+[
+"2026-11-08T07:32|Bonaparte|KiOSKO",
+"spotify:track:5seYGZRYuD3oPMxryJdvOk"
+],
+[
+"2026-11-08T07:27|Depeche Mode|Here Is The House",
+"spotify:track:5BepFANwD9If9EkO86JTS4"
+],
+[
+"2026-11-08T07:23|Zaho de Sagazan|Ô travers",
+"spotify:track:2GK0yEfMHJg7pXloAtVQSb"
+],
 [
 "2026-11-08T07:16|Arcade Fire|The Suburbs",
 "spotify:track:5iItYl3Q6wCnKVfpK1uNVf"
@@ -3425,6 +3441,18 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-11-08T07:40|Kaktus Einarsson feat. John Grant|Follow",
+"t": "2026-11-08T07:40:00+01:00",
+"artist": "Kaktus Einarsson feat. John Grant",
+"title": "Follow"
+},
+{
+"id": "2026-11-08T07:36|Marvin Gaye|Sexual Healing",
+"t": "2026-11-08T07:36:00+01:00",
+"artist": "Marvin Gaye",
+"title": "Sexual Healing"
+},
 {
 "id": "2026-11-08T07:32|Bonaparte|KiOSKO",
 "t": "2026-11-08T07:32:00+01:00",
@@ -8554,18 +8582,6 @@
 "t": "2026-11-01T07:51:00+01:00",
 "artist": "Stevie Wonder",
 "title": "All I Do"
-},
-{
-"id": "2026-11-01T07:41|Ayele|Fractured (Radio Edit)",
-"t": "2026-11-01T07:41:00+01:00",
-"artist": "Ayele",
-"title": "Fractured (Radio Edit)"
-},
-{
-"id": "2026-11-01T07:37|Andrew Bird|Sisyphus",
-"t": "2026-11-01T07:37:00+01:00",
-"artist": "Andrew Bird",
-"title": "Sisyphus"
 }
 ]
 }
