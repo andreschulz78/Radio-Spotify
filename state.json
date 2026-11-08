@@ -1,9 +1,9 @@
 {
-"updated": "2026-11-08T07:48:30.204273+01:00",
+"updated": "2026-11-08T08:00:30.204599+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
-"synced": "2026-11-08T07:40:30.204065+01:00",
+"synced": "2026-11-08T07:56:30.204504+01:00",
 "pruned": "2026-11-08",
 "calls": {
 "2026-11-01": 99,
@@ -13,12 +13,28 @@
 "2026-11-05": 165,
 "2026-11-06": 191,
 "2026-11-07": 127,
-"2026-11-08": 22
+"2026-11-08": 27
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAfzEVB6lwnyaK5C+6XcDGQ/WSl5xKI",
+"snapshot": "AAAfzbbsW4wSsUH873n0qhQt2jVryyz9",
 "playlist": [
+[
+"2026-11-08T07:52|Whitney|Kansas",
+"spotify:track:0x0OjST3CNulTlhzLybBc9"
+],
+[
+"2026-11-08T07:48|Lie Ning|Utopia",
+"spotify:track:4T9yi59u9vgDnMkbCWLNQ8"
+],
+[
+"2026-11-08T07:45|Still Corners|Heavy Days",
+"spotify:track:0nGmz6gDOZdRh0rYd623P9"
+],
+[
+"2026-11-08T07:40|Kaktus Einarsson feat. John Grant|Follow",
+"spotify:track:0bbPqdrMN94XmIlBQS21B3"
+],
 [
 "2026-11-08T07:36|Marvin Gaye|Sexual Healing",
 "spotify:track:4Ap7UuhQAduibxbvROk8U3"
@@ -3441,6 +3457,30 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-11-08T07:57|Parcels|Tieduprightnow",
+"t": "2026-11-08T07:57:00+01:00",
+"artist": "Parcels",
+"title": "Tieduprightnow"
+},
+{
+"id": "2026-11-08T07:52|Whitney|Kansas",
+"t": "2026-11-08T07:52:00+01:00",
+"artist": "Whitney",
+"title": "Kansas"
+},
+{
+"id": "2026-11-08T07:48|Lie Ning|Utopia",
+"t": "2026-11-08T07:48:00+01:00",
+"artist": "Lie Ning",
+"title": "Utopia"
+},
+{
+"id": "2026-11-08T07:45|Still Corners|Heavy Days",
+"t": "2026-11-08T07:45:00+01:00",
+"artist": "Still Corners",
+"title": "Heavy Days"
+},
 {
 "id": "2026-11-08T07:40|Kaktus Einarsson feat. John Grant|Follow",
 "t": "2026-11-08T07:40:00+01:00",
@@ -8570,18 +8610,6 @@
 "t": "2026-11-01T08:05:00+01:00",
 "artist": "Dionne Bromfield",
 "title": "Yeah Right"
-},
-{
-"id": "2026-11-01T07:57|Carrtoons feat. Hailé Supreme|Labor Of Love",
-"t": "2026-11-01T07:57:00+01:00",
-"artist": "Carrtoons feat. Hailé Supreme",
-"title": "Labor Of Love"
-},
-{
-"id": "2026-11-01T07:51|Stevie Wonder|All I Do",
-"t": "2026-11-01T07:51:00+01:00",
-"artist": "Stevie Wonder",
-"title": "All I Do"
 }
 ]
 }
