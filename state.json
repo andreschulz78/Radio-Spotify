@@ -1,9 +1,9 @@
 {
-"updated": "2026-11-08T10:00:30.207503+01:00",
+"updated": "2026-11-08T10:04:37.075805+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
-"synced": "2026-11-08T09:48:30.207215+01:00",
+"synced": "2026-11-08T10:04:37.075805+01:00",
 "pruned": "2026-11-08",
 "calls": {
 "2026-11-01": 99,
@@ -13,12 +13,20 @@
 "2026-11-05": 165,
 "2026-11-06": 191,
 "2026-11-07": 127,
-"2026-11-08": 50
+"2026-11-08": 52
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAf2rTUeSWblU7C7/1WifPFNkyGMgQv",
+"snapshot": "AAAf3PoObmY6XDGQyporyg1CeNN55Wvu",
 "playlist": [
+[
+"2026-11-08T09:55|MGMT|Little Dark Age",
+"spotify:track:2Y0iGXY6m6immVb2ktbseM"
+],
+[
+"2026-11-08T09:51|Death Cab For Cutie|Pep Talk",
+"spotify:track:3ra7fDLqfUHBWBL702fOAn"
+],
 [
 "2026-11-08T09:42|Lily Allen|Dallas Major",
 "spotify:track:1ECugAb7Pg6UDA501YYgH9"
@@ -3350,10 +3358,6 @@
 [
 "2026-11-01T10:07|Austra & Patrick Holland|Siren Reprise",
 "spotify:track:678wI419HyRL4qSTbXdyLu"
-],
-[
-"2026-11-01T10:04|Tame Impala|Dracula",
-"spotify:track:709ZIqPHyFOpx2QdjmeWAM"
 ],
 [
 "2026-11-01T09:55|Agnes Obel|Laymelli (Edit)",
@@ -8644,12 +8648,6 @@
 "t": "2026-11-01T10:07:00+01:00",
 "artist": "Austra & Patrick Holland",
 "title": "Siren Reprise"
-},
-{
-"id": "2026-11-01T10:04|Tame Impala|Dracula",
-"t": "2026-11-01T10:04:00+01:00",
-"artist": "Tame Impala",
-"title": "Dracula"
 }
 ]
 }
