@@ -1,9 +1,9 @@
 {
-"updated": "2026-11-08T08:48:30.205788+01:00",
+"updated": "2026-11-08T09:00:30.206060+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
-"synced": "2026-11-08T08:44:30.205696+01:00",
+"synced": "2026-11-08T09:00:30.206060+01:00",
 "pruned": "2026-11-08",
 "calls": {
 "2026-11-01": 99,
@@ -13,12 +13,24 @@
 "2026-11-05": 165,
 "2026-11-06": 191,
 "2026-11-07": 127,
-"2026-11-08": 36
+"2026-11-08": 41
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAf1WbBNBpVkF99kMxI/7Rr5v2D8sOA",
+"snapshot": "AAAf1ifeOcoVuu45LwtnsxTo9znhe/KD",
 "playlist": [
+[
+"2026-11-08T08:54|Dapayk & Padberg feat. Caro|Island",
+"spotify:track:1G0cJI9EJ20s1wZPrjuQxG"
+],
+[
+"2026-11-08T08:50|The O'Jays|Backstabbers",
+"spotify:track:0KpMY3D2G8253VTZbDBUmA"
+],
+[
+"2026-11-08T08:45|The Waterboys|Glastonbury Song",
+"spotify:track:38RY9qHbV6fhgEcW9YX4PI"
+],
 [
 "2026-11-08T08:36|Jamie xx|Dream Night",
 "spotify:track:2DewmibGFWxakcxvVyf2Tv"
@@ -3477,6 +3489,24 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-11-08T08:54|Dapayk & Padberg feat. Caro|Island",
+"t": "2026-11-08T08:54:00+01:00",
+"artist": "Dapayk & Padberg feat. Caro",
+"title": "Island"
+},
+{
+"id": "2026-11-08T08:50|The O'Jays|Backstabbers",
+"t": "2026-11-08T08:50:00+01:00",
+"artist": "The O'Jays",
+"title": "Backstabbers"
+},
+{
+"id": "2026-11-08T08:45|The Waterboys|Glastonbury Song",
+"t": "2026-11-08T08:45:00+01:00",
+"artist": "The Waterboys",
+"title": "Glastonbury Song"
+},
 {
 "id": "2026-11-08T08:36|Jamie xx|Dream Night",
 "t": "2026-11-08T08:36:00+01:00",
@@ -8600,24 +8630,6 @@
 "t": "2026-11-01T09:05:00+01:00",
 "artist": "White Lies",
 "title": "To Lose My Life"
-},
-{
-"id": "2026-11-01T08:56|Freundeskreis|Anna (A-n-n-a)",
-"t": "2026-11-01T08:56:00+01:00",
-"artist": "Freundeskreis",
-"title": "Anna (A-n-n-a)"
-},
-{
-"id": "2026-11-01T08:54|Frances Forever|Space Girl",
-"t": "2026-11-01T08:54:00+01:00",
-"artist": "Frances Forever",
-"title": "Space Girl"
-},
-{
-"id": "2026-11-01T08:50|Erobique feat. Luis Baltes|Salut Les Copines! (Single Edit)",
-"t": "2026-11-01T08:50:00+01:00",
-"artist": "Erobique feat. Luis Baltes",
-"title": "Salut Les Copines! (Single Edit)"
 }
 ]
 }
