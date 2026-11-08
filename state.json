@@ -1,9 +1,9 @@
 {
-"updated": "2026-11-08T12:52:37.081730+01:00",
+"updated": "2026-11-08T13:04:37.082245+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
-"synced": "2026-11-08T12:44:37.081438+01:00",
+"synced": "2026-11-08T13:00:37.082062+01:00",
 "pruned": "2026-11-08",
 "calls": {
 "2026-11-01": 99,
@@ -13,12 +13,24 @@
 "2026-11-05": 165,
 "2026-11-06": 191,
 "2026-11-07": 127,
-"2026-11-08": 80
+"2026-11-08": 81
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAf5hDcDSZzOKXTW0DtHiL1BkL9VpyG",
+"snapshot": "AAAf58UDzmTFfdwJOtlVd4hfGqiocXiN",
 "playlist": [
+[
+"2026-11-08T12:57|Anderson .Paak & Cordae|A Good Day",
+"spotify:track:4CrnExkcZkg6Aek113hAWl"
+],
+[
+"2026-11-08T12:51|Nichtseattle|Ich mit Brille",
+"spotify:track:1C0Lpji3kKe7rZie1LC4bx"
+],
+[
+"2026-11-08T12:41|It's Immaterial|Driving Away From Home",
+"spotify:track:2oDxd2tiYYMddJa1o1Zn3L"
+],
 [
 "2026-11-08T12:32|Barry Can't Swim|Cars Pass By Like Childhood Sweethearts",
 "spotify:track:1qrIziSX4GwjlUMfmMhO3x"
@@ -3605,6 +3617,18 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-11-08T12:57|Anderson .Paak & Cordae|A Good Day",
+"t": "2026-11-08T12:57:00+01:00",
+"artist": "Anderson .Paak & Cordae",
+"title": "A Good Day"
+},
+{
+"id": "2026-11-08T12:51|Nichtseattle|Ich mit Brille",
+"t": "2026-11-08T12:51:00+01:00",
+"artist": "Nichtseattle",
+"title": "Ich mit Brille"
+},
 {
 "id": "2026-11-08T12:41|It's Immaterial|Driving Away From Home",
 "t": "2026-11-08T12:41:00+01:00",
