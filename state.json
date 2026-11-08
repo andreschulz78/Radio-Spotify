@@ -1,9 +1,9 @@
 {
-"updated": "2026-11-08T07:12:30.203414+01:00",
+"updated": "2026-11-08T07:24:30.203733+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
-"synced": "2026-11-08T07:08:30.203311+01:00",
+"synced": "2026-11-08T07:24:30.203733+01:00",
 "pruned": "2026-11-08",
 "calls": {
 "2026-11-01": 99,
@@ -13,12 +13,24 @@
 "2026-11-05": 165,
 "2026-11-06": 191,
 "2026-11-07": 127,
-"2026-11-08": 17
+"2026-11-08": 19
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAfymfcYvOduzrR1PZ2CWx7dAGq6pMY",
+"snapshot": "AAAfyw2v/w1wF4O0V6nR/fgU0bQxKS9a",
 "playlist": [
+[
+"2026-11-08T07:16|Arcade Fire|The Suburbs",
+"spotify:track:5iItYl3Q6wCnKVfpK1uNVf"
+],
+[
+"2026-11-08T07:12|Bleachers|Blood Brothers",
+"spotify:track:7aMdmpShbYFRbdJigosY7C"
+],
+[
+"2026-11-08T07:05|Jungle|Carry On",
+"spotify:track:5qx7XFScCKSzEaxzlubxa2"
+],
 [
 "2026-11-08T06:56|Mono|Life in Mono",
 "spotify:track:6zlg5Q1DgsIyj4z4BWinIr"
@@ -3413,6 +3425,18 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-11-08T07:16|Arcade Fire|The Suburbs",
+"t": "2026-11-08T07:16:00+01:00",
+"artist": "Arcade Fire",
+"title": "The Suburbs"
+},
+{
+"id": "2026-11-08T07:12|Bleachers|Blood Brothers",
+"t": "2026-11-08T07:12:00+01:00",
+"artist": "Bleachers",
+"title": "Blood Brothers"
+},
 {
 "id": "2026-11-08T07:05|Jungle|Carry On",
 "t": "2026-11-08T07:05:00+01:00",
@@ -8536,18 +8560,6 @@
 "t": "2026-11-01T07:25:00+01:00",
 "artist": "The National",
 "title": "Tropic Morning News (Radio Edit)"
-},
-{
-"id": "2026-11-01T07:22|Erika De Casier|Delusional",
-"t": "2026-11-01T07:22:00+01:00",
-"artist": "Erika De Casier",
-"title": "Delusional"
-},
-{
-"id": "2026-11-01T07:17|Jamie Woon|Night Air",
-"t": "2026-11-01T07:17:00+01:00",
-"artist": "Jamie Woon",
-"title": "Night Air"
 }
 ]
 }
