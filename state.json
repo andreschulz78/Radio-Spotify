@@ -1,9 +1,9 @@
 {
-"updated": "2026-11-08T08:24:30.205184+01:00",
+"updated": "2026-11-08T08:36:30.205487+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
-"synced": "2026-11-08T08:12:30.204876+01:00",
+"synced": "2026-11-08T08:28:30.205299+01:00",
 "pruned": "2026-11-08",
 "calls": {
 "2026-11-01": 99,
@@ -13,12 +13,20 @@
 "2026-11-05": 165,
 "2026-11-06": 191,
 "2026-11-07": 127,
-"2026-11-08": 33
+"2026-11-08": 34
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAf0iWpnrsejFutbk8U2P4Y9TrUKXsk",
+"snapshot": "AAAf00HGW3Pc1U7LDbA3CC2PQom33JgO",
 "playlist": [
+[
+"2026-11-08T08:18|Bonobo feat. Joy Crookes|Always on Your Side",
+"spotify:track:6jJTpzMquQLVuUkM2vVEIF"
+],
+[
+"2026-11-08T08:14|The Drums feat. Mareux|It Didn't Matter",
+"spotify:track:10kxTiNUTo4nlEbH1EzoX1"
+],
 [
 "2026-11-08T08:05|Father John Misty|The Payoff (Radio Edit)",
 "spotify:track:2WIcSjSoGt78KKBnzViTdC"
@@ -3461,6 +3469,24 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-11-08T08:31|Meshell Ndegeocello feat. Cat Power|Don’t You Want Me",
+"t": "2026-11-08T08:31:00+01:00",
+"artist": "Meshell Ndegeocello feat. Cat Power",
+"title": "Don’t You Want Me"
+},
+{
+"id": "2026-11-08T08:26|Oscar Farrell feat. Sampha|Dream Therapy",
+"t": "2026-11-08T08:26:00+01:00",
+"artist": "Oscar Farrell feat. Sampha",
+"title": "Dream Therapy"
+},
+{
+"id": "2026-11-08T08:18|Bonobo feat. Joy Crookes|Always on Your Side",
+"t": "2026-11-08T08:18:00+01:00",
+"artist": "Bonobo feat. Joy Crookes",
+"title": "Always on Your Side"
+},
 {
 "id": "2026-11-08T08:14|The Drums feat. Mareux|It Didn't Matter",
 "t": "2026-11-08T08:14:00+01:00",
@@ -8590,24 +8616,6 @@
 "t": "2026-11-01T08:44:00+01:00",
 "artist": "Gorillaz",
 "title": "Sleeping Powder"
-},
-{
-"id": "2026-11-01T08:35|Kelis|Friday Fish Fry",
-"t": "2026-11-01T08:35:00+01:00",
-"artist": "Kelis",
-"title": "Friday Fish Fry"
-},
-{
-"id": "2026-11-01T08:31|Tikhet|Burndowner",
-"t": "2026-11-01T08:31:00+01:00",
-"artist": "Tikhet",
-"title": "Burndowner"
-},
-{
-"id": "2026-11-01T08:25|Yard Act|Janey Said (Edit)",
-"t": "2026-11-01T08:25:00+01:00",
-"artist": "Yard Act",
-"title": "Janey Said (Edit)"
 }
 ]
 }
