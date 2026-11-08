@@ -1,9 +1,9 @@
 {
-"updated": "2026-11-08T11:04:37.077796+01:00",
+"updated": "2026-11-08T11:16:37.078174+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
-"synced": "2026-11-08T10:52:37.077424+01:00",
+"synced": "2026-11-08T11:08:37.077946+01:00",
 "pruned": "2026-11-08",
 "calls": {
 "2026-11-01": 99,
@@ -13,12 +13,20 @@
 "2026-11-05": 165,
 "2026-11-06": 191,
 "2026-11-07": 127,
-"2026-11-08": 59
+"2026-11-08": 63
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAf38nEx+7DRS+yTHHHzXul8cnZKykh",
+"snapshot": "AAAf4L29t2RdN6WzuAJ9MWY+zaWBEWMw",
 "playlist": [
+[
+"2026-11-08T10:55|The National|New Order T-Shirt",
+"spotify:track:6bVQ9ygrzZj9B7Z5hLB1bk"
+],
+[
+"2026-11-08T10:50|Joy Wellboy|Birds",
+"spotify:track:642171jGo2HkiteFwIH8Rm"
+],
 [
 "2026-11-08T10:39|Benjamin Clementine|In Fact You Know You Gotto Go",
 "spotify:track:4cWEdRTQ8sg4QaTBIGn06j"
@@ -3537,6 +3545,24 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-11-08T11:09|Prince|I Would Die 4 U",
+"t": "2026-11-08T11:09:00+01:00",
+"artist": "Prince",
+"title": "I Would Die 4 U"
+},
+{
+"id": "2026-11-08T11:05|The Big Moon|F.O.R.E.V.E.R",
+"t": "2026-11-08T11:05:00+01:00",
+"artist": "The Big Moon",
+"title": "F.O.R.E.V.E.R"
+},
+{
+"id": "2026-11-08T10:55|The National|New Order T-Shirt",
+"t": "2026-11-08T10:55:00+01:00",
+"artist": "The National",
+"title": "New Order T-Shirt"
+},
 {
 "id": "2026-11-08T10:50|Joy Wellboy|Birds",
 "t": "2026-11-08T10:50:00+01:00",
@@ -8648,24 +8674,6 @@
 "t": "2026-11-01T11:25:00+01:00",
 "artist": "Nightmares On Wax feat. Mozez",
 "title": "You Wish (Abbey Road Fuzz Gospel Version)"
-},
-{
-"id": "2026-11-01T11:16|Sofi Tukker|Matadora",
-"t": "2026-11-01T11:16:00+01:00",
-"artist": "Sofi Tukker",
-"title": "Matadora"
-},
-{
-"id": "2026-11-01T11:09|The Egg|Wall",
-"t": "2026-11-01T11:09:00+01:00",
-"artist": "The Egg",
-"title": "Wall"
-},
-{
-"id": "2026-11-01T11:05|Leon Bridges|Light The Way",
-"t": "2026-11-01T11:05:00+01:00",
-"artist": "Leon Bridges",
-"title": "Light The Way"
 }
 ]
 }
