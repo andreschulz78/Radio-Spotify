@@ -1,5 +1,5 @@
 {
-"updated": "2026-11-08T06:36:30.202576+01:00",
+"updated": "2026-11-08T06:48:30.202849+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
@@ -3389,6 +3389,18 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-11-08T06:39|Nightbus|Angles Mortz",
+"t": "2026-11-08T06:39:00+01:00",
+"artist": "Nightbus",
+"title": "Angles Mortz"
+},
+{
+"id": "2026-11-08T06:35|Black Marble|Jim Carol New Year",
+"t": "2026-11-08T06:35:00+01:00",
+"artist": "Black Marble",
+"title": "Jim Carol New Year"
+},
 {
 "id": "2026-11-08T06:31|Jonathan Personne|Un Homme Sans Visage",
 "t": "2026-11-08T06:31:00+01:00",
@@ -8512,18 +8524,6 @@
 "t": "2026-11-01T06:49:00+01:00",
 "artist": "Kate Bush",
 "title": "Wild Man"
-},
-{
-"id": "2026-11-01T06:45|Smidley feat. Lucy Dacus|Capstone",
-"t": "2026-11-01T06:45:00+01:00",
-"artist": "Smidley feat. Lucy Dacus",
-"title": "Capstone"
-},
-{
-"id": "2026-11-01T06:41|Depeche Mode|Personal Jesus",
-"t": "2026-11-01T06:41:00+01:00",
-"artist": "Depeche Mode",
-"title": "Personal Jesus"
 }
 ]
 }
