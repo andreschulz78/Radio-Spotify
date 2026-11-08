@@ -1,9 +1,9 @@
 {
-"updated": "2026-11-08T13:28:37.083033+01:00",
+"updated": "2026-11-08T13:40:37.083429+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
-"synced": "2026-11-08T13:20:37.082778+01:00",
+"synced": "2026-11-08T13:36:37.083294+01:00",
 "pruned": "2026-11-08",
 "calls": {
 "2026-11-01": 99,
@@ -13,12 +13,24 @@
 "2026-11-05": 165,
 "2026-11-06": 191,
 "2026-11-07": 127,
-"2026-11-08": 85
+"2026-11-08": 87
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAf6EPjrV0Qt04Ci2M58rbvAED71l3c",
+"snapshot": "AAAf6c9sAJu0fZZXVcx5ajSfxA9tcjs7",
 "playlist": [
+[
+"2026-11-08T13:32|Get Well Soon|Siri, What Ruined The West ?",
+"spotify:track:3XY1xxFHeGHDDt33V6GoE2"
+],
+[
+"2026-11-08T13:25|Delinquent Habits|Here Come The Horns",
+"spotify:track:4wseRLZqlHX0svfp0btZD5"
+],
+[
+"2026-11-08T13:18|Olivia Dean|Man I Need",
+"spotify:track:1qbmS6ep2hbBRaEZFpn7BX"
+],
 [
 "2026-11-08T13:15|Dekker|Pick It Up, Put It Back",
 "spotify:track:0LhuToBNSlvYc4IwVJpYWH"
@@ -3621,6 +3633,18 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-11-08T13:32|Get Well Soon|Siri, What Ruined The West ?",
+"t": "2026-11-08T13:32:00+01:00",
+"artist": "Get Well Soon",
+"title": "Siri, What Ruined The West ?"
+},
+{
+"id": "2026-11-08T13:25|Delinquent Habits|Here Come The Horns",
+"t": "2026-11-08T13:25:00+01:00",
+"artist": "Delinquent Habits",
+"title": "Here Come The Horns"
+},
 {
 "id": "2026-11-08T13:18|Olivia Dean|Man I Need",
 "t": "2026-11-08T13:18:00+01:00",
