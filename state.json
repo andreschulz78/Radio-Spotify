@@ -1,9 +1,9 @@
 {
-"updated": "2026-11-08T12:40:37.081308+01:00",
+"updated": "2026-11-08T12:52:37.081730+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
-"synced": "2026-11-08T12:28:37.080768+01:00",
+"synced": "2026-11-08T12:44:37.081438+01:00",
 "pruned": "2026-11-08",
 "calls": {
 "2026-11-01": 99,
@@ -13,12 +13,20 @@
 "2026-11-05": 165,
 "2026-11-06": 191,
 "2026-11-07": 127,
-"2026-11-08": 78
+"2026-11-08": 80
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAf5SYfQuZqR5LXJRFyWQYtmiuT8gWE",
+"snapshot": "AAAf5hDcDSZzOKXTW0DtHiL1BkL9VpyG",
 "playlist": [
+[
+"2026-11-08T12:32|Barry Can't Swim|Cars Pass By Like Childhood Sweethearts",
+"spotify:track:1qrIziSX4GwjlUMfmMhO3x"
+],
+[
+"2026-11-08T12:27|Sassy 009 feat. Blood Orange|Tell Me (Jam City Remix) (Edit)",
+"spotify:track:1pDiRrLro0tlhsPSexB3Zv"
+],
 [
 "2026-11-08T12:14|Liam Gallagher|For What It's Worth",
 "spotify:track:2DrFBNqxtpyvFlG3qMZiya"
@@ -3597,6 +3605,12 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-11-08T12:41|It's Immaterial|Driving Away From Home",
+"t": "2026-11-08T12:41:00+01:00",
+"artist": "It's Immaterial",
+"title": "Driving Away From Home"
+},
 {
 "id": "2026-11-08T12:32|Barry Can't Swim|Cars Pass By Like Childhood Sweethearts",
 "t": "2026-11-08T12:32:00+01:00",
