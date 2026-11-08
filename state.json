@@ -1,9 +1,9 @@
 {
-"updated": "2026-11-08T07:00:30.203161+01:00",
+"updated": "2026-11-08T07:12:30.203414+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
-"synced": "2026-11-08T06:52:30.202939+01:00",
+"synced": "2026-11-08T07:08:30.203311+01:00",
 "pruned": "2026-11-08",
 "calls": {
 "2026-11-01": 99,
@@ -13,12 +13,24 @@
 "2026-11-05": 165,
 "2026-11-06": 191,
 "2026-11-07": 127,
-"2026-11-08": 13
+"2026-11-08": 17
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAfyUz9Dvw+SI/t/+bX4HO+FkRNqEhQ",
+"snapshot": "AAAfymfcYvOduzrR1PZ2CWx7dAGq6pMY",
 "playlist": [
+[
+"2026-11-08T06:56|Mono|Life in Mono",
+"spotify:track:6zlg5Q1DgsIyj4z4BWinIr"
+],
+[
+"2026-11-08T06:52|Lambert & Dekker|Another One",
+"spotify:track:4LOGJRtzKzVI2QT4gNFNIV"
+],
+[
+"2026-11-08T06:47|Nick Cave & The Bad Seeds|The Weeping Song",
+"spotify:track:5In3quENIQFUvUOorOlGoe"
+],
 [
 "2026-11-08T06:44|54 Ultra|Tell Me",
 "spotify:track:6iXIvHGsLMJ89TuW1S9E3C"
@@ -3401,6 +3413,12 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-11-08T07:05|Jungle|Carry On",
+"t": "2026-11-08T07:05:00+01:00",
+"artist": "Jungle",
+"title": "Carry On"
+},
 {
 "id": "2026-11-08T06:56|Mono|Life in Mono",
 "t": "2026-11-08T06:56:00+01:00",
@@ -8530,18 +8548,6 @@
 "t": "2026-11-01T07:17:00+01:00",
 "artist": "Jamie Woon",
 "title": "Night Air"
-},
-{
-"id": "2026-11-01T07:11|Nichtseattle|Ich mit Brille",
-"t": "2026-11-01T07:11:00+01:00",
-"artist": "Nichtseattle",
-"title": "Ich mit Brille"
-},
-{
-"id": "2026-11-01T07:05|Van Morrison|Real Real Gone",
-"t": "2026-11-01T07:05:00+01:00",
-"artist": "Van Morrison",
-"title": "Real Real Gone"
 }
 ]
 }
