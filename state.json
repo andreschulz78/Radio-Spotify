@@ -1,9 +1,9 @@
 {
-"updated": "2026-11-08T09:36:30.206916+01:00",
+"updated": "2026-11-08T09:48:30.207215+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
-"synced": "2026-11-08T09:32:30.206815+01:00",
+"synced": "2026-11-08T09:48:30.207215+01:00",
 "pruned": "2026-11-08",
 "calls": {
 "2026-11-01": 99,
@@ -13,12 +13,24 @@
 "2026-11-05": 165,
 "2026-11-06": 191,
 "2026-11-07": 127,
-"2026-11-08": 48
+"2026-11-08": 49
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAf2aczncZ7g7yMCwrj2YhwCDsM6IRY",
+"snapshot": "AAAf2rTUeSWblU7C7/1WifPFNkyGMgQv",
 "playlist": [
+[
+"2026-11-08T09:42|Lily Allen|Dallas Major",
+"spotify:track:1ECugAb7Pg6UDA501YYgH9"
+],
+[
+"2026-11-08T09:33|Ben Watt|Nathaniel",
+"spotify:track:7bpTKSgPClJZfgkjg2N0E8"
+],
+[
+"2026-11-08T09:29|Randy Newman|Falling In Love",
+"spotify:track:76udCJCsF9Ym6x7bL0lwPj"
+],
 [
 "2026-11-08T09:17|Chinese American Bear|Dance Dance Dance (Edit)",
 "spotify:track:3Ct3ro3LnsTHjeRVPNSG5s"
@@ -3497,6 +3509,18 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-11-08T09:42|Lily Allen|Dallas Major",
+"t": "2026-11-08T09:42:00+01:00",
+"artist": "Lily Allen",
+"title": "Dallas Major"
+},
+{
+"id": "2026-11-08T09:33|Ben Watt|Nathaniel",
+"t": "2026-11-08T09:33:00+01:00",
+"artist": "Ben Watt",
+"title": "Nathaniel"
+},
 {
 "id": "2026-11-08T09:29|Randy Newman|Falling In Love",
 "t": "2026-11-08T09:29:00+01:00",
@@ -8626,12 +8650,6 @@
 "t": "2026-11-01T09:51:00+01:00",
 "artist": "Yazmin Lacey",
 "title": "Summer Haze"
-},
-{
-"id": "2026-11-01T09:41|Radiohead|Karma Police",
-"t": "2026-11-01T09:41:00+01:00",
-"artist": "Radiohead",
-"title": "Karma Police"
 }
 ]
 }
