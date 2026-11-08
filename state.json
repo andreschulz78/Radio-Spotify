@@ -1,9 +1,9 @@
 {
-"updated": "2026-11-08T09:12:30.206330+01:00",
+"updated": "2026-11-08T09:24:30.206614+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
-"synced": "2026-11-08T09:00:30.206060+01:00",
+"synced": "2026-11-08T09:16:30.206424+01:00",
 "pruned": "2026-11-08",
 "calls": {
 "2026-11-01": 99,
@@ -13,12 +13,16 @@
 "2026-11-05": 165,
 "2026-11-06": 191,
 "2026-11-07": 127,
-"2026-11-08": 42
+"2026-11-08": 45
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAf1ifeOcoVuu45LwtnsxTo9znhe/KD",
+"snapshot": "AAAf1/ZjWXXsocVquiwsSheFtInbZJ3u",
 "playlist": [
+[
+"2026-11-08T09:05|You Pretty Thing|Push It",
+"spotify:track:6EpuSwrYb3Qzj9PtTAmS1i"
+],
 [
 "2026-11-08T08:54|Dapayk & Padberg feat. Caro|Island",
 "spotify:track:1G0cJI9EJ20s1wZPrjuQxG"
@@ -3489,6 +3493,12 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-11-08T09:13|Freundeskreis feat. Gentleman|Tabula Rasa (Part 2)",
+"t": "2026-11-08T09:13:00+01:00",
+"artist": "Freundeskreis feat. Gentleman",
+"title": "Tabula Rasa (Part 2)"
+},
 {
 "id": "2026-11-08T09:05|You Pretty Thing|Push It",
 "t": "2026-11-08T09:05:00+01:00",
@@ -8618,12 +8628,6 @@
 "t": "2026-11-01T09:25:00+01:00",
 "artist": "Super 700",
 "title": "Under The No Sky"
-},
-{
-"id": "2026-11-01T09:15|Gotye feat. Kimbra|Somebody That I Used To Know",
-"t": "2026-11-01T09:15:00+01:00",
-"artist": "Gotye feat. Kimbra",
-"title": "Somebody That I Used To Know"
 }
 ]
 }
