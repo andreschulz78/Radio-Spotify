@@ -1,9 +1,9 @@
 {
-"updated": "2026-11-08T10:16:37.076247+01:00",
+"updated": "2026-11-08T10:28:37.076653+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
-"synced": "2026-11-08T10:04:37.075805+01:00",
+"synced": "2026-11-08T10:20:37.076369+01:00",
 "pruned": "2026-11-08",
 "calls": {
 "2026-11-01": 99,
@@ -13,12 +13,24 @@
 "2026-11-05": 165,
 "2026-11-06": 191,
 "2026-11-07": 127,
-"2026-11-08": 53
+"2026-11-08": 55
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAf3PoObmY6XDGQyporyg1CeNN55Wvu",
+"snapshot": "AAAf3eAYr6jKvCgdxevewcMUqZE99kgO",
 "playlist": [
+[
+"2026-11-08T10:14|Florence + The Machine|Buckle",
+"spotify:track:2Ea5Qh9ijEt8og1ZNBgqhR"
+],
+[
+"2026-11-08T10:07|Peter Fox|Haus am See",
+"spotify:track:7A4KdLy1DXOOC5fhIdDuHz"
+],
+[
+"2026-11-08T10:05|Linka Moja|Men R Dogs",
+"spotify:track:7AgfOLYDB7GrgIWg60PBw7"
+],
 [
 "2026-11-08T09:55|MGMT|Little Dark Age",
 "spotify:track:2Y0iGXY6m6immVb2ktbseM"
@@ -3513,6 +3525,12 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-11-08T10:14|Florence + The Machine|Buckle",
+"t": "2026-11-08T10:14:00+01:00",
+"artist": "Florence + The Machine",
+"title": "Buckle"
+},
 {
 "id": "2026-11-08T10:07|Peter Fox|Haus am See",
 "t": "2026-11-08T10:07:00+01:00",
@@ -8642,12 +8660,6 @@
 "t": "2026-11-01T10:31:00+01:00",
 "artist": "Johnny Marr",
 "title": "Hi Hello"
-},
-{
-"id": "2026-11-01T10:25|Erdmöbel|Die Krähen",
-"t": "2026-11-01T10:25:00+01:00",
-"artist": "Erdmöbel",
-"title": "Die Krähen"
 }
 ]
 }
