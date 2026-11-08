@@ -1,5 +1,5 @@
 {
-"updated": "2026-11-08T11:40:37.078966+01:00",
+"updated": "2026-11-08T11:52:37.079338+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
@@ -13,7 +13,7 @@
 "2026-11-05": 165,
 "2026-11-06": 191,
 "2026-11-07": 127,
-"2026-11-08": 70
+"2026-11-08": 71
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
@@ -3573,6 +3573,12 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-11-08T11:45|The Verve|Bitter Sweet Symphony (Radio Edit)",
+"t": "2026-11-08T11:45:00+01:00",
+"artist": "The Verve",
+"title": "Bitter Sweet Symphony (Radio Edit)"
+},
 {
 "id": "2026-11-08T11:36|Agnes Obel|Laymelli (Edit)",
 "t": "2026-11-08T11:36:00+01:00",
@@ -8702,18 +8708,6 @@
 "t": "2026-11-01T11:53:00+01:00",
 "artist": "Missincat",
 "title": "Back On My Feet"
-},
-{
-"id": "2026-11-01T11:50|Aaron|Blouson noir",
-"t": "2026-11-01T11:50:00+01:00",
-"artist": "Aaron",
-"title": "Blouson noir"
-},
-{
-"id": "2026-11-01T11:47|Ibeyi|Hurry Hurry",
-"t": "2026-11-01T11:47:00+01:00",
-"artist": "Ibeyi",
-"title": "Hurry Hurry"
 }
 ]
 }
