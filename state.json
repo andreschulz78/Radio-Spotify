@@ -1,9 +1,9 @@
 {
-"updated": "2026-11-08T06:00:30.201781+01:00",
+"updated": "2026-11-08T06:12:30.202043+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
-"synced": "2026-11-08T04:00:23.885864+01:00",
+"synced": "2026-11-08T06:04:30.201868+01:00",
 "pruned": "2026-11-08",
 "calls": {
 "2026-11-01": 99,
@@ -13,11 +13,11 @@
 "2026-11-05": 165,
 "2026-11-06": 191,
 "2026-11-07": 127,
-"2026-11-08": 3
+"2026-11-08": 4
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAfxZI+gNPVmXBcBMYOn1+3q7ubJrem",
+"snapshot": "AAAfxtVeCKqyTsAe1zarjSRHMT29+LmJ",
 "playlist": [
 [
 "2026-11-07T22:51|Fat Dog|Heart of Darkness",
@@ -3358,13 +3358,15 @@
 [
 "2026-11-01T06:08|Get Well Soon|Siri, What Ruined The West ?",
 "spotify:track:3XY1xxFHeGHDDt33V6GoE2"
-],
-[
-"2026-11-01T06:04|Two Medicine|Gold",
-"spotify:track:37eL0FpbKc4KyNerD1L9Vw"
 ]
 ],
 "entries": [
+{
+"id": "2026-11-08T06:03|Freedom Fry|She Fell In Love On The Dance Floor",
+"t": "2026-11-08T06:03:00+01:00",
+"artist": "Freedom Fry",
+"title": "She Fell In Love On The Dance Floor"
+},
 {
 "id": "2026-11-07T22:51|Fat Dog|Heart of Darkness",
 "t": "2026-11-07T22:51:00+01:00",
@@ -8488,24 +8490,6 @@
 "t": "2026-11-01T06:17:00+01:00",
 "artist": "Father John Misty",
 "title": "The Payoff (Radio Edit)"
-},
-{
-"id": "2026-11-01T06:12|Pom Poko|Champion",
-"t": "2026-11-01T06:12:00+01:00",
-"artist": "Pom Poko",
-"title": "Champion"
-},
-{
-"id": "2026-11-01T06:08|Get Well Soon|Siri, What Ruined The West ?",
-"t": "2026-11-01T06:08:00+01:00",
-"artist": "Get Well Soon",
-"title": "Siri, What Ruined The West ?"
-},
-{
-"id": "2026-11-01T06:04|Two Medicine|Gold",
-"t": "2026-11-01T06:04:00+01:00",
-"artist": "Two Medicine",
-"title": "Gold"
 }
 ]
 }
