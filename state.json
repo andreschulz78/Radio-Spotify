@@ -1,9 +1,9 @@
 {
-"updated": "2026-11-08T06:48:30.202849+01:00",
+"updated": "2026-11-08T07:00:30.203161+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
-"synced": "2026-11-08T06:36:30.202576+01:00",
+"synced": "2026-11-08T06:52:30.202939+01:00",
 "pruned": "2026-11-08",
 "calls": {
 "2026-11-01": 99,
@@ -13,12 +13,24 @@
 "2026-11-05": 165,
 "2026-11-06": 191,
 "2026-11-07": 127,
-"2026-11-08": 8
+"2026-11-08": 13
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAfyIkz3E+t9tMnSLY2GfDt0X+5tPD9",
+"snapshot": "AAAfyUz9Dvw+SI/t/+bX4HO+FkRNqEhQ",
 "playlist": [
+[
+"2026-11-08T06:44|54 Ultra|Tell Me",
+"spotify:track:6iXIvHGsLMJ89TuW1S9E3C"
+],
+[
+"2026-11-08T06:39|Nightbus|Angles Mortz",
+"spotify:track:5XvRng3X26Q3oGMEoFKsWo"
+],
+[
+"2026-11-08T06:35|Black Marble|Jim Carol New Year",
+"spotify:track:3UhXNJjt6Y0sNCEwwhoJnT"
+],
 [
 "2026-11-08T06:31|Jonathan Personne|Un Homme Sans Visage",
 "spotify:track:253vvuEJZapMUdRgVCDI8v"
@@ -3389,6 +3401,30 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-11-08T06:56|Mono|Life in Mono",
+"t": "2026-11-08T06:56:00+01:00",
+"artist": "Mono",
+"title": "Life in Mono"
+},
+{
+"id": "2026-11-08T06:52|Lambert & Dekker|Another One",
+"t": "2026-11-08T06:52:00+01:00",
+"artist": "Lambert & Dekker",
+"title": "Another One"
+},
+{
+"id": "2026-11-08T06:47|Nick Cave & The Bad Seeds|The Weeping Song",
+"t": "2026-11-08T06:47:00+01:00",
+"artist": "Nick Cave & The Bad Seeds",
+"title": "The Weeping Song"
+},
+{
+"id": "2026-11-08T06:44|54 Ultra|Tell Me",
+"t": "2026-11-08T06:44:00+01:00",
+"artist": "54 Ultra",
+"title": "Tell Me"
+},
 {
 "id": "2026-11-08T06:39|Nightbus|Angles Mortz",
 "t": "2026-11-08T06:39:00+01:00",
@@ -8506,24 +8542,6 @@
 "t": "2026-11-01T07:05:00+01:00",
 "artist": "Van Morrison",
 "title": "Real Real Gone"
-},
-{
-"id": "2026-11-01T06:57|Grover Washington jr & Bill Withers|Just The Two Of Us",
-"t": "2026-11-01T06:57:00+01:00",
-"artist": "Grover Washington jr & Bill Withers",
-"title": "Just The Two Of Us"
-},
-{
-"id": "2026-11-01T06:53|Passion Mango|Bloody Eyes",
-"t": "2026-11-01T06:53:00+01:00",
-"artist": "Passion Mango",
-"title": "Bloody Eyes"
-},
-{
-"id": "2026-11-01T06:49|Kate Bush|Wild Man",
-"t": "2026-11-01T06:49:00+01:00",
-"artist": "Kate Bush",
-"title": "Wild Man"
 }
 ]
 }
