@@ -1,9 +1,9 @@
 {
-"updated": "2026-11-08T10:28:37.076653+01:00",
+"updated": "2026-11-08T10:40:37.077026+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
-"synced": "2026-11-08T10:20:37.076369+01:00",
+"synced": "2026-11-08T10:36:37.076901+01:00",
 "pruned": "2026-11-08",
 "calls": {
 "2026-11-01": 99,
@@ -13,12 +13,20 @@
 "2026-11-05": 165,
 "2026-11-06": 191,
 "2026-11-07": 127,
-"2026-11-08": 55
+"2026-11-08": 57
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAf3eAYr6jKvCgdxevewcMUqZE99kgO",
+"snapshot": "AAAf3l7Np+Ox/GvyEGcl56IqxSMAaCP/",
 "playlist": [
+[
+"2026-11-08T10:32|Gorillaz feat. Bizarrap, Kara Jackson and Anoushka Shankar|Orange County",
+"spotify:track:5l4Gq3UC0dHKSExIf5xD9N"
+],
+[
+"2026-11-08T10:26|Syd Matters|Hi Life",
+"spotify:track:7FKBm12Y4M61yypk0BvujY"
+],
 [
 "2026-11-08T10:14|Florence + The Machine|Buckle",
 "spotify:track:2Ea5Qh9ijEt8og1ZNBgqhR"
@@ -3525,6 +3533,18 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-11-08T10:32|Gorillaz feat. Bizarrap, Kara Jackson and Anoushka Shankar|Orange County",
+"t": "2026-11-08T10:32:00+01:00",
+"artist": "Gorillaz feat. Bizarrap, Kara Jackson and Anoushka Shankar",
+"title": "Orange County"
+},
+{
+"id": "2026-11-08T10:26|Syd Matters|Hi Life",
+"t": "2026-11-08T10:26:00+01:00",
+"artist": "Syd Matters",
+"title": "Hi Life"
+},
 {
 "id": "2026-11-08T10:14|Florence + The Machine|Buckle",
 "t": "2026-11-08T10:14:00+01:00",
@@ -8654,12 +8674,6 @@
 "t": "2026-11-01T10:41:00+01:00",
 "artist": "Grace Cummings",
 "title": "I'm Not Crazy"
-},
-{
-"id": "2026-11-01T10:31|Johnny Marr|Hi Hello",
-"t": "2026-11-01T10:31:00+01:00",
-"artist": "Johnny Marr",
-"title": "Hi Hello"
 }
 ]
 }
