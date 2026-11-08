@@ -1,9 +1,9 @@
 {
-"updated": "2026-11-08T11:52:37.079338+01:00",
+"updated": "2026-11-08T12:04:37.079803+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
-"synced": "2026-11-08T11:40:37.078966+01:00",
+"synced": "2026-11-08T11:56:37.079484+01:00",
 "pruned": "2026-11-08",
 "calls": {
 "2026-11-01": 99,
@@ -13,12 +13,24 @@
 "2026-11-05": 165,
 "2026-11-06": 191,
 "2026-11-07": 127,
-"2026-11-08": 71
+"2026-11-08": 72
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAf4tUCGQw0Bk6X6LVe9BOJvvHnOxna",
+"snapshot": "AAAf44VlfIfPq2oBbqaff7fCWP48JGt/",
 "playlist": [
+[
+"2026-11-08T11:53|49th & Main|Insomnia",
+"spotify:track:6JGrKJtW3CxLscWj7OJMYt"
+],
+[
+"2026-11-08T11:50|SOFY|50/50",
+"spotify:track:16QLv8xt9nPNBZCBDm3Gkv"
+],
+[
+"2026-11-08T11:45|The Verve|Bitter Sweet Symphony (Radio Edit)",
+"spotify:track:1KkP6yoIZ6bKfPCwP4KqFW"
+],
 [
 "2026-11-08T11:36|Agnes Obel|Laymelli (Edit)",
 "spotify:track:0VzMHjWcs2P24LHLekZ8Qa"
@@ -3573,6 +3585,18 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-11-08T11:53|49th & Main|Insomnia",
+"t": "2026-11-08T11:53:00+01:00",
+"artist": "49th & Main",
+"title": "Insomnia"
+},
+{
+"id": "2026-11-08T11:50|SOFY|50/50",
+"t": "2026-11-08T11:50:00+01:00",
+"artist": "SOFY",
+"title": "50/50"
+},
 {
 "id": "2026-11-08T11:45|The Verve|Bitter Sweet Symphony (Radio Edit)",
 "t": "2026-11-08T11:45:00+01:00",
@@ -8696,18 +8720,6 @@
 "t": "2026-11-02T05:03:00+01:00",
 "artist": "Brigitte Calls Me Baby",
 "title": "The Future is Our Way Out"
-},
-{
-"id": "2026-11-01T11:57|Antony Szmierek|Chalk (Radio Edit)",
-"t": "2026-11-01T11:57:00+01:00",
-"artist": "Antony Szmierek",
-"title": "Chalk (Radio Edit)"
-},
-{
-"id": "2026-11-01T11:53|Missincat|Back On My Feet",
-"t": "2026-11-01T11:53:00+01:00",
-"artist": "Missincat",
-"title": "Back On My Feet"
 }
 ]
 }
