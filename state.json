@@ -1,9 +1,9 @@
 {
-"updated": "2026-11-08T06:24:30.202305+01:00",
+"updated": "2026-11-08T06:36:30.202576+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
-"synced": "2026-11-08T06:20:30.202216+01:00",
+"synced": "2026-11-08T06:36:30.202576+01:00",
 "pruned": "2026-11-08",
 "calls": {
 "2026-11-01": 99,
@@ -13,12 +13,24 @@
 "2026-11-05": 165,
 "2026-11-06": 191,
 "2026-11-07": 127,
-"2026-11-08": 7
+"2026-11-08": 8
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAfx2lNozbf3HO6Ovyouw0Zv737IX/I",
+"snapshot": "AAAfyIkz3E+t9tMnSLY2GfDt0X+5tPD9",
 "playlist": [
+[
+"2026-11-08T06:31|Jonathan Personne|Un Homme Sans Visage",
+"spotify:track:253vvuEJZapMUdRgVCDI8v"
+],
+[
+"2026-11-08T06:26|Ayele|Fractured (Radio Edit)",
+"spotify:track:5EGnOBL2qoUNard3Oaq5Hc"
+],
+[
+"2026-11-08T06:23|Jonathan Jeremiah|Kolkata Bear",
+"spotify:track:6GVyNJOivLDoFeQ6hhttwb"
+],
 [
 "2026-11-08T06:17|Burning Spear|Slavery Days",
 "spotify:track:2xYUmiqMOw2deOABJ1f67h"
@@ -3377,6 +3389,24 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-11-08T06:31|Jonathan Personne|Un Homme Sans Visage",
+"t": "2026-11-08T06:31:00+01:00",
+"artist": "Jonathan Personne",
+"title": "Un Homme Sans Visage"
+},
+{
+"id": "2026-11-08T06:26|Ayele|Fractured (Radio Edit)",
+"t": "2026-11-08T06:26:00+01:00",
+"artist": "Ayele",
+"title": "Fractured (Radio Edit)"
+},
+{
+"id": "2026-11-08T06:23|Jonathan Jeremiah|Kolkata Bear",
+"t": "2026-11-08T06:23:00+01:00",
+"artist": "Jonathan Jeremiah",
+"title": "Kolkata Bear"
+},
 {
 "id": "2026-11-08T06:17|Burning Spear|Slavery Days",
 "t": "2026-11-08T06:17:00+01:00",
@@ -8494,30 +8524,6 @@
 "t": "2026-11-01T06:41:00+01:00",
 "artist": "Depeche Mode",
 "title": "Personal Jesus"
-},
-{
-"id": "2026-11-01T06:35|Kaktus Einarsson feat. John Grant|Follow",
-"t": "2026-11-01T06:35:00+01:00",
-"artist": "Kaktus Einarsson feat. John Grant",
-"title": "Follow"
-},
-{
-"id": "2026-11-01T06:32|Sandra Isabel|Kalender",
-"t": "2026-11-01T06:32:00+01:00",
-"artist": "Sandra Isabel",
-"title": "Kalender"
-},
-{
-"id": "2026-11-01T06:28|Tracy Chapman|Talkin' Bout A Revolution",
-"t": "2026-11-01T06:28:00+01:00",
-"artist": "Tracy Chapman",
-"title": "Talkin' Bout A Revolution"
-},
-{
-"id": "2026-11-01T06:25|Anderson .Paak & Cordae|A Good Day",
-"t": "2026-11-01T06:25:00+01:00",
-"artist": "Anderson .Paak & Cordae",
-"title": "A Good Day"
 }
 ]
 }
