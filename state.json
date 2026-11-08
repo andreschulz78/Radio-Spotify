@@ -1,9 +1,9 @@
 {
-"updated": "2026-11-08T06:12:30.202043+01:00",
+"updated": "2026-11-08T06:24:30.202305+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
-"synced": "2026-11-08T06:04:30.201868+01:00",
+"synced": "2026-11-08T06:20:30.202216+01:00",
 "pruned": "2026-11-08",
 "calls": {
 "2026-11-01": 99,
@@ -13,12 +13,28 @@
 "2026-11-05": 165,
 "2026-11-06": 191,
 "2026-11-07": 127,
-"2026-11-08": 4
+"2026-11-08": 7
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAfxtVeCKqyTsAe1zarjSRHMT29+LmJ",
+"snapshot": "AAAfx2lNozbf3HO6Ovyouw0Zv737IX/I",
 "playlist": [
+[
+"2026-11-08T06:17|Burning Spear|Slavery Days",
+"spotify:track:2xYUmiqMOw2deOABJ1f67h"
+],
+[
+"2026-11-08T06:13|The Cure|Lovesong",
+"spotify:track:1BmsjoP2qQjWiVpryS9H85"
+],
+[
+"2026-11-08T06:08|Yard Act|Janey Said (Edit)",
+"spotify:track:0mV0B0SbcF6CMSdDyDNYpR"
+],
+[
+"2026-11-08T06:03|Freedom Fry|She Fell In Love On The Dance Floor",
+"spotify:track:22uuH9uHRSdS2y2zvS5uEt"
+],
 [
 "2026-11-07T22:51|Fat Dog|Heart of Darkness",
 "spotify:track:24zbHhoxY7EKcijv98EWL7"
@@ -3361,6 +3377,24 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-11-08T06:17|Burning Spear|Slavery Days",
+"t": "2026-11-08T06:17:00+01:00",
+"artist": "Burning Spear",
+"title": "Slavery Days"
+},
+{
+"id": "2026-11-08T06:13|The Cure|Lovesong",
+"t": "2026-11-08T06:13:00+01:00",
+"artist": "The Cure",
+"title": "Lovesong"
+},
+{
+"id": "2026-11-08T06:08|Yard Act|Janey Said (Edit)",
+"t": "2026-11-08T06:08:00+01:00",
+"artist": "Yard Act",
+"title": "Janey Said (Edit)"
+},
 {
 "id": "2026-11-08T06:03|Freedom Fry|She Fell In Love On The Dance Floor",
 "t": "2026-11-08T06:03:00+01:00",
@@ -8484,12 +8518,6 @@
 "t": "2026-11-01T06:25:00+01:00",
 "artist": "Anderson .Paak & Cordae",
 "title": "A Good Day"
-},
-{
-"id": "2026-11-01T06:17|Father John Misty|The Payoff (Radio Edit)",
-"t": "2026-11-01T06:17:00+01:00",
-"artist": "Father John Misty",
-"title": "The Payoff (Radio Edit)"
 }
 ]
 }
