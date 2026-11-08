@@ -1,9 +1,9 @@
 {
-"updated": "2026-11-08T08:00:30.204599+01:00",
+"updated": "2026-11-08T08:12:30.204876+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
-"synced": "2026-11-08T07:56:30.204504+01:00",
+"synced": "2026-11-08T08:12:30.204876+01:00",
 "pruned": "2026-11-08",
 "calls": {
 "2026-11-01": 99,
@@ -13,12 +13,20 @@
 "2026-11-05": 165,
 "2026-11-06": 191,
 "2026-11-07": 127,
-"2026-11-08": 27
+"2026-11-08": 32
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAfzbbsW4wSsUH873n0qhQt2jVryyz9",
+"snapshot": "AAAf0iWpnrsejFutbk8U2P4Y9TrUKXsk",
 "playlist": [
+[
+"2026-11-08T08:05|Father John Misty|The Payoff (Radio Edit)",
+"spotify:track:2WIcSjSoGt78KKBnzViTdC"
+],
+[
+"2026-11-08T07:57|Parcels|Tieduprightnow",
+"spotify:track:66tkDkPsznE5zIHNt4QkXB"
+],
 [
 "2026-11-08T07:52|Whitney|Kansas",
 "spotify:track:0x0OjST3CNulTlhzLybBc9"
@@ -3360,10 +3368,6 @@
 "spotify:track:029NqmIySn1kOY305AAhxT"
 ],
 [
-"2026-11-01T08:12|Death Cab For Cutie|Pep Talk",
-"spotify:track:3ra7fDLqfUHBWBL702fOAn"
-],
-[
 "2026-11-01T08:05|Dionne Bromfield|Yeah Right",
 "spotify:track:7Izz9Uh8e05T7KkBWf1oBm"
 ],
@@ -3457,6 +3461,12 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-11-08T08:05|Father John Misty|The Payoff (Radio Edit)",
+"t": "2026-11-08T08:05:00+01:00",
+"artist": "Father John Misty",
+"title": "The Payoff (Radio Edit)"
+},
 {
 "id": "2026-11-08T07:57|Parcels|Tieduprightnow",
 "t": "2026-11-08T07:57:00+01:00",
@@ -8598,18 +8608,6 @@
 "t": "2026-11-01T08:16:00+01:00",
 "artist": "Peter Gabriel",
 "title": "Sledgehammer"
-},
-{
-"id": "2026-11-01T08:12|Death Cab For Cutie|Pep Talk",
-"t": "2026-11-01T08:12:00+01:00",
-"artist": "Death Cab For Cutie",
-"title": "Pep Talk"
-},
-{
-"id": "2026-11-01T08:05|Dionne Bromfield|Yeah Right",
-"t": "2026-11-01T08:05:00+01:00",
-"artist": "Dionne Bromfield",
-"title": "Yeah Right"
 }
 ]
 }
