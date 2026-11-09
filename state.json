@@ -1,9 +1,9 @@
 {
-"updated": "2026-11-09T05:52:58.698192+01:00",
+"updated": "2026-11-09T06:04:58.698480+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
-"synced": "2026-11-09T05:40:58.697919+01:00",
+"synced": "2026-11-09T05:56:58.698287+01:00",
 "pruned": "2026-11-09",
 "calls": {
 "2026-11-02": 197,
@@ -13,12 +13,24 @@
 "2026-11-06": 191,
 "2026-11-07": 127,
 "2026-11-08": 111,
-"2026-11-09": 4
+"2026-11-09": 5
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAf+RBTeJWz9zvInIMHU6HZlCI7oGoM",
+"snapshot": "AAAf+iZvrkRNeeiKa+Zj/n7ykDpd2fBd",
 "playlist": [
+[
+"2026-11-09T05:51|Overmono feat. Ruthven|Gem Lingo (ovr now)",
+"spotify:track:6dSqM0tWJPlchpmGrEwC1c"
+],
+[
+"2026-11-09T05:48|Sophia Kennedy|Schenke mir ein",
+"spotify:track:1nh7tFgkfO0Q7B6EAdUaJ2"
+],
+[
+"2026-11-09T05:42|J. Bernardt|Taxi",
+"spotify:track:250dcPo8DV0Iz0CkrFZDop"
+],
 [
 "2026-11-09T05:36|Peter Tosh feat. Mick Jagger|(You Gotta Walk) Don't Look Back",
 "spotify:track:4eSF2iKmPkIs57YsEDm8Qp"
@@ -3441,6 +3453,24 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-11-09T05:56|Ella Eyre|Kintsugi",
+"t": "2026-11-09T05:56:00+01:00",
+"artist": "Ella Eyre",
+"title": "Kintsugi"
+},
+{
+"id": "2026-11-09T05:51|Overmono feat. Ruthven|Gem Lingo (ovr now)",
+"t": "2026-11-09T05:51:00+01:00",
+"artist": "Overmono feat. Ruthven",
+"title": "Gem Lingo (ovr now)"
+},
+{
+"id": "2026-11-09T05:48|Sophia Kennedy|Schenke mir ein",
+"t": "2026-11-09T05:48:00+01:00",
+"artist": "Sophia Kennedy",
+"title": "Schenke mir ein"
+},
 {
 "id": "2026-11-09T05:42|J. Bernardt|Taxi",
 "t": "2026-11-09T05:42:00+01:00",
@@ -8648,12 +8678,6 @@
 "t": "2026-11-02T06:07:00+01:00",
 "artist": "The Limiñanas feat. Peter Hook",
 "title": "Garden Of Love"
-},
-{
-"id": "2026-11-02T05:57|Caribou|Can't Do Without You",
-"t": "2026-11-02T05:57:00+01:00",
-"artist": "Caribou",
-"title": "Can't Do Without You"
 }
 ]
 }
