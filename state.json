@@ -1,9 +1,9 @@
 {
-"updated": "2026-11-09T15:13:26.227072+01:00",
+"updated": "2026-11-09T15:25:26.227352+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
-"synced": "2026-11-09T15:09:26.226965+01:00",
+"synced": "2026-11-09T15:25:26.227352+01:00",
 "pruned": "2026-11-09",
 "calls": {
 "2026-11-02": 197,
@@ -13,12 +13,28 @@
 "2026-11-06": 191,
 "2026-11-07": 127,
 "2026-11-08": 111,
-"2026-11-09": 106
+"2026-11-09": 111
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAgITRdvTivQCWgwxN01PfXhySfSzat",
+"snapshot": "AAAgJP26I61SHKuCIQenA4q1FewayjMi",
 "playlist": [
+[
+"2026-11-09T15:23|Innenräume|Im Gegenlicht",
+"spotify:track:2ubG5Lo2I8hs3GzaVf7vdD"
+],
+[
+"2026-11-09T15:19|Sleater-Kinney|Can I go on",
+"spotify:track:1zQwiW2G6ls9pKVwRqgO0M"
+],
+[
+"2026-11-09T15:10|The Limiñanas|Catherine",
+"spotify:track:3zJYI6E3lNTkVl61xHghBh"
+],
+[
+"2026-11-09T15:06|Space feat. Cerys Matthews|The Ballad Of Tom Jones",
+"spotify:track:2xgZAMyvMwEQwN24w603lV"
+],
 [
 "2026-11-09T14:57|Pachyman|Trago Coqueto",
 "spotify:track:54SKhrxbRKvXuB3C3SGGoC"
@@ -3412,10 +3428,6 @@
 "spotify:track:73gwUCEJBgLhLzM1WTMBv0"
 ],
 [
-"2026-11-02T15:25|Hannah Jadagu|My Love",
-"spotify:track:4XM4c3zMS0orMhblnrZwnS"
-],
-[
 "2026-11-02T15:22|Monako|I Forget",
 "spotify:track:2WFUEZwNBfOm8O0zghCEEe"
 ],
@@ -3809,6 +3821,24 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-11-09T15:23|Innenräume|Im Gegenlicht",
+"t": "2026-11-09T15:23:00+01:00",
+"artist": "Innenräume",
+"title": "Im Gegenlicht"
+},
+{
+"id": "2026-11-09T15:19|Sleater-Kinney|Can I go on",
+"t": "2026-11-09T15:19:00+01:00",
+"artist": "Sleater-Kinney",
+"title": "Can I go on"
+},
+{
+"id": "2026-11-09T15:10|The Limiñanas|Catherine",
+"t": "2026-11-09T15:10:00+01:00",
+"artist": "The Limiñanas",
+"title": "Catherine"
+},
 {
 "id": "2026-11-09T15:06|Space feat. Cerys Matthews|The Ballad Of Tom Jones",
 "t": "2026-11-09T15:06:00+01:00",
@@ -9016,24 +9046,6 @@
 "t": "2026-11-02T15:31:00+01:00",
 "artist": "Seeed",
 "title": "Hale-Bopp"
-},
-{
-"id": "2026-11-02T15:25|Hannah Jadagu|My Love",
-"t": "2026-11-02T15:25:00+01:00",
-"artist": "Hannah Jadagu",
-"title": "My Love"
-},
-{
-"id": "2026-11-02T15:22|Monako|I Forget",
-"t": "2026-11-02T15:22:00+01:00",
-"artist": "Monako",
-"title": "I Forget"
-},
-{
-"id": "2026-11-02T15:14|Blood Orange feat. Caroline Polachek, Lorde, and Mustafa|Mind Loaded (Edit)",
-"t": "2026-11-02T15:14:00+01:00",
-"artist": "Blood Orange feat. Caroline Polachek, Lorde, and Mustafa",
-"title": "Mind Loaded (Edit)"
 }
 ]
 }
