@@ -1,5 +1,5 @@
 {
-"updated": "2026-11-09T15:25:26.227352+01:00",
+"updated": "2026-11-09T15:37:26.227683+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
@@ -3821,6 +3821,12 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-11-09T15:32|1-800 Girls feat. Art School Girlfriend|sometimes",
+"t": "2026-11-09T15:32:00+01:00",
+"artist": "1-800 Girls feat. Art School Girlfriend",
+"title": "sometimes"
+},
 {
 "id": "2026-11-09T15:23|Innenräume|Im Gegenlicht",
 "t": "2026-11-09T15:23:00+01:00",
@@ -9040,12 +9046,6 @@
 "t": "2026-11-02T15:44:00+01:00",
 "artist": "Roxy Music",
 "title": "Jealous guy"
-},
-{
-"id": "2026-11-02T15:31|Seeed|Hale-Bopp",
-"t": "2026-11-02T15:31:00+01:00",
-"artist": "Seeed",
-"title": "Hale-Bopp"
 }
 ]
 }
