@@ -1,9 +1,9 @@
 {
-"updated": "2026-11-09T14:01:26.225035+01:00",
+"updated": "2026-11-09T14:13:26.225350+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
-"synced": "2026-11-09T13:49:26.224650+01:00",
+"synced": "2026-11-09T14:05:26.225146+01:00",
 "pruned": "2026-11-09",
 "calls": {
 "2026-11-02": 197,
@@ -13,12 +13,28 @@
 "2026-11-06": 191,
 "2026-11-07": 127,
 "2026-11-08": 111,
-"2026-11-09": 88
+"2026-11-09": 89
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAgGjjhx1lI3uBoXqLzcD+PzfnF5WKx",
+"snapshot": "AAAgG4zqPPLlAjOBVhsRRUMP4df7Hvkt",
 "playlist": [
+[
+"2026-11-09T13:56|All Saints|Under The Bridge",
+"spotify:track:78M2x5ojbdTmUOpWrbijG3"
+],
+[
+"2026-11-09T13:50|Mike D|I Don't Care",
+"spotify:track:6ZnBdUwirE7UhqMlAlV35G"
+],
+[
+"2026-11-09T13:46|Mounika., Ocie Elliott|Tender love",
+"spotify:track:60GK9ifHXOrJXJq46lwILc"
+],
+[
+"2026-11-09T13:42|Modest Mouse|Missed The Boat",
+"spotify:track:4asjU3sDnn3002bTJIg2vZ"
+],
 [
 "2026-11-09T13:36|Chinese American Bear|Dance Dance Dance (Edit)",
 "spotify:track:3Ct3ro3LnsTHjeRVPNSG5s"
@@ -3757,6 +3773,12 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-11-09T14:05|Andrew Collberg|Hi Hopes (Edit)",
+"t": "2026-11-09T14:05:00+01:00",
+"artist": "Andrew Collberg",
+"title": "Hi Hopes (Edit)"
+},
 {
 "id": "2026-11-09T13:56|All Saints|Under The Bridge",
 "t": "2026-11-09T13:56:00+01:00",
@@ -8982,18 +9004,6 @@
 "t": "2026-11-02T14:14:00+01:00",
 "artist": "Django Django",
 "title": "Reflections"
-},
-{
-"id": "2026-11-02T14:08|Freundeskreis feat. Joy Denalane|Mit dir",
-"t": "2026-11-02T14:08:00+01:00",
-"artist": "Freundeskreis feat. Joy Denalane",
-"title": "Mit dir"
-},
-{
-"id": "2026-11-02T14:04|Ayele|Fractured (Radio Edit)",
-"t": "2026-11-02T14:04:00+01:00",
-"artist": "Ayele",
-"title": "Fractured (Radio Edit)"
 }
 ]
 }
