@@ -1,9 +1,9 @@
 {
-"updated": "2026-11-09T12:49:26.222924+01:00",
+"updated": "2026-11-09T13:01:26.223252+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
-"synced": "2026-11-09T12:45:26.222771+01:00",
+"synced": "2026-11-09T13:01:26.223252+01:00",
 "pruned": "2026-11-09",
 "calls": {
 "2026-11-02": 197,
@@ -13,12 +13,28 @@
 "2026-11-06": 191,
 "2026-11-07": 127,
 "2026-11-08": 111,
-"2026-11-09": 72
+"2026-11-09": 76
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAgFfR4zH9QsDLodrevjypAi1bmRUCj",
+"snapshot": "AAAgFm+InHlYrckLrpLKX/ACyncEU3oB",
 "playlist": [
+[
+"2026-11-09T12:54|Tessa Rose Jackson|Built To Collide",
+"spotify:track:69saRCWp2ov8jBLOprFAfE"
+],
+[
+"2026-11-09T12:51|Grace Cummings|I'm Not Crazy",
+"spotify:track:70QaE9UJ2uTVwC4IGS6yvU"
+],
+[
+"2026-11-09T12:48|Jonathan Jeremiah|Happiness (Morgan Geist Remix)",
+"spotify:track:5GEs6KYkV9bzN4HZr6rcRQ"
+],
+[
+"2026-11-09T12:44|Fleetwood Mac|Gypsy",
+"spotify:track:5J0aNEUTxJWKXnQmyY3vUp"
+],
 [
 "2026-11-09T12:41|Eilis Frawley|Taken, Never Erased",
 "spotify:track:5a3IV4xiA81Ucn98CHtJzb"
@@ -3709,6 +3725,30 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-11-09T12:54|Tessa Rose Jackson|Built To Collide",
+"t": "2026-11-09T12:54:00+01:00",
+"artist": "Tessa Rose Jackson",
+"title": "Built To Collide"
+},
+{
+"id": "2026-11-09T12:51|Grace Cummings|I'm Not Crazy",
+"t": "2026-11-09T12:51:00+01:00",
+"artist": "Grace Cummings",
+"title": "I'm Not Crazy"
+},
+{
+"id": "2026-11-09T12:48|Jonathan Jeremiah|Happiness (Morgan Geist Remix)",
+"t": "2026-11-09T12:48:00+01:00",
+"artist": "Jonathan Jeremiah",
+"title": "Happiness (Morgan Geist Remix)"
+},
+{
+"id": "2026-11-09T12:44|Fleetwood Mac|Gypsy",
+"t": "2026-11-09T12:44:00+01:00",
+"artist": "Fleetwood Mac",
+"title": "Gypsy"
+},
 {
 "id": "2026-11-09T12:41|Eilis Frawley|Taken, Never Erased",
 "t": "2026-11-09T12:41:00+01:00",
@@ -8928,18 +8968,6 @@
 "t": "2026-11-02T13:06:00+01:00",
 "artist": "Kutiman & Dekel",
 "title": "Everybody Needs to Be"
-},
-{
-"id": "2026-11-02T12:55|The Sundays|Here's Where The Story Ends",
-"t": "2026-11-02T12:55:00+01:00",
-"artist": "The Sundays",
-"title": "Here's Where The Story Ends"
-},
-{
-"id": "2026-11-02T12:52|Sydney Minsky Sargeant|I Don't Wanna",
-"t": "2026-11-02T12:52:00+01:00",
-"artist": "Sydney Minsky Sargeant",
-"title": "I Don't Wanna"
 }
 ]
 }
