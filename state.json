@@ -1,9 +1,9 @@
 {
-"updated": "2026-11-09T06:16:58.698755+01:00",
+"updated": "2026-11-09T06:28:58.699021+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
-"synced": "2026-11-09T06:12:58.698657+01:00",
+"synced": "2026-11-09T06:28:58.699021+01:00",
 "pruned": "2026-11-09",
 "calls": {
 "2026-11-02": 197,
@@ -13,12 +13,24 @@
 "2026-11-06": 191,
 "2026-11-07": 127,
 "2026-11-08": 111,
-"2026-11-09": 7
+"2026-11-09": 9
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAf+7LwumuZ9fuDyFL0bmqXp+dazDO9",
+"snapshot": "AAAf/BoaevXOIX9ttFa0Vpeef5LiHANW",
 "playlist": [
+[
+"2026-11-09T06:22|Wanda|Jurassic Park",
+"spotify:track:5oLmW39VNRy9I9RtoFOcZv"
+],
+[
+"2026-11-09T06:16|Natalie Jane Hill|Never Left Me",
+"spotify:track:5mYV6uf5S0ChjFoLJWUJHI"
+],
+[
+"2026-11-09T06:11|Django Django|Year Of The Snake",
+"spotify:track:6PyPvKLOukrS1ZJhxPvtDt"
+],
 [
 "2026-11-09T06:04|Alan Braxe feat. Annie|Never Coming Back",
 "spotify:track:0ZtUCVf7uuDAQ7dXGTALEG"
@@ -3461,6 +3473,18 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-11-09T06:22|Wanda|Jurassic Park",
+"t": "2026-11-09T06:22:00+01:00",
+"artist": "Wanda",
+"title": "Jurassic Park"
+},
+{
+"id": "2026-11-09T06:16|Natalie Jane Hill|Never Left Me",
+"t": "2026-11-09T06:16:00+01:00",
+"artist": "Natalie Jane Hill",
+"title": "Never Left Me"
+},
 {
 "id": "2026-11-09T06:11|Django Django|Year Of The Snake",
 "t": "2026-11-09T06:11:00+01:00",
@@ -8674,18 +8698,6 @@
 "t": "2026-11-02T06:36:00+01:00",
 "artist": "Bonobo feat. Joy Crookes",
 "title": "Always on Your Side"
-},
-{
-"id": "2026-11-02T06:27|Orphia|Oberheim",
-"t": "2026-11-02T06:27:00+01:00",
-"artist": "Orphia",
-"title": "Oberheim"
-},
-{
-"id": "2026-11-02T06:19|Kindness|Swingin' Party",
-"t": "2026-11-02T06:19:00+01:00",
-"artist": "Kindness",
-"title": "Swingin' Party"
 }
 ]
 }
