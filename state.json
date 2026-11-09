@@ -1,9 +1,9 @@
 {
-"updated": "2026-11-09T12:01:26.221482+01:00",
+"updated": "2026-11-09T12:13:26.221816+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
-"synced": "2026-11-09T11:57:26.221374+01:00",
+"synced": "2026-11-09T12:13:26.221816+01:00",
 "pruned": "2026-11-09",
 "calls": {
 "2026-11-02": 197,
@@ -13,12 +13,20 @@
 "2026-11-06": 191,
 "2026-11-07": 127,
 "2026-11-08": 111,
-"2026-11-09": 62
+"2026-11-09": 63
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAgEsZNgySgdcfLMd3k1IHEfSwXxQkW",
+"snapshot": "AAAgE+Tl86pOrpc9iZChajIqbrcP12LM",
 "playlist": [
+[
+"2026-11-09T12:05|Leon Bridges|Light The Way",
+"spotify:track:3G1hTUddM2diIyYA0yy9kS"
+],
+[
+"2026-11-09T11:57|Alexander IV & IYAMAH|About Us",
+"spotify:track:0c3tXpFKZilDSR3yAphPZt"
+],
 [
 "2026-11-09T11:51|Erika De Casier|Delusional",
 "spotify:track:6M5Y8sn5cXePK58bH1WKon"
@@ -3673,6 +3681,18 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-11-09T12:05|Leon Bridges|Light The Way",
+"t": "2026-11-09T12:05:00+01:00",
+"artist": "Leon Bridges",
+"title": "Light The Way"
+},
+{
+"id": "2026-11-09T11:57|Alexander IV & IYAMAH|About Us",
+"t": "2026-11-09T11:57:00+01:00",
+"artist": "Alexander IV & IYAMAH",
+"title": "About Us"
+},
 {
 "id": "2026-11-09T11:51|Erika De Casier|Delusional",
 "t": "2026-11-09T11:51:00+01:00",
@@ -8904,18 +8924,6 @@
 "t": "2026-11-02T12:18:00+01:00",
 "artist": "Mercury Rev",
 "title": "Goddess On A Hiway"
-},
-{
-"id": "2026-11-02T12:09|M83|Reunion",
-"t": "2026-11-02T12:09:00+01:00",
-"artist": "M83",
-"title": "Reunion"
-},
-{
-"id": "2026-11-02T12:05|Interpol|Iron City",
-"t": "2026-11-02T12:05:00+01:00",
-"artist": "Interpol",
-"title": "Iron City"
 }
 ]
 }
