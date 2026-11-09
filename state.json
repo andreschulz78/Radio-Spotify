@@ -1,9 +1,9 @@
 {
-"updated": "2026-11-09T10:49:26.219378+01:00",
+"updated": "2026-11-09T11:01:26.219775+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
-"synced": "2026-11-09T10:37:26.219029+01:00",
+"synced": "2026-11-09T10:53:26.219519+01:00",
 "pruned": "2026-11-09",
 "calls": {
 "2026-11-02": 197,
@@ -13,12 +13,20 @@
 "2026-11-06": 191,
 "2026-11-07": 127,
 "2026-11-08": 111,
-"2026-11-09": 37
+"2026-11-09": 44
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAgBnput/+Nmi6m9GyDTacUFxX426fn",
+"snapshot": "AAAgC64t8kEdOaNTe0FEsBplOJtqb96j",
 "playlist": [
+[
+"2026-11-09T10:45|Alabama Shakes|Don't Wanna Fight",
+"spotify:track:7JF65QwbU9rtZrLYLLnNE7"
+],
+[
+"2026-11-09T10:34|Nourished by Time|When The War Is Over",
+"spotify:track:6CSpmRlGT82RrGNJotD9gJ"
+],
 [
 "2026-11-09T10:29|Anna F.|Friedberg",
 "spotify:track:1wQK2qxr1DLZRwhCVj0e2V"
@@ -52,8 +60,20 @@
 "spotify:track:1uLBaUVurwbtHnyAlD7ExO"
 ],
 [
+"2026-11-09T09:43|Kings Of Convenience|Fever",
+"spotify:track:0HcjuZfdMuKHCspb20Pshj"
+],
+[
+"2026-11-09T09:34|Avalon Emerson|Hot Evening",
+"spotify:track:61Ohkz38H1toZTXXEDnvY8"
+],
+[
 "2026-11-09T09:26|Paul Kalkbrenner|Graf Zahl (Edit)",
 "spotify:track:33R7eq2Yqrhjz7eP6XhCsy"
+],
+[
+"2026-11-09T09:23|Sly & The Family Stone|Family Affair",
+"spotify:track:4m2puCJzXRjyjwkbtOMhj2"
 ],
 [
 "2026-11-09T09:18|SOFY|50/50",
@@ -64,8 +84,20 @@
 "spotify:track:43KS2LpjMVkvJdprLaoQxQ"
 ],
 [
+"2026-11-09T09:05|Foxwarren|Listen2me",
+"spotify:track:29WWHCuzU0OCWTfiBKbOm1"
+],
+[
+"2026-11-09T08:54|Urban Species|Woman",
+"spotify:track:06yOVBBnuLmPU7GdpWZZQb"
+],
+[
 "2026-11-09T08:47|Genesis Owusu|Human Again",
 "spotify:track:3uP7jqdt4haiuL4acLhrDY"
+],
+[
+"2026-11-09T08:40|Nichtseattle|Meine Ladies",
+"spotify:track:2KzhbaZMPr8G4oOAS1jnvu"
 ],
 [
 "2026-11-09T08:33|Alewya|Cairo FM",
@@ -3589,6 +3621,18 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-11-09T10:49|FLEECE|Where’s My Beach Hat",
+"t": "2026-11-09T10:49:00+01:00",
+"artist": "FLEECE",
+"title": "Where’s My Beach Hat"
+},
+{
+"id": "2026-11-09T10:45|Alabama Shakes|Don't Wanna Fight",
+"t": "2026-11-09T10:45:00+01:00",
+"artist": "Alabama Shakes",
+"title": "Don't Wanna Fight"
+},
 {
 "id": "2026-11-09T10:34|Nourished by Time|When The War Is Over",
 "t": "2026-11-09T10:34:00+01:00",
@@ -8814,18 +8858,6 @@
 "t": "2026-11-02T11:07:00+01:00",
 "artist": "Death Cab For Cutie",
 "title": "Pep Talk"
-},
-{
-"id": "2026-11-02T10:58|Hooverphonic|The World Is Mine",
-"t": "2026-11-02T10:58:00+01:00",
-"artist": "Hooverphonic",
-"title": "The World Is Mine"
-},
-{
-"id": "2026-11-02T10:51|Phoenix|Lisztomania (Radio Edit)",
-"t": "2026-11-02T10:51:00+01:00",
-"artist": "Phoenix",
-"title": "Lisztomania (Radio Edit)"
 }
 ]
 }
