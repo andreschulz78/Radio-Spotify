@@ -1,9 +1,9 @@
 {
-"updated": "2026-11-09T11:37:26.220807+01:00",
+"updated": "2026-11-09T11:49:26.221137+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
-"synced": "2026-11-09T11:25:26.220466+01:00",
+"synced": "2026-11-09T11:41:26.220885+01:00",
 "pruned": "2026-11-09",
 "calls": {
 "2026-11-02": 197,
@@ -13,12 +13,24 @@
 "2026-11-06": 191,
 "2026-11-07": 127,
 "2026-11-08": 111,
-"2026-11-09": 54
+"2026-11-09": 59
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAgELoGLnf+VhHKKqTv9w9oOsrKeWJe",
+"snapshot": "AAAgEQD1ucbTUv1mjtGqhMjU6Nmzxe+a",
 "playlist": [
+[
+"2026-11-09T11:34|Hermanos Gutierrez feat. Leon Bridges|Elegantly Wasted",
+"spotify:track:4cKkrTYbkWnu96lWNRFcRq"
+],
+[
+"2026-11-09T11:29|Hot Chip|Random Violence (Radio Edit)",
+"spotify:track:0T3vTM8KUAwGMukdAhNVj2"
+],
+[
+"2026-11-09T11:25|Oh Pep!|Doctor Doctor",
+"spotify:track:2HDggWxdI7KZWShHKltzkK"
+],
 [
 "2026-11-09T11:21|Kronstad 23|Høytrykk",
 "spotify:track:6B44D99N2FplJvlfUBIdzV"
@@ -3645,6 +3657,18 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-11-09T11:40|Aka Kelzz|Memories",
+"t": "2026-11-09T11:40:00+01:00",
+"artist": "Aka Kelzz",
+"title": "Memories"
+},
+{
+"id": "2026-11-09T11:34|Hermanos Gutierrez feat. Leon Bridges|Elegantly Wasted",
+"t": "2026-11-09T11:34:00+01:00",
+"artist": "Hermanos Gutierrez feat. Leon Bridges",
+"title": "Elegantly Wasted"
+},
 {
 "id": "2026-11-09T11:29|Hot Chip|Random Violence (Radio Edit)",
 "t": "2026-11-09T11:29:00+01:00",
@@ -8870,18 +8894,6 @@
 "t": "2026-11-02T11:50:00+01:00",
 "artist": "BIBIZA feat. Nicholas Ofczarek",
 "title": "Discoschnupfen"
-},
-{
-"id": "2026-11-02T11:45|Meshell Ndegeocello feat. Cat Power|Don’t You Want Me",
-"t": "2026-11-02T11:45:00+01:00",
-"artist": "Meshell Ndegeocello feat. Cat Power",
-"title": "Don’t You Want Me"
-},
-{
-"id": "2026-11-02T11:40|The Carpenters|Rainy Days And Mondays",
-"t": "2026-11-02T11:40:00+01:00",
-"artist": "The Carpenters",
-"title": "Rainy Days And Mondays"
 }
 ]
 }
