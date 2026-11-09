@@ -1,9 +1,9 @@
 {
-"updated": "2026-11-09T07:40:58.700672+01:00",
+"updated": "2026-11-09T07:52:58.700935+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
-"synced": "2026-11-09T07:32:58.700486+01:00",
+"synced": "2026-11-09T07:48:58.700857+01:00",
 "pruned": "2026-11-09",
 "calls": {
 "2026-11-02": 197,
@@ -13,12 +13,20 @@
 "2026-11-06": 191,
 "2026-11-07": 127,
 "2026-11-08": 111,
-"2026-11-09": 19
+"2026-11-09": 20
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAgAe5kI4fothiJWpK1rgkrYfXL02lq",
+"snapshot": "AAAgAhD/OWEFlzYaP5WkatvISLXYEVEh",
 "playlist": [
+[
+"2026-11-09T07:38|JGrrey feat. Bel Cobain|Take My Hand",
+"spotify:track:0i4SCqKHjbBrPjUX4RPRq3"
+],
+[
+"2026-11-09T07:33|Ethan French|Reckless And Arranged - Day 56",
+"spotify:track:6H2ZSdZkYYW63UM6K2GcFh"
+],
 [
 "2026-11-09T07:24|Everything Everything|Regret",
 "spotify:track:4nEC3tRS88ZcUhhxPrdJcV"
@@ -3501,6 +3509,18 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-11-09T07:44|Luis Laserpower|Mond",
+"t": "2026-11-09T07:44:00+01:00",
+"artist": "Luis Laserpower",
+"title": "Mond"
+},
+{
+"id": "2026-11-09T07:38|JGrrey feat. Bel Cobain|Take My Hand",
+"t": "2026-11-09T07:38:00+01:00",
+"artist": "JGrrey feat. Bel Cobain",
+"title": "Take My Hand"
+},
 {
 "id": "2026-11-09T07:33|Ethan French|Reckless And Arranged - Day 56",
 "t": "2026-11-09T07:33:00+01:00",
@@ -8714,18 +8734,6 @@
 "t": "2026-11-02T07:56:00+01:00",
 "artist": "Republica",
 "title": "Ready To Go"
-},
-{
-"id": "2026-11-02T07:51|Jordan Rakei|Enemies",
-"t": "2026-11-02T07:51:00+01:00",
-"artist": "Jordan Rakei",
-"title": "Enemies"
-},
-{
-"id": "2026-11-02T07:46|Overmono feat. Ruthven|Gem Lingo (ovr now)",
-"t": "2026-11-02T07:46:00+01:00",
-"artist": "Overmono feat. Ruthven",
-"title": "Gem Lingo (ovr now)"
 }
 ]
 }
