@@ -1,9 +1,9 @@
 {
-"updated": "2026-11-09T13:13:26.223592+01:00",
+"updated": "2026-11-09T13:25:26.223941+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
-"synced": "2026-11-09T13:01:26.223252+01:00",
+"synced": "2026-11-09T13:17:26.223700+01:00",
 "pruned": "2026-11-09",
 "calls": {
 "2026-11-02": 197,
@@ -13,12 +13,20 @@
 "2026-11-06": 191,
 "2026-11-07": 127,
 "2026-11-08": 111,
-"2026-11-09": 76
+"2026-11-09": 81
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAgFm+InHlYrckLrpLKX/ACyncEU3oB",
+"snapshot": "AAAgGKcviVRDzyT83oqkXsnh6V2Tse+x",
 "playlist": [
+[
+"2026-11-09T13:09|Metronomy|The Bay",
+"spotify:track:2akjLHnHjDGsgqxuf48VYs"
+],
+[
+"2026-11-09T13:06|Ibeyi|Hurry Hurry",
+"spotify:track:4BGA7VW330Eu1kaFNi98cG"
+],
 [
 "2026-11-09T12:54|Tessa Rose Jackson|Built To Collide",
 "spotify:track:69saRCWp2ov8jBLOprFAfE"
@@ -3428,10 +3436,6 @@
 "spotify:track:5a3IV4xiA81Ucn98CHtJzb"
 ],
 [
-"2026-11-02T13:17|Talking Heads|Burning Down The House",
-"spotify:track:6XlwqMbcTRFavOMgdU7ulg"
-],
-[
 "2026-11-02T13:15|Tränen|Rote Funken",
 "spotify:track:0PkmwgqyKLlVm3bhGl4gMX"
 ],
@@ -3725,6 +3729,36 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-11-09T13:23|JJerome87|Green Velvet",
+"t": "2026-11-09T13:23:00+01:00",
+"artist": "JJerome87",
+"title": "Green Velvet"
+},
+{
+"id": "2026-11-09T13:20|Sinéad O'Connor|No Man's Woman",
+"t": "2026-11-09T13:20:00+01:00",
+"artist": "Sinéad O'Connor",
+"title": "No Man's Woman"
+},
+{
+"id": "2026-11-09T13:17|Jungle|Keep Me Satisfied",
+"t": "2026-11-09T13:17:00+01:00",
+"artist": "Jungle",
+"title": "Keep Me Satisfied"
+},
+{
+"id": "2026-11-09T13:16|Twisted|When We First Met",
+"t": "2026-11-09T13:16:00+01:00",
+"artist": "Twisted",
+"title": "When We First Met"
+},
+{
+"id": "2026-11-09T13:09|Metronomy|The Bay",
+"t": "2026-11-09T13:09:00+01:00",
+"artist": "Metronomy",
+"title": "The Bay"
+},
 {
 "id": "2026-11-09T13:06|Ibeyi|Hurry Hurry",
 "t": "2026-11-09T13:06:00+01:00",
@@ -8938,30 +8972,6 @@
 "t": "2026-11-02T13:28:00+01:00",
 "artist": "Matthias Vogt feat. Pete Josef",
 "title": "Can We All Be Still"
-},
-{
-"id": "2026-11-02T13:24|Grace Cummings|I'm Not Crazy",
-"t": "2026-11-02T13:24:00+01:00",
-"artist": "Grace Cummings",
-"title": "I'm Not Crazy"
-},
-{
-"id": "2026-11-02T13:21|Eilis Frawley|Taken, Never Erased",
-"t": "2026-11-02T13:21:00+01:00",
-"artist": "Eilis Frawley",
-"title": "Taken, Never Erased"
-},
-{
-"id": "2026-11-02T13:17|Talking Heads|Burning Down The House",
-"t": "2026-11-02T13:17:00+01:00",
-"artist": "Talking Heads",
-"title": "Burning Down The House"
-},
-{
-"id": "2026-11-02T13:15|Tränen|Rote Funken",
-"t": "2026-11-02T13:15:00+01:00",
-"artist": "Tränen",
-"title": "Rote Funken"
 }
 ]
 }
