@@ -1,9 +1,9 @@
 {
-"updated": "2026-11-09T15:37:26.227683+01:00",
+"updated": "2026-11-09T15:49:26.228020+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
-"synced": "2026-11-09T15:25:26.227352+01:00",
+"synced": "2026-11-09T15:41:26.227790+01:00",
 "pruned": "2026-11-09",
 "calls": {
 "2026-11-02": 197,
@@ -13,12 +13,16 @@
 "2026-11-06": 191,
 "2026-11-07": 127,
 "2026-11-08": 111,
-"2026-11-09": 111
+"2026-11-09": 112
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAgJP26I61SHKuCIQenA4q1FewayjMi",
+"snapshot": "AAAgJSrLVV6us2id6KxyLiSJdD+/q8kc",
 "playlist": [
+[
+"2026-11-09T15:32|1-800 Girls feat. Art School Girlfriend|sometimes",
+"spotify:track:4akb3UnPEbDpUBc8JdQ5ED"
+],
 [
 "2026-11-09T15:23|Innenräume|Im Gegenlicht",
 "spotify:track:2ubG5Lo2I8hs3GzaVf7vdD"
@@ -9040,12 +9044,6 @@
 "t": "2026-11-02T15:51:00+01:00",
 "artist": "Odd Beholder",
 "title": "Internet Famous"
-},
-{
-"id": "2026-11-02T15:44|Roxy Music|Jealous guy",
-"t": "2026-11-02T15:44:00+01:00",
-"artist": "Roxy Music",
-"title": "Jealous guy"
 }
 ]
 }
