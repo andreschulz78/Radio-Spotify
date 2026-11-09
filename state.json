@@ -1,9 +1,9 @@
 {
-"updated": "2026-11-09T08:40:58.702041+01:00",
+"updated": "2026-11-09T10:37:26.219029+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
-"synced": "2026-11-09T08:36:58.701949+01:00",
+"synced": "2026-11-09T10:37:26.219029+01:00",
 "pruned": "2026-11-09",
 "calls": {
 "2026-11-02": 197,
@@ -13,12 +13,60 @@
 "2026-11-06": 191,
 "2026-11-07": 127,
 "2026-11-08": 111,
-"2026-11-09": 27
+"2026-11-09": 31
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAgBSUr2q5JjwAaYvw+P7JCJPC8kgYt",
+"snapshot": "AAAgBnput/+Nmi6m9GyDTacUFxX426fn",
 "playlist": [
+[
+"2026-11-09T10:29|Anna F.|Friedberg",
+"spotify:track:1wQK2qxr1DLZRwhCVj0e2V"
+],
+[
+"2026-11-09T10:24|Natalie Bergmann|White Oak (Kosta G. Remix)",
+"spotify:track:18PftHVAUSO5vTwdeRa7Lv"
+],
+[
+"2026-11-09T10:21|Sam Evian|Wild Days (Radio Edit)",
+"spotify:track:4J1zHD22PDW4Jdw6XYXs28"
+],
+[
+"2026-11-09T10:17|Ayele|Fractured (Radio Edit)",
+"spotify:track:5EGnOBL2qoUNard3Oaq5Hc"
+],
+[
+"2026-11-09T10:08|TOMORA|The Thing (Edit)",
+"spotify:track:43EE1xyVwIskJP13cJZJ6j"
+],
+[
+"2026-11-09T10:05|Get Well Soon|Siri, What Ruined The West ?",
+"spotify:track:3XY1xxFHeGHDDt33V6GoE2"
+],
+[
+"2026-11-09T09:55|Queen|I Want To Break Free",
+"spotify:track:5cPO74Ohhs2t8WrWs9v0dW"
+],
+[
+"2026-11-09T09:47|Odd Beholder|Your Emancipation",
+"spotify:track:1uLBaUVurwbtHnyAlD7ExO"
+],
+[
+"2026-11-09T09:26|Paul Kalkbrenner|Graf Zahl (Edit)",
+"spotify:track:33R7eq2Yqrhjz7eP6XhCsy"
+],
+[
+"2026-11-09T09:18|SOFY|50/50",
+"spotify:track:16QLv8xt9nPNBZCBDm3Gkv"
+],
+[
+"2026-11-09T09:12|Yard Act|You're Gonna Need A Little Music",
+"spotify:track:43KS2LpjMVkvJdprLaoQxQ"
+],
+[
+"2026-11-09T08:47|Genesis Owusu|Human Again",
+"spotify:track:3uP7jqdt4haiuL4acLhrDY"
+],
 [
 "2026-11-09T08:33|Alewya|Cairo FM",
 "spotify:track:6v7hCIRoJkuYShT0wls1gD"
@@ -3541,6 +3589,114 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-11-09T10:29|Anna F.|Friedberg",
+"t": "2026-11-09T10:29:00+01:00",
+"artist": "Anna F.",
+"title": "Friedberg"
+},
+{
+"id": "2026-11-09T10:24|Natalie Bergmann|White Oak (Kosta G. Remix)",
+"t": "2026-11-09T10:24:00+01:00",
+"artist": "Natalie Bergmann",
+"title": "White Oak (Kosta G. Remix)"
+},
+{
+"id": "2026-11-09T10:21|Sam Evian|Wild Days (Radio Edit)",
+"t": "2026-11-09T10:21:00+01:00",
+"artist": "Sam Evian",
+"title": "Wild Days (Radio Edit)"
+},
+{
+"id": "2026-11-09T10:17|Ayele|Fractured (Radio Edit)",
+"t": "2026-11-09T10:17:00+01:00",
+"artist": "Ayele",
+"title": "Fractured (Radio Edit)"
+},
+{
+"id": "2026-11-09T10:08|TOMORA|The Thing (Edit)",
+"t": "2026-11-09T10:08:00+01:00",
+"artist": "TOMORA",
+"title": "The Thing (Edit)"
+},
+{
+"id": "2026-11-09T10:05|Get Well Soon|Siri, What Ruined The West ?",
+"t": "2026-11-09T10:05:00+01:00",
+"artist": "Get Well Soon",
+"title": "Siri, What Ruined The West ?"
+},
+{
+"id": "2026-11-09T09:55|Queen|I Want To Break Free",
+"t": "2026-11-09T09:55:00+01:00",
+"artist": "Queen",
+"title": "I Want To Break Free"
+},
+{
+"id": "2026-11-09T09:47|Odd Beholder|Your Emancipation",
+"t": "2026-11-09T09:47:00+01:00",
+"artist": "Odd Beholder",
+"title": "Your Emancipation"
+},
+{
+"id": "2026-11-09T09:43|Kings Of Convenience|Fever",
+"t": "2026-11-09T09:43:00+01:00",
+"artist": "Kings Of Convenience",
+"title": "Fever"
+},
+{
+"id": "2026-11-09T09:34|Avalon Emerson|Hot Evening",
+"t": "2026-11-09T09:34:00+01:00",
+"artist": "Avalon Emerson",
+"title": "Hot Evening"
+},
+{
+"id": "2026-11-09T09:26|Paul Kalkbrenner|Graf Zahl (Edit)",
+"t": "2026-11-09T09:26:00+01:00",
+"artist": "Paul Kalkbrenner",
+"title": "Graf Zahl (Edit)"
+},
+{
+"id": "2026-11-09T09:23|Sly & The Family Stone|Family Affair",
+"t": "2026-11-09T09:23:00+01:00",
+"artist": "Sly & The Family Stone",
+"title": "Family Affair"
+},
+{
+"id": "2026-11-09T09:18|SOFY|50/50",
+"t": "2026-11-09T09:18:00+01:00",
+"artist": "SOFY",
+"title": "50/50"
+},
+{
+"id": "2026-11-09T09:12|Yard Act|You're Gonna Need A Little Music",
+"t": "2026-11-09T09:12:00+01:00",
+"artist": "Yard Act",
+"title": "You're Gonna Need A Little Music"
+},
+{
+"id": "2026-11-09T09:05|Foxwarren|Listen2me",
+"t": "2026-11-09T09:05:00+01:00",
+"artist": "Foxwarren",
+"title": "Listen2me"
+},
+{
+"id": "2026-11-09T08:54|Urban Species|Woman",
+"t": "2026-11-09T08:54:00+01:00",
+"artist": "Urban Species",
+"title": "Woman"
+},
+{
+"id": "2026-11-09T08:47|Genesis Owusu|Human Again",
+"t": "2026-11-09T08:47:00+01:00",
+"artist": "Genesis Owusu",
+"title": "Human Again"
+},
+{
+"id": "2026-11-09T08:40|Nichtseattle|Meine Ladies",
+"t": "2026-11-09T08:40:00+01:00",
+"artist": "Nichtseattle",
+"title": "Meine Ladies"
+},
 {
 "id": "2026-11-09T08:33|Alewya|Cairo FM",
 "t": "2026-11-09T08:33:00+01:00",
@@ -8670,108 +8826,6 @@
 "t": "2026-11-02T10:39:00+01:00",
 "artist": "CECI feat. Lords of Lounge",
 "title": "Honey Honey"
-},
-{
-"id": "2026-11-02T10:31|Joy Wellboy|Lay Down Your Blade",
-"t": "2026-11-02T10:31:00+01:00",
-"artist": "Joy Wellboy",
-"title": "Lay Down Your Blade"
-},
-{
-"id": "2026-11-02T10:25|RUN-D.M.C.vs. Aerosmith|Walk This Way",
-"t": "2026-11-02T10:25:00+01:00",
-"artist": "RUN-D.M.C.vs. Aerosmith",
-"title": "Walk This Way"
-},
-{
-"id": "2026-11-02T10:21|Aurora|All My Demons Greeting Me As A Friend",
-"t": "2026-11-02T10:21:00+01:00",
-"artist": "Aurora",
-"title": "All My Demons Greeting Me As A Friend"
-},
-{
-"id": "2026-11-02T10:18|Django Django|Cameos",
-"t": "2026-11-02T10:18:00+01:00",
-"artist": "Django Django",
-"title": "Cameos"
-},
-{
-"id": "2026-11-02T10:09|Bedouine|Deghma Cheega",
-"t": "2026-11-02T10:09:00+01:00",
-"artist": "Bedouine",
-"title": "Deghma Cheega"
-},
-{
-"id": "2026-11-02T10:05|LCD Soundsystem|I Can Change",
-"t": "2026-11-02T10:05:00+01:00",
-"artist": "LCD Soundsystem",
-"title": "I Can Change"
-},
-{
-"id": "2026-11-02T09:56|Bleachers|the van",
-"t": "2026-11-02T09:56:00+01:00",
-"artist": "Bleachers",
-"title": "the van"
-},
-{
-"id": "2026-11-02T09:49|Island|All in My Head",
-"t": "2026-11-02T09:49:00+01:00",
-"artist": "Island",
-"title": "All in My Head"
-},
-{
-"id": "2026-11-02T09:44|Christine And The Queens|Full Of Life",
-"t": "2026-11-02T09:44:00+01:00",
-"artist": "Christine And The Queens",
-"title": "Full Of Life"
-},
-{
-"id": "2026-11-02T09:36|Methyl Ethel|Ruiner",
-"t": "2026-11-02T09:36:00+01:00",
-"artist": "Methyl Ethel",
-"title": "Ruiner"
-},
-{
-"id": "2026-11-02T09:27|Wallners|Movie Stars",
-"t": "2026-11-02T09:27:00+01:00",
-"artist": "Wallners",
-"title": "Movie Stars"
-},
-{
-"id": "2026-11-02T09:21|Al Green|Let's Stay Together",
-"t": "2026-11-02T09:21:00+01:00",
-"artist": "Al Green",
-"title": "Let's Stay Together"
-},
-{
-"id": "2026-11-02T09:15|Mykki Blanco feat. ANOHNI & Kelsey Lu|French Lessons",
-"t": "2026-11-02T09:15:00+01:00",
-"artist": "Mykki Blanco feat. ANOHNI & Kelsey Lu",
-"title": "French Lessons"
-},
-{
-"id": "2026-11-02T09:07|Totally Enormous Extinct Dinosaurs|The Distance (Edit)",
-"t": "2026-11-02T09:07:00+01:00",
-"artist": "Totally Enormous Extinct Dinosaurs",
-"title": "The Distance (Edit)"
-},
-{
-"id": "2026-11-02T08:55|Lola Young|From Down Here (Radio Edit)",
-"t": "2026-11-02T08:55:00+01:00",
-"artist": "Lola Young",
-"title": "From Down Here (Radio Edit)"
-},
-{
-"id": "2026-11-02T08:48|Kings Of Leon|My Whole World",
-"t": "2026-11-02T08:48:00+01:00",
-"artist": "Kings Of Leon",
-"title": "My Whole World"
-},
-{
-"id": "2026-11-02T08:41|Neal Francis|Hide",
-"t": "2026-11-02T08:41:00+01:00",
-"artist": "Neal Francis",
-"title": "Hide"
 }
 ]
 }
