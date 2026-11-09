@@ -1,9 +1,9 @@
 {
-"updated": "2026-11-09T11:49:26.221137+01:00",
+"updated": "2026-11-09T12:01:26.221482+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
-"synced": "2026-11-09T11:41:26.220885+01:00",
+"synced": "2026-11-09T11:57:26.221374+01:00",
 "pruned": "2026-11-09",
 "calls": {
 "2026-11-02": 197,
@@ -13,12 +13,28 @@
 "2026-11-06": 191,
 "2026-11-07": 127,
 "2026-11-08": 111,
-"2026-11-09": 59
+"2026-11-09": 62
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAgEQD1ucbTUv1mjtGqhMjU6Nmzxe+a",
+"snapshot": "AAAgEsZNgySgdcfLMd3k1IHEfSwXxQkW",
 "playlist": [
+[
+"2026-11-09T11:51|Erika De Casier|Delusional",
+"spotify:track:6M5Y8sn5cXePK58bH1WKon"
+],
+[
+"2026-11-09T11:48|Leron Thomas|Don't You Know",
+"spotify:track:5OGqJs1n2p0dH3hzMLFlel"
+],
+[
+"2026-11-09T11:45|Royel Otis|Nack Nostalgia",
+"spotify:track:5MAKcQ6f6QvqZE21KD2AW5"
+],
+[
+"2026-11-09T11:40|Aka Kelzz|Memories",
+"spotify:track:2VhET892wU8tKC33Y9OfdB"
+],
 [
 "2026-11-09T11:34|Hermanos Gutierrez feat. Leon Bridges|Elegantly Wasted",
 "spotify:track:4cKkrTYbkWnu96lWNRFcRq"
@@ -3657,6 +3673,24 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-11-09T11:51|Erika De Casier|Delusional",
+"t": "2026-11-09T11:51:00+01:00",
+"artist": "Erika De Casier",
+"title": "Delusional"
+},
+{
+"id": "2026-11-09T11:48|Leron Thomas|Don't You Know",
+"t": "2026-11-09T11:48:00+01:00",
+"artist": "Leron Thomas",
+"title": "Don't You Know"
+},
+{
+"id": "2026-11-09T11:45|Royel Otis|Nack Nostalgia",
+"t": "2026-11-09T11:45:00+01:00",
+"artist": "Royel Otis",
+"title": "Nack Nostalgia"
+},
 {
 "id": "2026-11-09T11:40|Aka Kelzz|Memories",
 "t": "2026-11-09T11:40:00+01:00",
@@ -8882,18 +8916,6 @@
 "t": "2026-11-02T12:05:00+01:00",
 "artist": "Interpol",
 "title": "Iron City"
-},
-{
-"id": "2026-11-02T11:56|Keshavara|Oracular",
-"t": "2026-11-02T11:56:00+01:00",
-"artist": "Keshavara",
-"title": "Oracular"
-},
-{
-"id": "2026-11-02T11:50|BIBIZA feat. Nicholas Ofczarek|Discoschnupfen",
-"t": "2026-11-02T11:50:00+01:00",
-"artist": "BIBIZA feat. Nicholas Ofczarek",
-"title": "Discoschnupfen"
 }
 ]
 }
