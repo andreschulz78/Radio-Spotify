@@ -1,9 +1,9 @@
 {
-"updated": "2026-11-09T14:49:26.226464+01:00",
+"updated": "2026-11-09T15:01:26.226755+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
-"synced": "2026-11-09T14:37:26.226067+01:00",
+"synced": "2026-11-09T14:53:26.226571+01:00",
 "pruned": "2026-11-09",
 "calls": {
 "2026-11-02": 197,
@@ -13,12 +13,24 @@
 "2026-11-06": 191,
 "2026-11-07": 127,
 "2026-11-08": 111,
-"2026-11-09": 100
+"2026-11-09": 104
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAgH/TBuwtpC1kTYljzcs5cC6CE9JAZ",
+"snapshot": "AAAgII5rebyVA5Y6wGdlPyO88hgHwJTj",
 "playlist": [
+[
+"2026-11-09T14:44|Apparat|Little Feet (Radio Edit)",
+"spotify:track:4urSQgCa5bJxrncJj6V68e"
+],
+[
+"2026-11-09T14:41|Steven Wilson|On chapel slope (Edit)",
+"spotify:track:21txvwAqhszJq4tgP6rNww"
+],
+[
+"2026-11-09T14:36|Mk.gee|Rockman",
+"spotify:track:63ABAnFKJCp28TAyqf2cGL"
+],
 [
 "2026-11-09T14:32|The Big Moon|F.O.R.E.V.E.R",
 "spotify:track:0UaPOdi1O83vr1oTXaGqgx"
@@ -3793,6 +3805,24 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-11-09T14:57|Pachyman|Trago Coqueto",
+"t": "2026-11-09T14:57:00+01:00",
+"artist": "Pachyman",
+"title": "Trago Coqueto"
+},
+{
+"id": "2026-11-09T14:49|Nuyorican Soul|I Am The Black Gold Of The Sun",
+"t": "2026-11-09T14:49:00+01:00",
+"artist": "Nuyorican Soul",
+"title": "I Am The Black Gold Of The Sun"
+},
+{
+"id": "2026-11-09T14:44|Apparat|Little Feet (Radio Edit)",
+"t": "2026-11-09T14:44:00+01:00",
+"artist": "Apparat",
+"title": "Little Feet (Radio Edit)"
+},
 {
 "id": "2026-11-09T14:41|Steven Wilson|On chapel slope (Edit)",
 "t": "2026-11-09T14:41:00+01:00",
@@ -9000,18 +9030,6 @@
 "t": "2026-11-02T15:05:00+01:00",
 "artist": "Daughter",
 "title": "Party"
-},
-{
-"id": "2026-11-02T14:56|Sparkling & COMA|It Won't Be Like This Forever",
-"t": "2026-11-02T14:56:00+01:00",
-"artist": "Sparkling & COMA",
-"title": "It Won't Be Like This Forever"
-},
-{
-"id": "2026-11-02T14:50|Jefferson Airplane|White Rabbit",
-"t": "2026-11-02T14:50:00+01:00",
-"artist": "Jefferson Airplane",
-"title": "White Rabbit"
 }
 ]
 }
