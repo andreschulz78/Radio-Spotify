@@ -1,10 +1,10 @@
 {
-"updated": "2026-11-09T03:52:58.695369+01:00",
+"updated": "2026-11-09T04:04:58.695668+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
-"synced": "2026-11-08T14:08:37.084374+01:00",
-"pruned": "2026-11-08",
+"synced": "2026-11-09T04:00:58.695572+01:00",
+"pruned": "2026-11-09",
 "calls": {
 "2026-11-02": 197,
 "2026-11-03": 174,
@@ -12,11 +12,11 @@
 "2026-11-05": 165,
 "2026-11-06": 191,
 "2026-11-07": 127,
-"2026-11-08": 95
+"2026-11-08": 104
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAf61WL0gRB3SxTmCtk0bz5Ai3k0DgV",
+"snapshot": "AAAf9NUB3SMy7Iqa8jxH7pZ3cDjxkFsZ",
 "playlist": [
 [
 "2026-11-08T13:51|J.Bernardt|Love Is On My Mind",
@@ -3417,226 +3417,6 @@
 [
 "2026-11-02T05:03|Brigitte Calls Me Baby|The Future is Our Way Out",
 "spotify:track:5trl9gPUhMMRNB2BRzf9cG"
-],
-[
-"2026-11-01T11:57|Antony Szmierek|Chalk (Radio Edit)",
-"spotify:track:5HdeMdzAlNKwCM4L9cjehN"
-],
-[
-"2026-11-01T11:53|Missincat|Back On My Feet",
-"spotify:track:4Lj6orCl0ZM7DoTBuzsEco"
-],
-[
-"2026-11-01T11:50|Aaron|Blouson noir",
-"spotify:track:4OvluvK1a6uwxUhwBxMbnY"
-],
-[
-"2026-11-01T11:47|Ibeyi|Hurry Hurry",
-"spotify:track:4BGA7VW330Eu1kaFNi98cG"
-],
-[
-"2026-11-01T11:36|Crowded House|Nails In My Feet",
-"spotify:track:7FNqD0gR84UhwRjM5eLeUI"
-],
-[
-"2026-11-01T11:32|Olivia Dean|Man I Need",
-"spotify:track:1qbmS6ep2hbBRaEZFpn7BX"
-],
-[
-"2026-11-01T11:25|Nightmares On Wax feat. Mozez|You Wish (Abbey Road Fuzz Gospel Version)",
-"spotify:track:6G6M4fl2I0eqEQnzyTwR8m"
-],
-[
-"2026-11-01T11:16|Sofi Tukker|Matadora",
-"spotify:track:2AtleKEZy5KkmlAj0krALx"
-],
-[
-"2026-11-01T11:09|The Egg|Wall",
-"spotify:track:2PJfN3cFFzfJu78cI5B2Si"
-],
-[
-"2026-11-01T11:05|Leon Bridges|Light The Way",
-"spotify:track:3G1hTUddM2diIyYA0yy9kS"
-],
-[
-"2026-11-01T10:57|Wallners|Movie Stars",
-"spotify:track:7xesRbRs3O1MLOgWqMSN7a"
-],
-[
-"2026-11-01T10:50|David Bowie|Helden (Heroes)",
-"spotify:track:7dCiqEHU97OX7mkRG1Kdjm"
-],
-[
-"2026-11-01T10:48|Ran Nir|I Am With You",
-"spotify:track:4DEaCtz31IiSe0EthgtxX3"
-],
-[
-"2026-11-01T10:41|Grace Cummings|I'm Not Crazy",
-"spotify:track:70QaE9UJ2uTVwC4IGS6yvU"
-],
-[
-"2026-11-01T10:31|Johnny Marr|Hi Hello",
-"spotify:track:2ZKDmfp73hHLIdII19TSK1"
-],
-[
-"2026-11-01T10:16|Talk Talk|Dum Dum Girl",
-"spotify:track:4QeaktgSB7T5m9dap9gTDZ"
-],
-[
-"2026-11-01T10:07|Austra & Patrick Holland|Siren Reprise",
-"spotify:track:678wI419HyRL4qSTbXdyLu"
-],
-[
-"2026-11-01T09:55|Agnes Obel|Laymelli (Edit)",
-"spotify:track:0VzMHjWcs2P24LHLekZ8Qa"
-],
-[
-"2026-11-01T09:51|Yazmin Lacey|Summer Haze",
-"spotify:track:465QjZo1z1JAuLTTC7DnuK"
-],
-[
-"2026-11-01T09:41|Radiohead|Karma Police",
-"spotify:track:63OQupATfueTdZMWTxW03A"
-],
-[
-"2026-11-01T09:25|Super 700|Under The No Sky",
-"spotify:track:61Bh0yNIr77hCjMsyYZcKk"
-],
-[
-"2026-11-01T09:15|Gotye feat. Kimbra|Somebody That I Used To Know",
-"spotify:track:0agQ9vIV7NP4dntGKLcCXO"
-],
-[
-"2026-11-01T09:11|Alewya|Cairo FM",
-"spotify:track:6v7hCIRoJkuYShT0wls1gD"
-],
-[
-"2026-11-01T09:05|White Lies|To Lose My Life",
-"spotify:track:1bSRdNo2alwkSqo2HPjDc5"
-],
-[
-"2026-11-01T08:56|Freundeskreis|Anna (A-n-n-a)",
-"spotify:track:3gJXx3urNXLO79WJlbwNFf"
-],
-[
-"2026-11-01T08:54|Frances Forever|Space Girl",
-"spotify:track:5JNot6ITMQC5cnDLyVemYh"
-],
-[
-"2026-11-01T08:50|Erobique feat. Luis Baltes|Salut Les Copines! (Single Edit)",
-"spotify:track:7jLBzj4MQ9BULdgjXqxZOW"
-],
-[
-"2026-11-01T08:46|Flora Hibberd|Bowling Ball",
-"spotify:track:2Bqy2DIYw0DXkZj8gHTg2p"
-],
-[
-"2026-11-01T08:35|Kelis|Friday Fish Fry",
-"spotify:track:0zUeB5LCy9UVAjMEOW2gSc"
-],
-[
-"2026-11-01T08:31|Tikhet|Burndowner",
-"spotify:track:76iRkapw7dHIlJhSoy7PCv"
-],
-[
-"2026-11-01T08:25|Yard Act|Janey Said (Edit)",
-"spotify:track:0mV0B0SbcF6CMSdDyDNYpR"
-],
-[
-"2026-11-01T08:16|Peter Gabriel|Sledgehammer",
-"spotify:track:029NqmIySn1kOY305AAhxT"
-],
-[
-"2026-11-01T08:05|Dionne Bromfield|Yeah Right",
-"spotify:track:7Izz9Uh8e05T7KkBWf1oBm"
-],
-[
-"2026-11-01T07:57|Carrtoons feat. Hailé Supreme|Labor Of Love",
-"spotify:track:0Vh4cYw0m2xqUzihLHpK61"
-],
-[
-"2026-11-01T07:51|Stevie Wonder|All I Do",
-"spotify:track:0k3fBeBIcok5gbYQyQbxP5"
-],
-[
-"2026-11-01T07:41|Ayele|Fractured (Radio Edit)",
-"spotify:track:5EGnOBL2qoUNard3Oaq5Hc"
-],
-[
-"2026-11-01T07:37|Andrew Bird|Sisyphus",
-"spotify:track:403vzOZN0tETDpvFipkNIL"
-],
-[
-"2026-11-01T07:31|Nihils|Lavender",
-"spotify:track:24IHKK4RZRa5WYOEigkp5h"
-],
-[
-"2026-11-01T07:25|The National|Tropic Morning News (Radio Edit)",
-"spotify:track:6TZ6vaiyYeMZzPef9hvnZL"
-],
-[
-"2026-11-01T07:22|Erika De Casier|Delusional",
-"spotify:track:6M5Y8sn5cXePK58bH1WKon"
-],
-[
-"2026-11-01T07:17|Jamie Woon|Night Air",
-"spotify:track:20nUAfp21ZnvsyN2ZY0pKt"
-],
-[
-"2026-11-01T07:11|Nichtseattle|Ich mit Brille",
-"spotify:track:1C0Lpji3kKe7rZie1LC4bx"
-],
-[
-"2026-11-01T07:05|Van Morrison|Real Real Gone",
-"spotify:track:457Fi5oAVUZwSyZwNQ7afu"
-],
-[
-"2026-11-01T06:57|Grover Washington jr & Bill Withers|Just The Two Of Us",
-"spotify:track:5fdNHVZHbWB1AaXk4RBGVD"
-],
-[
-"2026-11-01T06:53|Passion Mango|Bloody Eyes",
-"spotify:track:4YUBcBSUIXfCNNFAaWQcyG"
-],
-[
-"2026-11-01T06:49|Kate Bush|Wild Man",
-"spotify:track:0XCWo7RVAkJXMD9fiK0bFZ"
-],
-[
-"2026-11-01T06:45|Smidley feat. Lucy Dacus|Capstone",
-"spotify:track:0YosJMrYxYQP7mLXfFo0p1"
-],
-[
-"2026-11-01T06:41|Depeche Mode|Personal Jesus",
-"spotify:track:2wUlYDGGXlSvm2NkGj0Qio"
-],
-[
-"2026-11-01T06:35|Kaktus Einarsson feat. John Grant|Follow",
-"spotify:track:0bbPqdrMN94XmIlBQS21B3"
-],
-[
-"2026-11-01T06:32|Sandra Isabel|Kalender",
-"spotify:track:7zirNuxuHUkEhOgBQEhLJf"
-],
-[
-"2026-11-01T06:28|Tracy Chapman|Talkin' Bout A Revolution",
-"spotify:track:0YMFcrMtBowDdD5bPz0cgy"
-],
-[
-"2026-11-01T06:25|Anderson .Paak & Cordae|A Good Day",
-"spotify:track:4CrnExkcZkg6Aek113hAWl"
-],
-[
-"2026-11-01T06:17|Father John Misty|The Payoff (Radio Edit)",
-"spotify:track:2WIcSjSoGt78KKBnzViTdC"
-],
-[
-"2026-11-01T06:12|Pom Poko|Champion",
-"spotify:track:2JCjiw3EWAiR3VCs4QrILe"
-],
-[
-"2026-11-01T06:08|Get Well Soon|Siri, What Ruined The West ?",
-"spotify:track:3XY1xxFHeGHDDt33V6GoE2"
 ]
 ],
 "entries": [
