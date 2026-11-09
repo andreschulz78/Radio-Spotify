@@ -1,5 +1,5 @@
 {
-"updated": "2026-11-09T12:13:26.221816+01:00",
+"updated": "2026-11-09T12:25:26.222215+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
@@ -13,7 +13,7 @@
 "2026-11-06": 191,
 "2026-11-07": 127,
 "2026-11-08": 111,
-"2026-11-09": 63
+"2026-11-09": 66
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
@@ -3681,6 +3681,24 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-11-09T12:19|The Notwist|Projectors",
+"t": "2026-11-09T12:19:00+01:00",
+"artist": "The Notwist",
+"title": "Projectors"
+},
+{
+"id": "2026-11-09T12:15|Mazzy Star|Fade into you",
+"t": "2026-11-09T12:15:00+01:00",
+"artist": "Mazzy Star",
+"title": "Fade into you"
+},
+{
+"id": "2026-11-09T12:08|TORRES|i got the fear",
+"t": "2026-11-09T12:08:00+01:00",
+"artist": "TORRES",
+"title": "i got the fear"
+},
 {
 "id": "2026-11-09T12:05|Leon Bridges|Light The Way",
 "t": "2026-11-09T12:05:00+01:00",
@@ -8906,24 +8924,6 @@
 "t": "2026-11-02T12:31:00+01:00",
 "artist": "Alexander IV & IYAMAH",
 "title": "About Us"
-},
-{
-"id": "2026-11-02T12:25|Bonaparte|KiOSKO",
-"t": "2026-11-02T12:25:00+01:00",
-"artist": "Bonaparte",
-"title": "KiOSKO"
-},
-{
-"id": "2026-11-02T12:21|MorMor feat. Celeste|Like Heaven",
-"t": "2026-11-02T12:21:00+01:00",
-"artist": "MorMor feat. Celeste",
-"title": "Like Heaven"
-},
-{
-"id": "2026-11-02T12:18|Mercury Rev|Goddess On A Hiway",
-"t": "2026-11-02T12:18:00+01:00",
-"artist": "Mercury Rev",
-"title": "Goddess On A Hiway"
 }
 ]
 }
