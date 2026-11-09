@@ -1,9 +1,9 @@
 {
-"updated": "2026-11-09T14:25:26.225707+01:00",
+"updated": "2026-11-09T14:37:26.226067+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
-"synced": "2026-11-09T14:21:26.225559+01:00",
+"synced": "2026-11-09T14:37:26.226067+01:00",
 "pruned": "2026-11-09",
 "calls": {
 "2026-11-02": 197,
@@ -13,12 +13,28 @@
 "2026-11-06": 191,
 "2026-11-07": 127,
 "2026-11-08": 111,
-"2026-11-09": 91
+"2026-11-09": 98
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAgHAPwoM+Vx35brXxl7+x5xR3rlgoi",
+"snapshot": "AAAgH/TBuwtpC1kTYljzcs5cC6CE9JAZ",
 "playlist": [
+[
+"2026-11-09T14:32|The Big Moon|F.O.R.E.V.E.R",
+"spotify:track:0UaPOdi1O83vr1oTXaGqgx"
+],
+[
+"2026-11-09T14:26|Massive Attack|Splitting The Atom",
+"spotify:track:1145Te1fP5ugxI1OyQk2Rq"
+],
+[
+"2026-11-09T14:24|Buffalo Springfield|For What It's Worth",
+"spotify:track:1qRA5BS78u3gME0loMl9AA"
+],
+[
+"2026-11-09T14:19|Nightmares On Wax feat. Mozez|You Wish (Abbey Road Fuzz Gospel Version)",
+"spotify:track:6G6M4fl2I0eqEQnzyTwR8m"
+],
 [
 "2026-11-09T14:16|The Goo Goo Dolls|Iris",
 "spotify:track:6Qyc6fS4DsZjB2mRW9DsQs"
@@ -3412,10 +3428,6 @@
 "spotify:track:69rHKcrQpYGfToPThOV1UB"
 ],
 [
-"2026-11-02T14:37|Editors|Seriously",
-"spotify:track:3dZTrUqLpivFUkSuIpSoyb"
-],
-[
 "2026-11-02T14:34|Editors|Seriously",
 "spotify:track:3dZTrUqLpivFUkSuIpSoyb"
 ],
@@ -3781,6 +3793,24 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-11-09T14:32|The Big Moon|F.O.R.E.V.E.R",
+"t": "2026-11-09T14:32:00+01:00",
+"artist": "The Big Moon",
+"title": "F.O.R.E.V.E.R"
+},
+{
+"id": "2026-11-09T14:26|Massive Attack|Splitting The Atom",
+"t": "2026-11-09T14:26:00+01:00",
+"artist": "Massive Attack",
+"title": "Splitting The Atom"
+},
+{
+"id": "2026-11-09T14:24|Buffalo Springfield|For What It's Worth",
+"t": "2026-11-09T14:24:00+01:00",
+"artist": "Buffalo Springfield",
+"title": "For What It's Worth"
+},
 {
 "id": "2026-11-09T14:19|Nightmares On Wax feat. Mozez|You Wish (Abbey Road Fuzz Gospel Version)",
 "t": "2026-11-09T14:19:00+01:00",
@@ -8982,24 +9012,6 @@
 "t": "2026-11-02T14:41:00+01:00",
 "artist": "Fontaines D.C.",
 "title": "Marianne"
-},
-{
-"id": "2026-11-02T14:37|Editors|Seriously",
-"t": "2026-11-02T14:37:00+01:00",
-"artist": "Editors",
-"title": "Seriously"
-},
-{
-"id": "2026-11-02T14:34|Editors|Seriously",
-"t": "2026-11-02T14:34:00+01:00",
-"artist": "Editors",
-"title": "Seriously"
-},
-{
-"id": "2026-11-02T14:30|Public Service Broadcasting|Electra",
-"t": "2026-11-02T14:30:00+01:00",
-"artist": "Public Service Broadcasting",
-"title": "Electra"
 }
 ]
 }
