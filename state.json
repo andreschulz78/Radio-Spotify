@@ -1,9 +1,9 @@
 {
-"updated": "2026-11-09T13:37:26.224303+01:00",
+"updated": "2026-11-09T13:49:26.224650+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
-"synced": "2026-11-09T13:33:26.224181+01:00",
+"synced": "2026-11-09T13:49:26.224650+01:00",
 "pruned": "2026-11-09",
 "calls": {
 "2026-11-02": 197,
@@ -13,12 +13,20 @@
 "2026-11-06": 191,
 "2026-11-07": 127,
 "2026-11-08": 111,
-"2026-11-09": 82
+"2026-11-09": 84
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAgGa7qXNPxW76aGE7UnwiVcaUhbCP/",
+"snapshot": "AAAgGjjhx1lI3uBoXqLzcD+PzfnF5WKx",
 "playlist": [
+[
+"2026-11-09T13:36|Chinese American Bear|Dance Dance Dance (Edit)",
+"spotify:track:3Ct3ro3LnsTHjeRVPNSG5s"
+],
+[
+"2026-11-09T13:31|Kutiman feat. Dekel|My Everything",
+"spotify:track:3NBweAfNWhU9Zu1xDLHAR8"
+],
 [
 "2026-11-09T13:26|Vince Staples|Tulsa, OK",
 "spotify:track:4lyK8sT0dLpxSBv14wtVet"
@@ -3749,6 +3757,12 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-11-09T13:36|Chinese American Bear|Dance Dance Dance (Edit)",
+"t": "2026-11-09T13:36:00+01:00",
+"artist": "Chinese American Bear",
+"title": "Dance Dance Dance (Edit)"
+},
 {
 "id": "2026-11-09T13:31|Kutiman feat. Dekel|My Everything",
 "t": "2026-11-09T13:31:00+01:00",
@@ -8968,24 +8982,6 @@
 "t": "2026-11-02T13:51:00+01:00",
 "artist": "EELS",
 "title": "Congratulations To Me"
-},
-{
-"id": "2026-11-02T13:48|Andrew Bird|Make A Picture",
-"t": "2026-11-02T13:48:00+01:00",
-"artist": "Andrew Bird",
-"title": "Make A Picture"
-},
-{
-"id": "2026-11-02T13:44|Madison Cunningham|Golden Gate (On And On)",
-"t": "2026-11-02T13:44:00+01:00",
-"artist": "Madison Cunningham",
-"title": "Golden Gate (On And On)"
-},
-{
-"id": "2026-11-02T13:39|Kevin Morby|Gift Horse",
-"t": "2026-11-02T13:39:00+01:00",
-"artist": "Kevin Morby",
-"title": "Gift Horse"
 }
 ]
 }
