@@ -1,9 +1,9 @@
 {
-"updated": "2026-11-09T12:25:26.222215+01:00",
+"updated": "2026-11-09T12:37:26.222525+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
-"synced": "2026-11-09T12:13:26.221816+01:00",
+"synced": "2026-11-09T12:29:26.222304+01:00",
 "pruned": "2026-11-09",
 "calls": {
 "2026-11-02": 197,
@@ -13,12 +13,24 @@
 "2026-11-06": 191,
 "2026-11-07": 127,
 "2026-11-08": 111,
-"2026-11-09": 66
+"2026-11-09": 69
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAgE+Tl86pOrpc9iZChajIqbrcP12LM",
+"snapshot": "AAAgFETKyYtQJ9h3nFOQLMJDsw0TEJl6",
 "playlist": [
+[
+"2026-11-09T12:19|The Notwist|Projectors",
+"spotify:track:6ndNhNpPvowtCtjHkMVAgi"
+],
+[
+"2026-11-09T12:15|Mazzy Star|Fade into you",
+"spotify:track:1LzNfuep1bnAUR9skqdHCK"
+],
+[
+"2026-11-09T12:08|TORRES|i got the fear",
+"spotify:track:6QvzCjpCVDLoMdPfrLpdEG"
+],
 [
 "2026-11-09T12:05|Leon Bridges|Light The Way",
 "spotify:track:3G1hTUddM2diIyYA0yy9kS"
@@ -3681,6 +3693,18 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-11-09T12:30|Keimzeit|Ein schöner Tag",
+"t": "2026-11-09T12:30:00+01:00",
+"artist": "Keimzeit",
+"title": "Ein schöner Tag"
+},
+{
+"id": "2026-11-09T12:24|Jack Johnson|My Mind Is For Sale",
+"t": "2026-11-09T12:24:00+01:00",
+"artist": "Jack Johnson",
+"title": "My Mind Is For Sale"
+},
 {
 "id": "2026-11-09T12:19|The Notwist|Projectors",
 "t": "2026-11-09T12:19:00+01:00",
@@ -8906,24 +8930,6 @@
 "t": "2026-11-02T12:40:00+01:00",
 "artist": "Madrugada",
 "title": "Shine"
-},
-{
-"id": "2026-11-02T12:37|L'Rain|Elmyra (Edit)",
-"t": "2026-11-02T12:37:00+01:00",
-"artist": "L'Rain",
-"title": "Elmyra (Edit)"
-},
-{
-"id": "2026-11-02T12:33|Daft Punk|Voyager",
-"t": "2026-11-02T12:33:00+01:00",
-"artist": "Daft Punk",
-"title": "Voyager"
-},
-{
-"id": "2026-11-02T12:31|Alexander IV & IYAMAH|About Us",
-"t": "2026-11-02T12:31:00+01:00",
-"artist": "Alexander IV & IYAMAH",
-"title": "About Us"
 }
 ]
 }
