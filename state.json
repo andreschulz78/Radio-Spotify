@@ -1,9 +1,9 @@
 {
-"updated": "2026-11-09T05:04:58.697108+01:00",
+"updated": "2026-11-09T05:16:58.697373+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
-"synced": "2026-11-09T04:00:58.695572+01:00",
+"synced": "2026-11-09T05:08:58.697201+01:00",
 "pruned": "2026-11-09",
 "calls": {
 "2026-11-02": 197,
@@ -12,12 +12,16 @@
 "2026-11-05": 165,
 "2026-11-06": 191,
 "2026-11-07": 127,
-"2026-11-08": 104
+"2026-11-08": 109
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAf9NUB3SMy7Iqa8jxH7pZ3cDjxkFsZ",
+"snapshot": "AAAf9hBdGk4cxeLuKaw/fVFGf/HzTwO4",
 "playlist": [
+[
+"2026-11-09T05:03|Slowdive|Kisses (Radio Edit)",
+"spotify:track:7LuPjGUfJqxuW14W4gMrU2"
+],
 [
 "2026-11-08T13:51|J.Bernardt|Love Is On My Mind",
 "spotify:track:4LuP3veDBkqnyLQvgDQpJb"
@@ -3411,15 +3415,29 @@
 "spotify:track:3q8mXT1racKde1h8zHY1ko"
 ],
 [
-"2026-11-02T05:08|Everything But The Girl|I Didn't Know I Was Looking For Love",
-"spotify:track:1o9BpUk7j0oQzvBQShFKgX"
-],
-[
 "2026-11-02T05:03|Brigitte Calls Me Baby|The Future is Our Way Out",
 "spotify:track:5trl9gPUhMMRNB2BRzf9cG"
 ]
 ],
 "entries": [
+{
+"id": "2026-11-09T05:10|Keshavara|Oracular",
+"t": "2026-11-09T05:10:00+01:00",
+"artist": "Keshavara",
+"title": "Oracular"
+},
+{
+"id": "2026-11-09T05:07|Moloko|Sing It Back",
+"t": "2026-11-09T05:07:00+01:00",
+"artist": "Moloko",
+"title": "Sing It Back"
+},
+{
+"id": "2026-11-09T05:03|Slowdive|Kisses (Radio Edit)",
+"t": "2026-11-09T05:03:00+01:00",
+"artist": "Slowdive",
+"title": "Kisses (Radio Edit)"
+},
 {
 "id": "2026-11-08T13:51|J.Bernardt|Love Is On My Mind",
 "t": "2026-11-08T13:51:00+01:00",
@@ -8627,18 +8645,6 @@
 "t": "2026-11-02T05:18:00+01:00",
 "artist": "Beck",
 "title": "It Ends Right Here"
-},
-{
-"id": "2026-11-02T05:14|Aminé (feat. Leon Thomas)|New Flower!",
-"t": "2026-11-02T05:14:00+01:00",
-"artist": "Aminé (feat. Leon Thomas)",
-"title": "New Flower!"
-},
-{
-"id": "2026-11-02T05:08|Everything But The Girl|I Didn't Know I Was Looking For Love",
-"t": "2026-11-02T05:08:00+01:00",
-"artist": "Everything But The Girl",
-"title": "I Didn't Know I Was Looking For Love"
 }
 ]
 }
