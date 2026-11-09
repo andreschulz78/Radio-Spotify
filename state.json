@@ -1,9 +1,9 @@
 {
-"updated": "2026-11-09T06:04:58.698480+01:00",
+"updated": "2026-11-09T06:16:58.698755+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
-"synced": "2026-11-09T05:56:58.698287+01:00",
+"synced": "2026-11-09T06:12:58.698657+01:00",
 "pruned": "2026-11-09",
 "calls": {
 "2026-11-02": 197,
@@ -13,12 +13,20 @@
 "2026-11-06": 191,
 "2026-11-07": 127,
 "2026-11-08": 111,
-"2026-11-09": 5
+"2026-11-09": 7
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAf+iZvrkRNeeiKa+Zj/n7ykDpd2fBd",
+"snapshot": "AAAf+7LwumuZ9fuDyFL0bmqXp+dazDO9",
 "playlist": [
+[
+"2026-11-09T06:04|Alan Braxe feat. Annie|Never Coming Back",
+"spotify:track:0ZtUCVf7uuDAQ7dXGTALEG"
+],
+[
+"2026-11-09T05:56|Ella Eyre|Kintsugi",
+"spotify:track:3x6gA8SG2NB2XQ9gmgggT9"
+],
 [
 "2026-11-09T05:51|Overmono feat. Ruthven|Gem Lingo (ovr now)",
 "spotify:track:6dSqM0tWJPlchpmGrEwC1c"
@@ -3453,6 +3461,18 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-11-09T06:11|Django Django|Year Of The Snake",
+"t": "2026-11-09T06:11:00+01:00",
+"artist": "Django Django",
+"title": "Year Of The Snake"
+},
+{
+"id": "2026-11-09T06:04|Alan Braxe feat. Annie|Never Coming Back",
+"t": "2026-11-09T06:04:00+01:00",
+"artist": "Alan Braxe feat. Annie",
+"title": "Never Coming Back"
+},
 {
 "id": "2026-11-09T05:56|Ella Eyre|Kintsugi",
 "t": "2026-11-09T05:56:00+01:00",
@@ -8666,18 +8686,6 @@
 "t": "2026-11-02T06:19:00+01:00",
 "artist": "Kindness",
 "title": "Swingin' Party"
-},
-{
-"id": "2026-11-02T06:14|Austra & Patrick Holland|Siren Reprise",
-"t": "2026-11-02T06:14:00+01:00",
-"artist": "Austra & Patrick Holland",
-"title": "Siren Reprise"
-},
-{
-"id": "2026-11-02T06:07|The Limiñanas feat. Peter Hook|Garden Of Love",
-"t": "2026-11-02T06:07:00+01:00",
-"artist": "The Limiñanas feat. Peter Hook",
-"title": "Garden Of Love"
 }
 ]
 }
