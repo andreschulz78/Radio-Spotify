@@ -1,9 +1,9 @@
 {
-"updated": "2026-11-09T06:40:58.699296+01:00",
+"updated": "2026-11-09T06:52:58.699577+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
-"synced": "2026-11-09T06:28:58.699021+01:00",
+"synced": "2026-11-09T06:44:58.699391+01:00",
 "pruned": "2026-11-09",
 "calls": {
 "2026-11-02": 197,
@@ -13,12 +13,20 @@
 "2026-11-06": 191,
 "2026-11-07": 127,
 "2026-11-08": 111,
-"2026-11-09": 10
+"2026-11-09": 13
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAf/BoaevXOIX9ttFa0Vpeef5LiHANW",
+"snapshot": "AAAf/k25oraVukjBlHfsCSFWOZzHJevr",
 "playlist": [
+[
+"2026-11-09T06:34|Khruangbin|Time (You And I)",
+"spotify:track:1y9hFN1CsG28HXYg4Tn5k9"
+],
+[
+"2026-11-09T06:25|Linka Moja|Men R Dogs",
+"spotify:track:7AgfOLYDB7GrgIWg60PBw7"
+],
 [
 "2026-11-09T06:22|Wanda|Jurassic Park",
 "spotify:track:5oLmW39VNRy9I9RtoFOcZv"
@@ -3416,10 +3424,6 @@
 "spotify:track:5TivaDsrJsPHJURznEyGmj"
 ],
 [
-"2026-11-02T06:44|The Head And The Heart|Our House",
-"spotify:track:08sn2aLyHIGwUalxqkPmaO"
-],
-[
 "2026-11-02T06:36|Bonobo feat. Joy Crookes|Always on Your Side",
 "spotify:track:6jJTpzMquQLVuUkM2vVEIF"
 ],
@@ -3473,6 +3477,12 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-11-09T06:42|The The|This Is The Day",
+"t": "2026-11-09T06:42:00+01:00",
+"artist": "The The",
+"title": "This Is The Day"
+},
 {
 "id": "2026-11-09T06:34|Khruangbin|Time (You And I)",
 "t": "2026-11-09T06:34:00+01:00",
@@ -8692,18 +8702,6 @@
 "t": "2026-11-02T06:56:00+01:00",
 "artist": "Arctic Monkeys",
 "title": "Cornerstone"
-},
-{
-"id": "2026-11-02T06:49|Laing|Morgens immer müde",
-"t": "2026-11-02T06:49:00+01:00",
-"artist": "Laing",
-"title": "Morgens immer müde"
-},
-{
-"id": "2026-11-02T06:44|The Head And The Heart|Our House",
-"t": "2026-11-02T06:44:00+01:00",
-"artist": "The Head And The Heart",
-"title": "Our House"
 }
 ]
 }
