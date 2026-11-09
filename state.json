@@ -1,9 +1,9 @@
 {
-"updated": "2026-11-09T07:52:58.700935+01:00",
+"updated": "2026-11-09T08:04:58.701209+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
-"synced": "2026-11-09T07:48:58.700857+01:00",
+"synced": "2026-11-09T08:04:58.701209+01:00",
 "pruned": "2026-11-09",
 "calls": {
 "2026-11-02": 197,
@@ -13,12 +13,24 @@
 "2026-11-06": 191,
 "2026-11-07": 127,
 "2026-11-08": 111,
-"2026-11-09": 20
+"2026-11-09": 22
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAgAhD/OWEFlzYaP5WkatvISLXYEVEh",
+"snapshot": "AAAgA8qz71bnVt9B/eZBk1OChauTYWZR",
 "playlist": [
+[
+"2026-11-09T07:56|Klee|Gold",
+"spotify:track:4TpUccvtEa9HypBuHYsw5S"
+],
+[
+"2026-11-09T07:48|Jamie T|Tallahassee",
+"spotify:track:3Kwdvrz5PTUpAObYKNPlz0"
+],
+[
+"2026-11-09T07:44|Luis Laserpower|Mond",
+"spotify:track:4Glvbkjd7mkzUYRcVoFHrK"
+],
 [
 "2026-11-09T07:38|JGrrey feat. Bel Cobain|Take My Hand",
 "spotify:track:0i4SCqKHjbBrPjUX4RPRq3"
@@ -3509,6 +3521,18 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-11-09T07:56|Klee|Gold",
+"t": "2026-11-09T07:56:00+01:00",
+"artist": "Klee",
+"title": "Gold"
+},
+{
+"id": "2026-11-09T07:48|Jamie T|Tallahassee",
+"t": "2026-11-09T07:48:00+01:00",
+"artist": "Jamie T",
+"title": "Tallahassee"
+},
 {
 "id": "2026-11-09T07:44|Luis Laserpower|Mond",
 "t": "2026-11-09T07:44:00+01:00",
@@ -8728,12 +8752,6 @@
 "t": "2026-11-02T08:07:00+01:00",
 "artist": "Cassius",
 "title": "Toop Toop"
-},
-{
-"id": "2026-11-02T07:56|Republica|Ready To Go",
-"t": "2026-11-02T07:56:00+01:00",
-"artist": "Republica",
-"title": "Ready To Go"
 }
 ]
 }
