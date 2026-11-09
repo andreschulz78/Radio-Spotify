@@ -1,9 +1,9 @@
 {
-"updated": "2026-11-09T21:50:37.452946+01:00",
+"updated": "2026-11-09T22:02:37.453312+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
-"synced": "2026-11-09T21:38:37.452524+01:00",
+"synced": "2026-11-09T21:54:37.453074+01:00",
 "pruned": "2026-11-09",
 "calls": {
 "2026-11-02": 197,
@@ -13,11 +13,11 @@
 "2026-11-06": 191,
 "2026-11-07": 127,
 "2026-11-08": 111,
-"2026-11-09": 132
+"2026-11-09": 149
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAgKby2br1LMooGWFrfi3GTOza/ADxW",
+"snapshot": "AAAgMFje0sI4Qssd5KspMb2ycky/FPij",
 "playlist": [
 [
 "2026-11-09T20:43|Kevin Morby|PBJ (Edit)",
@@ -44,16 +44,48 @@
 "spotify:track:4Og22Djtd18AVqNgijpLsX"
 ],
 [
+"2026-11-09T19:51|Goldfrapp|Strict Machine",
+"spotify:track:31k9CeIvUiDdrwtt9nx7mt"
+],
+[
 "2026-11-09T19:06|Moscoman & Tom Sanders|In Stereo",
 "spotify:track:6VBbmDuYFGj4xAxLM79JB7"
+],
+[
+"2026-11-09T18:56|Stereolab|French Disko",
+"spotify:track:5WvdokaeoouCIl3wT0RYDl"
 ],
 [
 "2026-11-09T18:51|Death Cab For Cutie|Pep Talk",
 "spotify:track:3ra7fDLqfUHBWBL702fOAn"
 ],
 [
+"2026-11-09T18:46|Thievery Corporation|Lebanese Blonde",
+"spotify:track:0QlmJXTEyw13n21kiNFdI1"
+],
+[
+"2026-11-09T18:43|Readymade FC feat. Queen Kaltoum|The Light At The End Of The Tunnel",
+"spotify:track:6Y1nF5rkvqEArCkHyM7MCX"
+],
+[
+"2026-11-09T18:41|Kaeto|Words",
+"spotify:track:26jHXGOE2EENKlCByolM1x"
+],
+[
+"2026-11-09T18:35|Mishlawi|All Night",
+"spotify:track:4jvhvr8QBAlC85ovP8zTph"
+],
+[
 "2026-11-09T18:26|Gabriels|Break It",
 "spotify:track:5WiVqnjVzB9tNXqeSKZgxH"
+],
+[
+"2026-11-09T18:19|Bonaparte|Weinbar",
+"spotify:track:1IrhhTxgS3Uaop3BqBM3gd"
+],
+[
+"2026-11-09T18:16|Talking Heads|Road To Nowhere",
+"spotify:track:2co8fDyaVmxv8xruQWORnC"
 ],
 [
 "2026-11-09T18:06|Antony Szmierek|Seminal (Edit)",
@@ -64,12 +96,28 @@
 "spotify:track:6iXIvHGsLMJ89TuW1S9E3C"
 ],
 [
+"2026-11-09T17:51|Wallners|Games (Radio Edit)",
+"spotify:track:2f8qLZEUsaedAWzqPSAfJa"
+],
+[
+"2026-11-09T17:48|Grim104|Monstera",
+"spotify:track:3rSiXUS27EJxisY62sEqmJ"
+],
+[
 "2026-11-09T17:44|The Drums feat. Mareux|It Didn't Matter",
 "spotify:track:10kxTiNUTo4nlEbH1EzoX1"
 ],
 [
+"2026-11-09T17:36|Gus Gus|Ladyshave",
+"spotify:track:0bJnETHCYXOfGCQ8tiUdR0"
+],
+[
 "2026-11-09T17:33|Kaktus Einarsson feat. John Grant|Follow",
 "spotify:track:0bbPqdrMN94XmIlBQS21B3"
+],
+[
+"2026-11-09T17:25|Jalen Ngonda|If You Don't Want My Love",
+"spotify:track:3fPBXNuHlH4N3hmiEzK5y0"
 ],
 [
 "2026-11-09T17:17|Nia Archives|There Goes Ma Head",
