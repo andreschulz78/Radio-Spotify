@@ -1,9 +1,9 @@
 {
-"updated": "2026-11-09T14:13:26.225350+01:00",
+"updated": "2026-11-09T14:25:26.225707+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
-"synced": "2026-11-09T14:05:26.225146+01:00",
+"synced": "2026-11-09T14:21:26.225559+01:00",
 "pruned": "2026-11-09",
 "calls": {
 "2026-11-02": 197,
@@ -13,12 +13,20 @@
 "2026-11-06": 191,
 "2026-11-07": 127,
 "2026-11-08": 111,
-"2026-11-09": 89
+"2026-11-09": 91
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAgG4zqPPLlAjOBVhsRRUMP4df7Hvkt",
+"snapshot": "AAAgHAPwoM+Vx35brXxl7+x5xR3rlgoi",
 "playlist": [
+[
+"2026-11-09T14:16|The Goo Goo Dolls|Iris",
+"spotify:track:6Qyc6fS4DsZjB2mRW9DsQs"
+],
+[
+"2026-11-09T14:05|Andrew Collberg|Hi Hopes (Edit)",
+"spotify:track:1kjdZI17F6ONf5iluLS0in"
+],
 [
 "2026-11-09T13:56|All Saints|Under The Bridge",
 "spotify:track:78M2x5ojbdTmUOpWrbijG3"
@@ -3773,6 +3781,18 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-11-09T14:19|Nightmares On Wax feat. Mozez|You Wish (Abbey Road Fuzz Gospel Version)",
+"t": "2026-11-09T14:19:00+01:00",
+"artist": "Nightmares On Wax feat. Mozez",
+"title": "You Wish (Abbey Road Fuzz Gospel Version)"
+},
+{
+"id": "2026-11-09T14:16|The Goo Goo Dolls|Iris",
+"t": "2026-11-09T14:16:00+01:00",
+"artist": "The Goo Goo Dolls",
+"title": "Iris"
+},
 {
 "id": "2026-11-09T14:05|Andrew Collberg|Hi Hopes (Edit)",
 "t": "2026-11-09T14:05:00+01:00",
@@ -8980,30 +9000,6 @@
 "t": "2026-11-02T14:30:00+01:00",
 "artist": "Public Service Broadcasting",
 "title": "Electra"
-},
-{
-"id": "2026-11-02T14:25|Bent|Comin' Back",
-"t": "2026-11-02T14:25:00+01:00",
-"artist": "Bent",
-"title": "Comin' Back"
-},
-{
-"id": "2026-11-02T14:22|Nihils|Lavender",
-"t": "2026-11-02T14:22:00+01:00",
-"artist": "Nihils",
-"title": "Lavender"
-},
-{
-"id": "2026-11-02T14:18|Terranova feat. Billie Ray Martin|Make Me Feel",
-"t": "2026-11-02T14:18:00+01:00",
-"artist": "Terranova feat. Billie Ray Martin",
-"title": "Make Me Feel"
-},
-{
-"id": "2026-11-02T14:14|Django Django|Reflections",
-"t": "2026-11-02T14:14:00+01:00",
-"artist": "Django Django",
-"title": "Reflections"
 }
 ]
 }
