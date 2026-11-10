@@ -1,9 +1,9 @@
 {
-"updated": "2026-11-10T07:13:36.160517+01:00",
+"updated": "2026-11-10T07:25:36.160956+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
-"synced": "2026-11-10T07:05:36.160259+01:00",
+"synced": "2026-11-10T07:21:36.160806+01:00",
 "pruned": "2026-11-10",
 "calls": {
 "2026-11-03": 174,
@@ -13,12 +13,20 @@
 "2026-11-07": 127,
 "2026-11-08": 111,
 "2026-11-09": 172,
-"2026-11-10": 22
+"2026-11-10": 24
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAgSt1MwiuD/yfk/M5q+1ryiH46zGr+",
+"snapshot": "AAAgS01tB5ev5UKUDIhukJgrYRFiC8ae",
 "playlist": [
+[
+"2026-11-10T07:15|Nichtseattle|Ich mit Brille",
+"spotify:track:1C0Lpji3kKe7rZie1LC4bx"
+],
+[
+"2026-11-10T07:12|Marlon Williams|My Boy",
+"spotify:track:5PHbusMmCka1GbXiYoSD47"
+],
 [
 "2026-11-10T06:55|Andrew Collberg|Hi Hopes (Edit)",
 "spotify:track:1kjdZI17F6ONf5iluLS0in"
@@ -3513,6 +3521,18 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-11-10T07:15|Nichtseattle|Ich mit Brille",
+"t": "2026-11-10T07:15:00+01:00",
+"artist": "Nichtseattle",
+"title": "Ich mit Brille"
+},
+{
+"id": "2026-11-10T07:12|Marlon Williams|My Boy",
+"t": "2026-11-10T07:12:00+01:00",
+"artist": "Marlon Williams",
+"title": "My Boy"
+},
 {
 "id": "2026-11-10T06:55|Andrew Collberg|Hi Hopes (Edit)",
 "t": "2026-11-10T06:55:00+01:00",
@@ -8720,24 +8740,6 @@
 "t": "2026-11-03T07:35:00+01:00",
 "artist": "Arcade Fire",
 "title": "Rebellion"
-},
-{
-"id": "2026-11-03T07:25|Black Marble|Jim Carol New Year",
-"t": "2026-11-03T07:25:00+01:00",
-"artist": "Black Marble",
-"title": "Jim Carol New Year"
-},
-{
-"id": "2026-11-03T07:18|Alexander IV & IYAMAH|About Us",
-"t": "2026-11-03T07:18:00+01:00",
-"artist": "Alexander IV & IYAMAH",
-"title": "About Us"
-},
-{
-"id": "2026-11-03T07:14|Still Blank|Ain't Quite Right (Edit)",
-"t": "2026-11-03T07:14:00+01:00",
-"artist": "Still Blank",
-"title": "Ain't Quite Right (Edit)"
 }
 ]
 }
