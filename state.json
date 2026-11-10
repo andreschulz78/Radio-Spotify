@@ -1,9 +1,9 @@
 {
-"updated": "2026-11-10T13:04:15.979361+01:00",
+"updated": "2026-11-10T13:16:15.979770+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
-"synced": "2026-11-10T12:56:15.979104+01:00",
+"synced": "2026-11-10T13:12:15.979637+01:00",
 "pruned": "2026-11-10",
 "calls": {
 "2026-11-03": 174,
@@ -13,12 +13,24 @@
 "2026-11-07": 127,
 "2026-11-08": 111,
 "2026-11-09": 172,
-"2026-11-10": 83
+"2026-11-10": 90
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAgXbeK+z+oK6t8JXnPUvjw1LlFJCgD",
+"snapshot": "AAAgYS18o7Sqdv2AgGA/aR64uCfjnf1s",
 "playlist": [
+[
+"2026-11-10T12:59|John Legend|Save Room",
+"spotify:track:3sTc75CCyIw4FPs6cXkOe7"
+],
+[
+"2026-11-10T12:55|Indeep|Last Night A DJ Saved My Life",
+"spotify:track:7pHswjfOmxFhnsq5XYrkTS"
+],
+[
+"2026-11-10T12:52|WhoMadeWho feat. RY X|Love Will Save Me",
+"spotify:track:2YjXImhg2zXDmWcVy1oSDw"
+],
 [
 "2026-11-10T12:47|Aimee Mann|Save Me",
 "spotify:track:0EqtsCvcDjEz6svFsaV5HN"
@@ -108,12 +120,32 @@
 "spotify:track:6pmDHODsAiR8PZtlJZnJmC"
 ],
 [
+"2026-11-10T10:57|Hearts Hearts|Rub My Eyes",
+"spotify:track:4KoTfmv9jyJDxbFC4g13YY"
+],
+[
 "2026-11-10T10:49|Odd Beholder|Your Emancipation",
 "spotify:track:1uLBaUVurwbtHnyAlD7ExO"
 ],
 [
+"2026-11-10T10:45|Whitest Boy Alive|Courage",
+"spotify:track:5ZYnjEgeGX3Z7TbTGumajC"
+],
+[
+"2026-11-10T10:34|Fun Lovin' Criminals|Village Groove",
+"spotify:track:0Q1SGBneJn0i39CZyuH7Qq"
+],
+[
 "2026-11-10T10:30|Stella Donnelly|Laying Low",
 "spotify:track:0jWZDtZgmV2LZ2iW4c3yB7"
+],
+[
+"2026-11-10T10:26|The Cure|10.15 Saturday Night",
+"spotify:track:3YqG1Fn4d0ngCq1OykZHvK"
+],
+[
+"2026-11-10T10:22|St. Vincent|Los Ageless",
+"spotify:track:2qTy3hGSbxoSenKmlKGHFw"
 ],
 [
 "2026-11-10T10:09|Steve Lacy|Show You Me",
@@ -3721,6 +3753,24 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-11-10T13:09|Alexander IV & IYAMAH|About Us",
+"t": "2026-11-10T13:09:00+01:00",
+"artist": "Alexander IV & IYAMAH",
+"title": "About Us"
+},
+{
+"id": "2026-11-10T13:06|King Gizzard & The Lizard Wizard|Bone",
+"t": "2026-11-10T13:06:00+01:00",
+"artist": "King Gizzard & The Lizard Wizard",
+"title": "Bone"
+},
+{
+"id": "2026-11-10T12:59|John Legend|Save Room",
+"t": "2026-11-10T12:59:00+01:00",
+"artist": "John Legend",
+"title": "Save Room"
+},
 {
 "id": "2026-11-10T12:55|Indeep|Last Night A DJ Saved My Life",
 "t": "2026-11-10T12:55:00+01:00",
@@ -8934,18 +8984,6 @@
 "t": "2026-11-03T13:23:00+01:00",
 "artist": "Vepsestikk",
 "title": "Fuckin’ gudinne"
-},
-{
-"id": "2026-11-03T13:11|Paul Hardcastle|19 (Nineteen)",
-"t": "2026-11-03T13:11:00+01:00",
-"artist": "Paul Hardcastle",
-"title": "19 (Nineteen)"
-},
-{
-"id": "2026-11-03T13:08|Thievery Corporation feat. Racquel Jones|Letter To The Editor",
-"t": "2026-11-03T13:08:00+01:00",
-"artist": "Thievery Corporation feat. Racquel Jones",
-"title": "Letter To The Editor"
 }
 ]
 }
