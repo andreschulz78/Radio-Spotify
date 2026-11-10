@@ -1,9 +1,9 @@
 {
-"updated": "2026-11-10T13:52:15.980963+01:00",
+"updated": "2026-11-10T14:04:15.981482+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
-"synced": "2026-11-10T13:44:15.980693+01:00",
+"synced": "2026-11-10T14:00:15.981288+01:00",
 "pruned": "2026-11-10",
 "calls": {
 "2026-11-03": 174,
@@ -13,12 +13,20 @@
 "2026-11-07": 127,
 "2026-11-08": 111,
 "2026-11-09": 172,
-"2026-11-10": 98
+"2026-11-10": 101
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAgYwacTAAQoZGkkqxg18w53egff0Zr",
+"snapshot": "AAAgZF1dRzRlPgcy6hVkHcSCxCrFdilS",
 "playlist": [
+[
+"2026-11-10T13:50|Kollektiv Turmstrasse feat. Joel Stewart|When The Lights Go Lower",
+"spotify:track:0KuVHr9kyw0Z2gBv5gwNH1"
+],
+[
+"2026-11-10T13:47|SOFY|50/50",
+"spotify:track:16QLv8xt9nPNBZCBDm3Gkv"
+],
 [
 "2026-11-10T13:37|Sam Burton|I'm A Stranger",
 "spotify:track:4hAYraVhSzgMTdvftCcqKo"
@@ -3781,6 +3789,24 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-11-10T13:56|Pet Shop Boys|Burning The Heather (Edit)",
+"t": "2026-11-10T13:56:00+01:00",
+"artist": "Pet Shop Boys",
+"title": "Burning The Heather (Edit)"
+},
+{
+"id": "2026-11-10T13:50|Kollektiv Turmstrasse feat. Joel Stewart|When The Lights Go Lower",
+"t": "2026-11-10T13:50:00+01:00",
+"artist": "Kollektiv Turmstrasse feat. Joel Stewart",
+"title": "When The Lights Go Lower"
+},
+{
+"id": "2026-11-10T13:47|SOFY|50/50",
+"t": "2026-11-10T13:47:00+01:00",
+"artist": "SOFY",
+"title": "50/50"
+},
 {
 "id": "2026-11-10T13:37|Sam Burton|I'm A Stranger",
 "t": "2026-11-10T13:37:00+01:00",
@@ -9000,12 +9026,6 @@
 "t": "2026-11-03T14:05:00+01:00",
 "artist": "The Avalanches feat. Karen O",
 "title": "Blue Shadows"
-},
-{
-"id": "2026-11-03T13:56|Wir sind Helden|Wenn es passiert",
-"t": "2026-11-03T13:56:00+01:00",
-"artist": "Wir sind Helden",
-"title": "Wenn es passiert"
 }
 ]
 }
