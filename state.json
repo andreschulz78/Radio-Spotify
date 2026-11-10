@@ -1,9 +1,9 @@
 {
-"updated": "2026-11-10T05:37:36.157359+01:00",
+"updated": "2026-11-10T05:49:36.157752+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
-"synced": "2026-11-10T05:29:36.157117+01:00",
+"synced": "2026-11-10T05:45:36.157625+01:00",
 "pruned": "2026-11-10",
 "calls": {
 "2026-11-03": 174,
@@ -13,12 +13,32 @@
 "2026-11-07": 127,
 "2026-11-08": 111,
 "2026-11-09": 172,
-"2026-11-10": 3
+"2026-11-10": 6
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAgQiviuFn0IDxFibPMI6Iq7e0QdAxY",
+"snapshot": "AAAgQxZYod0GMuXPMySkyPMkhaevjTx1",
 "playlist": [
+[
+"2026-11-10T05:40|Jordan Rakei & Tom McFarland|Easy to Love",
+"spotify:track:2qod3v3MbuBamYUZebS88U"
+],
+[
+"2026-11-10T05:36|Element Of Crime|Weißes Papier",
+"spotify:track:11X6PsP3iQYySHOk8QLe1R"
+],
+[
+"2026-11-10T05:31|Spank Rock feat. Santigold|Car Song",
+"spotify:track:6hMzgOejT5TupWgnc9oc1j"
+],
+[
+"2026-11-10T05:26|Harry Nilsson|Coconut",
+"spotify:track:4o5GyaeGMgDsrclBsL3au7"
+],
+[
+"2026-11-10T05:23|Matilda Mann|Just Because",
+"spotify:track:6h6WgFMpWYbqekmeaXuaRl"
+],
 [
 "2026-11-10T05:17|Tikhet|Burndowner",
 "spotify:track:76iRkapw7dHIlJhSoy7PCv"
@@ -3449,6 +3469,18 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-11-10T05:40|Jordan Rakei & Tom McFarland|Easy to Love",
+"t": "2026-11-10T05:40:00+01:00",
+"artist": "Jordan Rakei & Tom McFarland",
+"title": "Easy to Love"
+},
+{
+"id": "2026-11-10T05:36|Element Of Crime|Weißes Papier",
+"t": "2026-11-10T05:36:00+01:00",
+"artist": "Element Of Crime",
+"title": "Weißes Papier"
+},
 {
 "id": "2026-11-10T05:31|Spank Rock feat. Santigold|Car Song",
 "t": "2026-11-10T05:31:00+01:00",
@@ -8668,24 +8700,6 @@
 "t": "2026-11-03T05:51:00+01:00",
 "artist": "Genesis Owusu",
 "title": "Human Again"
-},
-{
-"id": "2026-11-03T05:48|Boxed In|Jist",
-"t": "2026-11-03T05:48:00+01:00",
-"artist": "Boxed In",
-"title": "Jist"
-},
-{
-"id": "2026-11-03T05:42|CECI feat. Lords of Lounge|Honey Honey",
-"t": "2026-11-03T05:42:00+01:00",
-"artist": "CECI feat. Lords of Lounge",
-"title": "Honey Honey"
-},
-{
-"id": "2026-11-03T05:38|Matchbox 20|Push",
-"t": "2026-11-03T05:38:00+01:00",
-"artist": "Matchbox 20",
-"title": "Push"
 }
 ]
 }
