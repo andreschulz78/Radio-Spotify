@@ -1,9 +1,9 @@
 {
-"updated": "2026-11-10T10:01:36.166064+01:00",
+"updated": "2026-11-10T12:40:15.978565+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
-"synced": "2026-11-10T10:01:36.166064+01:00",
+"synced": "2026-11-10T12:40:15.978565+01:00",
 "pruned": "2026-11-10",
 "calls": {
 "2026-11-03": 174,
@@ -13,12 +13,72 @@
 "2026-11-07": 127,
 "2026-11-08": 111,
 "2026-11-09": 172,
-"2026-11-10": 52
+"2026-11-10": 56
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAgVcnzP+Awz8nCCyDeVoLTYWi46i1R",
+"snapshot": "AAAgVqY8OFMkmfqWAe1RUgck0If+l1ZN",
 "playlist": [
+[
+"2026-11-10T12:35|The Beat|Save It For Later",
+"spotify:track:0rCkDATwMnHzDhPptcwpNx"
+],
+[
+"2026-11-10T12:31|Katy J Pearson|Save Me",
+"spotify:track:65FYifoevTTHKtMNRtov1U"
+],
+[
+"2026-11-10T12:26|Kevin Morby|PBJ (Edit)",
+"spotify:track:5rjtzSA5VBWg7zmuOGg5Dz"
+],
+[
+"2026-11-10T12:22|Sofia Kourtesis|La Perla (Edit)",
+"spotify:track:4pNlEl7y5pT9f9zFy0oxXb"
+],
+[
+"2026-11-10T12:16|Jordan Rakei|Enemies",
+"spotify:track:0X9GwAax0c0HPe3iIoDVW6"
+],
+[
+"2026-11-10T12:09|Yazmin Lacey feat. TYSON|Water",
+"spotify:track:0iPRaGu0MkIfLHRjFfWedg"
+],
+[
+"2026-11-10T11:57|Death Cab For Cutie|Pep Talk",
+"spotify:track:3ra7fDLqfUHBWBL702fOAn"
+],
+[
+"2026-11-10T11:41|Alewya|Cairo FM",
+"spotify:track:6v7hCIRoJkuYShT0wls1gD"
+],
+[
+"2026-11-10T11:20|Grim104|Monstera",
+"spotify:track:3rSiXUS27EJxisY62sEqmJ"
+],
+[
+"2026-11-10T11:09|Planningtorock feat. Romy|The One",
+"spotify:track:5MkC4l5EgOeLTd0CNb7IJz"
+],
+[
+"2026-11-10T10:49|Odd Beholder|Your Emancipation",
+"spotify:track:1uLBaUVurwbtHnyAlD7ExO"
+],
+[
+"2026-11-10T10:30|Stella Donnelly|Laying Low",
+"spotify:track:0jWZDtZgmV2LZ2iW4c3yB7"
+],
+[
+"2026-11-10T10:09|Steve Lacy|Show You Me",
+"spotify:track:4f50UTC41M2Ah5itifSGE5"
+],
+[
+"2026-11-10T10:06|Kaktus Einarsson feat. John Grant|Follow",
+"spotify:track:0bbPqdrMN94XmIlBQS21B3"
+],
+[
+"2026-11-10T09:56|Kelela|the bridge (feat. PinkPantheress)",
+"spotify:track:4Og22Djtd18AVqNgijpLsX"
+],
 [
 "2026-11-10T09:49|Seabear|Lion Face Boy",
 "spotify:track:24TXj7GM9RkeqMeMDhdEX8"
@@ -3617,6 +3677,186 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-11-10T12:35|The Beat|Save It For Later",
+"t": "2026-11-10T12:35:00+01:00",
+"artist": "The Beat",
+"title": "Save It For Later"
+},
+{
+"id": "2026-11-10T12:31|Katy J Pearson|Save Me",
+"t": "2026-11-10T12:31:00+01:00",
+"artist": "Katy J Pearson",
+"title": "Save Me"
+},
+{
+"id": "2026-11-10T12:26|Kevin Morby|PBJ (Edit)",
+"t": "2026-11-10T12:26:00+01:00",
+"artist": "Kevin Morby",
+"title": "PBJ (Edit)"
+},
+{
+"id": "2026-11-10T12:22|Sofia Kourtesis|La Perla (Edit)",
+"t": "2026-11-10T12:22:00+01:00",
+"artist": "Sofia Kourtesis",
+"title": "La Perla (Edit)"
+},
+{
+"id": "2026-11-10T12:19|Alabama Shakes|Hang Loose",
+"t": "2026-11-10T12:19:00+01:00",
+"artist": "Alabama Shakes",
+"title": "Hang Loose"
+},
+{
+"id": "2026-11-10T12:16|Jordan Rakei|Enemies",
+"t": "2026-11-10T12:16:00+01:00",
+"artist": "Jordan Rakei",
+"title": "Enemies"
+},
+{
+"id": "2026-11-10T12:09|Yazmin Lacey feat. TYSON|Water",
+"t": "2026-11-10T12:09:00+01:00",
+"artist": "Yazmin Lacey feat. TYSON",
+"title": "Water"
+},
+{
+"id": "2026-11-10T12:05|Passion Pit|Little Secrets",
+"t": "2026-11-10T12:05:00+01:00",
+"artist": "Passion Pit",
+"title": "Little Secrets"
+},
+{
+"id": "2026-11-10T11:57|Death Cab For Cutie|Pep Talk",
+"t": "2026-11-10T11:57:00+01:00",
+"artist": "Death Cab For Cutie",
+"title": "Pep Talk"
+},
+{
+"id": "2026-11-10T11:50|Jacco Gardner|Find Yourself",
+"t": "2026-11-10T11:50:00+01:00",
+"artist": "Jacco Gardner",
+"title": "Find Yourself"
+},
+{
+"id": "2026-11-10T11:48|Julia Holter|This Is A True Heart",
+"t": "2026-11-10T11:48:00+01:00",
+"artist": "Julia Holter",
+"title": "This Is A True Heart"
+},
+{
+"id": "2026-11-10T11:44|Tyler Ballgame|For The First Time, Again",
+"t": "2026-11-10T11:44:00+01:00",
+"artist": "Tyler Ballgame",
+"title": "For The First Time, Again"
+},
+{
+"id": "2026-11-10T11:41|Alewya|Cairo FM",
+"t": "2026-11-10T11:41:00+01:00",
+"artist": "Alewya",
+"title": "Cairo FM"
+},
+{
+"id": "2026-11-10T11:34|Grace Ives|Trouble",
+"t": "2026-11-10T11:34:00+01:00",
+"artist": "Grace Ives",
+"title": "Trouble"
+},
+{
+"id": "2026-11-10T11:30|Justice|D.A.N.C.E.",
+"t": "2026-11-10T11:30:00+01:00",
+"artist": "Justice",
+"title": "D.A.N.C.E."
+},
+{
+"id": "2026-11-10T11:26|Lorde|Solar Power",
+"t": "2026-11-10T11:26:00+01:00",
+"artist": "Lorde",
+"title": "Solar Power"
+},
+{
+"id": "2026-11-10T11:23|Toni Basil|Mickey",
+"t": "2026-11-10T11:23:00+01:00",
+"artist": "Toni Basil",
+"title": "Mickey"
+},
+{
+"id": "2026-11-10T11:20|Grim104|Monstera",
+"t": "2026-11-10T11:20:00+01:00",
+"artist": "Grim104",
+"title": "Monstera"
+},
+{
+"id": "2026-11-10T11:09|Planningtorock feat. Romy|The One",
+"t": "2026-11-10T11:09:00+01:00",
+"artist": "Planningtorock feat. Romy",
+"title": "The One"
+},
+{
+"id": "2026-11-10T11:06|Nick Cave & The Bad Seeds|Nature Boy",
+"t": "2026-11-10T11:06:00+01:00",
+"artist": "Nick Cave & The Bad Seeds",
+"title": "Nature Boy"
+},
+{
+"id": "2026-11-10T10:57|Hearts Hearts|Rub My Eyes",
+"t": "2026-11-10T10:57:00+01:00",
+"artist": "Hearts Hearts",
+"title": "Rub My Eyes"
+},
+{
+"id": "2026-11-10T10:49|Odd Beholder|Your Emancipation",
+"t": "2026-11-10T10:49:00+01:00",
+"artist": "Odd Beholder",
+"title": "Your Emancipation"
+},
+{
+"id": "2026-11-10T10:45|Whitest Boy Alive|Courage",
+"t": "2026-11-10T10:45:00+01:00",
+"artist": "Whitest Boy Alive",
+"title": "Courage"
+},
+{
+"id": "2026-11-10T10:34|Fun Lovin' Criminals|Village Groove",
+"t": "2026-11-10T10:34:00+01:00",
+"artist": "Fun Lovin' Criminals",
+"title": "Village Groove"
+},
+{
+"id": "2026-11-10T10:30|Stella Donnelly|Laying Low",
+"t": "2026-11-10T10:30:00+01:00",
+"artist": "Stella Donnelly",
+"title": "Laying Low"
+},
+{
+"id": "2026-11-10T10:26|The Cure|10.15 Saturday Night",
+"t": "2026-11-10T10:26:00+01:00",
+"artist": "The Cure",
+"title": "10.15 Saturday Night"
+},
+{
+"id": "2026-11-10T10:22|St. Vincent|Los Ageless",
+"t": "2026-11-10T10:22:00+01:00",
+"artist": "St. Vincent",
+"title": "Los Ageless"
+},
+{
+"id": "2026-11-10T10:09|Steve Lacy|Show You Me",
+"t": "2026-11-10T10:09:00+01:00",
+"artist": "Steve Lacy",
+"title": "Show You Me"
+},
+{
+"id": "2026-11-10T10:06|Kaktus Einarsson feat. John Grant|Follow",
+"t": "2026-11-10T10:06:00+01:00",
+"artist": "Kaktus Einarsson feat. John Grant",
+"title": "Follow"
+},
+{
+"id": "2026-11-10T09:56|Kelela|the bridge (feat. PinkPantheress)",
+"t": "2026-11-10T09:56:00+01:00",
+"artist": "Kelela",
+"title": "the bridge (feat. PinkPantheress)"
+},
 {
 "id": "2026-11-10T09:49|Seabear|Lion Face Boy",
 "t": "2026-11-10T09:49:00+01:00",
@@ -8662,192 +8902,6 @@
 "t": "2026-11-03T12:42:00+01:00",
 "artist": "Agnes Obel",
 "title": "Laymelli (Edit)"
-},
-{
-"id": "2026-11-03T12:38|DJ Cam feat. Chris James|Swim",
-"t": "2026-11-03T12:38:00+01:00",
-"artist": "DJ Cam feat. Chris James",
-"title": "Swim"
-},
-{
-"id": "2026-11-03T12:35|Nilüfer Yanya|Kneel",
-"t": "2026-11-03T12:35:00+01:00",
-"artist": "Nilüfer Yanya",
-"title": "Kneel"
-},
-{
-"id": "2026-11-03T12:30|Django Django|Year Of The Snake",
-"t": "2026-11-03T12:30:00+01:00",
-"artist": "Django Django",
-"title": "Year Of The Snake"
-},
-{
-"id": "2026-11-03T12:24|JJerome87|Brush Me Like A Horse",
-"t": "2026-11-03T12:24:00+01:00",
-"artist": "JJerome87",
-"title": "Brush Me Like A Horse"
-},
-{
-"id": "2026-11-03T12:17|Hank|I'll Be Your Friend",
-"t": "2026-11-03T12:17:00+01:00",
-"artist": "Hank",
-"title": "I'll Be Your Friend"
-},
-{
-"id": "2026-11-03T12:14|The Notwist|Pilot",
-"t": "2026-11-03T12:14:00+01:00",
-"artist": "The Notwist",
-"title": "Pilot"
-},
-{
-"id": "2026-11-03T12:09|Emiliana Torrini|Let's Keep Dancing",
-"t": "2026-11-03T12:09:00+01:00",
-"artist": "Emiliana Torrini",
-"title": "Let's Keep Dancing"
-},
-{
-"id": "2026-11-03T12:05|Ex:Re|Sleep",
-"t": "2026-11-03T12:05:00+01:00",
-"artist": "Ex:Re",
-"title": "Sleep"
-},
-{
-"id": "2026-11-03T11:57|Radiohead|Burn The Witch",
-"t": "2026-11-03T11:57:00+01:00",
-"artist": "Radiohead",
-"title": "Burn The Witch"
-},
-{
-"id": "2026-11-03T11:52|Peki Momés|Ahşap Kutu",
-"t": "2026-11-03T11:52:00+01:00",
-"artist": "Peki Momés",
-"title": "Ahşap Kutu"
-},
-{
-"id": "2026-11-03T11:48|Joan As Police Woman|The Action Man",
-"t": "2026-11-03T11:48:00+01:00",
-"artist": "Joan As Police Woman",
-"title": "The Action Man"
-},
-{
-"id": "2026-11-03T11:44|Charlotte Day Wilson|Work",
-"t": "2026-11-03T11:44:00+01:00",
-"artist": "Charlotte Day Wilson",
-"title": "Work"
-},
-{
-"id": "2026-11-03T11:40|Serebii|Even In The Quiet",
-"t": "2026-11-03T11:40:00+01:00",
-"artist": "Serebii",
-"title": "Even In The Quiet"
-},
-{
-"id": "2026-11-03T11:34|Jim James|Come Again",
-"t": "2026-11-03T11:34:00+01:00",
-"artist": "Jim James",
-"title": "Come Again"
-},
-{
-"id": "2026-11-03T11:32|Jungle|Someday, Somewhere",
-"t": "2026-11-03T11:32:00+01:00",
-"artist": "Jungle",
-"title": "Someday, Somewhere"
-},
-{
-"id": "2026-11-03T11:28|Sarah Vaughan|Peter Gunn",
-"t": "2026-11-03T11:28:00+01:00",
-"artist": "Sarah Vaughan",
-"title": "Peter Gunn"
-},
-{
-"id": "2026-11-03T11:25|54 Ultra|Tell Me",
-"t": "2026-11-03T11:25:00+01:00",
-"artist": "54 Ultra",
-"title": "Tell Me"
-},
-{
-"id": "2026-11-03T11:21|Martha & The Muffins|Echo Beach",
-"t": "2026-11-03T11:21:00+01:00",
-"artist": "Martha & The Muffins",
-"title": "Echo Beach"
-},
-{
-"id": "2026-11-03T11:18|Nihils|Lavender",
-"t": "2026-11-03T11:18:00+01:00",
-"artist": "Nihils",
-"title": "Lavender"
-},
-{
-"id": "2026-11-03T11:08|Getdown Services|I'm Not Feeling It",
-"t": "2026-11-03T11:08:00+01:00",
-"artist": "Getdown Services",
-"title": "I'm Not Feeling It"
-},
-{
-"id": "2026-11-03T11:05|Bobby Hebb|Sunny",
-"t": "2026-11-03T11:05:00+01:00",
-"artist": "Bobby Hebb",
-"title": "Sunny"
-},
-{
-"id": "2026-11-03T10:56|Jazz Against The Machine|Come As You Are (Franksens Late Dub Edit)",
-"t": "2026-11-03T10:56:00+01:00",
-"artist": "Jazz Against The Machine",
-"title": "Come As You Are (Franksens Late Dub Edit)"
-},
-{
-"id": "2026-11-03T10:49|The Big Moon|F.O.R.E.V.E.R",
-"t": "2026-11-03T10:49:00+01:00",
-"artist": "The Big Moon",
-"title": "F.O.R.E.V.E.R"
-},
-{
-"id": "2026-11-03T10:37|St Germain|Rose Rouge",
-"t": "2026-11-03T10:37:00+01:00",
-"artist": "St Germain",
-"title": "Rose Rouge"
-},
-{
-"id": "2026-11-03T10:32|The All Seeing I feat. Tony Christie|Walk Like A Panther",
-"t": "2026-11-03T10:32:00+01:00",
-"artist": "The All Seeing I feat. Tony Christie",
-"title": "Walk Like A Panther"
-},
-{
-"id": "2026-11-03T10:29|Fritz Kalkbrenner|Kick It With You",
-"t": "2026-11-03T10:29:00+01:00",
-"artist": "Fritz Kalkbrenner",
-"title": "Kick It With You"
-},
-{
-"id": "2026-11-03T10:24|Cassia|lovedrunk",
-"t": "2026-11-03T10:24:00+01:00",
-"artist": "Cassia",
-"title": "lovedrunk"
-},
-{
-"id": "2026-11-03T10:20|Perel|Alles",
-"t": "2026-11-03T10:20:00+01:00",
-"artist": "Perel",
-"title": "Alles"
-},
-{
-"id": "2026-11-03T10:17|Zoh Amba|Eyes Full",
-"t": "2026-11-03T10:17:00+01:00",
-"artist": "Zoh Amba",
-"title": "Eyes Full"
-},
-{
-"id": "2026-11-03T10:09|The National|Fake Empire",
-"t": "2026-11-03T10:09:00+01:00",
-"artist": "The National",
-"title": "Fake Empire"
-},
-{
-"id": "2026-11-03T10:05|Moonlight Breakfast|If Not Now, Then When?!",
-"t": "2026-11-03T10:05:00+01:00",
-"artist": "Moonlight Breakfast",
-"title": "If Not Now, Then When?!"
 }
 ]
 }
