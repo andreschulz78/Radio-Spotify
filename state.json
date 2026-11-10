@@ -1,5 +1,5 @@
 {
-"updated": "2026-11-10T13:28:15.980181+01:00",
+"updated": "2026-11-10T13:40:15.980533+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
@@ -13,7 +13,7 @@
 "2026-11-07": 127,
 "2026-11-08": 111,
 "2026-11-09": 172,
-"2026-11-10": 93
+"2026-11-10": 97
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
@@ -3765,6 +3765,30 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-11-10T13:37|Sam Burton|I'm A Stranger",
+"t": "2026-11-10T13:37:00+01:00",
+"artist": "Sam Burton",
+"title": "I'm A Stranger"
+},
+{
+"id": "2026-11-10T13:33|Neneh Cherry|Kong",
+"t": "2026-11-10T13:33:00+01:00",
+"artist": "Neneh Cherry",
+"title": "Kong"
+},
+{
+"id": "2026-11-10T13:31|Scott Matthew|The Wish",
+"t": "2026-11-10T13:31:00+01:00",
+"artist": "Scott Matthew",
+"title": "The Wish"
+},
+{
+"id": "2026-11-10T13:26|The Cranberries|Dreams",
+"t": "2026-11-10T13:26:00+01:00",
+"artist": "The Cranberries",
+"title": "Dreams"
+},
 {
 "id": "2026-11-10T13:23|Two Door Cinema Club|Happy Customers",
 "t": "2026-11-10T13:23:00+01:00",
@@ -8984,18 +9008,6 @@
 "t": "2026-11-03T13:41:00+01:00",
 "artist": "Σtella",
 "title": "Belinda"
-},
-{
-"id": "2026-11-03T13:38|James Blake|Limit To Your Love",
-"t": "2026-11-03T13:38:00+01:00",
-"artist": "James Blake",
-"title": "Limit To Your Love"
-},
-{
-"id": "2026-11-03T13:31|Model 500|No UFO's",
-"t": "2026-11-03T13:31:00+01:00",
-"artist": "Model 500",
-"title": "No UFO's"
 }
 ]
 }
