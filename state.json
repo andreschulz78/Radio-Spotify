@@ -1,9 +1,9 @@
 {
-"updated": "2026-11-10T14:28:15.982248+01:00",
+"updated": "2026-11-10T14:40:15.982596+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
-"synced": "2026-11-10T14:16:15.981869+01:00",
+"synced": "2026-11-10T14:32:15.982387+01:00",
 "pruned": "2026-11-10",
 "calls": {
 "2026-11-03": 174,
@@ -13,12 +13,20 @@
 "2026-11-07": 127,
 "2026-11-08": 111,
 "2026-11-09": 172,
-"2026-11-10": 106
+"2026-11-10": 108
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAgZTGLqsCashR3fsa3pazQlAgAP+Dd",
+"snapshot": "AAAgZj0drXWsweD3zC8VPgJVcs6wJJE1",
 "playlist": [
+[
+"2026-11-10T14:24|Devendra Banhart|16th & Valencia Roxy Music",
+"spotify:track:6b6qt7rMWSBpoTABd6t9nB"
+],
+[
+"2026-11-10T14:19|Gabriels|Break It",
+"spotify:track:5WiVqnjVzB9tNXqeSKZgxH"
+],
 [
 "2026-11-10T14:08|Anna Calvi|Eliza",
 "spotify:track:56Pz2bnAj3XdvD2u0rNFrF"
@@ -3801,6 +3809,24 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-11-10T14:32|Investment|Parlament der Liebe",
+"t": "2026-11-10T14:32:00+01:00",
+"artist": "Investment",
+"title": "Parlament der Liebe"
+},
+{
+"id": "2026-11-10T14:29|Sassy 009 feat. Blood Orange|Tell Me (Jam City Remix) (Edit)",
+"t": "2026-11-10T14:29:00+01:00",
+"artist": "Sassy 009 feat. Blood Orange",
+"title": "Tell Me (Jam City Remix) (Edit)"
+},
+{
+"id": "2026-11-10T14:24|Devendra Banhart|16th & Valencia Roxy Music",
+"t": "2026-11-10T14:24:00+01:00",
+"artist": "Devendra Banhart",
+"title": "16th & Valencia Roxy Music"
+},
 {
 "id": "2026-11-10T14:19|Gabriels|Break It",
 "t": "2026-11-10T14:19:00+01:00",
@@ -9008,24 +9034,6 @@
 "t": "2026-11-03T14:43:00+01:00",
 "artist": "Gabriels",
 "title": "Break It"
-},
-{
-"id": "2026-11-03T14:40|Vendredi sur Mer|Chewing-Gum",
-"t": "2026-11-03T14:40:00+01:00",
-"artist": "Vendredi sur Mer",
-"title": "Chewing-Gum"
-},
-{
-"id": "2026-11-03T14:34|Michael Kiwanuka|Beautiful Life",
-"t": "2026-11-03T14:34:00+01:00",
-"artist": "Michael Kiwanuka",
-"title": "Beautiful Life"
-},
-{
-"id": "2026-11-03T14:31|Alewya|Maktoub",
-"t": "2026-11-03T14:31:00+01:00",
-"artist": "Alewya",
-"title": "Maktoub"
 }
 ]
 }
