@@ -1,9 +1,9 @@
 {
-"updated": "2026-11-10T15:16:15.983668+01:00",
+"updated": "2026-11-10T15:28:15.984069+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
-"synced": "2026-11-10T15:04:15.983287+01:00",
+"synced": "2026-11-10T15:20:15.983795+01:00",
 "pruned": "2026-11-10",
 "calls": {
 "2026-11-03": 174,
@@ -13,12 +13,20 @@
 "2026-11-07": 127,
 "2026-11-08": 111,
 "2026-11-09": 172,
-"2026-11-10": 115
+"2026-11-10": 116
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAgaKFKbmGEDowXOd+4E45dTkC9kWD0",
+"snapshot": "AAAgaTllQNgAzVgluGPm7C3l+jNDg1oj",
 "playlist": [
+[
+"2026-11-10T15:10|A.G. Sully|Psyche",
+"spotify:track:58EdbjtDOhgX3T1IoHGt5N"
+],
+[
+"2026-11-10T15:06|Gay Dad|To Earth With Love",
+"spotify:track:4TS1Ivr3idAP0Kjk8VQakq"
+],
 [
 "2026-11-10T14:56|Antony Szmierek|Chalk (Radio Edit)",
 "spotify:track:5HdeMdzAlNKwCM4L9cjehN"
@@ -3837,6 +3845,12 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-11-10T15:18|Natalie Bergmann|White Oak (Kosta G. Remix)",
+"t": "2026-11-10T15:18:00+01:00",
+"artist": "Natalie Bergmann",
+"title": "White Oak (Kosta G. Remix)"
+},
 {
 "id": "2026-11-10T15:10|A.G. Sully|Psyche",
 "t": "2026-11-10T15:10:00+01:00",
@@ -9050,24 +9064,6 @@
 "t": "2026-11-03T15:31:00+01:00",
 "artist": "Nabihah Iqbal",
 "title": "This World Couldn't See Us"
-},
-{
-"id": "2026-11-03T15:25|Mykki Blanco|Free Ride",
-"t": "2026-11-03T15:25:00+01:00",
-"artist": "Mykki Blanco",
-"title": "Free Ride"
-},
-{
-"id": "2026-11-03T15:21|Sam Fender feat. Olivia Dean|Rein Me In (Edit)",
-"t": "2026-11-03T15:21:00+01:00",
-"artist": "Sam Fender feat. Olivia Dean",
-"title": "Rein Me In (Edit)"
-},
-{
-"id": "2026-11-03T15:18|Lola Young|From Down Here (Radio Edit)",
-"t": "2026-11-03T15:18:00+01:00",
-"artist": "Lola Young",
-"title": "From Down Here (Radio Edit)"
 }
 ]
 }
