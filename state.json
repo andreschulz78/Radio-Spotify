@@ -1,9 +1,9 @@
 {
-"updated": "2026-11-10T06:25:36.158903+01:00",
+"updated": "2026-11-10T06:37:36.159302+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
-"synced": "2026-11-10T06:17:36.158651+01:00",
+"synced": "2026-11-10T06:33:36.159176+01:00",
 "pruned": "2026-11-10",
 "calls": {
 "2026-11-03": 174,
@@ -13,12 +13,24 @@
 "2026-11-07": 127,
 "2026-11-08": 111,
 "2026-11-09": 172,
-"2026-11-10": 13
+"2026-11-10": 18
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAgRSjOmrQsC9aCudC5SxmMwUZvcaoC",
+"snapshot": "AAAgRvEooRZFcu5RA+lmMiJm2bUt4y7O",
 "playlist": [
+[
+"2026-11-10T06:26|Tank And The Bangas|Ain’t That Deep",
+"spotify:track:0PokJfPldX6FgGR7covt03"
+],
+[
+"2026-11-10T06:22|Oren Lavie|Her morning elegance",
+"spotify:track:2IlvaOGNEZQu4rd76bQAFK"
+],
+[
+"2026-11-10T06:16|Boy Harsher|Tough Luck (When You Don't Call)",
+"spotify:track:109AVLNWp2BnTXTzF4j6XE"
+],
 [
 "2026-11-10T06:11|Madonna|Into The Groove",
 "spotify:track:3y2Y3Bc6GDxAWAMIpbW7RU"
@@ -3489,6 +3501,24 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-11-10T06:33|Grouplove|Tongue Tied",
+"t": "2026-11-10T06:33:00+01:00",
+"artist": "Grouplove",
+"title": "Tongue Tied"
+},
+{
+"id": "2026-11-10T06:26|Tank And The Bangas|Ain’t That Deep",
+"t": "2026-11-10T06:26:00+01:00",
+"artist": "Tank And The Bangas",
+"title": "Ain’t That Deep"
+},
+{
+"id": "2026-11-10T06:22|Oren Lavie|Her morning elegance",
+"t": "2026-11-10T06:22:00+01:00",
+"artist": "Oren Lavie",
+"title": "Her morning elegance"
+},
 {
 "id": "2026-11-10T06:16|Boy Harsher|Tough Luck (When You Don't Call)",
 "t": "2026-11-10T06:16:00+01:00",
@@ -8714,12 +8744,6 @@
 "t": "2026-11-03T06:38:00+01:00",
 "artist": "Crooked Man",
 "title": "The Girl With Better Clothes"
-},
-{
-"id": "2026-11-03T06:35|Ethan French|reckless and arranged - day 56 (extended)",
-"t": "2026-11-03T06:35:00+01:00",
-"artist": "Ethan French",
-"title": "reckless and arranged - day 56 (extended)"
 }
 ]
 }
