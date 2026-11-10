@@ -1,5 +1,5 @@
 {
-"updated": "2026-11-10T15:04:15.983287+01:00",
+"updated": "2026-11-10T15:16:15.983668+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
@@ -13,7 +13,7 @@
 "2026-11-07": 127,
 "2026-11-08": 111,
 "2026-11-09": 172,
-"2026-11-10": 113
+"2026-11-10": 115
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
@@ -3837,6 +3837,18 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-11-10T15:10|A.G. Sully|Psyche",
+"t": "2026-11-10T15:10:00+01:00",
+"artist": "A.G. Sully",
+"title": "Psyche"
+},
+{
+"id": "2026-11-10T15:06|Gay Dad|To Earth With Love",
+"t": "2026-11-10T15:06:00+01:00",
+"artist": "Gay Dad",
+"title": "To Earth With Love"
+},
 {
 "id": "2026-11-10T14:56|Antony Szmierek|Chalk (Radio Edit)",
 "t": "2026-11-10T14:56:00+01:00",
@@ -9056,18 +9068,6 @@
 "t": "2026-11-03T15:18:00+01:00",
 "artist": "Lola Young",
 "title": "From Down Here (Radio Edit)"
-},
-{
-"id": "2026-11-03T15:08|BICEP feat. SOARR|Air (Radio Edit)",
-"t": "2026-11-03T15:08:00+01:00",
-"artist": "BICEP feat. SOARR",
-"title": "Air (Radio Edit)"
-},
-{
-"id": "2026-11-03T15:05|The Apache Relay|Katie Queen Of Tennessee",
-"t": "2026-11-03T15:05:00+01:00",
-"artist": "The Apache Relay",
-"title": "Katie Queen Of Tennessee"
 }
 ]
 }
