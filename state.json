@@ -1,9 +1,9 @@
 {
-"updated": "2026-11-10T16:52:15.986987+01:00",
+"updated": "2026-11-10T17:16:15.987889+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
-"synced": "2026-11-10T16:40:15.986579+01:00",
+"synced": "2026-11-10T17:16:15.987889+01:00",
 "pruned": "2026-11-10",
 "calls": {
 "2026-11-03": 174,
@@ -13,12 +13,36 @@
 "2026-11-07": 127,
 "2026-11-08": 111,
 "2026-11-09": 172,
-"2026-11-10": 126
+"2026-11-10": 131
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAgbn+A+jF1SRuriTmIK2KnlAdzdmpB",
+"snapshot": "AAAgb4SOToeF+v16E+lm6QqHKi2DfCqR",
 "playlist": [
+[
+"2026-11-10T17:08|Meshell Ndegeocello feat. Cat Power|Don’t You Want Me",
+"spotify:track:5sbCqST9M4Q1sRSJM6L6oT"
+],
+[
+"2026-11-10T17:05|The National|Sorrow",
+"spotify:track:0uSy1B5lpMHgYqd7TDEjjy"
+],
+[
+"2026-11-10T16:56|Super Furry Animals|Northern Lites",
+"spotify:track:6vxzY89JbJ5zuXEWYzegKi"
+],
+[
+"2026-11-10T16:48|Lana Del Rey|West Coast",
+"spotify:track:63Lg0ZiNxedzbub29hv6VT"
+],
+[
+"2026-11-10T16:45|Cameron Winter|Love Takes Miles",
+"spotify:track:2zf1izCOz2F22PF27uhxRF"
+],
+[
+"2026-11-10T16:37|RAR|Kannst du bei mir bleiben?",
+"spotify:track:6P2p63GZxlsvoegju9iH1Z"
+],
 [
 "2026-11-10T16:34|Eno & Hyde|Daddy's Car",
 "spotify:track:4e7NJEl8Zz43kENPviycjY"
@@ -3893,6 +3917,30 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-11-10T17:08|Meshell Ndegeocello feat. Cat Power|Don’t You Want Me",
+"t": "2026-11-10T17:08:00+01:00",
+"artist": "Meshell Ndegeocello feat. Cat Power",
+"title": "Don’t You Want Me"
+},
+{
+"id": "2026-11-10T17:05|The National|Sorrow",
+"t": "2026-11-10T17:05:00+01:00",
+"artist": "The National",
+"title": "Sorrow"
+},
+{
+"id": "2026-11-10T16:56|Super Furry Animals|Northern Lites",
+"t": "2026-11-10T16:56:00+01:00",
+"artist": "Super Furry Animals",
+"title": "Northern Lites"
+},
+{
+"id": "2026-11-10T16:48|Lana Del Rey|West Coast",
+"t": "2026-11-10T16:48:00+01:00",
+"artist": "Lana Del Rey",
+"title": "West Coast"
+},
 {
 "id": "2026-11-10T16:45|Cameron Winter|Love Takes Miles",
 "t": "2026-11-10T16:45:00+01:00",
@@ -9100,24 +9148,6 @@
 "t": "2026-11-03T17:18:00+01:00",
 "artist": "Austra & Patrick Holland",
 "title": "Siren Reprise"
-},
-{
-"id": "2026-11-03T17:10|War|Low Rider",
-"t": "2026-11-03T17:10:00+01:00",
-"artist": "War",
-"title": "Low Rider"
-},
-{
-"id": "2026-11-03T17:07|The Black Keys|On Repeat",
-"t": "2026-11-03T17:07:00+01:00",
-"artist": "The Black Keys",
-"title": "On Repeat"
-},
-{
-"id": "2026-11-03T16:57|Future Islands|Ran",
-"t": "2026-11-03T16:57:00+01:00",
-"artist": "Future Islands",
-"title": "Ran"
 }
 ]
 }
