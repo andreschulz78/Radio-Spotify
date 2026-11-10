@@ -1,9 +1,9 @@
 {
-"updated": "2026-11-10T15:40:15.984482+01:00",
+"updated": "2026-11-10T15:52:15.984863+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
-"synced": "2026-11-10T15:36:15.984326+01:00",
+"synced": "2026-11-10T15:52:15.984863+01:00",
 "pruned": "2026-11-10",
 "calls": {
 "2026-11-03": 174,
@@ -13,12 +13,16 @@
 "2026-11-07": 127,
 "2026-11-08": 111,
 "2026-11-09": 172,
-"2026-11-10": 117
+"2026-11-10": 119
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAgatxKXeyxqUbiOlXgaInGc+TT7IhK",
+"snapshot": "AAAga/gKm8ctImN4nU60BUOMXOSM5A7Y",
 "playlist": [
+[
+"2026-11-10T15:46|Kenny Dope feat. Róisín Murphy|Born Under Punches (The Heat Goes On)",
+"spotify:track:2aXGl7VqgjULmAxJldWnNd"
+],
 [
 "2026-11-10T15:33|Lola Young|From Down Here (Radio Edit)",
 "spotify:track:7Hg7l5aOygIHuaNDVFp3ox"
@@ -3857,6 +3861,12 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-11-10T15:46|Kenny Dope feat. Róisín Murphy|Born Under Punches (The Heat Goes On)",
+"t": "2026-11-10T15:46:00+01:00",
+"artist": "Kenny Dope feat. Róisín Murphy",
+"title": "Born Under Punches (The Heat Goes On)"
+},
 {
 "id": "2026-11-10T15:33|Lola Young|From Down Here (Radio Edit)",
 "t": "2026-11-10T15:33:00+01:00",
@@ -9070,18 +9080,6 @@
 "t": "2026-11-03T15:55:00+01:00",
 "artist": "Meshell Ndegeocello feat. Cat Power",
 "title": "Don’t You Want Me"
-},
-{
-"id": "2026-11-03T15:51|Bilderbuch|Baby Junkie",
-"t": "2026-11-03T15:51:00+01:00",
-"artist": "Bilderbuch",
-"title": "Baby Junkie"
-},
-{
-"id": "2026-11-03T15:44|Earl Slick feat. Robert Smith|Believe",
-"t": "2026-11-03T15:44:00+01:00",
-"artist": "Earl Slick feat. Robert Smith",
-"title": "Believe"
 }
 ]
 }
