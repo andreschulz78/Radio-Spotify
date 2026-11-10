@@ -1,9 +1,9 @@
 {
-"updated": "2026-11-10T14:52:15.982914+01:00",
+"updated": "2026-11-10T15:04:15.983287+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
-"synced": "2026-11-10T14:48:15.982798+01:00",
+"synced": "2026-11-10T15:04:15.983287+01:00",
 "pruned": "2026-11-10",
 "calls": {
 "2026-11-03": 174,
@@ -13,12 +13,24 @@
 "2026-11-07": 127,
 "2026-11-08": 111,
 "2026-11-09": 172,
-"2026-11-10": 111
+"2026-11-10": 113
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAgZ+SQszzbGDdyRTUecshCo+l8cKLn",
+"snapshot": "AAAgaKFKbmGEDowXOd+4E45dTkC9kWD0",
 "playlist": [
+[
+"2026-11-10T14:56|Antony Szmierek|Chalk (Radio Edit)",
+"spotify:track:5HdeMdzAlNKwCM4L9cjehN"
+],
+[
+"2026-11-10T14:50|Julee Cruise|Falling",
+"spotify:track:5Qi78nPpHILvtXV45yP2mq"
+],
+[
+"2026-11-10T14:45|Anderson .Paak & Cordae|A Good Day",
+"spotify:track:4CrnExkcZkg6Aek113hAWl"
+],
 [
 "2026-11-10T14:42|KT Tunstall|The Mountain",
 "spotify:track:3IWiTPGXvyTmfRO7sm0y78"
@@ -3825,6 +3837,18 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-11-10T14:56|Antony Szmierek|Chalk (Radio Edit)",
+"t": "2026-11-10T14:56:00+01:00",
+"artist": "Antony Szmierek",
+"title": "Chalk (Radio Edit)"
+},
+{
+"id": "2026-11-10T14:50|Julee Cruise|Falling",
+"t": "2026-11-10T14:50:00+01:00",
+"artist": "Julee Cruise",
+"title": "Falling"
+},
 {
 "id": "2026-11-10T14:45|Anderson .Paak & Cordae|A Good Day",
 "t": "2026-11-10T14:45:00+01:00",
@@ -9044,12 +9068,6 @@
 "t": "2026-11-03T15:05:00+01:00",
 "artist": "The Apache Relay",
 "title": "Katie Queen Of Tennessee"
-},
-{
-"id": "2026-11-03T14:56|A Tribe Called Quest|Enough!!",
-"t": "2026-11-03T14:56:00+01:00",
-"artist": "A Tribe Called Quest",
-"title": "Enough!!"
 }
 ]
 }
