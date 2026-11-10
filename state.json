@@ -1,9 +1,9 @@
 {
-"updated": "2026-11-10T14:40:15.982596+01:00",
+"updated": "2026-11-10T14:52:15.982914+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
-"synced": "2026-11-10T14:32:15.982387+01:00",
+"synced": "2026-11-10T14:48:15.982798+01:00",
 "pruned": "2026-11-10",
 "calls": {
 "2026-11-03": 174,
@@ -13,12 +13,28 @@
 "2026-11-07": 127,
 "2026-11-08": 111,
 "2026-11-09": 172,
-"2026-11-10": 108
+"2026-11-10": 111
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAgZj0drXWsweD3zC8VPgJVcs6wJJE1",
+"snapshot": "AAAgZ+SQszzbGDdyRTUecshCo+l8cKLn",
 "playlist": [
+[
+"2026-11-10T14:42|KT Tunstall|The Mountain",
+"spotify:track:3IWiTPGXvyTmfRO7sm0y78"
+],
+[
+"2026-11-10T14:38|The Rolling Stones|Ruby Tuesday",
+"spotify:track:4hupcimlg3UBbW1kAQ6vrT"
+],
+[
+"2026-11-10T14:32|Investment|Parlament der Liebe",
+"spotify:track:2uAnFzznAc1F2lJvYHkbPo"
+],
+[
+"2026-11-10T14:29|Sassy 009 feat. Blood Orange|Tell Me (Jam City Remix) (Edit)",
+"spotify:track:1pDiRrLro0tlhsPSexB3Zv"
+],
 [
 "2026-11-10T14:24|Devendra Banhart|16th & Valencia Roxy Music",
 "spotify:track:6b6qt7rMWSBpoTABd6t9nB"
@@ -3809,6 +3825,24 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-11-10T14:45|Anderson .Paak & Cordae|A Good Day",
+"t": "2026-11-10T14:45:00+01:00",
+"artist": "Anderson .Paak & Cordae",
+"title": "A Good Day"
+},
+{
+"id": "2026-11-10T14:42|KT Tunstall|The Mountain",
+"t": "2026-11-10T14:42:00+01:00",
+"artist": "KT Tunstall",
+"title": "The Mountain"
+},
+{
+"id": "2026-11-10T14:38|The Rolling Stones|Ruby Tuesday",
+"t": "2026-11-10T14:38:00+01:00",
+"artist": "The Rolling Stones",
+"title": "Ruby Tuesday"
+},
 {
 "id": "2026-11-10T14:32|Investment|Parlament der Liebe",
 "t": "2026-11-10T14:32:00+01:00",
@@ -9016,24 +9050,6 @@
 "t": "2026-11-03T14:56:00+01:00",
 "artist": "A Tribe Called Quest",
 "title": "Enough!!"
-},
-{
-"id": "2026-11-03T14:50|AGASSI|The Whole Shebang",
-"t": "2026-11-03T14:50:00+01:00",
-"artist": "AGASSI",
-"title": "The Whole Shebang"
-},
-{
-"id": "2026-11-03T14:47|Wallners|Movie Stars",
-"t": "2026-11-03T14:47:00+01:00",
-"artist": "Wallners",
-"title": "Movie Stars"
-},
-{
-"id": "2026-11-03T14:43|Gabriels|Break It",
-"t": "2026-11-03T14:43:00+01:00",
-"artist": "Gabriels",
-"title": "Break It"
 }
 ]
 }
