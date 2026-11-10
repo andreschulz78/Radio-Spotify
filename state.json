@@ -1,9 +1,9 @@
 {
-"updated": "2026-11-10T14:04:15.981482+01:00",
+"updated": "2026-11-10T14:16:15.981869+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
-"synced": "2026-11-10T14:00:15.981288+01:00",
+"synced": "2026-11-10T14:16:15.981869+01:00",
 "pruned": "2026-11-10",
 "calls": {
 "2026-11-03": 174,
@@ -13,12 +13,24 @@
 "2026-11-07": 127,
 "2026-11-08": 111,
 "2026-11-09": 172,
-"2026-11-10": 101
+"2026-11-10": 104
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAgZF1dRzRlPgcy6hVkHcSCxCrFdilS",
+"snapshot": "AAAgZTGLqsCashR3fsa3pazQlAgAP+Dd",
 "playlist": [
+[
+"2026-11-10T14:08|Anna Calvi|Eliza",
+"spotify:track:56Pz2bnAj3XdvD2u0rNFrF"
+],
+[
+"2026-11-10T14:05|Caribou|Never Come Back",
+"spotify:track:0Ej6OBBtMvhjaJvtt1vtUt"
+],
+[
+"2026-11-10T13:56|Pet Shop Boys|Burning The Heather (Edit)",
+"spotify:track:4NeUydtrbckcE0fbMOAK2Y"
+],
 [
 "2026-11-10T13:50|Kollektiv Turmstrasse feat. Joel Stewart|When The Lights Go Lower",
 "spotify:track:0KuVHr9kyw0Z2gBv5gwNH1"
@@ -3789,6 +3801,18 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-11-10T14:08|Anna Calvi|Eliza",
+"t": "2026-11-10T14:08:00+01:00",
+"artist": "Anna Calvi",
+"title": "Eliza"
+},
+{
+"id": "2026-11-10T14:05|Caribou|Never Come Back",
+"t": "2026-11-10T14:05:00+01:00",
+"artist": "Caribou",
+"title": "Never Come Back"
+},
 {
 "id": "2026-11-10T13:56|Pet Shop Boys|Burning The Heather (Edit)",
 "t": "2026-11-10T13:56:00+01:00",
@@ -9014,18 +9038,6 @@
 "t": "2026-11-03T14:17:00+01:00",
 "artist": "Smidley feat. Lucy Dacus",
 "title": "Capstone"
-},
-{
-"id": "2026-11-03T14:08|José González|Teardrop",
-"t": "2026-11-03T14:08:00+01:00",
-"artist": "José González",
-"title": "Teardrop"
-},
-{
-"id": "2026-11-03T14:05|The Avalanches feat. Karen O|Blue Shadows",
-"t": "2026-11-03T14:05:00+01:00",
-"artist": "The Avalanches feat. Karen O",
-"title": "Blue Shadows"
 }
 ]
 }
