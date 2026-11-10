@@ -1,9 +1,9 @@
 {
-"updated": "2026-11-10T08:01:36.162153+01:00",
+"updated": "2026-11-10T08:13:36.162505+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
-"synced": "2026-11-10T07:53:36.161883+01:00",
+"synced": "2026-11-10T08:09:36.162413+01:00",
 "pruned": "2026-11-10",
 "calls": {
 "2026-11-03": 174,
@@ -13,12 +13,20 @@
 "2026-11-07": 127,
 "2026-11-08": 111,
 "2026-11-09": 172,
-"2026-11-10": 30
+"2026-11-10": 32
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAgTSXgajnl46EBJm8yKd8Wivdqq5R3",
+"snapshot": "AAAgTjabZt4F1ARdDYTKK+dTsFwYvtNs",
 "playlist": [
+[
+"2026-11-10T07:56|MorMor feat. Celeste|Like Heaven",
+"spotify:track:5pZGuhprytXKB7QRMul3jq"
+],
+[
+"2026-11-10T07:49|De La Soul feat. Otis Redding|Eye Know",
+"spotify:track:1q1AdQLArP7xxM5phOTUki"
+],
 [
 "2026-11-10T07:43|Ibeyi|Hurry Hurry",
 "spotify:track:4BGA7VW330Eu1kaFNi98cG"
@@ -3533,6 +3541,12 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-11-10T08:05|The Zutons|Valerie",
+"t": "2026-11-10T08:05:00+01:00",
+"artist": "The Zutons",
+"title": "Valerie"
+},
 {
 "id": "2026-11-10T07:56|MorMor feat. Celeste|Like Heaven",
 "t": "2026-11-10T07:56:00+01:00",
@@ -8752,12 +8766,6 @@
 "t": "2026-11-03T08:14:00+01:00",
 "artist": "Nerina Pallot",
 "title": "Put Your Hands Up"
-},
-{
-"id": "2026-11-03T08:06|Leon Bridges|Talk it over",
-"t": "2026-11-03T08:06:00+01:00",
-"artist": "Leon Bridges",
-"title": "Talk it over"
 }
 ]
 }
