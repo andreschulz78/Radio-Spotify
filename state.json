@@ -1,9 +1,9 @@
 {
-"updated": "2026-11-10T05:25:36.156981+01:00",
+"updated": "2026-11-10T05:37:36.157359+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
-"synced": "2026-11-10T05:13:36.156590+01:00",
+"synced": "2026-11-10T05:29:36.157117+01:00",
 "pruned": "2026-11-10",
 "calls": {
 "2026-11-03": 174,
@@ -12,12 +12,21 @@
 "2026-11-06": 191,
 "2026-11-07": 127,
 "2026-11-08": 111,
-"2026-11-09": 170
+"2026-11-09": 172,
+"2026-11-10": 3
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAgQd9hXf3ebxiKv0rI7vnuPWz+WnC6",
+"snapshot": "AAAgQiviuFn0IDxFibPMI6Iq7e0QdAxY",
 "playlist": [
+[
+"2026-11-10T05:17|Tikhet|Burndowner",
+"spotify:track:76iRkapw7dHIlJhSoy7PCv"
+],
+[
+"2026-11-10T05:10|Jochen Distelmeyer|Zurück zu mir",
+"spotify:track:2UN3enIH2HNm6ELZeCNkvF"
+],
 [
 "2026-11-10T05:06|Moonlight Breakfast|If Not Now, Then When?!",
 "spotify:track:7rqjXsHITwfxR5XoKIGsaJ"
@@ -3440,6 +3449,24 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-11-10T05:31|Spank Rock feat. Santigold|Car Song",
+"t": "2026-11-10T05:31:00+01:00",
+"artist": "Spank Rock feat. Santigold",
+"title": "Car Song"
+},
+{
+"id": "2026-11-10T05:26|Harry Nilsson|Coconut",
+"t": "2026-11-10T05:26:00+01:00",
+"artist": "Harry Nilsson",
+"title": "Coconut"
+},
+{
+"id": "2026-11-10T05:23|Matilda Mann|Just Because",
+"t": "2026-11-10T05:23:00+01:00",
+"artist": "Matilda Mann",
+"title": "Just Because"
+},
 {
 "id": "2026-11-10T05:17|Tikhet|Burndowner",
 "t": "2026-11-10T05:17:00+01:00",
@@ -8659,18 +8686,6 @@
 "t": "2026-11-03T05:38:00+01:00",
 "artist": "Matchbox 20",
 "title": "Push"
-},
-{
-"id": "2026-11-03T05:32|Gerry Read feat. Gregor|Taking All My Clothes Off",
-"t": "2026-11-03T05:32:00+01:00",
-"artist": "Gerry Read feat. Gregor",
-"title": "Taking All My Clothes Off"
-},
-{
-"id": "2026-11-03T05:27|Bill Withers|Ain't no sunshine",
-"t": "2026-11-03T05:27:00+01:00",
-"artist": "Bill Withers",
-"title": "Ain't no sunshine"
 }
 ]
 }
