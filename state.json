@@ -1,9 +1,9 @@
 {
-"updated": "2026-11-10T15:28:15.984069+01:00",
+"updated": "2026-11-10T15:40:15.984482+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
-"synced": "2026-11-10T15:20:15.983795+01:00",
+"synced": "2026-11-10T15:36:15.984326+01:00",
 "pruned": "2026-11-10",
 "calls": {
 "2026-11-03": 174,
@@ -13,12 +13,24 @@
 "2026-11-07": 127,
 "2026-11-08": 111,
 "2026-11-09": 172,
-"2026-11-10": 116
+"2026-11-10": 117
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAgaTllQNgAzVgluGPm7C3l+jNDg1oj",
+"snapshot": "AAAgatxKXeyxqUbiOlXgaInGc+TT7IhK",
 "playlist": [
+[
+"2026-11-10T15:33|Lola Young|From Down Here (Radio Edit)",
+"spotify:track:7Hg7l5aOygIHuaNDVFp3ox"
+],
+[
+"2026-11-10T15:24|Lord Huron|Bag of bones",
+"spotify:track:1M2AqYT4Y6X0zRboZgIw8K"
+],
+[
+"2026-11-10T15:18|Natalie Bergmann|White Oak (Kosta G. Remix)",
+"spotify:track:18PftHVAUSO5vTwdeRa7Lv"
+],
 [
 "2026-11-10T15:10|A.G. Sully|Psyche",
 "spotify:track:58EdbjtDOhgX3T1IoHGt5N"
@@ -3845,6 +3857,18 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-11-10T15:33|Lola Young|From Down Here (Radio Edit)",
+"t": "2026-11-10T15:33:00+01:00",
+"artist": "Lola Young",
+"title": "From Down Here (Radio Edit)"
+},
+{
+"id": "2026-11-10T15:24|Lord Huron|Bag of bones",
+"t": "2026-11-10T15:24:00+01:00",
+"artist": "Lord Huron",
+"title": "Bag of bones"
+},
 {
 "id": "2026-11-10T15:18|Natalie Bergmann|White Oak (Kosta G. Remix)",
 "t": "2026-11-10T15:18:00+01:00",
@@ -9058,12 +9082,6 @@
 "t": "2026-11-03T15:44:00+01:00",
 "artist": "Earl Slick feat. Robert Smith",
 "title": "Believe"
-},
-{
-"id": "2026-11-03T15:31|Nabihah Iqbal|This World Couldn't See Us",
-"t": "2026-11-03T15:31:00+01:00",
-"artist": "Nabihah Iqbal",
-"title": "This World Couldn't See Us"
 }
 ]
 }
