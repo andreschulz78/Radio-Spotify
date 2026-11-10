@@ -1,9 +1,9 @@
 {
-"updated": "2026-11-10T06:13:36.158522+01:00",
+"updated": "2026-11-10T06:25:36.158903+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
-"synced": "2026-11-10T06:01:36.158151+01:00",
+"synced": "2026-11-10T06:17:36.158651+01:00",
 "pruned": "2026-11-10",
 "calls": {
 "2026-11-03": 174,
@@ -13,12 +13,20 @@
 "2026-11-07": 127,
 "2026-11-08": 111,
 "2026-11-09": 172,
-"2026-11-10": 11
+"2026-11-10": 13
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAgRJltP8Ipgn14ueQyMo+4wbQ1OYvP",
+"snapshot": "AAAgRSjOmrQsC9aCudC5SxmMwUZvcaoC",
 "playlist": [
+[
+"2026-11-10T06:11|Madonna|Into The Groove",
+"spotify:track:3y2Y3Bc6GDxAWAMIpbW7RU"
+],
+[
+"2026-11-10T06:04|Twin Shadow|Dominoes",
+"spotify:track:5cgK6Kvd1rLMqLbZIwytnh"
+],
 [
 "2026-11-10T05:56|Peter Doherty|Felt Better Alive",
 "spotify:track:0sPQgw8MafItfkGU4t0yWC"
@@ -3481,6 +3489,18 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-11-10T06:16|Boy Harsher|Tough Luck (When You Don't Call)",
+"t": "2026-11-10T06:16:00+01:00",
+"artist": "Boy Harsher",
+"title": "Tough Luck (When You Don't Call)"
+},
+{
+"id": "2026-11-10T06:11|Madonna|Into The Groove",
+"t": "2026-11-10T06:11:00+01:00",
+"artist": "Madonna",
+"title": "Into The Groove"
+},
 {
 "id": "2026-11-10T06:04|Twin Shadow|Dominoes",
 "t": "2026-11-10T06:04:00+01:00",
@@ -8700,18 +8720,6 @@
 "t": "2026-11-03T06:35:00+01:00",
 "artist": "Ethan French",
 "title": "reckless and arranged - day 56 (extended)"
-},
-{
-"id": "2026-11-03T06:25|US3|You Can't Hold Me Down",
-"t": "2026-11-03T06:25:00+01:00",
-"artist": "US3",
-"title": "You Can't Hold Me Down"
-},
-{
-"id": "2026-11-03T06:19|Blonde Redhead|Sit Down For Dinner, Pt. 2",
-"t": "2026-11-03T06:19:00+01:00",
-"artist": "Blonde Redhead",
-"title": "Sit Down For Dinner, Pt. 2"
 }
 ]
 }
