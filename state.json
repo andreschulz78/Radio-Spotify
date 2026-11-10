@@ -1,5 +1,5 @@
 {
-"updated": "2026-11-10T17:16:15.987889+01:00",
+"updated": "2026-11-10T17:28:15.988298+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
@@ -13,7 +13,7 @@
 "2026-11-07": 127,
 "2026-11-08": 111,
 "2026-11-09": 172,
-"2026-11-10": 131
+"2026-11-10": 133
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
@@ -3917,6 +3917,18 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-11-10T17:17|Kate Bush|Somewhere In Between",
+"t": "2026-11-10T17:17:00+01:00",
+"artist": "Kate Bush",
+"title": "Somewhere In Between"
+},
+{
+"id": "2026-11-10T17:15|Young Franco w/ EARTHGANG & Jafunk|Lose Control",
+"t": "2026-11-10T17:15:00+01:00",
+"artist": "Young Franco w/ EARTHGANG & Jafunk",
+"title": "Lose Control"
+},
 {
 "id": "2026-11-10T17:08|Meshell Ndegeocello feat. Cat Power|Don’t You Want Me",
 "t": "2026-11-10T17:08:00+01:00",
@@ -9136,18 +9148,6 @@
 "t": "2026-11-03T17:34:00+01:00",
 "artist": "Tikhet",
 "title": "Burndowner"
-},
-{
-"id": "2026-11-03T17:26|Beck|It Ends Right Here",
-"t": "2026-11-03T17:26:00+01:00",
-"artist": "Beck",
-"title": "It Ends Right Here"
-},
-{
-"id": "2026-11-03T17:18|Austra & Patrick Holland|Siren Reprise",
-"t": "2026-11-03T17:18:00+01:00",
-"artist": "Austra & Patrick Holland",
-"title": "Siren Reprise"
 }
 ]
 }
