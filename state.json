@@ -1,9 +1,9 @@
 {
-"updated": "2026-11-10T21:01:59.821992+01:00",
+"updated": "2026-11-10T21:13:59.822343+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
-"synced": "2026-11-10T20:53:59.821745+01:00",
+"synced": "2026-11-10T21:09:59.822238+01:00",
 "pruned": "2026-11-10",
 "calls": {
 "2026-11-03": 174,
@@ -13,12 +13,20 @@
 "2026-11-07": 127,
 "2026-11-08": 111,
 "2026-11-09": 172,
-"2026-11-10": 156
+"2026-11-10": 157
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAgdoUU1/BlA/xUo+Jf5jAP/zT9y5kv",
+"snapshot": "AAAgd5JORydqUgIzM4Ffcbsqvvn0BBoz",
 "playlist": [
+[
+"2026-11-10T20:52|The Drums feat. Mareux|It Didn't Matter",
+"spotify:track:10kxTiNUTo4nlEbH1EzoX1"
+],
+[
+"2026-11-10T20:50|CAN MIT ME$$R|Fang dich",
+"spotify:track:49hhHbtDvXmhBzLITL6onl"
+],
 [
 "2026-11-10T20:45|Apparat|Little Feet (Radio Edit)",
 "spotify:track:4urSQgCa5bJxrncJj6V68e"
