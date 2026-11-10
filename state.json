@@ -1,9 +1,9 @@
 {
-"updated": "2026-11-10T06:37:36.159302+01:00",
+"updated": "2026-11-10T06:49:36.159703+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
-"synced": "2026-11-10T06:33:36.159176+01:00",
+"synced": "2026-11-10T06:49:36.159703+01:00",
 "pruned": "2026-11-10",
 "calls": {
 "2026-11-03": 174,
@@ -13,12 +13,20 @@
 "2026-11-07": 127,
 "2026-11-08": 111,
 "2026-11-09": 172,
-"2026-11-10": 18
+"2026-11-10": 21
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAgRvEooRZFcu5RA+lmMiJm2bUt4y7O",
+"snapshot": "AAAgSbxf6ACpqI5Ku6Tz2+MIPHpBVdMZ",
 "playlist": [
+[
+"2026-11-10T06:40|Gorillaz feat. Fatoumata Diawara|Désolé",
+"spotify:track:1lPjbmk2TylddPKESSIBfm"
+],
+[
+"2026-11-10T06:33|Grouplove|Tongue Tied",
+"spotify:track:0GO8y8jQk1PkHzS31d699N"
+],
 [
 "2026-11-10T06:26|Tank And The Bangas|Ain’t That Deep",
 "spotify:track:0PokJfPldX6FgGR7covt03"
@@ -3432,10 +3440,6 @@
 "spotify:track:5seYGZRYuD3oPMxryJdvOk"
 ],
 [
-"2026-11-03T06:49|Yndling|Time Time Time (I'm in the Palm of Your Hand)",
-"spotify:track:02UC3kQj8XFMqW1oeVo9xD"
-],
-[
 "2026-11-03T06:44|Interpol|Iron City",
 "spotify:track:7o9gwmscHBXh6sUEYkWQ4e"
 ],
@@ -3501,6 +3505,12 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-11-10T06:40|Gorillaz feat. Fatoumata Diawara|Désolé",
+"t": "2026-11-10T06:40:00+01:00",
+"artist": "Gorillaz feat. Fatoumata Diawara",
+"title": "Désolé"
+},
 {
 "id": "2026-11-10T06:33|Grouplove|Tongue Tied",
 "t": "2026-11-10T06:33:00+01:00",
@@ -8726,24 +8736,6 @@
 "t": "2026-11-03T06:52:00+01:00",
 "artist": "Bonaparte",
 "title": "KiOSKO"
-},
-{
-"id": "2026-11-03T06:49|Yndling|Time Time Time (I'm in the Palm of Your Hand)",
-"t": "2026-11-03T06:49:00+01:00",
-"artist": "Yndling",
-"title": "Time Time Time (I'm in the Palm of Your Hand)"
-},
-{
-"id": "2026-11-03T06:44|Interpol|Iron City",
-"t": "2026-11-03T06:44:00+01:00",
-"artist": "Interpol",
-"title": "Iron City"
-},
-{
-"id": "2026-11-03T06:38|Crooked Man|The Girl With Better Clothes",
-"t": "2026-11-03T06:38:00+01:00",
-"artist": "Crooked Man",
-"title": "The Girl With Better Clothes"
 }
 ]
 }
