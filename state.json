@@ -1,9 +1,9 @@
 {
-"updated": "2026-11-10T09:49:36.165710+01:00",
+"updated": "2026-11-10T10:01:36.166064+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
-"synced": "2026-11-10T09:45:36.165584+01:00",
+"synced": "2026-11-10T10:01:36.166064+01:00",
 "pruned": "2026-11-10",
 "calls": {
 "2026-11-03": 174,
@@ -13,12 +13,20 @@
 "2026-11-07": 127,
 "2026-11-08": 111,
 "2026-11-09": 172,
-"2026-11-10": 49
+"2026-11-10": 52
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAgVHVuaLTdasgyT0aVXpMdK7mKMmqi",
+"snapshot": "AAAgVcnzP+Awz8nCCyDeVoLTYWi46i1R",
 "playlist": [
+[
+"2026-11-10T09:49|Seabear|Lion Face Boy",
+"spotify:track:24TXj7GM9RkeqMeMDhdEX8"
+],
+[
+"2026-11-10T09:45|Nation of Language|Inept Apollo",
+"spotify:track:0YikZXNNkvNlPInLAPMV06"
+],
 [
 "2026-11-10T09:41|Jim James|Come Again",
 "spotify:track:6S3Ao3HkuLpHffHWL8oRsz"
@@ -3609,6 +3617,18 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-11-10T09:49|Seabear|Lion Face Boy",
+"t": "2026-11-10T09:49:00+01:00",
+"artist": "Seabear",
+"title": "Lion Face Boy"
+},
+{
+"id": "2026-11-10T09:45|Nation of Language|Inept Apollo",
+"t": "2026-11-10T09:45:00+01:00",
+"artist": "Nation of Language",
+"title": "Inept Apollo"
+},
 {
 "id": "2026-11-10T09:41|Jim James|Come Again",
 "t": "2026-11-10T09:41:00+01:00",
@@ -8828,18 +8848,6 @@
 "t": "2026-11-03T10:05:00+01:00",
 "artist": "Moonlight Breakfast",
 "title": "If Not Now, Then When?!"
-},
-{
-"id": "2026-11-03T09:57|Amy Winehouse|Love Is A Losing Game",
-"t": "2026-11-03T09:57:00+01:00",
-"artist": "Amy Winehouse",
-"title": "Love Is A Losing Game"
-},
-{
-"id": "2026-11-03T09:50|UCHE YARA|Hello Hello",
-"t": "2026-11-03T09:50:00+01:00",
-"artist": "UCHE YARA",
-"title": "Hello Hello"
 }
 ]
 }
