@@ -1,9 +1,9 @@
 {
-"updated": "2026-11-10T08:13:36.162505+01:00",
+"updated": "2026-11-10T08:25:36.162927+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
-"synced": "2026-11-10T08:09:36.162413+01:00",
+"synced": "2026-11-10T08:25:36.162927+01:00",
 "pruned": "2026-11-10",
 "calls": {
 "2026-11-03": 174,
@@ -13,12 +13,28 @@
 "2026-11-07": 127,
 "2026-11-08": 111,
 "2026-11-09": 172,
-"2026-11-10": 32
+"2026-11-10": 34
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAgTjabZt4F1ARdDYTKK+dTsFwYvtNs",
+"snapshot": "AAAgT7pBfc03egBOV2PiiSRnD+KTq6Gn",
 "playlist": [
+[
+"2026-11-10T08:20|Babybird|You're Gorgeous",
+"spotify:track:4rPoJUEsbj9f1ExAjORKLR"
+],
+[
+"2026-11-10T08:18|Bilderbuch|Baby Junkie",
+"spotify:track:1bPs9oNEaAEUYfCL7tH79W"
+],
+[
+"2026-11-10T08:14|Grace Cummings|I'm Not Crazy",
+"spotify:track:70QaE9UJ2uTVwC4IGS6yvU"
+],
+[
+"2026-11-10T08:05|The Zutons|Valerie",
+"spotify:track:2LuJkoxMlLQshNTVa8oCXW"
+],
 [
 "2026-11-10T07:56|MorMor feat. Celeste|Like Heaven",
 "spotify:track:5pZGuhprytXKB7QRMul3jq"
@@ -3541,6 +3557,24 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-11-10T08:20|Babybird|You're Gorgeous",
+"t": "2026-11-10T08:20:00+01:00",
+"artist": "Babybird",
+"title": "You're Gorgeous"
+},
+{
+"id": "2026-11-10T08:18|Bilderbuch|Baby Junkie",
+"t": "2026-11-10T08:18:00+01:00",
+"artist": "Bilderbuch",
+"title": "Baby Junkie"
+},
+{
+"id": "2026-11-10T08:14|Grace Cummings|I'm Not Crazy",
+"t": "2026-11-10T08:14:00+01:00",
+"artist": "Grace Cummings",
+"title": "I'm Not Crazy"
+},
 {
 "id": "2026-11-10T08:05|The Zutons|Valerie",
 "t": "2026-11-10T08:05:00+01:00",
@@ -8748,24 +8782,6 @@
 "t": "2026-11-03T08:26:00+01:00",
 "artist": "Villagers",
 "title": "You Lucky One"
-},
-{
-"id": "2026-11-03T08:22|The Spinners|The Rubberband Man",
-"t": "2026-11-03T08:22:00+01:00",
-"artist": "The Spinners",
-"title": "The Rubberband Man"
-},
-{
-"id": "2026-11-03T08:19|Friedberg|Goodwife",
-"t": "2026-11-03T08:19:00+01:00",
-"artist": "Friedberg",
-"title": "Goodwife"
-},
-{
-"id": "2026-11-03T08:14|Nerina Pallot|Put Your Hands Up",
-"t": "2026-11-03T08:14:00+01:00",
-"artist": "Nerina Pallot",
-"title": "Put Your Hands Up"
 }
 ]
 }
