@@ -1,9 +1,9 @@
 {
-"updated": "2026-11-10T18:16:15.990085+01:00",
+"updated": "2026-11-10T20:37:59.821254+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
-"synced": "2026-11-10T18:04:15.989690+01:00",
+"synced": "2026-11-10T20:37:59.821254+01:00",
 "pruned": "2026-11-10",
 "calls": {
 "2026-11-03": 174,
@@ -13,12 +13,40 @@
 "2026-11-07": 127,
 "2026-11-08": 111,
 "2026-11-09": 172,
-"2026-11-10": 143
+"2026-11-10": 147
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAgcppCEzeXXlnpNZ1dANVqAkF1tr9X",
+"snapshot": "AAAgc9LK3PH5Ujlum6bINU4lnYwu9glU",
 "playlist": [
+[
+"2026-11-10T18:56|The Flaming Lips|God Will Control The Werewolves (Radio Edit)",
+"spotify:track:63hixy83eOlSRb4JFnmnpg"
+],
+[
+"2026-11-10T18:49|Tunng|Scared To Death",
+"spotify:track:7L03LXn3gpwoI3HJ5VeoBZ"
+],
+[
+"2026-11-10T18:46|Liam Gallagher|Once",
+"spotify:track:3bCwWfwMOpcltYlt17gIRO"
+],
+[
+"2026-11-10T18:42|Carla Bruni|Quelque chose",
+"spotify:track:45UVzUVdOmTXVkkaGp0eeG"
+],
+[
+"2026-11-10T18:21|Vince Staples|Tulsa, OK",
+"spotify:track:4lyK8sT0dLpxSBv14wtVet"
+],
+[
+"2026-11-10T18:10|The Big Moon|F.O.R.E.V.E.R",
+"spotify:track:0UaPOdi1O83vr1oTXaGqgx"
+],
+[
+"2026-11-10T18:06|Durand Jones & The Indications|Love Will Work It Out (feat. Aaron Frazer)",
+"spotify:track:4bQhGIHwo1ZpixP9MudUbV"
+],
 [
 "2026-11-10T17:56|Messer|Taucher (Für Smukal)",
 "spotify:track:7M0uXinHq1q66aL8U3nNgT"
@@ -3949,6 +3977,60 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-11-10T18:56|The Flaming Lips|God Will Control The Werewolves (Radio Edit)",
+"t": "2026-11-10T18:56:00+01:00",
+"artist": "The Flaming Lips",
+"title": "God Will Control The Werewolves (Radio Edit)"
+},
+{
+"id": "2026-11-10T18:49|Tunng|Scared To Death",
+"t": "2026-11-10T18:49:00+01:00",
+"artist": "Tunng",
+"title": "Scared To Death"
+},
+{
+"id": "2026-11-10T18:46|Liam Gallagher|Once",
+"t": "2026-11-10T18:46:00+01:00",
+"artist": "Liam Gallagher",
+"title": "Once"
+},
+{
+"id": "2026-11-10T18:42|Carla Bruni|Quelque chose",
+"t": "2026-11-10T18:42:00+01:00",
+"artist": "Carla Bruni",
+"title": "Quelque chose"
+},
+{
+"id": "2026-11-10T18:35|Tank And The Bangas|Stolen Fruit",
+"t": "2026-11-10T18:35:00+01:00",
+"artist": "Tank And The Bangas",
+"title": "Stolen Fruit"
+},
+{
+"id": "2026-11-10T18:32|Arctic Monkeys|Fluorescent Adolescent",
+"t": "2026-11-10T18:32:00+01:00",
+"artist": "Arctic Monkeys",
+"title": "Fluorescent Adolescent"
+},
+{
+"id": "2026-11-10T18:25|Nation of Language|Stumbling Still (Edit)",
+"t": "2026-11-10T18:25:00+01:00",
+"artist": "Nation of Language",
+"title": "Stumbling Still (Edit)"
+},
+{
+"id": "2026-11-10T18:21|Vince Staples|Tulsa, OK",
+"t": "2026-11-10T18:21:00+01:00",
+"artist": "Vince Staples",
+"title": "Tulsa, OK"
+},
+{
+"id": "2026-11-10T18:17|Rumer|Am I Forgiven",
+"t": "2026-11-10T18:17:00+01:00",
+"artist": "Rumer",
+"title": "Am I Forgiven"
+},
 {
 "id": "2026-11-10T18:10|The Big Moon|F.O.R.E.V.E.R",
 "t": "2026-11-10T18:10:00+01:00",
@@ -9096,90 +9178,6 @@
 "t": "2026-11-03T20:48:00+01:00",
 "artist": "The Cardigans",
 "title": "My Favourite Game"
-},
-{
-"id": "2026-11-03T20:33|Pankow|Stille",
-"t": "2026-11-03T20:33:00+01:00",
-"artist": "Pankow",
-"title": "Stille"
-},
-{
-"id": "2026-11-03T20:05|Black|Wonderful life",
-"t": "2026-11-03T20:05:00+01:00",
-"artist": "Black",
-"title": "Wonderful life"
-},
-{
-"id": "2026-11-03T19:53|Bauhaus|She's In Parties",
-"t": "2026-11-03T19:53:00+01:00",
-"artist": "Bauhaus",
-"title": "She's In Parties"
-},
-{
-"id": "2026-11-03T19:45|Steve Earle & Emmilou Harris|Taneytown (gekürzt)",
-"t": "2026-11-03T19:45:00+01:00",
-"artist": "Steve Earle & Emmilou Harris",
-"title": "Taneytown (gekürzt)"
-},
-{
-"id": "2026-11-03T19:22|Vince Staples|Tulsa, OK",
-"t": "2026-11-03T19:22:00+01:00",
-"artist": "Vince Staples",
-"title": "Tulsa, OK"
-},
-{
-"id": "2026-11-03T19:06|Sassy 009 feat. Blood Orange|Tell Me (Jam City Remix) (Edit)",
-"t": "2026-11-03T19:06:00+01:00",
-"artist": "Sassy 009 feat. Blood Orange",
-"title": "Tell Me (Jam City Remix) (Edit)"
-},
-{
-"id": "2026-11-03T18:56|Overmono feat. Ruthven|Gem Lingo (ovr now)",
-"t": "2026-11-03T18:56:00+01:00",
-"artist": "Overmono feat. Ruthven",
-"title": "Gem Lingo (ovr now)"
-},
-{
-"id": "2026-11-03T18:51|Hether|Falling For The Feeling",
-"t": "2026-11-03T18:51:00+01:00",
-"artist": "Hether",
-"title": "Falling For The Feeling"
-},
-{
-"id": "2026-11-03T18:46|Odd Beholder|Lean Dreams",
-"t": "2026-11-03T18:46:00+01:00",
-"artist": "Odd Beholder",
-"title": "Lean Dreams"
-},
-{
-"id": "2026-11-03T18:43|John Frusciante|Going Inside",
-"t": "2026-11-03T18:43:00+01:00",
-"artist": "John Frusciante",
-"title": "Going Inside"
-},
-{
-"id": "2026-11-03T18:37|Ruti|So Much More",
-"t": "2026-11-03T18:37:00+01:00",
-"artist": "Ruti",
-"title": "So Much More"
-},
-{
-"id": "2026-11-03T18:33|Tame Impala|Afterthought",
-"t": "2026-11-03T18:33:00+01:00",
-"artist": "Tame Impala",
-"title": "Afterthought"
-},
-{
-"id": "2026-11-03T18:24|Sam Burton|I'm A Stranger",
-"t": "2026-11-03T18:24:00+01:00",
-"artist": "Sam Burton",
-"title": "I'm A Stranger"
-},
-{
-"id": "2026-11-03T18:19|EELS|Congratulations To Me",
-"t": "2026-11-03T18:19:00+01:00",
-"artist": "EELS",
-"title": "Congratulations To Me"
 }
 ]
 }
