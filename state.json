@@ -1,9 +1,9 @@
 {
-"updated": "2026-11-10T17:40:15.988759+01:00",
+"updated": "2026-11-10T17:52:15.989241+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
-"synced": "2026-11-10T17:32:15.988421+01:00",
+"synced": "2026-11-10T17:48:15.989113+01:00",
 "pruned": "2026-11-10",
 "calls": {
 "2026-11-03": 174,
@@ -13,12 +13,20 @@
 "2026-11-07": 127,
 "2026-11-08": 111,
 "2026-11-09": 172,
-"2026-11-10": 136
+"2026-11-10": 138
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAgcKt6TZ/1NESpE4330/cnt4A5SrX8",
+"snapshot": "AAAgcbXuzwFf23H4sa3xwlwUAr/HDzdP",
 "playlist": [
+[
+"2026-11-10T17:36|Linka Moja|Men R Dogs",
+"spotify:track:7AgfOLYDB7GrgIWg60PBw7"
+],
+[
+"2026-11-10T17:33|TOKiMONSTA feat. Channel Tres|Naked",
+"spotify:track:1EzfgoY8TVuHrX402tzK7D"
+],
 [
 "2026-11-10T17:26|Fontaines D.C.|Bug",
 "spotify:track:0MXmiqd7zoXxv6Gqn9ahhQ"
@@ -3929,6 +3937,12 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-11-10T17:44|The Avener feat. Terry Callier|900 Miles - The Avener Rework",
+"t": "2026-11-10T17:44:00+01:00",
+"artist": "The Avener feat. Terry Callier",
+"title": "900 Miles - The Avener Rework"
+},
 {
 "id": "2026-11-10T17:36|Linka Moja|Men R Dogs",
 "t": "2026-11-10T17:36:00+01:00",
@@ -9154,18 +9168,6 @@
 "t": "2026-11-03T17:57:00+01:00",
 "artist": "Grace Cummings",
 "title": "I'm Not Crazy"
-},
-{
-"id": "2026-11-03T17:51|Laing|Du bist dir nicht mehr sicher",
-"t": "2026-11-03T17:51:00+01:00",
-"artist": "Laing",
-"title": "Du bist dir nicht mehr sicher"
-},
-{
-"id": "2026-11-03T17:47|Chris Isaak|Dancin'",
-"t": "2026-11-03T17:47:00+01:00",
-"artist": "Chris Isaak",
-"title": "Dancin'"
 }
 ]
 }
