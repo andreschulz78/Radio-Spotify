@@ -1,5 +1,5 @@
 {
-"updated": "2026-11-11T21:03:57.560609+01:00",
+"updated": "2026-11-11T21:15:57.560964+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
@@ -13,7 +13,7 @@
 "2026-11-08": 111,
 "2026-11-09": 172,
 "2026-11-10": 171,
-"2026-11-11": 162
+"2026-11-11": 166
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
@@ -4021,6 +4021,24 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-11-11T21:11|Jorja Smith|Price Of It All",
+"t": "2026-11-11T21:11:00+01:00",
+"artist": "Jorja Smith",
+"title": "Price Of It All"
+},
+{
+"id": "2026-11-11T21:07|Skepta, central Cee, Jorja Smith|Broken Hearts",
+"t": "2026-11-11T21:07:00+01:00",
+"artist": "Skepta, central Cee, Jorja Smith",
+"title": "Broken Hearts"
+},
+{
+"id": "2026-11-11T21:03|Shygirl|Alyse",
+"t": "2026-11-11T21:03:00+01:00",
+"artist": "Shygirl",
+"title": "Alyse"
+},
 {
 "id": "2026-11-11T20:55|thom.|Love Is Real",
 "t": "2026-11-11T20:55:00+01:00",
