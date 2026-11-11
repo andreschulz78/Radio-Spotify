@@ -1,9 +1,9 @@
 {
-"updated": "2026-11-11T21:27:57.561284+01:00",
+"updated": "2026-11-11T21:39:57.561645+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
-"synced": "2026-11-11T21:19:57.561063+01:00",
+"synced": "2026-11-11T21:35:57.561542+01:00",
 "pruned": "2026-11-11",
 "calls": {
 "2026-11-04": 181,
@@ -13,12 +13,32 @@
 "2026-11-08": 111,
 "2026-11-09": 172,
 "2026-11-10": 171,
-"2026-11-11": 170
+"2026-11-11": 173
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAgvli/1sDz8+5ha4kHiWGQsdytTaw1",
+"snapshot": "AAAgv8ou5yfyFgipxTLMKqzxtH//eLZx",
 "playlist": [
+[
+"2026-11-11T21:31|Skepta|Secrets of Patriarchy",
+"spotify:track:1oOArQruDQQgIXqmyE569i"
+],
+[
+"2026-11-11T21:25|Stormzy & Odeal|24 hours",
+"spotify:track:3xucyI8yC8RNSaE5QOeFxB"
+],
+[
+"2026-11-11T21:21|Dave & Stormzy|Clash",
+"spotify:track:4utJD8Sny6m6YRFuoGdShV"
+],
+[
+"2026-11-11T21:18|Skepta|Melody",
+"spotify:track:2GwNaY219mmqOQ6Ixzoeq7"
+],
+[
+"2026-11-11T21:14|Central Cee|Little Bit of This",
+"spotify:track:4lQ87x6SYGR9E8v28xqhh2"
+],
 [
 "2026-11-11T21:11|Jorja Smith|Price Of It All",
 "spotify:track:5hOYoIl6OVuGT1Ma1PI5TY"
@@ -4033,6 +4053,18 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-11-11T21:31|Skepta|Secrets of Patriarchy",
+"t": "2026-11-11T21:31:00+01:00",
+"artist": "Skepta",
+"title": "Secrets of Patriarchy"
+},
+{
+"id": "2026-11-11T21:25|Stormzy & Odeal|24 hours",
+"t": "2026-11-11T21:25:00+01:00",
+"artist": "Stormzy & Odeal",
+"title": "24 hours"
+},
 {
 "id": "2026-11-11T21:21|Dave & Stormzy|Clash",
 "t": "2026-11-11T21:21:00+01:00",
