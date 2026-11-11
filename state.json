@@ -1,9 +1,9 @@
 {
-"updated": "2026-11-11T17:15:57.554014+01:00",
+"updated": "2026-11-11T17:27:57.554386+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
-"synced": "2026-11-11T17:07:57.553799+01:00",
+"synced": "2026-11-11T17:23:57.554256+01:00",
 "pruned": "2026-11-11",
 "calls": {
 "2026-11-04": 181,
@@ -13,12 +13,24 @@
 "2026-11-08": 111,
 "2026-11-09": 172,
 "2026-11-10": 171,
-"2026-11-11": 124
+"2026-11-11": 126
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAgr4Vbul5O8qBfkY/D83V8MbkiBz9X",
+"snapshot": "AAAgsBbP285znDNIfhboaE13rfjd6lKF",
 "playlist": [
+[
+"2026-11-11T17:13|Briskeby|Propaganda",
+"spotify:track:2GkccKa5CO0vliB1FyX356"
+],
+[
+"2026-11-11T17:08|They Owe Us|Don't Think About Me",
+"spotify:track:3dYn3O599WWzpxYOBwfA1K"
+],
+[
+"2026-11-11T17:05|The Avalanches feat. Karen O|Blue Shadows",
+"spotify:track:5bN5To0VLbNBKQDzJ1Lk6c"
+],
 [
 "2026-11-11T16:58|Joni Mitchell|Big Yellow Taxi",
 "spotify:track:6UkMcAA19lTdjs22jtB7o2"
@@ -3885,6 +3897,18 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-11-11T17:18|Grace Cummings|I'm Not Crazy",
+"t": "2026-11-11T17:18:00+01:00",
+"artist": "Grace Cummings",
+"title": "I'm Not Crazy"
+},
+{
+"id": "2026-11-11T17:13|Briskeby|Propaganda",
+"t": "2026-11-11T17:13:00+01:00",
+"artist": "Briskeby",
+"title": "Propaganda"
+},
 {
 "id": "2026-11-11T17:08|They Owe Us|Don't Think About Me",
 "t": "2026-11-11T17:08:00+01:00",
@@ -9068,18 +9092,6 @@
 "t": "2026-11-04T17:34:00+01:00",
 "artist": "Dido",
 "title": "Friends (Ash Howes Edit)"
-},
-{
-"id": "2026-11-04T17:24|Diana Ross|I'm Coming Out",
-"t": "2026-11-04T17:24:00+01:00",
-"artist": "Diana Ross",
-"title": "I'm Coming Out"
-},
-{
-"id": "2026-11-04T17:16|The War On Drugs|Under The Pressure",
-"t": "2026-11-04T17:16:00+01:00",
-"artist": "The War On Drugs",
-"title": "Under The Pressure"
 }
 ]
 }
