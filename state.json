@@ -1,5 +1,5 @@
 {
-"updated": "2026-11-11T05:06:08.079629+01:00",
+"updated": "2026-11-11T05:18:08.080023+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
@@ -12,7 +12,7 @@
 "2026-11-07": 127,
 "2026-11-08": 111,
 "2026-11-09": 172,
-"2026-11-10": 169
+"2026-11-10": 170
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
@@ -3440,6 +3440,12 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-11-11T05:07|Beats International|Dub Be Good To Me (Just Be Good To Me)",
+"t": "2026-11-11T05:07:00+01:00",
+"artist": "Beats International",
+"title": "Dub Be Good To Me (Just Be Good To Me)"
+},
 {
 "id": "2026-11-11T05:03|Slut|For The Soul There Is No Hospital",
 "t": "2026-11-11T05:03:00+01:00",
@@ -8641,24 +8647,6 @@
 "t": "2026-11-04T05:24:00+01:00",
 "artist": "Travis",
 "title": "Why Does It Always Rain On Me?"
-},
-{
-"id": "2026-11-04T05:16|Lady Wray|You're Gonna Win",
-"t": "2026-11-04T05:16:00+01:00",
-"artist": "Lady Wray",
-"title": "You're Gonna Win"
-},
-{
-"id": "2026-11-04T05:12|Deki Alem|Mr Man",
-"t": "2026-11-04T05:12:00+01:00",
-"artist": "Deki Alem",
-"title": "Mr Man"
-},
-{
-"id": "2026-11-04T05:07|Linka Moja|Men R Dogs",
-"t": "2026-11-04T05:07:00+01:00",
-"artist": "Linka Moja",
-"title": "Men R Dogs"
 }
 ]
 }
