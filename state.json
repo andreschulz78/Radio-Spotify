@@ -1,9 +1,9 @@
 {
-"updated": "2026-11-11T12:37:59.886607+01:00",
+"updated": "2026-11-11T12:49:59.886981+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
-"synced": "2026-11-11T12:33:59.886483+01:00",
+"synced": "2026-11-11T12:49:59.886981+01:00",
 "pruned": "2026-11-11",
 "calls": {
 "2026-11-04": 181,
@@ -13,12 +13,28 @@
 "2026-11-08": 111,
 "2026-11-09": 172,
 "2026-11-10": 171,
-"2026-11-11": 76
+"2026-11-11": 81
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAgnmN1bP3emIfz21nUV1Y2q92UmMhF",
+"snapshot": "AAAgoVGZ9oXbJvWzuT4SmNnzlxmKr9Vf",
 "playlist": [
+[
+"2026-11-11T12:40|The Be Good Tanyas|Waiting around to die",
+"spotify:track:0AduS1e4FWNLdnUNmMwQQd"
+],
+[
+"2026-11-11T12:36|Madrugada|Dreams At Midnight",
+"spotify:track:73wY1HYBstSQrMJ6E2FTV0"
+],
+[
+"2026-11-11T12:32|Beth Gibbons & Rustin Man|Mysteries",
+"spotify:track:7gyV3wYtZoJIrSdzNLjYvj"
+],
+[
+"2026-11-11T12:29|The Drums feat. Mareux|It Didn't Matter",
+"spotify:track:10kxTiNUTo4nlEbH1EzoX1"
+],
 [
 "2026-11-11T12:25|Hollie Cook|Walking In The Sand",
 "spotify:track:6V39cPq3fueR20iwBHPCIh"
@@ -3408,10 +3424,6 @@
 "spotify:track:465QjZo1z1JAuLTTC7DnuK"
 ],
 [
-"2026-11-04T12:49|Boy & Bear|Tripping Over Time",
-"spotify:track:0s3R2UEykTPuilo5QTzH7P"
-],
-[
 "2026-11-04T12:46|The Streets|I Love You More Than You Like Me",
 "spotify:track:6jWOYnJiHYG2BU9GM17mvJ"
 ],
@@ -3709,6 +3721,18 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-11-11T12:40|The Be Good Tanyas|Waiting around to die",
+"t": "2026-11-11T12:40:00+01:00",
+"artist": "The Be Good Tanyas",
+"title": "Waiting around to die"
+},
+{
+"id": "2026-11-11T12:36|Madrugada|Dreams At Midnight",
+"t": "2026-11-11T12:36:00+01:00",
+"artist": "Madrugada",
+"title": "Dreams At Midnight"
+},
 {
 "id": "2026-11-11T12:32|Beth Gibbons & Rustin Man|Mysteries",
 "t": "2026-11-11T12:32:00+01:00",
@@ -8892,24 +8916,6 @@
 "t": "2026-11-04T12:54:00+01:00",
 "artist": "Yazmin Lacey",
 "title": "Summer Haze"
-},
-{
-"id": "2026-11-04T12:49|Boy & Bear|Tripping Over Time",
-"t": "2026-11-04T12:49:00+01:00",
-"artist": "Boy & Bear",
-"title": "Tripping Over Time"
-},
-{
-"id": "2026-11-04T12:46|The Streets|I Love You More Than You Like Me",
-"t": "2026-11-04T12:46:00+01:00",
-"artist": "The Streets",
-"title": "I Love You More Than You Like Me"
-},
-{
-"id": "2026-11-04T12:40|The Cure|I Can Never Say Goodbye",
-"t": "2026-11-04T12:40:00+01:00",
-"artist": "The Cure",
-"title": "I Can Never Say Goodbye"
 }
 ]
 }
