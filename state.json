@@ -1,9 +1,9 @@
 {
-"updated": "2026-11-11T13:13:59.887720+01:00",
+"updated": "2026-11-11T13:25:59.888102+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
-"synced": "2026-11-11T13:05:59.887480+01:00",
+"synced": "2026-11-11T13:21:59.887975+01:00",
 "pruned": "2026-11-11",
 "calls": {
 "2026-11-04": 181,
@@ -13,12 +13,20 @@
 "2026-11-08": 111,
 "2026-11-09": 172,
 "2026-11-10": 171,
-"2026-11-11": 86
+"2026-11-11": 90
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAgopkCXHbnLLV0zNuPyTXL3ZacClo3",
+"snapshot": "AAAgo8FnjLPGzhoV9aVaEsgsPENPqDh+",
 "playlist": [
+[
+"2026-11-11T13:10|La Femme|Oú va le monde",
+"spotify:track:1JBNE7Spz0WXjXCnWSaFYl"
+],
+[
+"2026-11-11T13:06|Moonlight Breakfast|If Not Now, Then When?!",
+"spotify:track:7rqjXsHITwfxR5XoKIGsaJ"
+],
 [
 "2026-11-11T12:54|Lana Del Rey|White Mustang",
 "spotify:track:4JIYhVDT2AWqNaWmAZr1id"
@@ -3733,6 +3741,18 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-11-11T13:19|Peter Gabriel & Kate Bush|Don't Give Up",
+"t": "2026-11-11T13:19:00+01:00",
+"artist": "Peter Gabriel & Kate Bush",
+"title": "Don't Give Up"
+},
+{
+"id": "2026-11-11T13:10|La Femme|Oú va le monde",
+"t": "2026-11-11T13:10:00+01:00",
+"artist": "La Femme",
+"title": "Oú va le monde"
+},
 {
 "id": "2026-11-11T13:06|Moonlight Breakfast|If Not Now, Then When?!",
 "t": "2026-11-11T13:06:00+01:00",
@@ -8922,24 +8942,6 @@
 "t": "2026-11-04T13:28:00+01:00",
 "artist": "Youssou N'Dour & Neneh Cherry",
 "title": "7 Seconds"
-},
-{
-"id": "2026-11-04T13:23|Mac Miller|What's The Use",
-"t": "2026-11-04T13:23:00+01:00",
-"artist": "Mac Miller",
-"title": "What's The Use"
-},
-{
-"id": "2026-11-04T13:20|Sylvan Esso|Right to Left",
-"t": "2026-11-04T13:20:00+01:00",
-"artist": "Sylvan Esso",
-"title": "Right to Left"
-},
-{
-"id": "2026-11-04T13:16|Gorillaz feat. Fatoumata Diawara|Désolé",
-"t": "2026-11-04T13:16:00+01:00",
-"artist": "Gorillaz feat. Fatoumata Diawara",
-"title": "Désolé"
 }
 ]
 }
