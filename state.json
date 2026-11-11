@@ -1,9 +1,9 @@
 {
-"updated": "2026-11-11T11:37:59.884878+01:00",
+"updated": "2026-11-11T11:49:59.885172+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
-"synced": "2026-11-11T11:29:59.884662+01:00",
+"synced": "2026-11-11T11:45:59.885074+01:00",
 "pruned": "2026-11-11",
 "calls": {
 "2026-11-04": 181,
@@ -13,12 +13,32 @@
 "2026-11-08": 111,
 "2026-11-09": 172,
 "2026-11-10": 171,
-"2026-11-11": 63
+"2026-11-11": 66
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAgmlDk5chLGpmsrJJg9lBpVNDZjIUW",
+"snapshot": "AAAgm/jPOyNvsgTSY8f+ld/LyF+M+5IQ",
 "playlist": [
+[
+"2026-11-11T11:40|The National|Conversation 16",
+"spotify:track:3w5Ds2BvBErbi6Xwn0tzxb"
+],
+[
+"2026-11-11T11:38|Linka Moja|Men R Dogs",
+"spotify:track:7AgfOLYDB7GrgIWg60PBw7"
+],
+[
+"2026-11-11T11:35|Beatsteaks|Milk & Honey",
+"spotify:track:6qZu2FTULDuBtzdLvaUfmE"
+],
+[
+"2026-11-11T11:30|Julian & der Fux feat. Hermes|Mischduft",
+"spotify:track:162m4YarOHcK9wq7ybkwpO"
+],
+[
+"2026-11-11T11:26|Flora Hibberd|Bowling Ball",
+"spotify:track:2Bqy2DIYw0DXkZj8gHTg2p"
+],
 [
 "2026-11-11T11:21|Jamie xx|Dream Night",
 "spotify:track:2DewmibGFWxakcxvVyf2Tv"
@@ -3657,6 +3677,24 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-11-11T11:40|The National|Conversation 16",
+"t": "2026-11-11T11:40:00+01:00",
+"artist": "The National",
+"title": "Conversation 16"
+},
+{
+"id": "2026-11-11T11:38|Linka Moja|Men R Dogs",
+"t": "2026-11-11T11:38:00+01:00",
+"artist": "Linka Moja",
+"title": "Men R Dogs"
+},
+{
+"id": "2026-11-11T11:35|Beatsteaks|Milk & Honey",
+"t": "2026-11-11T11:35:00+01:00",
+"artist": "Beatsteaks",
+"title": "Milk & Honey"
+},
 {
 "id": "2026-11-11T11:30|Julian & der Fux feat. Hermes|Mischduft",
 "t": "2026-11-11T11:30:00+01:00",
@@ -8822,12 +8860,6 @@
 "t": "2026-11-04T11:56:00+01:00",
 "artist": "Wallners",
 "title": "Movie Stars"
-},
-{
-"id": "2026-11-04T11:44|Roisín Murphy|Murphy's Law",
-"t": "2026-11-04T11:44:00+01:00",
-"artist": "Roisín Murphy",
-"title": "Murphy's Law"
 }
 ]
 }
