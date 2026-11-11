@@ -1,9 +1,9 @@
 {
-"updated": "2026-11-11T10:49:59.883418+01:00",
+"updated": "2026-11-11T11:01:59.883795+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
-"synced": "2026-11-11T10:41:59.883177+01:00",
+"synced": "2026-11-11T10:57:59.883665+01:00",
 "pruned": "2026-11-11",
 "calls": {
 "2026-11-04": 181,
@@ -13,12 +13,20 @@
 "2026-11-08": 111,
 "2026-11-09": 172,
 "2026-11-10": 171,
-"2026-11-11": 55
+"2026-11-11": 58
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAgl1SnRYASLorf+Nl2gbV6FJvPk1AA",
+"snapshot": "AAAgmE4NPcuSk+/IgfApJw10HqbzgNN3",
 "playlist": [
+[
+"2026-11-11T10:49|Santana|Samba pa ti",
+"spotify:track:35fC3Wq3slX4OBfyvBVmHm"
+],
+[
+"2026-11-11T10:37|Bonobo|Shokoufeh",
+"spotify:track:5cZ6iDczIvnNezs5sqdgU8"
+],
 [
 "2026-11-11T10:33|Matthew E. White feat. Natalie Prass|Cool Out",
 "spotify:track:0sVe9dSeNSisHB0OocGykj"
@@ -3629,6 +3637,18 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-11-11T10:57|JGrrey feat. Bel Cobain|Take My Hand",
+"t": "2026-11-11T10:57:00+01:00",
+"artist": "JGrrey feat. Bel Cobain",
+"title": "Take My Hand"
+},
+{
+"id": "2026-11-11T10:49|Santana|Samba pa ti",
+"t": "2026-11-11T10:49:00+01:00",
+"artist": "Santana",
+"title": "Samba pa ti"
+},
 {
 "id": "2026-11-11T10:37|Bonobo|Shokoufeh",
 "t": "2026-11-11T10:37:00+01:00",
@@ -8800,12 +8820,6 @@
 "t": "2026-11-04T11:07:00+01:00",
 "artist": "Pamela.",
 "title": "Better than Before"
-},
-{
-"id": "2026-11-04T10:55|Apparat|Little Feet (Radio Edit)",
-"t": "2026-11-04T10:55:00+01:00",
-"artist": "Apparat",
-"title": "Little Feet (Radio Edit)"
 }
 ]
 }
