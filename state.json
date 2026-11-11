@@ -1,5 +1,5 @@
 {
-"updated": "2026-11-11T05:54:08.080904+01:00",
+"updated": "2026-11-11T06:06:08.081272+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
@@ -13,7 +13,7 @@
 "2026-11-08": 111,
 "2026-11-09": 172,
 "2026-11-10": 171,
-"2026-11-11": 6
+"2026-11-11": 7
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
@@ -3473,6 +3473,18 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-11-11T05:55|Remi Wolf|Cinderella",
+"t": "2026-11-11T05:55:00+01:00",
+"artist": "Remi Wolf",
+"title": "Cinderella"
+},
+{
+"id": "2026-11-11T05:50|Benjamin Clementine|In Fact You Know You Gotto Go",
+"t": "2026-11-11T05:50:00+01:00",
+"artist": "Benjamin Clementine",
+"title": "In Fact You Know You Gotto Go"
+},
 {
 "id": "2026-11-11T05:46|Balu Brigada|Backseat (Edit)",
 "t": "2026-11-11T05:46:00+01:00",
@@ -8674,12 +8686,6 @@
 "t": "2026-11-04T06:07:00+01:00",
 "artist": "Hilltop Hoods",
 "title": "Leave Me Lonely"
-},
-{
-"id": "2026-11-04T05:56|Meshell Ndegeocello feat. Cat Power|Don’t You Want Me",
-"t": "2026-11-04T05:56:00+01:00",
-"artist": "Meshell Ndegeocello feat. Cat Power",
-"title": "Don’t You Want Me"
 }
 ]
 }
