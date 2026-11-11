@@ -1,9 +1,9 @@
 {
-"updated": "2026-11-11T05:42:08.080597+01:00",
+"updated": "2026-11-11T05:54:08.080904+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
-"synced": "2026-11-11T05:38:08.080497+01:00",
+"synced": "2026-11-11T05:54:08.080904+01:00",
 "pruned": "2026-11-11",
 "calls": {
 "2026-11-04": 181,
@@ -13,12 +13,24 @@
 "2026-11-08": 111,
 "2026-11-09": 172,
 "2026-11-10": 171,
-"2026-11-11": 3
+"2026-11-11": 6
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAgg+NT1NEQX8pkdeonzOHcw4mhtzji",
+"snapshot": "AAAghOhKwnxhwNfCE/mGKQzDSStPZhtX",
 "playlist": [
+[
+"2026-11-11T05:46|Balu Brigada|Backseat (Edit)",
+"spotify:track:7yT4NJt5rgmVoMJMGPULcj"
+],
+[
+"2026-11-11T05:40|Agnes Obel|Laymelli (Edit)",
+"spotify:track:0VzMHjWcs2P24LHLekZ8Qa"
+],
+[
+"2026-11-11T05:37|Tanita Tikaram|Good Tradition",
+"spotify:track:0pMes0wm1nJ9L47Fbr4QWE"
+],
 [
 "2026-11-11T05:31|Bryan Ferry|Reason Or Rhyme (Babylon Berlin Version)",
 "spotify:track:5PoB7munnzbE1Bt5wEfFiu"
@@ -3461,6 +3473,24 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-11-11T05:46|Balu Brigada|Backseat (Edit)",
+"t": "2026-11-11T05:46:00+01:00",
+"artist": "Balu Brigada",
+"title": "Backseat (Edit)"
+},
+{
+"id": "2026-11-11T05:40|Agnes Obel|Laymelli (Edit)",
+"t": "2026-11-11T05:40:00+01:00",
+"artist": "Agnes Obel",
+"title": "Laymelli (Edit)"
+},
+{
+"id": "2026-11-11T05:37|Tanita Tikaram|Good Tradition",
+"t": "2026-11-11T05:37:00+01:00",
+"artist": "Tanita Tikaram",
+"title": "Good Tradition"
+},
 {
 "id": "2026-11-11T05:31|Bryan Ferry|Reason Or Rhyme (Babylon Berlin Version)",
 "t": "2026-11-11T05:31:00+01:00",
@@ -8650,24 +8680,6 @@
 "t": "2026-11-04T05:56:00+01:00",
 "artist": "Meshell Ndegeocello feat. Cat Power",
 "title": "Don’t You Want Me"
-},
-{
-"id": "2026-11-04T05:53|Dry Cleaning|Gary Ashby",
-"t": "2026-11-04T05:53:00+01:00",
-"artist": "Dry Cleaning",
-"title": "Gary Ashby"
-},
-{
-"id": "2026-11-04T05:50|Kelis Feat. Cee-Lo|Lil Star",
-"t": "2026-11-04T05:50:00+01:00",
-"artist": "Kelis Feat. Cee-Lo",
-"title": "Lil Star"
-},
-{
-"id": "2026-11-04T05:43|Bat For Lashes|Daniel",
-"t": "2026-11-04T05:43:00+01:00",
-"artist": "Bat For Lashes",
-"title": "Daniel"
 }
 ]
 }
