@@ -1,9 +1,9 @@
 {
-"updated": "2026-11-11T06:18:08.081631+01:00",
+"updated": "2026-11-11T06:30:08.081961+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
-"synced": "2026-11-11T06:10:08.081367+01:00",
+"synced": "2026-11-11T06:26:08.081853+01:00",
 "pruned": "2026-11-11",
 "calls": {
 "2026-11-04": 181,
@@ -13,12 +13,24 @@
 "2026-11-08": 111,
 "2026-11-09": 172,
 "2026-11-10": 171,
-"2026-11-11": 10
+"2026-11-11": 11
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAghS5NZrGO7rGSROrCWdG2R2YLacj/",
+"snapshot": "AAAghnU1qAwgZaBvvwyYt6wzpFN+6Hje",
 "playlist": [
+[
+"2026-11-11T06:23|Cass McCombs|Peace",
+"spotify:track:0HJuwBpU9bpH3Zt5r1PtNS"
+],
+[
+"2026-11-11T06:17|Nihils|Lavender",
+"spotify:track:24IHKK4RZRa5WYOEigkp5h"
+],
+[
+"2026-11-11T06:11|Muse|Starlight",
+"spotify:track:2Jlq1yNoXP548kPZcKRl18"
+],
 [
 "2026-11-11T06:04|Jungle|The Wave",
 "spotify:track:6Ln44Up5lBxNgCsaLoXY6W"
@@ -3485,6 +3497,18 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-11-11T06:23|Cass McCombs|Peace",
+"t": "2026-11-11T06:23:00+01:00",
+"artist": "Cass McCombs",
+"title": "Peace"
+},
+{
+"id": "2026-11-11T06:17|Nihils|Lavender",
+"t": "2026-11-11T06:17:00+01:00",
+"artist": "Nihils",
+"title": "Lavender"
+},
 {
 "id": "2026-11-11T06:11|Muse|Starlight",
 "t": "2026-11-11T06:11:00+01:00",
@@ -8686,18 +8710,6 @@
 "t": "2026-11-04T06:35:00+01:00",
 "artist": "Faithless",
 "title": "I Need Someone (Edit)"
-},
-{
-"id": "2026-11-04T06:25|Fleetwood Mac|Dreams",
-"t": "2026-11-04T06:25:00+01:00",
-"artist": "Fleetwood Mac",
-"title": "Dreams"
-},
-{
-"id": "2026-11-04T06:19|RY X|Howling (Robin Hannibal Remix)",
-"t": "2026-11-04T06:19:00+01:00",
-"artist": "RY X",
-"title": "Howling (Robin Hannibal Remix)"
 }
 ]
 }
