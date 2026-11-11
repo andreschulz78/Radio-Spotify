@@ -1,9 +1,9 @@
 {
-"updated": "2026-11-11T13:25:59.888102+01:00",
+"updated": "2026-11-11T13:37:59.888466+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
-"synced": "2026-11-11T13:21:59.887975+01:00",
+"synced": "2026-11-11T13:37:59.888466+01:00",
 "pruned": "2026-11-11",
 "calls": {
 "2026-11-04": 181,
@@ -13,12 +13,24 @@
 "2026-11-08": 111,
 "2026-11-09": 172,
 "2026-11-10": 171,
-"2026-11-11": 90
+"2026-11-11": 91
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAgo8FnjLPGzhoV9aVaEsgsPENPqDh+",
+"snapshot": "AAAgpL7H4gfs/oq4iseLykQXocn0lkFu",
 "playlist": [
+[
+"2026-11-11T13:28|Austra|Math Equation",
+"spotify:track:2r6yEYmV8vu1pjVHmKEr0f"
+],
+[
+"2026-11-11T13:24|Genesis Owusu|Human Again",
+"spotify:track:3uP7jqdt4haiuL4acLhrDY"
+],
+[
+"2026-11-11T13:19|Peter Gabriel & Kate Bush|Don't Give Up",
+"spotify:track:2t77hjgJY4sC9DoX5uaVUD"
+],
 [
 "2026-11-11T13:10|La Femme|Oú va le monde",
 "spotify:track:1JBNE7Spz0WXjXCnWSaFYl"
@@ -3741,6 +3753,18 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-11-11T13:28|Austra|Math Equation",
+"t": "2026-11-11T13:28:00+01:00",
+"artist": "Austra",
+"title": "Math Equation"
+},
+{
+"id": "2026-11-11T13:24|Genesis Owusu|Human Again",
+"t": "2026-11-11T13:24:00+01:00",
+"artist": "Genesis Owusu",
+"title": "Human Again"
+},
 {
 "id": "2026-11-11T13:19|Peter Gabriel & Kate Bush|Don't Give Up",
 "t": "2026-11-11T13:19:00+01:00",
@@ -8924,24 +8948,6 @@
 "t": "2026-11-04T13:44:00+01:00",
 "artist": "Kings Of Convenience",
 "title": "I'd Rather Dance With You"
-},
-{
-"id": "2026-11-04T13:36|Antony Szmierek|Seminal (Edit)",
-"t": "2026-11-04T13:36:00+01:00",
-"artist": "Antony Szmierek",
-"title": "Seminal (Edit)"
-},
-{
-"id": "2026-11-04T13:33|Tricky feat. Francesca Belmonte|Nicotine Love",
-"t": "2026-11-04T13:33:00+01:00",
-"artist": "Tricky feat. Francesca Belmonte",
-"title": "Nicotine Love"
-},
-{
-"id": "2026-11-04T13:28|Youssou N'Dour & Neneh Cherry|7 Seconds",
-"t": "2026-11-04T13:28:00+01:00",
-"artist": "Youssou N'Dour & Neneh Cherry",
-"title": "7 Seconds"
 }
 ]
 }
