@@ -1,9 +1,9 @@
 {
-"updated": "2026-11-11T16:15:57.552379+01:00",
+"updated": "2026-11-11T16:27:57.552690+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
-"synced": "2026-11-11T16:03:57.552013+01:00",
+"synced": "2026-11-11T16:19:57.552468+01:00",
 "pruned": "2026-11-11",
 "calls": {
 "2026-11-04": 181,
@@ -13,12 +13,20 @@
 "2026-11-08": 111,
 "2026-11-09": 172,
 "2026-11-10": 171,
-"2026-11-11": 104
+"2026-11-11": 110
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAgpR27KMRkoQi61c7nPxIBWnXgi7sw",
+"snapshot": "AAAgq0c6vktqjzJ825UTz1xJ0SSfa4sh",
 "playlist": [
+[
+"2026-11-11T16:10|Julia Holter|Everytime Boots",
+"spotify:track:4qzU0YbbJRcgnVIV9LpmJ6"
+],
+[
+"2026-11-11T15:57|Black Pumas|Colors",
+"spotify:track:7mzocQrHwKd19aLrjT3isS"
+],
 [
 "2026-11-11T15:50|Timbaland (feat. Katy Perry)|If we ever meet again",
 "spotify:track:360UM2DaiHZPRu0EsrOvMp"
@@ -56,6 +64,14 @@
 "spotify:track:5XsNOpMXOauE1YC89ZGOhR"
 ],
 [
+"2026-11-11T14:49|Jenny Lewis & The Watson Twins|You Are What You Love",
+"spotify:track:30BarLQM6SA6zs8wFEsiCj"
+],
+[
+"2026-11-11T14:45|La Roux|Cabin fever",
+"spotify:track:5AFbc8LHppmNeqx6nF3VlC"
+],
+[
 "2026-11-11T14:39|Jamie T|Tallahassee",
 "spotify:track:3Kwdvrz5PTUpAObYKNPlz0"
 ],
@@ -68,8 +84,16 @@
 "spotify:track:4Og22Djtd18AVqNgijpLsX"
 ],
 [
+"2026-11-11T14:27|Belle & Sebastian|The White Collar Boy",
+"spotify:track:6sgs5mVCxzuwJYDPSo9waa"
+],
+[
 "2026-11-11T14:20|Odd Beholder|Your Emancipation",
 "spotify:track:1uLBaUVurwbtHnyAlD7ExO"
+],
+[
+"2026-11-11T14:09|Radiohead|Paranoid Android",
+"spotify:track:5Ze7kVclNFiBT6XQW3Ez7R"
 ],
 [
 "2026-11-11T14:05|Hot Chip|Random Violence (Radio Edit)",
@@ -84,8 +108,20 @@
 "spotify:track:0a1BTzQAc7NuYreRDWMV63"
 ],
 [
+"2026-11-11T13:47|Oren Lavie feat. Vanessa Paradis|Did You Really Say No",
+"spotify:track:5LGPiVFEaffgJJlptaS0dZ"
+],
+[
+"2026-11-11T13:43|The The|Slow Emotion Replay",
+"spotify:track:1qDJlpLzK9kvwV7fosIoFm"
+],
+[
 "2026-11-11T13:38|Nia Archives|Vertical",
 "spotify:track:0ecQazzKkndVD8Ry9Orp9Q"
+],
+[
+"2026-11-11T13:33|Kasabian|Re-Wired",
+"spotify:track:41mzzNJ9xQkiuHW6jvOWPm"
 ],
 [
 "2026-11-11T13:28|Austra|Math Equation",
@@ -3821,6 +3857,12 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-11-11T16:19|Oscar Farrell feat. Sampha|Dream Therapy",
+"t": "2026-11-11T16:19:00+01:00",
+"artist": "Oscar Farrell feat. Sampha",
+"title": "Dream Therapy"
+},
 {
 "id": "2026-11-11T16:10|Julia Holter|Everytime Boots",
 "t": "2026-11-11T16:10:00+01:00",
@@ -9004,24 +9046,6 @@
 "t": "2026-11-04T16:33:00+01:00",
 "artist": "Nia Archives",
 "title": "Vertical"
-},
-{
-"id": "2026-11-04T16:24|The Afghan Whigs|Algiers",
-"t": "2026-11-04T16:24:00+01:00",
-"artist": "The Afghan Whigs",
-"title": "Algiers"
-},
-{
-"id": "2026-11-04T16:20|Kaktus Einarsson feat. John Grant|Follow",
-"t": "2026-11-04T16:20:00+01:00",
-"artist": "Kaktus Einarsson feat. John Grant",
-"title": "Follow"
-},
-{
-"id": "2026-11-04T16:18|Air|Surfing On A Rocket",
-"t": "2026-11-04T16:18:00+01:00",
-"artist": "Air",
-"title": "Surfing On A Rocket"
 }
 ]
 }
