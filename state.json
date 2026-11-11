@@ -1,9 +1,9 @@
 {
-"updated": "2026-11-11T08:37:59.879369+01:00",
+"updated": "2026-11-11T08:49:59.879723+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
-"synced": "2026-11-11T08:33:59.879270+01:00",
+"synced": "2026-11-11T08:49:59.879723+01:00",
 "pruned": "2026-11-11",
 "calls": {
 "2026-11-04": 181,
@@ -13,12 +13,16 @@
 "2026-11-08": 111,
 "2026-11-09": 172,
 "2026-11-10": 171,
-"2026-11-11": 33
+"2026-11-11": 34
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAgjizGnbFuIok3WvvPCtbCKMe/CjyF",
+"snapshot": "AAAgj5Q/W/SFxyh8OI+dfxijRMZLNJiC",
 "playlist": [
+[
+"2026-11-11T08:34|Jim James|Come Again",
+"spotify:track:6S3Ao3HkuLpHffHWL8oRsz"
+],
 [
 "2026-11-11T08:23|Tristan Brusch|Vierzehn",
 "spotify:track:6bauquMrawP7ZfZ6qsmOtr"
@@ -3561,6 +3565,12 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-11-11T08:34|Jim James|Come Again",
+"t": "2026-11-11T08:34:00+01:00",
+"artist": "Jim James",
+"title": "Come Again"
+},
 {
 "id": "2026-11-11T08:23|Tristan Brusch|Vierzehn",
 "t": "2026-11-11T08:23:00+01:00",
@@ -8750,18 +8760,6 @@
 "t": "2026-11-04T08:52:00+01:00",
 "artist": "Dahi feat. Kendrick Lamar & Amber Mark",
 "title": "How To Pray"
-},
-{
-"id": "2026-11-04T08:48|MorMor feat. Celeste|Like Heaven",
-"t": "2026-11-04T08:48:00+01:00",
-"artist": "MorMor feat. Celeste",
-"title": "Like Heaven"
-},
-{
-"id": "2026-11-04T08:42|Anderson .Paak & Cordae|A Good Day",
-"t": "2026-11-04T08:42:00+01:00",
-"artist": "Anderson .Paak & Cordae",
-"title": "A Good Day"
 }
 ]
 }
