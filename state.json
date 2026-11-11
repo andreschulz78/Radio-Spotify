@@ -1,9 +1,9 @@
 {
-"updated": "2026-11-11T18:39:57.556374+01:00",
+"updated": "2026-11-11T18:51:57.556687+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
-"synced": "2026-11-11T18:27:57.555978+01:00",
+"synced": "2026-11-11T18:43:57.556479+01:00",
 "pruned": "2026-11-11",
 "calls": {
 "2026-11-04": 181,
@@ -13,12 +13,20 @@
 "2026-11-08": 111,
 "2026-11-09": 172,
 "2026-11-10": 171,
-"2026-11-11": 141
+"2026-11-11": 143
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAgtDHdEXuabhk5IW5WOSFv+m6HtUdz",
+"snapshot": "AAAgtUez39pctkQLbtcq4vHbex7g/A1d",
 "playlist": [
+[
+"2026-11-11T18:34|Get Well Soon|It's Love",
+"spotify:track:5NlVh0caOqVu7Sv7gQyyEj"
+],
+[
+"2026-11-11T18:25|Leon Bridges|Panther City",
+"spotify:track:0ySkMC5CSdVFuBkiEDCQfF"
+],
 [
 "2026-11-11T18:14|Tikhet|Burndowner",
 "spotify:track:76iRkapw7dHIlJhSoy7PCv"
@@ -3933,6 +3941,30 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-11-11T18:44|Natalie Jane Hill|Never Left Me",
+"t": "2026-11-11T18:44:00+01:00",
+"artist": "Natalie Jane Hill",
+"title": "Never Left Me"
+},
+{
+"id": "2026-11-11T18:40|Ayele|Fractured (Radio Edit)",
+"t": "2026-11-11T18:40:00+01:00",
+"artist": "Ayele",
+"title": "Fractured (Radio Edit)"
+},
+{
+"id": "2026-11-11T18:38|Ayele|Fractured (Radio Edit)",
+"t": "2026-11-11T18:38:00+01:00",
+"artist": "Ayele",
+"title": "Fractured (Radio Edit)"
+},
+{
+"id": "2026-11-11T18:34|Get Well Soon|It's Love",
+"t": "2026-11-11T18:34:00+01:00",
+"artist": "Get Well Soon",
+"title": "It's Love"
+},
 {
 "id": "2026-11-11T18:25|Leon Bridges|Panther City",
 "t": "2026-11-11T18:25:00+01:00",
@@ -9098,24 +9130,6 @@
 "t": "2026-11-04T18:56:00+01:00",
 "artist": "Gordon Lightfoot",
 "title": "If You Could Read My Mind"
-},
-{
-"id": "2026-11-04T18:50|Katy J Pearson|Maybe",
-"t": "2026-11-04T18:50:00+01:00",
-"artist": "Katy J Pearson",
-"title": "Maybe"
-},
-{
-"id": "2026-11-04T18:46|Jamiroquai|Corner Of The Earth",
-"t": "2026-11-04T18:46:00+01:00",
-"artist": "Jamiroquai",
-"title": "Corner Of The Earth"
-},
-{
-"id": "2026-11-04T18:42|Django Django|Cameos",
-"t": "2026-11-04T18:42:00+01:00",
-"artist": "Django Django",
-"title": "Cameos"
 }
 ]
 }
