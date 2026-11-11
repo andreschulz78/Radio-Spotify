@@ -1,9 +1,9 @@
 {
-"updated": "2026-11-11T07:18:08.083228+01:00",
+"updated": "2026-11-11T07:30:08.083552+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
-"synced": "2026-11-11T07:14:08.083133+01:00",
+"synced": "2026-11-11T07:30:08.083552+01:00",
 "pruned": "2026-11-11",
 "calls": {
 "2026-11-04": 181,
@@ -13,12 +13,24 @@
 "2026-11-08": 111,
 "2026-11-09": 172,
 "2026-11-10": 171,
-"2026-11-11": 23
+"2026-11-11": 26
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAgibljjqc4F71ge7AmgF3fcM2gEX+F",
+"snapshot": "AAAgitYculxLEQuGKJx87uKNcn0MEPVG",
 "playlist": [
+[
+"2026-11-11T07:25|Other Lives|Tamer Animals",
+"spotify:track:2xq5Jqw4nf6rrVXFGbbHNq"
+],
+[
+"2026-11-11T07:16|Madness|Tomorrow's Just Another Day",
+"spotify:track:3MY161CpfpjYVqG2ig9Cl3"
+],
+[
+"2026-11-11T07:12|Peaches|No Lube So Rude",
+"spotify:track:6zgvKcL58XPES10HwspEkT"
+],
 [
 "2026-11-11T07:05|Dramas|Mess",
 "spotify:track:0YKIn1FFwm066LCUWMZ6Vd"
@@ -3521,6 +3533,18 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-11-11T07:25|Other Lives|Tamer Animals",
+"t": "2026-11-11T07:25:00+01:00",
+"artist": "Other Lives",
+"title": "Tamer Animals"
+},
+{
+"id": "2026-11-11T07:16|Madness|Tomorrow's Just Another Day",
+"t": "2026-11-11T07:16:00+01:00",
+"artist": "Madness",
+"title": "Tomorrow's Just Another Day"
+},
 {
 "id": "2026-11-11T07:12|Peaches|No Lube So Rude",
 "t": "2026-11-11T07:12:00+01:00",
@@ -8722,12 +8746,6 @@
 "t": "2026-11-04T07:35:00+01:00",
 "artist": "Madonna",
 "title": "Danceteria"
-},
-{
-"id": "2026-11-04T07:27|Bilderbuch|Baby Junkie",
-"t": "2026-11-04T07:27:00+01:00",
-"artist": "Bilderbuch",
-"title": "Baby Junkie"
 }
 ]
 }
