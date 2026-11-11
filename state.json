@@ -1,5 +1,5 @@
 {
-"updated": "2026-11-11T12:49:59.886981+01:00",
+"updated": "2026-11-11T13:01:59.887357+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
@@ -13,7 +13,7 @@
 "2026-11-08": 111,
 "2026-11-09": 172,
 "2026-11-10": 171,
-"2026-11-11": 81
+"2026-11-11": 83
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
@@ -3721,6 +3721,24 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-11-11T12:54|Lana Del Rey|White Mustang",
+"t": "2026-11-11T12:54:00+01:00",
+"artist": "Lana Del Rey",
+"title": "White Mustang"
+},
+{
+"id": "2026-11-11T12:50|Interpol|Iron City",
+"t": "2026-11-11T12:50:00+01:00",
+"artist": "Interpol",
+"title": "Iron City"
+},
+{
+"id": "2026-11-11T12:45|The O'Jays|Now That We Found Love",
+"t": "2026-11-11T12:45:00+01:00",
+"artist": "The O'Jays",
+"title": "Now That We Found Love"
+},
 {
 "id": "2026-11-11T12:40|The Be Good Tanyas|Waiting around to die",
 "t": "2026-11-11T12:40:00+01:00",
@@ -8910,12 +8928,6 @@
 "t": "2026-11-04T13:06:00+01:00",
 "artist": "The Rakes",
 "title": "Suspicious Eyes"
-},
-{
-"id": "2026-11-04T12:54|Yazmin Lacey|Summer Haze",
-"t": "2026-11-04T12:54:00+01:00",
-"artist": "Yazmin Lacey",
-"title": "Summer Haze"
 }
 ]
 }
