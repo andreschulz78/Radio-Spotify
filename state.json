@@ -1,9 +1,9 @@
 {
-"updated": "2026-11-11T19:03:57.557044+01:00",
+"updated": "2026-11-11T19:15:57.557380+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
-"synced": "2026-11-11T18:59:57.556914+01:00",
+"synced": "2026-11-11T19:15:57.557380+01:00",
 "pruned": "2026-11-11",
 "calls": {
 "2026-11-04": 181,
@@ -13,12 +13,20 @@
 "2026-11-08": 111,
 "2026-11-09": 172,
 "2026-11-10": 171,
-"2026-11-11": 145
+"2026-11-11": 149
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAgtvE5O5MsTW9/KGO1ZNh6ruc2NiuL",
+"snapshot": "AAAgtzjydQzkHZlQkmRzhzRMNO8hKSYF",
 "playlist": [
+[
+"2026-11-11T19:06|Cage The Elephant|Dying in reverse",
+"spotify:track:4iej0znQnZAym0PgU7PICD"
+],
+[
+"2026-11-11T18:56|Depeche Mode|Behind The Wheel",
+"spotify:track:5ZO4gjA1fMk0cD4EFkPSYT"
+],
 [
 "2026-11-11T18:53|Cassia|lovedrunk",
 "spotify:track:73HM4oXqEBDbeKn8GexF3c"
@@ -3961,6 +3969,12 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-11-11T19:06|Cage The Elephant|Dying in reverse",
+"t": "2026-11-11T19:06:00+01:00",
+"artist": "Cage The Elephant",
+"title": "Dying in reverse"
+},
 {
 "id": "2026-11-11T18:56|Depeche Mode|Behind The Wheel",
 "t": "2026-11-11T18:56:00+01:00",
@@ -9156,12 +9170,6 @@
 "t": "2026-11-04T19:20:00+01:00",
 "artist": "Ove",
 "title": "3-4 Zoll auf 1 Zoll flachdichtendes Reduzierdoppelnippels"
-},
-{
-"id": "2026-11-04T19:06|Bleachers|the van",
-"t": "2026-11-04T19:06:00+01:00",
-"artist": "Bleachers",
-"title": "the van"
 }
 ]
 }
