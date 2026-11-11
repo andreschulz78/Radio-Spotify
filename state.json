@@ -1,9 +1,9 @@
 {
-"updated": "2026-11-11T10:13:59.882280+01:00",
+"updated": "2026-11-11T10:25:59.882681+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
-"synced": "2026-11-11T10:09:59.882161+01:00",
+"synced": "2026-11-11T10:25:59.882681+01:00",
 "pruned": "2026-11-11",
 "calls": {
 "2026-11-04": 181,
@@ -13,12 +13,32 @@
 "2026-11-08": 111,
 "2026-11-09": 172,
 "2026-11-10": 171,
-"2026-11-11": 51
+"2026-11-11": 53
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAglRQ5eQMTC75TsAPk0tVkEIhoOddn",
+"snapshot": "AAAglhnnqbcUUDWqLm74DOrQ3h1q8kX6",
 "playlist": [
+[
+"2026-11-11T10:23|Dawn Penn|You Don't Love Me (No, No, No)",
+"spotify:track:6q4PBmi8xMgcUe3S1MSnWq"
+],
+[
+"2026-11-11T10:20|Beck|It Ends Right Here",
+"spotify:track:3PmyDf7Zu4vveCnayueVYX"
+],
+[
+"2026-11-11T10:17|Ibeyi|Hurry Hurry",
+"spotify:track:4BGA7VW330Eu1kaFNi98cG"
+],
+[
+"2026-11-11T10:09|The Black Angels|Here & Now",
+"spotify:track:2BLBYVk9pCw7S9LLi7kGNh"
+],
+[
+"2026-11-11T10:05|Wir sind Helden|Nur ein Wort",
+"spotify:track:0ahIFE0YAaWLjMpnAeRxsy"
+],
 [
 "2026-11-11T09:55|Beirut|Guericke's Unicorn",
 "spotify:track:30P4n3zltqpxxCbeSijIcc"
@@ -3601,6 +3621,30 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-11-11T10:23|Dawn Penn|You Don't Love Me (No, No, No)",
+"t": "2026-11-11T10:23:00+01:00",
+"artist": "Dawn Penn",
+"title": "You Don't Love Me (No, No, No)"
+},
+{
+"id": "2026-11-11T10:20|Beck|It Ends Right Here",
+"t": "2026-11-11T10:20:00+01:00",
+"artist": "Beck",
+"title": "It Ends Right Here"
+},
+{
+"id": "2026-11-11T10:17|Ibeyi|Hurry Hurry",
+"t": "2026-11-11T10:17:00+01:00",
+"artist": "Ibeyi",
+"title": "Hurry Hurry"
+},
+{
+"id": "2026-11-11T10:09|The Black Angels|Here & Now",
+"t": "2026-11-11T10:09:00+01:00",
+"artist": "The Black Angels",
+"title": "Here & Now"
+},
 {
 "id": "2026-11-11T10:05|Wir sind Helden|Nur ein Wort",
 "t": "2026-11-11T10:05:00+01:00",
@@ -8766,24 +8810,6 @@
 "t": "2026-11-04T10:27:00+01:00",
 "artist": "Noiseshaper feat. Juggla",
 "title": "All A Dem A Do"
-},
-{
-"id": "2026-11-04T10:24|Sam Burton|I'm A Stranger",
-"t": "2026-11-04T10:24:00+01:00",
-"artist": "Sam Burton",
-"title": "I'm A Stranger"
-},
-{
-"id": "2026-11-04T10:20|Chet Faker & Marcus Marr|The Trouble With Us",
-"t": "2026-11-04T10:20:00+01:00",
-"artist": "Chet Faker & Marcus Marr",
-"title": "The Trouble With Us"
-},
-{
-"id": "2026-11-04T10:17|Inxs|Beautiful Girl",
-"t": "2026-11-04T10:17:00+01:00",
-"artist": "Inxs",
-"title": "Beautiful Girl"
 }
 ]
 }
