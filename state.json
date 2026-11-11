@@ -1,9 +1,9 @@
 {
-"updated": "2026-11-11T20:51:57.560250+01:00",
+"updated": "2026-11-11T21:03:57.560609+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
-"synced": "2026-11-11T20:47:57.560139+01:00",
+"synced": "2026-11-11T21:03:57.560609+01:00",
 "pruned": "2026-11-11",
 "calls": {
 "2026-11-04": 181,
@@ -13,12 +13,20 @@
 "2026-11-08": 111,
 "2026-11-09": 172,
 "2026-11-10": 171,
-"2026-11-11": 160
+"2026-11-11": 162
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAgvD4LGM5MXIBdZ6X/yzB6MHdxLWwf",
+"snapshot": "AAAgvZKhy1bw38QoKvKuRFfC4wJGTx3w",
 "playlist": [
+[
+"2026-11-11T20:55|thom.|Love Is Real",
+"spotify:track:4zhP5anemDp8vdKxabiF9Y"
+],
+[
+"2026-11-11T20:53|Dottie Andersson|Wind That Makes The Subway Sound",
+"spotify:track:3FdJLESuBrb3B9Fh9We3Fl"
+],
 [
 "2026-11-11T20:41|Sly & The Family Stone|If You Want Me To Stay",
 "spotify:track:1e7ixBAoBWbUWGoM7VBc0w"
@@ -4013,6 +4021,18 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-11-11T20:55|thom.|Love Is Real",
+"t": "2026-11-11T20:55:00+01:00",
+"artist": "thom.",
+"title": "Love Is Real"
+},
+{
+"id": "2026-11-11T20:53|Dottie Andersson|Wind That Makes The Subway Sound",
+"t": "2026-11-11T20:53:00+01:00",
+"artist": "Dottie Andersson",
+"title": "Wind That Makes The Subway Sound"
+},
 {
 "id": "2026-11-11T20:41|Sly & The Family Stone|If You Want Me To Stay",
 "t": "2026-11-11T20:41:00+01:00",
