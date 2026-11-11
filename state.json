@@ -1,9 +1,9 @@
 {
-"updated": "2026-11-11T20:03:57.558814+01:00",
+"updated": "2026-11-11T20:15:57.559163+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
-"synced": "2026-11-11T19:59:57.558737+01:00",
+"synced": "2026-11-11T20:15:57.559163+01:00",
 "pruned": "2026-11-11",
 "calls": {
 "2026-11-04": 181,
@@ -13,12 +13,20 @@
 "2026-11-08": 111,
 "2026-11-09": 172,
 "2026-11-10": 171,
-"2026-11-11": 153
+"2026-11-11": 156
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAguT5ezc5HeKZpq7M23/Asvg6qlS2K",
+"snapshot": "AAAgulycbsF8dFYClVU+ikB+SjPdnXnH",
 "playlist": [
+[
+"2026-11-11T20:04|The Postal Service|Such Great Heights",
+"spotify:track:4G21jWo0Cm6lOIUNnZ2mUI"
+],
+[
+"2026-11-11T19:55|Men I Trust|Ring Of Past",
+"spotify:track:11sfRkHdvsop5DdHVmGpt1"
+],
 [
 "2026-11-11T19:53|Modeselektor|IWUDLYK",
 "spotify:track:0ETCwiSL7d6N9Wg4jJn5Gz"
@@ -3981,6 +3989,12 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-11-11T20:04|The Postal Service|Such Great Heights",
+"t": "2026-11-11T20:04:00+01:00",
+"artist": "The Postal Service",
+"title": "Such Great Heights"
+},
 {
 "id": "2026-11-11T19:55|Men I Trust|Ring Of Past",
 "t": "2026-11-11T19:55:00+01:00",
