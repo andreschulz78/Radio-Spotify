@@ -1,9 +1,9 @@
 {
-"updated": "2026-11-11T06:54:08.082564+01:00",
+"updated": "2026-11-11T07:06:08.082882+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
-"synced": "2026-11-11T06:42:08.082281+01:00",
+"synced": "2026-11-11T06:58:08.082645+01:00",
 "pruned": "2026-11-11",
 "calls": {
 "2026-11-04": 181,
@@ -13,12 +13,24 @@
 "2026-11-08": 111,
 "2026-11-09": 172,
 "2026-11-10": 171,
-"2026-11-11": 13
+"2026-11-11": 19
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAghzUjzJL/teGAUV5pwkuH4OXRaLKH",
+"snapshot": "AAAgiLfUvpR+jkzeTkvpahj4rp3ZiXBQ",
 "playlist": [
+[
+"2026-11-11T06:50|Dawn Landes|Young Girl",
+"spotify:track:0ithj70rZguJOa2rCTd8wK"
+],
+[
+"2026-11-11T06:47|Robbie Williams|Mr. Bojangles",
+"spotify:track:0aIXPVVZArfwTOrPYSOaa5"
+],
+[
+"2026-11-11T06:41|Dream Boat|Real!",
+"spotify:track:1yxpRDrcK5ExwNiThPa9Uh"
+],
 [
 "2026-11-11T06:33|Faithless feat. Dido|One Step Too Far",
 "spotify:track:67JG3WZ0ow05lDqcWnCBBc"
@@ -3501,6 +3513,24 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-11-11T06:56|Maribou State feat. Khruangbin|Feel Good",
+"t": "2026-11-11T06:56:00+01:00",
+"artist": "Maribou State feat. Khruangbin",
+"title": "Feel Good"
+},
+{
+"id": "2026-11-11T06:50|Dawn Landes|Young Girl",
+"t": "2026-11-11T06:50:00+01:00",
+"artist": "Dawn Landes",
+"title": "Young Girl"
+},
+{
+"id": "2026-11-11T06:47|Robbie Williams|Mr. Bojangles",
+"t": "2026-11-11T06:47:00+01:00",
+"artist": "Robbie Williams",
+"title": "Mr. Bojangles"
+},
 {
 "id": "2026-11-11T06:41|Dream Boat|Real!",
 "t": "2026-11-11T06:41:00+01:00",
@@ -8690,18 +8720,6 @@
 "t": "2026-11-04T07:12:00+01:00",
 "artist": "Tunde Adebimpe",
 "title": "God Knows"
-},
-{
-"id": "2026-11-04T07:05|Death Cab For Cutie|Pep Talk",
-"t": "2026-11-04T07:05:00+01:00",
-"artist": "Death Cab For Cutie",
-"title": "Pep Talk"
-},
-{
-"id": "2026-11-04T06:56|Jonathan Jeremiah|Good Day",
-"t": "2026-11-04T06:56:00+01:00",
-"artist": "Jonathan Jeremiah",
-"title": "Good Day"
 }
 ]
 }
