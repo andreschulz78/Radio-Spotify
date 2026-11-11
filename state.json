@@ -1,5 +1,5 @@
 {
-"updated": "2026-11-11T12:01:59.885538+01:00",
+"updated": "2026-11-11T12:13:59.885920+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
@@ -3685,6 +3685,18 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-11-11T12:06|Boy Harsher|Tough Luck (When You Don't Call)",
+"t": "2026-11-11T12:06:00+01:00",
+"artist": "Boy Harsher",
+"title": "Tough Luck (When You Don't Call)"
+},
+{
+"id": "2026-11-11T11:59|Ethan French|Reckless And Arranged - Day 56",
+"t": "2026-11-11T11:59:00+01:00",
+"artist": "Ethan French",
+"title": "Reckless And Arranged - Day 56"
+},
 {
 "id": "2026-11-11T11:53|Alli Neumann|Ich kann gar nichts",
 "t": "2026-11-11T11:53:00+01:00",
@@ -8862,18 +8874,6 @@
 "t": "2026-11-04T12:19:00+01:00",
 "artist": "Ibeyi",
 "title": "Hurry Hurry"
-},
-{
-"id": "2026-11-04T12:09|Black Pumas|Colors",
-"t": "2026-11-04T12:09:00+01:00",
-"artist": "Black Pumas",
-"title": "Colors"
-},
-{
-"id": "2026-11-04T12:06|Hot Chip|Eleanor (Edit)",
-"t": "2026-11-04T12:06:00+01:00",
-"artist": "Hot Chip",
-"title": "Eleanor (Edit)"
 }
 ]
 }
