@@ -1,9 +1,9 @@
 {
-"updated": "2026-11-11T06:06:08.081272+01:00",
+"updated": "2026-11-11T06:18:08.081631+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
-"synced": "2026-11-11T05:54:08.080904+01:00",
+"synced": "2026-11-11T06:10:08.081367+01:00",
 "pruned": "2026-11-11",
 "calls": {
 "2026-11-04": 181,
@@ -13,12 +13,24 @@
 "2026-11-08": 111,
 "2026-11-09": 172,
 "2026-11-10": 171,
-"2026-11-11": 7
+"2026-11-11": 10
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAghOhKwnxhwNfCE/mGKQzDSStPZhtX",
+"snapshot": "AAAghS5NZrGO7rGSROrCWdG2R2YLacj/",
 "playlist": [
+[
+"2026-11-11T06:04|Jungle|The Wave",
+"spotify:track:6Ln44Up5lBxNgCsaLoXY6W"
+],
+[
+"2026-11-11T05:55|Remi Wolf|Cinderella",
+"spotify:track:46clCWv55EyW1ZlOl796It"
+],
+[
+"2026-11-11T05:50|Benjamin Clementine|In Fact You Know You Gotto Go",
+"spotify:track:4cWEdRTQ8sg4QaTBIGn06j"
+],
 [
 "2026-11-11T05:46|Balu Brigada|Backseat (Edit)",
 "spotify:track:7yT4NJt5rgmVoMJMGPULcj"
@@ -3473,6 +3485,18 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-11-11T06:11|Muse|Starlight",
+"t": "2026-11-11T06:11:00+01:00",
+"artist": "Muse",
+"title": "Starlight"
+},
+{
+"id": "2026-11-11T06:04|Jungle|The Wave",
+"t": "2026-11-11T06:04:00+01:00",
+"artist": "Jungle",
+"title": "The Wave"
+},
 {
 "id": "2026-11-11T05:55|Remi Wolf|Cinderella",
 "t": "2026-11-11T05:55:00+01:00",
@@ -8674,18 +8698,6 @@
 "t": "2026-11-04T06:19:00+01:00",
 "artist": "RY X",
 "title": "Howling (Robin Hannibal Remix)"
-},
-{
-"id": "2026-11-04T06:14|Lola Young|From Down Here (Radio Edit)",
-"t": "2026-11-04T06:14:00+01:00",
-"artist": "Lola Young",
-"title": "From Down Here (Radio Edit)"
-},
-{
-"id": "2026-11-04T06:07|Hilltop Hoods|Leave Me Lonely",
-"t": "2026-11-04T06:07:00+01:00",
-"artist": "Hilltop Hoods",
-"title": "Leave Me Lonely"
 }
 ]
 }
