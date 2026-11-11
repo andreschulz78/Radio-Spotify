@@ -1,5 +1,5 @@
 {
-"updated": "2026-11-11T10:25:59.882681+01:00",
+"updated": "2026-11-11T10:37:59.883046+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
@@ -13,7 +13,7 @@
 "2026-11-08": 111,
 "2026-11-09": 172,
 "2026-11-10": 171,
-"2026-11-11": 53
+"2026-11-11": 54
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
@@ -3621,6 +3621,18 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-11-11T10:33|Matthew E. White feat. Natalie Prass|Cool Out",
+"t": "2026-11-11T10:33:00+01:00",
+"artist": "Matthew E. White feat. Natalie Prass",
+"title": "Cool Out"
+},
+{
+"id": "2026-11-11T10:26|Philip Selway|Check For Signs Of Life",
+"t": "2026-11-11T10:26:00+01:00",
+"artist": "Philip Selway",
+"title": "Check For Signs Of Life"
+},
 {
 "id": "2026-11-11T10:23|Dawn Penn|You Don't Love Me (No, No, No)",
 "t": "2026-11-11T10:23:00+01:00",
@@ -8792,24 +8804,6 @@
 "t": "2026-11-04T10:46:00+01:00",
 "artist": "St. Vincent",
 "title": "...At The Holiday Party"
-},
-{
-"id": "2026-11-04T10:34|Leon Bridges|Light The Way",
-"t": "2026-11-04T10:34:00+01:00",
-"artist": "Leon Bridges",
-"title": "Light The Way"
-},
-{
-"id": "2026-11-04T10:32|Jorja Smith|Don't Leave",
-"t": "2026-11-04T10:32:00+01:00",
-"artist": "Jorja Smith",
-"title": "Don't Leave"
-},
-{
-"id": "2026-11-04T10:27|Noiseshaper feat. Juggla|All A Dem A Do",
-"t": "2026-11-04T10:27:00+01:00",
-"artist": "Noiseshaper feat. Juggla",
-"title": "All A Dem A Do"
 }
 ]
 }
