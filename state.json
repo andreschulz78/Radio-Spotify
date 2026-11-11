@@ -1,9 +1,9 @@
 {
-"updated": "2026-11-11T07:06:08.082882+01:00",
+"updated": "2026-11-11T07:18:08.083228+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
-"synced": "2026-11-11T06:58:08.082645+01:00",
+"synced": "2026-11-11T07:14:08.083133+01:00",
 "pruned": "2026-11-11",
 "calls": {
 "2026-11-04": 181,
@@ -13,12 +13,20 @@
 "2026-11-08": 111,
 "2026-11-09": 172,
 "2026-11-10": 171,
-"2026-11-11": 19
+"2026-11-11": 23
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAgiLfUvpR+jkzeTkvpahj4rp3ZiXBQ",
+"snapshot": "AAAgibljjqc4F71ge7AmgF3fcM2gEX+F",
 "playlist": [
+[
+"2026-11-11T07:05|Dramas|Mess",
+"spotify:track:0YKIn1FFwm066LCUWMZ6Vd"
+],
+[
+"2026-11-11T06:56|Maribou State feat. Khruangbin|Feel Good",
+"spotify:track:6XH2zDNsbwv8rJhJJjA4gk"
+],
 [
 "2026-11-11T06:50|Dawn Landes|Young Girl",
 "spotify:track:0ithj70rZguJOa2rCTd8wK"
@@ -3513,6 +3521,18 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-11-11T07:12|Peaches|No Lube So Rude",
+"t": "2026-11-11T07:12:00+01:00",
+"artist": "Peaches",
+"title": "No Lube So Rude"
+},
+{
+"id": "2026-11-11T07:05|Dramas|Mess",
+"t": "2026-11-11T07:05:00+01:00",
+"artist": "Dramas",
+"title": "Mess"
+},
 {
 "id": "2026-11-11T06:56|Maribou State feat. Khruangbin|Feel Good",
 "t": "2026-11-11T06:56:00+01:00",
@@ -8708,18 +8728,6 @@
 "t": "2026-11-04T07:27:00+01:00",
 "artist": "Bilderbuch",
 "title": "Baby Junkie"
-},
-{
-"id": "2026-11-04T07:18|Pet Shop Boys feat. Dusty Springfield|What Have I Done To Deserve This",
-"t": "2026-11-04T07:18:00+01:00",
-"artist": "Pet Shop Boys feat. Dusty Springfield",
-"title": "What Have I Done To Deserve This"
-},
-{
-"id": "2026-11-04T07:12|Tunde Adebimpe|God Knows",
-"t": "2026-11-04T07:12:00+01:00",
-"artist": "Tunde Adebimpe",
-"title": "God Knows"
 }
 ]
 }
