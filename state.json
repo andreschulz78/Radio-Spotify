@@ -1,9 +1,9 @@
 {
-"updated": "2026-11-11T16:39:57.553032+01:00",
+"updated": "2026-11-11T16:51:57.553357+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
-"synced": "2026-11-11T16:35:57.552927+01:00",
+"synced": "2026-11-11T16:51:57.553357+01:00",
 "pruned": "2026-11-11",
 "calls": {
 "2026-11-04": 181,
@@ -13,12 +13,24 @@
 "2026-11-08": 111,
 "2026-11-09": 172,
 "2026-11-10": 171,
-"2026-11-11": 113
+"2026-11-11": 116
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAgrRf7r1qM5jBsQhu2mnGk6/Oqkv4o",
+"snapshot": "AAAgruWkh2+TStJ3868bU3wKK/XZWybz",
 "playlist": [
+[
+"2026-11-11T16:46|Mac DeMarco|The Way You 'd Love Her",
+"spotify:track:5LvnM6SBP1RUJEr9q3CJNn"
+],
+[
+"2026-11-11T16:38|Jamie Lidell|Another Day",
+"spotify:track:5RBm34RVj5LGnMJIJUf5Qp"
+],
+[
+"2026-11-11T16:34|BICEP feat. SOARR|Air (Radio Edit)",
+"spotify:track:2infXICqVSUM3bbGSOgFOY"
+],
 [
 "2026-11-11T16:23|The Divine Comedy|Invisible Thread",
 "spotify:track:2t0XwCywKPKbBzZ9TV1eHm"
@@ -3861,6 +3873,24 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-11-11T16:46|Mac DeMarco|The Way You 'd Love Her",
+"t": "2026-11-11T16:46:00+01:00",
+"artist": "Mac DeMarco",
+"title": "The Way You 'd Love Her"
+},
+{
+"id": "2026-11-11T16:38|Jamie Lidell|Another Day",
+"t": "2026-11-11T16:38:00+01:00",
+"artist": "Jamie Lidell",
+"title": "Another Day"
+},
+{
+"id": "2026-11-11T16:34|BICEP feat. SOARR|Air (Radio Edit)",
+"t": "2026-11-11T16:34:00+01:00",
+"artist": "BICEP feat. SOARR",
+"title": "Air (Radio Edit)"
+},
 {
 "id": "2026-11-11T16:23|The Divine Comedy|Invisible Thread",
 "t": "2026-11-11T16:23:00+01:00",
@@ -9026,24 +9056,6 @@
 "t": "2026-11-04T16:57:00+01:00",
 "artist": "Groove Armada",
 "title": "At The River (Radio Edit)"
-},
-{
-"id": "2026-11-04T16:50|Jamie xx|Dream Night",
-"t": "2026-11-04T16:50:00+01:00",
-"artist": "Jamie xx",
-"title": "Dream Night"
-},
-{
-"id": "2026-11-04T16:46|JGrrey feat. Bel Cobain|Take My Hand",
-"t": "2026-11-04T16:46:00+01:00",
-"artist": "JGrrey feat. Bel Cobain",
-"title": "Take My Hand"
-},
-{
-"id": "2026-11-04T16:43|Kevin Morby|I Have Been To The Mountain",
-"t": "2026-11-04T16:43:00+01:00",
-"artist": "Kevin Morby",
-"title": "I Have Been To The Mountain"
 }
 ]
 }
