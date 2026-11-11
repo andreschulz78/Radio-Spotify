@@ -1,9 +1,9 @@
 {
-"updated": "2026-11-11T18:51:57.556687+01:00",
+"updated": "2026-11-11T19:03:57.557044+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
-"synced": "2026-11-11T18:43:57.556479+01:00",
+"synced": "2026-11-11T18:59:57.556914+01:00",
 "pruned": "2026-11-11",
 "calls": {
 "2026-11-04": 181,
@@ -13,12 +13,32 @@
 "2026-11-08": 111,
 "2026-11-09": 172,
 "2026-11-10": 171,
-"2026-11-11": 143
+"2026-11-11": 145
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAgtUez39pctkQLbtcq4vHbex7g/A1d",
+"snapshot": "AAAgtvE5O5MsTW9/KGO1ZNh6ruc2NiuL",
 "playlist": [
+[
+"2026-11-11T18:53|Cassia|lovedrunk",
+"spotify:track:73HM4oXqEBDbeKn8GexF3c"
+],
+[
+"2026-11-11T18:48|Langoth feat. Melinda Stoika|Watch What You Say",
+"spotify:track:0uhTQZwLFEJhLFhOPCk3mO"
+],
+[
+"2026-11-11T18:44|Natalie Jane Hill|Never Left Me",
+"spotify:track:5mYV6uf5S0ChjFoLJWUJHI"
+],
+[
+"2026-11-11T18:40|Ayele|Fractured (Radio Edit)",
+"spotify:track:5EGnOBL2qoUNard3Oaq5Hc"
+],
+[
+"2026-11-11T18:38|Ayele|Fractured (Radio Edit)",
+"spotify:track:5EGnOBL2qoUNard3Oaq5Hc"
+],
 [
 "2026-11-11T18:34|Get Well Soon|It's Love",
 "spotify:track:5NlVh0caOqVu7Sv7gQyyEj"
@@ -3941,6 +3961,24 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-11-11T18:56|Depeche Mode|Behind The Wheel",
+"t": "2026-11-11T18:56:00+01:00",
+"artist": "Depeche Mode",
+"title": "Behind The Wheel"
+},
+{
+"id": "2026-11-11T18:53|Cassia|lovedrunk",
+"t": "2026-11-11T18:53:00+01:00",
+"artist": "Cassia",
+"title": "lovedrunk"
+},
+{
+"id": "2026-11-11T18:48|Langoth feat. Melinda Stoika|Watch What You Say",
+"t": "2026-11-11T18:48:00+01:00",
+"artist": "Langoth feat. Melinda Stoika",
+"title": "Watch What You Say"
+},
 {
 "id": "2026-11-11T18:44|Natalie Jane Hill|Never Left Me",
 "t": "2026-11-11T18:44:00+01:00",
@@ -9124,12 +9162,6 @@
 "t": "2026-11-04T19:06:00+01:00",
 "artist": "Bleachers",
 "title": "the van"
-},
-{
-"id": "2026-11-04T18:56|Gordon Lightfoot|If You Could Read My Mind",
-"t": "2026-11-04T18:56:00+01:00",
-"artist": "Gordon Lightfoot",
-"title": "If You Could Read My Mind"
 }
 ]
 }
