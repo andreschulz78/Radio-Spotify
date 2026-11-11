@@ -1,9 +1,9 @@
 {
-"updated": "2026-11-11T09:13:59.880467+01:00",
+"updated": "2026-11-11T09:25:59.880800+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
-"synced": "2026-11-11T09:05:59.880216+01:00",
+"synced": "2026-11-11T09:21:59.880682+01:00",
 "pruned": "2026-11-11",
 "calls": {
 "2026-11-04": 181,
@@ -13,12 +13,20 @@
 "2026-11-08": 111,
 "2026-11-09": 172,
 "2026-11-10": 171,
-"2026-11-11": 36
+"2026-11-11": 39
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAgkI3JzdgdW+mTXJKxK8pUeI7FiK7m",
+"snapshot": "AAAgkcI5FcBI8FlJ7z/IByw4x1YSMVKb",
 "playlist": [
+[
+"2026-11-11T09:13|Gorillaz feat. Mos Def & Bobby Womack|Stylo",
+"spotify:track:0gxwiSddQ6JQG8XM50fqHg"
+],
+[
+"2026-11-11T09:06|Dekker|Pick It Up, Put It Back",
+"spotify:track:0LhuToBNSlvYc4IwVJpYWH"
+],
 [
 "2026-11-11T08:57|Jazzanova feat. Ben Westbeech|I Can See",
 "spotify:track:5WcJmplTokL9ailiLLEqUo"
@@ -3573,6 +3581,18 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-11-11T09:18|Sade|Nothing Can Come Between Us",
+"t": "2026-11-11T09:18:00+01:00",
+"artist": "Sade",
+"title": "Nothing Can Come Between Us"
+},
+{
+"id": "2026-11-11T09:13|Gorillaz feat. Mos Def & Bobby Womack|Stylo",
+"t": "2026-11-11T09:13:00+01:00",
+"artist": "Gorillaz feat. Mos Def & Bobby Womack",
+"title": "Stylo"
+},
 {
 "id": "2026-11-11T09:06|Dekker|Pick It Up, Put It Back",
 "t": "2026-11-11T09:06:00+01:00",
@@ -8756,18 +8776,6 @@
 "t": "2026-11-04T09:26:00+01:00",
 "artist": "Beirut",
 "title": "Santa Fe"
-},
-{
-"id": "2026-11-04T09:19|Lenny Kravitz|Believe In Me",
-"t": "2026-11-04T09:19:00+01:00",
-"artist": "Lenny Kravitz",
-"title": "Believe In Me"
-},
-{
-"id": "2026-11-04T09:16|Tikhet|Burndowner",
-"t": "2026-11-04T09:16:00+01:00",
-"artist": "Tikhet",
-"title": "Burndowner"
 }
 ]
 }
