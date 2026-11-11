@@ -1,9 +1,9 @@
 {
-"updated": "2026-11-11T21:39:57.561645+01:00",
+"updated": "2026-11-11T22:51:43.159012+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
-"synced": "2026-11-11T21:35:57.561542+01:00",
+"synced": "2026-11-11T22:51:43.159012+01:00",
 "pruned": "2026-11-11",
 "calls": {
 "2026-11-04": 181,
@@ -13,12 +13,24 @@
 "2026-11-08": 111,
 "2026-11-09": 172,
 "2026-11-10": 171,
-"2026-11-11": 173
+"2026-11-11": 177
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAgv8ou5yfyFgipxTLMKqzxtH//eLZx",
+"snapshot": "AAAgwDSUEffDr5NRqN0ez9rjSdIKXj88",
 "playlist": [
+[
+"2026-11-11T21:53|La Roux|Automatic Driver",
+"spotify:track:2AltKq4Mv43AgcdYdMtyTy"
+],
+[
+"2026-11-11T21:49|Claud|The Legend",
+"spotify:track:2jJrttqKrC9bv3a8KPwkSM"
+],
+[
+"2026-11-11T21:46|La Roux|I Just Keep Crying",
+"spotify:track:6NsNpbFfaDIixckYgrIcFf"
+],
 [
 "2026-11-11T21:31|Skepta|Secrets of Patriarchy",
 "spotify:track:1oOArQruDQQgIXqmyE569i"
@@ -4053,6 +4065,42 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-11-11T21:53|La Roux|Automatic Driver",
+"t": "2026-11-11T21:53:00+01:00",
+"artist": "La Roux",
+"title": "Automatic Driver"
+},
+{
+"id": "2026-11-11T21:49|Claud|The Legend",
+"t": "2026-11-11T21:49:00+01:00",
+"artist": "Claud",
+"title": "The Legend"
+},
+{
+"id": "2026-11-11T21:46|La Roux|I Just Keep Crying",
+"t": "2026-11-11T21:46:00+01:00",
+"artist": "La Roux",
+"title": "I Just Keep Crying"
+},
+{
+"id": "2026-11-11T21:42|La Roux|Babyline",
+"t": "2026-11-11T21:42:00+01:00",
+"artist": "La Roux",
+"title": "Babyline"
+},
+{
+"id": "2026-11-11T21:39|La Roux|To Make Our Love",
+"t": "2026-11-11T21:39:00+01:00",
+"artist": "La Roux",
+"title": "To Make Our Love"
+},
+{
+"id": "2026-11-11T21:35|La Roux|Uptight Downtown",
+"t": "2026-11-11T21:35:00+01:00",
+"artist": "La Roux",
+"title": "Uptight Downtown"
+},
 {
 "id": "2026-11-11T21:31|Skepta|Secrets of Patriarchy",
 "t": "2026-11-11T21:31:00+01:00",
