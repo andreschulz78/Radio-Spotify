@@ -1,9 +1,9 @@
 {
-"updated": "2026-11-11T13:37:59.888466+01:00",
+"updated": "2026-11-11T16:03:57.552013+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
-"synced": "2026-11-11T13:37:59.888466+01:00",
+"synced": "2026-11-11T16:03:57.552013+01:00",
 "pruned": "2026-11-11",
 "calls": {
 "2026-11-04": 181,
@@ -13,12 +13,80 @@
 "2026-11-08": 111,
 "2026-11-09": 172,
 "2026-11-10": 171,
-"2026-11-11": 91
+"2026-11-11": 95
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAgpL7H4gfs/oq4iseLykQXocn0lkFu",
+"snapshot": "AAAgpR27KMRkoQi61c7nPxIBWnXgi7sw",
 "playlist": [
+[
+"2026-11-11T15:50|Timbaland (feat. Katy Perry)|If we ever meet again",
+"spotify:track:360UM2DaiHZPRu0EsrOvMp"
+],
+[
+"2026-11-11T15:45|J.Bernardt|Love Is On My Mind",
+"spotify:track:4LuP3veDBkqnyLQvgDQpJb"
+],
+[
+"2026-11-11T15:30|Yard Act|You're Gonna Need A Little Music",
+"spotify:track:43KS2LpjMVkvJdprLaoQxQ"
+],
+[
+"2026-11-11T15:22|UFOs|UFO (Radio Edit)",
+"spotify:track:7pA7CZIJUpcD5X0QpLlESx"
+],
+[
+"2026-11-11T15:19|Sixpence None The Richer|Kiss Me",
+"spotify:track:754kgU5rWscRTfvlsuEwFp"
+],
+[
+"2026-11-11T15:09|Raphael Saadiq|Rikers Island",
+"spotify:track:4IbyFZD9KRujoYzHUxWKef"
+],
+[
+"2026-11-11T15:06|Chinese American Bear|Dance Dance Dance (Edit)",
+"spotify:track:3Ct3ro3LnsTHjeRVPNSG5s"
+],
+[
+"2026-11-11T14:57|Sophia Kennedy|Schenke mir ein",
+"spotify:track:1nh7tFgkfO0Q7B6EAdUaJ2"
+],
+[
+"2026-11-11T14:51|Morrissey|I'm Throwing My Arms Around Paris",
+"spotify:track:5XsNOpMXOauE1YC89ZGOhR"
+],
+[
+"2026-11-11T14:39|Jamie T|Tallahassee",
+"spotify:track:3Kwdvrz5PTUpAObYKNPlz0"
+],
+[
+"2026-11-11T14:36|Andy Shauf|Halloween Store",
+"spotify:track:3oWGBitSdsizfiIlCfwUqV"
+],
+[
+"2026-11-11T14:33|Kelela|the bridge (feat. PinkPantheress)",
+"spotify:track:4Og22Djtd18AVqNgijpLsX"
+],
+[
+"2026-11-11T14:20|Odd Beholder|Your Emancipation",
+"spotify:track:1uLBaUVurwbtHnyAlD7ExO"
+],
+[
+"2026-11-11T14:05|Hot Chip|Random Violence (Radio Edit)",
+"spotify:track:0T3vTM8KUAwGMukdAhNVj2"
+],
+[
+"2026-11-11T13:57|Dahi feat. Kendrick Lamar & Amber Mark|How To Pray",
+"spotify:track:5M8eNQ6wLYPT9D60hbcxVU"
+],
+[
+"2026-11-11T13:51|Gerry Read feat. Gregor|Taking All My Clothes Off",
+"spotify:track:0a1BTzQAc7NuYreRDWMV63"
+],
+[
+"2026-11-11T13:38|Nia Archives|Vertical",
+"spotify:track:0ecQazzKkndVD8Ry9Orp9Q"
+],
 [
 "2026-11-11T13:28|Austra|Math Equation",
 "spotify:track:2r6yEYmV8vu1pjVHmKEr0f"
@@ -3753,6 +3821,150 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-11-11T15:50|Timbaland (feat. Katy Perry)|If we ever meet again",
+"t": "2026-11-11T15:50:00+01:00",
+"artist": "Timbaland (feat. Katy Perry)",
+"title": "If we ever meet again"
+},
+{
+"id": "2026-11-11T15:45|J.Bernardt|Love Is On My Mind",
+"t": "2026-11-11T15:45:00+01:00",
+"artist": "J.Bernardt",
+"title": "Love Is On My Mind"
+},
+{
+"id": "2026-11-11T15:30|Yard Act|You're Gonna Need A Little Music",
+"t": "2026-11-11T15:30:00+01:00",
+"artist": "Yard Act",
+"title": "You're Gonna Need A Little Music"
+},
+{
+"id": "2026-11-11T15:22|UFOs|UFO (Radio Edit)",
+"t": "2026-11-11T15:22:00+01:00",
+"artist": "UFOs",
+"title": "UFO (Radio Edit)"
+},
+{
+"id": "2026-11-11T15:19|Sixpence None The Richer|Kiss Me",
+"t": "2026-11-11T15:19:00+01:00",
+"artist": "Sixpence None The Richer",
+"title": "Kiss Me"
+},
+{
+"id": "2026-11-11T15:09|Raphael Saadiq|Rikers Island",
+"t": "2026-11-11T15:09:00+01:00",
+"artist": "Raphael Saadiq",
+"title": "Rikers Island"
+},
+{
+"id": "2026-11-11T15:06|Chinese American Bear|Dance Dance Dance (Edit)",
+"t": "2026-11-11T15:06:00+01:00",
+"artist": "Chinese American Bear",
+"title": "Dance Dance Dance (Edit)"
+},
+{
+"id": "2026-11-11T14:57|Sophia Kennedy|Schenke mir ein",
+"t": "2026-11-11T14:57:00+01:00",
+"artist": "Sophia Kennedy",
+"title": "Schenke mir ein"
+},
+{
+"id": "2026-11-11T14:51|Morrissey|I'm Throwing My Arms Around Paris",
+"t": "2026-11-11T14:51:00+01:00",
+"artist": "Morrissey",
+"title": "I'm Throwing My Arms Around Paris"
+},
+{
+"id": "2026-11-11T14:49|Jenny Lewis & The Watson Twins|You Are What You Love",
+"t": "2026-11-11T14:49:00+01:00",
+"artist": "Jenny Lewis & The Watson Twins",
+"title": "You Are What You Love"
+},
+{
+"id": "2026-11-11T14:45|La Roux|Cabin fever",
+"t": "2026-11-11T14:45:00+01:00",
+"artist": "La Roux",
+"title": "Cabin fever"
+},
+{
+"id": "2026-11-11T14:39|Jamie T|Tallahassee",
+"t": "2026-11-11T14:39:00+01:00",
+"artist": "Jamie T",
+"title": "Tallahassee"
+},
+{
+"id": "2026-11-11T14:36|Andy Shauf|Halloween Store",
+"t": "2026-11-11T14:36:00+01:00",
+"artist": "Andy Shauf",
+"title": "Halloween Store"
+},
+{
+"id": "2026-11-11T14:33|Kelela|the bridge (feat. PinkPantheress)",
+"t": "2026-11-11T14:33:00+01:00",
+"artist": "Kelela",
+"title": "the bridge (feat. PinkPantheress)"
+},
+{
+"id": "2026-11-11T14:27|Belle & Sebastian|The White Collar Boy",
+"t": "2026-11-11T14:27:00+01:00",
+"artist": "Belle & Sebastian",
+"title": "The White Collar Boy"
+},
+{
+"id": "2026-11-11T14:20|Odd Beholder|Your Emancipation",
+"t": "2026-11-11T14:20:00+01:00",
+"artist": "Odd Beholder",
+"title": "Your Emancipation"
+},
+{
+"id": "2026-11-11T14:09|Radiohead|Paranoid Android",
+"t": "2026-11-11T14:09:00+01:00",
+"artist": "Radiohead",
+"title": "Paranoid Android"
+},
+{
+"id": "2026-11-11T14:05|Hot Chip|Random Violence (Radio Edit)",
+"t": "2026-11-11T14:05:00+01:00",
+"artist": "Hot Chip",
+"title": "Random Violence (Radio Edit)"
+},
+{
+"id": "2026-11-11T13:57|Dahi feat. Kendrick Lamar & Amber Mark|How To Pray",
+"t": "2026-11-11T13:57:00+01:00",
+"artist": "Dahi feat. Kendrick Lamar & Amber Mark",
+"title": "How To Pray"
+},
+{
+"id": "2026-11-11T13:51|Gerry Read feat. Gregor|Taking All My Clothes Off",
+"t": "2026-11-11T13:51:00+01:00",
+"artist": "Gerry Read feat. Gregor",
+"title": "Taking All My Clothes Off"
+},
+{
+"id": "2026-11-11T13:47|Oren Lavie feat. Vanessa Paradis|Did You Really Say No",
+"t": "2026-11-11T13:47:00+01:00",
+"artist": "Oren Lavie feat. Vanessa Paradis",
+"title": "Did You Really Say No"
+},
+{
+"id": "2026-11-11T13:43|The The|Slow Emotion Replay",
+"t": "2026-11-11T13:43:00+01:00",
+"artist": "The The",
+"title": "Slow Emotion Replay"
+},
+{
+"id": "2026-11-11T13:38|Nia Archives|Vertical",
+"t": "2026-11-11T13:38:00+01:00",
+"artist": "Nia Archives",
+"title": "Vertical"
+},
+{
+"id": "2026-11-11T13:33|Kasabian|Re-Wired",
+"t": "2026-11-11T13:33:00+01:00",
+"artist": "Kasabian",
+"title": "Re-Wired"
+},
 {
 "id": "2026-11-11T13:28|Austra|Math Equation",
 "t": "2026-11-11T13:28:00+01:00",
@@ -8804,150 +9016,6 @@
 "t": "2026-11-04T16:05:00+01:00",
 "artist": "Get Well Soon",
 "title": "Siri, What Ruined The West ?"
-},
-{
-"id": "2026-11-04T15:57|Grace Cummings|I'm Not Crazy",
-"t": "2026-11-04T15:57:00+01:00",
-"artist": "Grace Cummings",
-"title": "I'm Not Crazy"
-},
-{
-"id": "2026-11-04T15:51|Queen Latifah|U.N.I.T.Y.",
-"t": "2026-11-04T15:51:00+01:00",
-"artist": "Queen Latifah",
-"title": "U.N.I.T.Y."
-},
-{
-"id": "2026-11-04T15:45|Kraftwerk|Die Roboter",
-"t": "2026-11-04T15:45:00+01:00",
-"artist": "Kraftwerk",
-"title": "Die Roboter"
-},
-{
-"id": "2026-11-04T15:31|Leon Bridges|Talk it over",
-"t": "2026-11-04T15:31:00+01:00",
-"artist": "Leon Bridges",
-"title": "Talk it over"
-},
-{
-"id": "2026-11-04T15:23|Bosse|3 Millionen",
-"t": "2026-11-04T15:23:00+01:00",
-"artist": "Bosse",
-"title": "3 Millionen"
-},
-{
-"id": "2026-11-04T15:20|Jungle|The Wave",
-"t": "2026-11-04T15:20:00+01:00",
-"artist": "Jungle",
-"title": "The Wave"
-},
-{
-"id": "2026-11-04T15:10|Freebass|The God Machine",
-"t": "2026-11-04T15:10:00+01:00",
-"artist": "Freebass",
-"title": "The God Machine"
-},
-{
-"id": "2026-11-04T15:06|Planningtorock feat. Romy|The One",
-"t": "2026-11-04T15:06:00+01:00",
-"artist": "Planningtorock feat. Romy",
-"title": "The One"
-},
-{
-"id": "2026-11-04T14:56|CocoRosie|Rainbowarriors",
-"t": "2026-11-04T14:56:00+01:00",
-"artist": "CocoRosie",
-"title": "Rainbowarriors"
-},
-{
-"id": "2026-11-04T14:50|Jordan Rakei|Enemies",
-"t": "2026-11-04T14:50:00+01:00",
-"artist": "Jordan Rakei",
-"title": "Enemies"
-},
-{
-"id": "2026-11-04T14:43|The Monkees|I'm A Believer",
-"t": "2026-11-04T14:43:00+01:00",
-"artist": "The Monkees",
-"title": "I'm A Believer"
-},
-{
-"id": "2026-11-04T14:40|Jake Bugg|Lightning Bolt",
-"t": "2026-11-04T14:40:00+01:00",
-"artist": "Jake Bugg",
-"title": "Lightning Bolt"
-},
-{
-"id": "2026-11-04T14:37|Genesis Owusu|Human Again",
-"t": "2026-11-04T14:37:00+01:00",
-"artist": "Genesis Owusu",
-"title": "Human Again"
-},
-{
-"id": "2026-11-04T14:33|Natalie Bergmann|White Oak (Kosta G. Remix)",
-"t": "2026-11-04T14:33:00+01:00",
-"artist": "Natalie Bergmann",
-"title": "White Oak (Kosta G. Remix)"
-},
-{
-"id": "2026-11-04T14:30|Donna Blue|Solitaire",
-"t": "2026-11-04T14:30:00+01:00",
-"artist": "Donna Blue",
-"title": "Solitaire"
-},
-{
-"id": "2026-11-04T14:27|Jim James|Come Again",
-"t": "2026-11-04T14:27:00+01:00",
-"artist": "Jim James",
-"title": "Come Again"
-},
-{
-"id": "2026-11-04T14:21|Freebass|The God Machine",
-"t": "2026-11-04T14:21:00+01:00",
-"artist": "Freebass",
-"title": "The God Machine"
-},
-{
-"id": "2026-11-04T14:17|Robot Koch|Nite Sky",
-"t": "2026-11-04T14:17:00+01:00",
-"artist": "Robot Koch",
-"title": "Nite Sky"
-},
-{
-"id": "2026-11-04T14:09|Vince Staples|Tulsa, OK",
-"t": "2026-11-04T14:09:00+01:00",
-"artist": "Vince Staples",
-"title": "Tulsa, OK"
-},
-{
-"id": "2026-11-04T14:06|Huff & Herb|Feeling Good",
-"t": "2026-11-04T14:06:00+01:00",
-"artist": "Huff & Herb",
-"title": "Feeling Good"
-},
-{
-"id": "2026-11-04T13:58|Pink Martini|Hey Eugene!",
-"t": "2026-11-04T13:58:00+01:00",
-"artist": "Pink Martini",
-"title": "Hey Eugene!"
-},
-{
-"id": "2026-11-04T13:51|Sergio Torales feat. Der Assistent|Veo",
-"t": "2026-11-04T13:51:00+01:00",
-"artist": "Sergio Torales feat. Der Assistent",
-"title": "Veo"
-},
-{
-"id": "2026-11-04T13:47|Aurora|All My Demons Greeting Me As A Friend",
-"t": "2026-11-04T13:47:00+01:00",
-"artist": "Aurora",
-"title": "All My Demons Greeting Me As A Friend"
-},
-{
-"id": "2026-11-04T13:44|Kings Of Convenience|I'd Rather Dance With You",
-"t": "2026-11-04T13:44:00+01:00",
-"artist": "Kings Of Convenience",
-"title": "I'd Rather Dance With You"
 }
 ]
 }
