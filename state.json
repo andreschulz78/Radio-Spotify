@@ -1,9 +1,9 @@
 {
-"updated": "2026-11-11T19:51:57.558518+01:00",
+"updated": "2026-11-11T20:03:57.558814+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
-"synced": "2026-11-11T19:43:57.558264+01:00",
+"synced": "2026-11-11T19:59:57.558737+01:00",
 "pruned": "2026-11-11",
 "calls": {
 "2026-11-04": 181,
@@ -13,12 +13,20 @@
 "2026-11-08": 111,
 "2026-11-09": 172,
 "2026-11-10": 171,
-"2026-11-11": 151
+"2026-11-11": 153
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAguJ/tWp+3cC5i8hFygAbN4ERajAch",
+"snapshot": "AAAguT5ezc5HeKZpq7M23/Asvg6qlS2K",
 "playlist": [
+[
+"2026-11-11T19:53|Modeselektor|IWUDLYK",
+"spotify:track:0ETCwiSL7d6N9Wg4jJn5Gz"
+],
+[
+"2026-11-11T19:44|Tamino|Cigar",
+"spotify:track:01Y7ntOQnQtfcBYQuAR4Jf"
+],
 [
 "2026-11-11T19:34|Father John Misty|I Guess Time Just Makes Fools Of Us All",
 "spotify:track:0QA1dDs6A2xLr7nxWFpeJN"
@@ -3973,6 +3981,18 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-11-11T19:55|Men I Trust|Ring Of Past",
+"t": "2026-11-11T19:55:00+01:00",
+"artist": "Men I Trust",
+"title": "Ring Of Past"
+},
+{
+"id": "2026-11-11T19:53|Modeselektor|IWUDLYK",
+"t": "2026-11-11T19:53:00+01:00",
+"artist": "Modeselektor",
+"title": "IWUDLYK"
+},
 {
 "id": "2026-11-11T19:44|Tamino|Cigar",
 "t": "2026-11-11T19:44:00+01:00",
@@ -9168,18 +9188,6 @@
 "t": "2026-11-05T05:03:00+01:00",
 "artist": "Courtney Barnett",
 "title": "Wonder"
-},
-{
-"id": "2026-11-04T19:56|The Avalanches feat. Karen O|Blue Shadows",
-"t": "2026-11-04T19:56:00+01:00",
-"artist": "The Avalanches feat. Karen O",
-"title": "Blue Shadows"
-},
-{
-"id": "2026-11-04T19:52|Ten Fé|Candidate",
-"t": "2026-11-04T19:52:00+01:00",
-"artist": "Ten Fé",
-"title": "Candidate"
 }
 ]
 }
