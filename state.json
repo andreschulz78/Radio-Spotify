@@ -1,9 +1,9 @@
 {
-"updated": "2026-11-11T12:25:59.886286+01:00",
+"updated": "2026-11-11T12:37:59.886607+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
-"synced": "2026-11-11T12:17:59.886036+01:00",
+"synced": "2026-11-11T12:33:59.886483+01:00",
 "pruned": "2026-11-11",
 "calls": {
 "2026-11-04": 181,
@@ -13,12 +13,24 @@
 "2026-11-08": 111,
 "2026-11-09": 172,
 "2026-11-10": 171,
-"2026-11-11": 73
+"2026-11-11": 76
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAgnVP3gTI4OzyhxG/FTgMp5LzHwU1k",
+"snapshot": "AAAgnmN1bP3emIfz21nUV1Y2q92UmMhF",
 "playlist": [
+[
+"2026-11-11T12:25|Hollie Cook|Walking In The Sand",
+"spotify:track:6V39cPq3fueR20iwBHPCIh"
+],
+[
+"2026-11-11T12:21|The Cure|A Fragile Thing",
+"spotify:track:17k0Dwj1nr2VnES26230lJ"
+],
+[
+"2026-11-11T12:17|Peaches|Fuck the pain away",
+"spotify:track:0NWWDumjD2TCrR6iV6ZFgR"
+],
 [
 "2026-11-11T12:09|Keshavara|Oracular",
 "spotify:track:41sGSIiPi1QAYaL6nUWSDg"
@@ -3697,6 +3709,24 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-11-11T12:32|Beth Gibbons & Rustin Man|Mysteries",
+"t": "2026-11-11T12:32:00+01:00",
+"artist": "Beth Gibbons & Rustin Man",
+"title": "Mysteries"
+},
+{
+"id": "2026-11-11T12:29|The Drums feat. Mareux|It Didn't Matter",
+"t": "2026-11-11T12:29:00+01:00",
+"artist": "The Drums feat. Mareux",
+"title": "It Didn't Matter"
+},
+{
+"id": "2026-11-11T12:25|Hollie Cook|Walking In The Sand",
+"t": "2026-11-11T12:25:00+01:00",
+"artist": "Hollie Cook",
+"title": "Walking In The Sand"
+},
 {
 "id": "2026-11-11T12:21|The Cure|A Fragile Thing",
 "t": "2026-11-11T12:21:00+01:00",
@@ -8880,24 +8910,6 @@
 "t": "2026-11-04T12:40:00+01:00",
 "artist": "The Cure",
 "title": "I Can Never Say Goodbye"
-},
-{
-"id": "2026-11-04T12:35|Fontaines D.C. & ROSALIA|Where Is Gone?",
-"t": "2026-11-04T12:35:00+01:00",
-"artist": "Fontaines D.C. & ROSALIA",
-"title": "Where Is Gone?"
-},
-{
-"id": "2026-11-04T12:31|John Legend|Who Did That to You",
-"t": "2026-11-04T12:31:00+01:00",
-"artist": "John Legend",
-"title": "Who Did That to You"
-},
-{
-"id": "2026-11-04T12:26|Element Of Crime|Delmenhorst",
-"t": "2026-11-04T12:26:00+01:00",
-"artist": "Element Of Crime",
-"title": "Delmenhorst"
 }
 ]
 }
