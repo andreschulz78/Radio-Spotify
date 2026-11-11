@@ -1,9 +1,9 @@
 {
-"updated": "2026-11-11T09:01:59.880096+01:00",
+"updated": "2026-11-11T09:13:59.880467+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
-"synced": "2026-11-11T08:49:59.879723+01:00",
+"synced": "2026-11-11T09:05:59.880216+01:00",
 "pruned": "2026-11-11",
 "calls": {
 "2026-11-04": 181,
@@ -13,12 +13,20 @@
 "2026-11-08": 111,
 "2026-11-09": 172,
 "2026-11-10": 171,
-"2026-11-11": 34
+"2026-11-11": 36
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAgj5Q/W/SFxyh8OI+dfxijRMZLNJiC",
+"snapshot": "AAAgkI3JzdgdW+mTXJKxK8pUeI7FiK7m",
 "playlist": [
+[
+"2026-11-11T08:57|Jazzanova feat. Ben Westbeech|I Can See",
+"spotify:track:5WcJmplTokL9ailiLLEqUo"
+],
+[
+"2026-11-11T08:49|The Big Moon|F.O.R.E.V.E.R",
+"spotify:track:0UaPOdi1O83vr1oTXaGqgx"
+],
 [
 "2026-11-11T08:34|Jim James|Come Again",
 "spotify:track:6S3Ao3HkuLpHffHWL8oRsz"
@@ -3565,6 +3573,18 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-11-11T09:06|Dekker|Pick It Up, Put It Back",
+"t": "2026-11-11T09:06:00+01:00",
+"artist": "Dekker",
+"title": "Pick It Up, Put It Back"
+},
+{
+"id": "2026-11-11T08:57|Jazzanova feat. Ben Westbeech|I Can See",
+"t": "2026-11-11T08:57:00+01:00",
+"artist": "Jazzanova feat. Ben Westbeech",
+"title": "I Can See"
+},
 {
 "id": "2026-11-11T08:49|The Big Moon|F.O.R.E.V.E.R",
 "t": "2026-11-11T08:49:00+01:00",
@@ -8748,12 +8768,6 @@
 "t": "2026-11-04T09:16:00+01:00",
 "artist": "Tikhet",
 "title": "Burndowner"
-},
-{
-"id": "2026-11-04T09:07|Benjamin Clementine|In Fact You Know You Gotto Go",
-"t": "2026-11-04T09:07:00+01:00",
-"artist": "Benjamin Clementine",
-"title": "In Fact You Know You Gotto Go"
 }
 ]
 }
