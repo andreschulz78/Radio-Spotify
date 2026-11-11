@@ -1,9 +1,9 @@
 {
-"updated": "2026-11-11T16:27:57.552690+01:00",
+"updated": "2026-11-11T16:39:57.553032+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
-"synced": "2026-11-11T16:19:57.552468+01:00",
+"synced": "2026-11-11T16:35:57.552927+01:00",
 "pruned": "2026-11-11",
 "calls": {
 "2026-11-04": 181,
@@ -13,12 +13,20 @@
 "2026-11-08": 111,
 "2026-11-09": 172,
 "2026-11-10": 171,
-"2026-11-11": 110
+"2026-11-11": 113
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAgq0c6vktqjzJ825UTz1xJ0SSfa4sh",
+"snapshot": "AAAgrRf7r1qM5jBsQhu2mnGk6/Oqkv4o",
 "playlist": [
+[
+"2026-11-11T16:23|The Divine Comedy|Invisible Thread",
+"spotify:track:2t0XwCywKPKbBzZ9TV1eHm"
+],
+[
+"2026-11-11T16:19|Oscar Farrell feat. Sampha|Dream Therapy",
+"spotify:track:1WCiaKkadXRQjK5LapkGtu"
+],
 [
 "2026-11-11T16:10|Julia Holter|Everytime Boots",
 "spotify:track:4qzU0YbbJRcgnVIV9LpmJ6"
@@ -3416,10 +3424,6 @@
 "spotify:track:2umTklGNx0IiiTFFVNZNlC"
 ],
 [
-"2026-11-04T16:35|David Bowie feat. Pat Metheny|This Is Not America",
-"spotify:track:49WmLXTw04jOVMoFHR8nd7"
-],
-[
 "2026-11-04T16:33|Nia Archives|Vertical",
 "spotify:track:0ecQazzKkndVD8Ry9Orp9Q"
 ],
@@ -3857,6 +3861,12 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-11-11T16:23|The Divine Comedy|Invisible Thread",
+"t": "2026-11-11T16:23:00+01:00",
+"artist": "The Divine Comedy",
+"title": "Invisible Thread"
+},
 {
 "id": "2026-11-11T16:19|Oscar Farrell feat. Sampha|Dream Therapy",
 "t": "2026-11-11T16:19:00+01:00",
@@ -9034,18 +9044,6 @@
 "t": "2026-11-04T16:43:00+01:00",
 "artist": "Kevin Morby",
 "title": "I Have Been To The Mountain"
-},
-{
-"id": "2026-11-04T16:35|David Bowie feat. Pat Metheny|This Is Not America",
-"t": "2026-11-04T16:35:00+01:00",
-"artist": "David Bowie feat. Pat Metheny",
-"title": "This Is Not America"
-},
-{
-"id": "2026-11-04T16:33|Nia Archives|Vertical",
-"t": "2026-11-04T16:33:00+01:00",
-"artist": "Nia Archives",
-"title": "Vertical"
 }
 ]
 }
