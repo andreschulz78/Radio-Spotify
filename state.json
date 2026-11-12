@@ -1,9 +1,9 @@
 {
-"updated": "2026-11-12T20:49:31.516082+01:00",
+"updated": "2026-11-12T21:01:31.516426+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
-"synced": "2026-11-12T20:37:31.515773+01:00",
+"synced": "2026-11-12T20:53:31.516227+01:00",
 "pruned": "2026-11-12",
 "calls": {
 "2026-11-05": 165,
@@ -13,12 +13,24 @@
 "2026-11-09": 172,
 "2026-11-10": 171,
 "2026-11-11": 197,
-"2026-11-12": 164
+"2026-11-12": 167
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAhEvvLxLS6XRwGdo681Q14SzB/4F8b",
+"snapshot": "AAAhE06QUvlkBignbhScgv86V5B27pIS",
 "playlist": [
+[
+"2026-11-12T20:43|Poliça|Chain My Name",
+"spotify:track:0tOlVRiBH0bYs4mAqal8FM"
+],
+[
+"2026-11-12T20:41|Lener|Keine Zeit",
+"spotify:track:6wrinb16Pr1qCKMvF9CIuR"
+],
+[
+"2026-11-12T20:37|The Avalanches feat. Karen O|Blue Shadows",
+"spotify:track:5bN5To0VLbNBKQDzJ1Lk6c"
+],
 [
 "2026-11-12T20:25|Fontaines D.C.|Marianne",
 "spotify:track:69rHKcrQpYGfToPThOV1UB"
@@ -4089,6 +4101,18 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-11-12T20:53|Friedberg|Goodwife",
+"t": "2026-11-12T20:53:00+01:00",
+"artist": "Friedberg",
+"title": "Goodwife"
+},
+{
+"id": "2026-11-12T20:43|Poliça|Chain My Name",
+"t": "2026-11-12T20:43:00+01:00",
+"artist": "Poliça",
+"title": "Chain My Name"
+},
 {
 "id": "2026-11-12T20:41|Lener|Keine Zeit",
 "t": "2026-11-12T20:41:00+01:00",
