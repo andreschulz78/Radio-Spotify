@@ -1,9 +1,9 @@
 {
-"updated": "2026-11-12T16:41:42.232769+01:00",
+"updated": "2026-11-12T16:53:42.233108+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
-"synced": "2026-11-12T16:29:42.232417+01:00",
+"synced": "2026-11-12T16:45:42.232889+01:00",
 "pruned": "2026-11-12",
 "calls": {
 "2026-11-05": 165,
@@ -13,12 +13,24 @@
 "2026-11-09": 172,
 "2026-11-10": 171,
 "2026-11-11": 197,
-"2026-11-12": 136
+"2026-11-12": 139
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAhBq+CRIVtYkw17BYPh9r1+Wd2UWY2",
+"snapshot": "AAAhCX7s4RZkAA/QxSy0gxurhcgN93qC",
 "playlist": [
+[
+"2026-11-12T16:41|The Rodeo|L'hymne À La Moue",
+"spotify:track:4S0Gn3Fm9cNDmvN5ggzglQ"
+],
+[
+"2026-11-12T16:33|Tame Impala|Dracula",
+"spotify:track:709ZIqPHyFOpx2QdjmeWAM"
+],
+[
+"2026-11-12T16:25|Anderson .Paak|Celebrate",
+"spotify:track:1zlclNkERGFrCxznXOgkD3"
+],
 [
 "2026-11-12T16:20|Joy Division|Atmosphere",
 "spotify:track:7k42ztYdHyKWrKrENxwjkV"
@@ -3548,10 +3560,6 @@
 "spotify:track:5dCbRr9FnnToqDgs86WJSC"
 ],
 [
-"2026-11-05T16:45|Tristan Brusch|Vierzehn",
-"spotify:track:6bauquMrawP7ZfZ6qsmOtr"
-],
-[
 "2026-11-05T16:42|Keane|This Is The Last Time",
 "spotify:track:3fKCT2KNVPw5E5uthkh7xP"
 ],
@@ -3957,6 +3965,18 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-11-12T16:44|Brazilian Girls|Don't Stop",
+"t": "2026-11-12T16:44:00+01:00",
+"artist": "Brazilian Girls",
+"title": "Don't Stop"
+},
+{
+"id": "2026-11-12T16:41|The Rodeo|L'hymne À La Moue",
+"t": "2026-11-12T16:41:00+01:00",
+"artist": "The Rodeo",
+"title": "L'hymne À La Moue"
+},
 {
 "id": "2026-11-12T16:33|Tame Impala|Dracula",
 "t": "2026-11-12T16:33:00+01:00",
@@ -9314,24 +9334,6 @@
 "t": "2026-11-05T16:56:00+01:00",
 "artist": "M.I.A.",
 "title": "Paper Planes"
-},
-{
-"id": "2026-11-05T16:49|Mo' Horizons|Foto Viva",
-"t": "2026-11-05T16:49:00+01:00",
-"artist": "Mo' Horizons",
-"title": "Foto Viva"
-},
-{
-"id": "2026-11-05T16:45|Tristan Brusch|Vierzehn",
-"t": "2026-11-05T16:45:00+01:00",
-"artist": "Tristan Brusch",
-"title": "Vierzehn"
-},
-{
-"id": "2026-11-05T16:42|Keane|This Is The Last Time",
-"t": "2026-11-05T16:42:00+01:00",
-"artist": "Keane",
-"title": "This Is The Last Time"
 }
 ]
 }
