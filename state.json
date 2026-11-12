@@ -1,5 +1,5 @@
 {
-"updated": "2026-11-12T12:41:42.225845+01:00",
+"updated": "2026-11-12T12:53:42.226186+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
@@ -13,7 +13,7 @@
 "2026-11-09": 172,
 "2026-11-10": 171,
 "2026-11-11": 197,
-"2026-11-12": 89
+"2026-11-12": 94
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
@@ -3801,6 +3801,30 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-11-12T12:47|St. Michael Front|Once",
+"t": "2026-11-12T12:47:00+01:00",
+"artist": "St. Michael Front",
+"title": "Once"
+},
+{
+"id": "2026-11-12T12:44|Charlotte OC|Freedom",
+"t": "2026-11-12T12:44:00+01:00",
+"artist": "Charlotte OC",
+"title": "Freedom"
+},
+{
+"id": "2026-11-12T12:42|The Undertones|Teenage Kicks",
+"t": "2026-11-12T12:42:00+01:00",
+"artist": "The Undertones",
+"title": "Teenage Kicks"
+},
+{
+"id": "2026-11-12T12:39|Leon Bridges|Talk it over",
+"t": "2026-11-12T12:39:00+01:00",
+"artist": "Leon Bridges",
+"title": "Talk it over"
+},
 {
 "id": "2026-11-12T12:35|Elbow|Grounds For Divorce",
 "t": "2026-11-12T12:35:00+01:00",
@@ -9140,24 +9164,6 @@
 "t": "2026-11-05T12:55:00+01:00",
 "artist": "Jamie T",
 "title": "Tallahassee"
-},
-{
-"id": "2026-11-05T12:52|Dottie Andersson|Wind That Makes The Subway Sound",
-"t": "2026-11-05T12:52:00+01:00",
-"artist": "Dottie Andersson",
-"title": "Wind That Makes The Subway Sound"
-},
-{
-"id": "2026-11-05T12:49|The Clash|Lost In The Supermarket",
-"t": "2026-11-05T12:49:00+01:00",
-"artist": "The Clash",
-"title": "Lost In The Supermarket"
-},
-{
-"id": "2026-11-05T12:45|TSHA|Running",
-"t": "2026-11-05T12:45:00+01:00",
-"artist": "TSHA",
-"title": "Running"
 }
 ]
 }
