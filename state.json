@@ -1,9 +1,9 @@
 {
-"updated": "2026-11-12T05:31:51.902750+01:00",
+"updated": "2026-11-12T05:43:51.903146+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
-"synced": "2026-11-12T05:19:51.902378+01:00",
+"synced": "2026-11-12T05:35:51.902877+01:00",
 "pruned": "2026-11-12",
 "calls": {
 "2026-11-05": 165,
@@ -13,12 +13,28 @@
 "2026-11-09": 172,
 "2026-11-10": 171,
 "2026-11-11": 197,
-"2026-11-12": 0
+"2026-11-12": 3
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAgzqcRMZrWFQl9JIJhqOU5EBSBadan",
+"snapshot": "AAAgzwYC8gwlkX5nhQOX1iuOKnm0E9m7",
 "playlist": [
+[
+"2026-11-12T05:31|Beck|Up All Night",
+"spotify:track:28AgTOIZke8nitD0NNeb3G"
+],
+[
+"2026-11-12T05:26|Moscoman feat. Tom Sanders|What Do We Care",
+"spotify:track:2AeJDk8SG8OmffAO7YkdDm"
+],
+[
+"2026-11-12T05:22|Kevin Morby|I Have Been To The Mountain",
+"spotify:track:2umTklGNx0IiiTFFVNZNlC"
+],
+[
+"2026-11-12T05:16|Leon Bridges|Light The Way",
+"spotify:track:3G1hTUddM2diIyYA0yy9kS"
+],
 [
 "2026-11-12T05:06|Odd Beholder|Your Emancipation",
 "spotify:track:1uLBaUVurwbtHnyAlD7ExO"
@@ -3537,6 +3553,18 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-11-12T05:36|Sexy Zebras|Nena (live)",
+"t": "2026-11-12T05:36:00+01:00",
+"artist": "Sexy Zebras",
+"title": "Nena (live)"
+},
+{
+"id": "2026-11-12T05:31|Beck|Up All Night",
+"t": "2026-11-12T05:31:00+01:00",
+"artist": "Beck",
+"title": "Up All Night"
+},
 {
 "id": "2026-11-12T05:26|Moscoman feat. Tom Sanders|What Do We Care",
 "t": "2026-11-12T05:26:00+01:00",
@@ -8870,18 +8898,6 @@
 "t": "2026-11-05T05:44:00+01:00",
 "artist": "Ultimate Painting",
 "title": "Bills"
-},
-{
-"id": "2026-11-05T05:39|Kate Bush|December Will Be Magic Again",
-"t": "2026-11-05T05:39:00+01:00",
-"artist": "Kate Bush",
-"title": "December Will Be Magic Again"
-},
-{
-"id": "2026-11-05T05:33|The Herbaliser feat. Jessica Darlin|You're Not All That",
-"t": "2026-11-05T05:33:00+01:00",
-"artist": "The Herbaliser feat. Jessica Darlin",
-"title": "You're Not All That"
 }
 ]
 }
