@@ -1,9 +1,9 @@
 {
-"updated": "2026-11-12T08:07:51.907669+01:00",
+"updated": "2026-11-12T08:19:51.908001+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
-"synced": "2026-11-12T07:59:51.907388+01:00",
+"synced": "2026-11-12T08:15:51.907895+01:00",
 "pruned": "2026-11-12",
 "calls": {
 "2026-11-05": 165,
@@ -13,12 +13,20 @@
 "2026-11-09": 172,
 "2026-11-10": 171,
 "2026-11-11": 197,
-"2026-11-12": 30
+"2026-11-12": 33
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAg2+p1d9A/aUc1mRMqRQ+go+Rb5Hf/",
+"snapshot": "AAAg3PLN16+2FKz7viaxiUvwdxGJEsJF",
 "playlist": [
+[
+"2026-11-12T08:06|The Temper Trap|Fader",
+"spotify:track:2eomKclgeG7dKdA7L4dVTx"
+],
+[
+"2026-11-12T07:56|AnnenMayKantereit|Pocahontas",
+"spotify:track:4poYvYKOKtpAOoXSIYeU0A"
+],
 [
 "2026-11-12T07:49|Antony Szmierek|Chalk (Radio Edit)",
 "spotify:track:5HdeMdzAlNKwCM4L9cjehN"
@@ -3633,6 +3641,12 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-11-12T08:06|The Temper Trap|Fader",
+"t": "2026-11-12T08:06:00+01:00",
+"artist": "The Temper Trap",
+"title": "Fader"
+},
 {
 "id": "2026-11-12T07:56|AnnenMayKantereit|Pocahontas",
 "t": "2026-11-12T07:56:00+01:00",
@@ -8960,18 +8974,6 @@
 "t": "2026-11-05T08:25:00+01:00",
 "artist": "Danger Dan",
 "title": "Dass es hier so schön ist"
-},
-{
-"id": "2026-11-05T08:19|Blondie|Hanging On The Telephone",
-"t": "2026-11-05T08:19:00+01:00",
-"artist": "Blondie",
-"title": "Hanging On The Telephone"
-},
-{
-"id": "2026-11-05T08:13|Ex:Re|Sleep",
-"t": "2026-11-05T08:13:00+01:00",
-"artist": "Ex:Re",
-"title": "Sleep"
 }
 ]
 }
