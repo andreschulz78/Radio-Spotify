@@ -1,9 +1,9 @@
 {
-"updated": "2026-11-12T20:01:31.514849+01:00",
+"updated": "2026-11-12T20:13:31.515150+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
-"synced": "2026-11-12T19:49:31.514562+01:00",
+"synced": "2026-11-12T20:05:31.514951+01:00",
 "pruned": "2026-11-12",
 "calls": {
 "2026-11-05": 165,
@@ -13,12 +13,16 @@
 "2026-11-09": 172,
 "2026-11-10": 171,
 "2026-11-11": 197,
-"2026-11-12": 156
+"2026-11-12": 161
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAhDGQrGRs/lkrgrqZHima1dTSFRS5M",
+"snapshot": "AAAhEBqo6oR4LWj7YFJpLmz70DTr9SmD",
 "playlist": [
+[
+"2026-11-12T19:47|Calexico|Ballad Of Cable Hogue",
+"spotify:track:4YvsELaXDm983cMyG5rl4o"
+],
 [
 "2026-11-12T19:31|Steve Lacy|Show You Me",
 "spotify:track:4f50UTC41M2Ah5itifSGE5"
@@ -60,6 +64,10 @@
 "spotify:track:4CrnExkcZkg6Aek113hAWl"
 ],
 [
+"2026-11-12T18:24|The Streets|Has It Come To This",
+"spotify:track:35zEswqAFI1D41cmoBXOFK"
+],
+[
 "2026-11-12T18:19|Nia Archives|Vertical",
 "spotify:track:0ecQazzKkndVD8Ry9Orp9Q"
 ],
@@ -76,8 +84,20 @@
 "spotify:track:4cWEdRTQ8sg4QaTBIGn06j"
 ],
 [
+"2026-11-12T17:46|XTC|Making Plans For Nigel",
+"spotify:track:1XT5kxg6Tk0ukCO2vBQN4v"
+],
+[
 "2026-11-12T17:37|Lily Allen|Dallas Major",
 "spotify:track:1ECugAb7Pg6UDA501YYgH9"
+],
+[
+"2026-11-12T17:34|TV On The Radio|Happy Idiot",
+"spotify:track:20d1KuBoj4oZUrZhMlEXDU"
+],
+[
+"2026-11-12T17:26|Bilderbuch|Bungalow",
+"spotify:track:0xCXcq4y44uHJtJ7zZDF3d"
 ],
 [
 "2026-11-12T17:16|Ocean Colour Scene|Riverboat Song",
@@ -4053,6 +4073,18 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-11-12T20:05|Marmaduke Duke|Kid Gloves",
+"t": "2026-11-12T20:05:00+01:00",
+"artist": "Marmaduke Duke",
+"title": "Kid Gloves"
+},
+{
+"id": "2026-11-12T19:56|Alex Hepburn|I Believe",
+"t": "2026-11-12T19:56:00+01:00",
+"artist": "Alex Hepburn",
+"title": "I Believe"
+},
 {
 "id": "2026-11-12T19:47|Calexico|Ballad Of Cable Hogue",
 "t": "2026-11-12T19:47:00+01:00",
