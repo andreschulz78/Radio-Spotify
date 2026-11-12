@@ -1,5 +1,5 @@
 {
-"updated": "2026-11-12T13:29:42.227213+01:00",
+"updated": "2026-11-12T13:41:42.227579+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
@@ -13,7 +13,7 @@
 "2026-11-09": 172,
 "2026-11-10": 171,
 "2026-11-11": 197,
-"2026-11-12": 100
+"2026-11-12": 102
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
@@ -3837,6 +3837,18 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-11-12T13:36|Weezer|L.A. Girlz",
+"t": "2026-11-12T13:36:00+01:00",
+"artist": "Weezer",
+"title": "L.A. Girlz"
+},
+{
+"id": "2026-11-12T13:31|Stereo MC's|Deep Down & Dirty",
+"t": "2026-11-12T13:31:00+01:00",
+"artist": "Stereo MC's",
+"title": "Deep Down & Dirty"
+},
 {
 "id": "2026-11-12T13:22|Canto Diáspora|Las flores",
 "t": "2026-11-12T13:22:00+01:00",
@@ -9194,18 +9206,6 @@
 "t": "2026-11-05T13:43:00+01:00",
 "artist": "The Big Moon",
 "title": "F.O.R.E.V.E.R"
-},
-{
-"id": "2026-11-05T13:38|Tikhet|Burndowner",
-"t": "2026-11-05T13:38:00+01:00",
-"artist": "Tikhet",
-"title": "Burndowner"
-},
-{
-"id": "2026-11-05T13:32|Echo & The Bunnymen|The Killing Moon",
-"t": "2026-11-05T13:32:00+01:00",
-"artist": "Echo & The Bunnymen",
-"title": "The Killing Moon"
 }
 ]
 }
