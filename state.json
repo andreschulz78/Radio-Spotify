@@ -1,9 +1,9 @@
 {
-"updated": "2026-11-12T15:53:42.231317+01:00",
+"updated": "2026-11-12T16:05:42.231716+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
-"synced": "2026-11-12T15:41:42.230989+01:00",
+"synced": "2026-11-12T15:57:42.231443+01:00",
 "pruned": "2026-11-12",
 "calls": {
 "2026-11-05": 165,
@@ -13,12 +13,16 @@
 "2026-11-09": 172,
 "2026-11-10": 171,
 "2026-11-11": 197,
-"2026-11-12": 124
+"2026-11-12": 130
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAhA/Ne7lLeMr6KT6iG8NBS+zunb+5Z",
+"snapshot": "AAAhBL5cUyuC+6eY6xGhvtxMVXpu+eco",
 "playlist": [
+[
+"2026-11-12T15:45|Eric B. & Rakim|Paid In Full (Cold Cut Mix)",
+"spotify:track:65FZnTQnTLz2x99LdslyAf"
+],
 [
 "2026-11-12T15:32|Ibibio Sound Machine|Love",
 "spotify:track:0JGa4KrhqriWUuPcni3I8D"
@@ -3929,6 +3933,24 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-11-12T15:57|The Beat|Twist And Crawl",
+"t": "2026-11-12T15:57:00+01:00",
+"artist": "The Beat",
+"title": "Twist And Crawl"
+},
+{
+"id": "2026-11-12T15:53|Santigold|I'm A Lady",
+"t": "2026-11-12T15:53:00+01:00",
+"artist": "Santigold",
+"title": "I'm A Lady"
+},
+{
+"id": "2026-11-12T15:51|Adriano Celentano|La pigiatura",
+"t": "2026-11-12T15:51:00+01:00",
+"artist": "Adriano Celentano",
+"title": "La pigiatura"
+},
 {
 "id": "2026-11-12T15:45|Eric B. & Rakim|Paid In Full (Cold Cut Mix)",
 "t": "2026-11-12T15:45:00+01:00",
@@ -9286,12 +9308,6 @@
 "t": "2026-11-05T16:06:00+01:00",
 "artist": "Ben Folds feat. Regina Spektor",
 "title": "You Don't Know Me"
-},
-{
-"id": "2026-11-05T15:58|Elderbrook|Body",
-"t": "2026-11-05T15:58:00+01:00",
-"artist": "Elderbrook",
-"title": "Body"
 }
 ]
 }
