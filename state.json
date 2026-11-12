@@ -1,9 +1,9 @@
 {
-"updated": "2026-11-12T07:55:51.907256+01:00",
+"updated": "2026-11-12T08:07:51.907669+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
-"synced": "2026-11-12T07:43:51.906922+01:00",
+"synced": "2026-11-12T07:59:51.907388+01:00",
 "pruned": "2026-11-12",
 "calls": {
 "2026-11-05": 165,
@@ -13,12 +13,20 @@
 "2026-11-09": 172,
 "2026-11-10": 171,
 "2026-11-11": 197,
-"2026-11-12": 28
+"2026-11-12": 30
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAg2uJ/0Ite7CkDdOhIRkz6GxD4VGLJ",
+"snapshot": "AAAg2+p1d9A/aUc1mRMqRQ+go+Rb5Hf/",
 "playlist": [
+[
+"2026-11-12T07:49|Antony Szmierek|Chalk (Radio Edit)",
+"spotify:track:5HdeMdzAlNKwCM4L9cjehN"
+],
+[
+"2026-11-12T07:43|Interpol|Iron City",
+"spotify:track:7o9gwmscHBXh6sUEYkWQ4e"
+],
 [
 "2026-11-12T07:35|Egozi|Fela",
 "spotify:track:2OUsIzFj3MwJMZgmTPttKv"
@@ -3625,6 +3633,12 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-11-12T07:56|AnnenMayKantereit|Pocahontas",
+"t": "2026-11-12T07:56:00+01:00",
+"artist": "AnnenMayKantereit",
+"title": "Pocahontas"
+},
 {
 "id": "2026-11-12T07:49|Antony Szmierek|Chalk (Radio Edit)",
 "t": "2026-11-12T07:49:00+01:00",
@@ -8958,18 +8972,6 @@
 "t": "2026-11-05T08:13:00+01:00",
 "artist": "Ex:Re",
 "title": "Sleep"
-},
-{
-"id": "2026-11-05T08:06|Glasvegas|Geraldine",
-"t": "2026-11-05T08:06:00+01:00",
-"artist": "Glasvegas",
-"title": "Geraldine"
-},
-{
-"id": "2026-11-05T07:56|Ray Lozano|Late Night",
-"t": "2026-11-05T07:56:00+01:00",
-"artist": "Ray Lozano",
-"title": "Late Night"
 }
 ]
 }
