@@ -1,9 +1,9 @@
 {
-"updated": "2026-11-12T06:43:51.905037+01:00",
+"updated": "2026-11-12T06:55:51.905425+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
-"synced": "2026-11-12T06:39:51.904911+01:00",
+"synced": "2026-11-12T06:55:51.905425+01:00",
 "pruned": "2026-11-12",
 "calls": {
 "2026-11-05": 165,
@@ -13,12 +13,28 @@
 "2026-11-09": 172,
 "2026-11-10": 171,
 "2026-11-11": 197,
-"2026-11-12": 14
+"2026-11-12": 16
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAg08j7/uevhv1k4g1D+6F1BeYIx5gS",
+"snapshot": "AAAg1N/rnYLNv48RPfxbiyU6pOAgRVHl",
 "playlist": [
+[
+"2026-11-12T06:48|Bonobo|Shokoufeh",
+"spotify:track:5cZ6iDczIvnNezs5sqdgU8"
+],
+[
+"2026-11-12T06:45|Amy Winehouse|Just Friends",
+"spotify:track:2hGDVhRNdVSkOFkiApNl5e"
+],
+[
+"2026-11-12T06:37|Soap & Skin|Wonder",
+"spotify:track:4mIC3DsUIoLz8V2TpWbQhT"
+],
+[
+"2026-11-12T06:33|Kutiman & Dekel|Everybody Needs to Be",
+"spotify:track:57nR701tskrQisI9GZJ9oq"
+],
 [
 "2026-11-12T06:23|The Drums feat. Mareux|It Didn't Matter",
 "spotify:track:10kxTiNUTo4nlEbH1EzoX1"
@@ -3589,6 +3605,18 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-11-12T06:48|Bonobo|Shokoufeh",
+"t": "2026-11-12T06:48:00+01:00",
+"artist": "Bonobo",
+"title": "Shokoufeh"
+},
+{
+"id": "2026-11-12T06:45|Amy Winehouse|Just Friends",
+"t": "2026-11-12T06:45:00+01:00",
+"artist": "Amy Winehouse",
+"title": "Just Friends"
+},
 {
 "id": "2026-11-12T06:37|Soap & Skin|Wonder",
 "t": "2026-11-12T06:37:00+01:00",
@@ -8928,18 +8956,6 @@
 "t": "2026-11-05T06:56:00+01:00",
 "artist": "Anderson .Paak",
 "title": "Fire In The Sky"
-},
-{
-"id": "2026-11-05T06:50|Chinese American Bear|Dance Dance Dance (Edit)",
-"t": "2026-11-05T06:50:00+01:00",
-"artist": "Chinese American Bear",
-"title": "Dance Dance Dance (Edit)"
-},
-{
-"id": "2026-11-05T06:44|Anna F.|DNA",
-"t": "2026-11-05T06:44:00+01:00",
-"artist": "Anna F.",
-"title": "DNA"
 }
 ]
 }
