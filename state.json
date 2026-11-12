@@ -1,9 +1,9 @@
 {
-"updated": "2026-11-12T08:43:51.908760+01:00",
+"updated": "2026-11-12T08:55:51.909115+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
-"synced": "2026-11-12T08:31:51.908401+01:00",
+"synced": "2026-11-12T08:47:51.908857+01:00",
 "pruned": "2026-11-12",
 "calls": {
 "2026-11-05": 165,
@@ -13,12 +13,16 @@
 "2026-11-09": 172,
 "2026-11-10": 171,
 "2026-11-11": 197,
-"2026-11-12": 36
+"2026-11-12": 39
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAg3UZ4apqLVsJBOxlionlysh1UUIcQ",
+"snapshot": "AAAg3sHiH9jt95NtHqccMjiExhgsLrF1",
 "playlist": [
+[
+"2026-11-12T08:34|Sam Vance-Law|Gayby",
+"spotify:track:5xc6u9hkln81Q9U14Z05Os"
+],
 [
 "2026-11-12T08:25|Tuvaband|Im Safely Passing in Time",
 "spotify:track:4j4DRKqZ0wUeKMLSkFZ8O5"
@@ -3653,6 +3657,18 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-11-12T08:49|Psychic TV|Godstar",
+"t": "2026-11-12T08:49:00+01:00",
+"artist": "Psychic TV",
+"title": "Godstar"
+},
+{
+"id": "2026-11-12T08:44|Linka Moja|Men R Dogs",
+"t": "2026-11-12T08:44:00+01:00",
+"artist": "Linka Moja",
+"title": "Men R Dogs"
+},
 {
 "id": "2026-11-12T08:34|Sam Vance-Law|Gayby",
 "t": "2026-11-12T08:34:00+01:00",
@@ -8980,24 +8996,6 @@
 "t": "2026-11-05T09:06:00+01:00",
 "artist": "Holybones",
 "title": "Saltywater"
-},
-{
-"id": "2026-11-05T08:55|Babyshambles|Fall From Grace",
-"t": "2026-11-05T08:55:00+01:00",
-"artist": "Babyshambles",
-"title": "Fall From Grace"
-},
-{
-"id": "2026-11-05T08:50|DJ Friction|Could Heaven Ever Be Like This",
-"t": "2026-11-05T08:50:00+01:00",
-"artist": "DJ Friction",
-"title": "Could Heaven Ever Be Like This"
-},
-{
-"id": "2026-11-05T08:45|Natalie Bergmann|White Oak (Kosta G. Remix)",
-"t": "2026-11-05T08:45:00+01:00",
-"artist": "Natalie Bergmann",
-"title": "White Oak (Kosta G. Remix)"
 }
 ]
 }
