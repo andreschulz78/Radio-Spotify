@@ -1,9 +1,9 @@
 {
-"updated": "2026-11-12T14:05:42.228250+01:00",
+"updated": "2026-11-12T14:17:42.228586+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
-"synced": "2026-11-12T14:01:42.228124+01:00",
+"synced": "2026-11-12T14:17:42.228586+01:00",
 "pruned": "2026-11-12",
 "calls": {
 "2026-11-05": 165,
@@ -13,12 +13,16 @@
 "2026-11-09": 172,
 "2026-11-10": 171,
 "2026-11-11": 197,
-"2026-11-12": 107
+"2026-11-12": 108
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAg/dXMNMAeg3lD8C4RWEoAaUTEbLEH",
+"snapshot": "AAAg/qrBxkgk+nFK27weeqjxSE1wV1O3",
 "playlist": [
+[
+"2026-11-12T14:05|Courtney Barnett|Wonder",
+"spotify:track:5QraYxwAgy8LloNZeIiuQ5"
+],
 [
 "2026-11-12T13:56|Parov Stelar feat. Marvin Gaye|Keep On Dancing",
 "spotify:track:6x9QLjnRsyvf1jJN2KsqmT"
@@ -3861,6 +3865,12 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-11-12T14:05|Courtney Barnett|Wonder",
+"t": "2026-11-12T14:05:00+01:00",
+"artist": "Courtney Barnett",
+"title": "Wonder"
+},
 {
 "id": "2026-11-12T13:56|Parov Stelar feat. Marvin Gaye|Keep On Dancing",
 "t": "2026-11-12T13:56:00+01:00",
@@ -9212,18 +9222,6 @@
 "t": "2026-11-05T14:18:00+01:00",
 "artist": "Kelly Joyce",
 "title": "Vivre La Vie"
-},
-{
-"id": "2026-11-05T14:15|Flora Hibberd|Bowling Ball",
-"t": "2026-11-05T14:15:00+01:00",
-"artist": "Flora Hibberd",
-"title": "Bowling Ball"
-},
-{
-"id": "2026-11-05T14:07|Linka Moja|Men R Dogs",
-"t": "2026-11-05T14:07:00+01:00",
-"artist": "Linka Moja",
-"title": "Men R Dogs"
 }
 ]
 }
