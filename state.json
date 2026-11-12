@@ -1,5 +1,5 @@
 {
-"updated": "2026-11-12T09:19:51.909880+01:00",
+"updated": "2026-11-12T09:31:51.910275+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
@@ -3669,6 +3669,24 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-11-12T09:26|Madison Cunningham|Golden Gate (On And On)",
+"t": "2026-11-12T09:26:00+01:00",
+"artist": "Madison Cunningham",
+"title": "Golden Gate (On And On)"
+},
+{
+"id": "2026-11-12T09:19|Genesis Owusu|Human Again",
+"t": "2026-11-12T09:19:00+01:00",
+"artist": "Genesis Owusu",
+"title": "Human Again"
+},
+{
+"id": "2026-11-12T09:15|Boy Harsher|Tough Luck (When You Don't Call)",
+"t": "2026-11-12T09:15:00+01:00",
+"artist": "Boy Harsher",
+"title": "Tough Luck (When You Don't Call)"
+},
 {
 "id": "2026-11-12T09:06|Sandra Isabel|Scherben",
 "t": "2026-11-12T09:06:00+01:00",
@@ -8996,12 +9014,6 @@
 "t": "2026-11-05T09:35:00+01:00",
 "artist": "Tessa Rose Jackson",
 "title": "Built To Collide"
-},
-{
-"id": "2026-11-05T09:26|Albert Hammond Jr.|Back To The 101",
-"t": "2026-11-05T09:26:00+01:00",
-"artist": "Albert Hammond Jr.",
-"title": "Back To The 101"
 }
 ]
 }
