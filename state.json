@@ -1,9 +1,9 @@
 {
-"updated": "2026-11-12T16:53:42.233108+01:00",
+"updated": "2026-11-12T17:05:42.233460+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
-"synced": "2026-11-12T16:45:42.232889+01:00",
+"synced": "2026-11-12T17:01:42.233344+01:00",
 "pruned": "2026-11-12",
 "calls": {
 "2026-11-05": 165,
@@ -13,12 +13,28 @@
 "2026-11-09": 172,
 "2026-11-10": 171,
 "2026-11-11": 197,
-"2026-11-12": 139
+"2026-11-12": 142
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAhCX7s4RZkAA/QxSy0gxurhcgN93qC",
+"snapshot": "AAAhCsqEp+boJNu2e+ZOIUWcVm9eQ0Qz",
 "playlist": [
+[
+"2026-11-12T16:57|Black Marble|Jim Carol New Year",
+"spotify:track:3UhXNJjt6Y0sNCEwwhoJnT"
+],
+[
+"2026-11-12T16:51|Urge Overkill|Girl, You'll Be A Woman Soon",
+"spotify:track:1mSzuXVjjKC0bPh6iG6xjy"
+],
+[
+"2026-11-12T16:48|Sergio Torales feat. Der Assistent|Veo",
+"spotify:track:6k1tMxv0y7hJJsQMMfnE6p"
+],
+[
+"2026-11-12T16:44|Brazilian Girls|Don't Stop",
+"spotify:track:4JW3LBmhiIySFP6EunSgsR"
+],
 [
 "2026-11-12T16:41|The Rodeo|L'hymne À La Moue",
 "spotify:track:4S0Gn3Fm9cNDmvN5ggzglQ"
@@ -3965,6 +3981,24 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-11-12T16:57|Black Marble|Jim Carol New Year",
+"t": "2026-11-12T16:57:00+01:00",
+"artist": "Black Marble",
+"title": "Jim Carol New Year"
+},
+{
+"id": "2026-11-12T16:51|Urge Overkill|Girl, You'll Be A Woman Soon",
+"t": "2026-11-12T16:51:00+01:00",
+"artist": "Urge Overkill",
+"title": "Girl, You'll Be A Woman Soon"
+},
+{
+"id": "2026-11-12T16:48|Sergio Torales feat. Der Assistent|Veo",
+"t": "2026-11-12T16:48:00+01:00",
+"artist": "Sergio Torales feat. Der Assistent",
+"title": "Veo"
+},
 {
 "id": "2026-11-12T16:44|Brazilian Girls|Don't Stop",
 "t": "2026-11-12T16:44:00+01:00",
@@ -9328,12 +9362,6 @@
 "t": "2026-11-05T17:06:00+01:00",
 "artist": "Keshavara",
 "title": "Oracular"
-},
-{
-"id": "2026-11-05T16:56|M.I.A.|Paper Planes",
-"t": "2026-11-05T16:56:00+01:00",
-"artist": "M.I.A.",
-"title": "Paper Planes"
 }
 ]
 }
