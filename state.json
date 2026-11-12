@@ -1,5 +1,5 @@
 {
-"updated": "2026-11-12T11:53:42.224475+01:00",
+"updated": "2026-11-12T12:05:42.224853+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
@@ -13,7 +13,7 @@
 "2026-11-09": 172,
 "2026-11-10": 171,
 "2026-11-11": 197,
-"2026-11-12": 61
+"2026-11-12": 71
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
@@ -3737,6 +3737,24 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-11-12T11:58|Bilderbuch|Frisbeee",
+"t": "2026-11-12T11:58:00+01:00",
+"artist": "Bilderbuch",
+"title": "Frisbeee"
+},
+{
+"id": "2026-11-12T11:51|Dream Boat|Real!",
+"t": "2026-11-12T11:51:00+01:00",
+"artist": "Dream Boat",
+"title": "Real!"
+},
+{
+"id": "2026-11-12T11:48|Sun Cutter|Don't Fail Me Now",
+"t": "2026-11-12T11:48:00+01:00",
+"artist": "Sun Cutter",
+"title": "Don't Fail Me Now"
+},
 {
 "id": "2026-11-12T11:44|Yard Act|You're Gonna Need A Little Music",
 "t": "2026-11-12T11:44:00+01:00",
@@ -9088,12 +9106,6 @@
 "t": "2026-11-05T12:06:00+01:00",
 "artist": "Lola Young",
 "title": "Not Like That Anymore"
-},
-{
-"id": "2026-11-05T11:57|Ouzo Bazooka|Going Down",
-"t": "2026-11-05T11:57:00+01:00",
-"artist": "Ouzo Bazooka",
-"title": "Going Down"
 }
 ]
 }
