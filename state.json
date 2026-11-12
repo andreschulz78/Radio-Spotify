@@ -1,9 +1,9 @@
 {
-"updated": "2026-11-12T07:07:51.905816+01:00",
+"updated": "2026-11-12T07:19:51.906210+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
-"synced": "2026-11-12T06:55:51.905425+01:00",
+"synced": "2026-11-12T07:11:51.905961+01:00",
 "pruned": "2026-11-12",
 "calls": {
 "2026-11-05": 165,
@@ -13,12 +13,20 @@
 "2026-11-09": 172,
 "2026-11-10": 171,
 "2026-11-11": 197,
-"2026-11-12": 17
+"2026-11-12": 18
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAg1N/rnYLNv48RPfxbiyU6pOAgRVHl",
+"snapshot": "AAAg1TRuJkTzeIsj11kuN8vekIJ7MiQ+",
 "playlist": [
+[
+"2026-11-12T07:06|Moonlight Breakfast|If Not Now, Then When?!",
+"spotify:track:7rqjXsHITwfxR5XoKIGsaJ"
+],
+[
+"2026-11-12T06:56|The Knife|Pass This On",
+"spotify:track:16zazjfyF5VZAHhacsm9Zk"
+],
 [
 "2026-11-12T06:48|Bonobo|Shokoufeh",
 "spotify:track:5cZ6iDczIvnNezs5sqdgU8"
@@ -3605,6 +3613,12 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-11-12T07:06|Moonlight Breakfast|If Not Now, Then When?!",
+"t": "2026-11-12T07:06:00+01:00",
+"artist": "Moonlight Breakfast",
+"title": "If Not Now, Then When?!"
+},
 {
 "id": "2026-11-12T06:56|The Knife|Pass This On",
 "t": "2026-11-12T06:56:00+01:00",
@@ -8932,24 +8946,6 @@
 "t": "2026-11-05T07:25:00+01:00",
 "artist": "Wallners",
 "title": "Movie Stars"
-},
-{
-"id": "2026-11-05T07:17|Grace Cummings|I'm Not Crazy",
-"t": "2026-11-05T07:17:00+01:00",
-"artist": "Grace Cummings",
-"title": "I'm Not Crazy"
-},
-{
-"id": "2026-11-05T07:14|Alewya|Cairo FM",
-"t": "2026-11-05T07:14:00+01:00",
-"artist": "Alewya",
-"title": "Cairo FM"
-},
-{
-"id": "2026-11-05T07:08|King Gizzard & The Lizard Wizard|Bone",
-"t": "2026-11-05T07:08:00+01:00",
-"artist": "King Gizzard & The Lizard Wizard",
-"title": "Bone"
 }
 ]
 }
