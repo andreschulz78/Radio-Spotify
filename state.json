@@ -1,5 +1,5 @@
 {
-"updated": "2026-11-12T14:17:42.228586+01:00",
+"updated": "2026-11-12T14:29:42.228960+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
@@ -13,7 +13,7 @@
 "2026-11-09": 172,
 "2026-11-10": 171,
 "2026-11-11": 197,
-"2026-11-12": 108
+"2026-11-12": 109
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
@@ -3865,6 +3865,18 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-11-12T14:18|Fontaines D.C. & ROSALIA|Where Is Gone?",
+"t": "2026-11-12T14:18:00+01:00",
+"artist": "Fontaines D.C. & ROSALIA",
+"title": "Where Is Gone?"
+},
+{
+"id": "2026-11-12T14:14|De La Soul|A Roller Skating Jam Named \"Saturdays\"",
+"t": "2026-11-12T14:14:00+01:00",
+"artist": "De La Soul",
+"title": "A Roller Skating Jam Named \"Saturdays\""
+},
 {
 "id": "2026-11-12T14:05|Courtney Barnett|Wonder",
 "t": "2026-11-12T14:05:00+01:00",
@@ -9204,24 +9216,6 @@
 "t": "2026-11-05T14:32:00+01:00",
 "artist": "Modeselektor",
 "title": "IWUDLYK"
-},
-{
-"id": "2026-11-05T14:27|Madison McFerrin|Ain't It Nice",
-"t": "2026-11-05T14:27:00+01:00",
-"artist": "Madison McFerrin",
-"title": "Ain't It Nice"
-},
-{
-"id": "2026-11-05T14:23|Fuffifufzich|New Era",
-"t": "2026-11-05T14:23:00+01:00",
-"artist": "Fuffifufzich",
-"title": "New Era"
-},
-{
-"id": "2026-11-05T14:18|Kelly Joyce|Vivre La Vie",
-"t": "2026-11-05T14:18:00+01:00",
-"artist": "Kelly Joyce",
-"title": "Vivre La Vie"
 }
 ]
 }
