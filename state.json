@@ -1,9 +1,9 @@
 {
-"updated": "2026-11-12T12:53:42.226186+01:00",
+"updated": "2026-11-12T13:05:42.226540+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
-"synced": "2026-11-12T12:41:42.225845+01:00",
+"synced": "2026-11-12T12:57:42.226296+01:00",
 "pruned": "2026-11-12",
 "calls": {
 "2026-11-05": 165,
@@ -13,12 +13,32 @@
 "2026-11-09": 172,
 "2026-11-10": 171,
 "2026-11-11": 197,
-"2026-11-12": 94
+"2026-11-12": 96
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAg+LyIpD9juRLVs1CgWA9+AwKA6XjF",
+"snapshot": "AAAg+R3vkfYBHf4P+9P9OcRw8tUv4a8O",
 "playlist": [
+[
+"2026-11-12T12:51|RÜFÜS DU SOL|Like An Animal",
+"spotify:track:4QgKMpVhGA5qMNLNh5HRM3"
+],
+[
+"2026-11-12T12:47|St. Michael Front|Once",
+"spotify:track:1nNUICwxmJKXrAOwhdzsd2"
+],
+[
+"2026-11-12T12:44|Charlotte OC|Freedom",
+"spotify:track:6fscvmaSiUjoyfTNv2qDHu"
+],
+[
+"2026-11-12T12:42|The Undertones|Teenage Kicks",
+"spotify:track:5TZcyH9biCPfH8WDiPk8WA"
+],
+[
+"2026-11-12T12:39|Leon Bridges|Talk it over",
+"spotify:track:5Bdn8RyTqz4dV7F07EFBP5"
+],
 [
 "2026-11-12T12:35|Elbow|Grounds For Divorce",
 "spotify:track:2G8EvVznvBXMrJO2LTcOIR"
@@ -3801,6 +3821,18 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-11-12T12:54|Olivia Dean|Nice To Each Other (Radio Edit)",
+"t": "2026-11-12T12:54:00+01:00",
+"artist": "Olivia Dean",
+"title": "Nice To Each Other (Radio Edit)"
+},
+{
+"id": "2026-11-12T12:51|RÜFÜS DU SOL|Like An Animal",
+"t": "2026-11-12T12:51:00+01:00",
+"artist": "RÜFÜS DU SOL",
+"title": "Like An Animal"
+},
 {
 "id": "2026-11-12T12:47|St. Michael Front|Once",
 "t": "2026-11-12T12:47:00+01:00",
@@ -9152,18 +9184,6 @@
 "t": "2026-11-05T13:19:00+01:00",
 "artist": "Bulgarian Cartrader",
 "title": "In My Zone (Radio Edit)"
-},
-{
-"id": "2026-11-05T13:05|King Hannah|New York, Let's Do Nothing",
-"t": "2026-11-05T13:05:00+01:00",
-"artist": "King Hannah",
-"title": "New York, Let's Do Nothing"
-},
-{
-"id": "2026-11-05T12:55|Jamie T|Tallahassee",
-"t": "2026-11-05T12:55:00+01:00",
-"artist": "Jamie T",
-"title": "Tallahassee"
 }
 ]
 }
