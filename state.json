@@ -1,9 +1,9 @@
 {
-"updated": "2026-11-12T06:31:51.904654+01:00",
+"updated": "2026-11-12T06:43:51.905037+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
-"synced": "2026-11-12T06:23:51.904428+01:00",
+"synced": "2026-11-12T06:39:51.904911+01:00",
 "pruned": "2026-11-12",
 "calls": {
 "2026-11-05": 165,
@@ -13,12 +13,16 @@
 "2026-11-09": 172,
 "2026-11-10": 171,
 "2026-11-11": 197,
-"2026-11-12": 11
+"2026-11-12": 14
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAg0nhEAZzEsBZe+ghMSrM8FB5L5vkt",
+"snapshot": "AAAg08j7/uevhv1k4g1D+6F1BeYIx5gS",
 "playlist": [
+[
+"2026-11-12T06:23|The Drums feat. Mareux|It Didn't Matter",
+"spotify:track:10kxTiNUTo4nlEbH1EzoX1"
+],
 [
 "2026-11-12T06:16|Band Of Skulls|We're Alive",
 "spotify:track:2UAkEjYSrOg66DYvZxnf34"
@@ -3585,6 +3589,18 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-11-12T06:37|Soap & Skin|Wonder",
+"t": "2026-11-12T06:37:00+01:00",
+"artist": "Soap & Skin",
+"title": "Wonder"
+},
+{
+"id": "2026-11-12T06:33|Kutiman & Dekel|Everybody Needs to Be",
+"t": "2026-11-12T06:33:00+01:00",
+"artist": "Kutiman & Dekel",
+"title": "Everybody Needs to Be"
+},
 {
 "id": "2026-11-12T06:23|The Drums feat. Mareux|It Didn't Matter",
 "t": "2026-11-12T06:23:00+01:00",
@@ -8924,18 +8940,6 @@
 "t": "2026-11-05T06:44:00+01:00",
 "artist": "Anna F.",
 "title": "DNA"
-},
-{
-"id": "2026-11-05T06:41|Aze|Sudoku",
-"t": "2026-11-05T06:41:00+01:00",
-"artist": "Aze",
-"title": "Sudoku"
-},
-{
-"id": "2026-11-05T06:35|David Gray|Through To Myself",
-"t": "2026-11-05T06:35:00+01:00",
-"artist": "David Gray",
-"title": "Through To Myself"
 }
 ]
 }
