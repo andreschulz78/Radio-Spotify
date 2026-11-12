@@ -1,9 +1,9 @@
 {
-"updated": "2026-11-12T14:29:42.228960+01:00",
+"updated": "2026-11-12T14:41:42.229312+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
-"synced": "2026-11-12T14:17:42.228586+01:00",
+"synced": "2026-11-12T14:33:42.229078+01:00",
 "pruned": "2026-11-12",
 "calls": {
 "2026-11-05": 165,
@@ -13,12 +13,24 @@
 "2026-11-09": 172,
 "2026-11-10": 171,
 "2026-11-11": 197,
-"2026-11-12": 109
+"2026-11-12": 112
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAg/qrBxkgk+nFK27weeqjxSE1wV1O3",
+"snapshot": "AAAg/xYLYzVqPFs+MM0qYxMV1NmK+81N",
 "playlist": [
+[
+"2026-11-12T14:23|U2|Magnificent",
+"spotify:track:4Dsmse5UgrtyJecAGqhanG"
+],
+[
+"2026-11-12T14:18|Fontaines D.C. & ROSALIA|Where Is Gone?",
+"spotify:track:6ZH1yeWUf3Xp2XO0EZk91i"
+],
+[
+"2026-11-12T14:14|De La Soul|A Roller Skating Jam Named \"Saturdays\"",
+"spotify:track:1ihXWWbKNIrb7S7ERA6Qcb"
+],
 [
 "2026-11-12T14:05|Courtney Barnett|Wonder",
 "spotify:track:5QraYxwAgy8LloNZeIiuQ5"
@@ -3865,6 +3877,30 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-11-12T14:34|KNTRL|Just Words",
+"t": "2026-11-12T14:34:00+01:00",
+"artist": "KNTRL",
+"title": "Just Words"
+},
+{
+"id": "2026-11-12T14:31|Gerry Cinnamon|Sometimes",
+"t": "2026-11-12T14:31:00+01:00",
+"artist": "Gerry Cinnamon",
+"title": "Sometimes"
+},
+{
+"id": "2026-11-12T14:28|Joshua Idehen|Could Be Forever",
+"t": "2026-11-12T14:28:00+01:00",
+"artist": "Joshua Idehen",
+"title": "Could Be Forever"
+},
+{
+"id": "2026-11-12T14:23|U2|Magnificent",
+"t": "2026-11-12T14:23:00+01:00",
+"artist": "U2",
+"title": "Magnificent"
+},
 {
 "id": "2026-11-12T14:18|Fontaines D.C. & ROSALIA|Where Is Gone?",
 "t": "2026-11-12T14:18:00+01:00",
@@ -9198,24 +9234,6 @@
 "t": "2026-11-05T14:44:00+01:00",
 "artist": "The Temptations",
 "title": "Law Of The Land"
-},
-{
-"id": "2026-11-05T14:40|Heather Nova|The Orchard",
-"t": "2026-11-05T14:40:00+01:00",
-"artist": "Heather Nova",
-"title": "The Orchard"
-},
-{
-"id": "2026-11-05T14:34|Dina Ögon|Det läcker",
-"t": "2026-11-05T14:34:00+01:00",
-"artist": "Dina Ögon",
-"title": "Det läcker"
-},
-{
-"id": "2026-11-05T14:32|Modeselektor|IWUDLYK",
-"t": "2026-11-05T14:32:00+01:00",
-"artist": "Modeselektor",
-"title": "IWUDLYK"
 }
 ]
 }
