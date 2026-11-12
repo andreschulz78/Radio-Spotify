@@ -1,9 +1,9 @@
 {
-"updated": "2026-11-12T15:29:42.230632+01:00",
+"updated": "2026-11-12T15:41:42.230989+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
-"synced": "2026-11-12T15:25:42.230526+01:00",
+"synced": "2026-11-12T15:41:42.230989+01:00",
 "pruned": "2026-11-12",
 "calls": {
 "2026-11-05": 165,
@@ -13,12 +13,20 @@
 "2026-11-09": 172,
 "2026-11-10": 171,
 "2026-11-11": 197,
-"2026-11-12": 122
+"2026-11-12": 123
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAhAp7qbXq7N/TPQCO7PWmJ9XssscTH",
+"snapshot": "AAAhA/Ne7lLeMr6KT6iG8NBS+zunb+5Z",
 "playlist": [
+[
+"2026-11-12T15:32|Ibibio Sound Machine|Love",
+"spotify:track:0JGa4KrhqriWUuPcni3I8D"
+],
+[
+"2026-11-12T15:24|A$AP Rocky|Punk Rocky",
+"spotify:track:5FSvy2wYKnurBi0Nq3wR9F"
+],
 [
 "2026-11-12T15:21|Sparkling & COMA|It Won't Be Like This Forever",
 "spotify:track:1w6NksiUfe5WNa5wZAJXYO"
@@ -3921,6 +3929,18 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-11-12T15:32|Ibibio Sound Machine|Love",
+"t": "2026-11-12T15:32:00+01:00",
+"artist": "Ibibio Sound Machine",
+"title": "Love"
+},
+{
+"id": "2026-11-12T15:24|A$AP Rocky|Punk Rocky",
+"t": "2026-11-12T15:24:00+01:00",
+"artist": "A$AP Rocky",
+"title": "Punk Rocky"
+},
 {
 "id": "2026-11-12T15:21|Sparkling & COMA|It Won't Be Like This Forever",
 "t": "2026-11-12T15:21:00+01:00",
@@ -9278,12 +9298,6 @@
 "t": "2026-11-05T15:46:00+01:00",
 "artist": "Austra & Patrick Holland",
 "title": "Siren Reprise"
-},
-{
-"id": "2026-11-05T15:32|The Streets feat. Tame Impala|Call My Phone Thinking I'm Doing Nothing Better",
-"t": "2026-11-05T15:32:00+01:00",
-"artist": "The Streets feat. Tame Impala",
-"title": "Call My Phone Thinking I'm Doing Nothing Better"
 }
 ]
 }
