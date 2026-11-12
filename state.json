@@ -1,9 +1,9 @@
 {
-"updated": "2026-11-12T14:41:42.229312+01:00",
+"updated": "2026-11-12T14:53:42.229663+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
-"synced": "2026-11-12T14:33:42.229078+01:00",
+"synced": "2026-11-12T14:53:42.229663+01:00",
 "pruned": "2026-11-12",
 "calls": {
 "2026-11-05": 165,
@@ -13,12 +13,36 @@
 "2026-11-09": 172,
 "2026-11-10": 171,
 "2026-11-11": 197,
-"2026-11-12": 112
+"2026-11-12": 115
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAg/xYLYzVqPFs+MM0qYxMV1NmK+81N",
+"snapshot": "AAAhALQhgchzHCLLzK/E/aFZMBJ+ClpH",
 "playlist": [
+[
+"2026-11-12T14:47|Kevin Morby|PBJ (Edit)",
+"spotify:track:5rjtzSA5VBWg7zmuOGg5Dz"
+],
+[
+"2026-11-12T14:42|Grace Cummings|I'm Not Crazy",
+"spotify:track:70QaE9UJ2uTVwC4IGS6yvU"
+],
+[
+"2026-11-12T14:40|Soap & Skin|Creep",
+"spotify:track:0hI0N6KCnACOUVEa6hsSIs"
+],
+[
+"2026-11-12T14:34|KNTRL|Just Words",
+"spotify:track:2wmIEU8rBe2OE9V75NLCC8"
+],
+[
+"2026-11-12T14:31|Gerry Cinnamon|Sometimes",
+"spotify:track:58dwGk4l4ju8pI9YWsTHWD"
+],
+[
+"2026-11-12T14:28|Joshua Idehen|Could Be Forever",
+"spotify:track:0ZUKth5xg7UM6Q73YhDq2w"
+],
 [
 "2026-11-12T14:23|U2|Magnificent",
 "spotify:track:4Dsmse5UgrtyJecAGqhanG"
@@ -3877,6 +3901,24 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-11-12T14:47|Kevin Morby|PBJ (Edit)",
+"t": "2026-11-12T14:47:00+01:00",
+"artist": "Kevin Morby",
+"title": "PBJ (Edit)"
+},
+{
+"id": "2026-11-12T14:42|Grace Cummings|I'm Not Crazy",
+"t": "2026-11-12T14:42:00+01:00",
+"artist": "Grace Cummings",
+"title": "I'm Not Crazy"
+},
+{
+"id": "2026-11-12T14:40|Soap & Skin|Creep",
+"t": "2026-11-12T14:40:00+01:00",
+"artist": "Soap & Skin",
+"title": "Creep"
+},
 {
 "id": "2026-11-12T14:34|KNTRL|Just Words",
 "t": "2026-11-12T14:34:00+01:00",
@@ -9222,18 +9264,6 @@
 "t": "2026-11-05T14:56:00+01:00",
 "artist": "Lykke Li",
 "title": "Get Some"
-},
-{
-"id": "2026-11-05T14:50|JGrrey feat. Bel Cobain|Take My Hand",
-"t": "2026-11-05T14:50:00+01:00",
-"artist": "JGrrey feat. Bel Cobain",
-"title": "Take My Hand"
-},
-{
-"id": "2026-11-05T14:44|The Temptations|Law Of The Land",
-"t": "2026-11-05T14:44:00+01:00",
-"artist": "The Temptations",
-"title": "Law Of The Land"
 }
 ]
 }
