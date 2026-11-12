@@ -1,9 +1,9 @@
 {
-"updated": "2026-11-12T09:55:51.911083+01:00",
+"updated": "2026-11-12T10:07:51.911422+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
-"synced": "2026-11-12T09:51:51.910934+01:00",
+"synced": "2026-11-12T10:07:51.911422+01:00",
 "pruned": "2026-11-12",
 "calls": {
 "2026-11-05": 165,
@@ -13,12 +13,20 @@
 "2026-11-09": 172,
 "2026-11-10": 171,
 "2026-11-11": 197,
-"2026-11-12": 50
+"2026-11-12": 57
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAg5YE9BVqJWot0sOlrrj04UKqNTKYJ",
+"snapshot": "AAAg6rd0tnwyz6UGxB/3WNURDJcqp28P",
 "playlist": [
+[
+"2026-11-12T09:55|Bran Van 3000|Love Cliché",
+"spotify:track:5JMoec1FwolctXnw6lLTLw"
+],
+[
+"2026-11-12T09:49|Smash Mouth|Pacific Coast Party",
+"spotify:track:6PVUhaicHVxBFjOUDcWfDY"
+],
 [
 "2026-11-12T09:45|Aurora|All My Demons Greeting Me As A Friend",
 "spotify:track:5O1tikYb6HKrP5cxSQv0iV"
@@ -3532,10 +3540,6 @@
 "spotify:track:10kxTiNUTo4nlEbH1EzoX1"
 ],
 [
-"2026-11-05T10:07|Death Cab For Cutie|Pep Talk",
-"spotify:track:3ra7fDLqfUHBWBL702fOAn"
-],
-[
 "2026-11-05T09:58|Bulgarian Cartrader|Toothpicks",
 "spotify:track:7KIR7YHG12P8JkgD33O0a3"
 ],
@@ -3689,6 +3693,12 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-11-12T09:55|Bran Van 3000|Love Cliché",
+"t": "2026-11-12T09:55:00+01:00",
+"artist": "Bran Van 3000",
+"title": "Love Cliché"
+},
 {
 "id": "2026-11-12T09:49|Smash Mouth|Pacific Coast Party",
 "t": "2026-11-12T09:49:00+01:00",
@@ -9022,18 +9032,6 @@
 "t": "2026-11-05T10:10:00+01:00",
 "artist": "The Drums feat. Mareux",
 "title": "It Didn't Matter"
-},
-{
-"id": "2026-11-05T10:07|Death Cab For Cutie|Pep Talk",
-"t": "2026-11-05T10:07:00+01:00",
-"artist": "Death Cab For Cutie",
-"title": "Pep Talk"
-},
-{
-"id": "2026-11-05T09:58|Bulgarian Cartrader|Toothpicks",
-"t": "2026-11-05T09:58:00+01:00",
-"artist": "Bulgarian Cartrader",
-"title": "Toothpicks"
 }
 ]
 }
