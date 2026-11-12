@@ -1,9 +1,9 @@
 {
-"updated": "2026-11-12T12:05:42.224853+01:00",
+"updated": "2026-11-12T12:17:42.225188+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
-"synced": "2026-11-12T11:53:42.224475+01:00",
+"synced": "2026-11-12T12:09:42.224959+01:00",
 "pruned": "2026-11-12",
 "calls": {
 "2026-11-05": 165,
@@ -13,12 +13,24 @@
 "2026-11-09": 172,
 "2026-11-10": 171,
 "2026-11-11": 197,
-"2026-11-12": 71
+"2026-11-12": 82
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAg69X53dG4/sgg5DmEeKmBulh979xj",
+"snapshot": "AAAg9Im0By8J/ZL0BgpgaUYx7UvLz/0D",
 "playlist": [
+[
+"2026-11-12T11:58|Bilderbuch|Frisbeee",
+"spotify:track:4pdHFzz0Yeo777w3dm9tJn"
+],
+[
+"2026-11-12T11:51|Dream Boat|Real!",
+"spotify:track:1yxpRDrcK5ExwNiThPa9Uh"
+],
+[
+"2026-11-12T11:48|Sun Cutter|Don't Fail Me Now",
+"spotify:track:0aSUSstjs1lWWG2YJsS8zS"
+],
 [
 "2026-11-12T11:44|Yard Act|You're Gonna Need A Little Music",
 "spotify:track:43KS2LpjMVkvJdprLaoQxQ"
@@ -48,8 +60,32 @@
 "spotify:track:1uQYHgPrjPBYG1d0D4RoTD"
 ],
 [
+"2026-11-12T11:17|Deichkind|In der Natur (Edit)",
+"spotify:track:2Drr6y3iawFnlZ6brImt7U"
+],
+[
 "2026-11-12T11:08|Holybones|Saltywater",
 "spotify:track:0Flns2ijD0KVZN7e60FrpJ"
+],
+[
+"2026-11-12T11:05|Austra|Lose It",
+"spotify:track:4xi9OcyjMfvBdQ6JvNnk8D"
+],
+[
+"2026-11-12T10:55|LA Priest|Rayon",
+"spotify:track:2weT26RNcHVHWcLiIpsk4l"
+],
+[
+"2026-11-12T10:49|Frankie Valli|Can't Take My Eyes Off You",
+"spotify:track:0bfvHnWWOeU1U5XeKyVLbW"
+],
+[
+"2026-11-12T10:45|Beach Baby|U R",
+"spotify:track:5RHulbvitW5bb7ocN1IIwk"
+],
+[
+"2026-11-12T10:35|Liz Lawrence|California Screaming",
+"spotify:track:6LPAp9W9ZI8bffIu14cWr5"
 ],
 [
 "2026-11-12T10:32|Deki Alem|Mr Man",
@@ -58,6 +94,18 @@
 [
 "2026-11-12T10:26|JJerome87|Green Velvet",
 "spotify:track:4tYeJ03pfClYTXqhao6PJf"
+],
+[
+"2026-11-12T10:24|Lucy Dacus|I Don't Wanna Be Funny",
+"spotify:track:2VowanntnxJJOQEqt8DuhE"
+],
+[
+"2026-11-12T10:20|Texas|Halo",
+"spotify:track:3qVEjPUEgLSBAnGo2PCrPN"
+],
+[
+"2026-11-12T10:08|Super700|Somebody Tried To Steal My Car",
+"spotify:track:0Zt0xIux3SFlDwZmVMxrUs"
 ],
 [
 "2026-11-12T10:04|Keshavara|Moondram Sevi",
@@ -3504,10 +3552,6 @@
 "spotify:track:1TJ3xVuBkySHILj27xyQMy"
 ],
 [
-"2026-11-05T12:09|Kelela|the bridge (feat. PinkPantheress)",
-"spotify:track:4Og22Djtd18AVqNgijpLsX"
-],
-[
 "2026-11-05T12:06|Lola Young|Not Like That Anymore",
 "spotify:track:6ugu9WpCEHXmns0PiqYTU1"
 ],
@@ -3737,6 +3781,18 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-11-12T12:10|Ethan French|Reckless And Arranged - Day 56",
+"t": "2026-11-12T12:10:00+01:00",
+"artist": "Ethan French",
+"title": "Reckless And Arranged - Day 56"
+},
+{
+"id": "2026-11-12T12:07|Overmono feat. Ruthven|Gem Lingo (ovr now)",
+"t": "2026-11-12T12:07:00+01:00",
+"artist": "Overmono feat. Ruthven",
+"title": "Gem Lingo (ovr now)"
+},
 {
 "id": "2026-11-12T11:58|Bilderbuch|Frisbeee",
 "t": "2026-11-12T11:58:00+01:00",
@@ -9094,18 +9150,6 @@
 "t": "2026-11-05T12:19:00+01:00",
 "artist": "Caesars",
 "title": "It's Not The Fall That Hurts"
-},
-{
-"id": "2026-11-05T12:09|Kelela|the bridge (feat. PinkPantheress)",
-"t": "2026-11-05T12:09:00+01:00",
-"artist": "Kelela",
-"title": "the bridge (feat. PinkPantheress)"
-},
-{
-"id": "2026-11-05T12:06|Lola Young|Not Like That Anymore",
-"t": "2026-11-05T12:06:00+01:00",
-"artist": "Lola Young",
-"title": "Not Like That Anymore"
 }
 ]
 }
