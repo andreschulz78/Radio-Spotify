@@ -1,9 +1,9 @@
 {
-"updated": "2026-11-12T13:53:42.227903+01:00",
+"updated": "2026-11-12T14:05:42.228250+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
-"synced": "2026-11-12T13:45:42.227708+01:00",
+"synced": "2026-11-12T14:01:42.228124+01:00",
 "pruned": "2026-11-12",
 "calls": {
 "2026-11-05": 165,
@@ -13,12 +13,24 @@
 "2026-11-09": 172,
 "2026-11-10": 171,
 "2026-11-11": 197,
-"2026-11-12": 105
+"2026-11-12": 107
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAg/H77wNFxB9NkW373N6HC/hwFEdro",
+"snapshot": "AAAg/dXMNMAeg3lD8C4RWEoAaUTEbLEH",
 "playlist": [
+[
+"2026-11-12T13:56|Parov Stelar feat. Marvin Gaye|Keep On Dancing",
+"spotify:track:6x9QLjnRsyvf1jJN2KsqmT"
+],
+[
+"2026-11-12T13:49|Die Sauna|ich liebe dich",
+"spotify:track:6hlw9o1GgUSSummPTKacU0"
+],
+[
+"2026-11-12T13:46|imani coppola|Legend Of A Cowgirl",
+"spotify:track:5NNGO1dOEpwDdkbTfw0ErB"
+],
 [
 "2026-11-12T13:40|Bonobo feat. Joy Crookes|Always on Your Side",
 "spotify:track:6jJTpzMquQLVuUkM2vVEIF"
@@ -3849,6 +3861,18 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-11-12T13:56|Parov Stelar feat. Marvin Gaye|Keep On Dancing",
+"t": "2026-11-12T13:56:00+01:00",
+"artist": "Parov Stelar feat. Marvin Gaye",
+"title": "Keep On Dancing"
+},
+{
+"id": "2026-11-12T13:49|Die Sauna|ich liebe dich",
+"t": "2026-11-12T13:49:00+01:00",
+"artist": "Die Sauna",
+"title": "ich liebe dich"
+},
 {
 "id": "2026-11-12T13:46|imani coppola|Legend Of A Cowgirl",
 "t": "2026-11-12T13:46:00+01:00",
@@ -9200,12 +9224,6 @@
 "t": "2026-11-05T14:07:00+01:00",
 "artist": "Linka Moja",
 "title": "Men R Dogs"
-},
-{
-"id": "2026-11-05T13:57|Kurt Vile & The Violators|Run run run (Radio Edit)",
-"t": "2026-11-05T13:57:00+01:00",
-"artist": "Kurt Vile & The Violators",
-"title": "Run run run (Radio Edit)"
 }
 ]
 }
