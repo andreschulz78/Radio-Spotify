@@ -1,6 +1,6 @@
 {
  "job_start": "2026-11-12T11:53:42+01:00",
- "last_ok": "2026-11-12T15:05:45+01:00",
+ "last_ok": "2026-11-12T15:17:44+01:00",
  "errors_in_row": 0,
  "last_error": "RuntimeError: POST /playlists/4co4S71IZsWv5QRNfET54J/items: 403 b'{\"error\": {\"status\": 403, \"message\": \"Insufficient client scope\" } }'",
  "last_error_at": "2026-11-12T14:49:47+01:00"
