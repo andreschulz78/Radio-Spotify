@@ -1,9 +1,9 @@
 {
-"updated": "2026-11-12T08:55:51.909115+01:00",
+"updated": "2026-11-12T09:07:51.909499+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
-"synced": "2026-11-12T08:47:51.908857+01:00",
+"synced": "2026-11-12T09:03:51.909378+01:00",
 "pruned": "2026-11-12",
 "calls": {
 "2026-11-05": 165,
@@ -13,12 +13,24 @@
 "2026-11-09": 172,
 "2026-11-10": 171,
 "2026-11-11": 197,
-"2026-11-12": 39
+"2026-11-12": 41
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAg3sHiH9jt95NtHqccMjiExhgsLrF1",
+"snapshot": "AAAg3zOfNu8G7DDUhzgLvOUkdu+1WHQf",
 "playlist": [
+[
+"2026-11-12T08:56|Editors|The Racing Rats",
+"spotify:track:1VCxGwTx1F4I7hvMJPV2ip"
+],
+[
+"2026-11-12T08:49|Psychic TV|Godstar",
+"spotify:track:1cKphY6ichfimJ8dC8ntiB"
+],
+[
+"2026-11-12T08:44|Linka Moja|Men R Dogs",
+"spotify:track:7AgfOLYDB7GrgIWg60PBw7"
+],
 [
 "2026-11-12T08:34|Sam Vance-Law|Gayby",
 "spotify:track:5xc6u9hkln81Q9U14Z05Os"
@@ -3657,6 +3669,12 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-11-12T08:56|Editors|The Racing Rats",
+"t": "2026-11-12T08:56:00+01:00",
+"artist": "Editors",
+"title": "The Racing Rats"
+},
 {
 "id": "2026-11-12T08:49|Psychic TV|Godstar",
 "t": "2026-11-12T08:49:00+01:00",
@@ -8990,12 +9008,6 @@
 "t": "2026-11-05T09:15:00+01:00",
 "artist": "POND",
 "title": "So Lo"
-},
-{
-"id": "2026-11-05T09:06|Holybones|Saltywater",
-"t": "2026-11-05T09:06:00+01:00",
-"artist": "Holybones",
-"title": "Saltywater"
 }
 ]
 }
