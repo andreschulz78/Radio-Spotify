@@ -1,9 +1,9 @@
 {
-"updated": "2026-11-12T10:07:51.911422+01:00",
+"updated": "2026-11-12T11:53:42.224475+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
-"synced": "2026-11-12T10:07:51.911422+01:00",
+"synced": "2026-11-12T11:53:42.224475+01:00",
 "pruned": "2026-11-12",
 "calls": {
 "2026-11-05": 165,
@@ -13,12 +13,56 @@
 "2026-11-09": 172,
 "2026-11-10": 171,
 "2026-11-11": 197,
-"2026-11-12": 57
+"2026-11-12": 61
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAg6rd0tnwyz6UGxB/3WNURDJcqp28P",
+"snapshot": "AAAg69X53dG4/sgg5DmEeKmBulh979xj",
 "playlist": [
+[
+"2026-11-12T11:44|Yard Act|You're Gonna Need A Little Music",
+"spotify:track:43KS2LpjMVkvJdprLaoQxQ"
+],
+[
+"2026-11-12T11:39|Madonna|Danceteria",
+"spotify:track:6oFNBxTVpYNpNCRehH05Ly"
+],
+[
+"2026-11-12T11:35|Sassy 009 feat. Blood Orange|Tell Me (Jam City Remix) (Edit)",
+"spotify:track:1pDiRrLro0tlhsPSexB3Zv"
+],
+[
+"2026-11-12T11:32|Stromae|Alors On Danse",
+"spotify:track:6UoScMkrhuw7FuElV8NYs3"
+],
+[
+"2026-11-12T11:27|The Ark|Calleth You, Cometh I",
+"spotify:track:2kvg4AwMIstkygdQhfFfSf"
+],
+[
+"2026-11-12T11:24|The Jesus & Mary Chain|Sidewalking",
+"spotify:track:6URa5VxZUbSUa6ArzuRQNH"
+],
+[
+"2026-11-12T11:21|Mother Soki|Thicken",
+"spotify:track:1uQYHgPrjPBYG1d0D4RoTD"
+],
+[
+"2026-11-12T11:08|Holybones|Saltywater",
+"spotify:track:0Flns2ijD0KVZN7e60FrpJ"
+],
+[
+"2026-11-12T10:32|Deki Alem|Mr Man",
+"spotify:track:37zztHh0JkdPuOYGzkLYKo"
+],
+[
+"2026-11-12T10:26|JJerome87|Green Velvet",
+"spotify:track:4tYeJ03pfClYTXqhao6PJf"
+],
+[
+"2026-11-12T10:04|Keshavara|Moondram Sevi",
+"spotify:track:0jpeIdUkge4S8dMS0nkZ6r"
+],
 [
 "2026-11-12T09:55|Bran Van 3000|Love Cliché",
 "spotify:track:5JMoec1FwolctXnw6lLTLw"
@@ -3693,6 +3737,126 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-11-12T11:44|Yard Act|You're Gonna Need A Little Music",
+"t": "2026-11-12T11:44:00+01:00",
+"artist": "Yard Act",
+"title": "You're Gonna Need A Little Music"
+},
+{
+"id": "2026-11-12T11:39|Madonna|Danceteria",
+"t": "2026-11-12T11:39:00+01:00",
+"artist": "Madonna",
+"title": "Danceteria"
+},
+{
+"id": "2026-11-12T11:35|Sassy 009 feat. Blood Orange|Tell Me (Jam City Remix) (Edit)",
+"t": "2026-11-12T11:35:00+01:00",
+"artist": "Sassy 009 feat. Blood Orange",
+"title": "Tell Me (Jam City Remix) (Edit)"
+},
+{
+"id": "2026-11-12T11:32|Stromae|Alors On Danse",
+"t": "2026-11-12T11:32:00+01:00",
+"artist": "Stromae",
+"title": "Alors On Danse"
+},
+{
+"id": "2026-11-12T11:27|The Ark|Calleth You, Cometh I",
+"t": "2026-11-12T11:27:00+01:00",
+"artist": "The Ark",
+"title": "Calleth You, Cometh I"
+},
+{
+"id": "2026-11-12T11:24|The Jesus & Mary Chain|Sidewalking",
+"t": "2026-11-12T11:24:00+01:00",
+"artist": "The Jesus & Mary Chain",
+"title": "Sidewalking"
+},
+{
+"id": "2026-11-12T11:21|Mother Soki|Thicken",
+"t": "2026-11-12T11:21:00+01:00",
+"artist": "Mother Soki",
+"title": "Thicken"
+},
+{
+"id": "2026-11-12T11:17|Deichkind|In der Natur (Edit)",
+"t": "2026-11-12T11:17:00+01:00",
+"artist": "Deichkind",
+"title": "In der Natur (Edit)"
+},
+{
+"id": "2026-11-12T11:08|Holybones|Saltywater",
+"t": "2026-11-12T11:08:00+01:00",
+"artist": "Holybones",
+"title": "Saltywater"
+},
+{
+"id": "2026-11-12T11:05|Austra|Lose It",
+"t": "2026-11-12T11:05:00+01:00",
+"artist": "Austra",
+"title": "Lose It"
+},
+{
+"id": "2026-11-12T10:55|LA Priest|Rayon",
+"t": "2026-11-12T10:55:00+01:00",
+"artist": "LA Priest",
+"title": "Rayon"
+},
+{
+"id": "2026-11-12T10:49|Frankie Valli|Can't Take My Eyes Off You",
+"t": "2026-11-12T10:49:00+01:00",
+"artist": "Frankie Valli",
+"title": "Can't Take My Eyes Off You"
+},
+{
+"id": "2026-11-12T10:45|Beach Baby|U R",
+"t": "2026-11-12T10:45:00+01:00",
+"artist": "Beach Baby",
+"title": "U R"
+},
+{
+"id": "2026-11-12T10:35|Liz Lawrence|California Screaming",
+"t": "2026-11-12T10:35:00+01:00",
+"artist": "Liz Lawrence",
+"title": "California Screaming"
+},
+{
+"id": "2026-11-12T10:32|Deki Alem|Mr Man",
+"t": "2026-11-12T10:32:00+01:00",
+"artist": "Deki Alem",
+"title": "Mr Man"
+},
+{
+"id": "2026-11-12T10:26|JJerome87|Green Velvet",
+"t": "2026-11-12T10:26:00+01:00",
+"artist": "JJerome87",
+"title": "Green Velvet"
+},
+{
+"id": "2026-11-12T10:24|Lucy Dacus|I Don't Wanna Be Funny",
+"t": "2026-11-12T10:24:00+01:00",
+"artist": "Lucy Dacus",
+"title": "I Don't Wanna Be Funny"
+},
+{
+"id": "2026-11-12T10:20|Texas|Halo",
+"t": "2026-11-12T10:20:00+01:00",
+"artist": "Texas",
+"title": "Halo"
+},
+{
+"id": "2026-11-12T10:08|Super700|Somebody Tried To Steal My Car",
+"t": "2026-11-12T10:08:00+01:00",
+"artist": "Super700",
+"title": "Somebody Tried To Steal My Car"
+},
+{
+"id": "2026-11-12T10:04|Keshavara|Moondram Sevi",
+"t": "2026-11-12T10:04:00+01:00",
+"artist": "Keshavara",
+"title": "Moondram Sevi"
+},
 {
 "id": "2026-11-12T09:55|Bran Van 3000|Love Cliché",
 "t": "2026-11-12T09:55:00+01:00",
@@ -8930,108 +9094,6 @@
 "t": "2026-11-05T11:57:00+01:00",
 "artist": "Ouzo Bazooka",
 "title": "Going Down"
-},
-{
-"id": "2026-11-05T11:50|Poliça|Carlines",
-"t": "2026-11-05T11:50:00+01:00",
-"artist": "Poliça",
-"title": "Carlines"
-},
-{
-"id": "2026-11-05T11:47|Vince Staples|Tulsa, OK",
-"t": "2026-11-05T11:47:00+01:00",
-"artist": "Vince Staples",
-"title": "Tulsa, OK"
-},
-{
-"id": "2026-11-05T11:37|TV On The Radio|Will Do",
-"t": "2026-11-05T11:37:00+01:00",
-"artist": "TV On The Radio",
-"title": "Will Do"
-},
-{
-"id": "2026-11-05T11:33|Keshavara|Moondram Sevi",
-"t": "2026-11-05T11:33:00+01:00",
-"artist": "Keshavara",
-"title": "Moondram Sevi"
-},
-{
-"id": "2026-11-05T11:27|Skeleten|Deep Scene",
-"t": "2026-11-05T11:27:00+01:00",
-"artist": "Skeleten",
-"title": "Deep Scene"
-},
-{
-"id": "2026-11-05T11:23|UCHE YARA|Hello Hello",
-"t": "2026-11-05T11:23:00+01:00",
-"artist": "UCHE YARA",
-"title": "Hello Hello"
-},
-{
-"id": "2026-11-05T11:20|Pixies|Here Comes Your Man",
-"t": "2026-11-05T11:20:00+01:00",
-"artist": "Pixies",
-"title": "Here Comes Your Man"
-},
-{
-"id": "2026-11-05T11:10|Anna B Savage feat. Anna Mieke|Agnes",
-"t": "2026-11-05T11:10:00+01:00",
-"artist": "Anna B Savage feat. Anna Mieke",
-"title": "Agnes"
-},
-{
-"id": "2026-11-05T11:06|Mark Ronson X RAYE|Suzanne (Radio Edit)",
-"t": "2026-11-05T11:06:00+01:00",
-"artist": "Mark Ronson X RAYE",
-"title": "Suzanne (Radio Edit)"
-},
-{
-"id": "2026-11-05T10:57|White Denim|Magazin",
-"t": "2026-11-05T10:57:00+01:00",
-"artist": "White Denim",
-"title": "Magazin"
-},
-{
-"id": "2026-11-05T10:50|Anderson .Paak & Cordae|A Good Day",
-"t": "2026-11-05T10:50:00+01:00",
-"artist": "Anderson .Paak & Cordae",
-"title": "A Good Day"
-},
-{
-"id": "2026-11-05T10:46|Interpol|Iron City",
-"t": "2026-11-05T10:46:00+01:00",
-"artist": "Interpol",
-"title": "Iron City"
-},
-{
-"id": "2026-11-05T10:32|Black Sea Dahu|Ruth (Edit)",
-"t": "2026-11-05T10:32:00+01:00",
-"artist": "Black Sea Dahu",
-"title": "Ruth (Edit)"
-},
-{
-"id": "2026-11-05T10:26|Moritz Krämer & Francesco Wilking|Nur Idioten hier",
-"t": "2026-11-05T10:26:00+01:00",
-"artist": "Moritz Krämer & Francesco Wilking",
-"title": "Nur Idioten hier"
-},
-{
-"id": "2026-11-05T10:22|Bootsy Collins & MC Lyte|I'm leavin' U (Gotta Go, Gotta Go)",
-"t": "2026-11-05T10:22:00+01:00",
-"artist": "Bootsy Collins & MC Lyte",
-"title": "I'm leavin' U (Gotta Go, Gotta Go)"
-},
-{
-"id": "2026-11-05T10:19|The Black Keys|Tighten Up",
-"t": "2026-11-05T10:19:00+01:00",
-"artist": "The Black Keys",
-"title": "Tighten Up"
-},
-{
-"id": "2026-11-05T10:10|The Drums feat. Mareux|It Didn't Matter",
-"t": "2026-11-05T10:10:00+01:00",
-"artist": "The Drums feat. Mareux",
-"title": "It Didn't Matter"
 }
 ]
 }
