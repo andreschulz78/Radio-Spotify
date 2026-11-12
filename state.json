@@ -1,9 +1,9 @@
 {
-"updated": "2026-11-12T09:31:51.910275+01:00",
+"updated": "2026-11-12T09:43:51.910656+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
-"synced": "2026-11-12T09:19:51.909880+01:00",
+"synced": "2026-11-12T09:35:51.910411+01:00",
 "pruned": "2026-11-12",
 "calls": {
 "2026-11-05": 165,
@@ -13,12 +13,24 @@
 "2026-11-09": 172,
 "2026-11-10": 171,
 "2026-11-11": 197,
-"2026-11-12": 44
+"2026-11-12": 47
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAg4S0Jk90qHlQdP51pFMwXTAGsJBMU",
+"snapshot": "AAAg5BPMP+OBJrzQwiq4PHgo+ZK564wq",
 "playlist": [
+[
+"2026-11-12T09:26|Madison Cunningham|Golden Gate (On And On)",
+"spotify:track:4yjzFXK39hPQvF8kgeZ3C7"
+],
+[
+"2026-11-12T09:19|Genesis Owusu|Human Again",
+"spotify:track:3uP7jqdt4haiuL4acLhrDY"
+],
+[
+"2026-11-12T09:15|Boy Harsher|Tough Luck (When You Don't Call)",
+"spotify:track:109AVLNWp2BnTXTzF4j6XE"
+],
 [
 "2026-11-12T09:06|Sandra Isabel|Scherben",
 "spotify:track:08EqzaIXwVBF7bkaSNpPaz"
@@ -3528,10 +3540,6 @@
 "spotify:track:0bbPqdrMN94XmIlBQS21B3"
 ],
 [
-"2026-11-05T09:35|Tessa Rose Jackson|Built To Collide",
-"spotify:track:69saRCWp2ov8jBLOprFAfE"
-],
-[
 "2026-11-05T09:26|Albert Hammond Jr.|Back To The 101",
 "spotify:track:750iyp8W6PCcCC7TtYy9Tf"
 ],
@@ -3669,6 +3677,12 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-11-12T09:34|Baxter Dury|Schadenfreude",
+"t": "2026-11-12T09:34:00+01:00",
+"artist": "Baxter Dury",
+"title": "Schadenfreude"
+},
 {
 "id": "2026-11-12T09:26|Madison Cunningham|Golden Gate (On And On)",
 "t": "2026-11-12T09:26:00+01:00",
@@ -9002,18 +9016,6 @@
 "t": "2026-11-05T09:49:00+01:00",
 "artist": "Yazmin Lacey",
 "title": "Summer Haze"
-},
-{
-"id": "2026-11-05T09:43|Kaktus Einarsson feat. John Grant|Follow",
-"t": "2026-11-05T09:43:00+01:00",
-"artist": "Kaktus Einarsson feat. John Grant",
-"title": "Follow"
-},
-{
-"id": "2026-11-05T09:35|Tessa Rose Jackson|Built To Collide",
-"t": "2026-11-05T09:35:00+01:00",
-"artist": "Tessa Rose Jackson",
-"title": "Built To Collide"
 }
 ]
 }
