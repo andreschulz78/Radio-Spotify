@@ -1,5 +1,5 @@
 {
-"updated": "2026-11-13T05:05:40.451029+01:00",
+"updated": "2026-11-13T05:17:40.451349+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
@@ -12,7 +12,7 @@
 "2026-11-09": 172,
 "2026-11-10": 171,
 "2026-11-11": 197,
-"2026-11-12": 183
+"2026-11-12": 184
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
@@ -3624,6 +3624,18 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-11-13T05:11|Coldplay|Don't Panic",
+"t": "2026-11-13T05:11:00+01:00",
+"artist": "Coldplay",
+"title": "Don't Panic"
+},
+{
+"id": "2026-11-13T05:07|Widowspeak|Soft Cover (Edit)",
+"t": "2026-11-13T05:07:00+01:00",
+"artist": "Widowspeak",
+"title": "Soft Cover (Edit)"
+},
 {
 "id": "2026-11-13T05:03|Serebii|Even In The Quiet",
 "t": "2026-11-13T05:03:00+01:00",
@@ -9065,24 +9077,6 @@
 "t": "2026-11-06T05:23:00+01:00",
 "artist": "Chris Malinchak",
 "title": "So Good To Me"
-},
-{
-"id": "2026-11-06T05:15|Nichtseattle|Ich mit Brille",
-"t": "2026-11-06T05:15:00+01:00",
-"artist": "Nichtseattle",
-"title": "Ich mit Brille"
-},
-{
-"id": "2026-11-06T05:11|The xx|I Dare You",
-"t": "2026-11-06T05:11:00+01:00",
-"artist": "The xx",
-"title": "I Dare You"
-},
-{
-"id": "2026-11-06T05:06|Peter and Kerry|All I've Got Are My Dreams",
-"t": "2026-11-06T05:06:00+01:00",
-"artist": "Peter and Kerry",
-"title": "All I've Got Are My Dreams"
 }
 ]
 }
