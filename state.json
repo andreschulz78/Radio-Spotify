@@ -1,9 +1,9 @@
 {
-"updated": "2026-11-13T06:53:40.454173+01:00",
+"updated": "2026-11-13T07:05:40.454509+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
-"synced": "2026-11-13T06:41:40.453826+01:00",
+"synced": "2026-11-13T06:57:40.454291+01:00",
 "pruned": "2026-11-13",
 "calls": {
 "2026-11-06": 191,
@@ -13,12 +13,24 @@
 "2026-11-10": 171,
 "2026-11-11": 197,
 "2026-11-12": 185,
-"2026-11-13": 16
+"2026-11-13": 19
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAhJHx7reK/txuv/E5rVeXxo8BZzK8w",
+"snapshot": "AAAhJoSuxbcObwXuZCOqSbY1sFcgb9qQ",
 "playlist": [
+[
+"2026-11-13T06:51|Sylvan Esso|Right to Left",
+"spotify:track:78xiuouD9dMXKXGKdDnjqB"
+],
+[
+"2026-11-13T06:46|Goldfrapp|Number 1",
+"spotify:track:1WVhulmaOQafvebRQ7O8w4"
+],
+[
+"2026-11-13T06:37|Bilderbuch|Eine Nacht in Manila",
+"spotify:track:5IdwM8zLcb5VzoN6T5iRmV"
+],
 [
 "2026-11-13T06:31|Oslo Twins|I Wake Up Slowly",
 "spotify:track:22CUrCtZeg4jR7d7BO34oa"
@@ -3604,10 +3616,6 @@
 "spotify:track:0Kl3aryDqrFj1IK0wsDJoL"
 ],
 [
-"2026-11-06T06:57|Baxter Dury|I'm Not Your Dog",
-"spotify:track:0akzU7VdwCaGjDWZnvK1G1"
-],
-[
 "2026-11-06T06:50|Aldous Harding|One Stop",
 "spotify:track:3VsRmRzYpLv4YpjSwbeP8J"
 ],
@@ -3689,6 +3697,24 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-11-13T06:57|Suki Waterhouse|My Fun",
+"t": "2026-11-13T06:57:00+01:00",
+"artist": "Suki Waterhouse",
+"title": "My Fun"
+},
+{
+"id": "2026-11-13T06:51|Sylvan Esso|Right to Left",
+"t": "2026-11-13T06:51:00+01:00",
+"artist": "Sylvan Esso",
+"title": "Right to Left"
+},
+{
+"id": "2026-11-13T06:46|Goldfrapp|Number 1",
+"t": "2026-11-13T06:46:00+01:00",
+"artist": "Goldfrapp",
+"title": "Number 1"
+},
 {
 "id": "2026-11-13T06:37|Bilderbuch|Eine Nacht in Manila",
 "t": "2026-11-13T06:37:00+01:00",
@@ -9130,12 +9156,6 @@
 "t": "2026-11-06T07:06:00+01:00",
 "artist": "Uche Yara",
 "title": "Yesterday I Was In London"
-},
-{
-"id": "2026-11-06T06:57|Baxter Dury|I'm Not Your Dog",
-"t": "2026-11-06T06:57:00+01:00",
-"artist": "Baxter Dury",
-"title": "I'm Not Your Dog"
 }
 ]
 }
