@@ -1,9 +1,9 @@
 {
-"updated": "2026-11-13T11:57:26.273164+01:00",
+"updated": "2026-11-13T12:09:26.273423+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
-"synced": "2026-11-13T11:53:26.273047+01:00",
+"synced": "2026-11-13T12:09:26.273423+01:00",
 "pruned": "2026-11-13",
 "calls": {
 "2026-11-06": 191,
@@ -13,12 +13,24 @@
 "2026-11-10": 171,
 "2026-11-11": 197,
 "2026-11-12": 185,
-"2026-11-13": 69
+"2026-11-13": 70
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAhN18IqDHBWD+kCre74Uwk9+zqKJQH",
+"snapshot": "AAAhOBibTQOGEuGUXx9HyAdCNzVQf6bt",
 "playlist": [
+[
+"2026-11-13T11:57|IDER|Unlearn",
+"spotify:track:1hh2XBXvivMbbaeNsZhtyD"
+],
+[
+"2026-11-13T11:52|Nia Archives|Vertical",
+"spotify:track:0ecQazzKkndVD8Ry9Orp9Q"
+],
+[
+"2026-11-13T11:49|Kaktus Einarsson feat. John Grant|Follow",
+"spotify:track:0bbPqdrMN94XmIlBQS21B3"
+],
 [
 "2026-11-13T11:45|Bulgarian Cartrader|Soul Is The Price",
 "spotify:track:4GlR0TtFVkKwJsnDL5oCDH"
@@ -3869,6 +3881,18 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-11-13T11:57|IDER|Unlearn",
+"t": "2026-11-13T11:57:00+01:00",
+"artist": "IDER",
+"title": "Unlearn"
+},
+{
+"id": "2026-11-13T11:52|Nia Archives|Vertical",
+"t": "2026-11-13T11:52:00+01:00",
+"artist": "Nia Archives",
+"title": "Vertical"
+},
 {
 "id": "2026-11-13T11:49|Kaktus Einarsson feat. John Grant|Follow",
 "t": "2026-11-13T11:49:00+01:00",
@@ -9334,18 +9358,6 @@
 "t": "2026-11-06T12:10:00+01:00",
 "artist": "Lauryn Hill",
 "title": "Can't Take My Eyes Off Of You"
-},
-{
-"id": "2026-11-06T12:06|John Maus|Because We Built It",
-"t": "2026-11-06T12:06:00+01:00",
-"artist": "John Maus",
-"title": "Because We Built It"
-},
-{
-"id": "2026-11-06T11:58|I Am Kloot|Over My Shoulder",
-"t": "2026-11-06T11:58:00+01:00",
-"artist": "I Am Kloot",
-"title": "Over My Shoulder"
 }
 ]
 }
