@@ -1,9 +1,9 @@
 {
-"updated": "2026-11-13T10:21:26.270473+01:00",
+"updated": "2026-11-13T10:33:26.270802+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
-"synced": "2026-11-13T10:17:26.270352+01:00",
+"synced": "2026-11-13T10:33:26.270802+01:00",
 "pruned": "2026-11-13",
 "calls": {
 "2026-11-06": 191,
@@ -13,12 +13,20 @@
 "2026-11-10": 171,
 "2026-11-11": 197,
 "2026-11-12": 185,
-"2026-11-13": 54
+"2026-11-13": 56
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAhMQYSG0lHg8QEcK8bbFOyJnSjwJ+G",
+"snapshot": "AAAhMhvXEe/126r/Ne7BDbTtAvTQhgRh",
 "playlist": [
+[
+"2026-11-13T10:25|Grace Cummings|I'm Not Crazy",
+"spotify:track:70QaE9UJ2uTVwC4IGS6yvU"
+],
+[
+"2026-11-13T10:20|Gonzales|Working Together",
+"spotify:track:2lRRbmXwKXGAvqxmKhMA0P"
+],
 [
 "2026-11-13T10:12|Slowdive|Sugar For The Pill",
 "spotify:track:4jP4NBLn6gPDiyRNuFogE7"
@@ -3821,6 +3829,18 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-11-13T10:25|Grace Cummings|I'm Not Crazy",
+"t": "2026-11-13T10:25:00+01:00",
+"artist": "Grace Cummings",
+"title": "I'm Not Crazy"
+},
+{
+"id": "2026-11-13T10:20|Gonzales|Working Together",
+"t": "2026-11-13T10:20:00+01:00",
+"artist": "Gonzales",
+"title": "Working Together"
+},
 {
 "id": "2026-11-13T10:12|Slowdive|Sugar For The Pill",
 "t": "2026-11-13T10:12:00+01:00",
@@ -9268,18 +9288,6 @@
 "t": "2026-11-06T10:41:00+01:00",
 "artist": "Black Marble",
 "title": "Jim Carol New Year"
-},
-{
-"id": "2026-11-06T10:31|Nada Surf|Whose Authority",
-"t": "2026-11-06T10:31:00+01:00",
-"artist": "Nada Surf",
-"title": "Whose Authority"
-},
-{
-"id": "2026-11-06T10:25|Stereo MC's|Connected",
-"t": "2026-11-06T10:25:00+01:00",
-"artist": "Stereo MC's",
-"title": "Connected"
 }
 ]
 }
