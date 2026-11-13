@@ -1,9 +1,9 @@
 {
-"updated": "2026-11-13T06:29:40.453465+01:00",
+"updated": "2026-11-13T06:41:40.453826+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
-"synced": "2026-11-13T06:25:40.453355+01:00",
+"synced": "2026-11-13T06:41:40.453826+01:00",
 "pruned": "2026-11-13",
 "calls": {
 "2026-11-06": 191,
@@ -13,12 +13,20 @@
 "2026-11-10": 171,
 "2026-11-11": 197,
 "2026-11-12": 185,
-"2026-11-13": 13
+"2026-11-13": 15
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAhIxHsWLdSwpWSeTwBhmdQfq2eMN3l",
+"snapshot": "AAAhJHx7reK/txuv/E5rVeXxo8BZzK8w",
 "playlist": [
+[
+"2026-11-13T06:31|Oslo Twins|I Wake Up Slowly",
+"spotify:track:22CUrCtZeg4jR7d7BO34oa"
+],
+[
+"2026-11-13T06:24|Bleachers|Blood Brothers",
+"spotify:track:7aMdmpShbYFRbdJigosY7C"
+],
 [
 "2026-11-13T06:16|Matt Berninger|Bonnet Of Pins (Radio-Edit)",
 "spotify:track:0hLFRJetaM0qj09lyyJ9a5"
@@ -3681,6 +3689,18 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-11-13T06:31|Oslo Twins|I Wake Up Slowly",
+"t": "2026-11-13T06:31:00+01:00",
+"artist": "Oslo Twins",
+"title": "I Wake Up Slowly"
+},
+{
+"id": "2026-11-13T06:24|Bleachers|Blood Brothers",
+"t": "2026-11-13T06:24:00+01:00",
+"artist": "Bleachers",
+"title": "Blood Brothers"
+},
 {
 "id": "2026-11-13T06:16|Matt Berninger|Bonnet Of Pins (Radio-Edit)",
 "t": "2026-11-13T06:16:00+01:00",
@@ -9128,12 +9148,6 @@
 "t": "2026-11-06T06:43:00+01:00",
 "artist": "Phoebe Bridgers",
 "title": "Lost Boys (Radio Edit)"
-},
-{
-"id": "2026-11-06T06:34|Jim Noir|Eanie Meany (Fat Boy Slim Remix)",
-"t": "2026-11-06T06:34:00+01:00",
-"artist": "Jim Noir",
-"title": "Eanie Meany (Fat Boy Slim Remix)"
 }
 ]
 }
