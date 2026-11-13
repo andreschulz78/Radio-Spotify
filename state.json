@@ -1,9 +1,9 @@
 {
-"updated": "2026-11-13T05:41:40.452061+01:00",
+"updated": "2026-11-13T05:53:40.452391+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
-"synced": "2026-11-13T05:37:40.451956+01:00",
+"synced": "2026-11-13T05:53:40.452391+01:00",
 "pruned": "2026-11-13",
 "calls": {
 "2026-11-06": 191,
@@ -13,12 +13,20 @@
 "2026-11-10": 171,
 "2026-11-11": 197,
 "2026-11-12": 185,
-"2026-11-13": 4
+"2026-11-13": 6
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAhIGD1JpP16uJQcVAYW8QYOstWS3NX",
+"snapshot": "AAAhIYRozUNkYNRA8rlCI2RYLSTna7N3",
 "playlist": [
+[
+"2026-11-13T05:42|The Flaming Lips|God Will Control The Werewolves (Radio Edit)",
+"spotify:track:63hixy83eOlSRb4JFnmnpg"
+],
+[
+"2026-11-13T05:36|Suzanne Vega|Men In A War",
+"spotify:track:5I6IKd422HtMNO9GlddINr"
+],
 [
 "2026-11-13T05:31|The Strokes|Machu Picchu",
 "spotify:track:6mVD1SfTvlFAPVi7txFL5H"
@@ -3649,6 +3657,18 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-11-13T05:42|The Flaming Lips|God Will Control The Werewolves (Radio Edit)",
+"t": "2026-11-13T05:42:00+01:00",
+"artist": "The Flaming Lips",
+"title": "God Will Control The Werewolves (Radio Edit)"
+},
+{
+"id": "2026-11-13T05:36|Suzanne Vega|Men In A War",
+"t": "2026-11-13T05:36:00+01:00",
+"artist": "Suzanne Vega",
+"title": "Men In A War"
+},
 {
 "id": "2026-11-13T05:31|The Strokes|Machu Picchu",
 "t": "2026-11-13T05:31:00+01:00",
@@ -9084,24 +9104,6 @@
 "t": "2026-11-06T05:57:00+01:00",
 "artist": "Kings Of Convenience",
 "title": "Mrs. Cold"
-},
-{
-"id": "2026-11-06T05:52|Interpol|Iron City",
-"t": "2026-11-06T05:52:00+01:00",
-"artist": "Interpol",
-"title": "Iron City"
-},
-{
-"id": "2026-11-06T05:49|Hannah Jadagu|My Love",
-"t": "2026-11-06T05:49:00+01:00",
-"artist": "Hannah Jadagu",
-"title": "My Love"
-},
-{
-"id": "2026-11-06T05:43|Edward Sharpe & The Magnetic Zeros|Home",
-"t": "2026-11-06T05:43:00+01:00",
-"artist": "Edward Sharpe & The Magnetic Zeros",
-"title": "Home"
 }
 ]
 }
