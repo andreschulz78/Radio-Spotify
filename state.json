@@ -1,9 +1,9 @@
 {
-"updated": "2026-11-13T13:21:26.275538+01:00",
+"updated": "2026-11-13T13:33:26.275829+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
-"synced": "2026-11-13T13:13:26.275238+01:00",
+"synced": "2026-11-13T13:33:26.275829+01:00",
 "pruned": "2026-11-13",
 "calls": {
 "2026-11-06": 191,
@@ -13,12 +13,16 @@
 "2026-11-10": 171,
 "2026-11-11": 197,
 "2026-11-12": 185,
-"2026-11-13": 84
+"2026-11-13": 87
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAhPLLFuTMKFWxzRHG4rnlfE1z73TxC",
+"snapshot": "AAAhPTeLWOSuN4C5cl/bLFUiFC95TJuq",
 "playlist": [
+[
+"2026-11-13T13:24|Spoon|Hot Thoughts",
+"spotify:track:48yvsxGXnJBxy8nXgGbs4S"
+],
 [
 "2026-11-13T13:06|Dope Lemon|Electric Green Lambo",
 "spotify:track:5cosFdrn8PBmz6eJpD00iq"
@@ -3921,6 +3925,12 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-11-13T13:24|Spoon|Hot Thoughts",
+"t": "2026-11-13T13:24:00+01:00",
+"artist": "Spoon",
+"title": "Hot Thoughts"
+},
 {
 "id": "2026-11-13T13:10|Asylum Party|Play Alone",
 "t": "2026-11-13T13:10:00+01:00",
@@ -9380,24 +9390,6 @@
 "t": "2026-11-06T13:34:00+01:00",
 "artist": "Bleachers",
 "title": "Blood Brothers"
-},
-{
-"id": "2026-11-06T13:32|Gnarls Barkley|Who Cares",
-"t": "2026-11-06T13:32:00+01:00",
-"artist": "Gnarls Barkley",
-"title": "Who Cares"
-},
-{
-"id": "2026-11-06T13:26|MC Solaar|Nouveau Western",
-"t": "2026-11-06T13:26:00+01:00",
-"artist": "MC Solaar",
-"title": "Nouveau Western"
-},
-{
-"id": "2026-11-06T13:22|Ane Brun|Honey",
-"t": "2026-11-06T13:22:00+01:00",
-"artist": "Ane Brun",
-"title": "Honey"
 }
 ]
 }
