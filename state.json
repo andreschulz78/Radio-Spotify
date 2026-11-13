@@ -1,5 +1,5 @@
 {
-"updated": "2026-11-13T20:03:10.448736+01:00",
+"updated": "2026-11-13T20:15:10.449077+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
@@ -9392,18 +9392,6 @@
 "t": "2026-11-06T20:26:00+01:00",
 "artist": "Wyclef Jean feat. R Kelly Canibus",
 "title": "Gone Till November (The Makin Runs Remix)"
-},
-{
-"id": "2026-11-06T20:15|Earth, Wind & Fire|Boogie Wonderland",
-"t": "2026-11-06T20:15:00+01:00",
-"artist": "Earth, Wind & Fire",
-"title": "Boogie Wonderland"
-},
-{
-"id": "2026-11-06T20:06|Loden in NY|The Magic Room (Dino Lenny Remix)",
-"t": "2026-11-06T20:06:00+01:00",
-"artist": "Loden in NY",
-"title": "The Magic Room (Dino Lenny Remix)"
 }
 ]
 }
