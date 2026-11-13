@@ -1,9 +1,9 @@
 {
-"updated": "2026-11-13T12:33:26.274069+01:00",
+"updated": "2026-11-13T12:45:26.274344+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
-"synced": "2026-11-13T12:25:26.273851+01:00",
+"synced": "2026-11-13T12:41:26.274252+01:00",
 "pruned": "2026-11-13",
 "calls": {
 "2026-11-06": 191,
@@ -13,12 +13,24 @@
 "2026-11-10": 171,
 "2026-11-11": 197,
 "2026-11-12": 185,
-"2026-11-13": 74
+"2026-11-13": 78
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAhOXzEzw7WiGj4+5L7QcRhj5byV9Iq",
+"snapshot": "AAAhOogaHFH6K5BKR7pqBgk/jrN7O6AK",
 "playlist": [
+[
+"2026-11-13T12:31|Franz Ferdinand|This Fffire",
+"spotify:track:3Obu3jvFSfgLF3pSbi64Vj"
+],
+[
+"2026-11-13T12:26|Lorde|Team",
+"spotify:track:3G6hD9B2ZHOsgf4WfNu7X1"
+],
+[
+"2026-11-13T12:24|Beatsteaks|Hand In Hand",
+"spotify:track:4PmQx7HP8Svodj0f08hQ68"
+],
 [
 "2026-11-13T12:16|Pulp|Spike Island (Radio Edit)",
 "spotify:track:6g6DnHs3W4U6qMERbKwpDd"
@@ -3889,6 +3901,24 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-11-13T12:43|Der Assistent|Neue Lunge",
+"t": "2026-11-13T12:43:00+01:00",
+"artist": "Der Assistent",
+"title": "Neue Lunge"
+},
+{
+"id": "2026-11-13T12:38|Wallners|Dracula",
+"t": "2026-11-13T12:38:00+01:00",
+"artist": "Wallners",
+"title": "Dracula"
+},
+{
+"id": "2026-11-13T12:31|Franz Ferdinand|This Fffire",
+"t": "2026-11-13T12:31:00+01:00",
+"artist": "Franz Ferdinand",
+"title": "This Fffire"
+},
 {
 "id": "2026-11-13T12:26|Lorde|Team",
 "t": "2026-11-13T12:26:00+01:00",
@@ -9348,18 +9378,6 @@
 "t": "2026-11-06T12:46:00+01:00",
 "artist": "Loaded Honey",
 "title": "Don't Speak"
-},
-{
-"id": "2026-11-06T12:43|Nia Archives|Vertical",
-"t": "2026-11-06T12:43:00+01:00",
-"artist": "Nia Archives",
-"title": "Vertical"
-},
-{
-"id": "2026-11-06T12:34|The Flaming Lips|God Will Control The Werewolves (Radio Edit)",
-"t": "2026-11-06T12:34:00+01:00",
-"artist": "The Flaming Lips",
-"title": "God Will Control The Werewolves (Radio Edit)"
 }
 ]
 }
