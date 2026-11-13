@@ -1,9 +1,9 @@
 {
-"updated": "2026-11-13T10:45:26.271198+01:00",
+"updated": "2026-11-13T10:57:26.271555+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
-"synced": "2026-11-13T10:33:26.270802+01:00",
+"synced": "2026-11-13T10:49:26.271318+01:00",
 "pruned": "2026-11-13",
 "calls": {
 "2026-11-06": 191,
@@ -13,12 +13,20 @@
 "2026-11-10": 171,
 "2026-11-11": 197,
 "2026-11-12": 185,
-"2026-11-13": 58
+"2026-11-13": 61
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAhMhvXEe/126r/Ne7BDbTtAvTQhgRh",
+"snapshot": "AAAhM6a9oy0pwyjqKBtY9A1VuqDcP3kV",
 "playlist": [
+[
+"2026-11-13T10:35|Lola Young|Big Brown Eyes",
+"spotify:track:2eQotZtrNHzi38qge7CGXE"
+],
+[
+"2026-11-13T10:30|Death Cab For Cutie|Riptides",
+"spotify:track:64q8nvkJGFyFR00cbtEjr3"
+],
 [
 "2026-11-13T10:25|Grace Cummings|I'm Not Crazy",
 "spotify:track:70QaE9UJ2uTVwC4IGS6yvU"
@@ -3829,6 +3837,24 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-11-13T10:52|Dahi feat. Kendrick Lamar & Amber Mark|How To Pray",
+"t": "2026-11-13T10:52:00+01:00",
+"artist": "Dahi feat. Kendrick Lamar & Amber Mark",
+"title": "How To Pray"
+},
+{
+"id": "2026-11-13T10:49|Allah-Las|Catamaran",
+"t": "2026-11-13T10:49:00+01:00",
+"artist": "Allah-Las",
+"title": "Catamaran"
+},
+{
+"id": "2026-11-13T10:44|Röyksopp|Poor Leno",
+"t": "2026-11-13T10:44:00+01:00",
+"artist": "Röyksopp",
+"title": "Poor Leno"
+},
 {
 "id": "2026-11-13T10:35|Lola Young|Big Brown Eyes",
 "t": "2026-11-13T10:35:00+01:00",
@@ -9288,12 +9314,6 @@
 "t": "2026-11-06T10:58:00+01:00",
 "artist": "Odd Beholder",
 "title": "Insecurities"
-},
-{
-"id": "2026-11-06T10:50|Die Lassie Singers|Hamburg",
-"t": "2026-11-06T10:50:00+01:00",
-"artist": "Die Lassie Singers",
-"title": "Hamburg"
 }
 ]
 }
