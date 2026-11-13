@@ -1,9 +1,9 @@
 {
-"updated": "2026-11-13T09:33:26.269047+01:00",
+"updated": "2026-11-13T09:45:26.269403+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
-"synced": "2026-11-13T09:29:26.268908+01:00",
+"synced": "2026-11-13T09:45:26.269403+01:00",
 "pruned": "2026-11-13",
 "calls": {
 "2026-11-06": 191,
@@ -13,12 +13,24 @@
 "2026-11-10": 171,
 "2026-11-11": 197,
 "2026-11-12": 185,
-"2026-11-13": 43
+"2026-11-13": 46
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAhLu0/gvYuEv9pkWg5kR710bhfesRi",
+"snapshot": "AAAhLxJFMtmzWCYYu5gFRvvjOgHTEkbr",
 "playlist": [
+[
+"2026-11-13T09:37|The Smashing Pumpkins|Disarm",
+"spotify:track:2lXHg7BtTNoP39AezyCSfL"
+],
+[
+"2026-11-13T09:34|A Projection|Transition",
+"spotify:track:3Kcam8JyyxQwJdCM06AYi1"
+],
+[
+"2026-11-13T09:27|Elfi|Am Kottbusser Damm",
+"spotify:track:6TiDhz9j5DlSwpFciFqbWU"
+],
 [
 "2026-11-13T09:19|Depeche Mode|Stripped",
 "spotify:track:7wCkovg3TAa4vW68S7ktRu"
@@ -3785,6 +3797,18 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-11-13T09:37|The Smashing Pumpkins|Disarm",
+"t": "2026-11-13T09:37:00+01:00",
+"artist": "The Smashing Pumpkins",
+"title": "Disarm"
+},
+{
+"id": "2026-11-13T09:34|A Projection|Transition",
+"t": "2026-11-13T09:34:00+01:00",
+"artist": "A Projection",
+"title": "Transition"
+},
 {
 "id": "2026-11-13T09:27|Elfi|Am Kottbusser Damm",
 "t": "2026-11-13T09:27:00+01:00",
@@ -9232,18 +9256,6 @@
 "t": "2026-11-06T09:47:00+01:00",
 "artist": "TLC",
 "title": "Waterfalls"
-},
-{
-"id": "2026-11-06T09:43|Sylvan Esso|Right to Left",
-"t": "2026-11-06T09:43:00+01:00",
-"artist": "Sylvan Esso",
-"title": "Right to Left"
-},
-{
-"id": "2026-11-06T09:35|Mia|Hungriges Herz",
-"t": "2026-11-06T09:35:00+01:00",
-"artist": "Mia",
-"title": "Hungriges Herz"
 }
 ]
 }
