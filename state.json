@@ -1,9 +1,9 @@
 {
-"updated": "2026-11-13T18:03:10.444978+01:00",
+"updated": "2026-11-13T18:15:10.445268+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
-"synced": "2026-11-13T17:59:10.444853+01:00",
+"synced": "2026-11-13T18:15:10.445268+01:00",
 "pruned": "2026-11-13",
 "calls": {
 "2026-11-06": 191,
@@ -13,12 +13,16 @@
 "2026-11-10": 171,
 "2026-11-11": 197,
 "2026-11-12": 185,
-"2026-11-13": 109
+"2026-11-13": 110
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAhRLx2qfURPsFRy5atBwbg0AkoSiVl",
+"snapshot": "AAAhRXvjUOg+1WQoTwQDm3z+Ru1TIsO1",
 "playlist": [
+[
+"2026-11-13T17:57|Michael Kiwanuka|You Ain't The Problem",
+"spotify:track:0QDe6nlExlt3AM1NHTh4nn"
+],
 [
 "2026-11-13T16:58|Leon Bridges|Talk it over",
 "spotify:track:5Bdn8RyTqz4dV7F07EFBP5"
