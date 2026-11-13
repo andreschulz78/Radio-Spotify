@@ -1,5 +1,5 @@
 {
-"updated": "2026-11-13T06:41:40.453826+01:00",
+"updated": "2026-11-13T06:53:40.454173+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
@@ -13,7 +13,7 @@
 "2026-11-10": 171,
 "2026-11-11": 197,
 "2026-11-12": 185,
-"2026-11-13": 15
+"2026-11-13": 16
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
@@ -3689,6 +3689,12 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-11-13T06:37|Bilderbuch|Eine Nacht in Manila",
+"t": "2026-11-13T06:37:00+01:00",
+"artist": "Bilderbuch",
+"title": "Eine Nacht in Manila"
+},
 {
 "id": "2026-11-13T06:31|Oslo Twins|I Wake Up Slowly",
 "t": "2026-11-13T06:31:00+01:00",
@@ -9130,24 +9136,6 @@
 "t": "2026-11-06T06:57:00+01:00",
 "artist": "Baxter Dury",
 "title": "I'm Not Your Dog"
-},
-{
-"id": "2026-11-06T06:50|Aldous Harding|One Stop",
-"t": "2026-11-06T06:50:00+01:00",
-"artist": "Aldous Harding",
-"title": "One Stop"
-},
-{
-"id": "2026-11-06T06:47|Anthea|Run",
-"t": "2026-11-06T06:47:00+01:00",
-"artist": "Anthea",
-"title": "Run"
-},
-{
-"id": "2026-11-06T06:43|Phoebe Bridgers|Lost Boys (Radio Edit)",
-"t": "2026-11-06T06:43:00+01:00",
-"artist": "Phoebe Bridgers",
-"title": "Lost Boys (Radio Edit)"
 }
 ]
 }
