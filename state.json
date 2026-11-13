@@ -1,9 +1,9 @@
 {
-"updated": "2026-11-13T09:09:26.268221+01:00",
+"updated": "2026-11-13T09:21:26.268598+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
-"synced": "2026-11-13T08:57:26.267949+01:00",
+"synced": "2026-11-13T09:13:26.268320+01:00",
 "pruned": "2026-11-13",
 "calls": {
 "2026-11-06": 191,
@@ -13,12 +13,20 @@
 "2026-11-10": 171,
 "2026-11-11": 197,
 "2026-11-12": 185,
-"2026-11-13": 37
+"2026-11-13": 40
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAhLOVuoTrfWeKNFrHl1s5wgrI9IiNU",
+"snapshot": "AAAhLYiDqmmRzbPWhqDCKb1dtkfUnpRu",
 "playlist": [
+[
+"2026-11-13T09:06|Fuffifufzich|Hoffnung",
+"spotify:track:3KAtPJiO4jWFzrjAUPCFXJ"
+],
+[
+"2026-11-13T08:57|Faith No More|Easy",
+"spotify:track:4zzvMG8KrsykYtvFEJ99Cl"
+],
 [
 "2026-11-13T08:50|Dry Cleaning|Strong Feelings",
 "spotify:track:3xNfIWTsRdYbpEyildEMis"
@@ -3769,6 +3777,18 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-11-13T09:14|Benjamin Clementine|In Fact You Know You Gotto Go",
+"t": "2026-11-13T09:14:00+01:00",
+"artist": "Benjamin Clementine",
+"title": "In Fact You Know You Gotto Go"
+},
+{
+"id": "2026-11-13T09:06|Fuffifufzich|Hoffnung",
+"t": "2026-11-13T09:06:00+01:00",
+"artist": "Fuffifufzich",
+"title": "Hoffnung"
+},
 {
 "id": "2026-11-13T08:57|Faith No More|Easy",
 "t": "2026-11-13T08:57:00+01:00",
@@ -9210,18 +9230,6 @@
 "t": "2026-11-06T09:27:00+01:00",
 "artist": "Damien Jurado",
 "title": "Percy Faith"
-},
-{
-"id": "2026-11-06T09:17|J.Bernardt|Love Is On My Mind",
-"t": "2026-11-06T09:17:00+01:00",
-"artist": "J.Bernardt",
-"title": "Love Is On My Mind"
-},
-{
-"id": "2026-11-06T09:12|The Avalanches feat. Karen O|Blue Shadows",
-"t": "2026-11-06T09:12:00+01:00",
-"artist": "The Avalanches feat. Karen O",
-"title": "Blue Shadows"
 }
 ]
 }
