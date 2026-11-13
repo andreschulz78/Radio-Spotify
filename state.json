@@ -1,9 +1,9 @@
 {
-"updated": "2026-11-13T22:15:10.453015+01:00",
+"updated": "2026-11-13T22:54:43.951157+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
-"synced": "2026-11-13T22:15:10.453015+01:00",
+"synced": "2026-11-13T22:54:43.951157+01:00",
 "pruned": "2026-11-13",
 "calls": {
 "2026-11-06": 191,
@@ -13,12 +13,24 @@
 "2026-11-10": 171,
 "2026-11-11": 197,
 "2026-11-12": 185,
-"2026-11-13": 131
+"2026-11-13": 135
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAhTa5BeZ3AbRxI+jpagt1jrB0jmdWF",
+"snapshot": "AAAhTnMLWoK5+20f/yeHChRM/0wKfs1J",
 "playlist": [
+[
+"2026-11-13T22:43|Harald Blüchel|Traeume 19, II",
+"spotify:track:6RDpZj50wHY7yUxW1Lhsmc"
+],
+[
+"2026-11-13T22:32|Harald Blüchel|No Ordinary Moments, II-IV",
+"spotify:track:7fOnJMECeTahcFc1MHQXTh"
+],
+[
+"2026-11-13T22:24|Los Bitchos|Walk in Salem",
+"spotify:track:7L7h6N4isNkga450qoG00M"
+],
 [
 "2026-11-13T22:10|Los Bitchos; Adrian Quesada; Sinkane|Hang Up Pt2",
 "spotify:track:6rv94zY6aBygtbk1XpeTu7"
@@ -4053,6 +4065,30 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-11-13T22:43|Harald Blüchel|Traeume 19, II",
+"t": "2026-11-13T22:43:00+01:00",
+"artist": "Harald Blüchel",
+"title": "Traeume 19, II"
+},
+{
+"id": "2026-11-13T22:32|Harald Blüchel|No Ordinary Moments, II-IV",
+"t": "2026-11-13T22:32:00+01:00",
+"artist": "Harald Blüchel",
+"title": "No Ordinary Moments, II-IV"
+},
+{
+"id": "2026-11-13T22:24|Los Bitchos|Walk in Salem",
+"t": "2026-11-13T22:24:00+01:00",
+"artist": "Los Bitchos",
+"title": "Walk in Salem"
+},
+{
+"id": "2026-11-13T22:17|Kit Sebastian; Los Bitchos|El Pence",
+"t": "2026-11-13T22:17:00+01:00",
+"artist": "Kit Sebastian; Los Bitchos",
+"title": "El Pence"
+},
 {
 "id": "2026-11-13T22:10|Los Bitchos; Adrian Quesada; Sinkane|Hang Up Pt2",
 "t": "2026-11-13T22:10:00+01:00",
@@ -9380,36 +9416,6 @@
 "t": "2026-11-07T06:03:00+01:00",
 "artist": "AV AV AV",
 "title": "A Number Of Things (Edit)"
-},
-{
-"id": "2026-11-06T22:49|Mittekill|Das warst Du",
-"t": "2026-11-06T22:49:00+01:00",
-"artist": "Mittekill",
-"title": "Das warst Du"
-},
-{
-"id": "2026-11-06T22:40|Mittekill|Deutsche Migranten",
-"t": "2026-11-06T22:40:00+01:00",
-"artist": "Mittekill",
-"title": "Deutsche Migranten"
-},
-{
-"id": "2026-11-06T22:34|Mittekill|Jungejungejunge feat. Drunk at Your Wedding",
-"t": "2026-11-06T22:34:00+01:00",
-"artist": "Mittekill",
-"title": "Jungejungejunge feat. Drunk at Your Wedding"
-},
-{
-"id": "2026-11-06T22:27|Kings Of Leon|Forever Endeavor",
-"t": "2026-11-06T22:27:00+01:00",
-"artist": "Kings Of Leon",
-"title": "Forever Endeavor"
-},
-{
-"id": "2026-11-06T22:20|Kings Of Leon|The Hand",
-"t": "2026-11-06T22:20:00+01:00",
-"artist": "Kings Of Leon",
-"title": "The Hand"
 }
 ]
 }
