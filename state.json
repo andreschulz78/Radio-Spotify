@@ -1,9 +1,9 @@
 {
-"updated": "2026-11-13T09:57:26.269779+01:00",
+"updated": "2026-11-13T10:09:26.270105+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
-"synced": "2026-11-13T09:45:26.269403+01:00",
+"synced": "2026-11-13T10:01:26.269881+01:00",
 "pruned": "2026-11-13",
 "calls": {
 "2026-11-06": 191,
@@ -13,12 +13,28 @@
 "2026-11-10": 171,
 "2026-11-11": 197,
 "2026-11-12": 185,
-"2026-11-13": 48
+"2026-11-13": 50
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAhLxJFMtmzWCYYu5gFRvvjOgHTEkbr",
+"snapshot": "AAAhMBsEl7JlZSEYYoatqI29fSUjCji3",
 "playlist": [
+[
+"2026-11-13T09:57|Mumford & Sons|Alleycat",
+"spotify:track:3MtVQlX0ZSPqs7d1Tn0g4m"
+],
+[
+"2026-11-13T09:51|J.Bernardt|Love Is On My Mind",
+"spotify:track:4LuP3veDBkqnyLQvgDQpJb"
+],
+[
+"2026-11-13T09:47|Loyle Carner|About Time",
+"spotify:track:36nAARGAPFW5omo7C9euJ9"
+],
+[
+"2026-11-13T09:43|Sirens Of Lesbos|Pala",
+"spotify:track:3nAqjMD9ckDroe4qo5ELmw"
+],
 [
 "2026-11-13T09:37|The Smashing Pumpkins|Disarm",
 "spotify:track:2lXHg7BtTNoP39AezyCSfL"
@@ -3797,6 +3813,12 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-11-13T09:57|Mumford & Sons|Alleycat",
+"t": "2026-11-13T09:57:00+01:00",
+"artist": "Mumford & Sons",
+"title": "Alleycat"
+},
 {
 "id": "2026-11-13T09:51|J.Bernardt|Love Is On My Mind",
 "t": "2026-11-13T09:51:00+01:00",
@@ -9250,12 +9272,6 @@
 "t": "2026-11-06T10:16:00+01:00",
 "artist": "The Beatles",
 "title": "When I'm Sixty Four"
-},
-{
-"id": "2026-11-06T10:09|Phantogram|Earthshaker",
-"t": "2026-11-06T10:09:00+01:00",
-"artist": "Phantogram",
-"title": "Earthshaker"
 }
 ]
 }
