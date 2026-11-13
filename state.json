@@ -1,5 +1,5 @@
 {
-"updated": "2026-11-13T19:39:10.448019+01:00",
+"updated": "2026-11-13T19:51:10.448392+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
@@ -9400,12 +9400,6 @@
 "t": "2026-11-06T19:57:00+01:00",
 "artist": "Pink Martini",
 "title": "Hey Eugene"
-},
-{
-"id": "2026-11-06T19:45|Michael Franks|Dont Be Blue",
-"t": "2026-11-06T19:45:00+01:00",
-"artist": "Michael Franks",
-"title": "Dont Be Blue"
 }
 ]
 }
