@@ -1,5 +1,5 @@
 {
-"updated": "2026-11-13T08:09:26.266586+01:00",
+"updated": "2026-11-13T08:21:26.266837+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
@@ -13,7 +13,7 @@
 "2026-11-10": 171,
 "2026-11-11": 197,
 "2026-11-12": 185,
-"2026-11-13": 23
+"2026-11-13": 28
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
@@ -3717,6 +3717,18 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-11-13T08:15|Get Well Soon|Siri, What Ruined The West ?",
+"t": "2026-11-13T08:15:00+01:00",
+"artist": "Get Well Soon",
+"title": "Siri, What Ruined The West ?"
+},
+{
+"id": "2026-11-13T08:06|Supershy feat. Roberta Flack|Feel Like Makin' Love",
+"t": "2026-11-13T08:06:00+01:00",
+"artist": "Supershy feat. Roberta Flack",
+"title": "Feel Like Makin' Love"
+},
 {
 "id": "2026-11-13T07:56|One True Pairing|Be Strong",
 "t": "2026-11-13T07:56:00+01:00",
@@ -9158,18 +9170,6 @@
 "t": "2026-11-06T08:28:00+01:00",
 "artist": "Kings Of Leon",
 "title": "KOYSAR"
-},
-{
-"id": "2026-11-06T08:20|Rainbirds|Blueprint (Radio Edit)",
-"t": "2026-11-06T08:20:00+01:00",
-"artist": "Rainbirds",
-"title": "Blueprint (Radio Edit)"
-},
-{
-"id": "2026-11-06T08:16|Moonlight Breakfast|If Not Now, Then When?!",
-"t": "2026-11-06T08:16:00+01:00",
-"artist": "Moonlight Breakfast",
-"title": "If Not Now, Then When?!"
 }
 ]
 }
