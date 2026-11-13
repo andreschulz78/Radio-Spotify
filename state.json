@@ -1,9 +1,9 @@
 {
-"updated": "2026-11-13T06:05:40.452742+01:00",
+"updated": "2026-11-13T06:17:40.453102+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
-"synced": "2026-11-13T05:53:40.452391+01:00",
+"synced": "2026-11-13T06:09:40.452852+01:00",
 "pruned": "2026-11-13",
 "calls": {
 "2026-11-06": 191,
@@ -13,12 +13,24 @@
 "2026-11-10": 171,
 "2026-11-11": 197,
 "2026-11-12": 185,
-"2026-11-13": 7
+"2026-11-13": 11
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAhIYRozUNkYNRA8rlCI2RYLSTna7N3",
+"snapshot": "AAAhIjHi/1DWyFlRZ/IORZGywzW5n4A6",
 "playlist": [
+[
+"2026-11-13T05:56|Florence + The Machine|Buckle",
+"spotify:track:2Ea5Qh9ijEt8og1ZNBgqhR"
+],
+[
+"2026-11-13T05:53|Rosie Lowe|In My Head",
+"spotify:track:6VBNhjwLvHkpQmhlhofBGX"
+],
+[
+"2026-11-13T05:49|Jeff Buckley|Grace",
+"spotify:track:64SIlhd3BaHCCMSfajXG7l"
+],
 [
 "2026-11-13T05:42|The Flaming Lips|God Will Control The Werewolves (Radio Edit)",
 "spotify:track:63hixy83eOlSRb4JFnmnpg"
@@ -3657,6 +3669,18 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-11-13T06:12|Tikhet|Burndowner",
+"t": "2026-11-13T06:12:00+01:00",
+"artist": "Tikhet",
+"title": "Burndowner"
+},
+{
+"id": "2026-11-13T06:05|Fatboy Slim|That Old Pair Of Jeans",
+"t": "2026-11-13T06:05:00+01:00",
+"artist": "Fatboy Slim",
+"title": "That Old Pair Of Jeans"
+},
 {
 "id": "2026-11-13T05:56|Florence + The Machine|Buckle",
 "t": "2026-11-13T05:56:00+01:00",
@@ -9104,18 +9128,6 @@
 "t": "2026-11-06T06:18:00+01:00",
 "artist": "Automatic",
 "title": "Shadowplay"
-},
-{
-"id": "2026-11-06T06:14|Django Django ft. Max Pope|Feel Alright",
-"t": "2026-11-06T06:14:00+01:00",
-"artist": "Django Django ft. Max Pope",
-"title": "Feel Alright"
-},
-{
-"id": "2026-11-06T06:08|Beastie Boys feat. Santigold|Don't Play No Game That I Can't Win",
-"t": "2026-11-06T06:08:00+01:00",
-"artist": "Beastie Boys feat. Santigold",
-"title": "Don't Play No Game That I Can't Win"
 }
 ]
 }
