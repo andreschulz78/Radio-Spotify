@@ -1,5 +1,5 @@
 {
-"updated": "2026-11-13T21:27:10.451453+01:00",
+"updated": "2026-11-13T21:39:10.451823+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
@@ -13,7 +13,7 @@
 "2026-11-10": 171,
 "2026-11-11": 197,
 "2026-11-12": 185,
-"2026-11-13": 121
+"2026-11-13": 122
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
@@ -4029,6 +4029,12 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-11-13T21:27|Radie Peat|Still I Love Him",
+"t": "2026-11-13T21:27:00+01:00",
+"artist": "Radie Peat",
+"title": "Still I Love Him"
+},
 {
 "id": "2026-11-13T21:18|Radie Peat|The Moon and Stars",
 "t": "2026-11-13T21:18:00+01:00",
@@ -9380,18 +9386,6 @@
 "t": "2026-11-06T21:42:00+01:00",
 "artist": "Django Django",
 "title": "Still Life"
-},
-{
-"id": "2026-11-06T21:34|Django Django|Year Of The Snake",
-"t": "2026-11-06T21:34:00+01:00",
-"artist": "Django Django",
-"title": "Year Of The Snake"
-},
-{
-"id": "2026-11-06T21:28|Twisted|Darker The Night Is The Brighter I See",
-"t": "2026-11-06T21:28:00+01:00",
-"artist": "Twisted",
-"title": "Darker The Night Is The Brighter I See"
 }
 ]
 }
