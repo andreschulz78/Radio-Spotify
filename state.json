@@ -1,9 +1,9 @@
 {
-"updated": "2026-11-13T07:05:40.454509+01:00",
+"updated": "2026-11-13T08:09:26.266586+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
-"synced": "2026-11-13T06:57:40.454291+01:00",
+"synced": "2026-11-13T08:09:26.266586+01:00",
 "pruned": "2026-11-13",
 "calls": {
 "2026-11-06": 191,
@@ -13,12 +13,32 @@
 "2026-11-10": 171,
 "2026-11-11": 197,
 "2026-11-12": 185,
-"2026-11-13": 19
+"2026-11-13": 23
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAhJoSuxbcObwXuZCOqSbY1sFcgb9qQ",
+"snapshot": "AAAhJzoaaAGLOpA9sDUs/K2ectDWIkZa",
 "playlist": [
+[
+"2026-11-13T07:56|One True Pairing|Be Strong",
+"spotify:track:2wdLugV4zmXr8DOZPVn9mr"
+],
+[
+"2026-11-13T07:49|White Town|Your Woman",
+"spotify:track:2RngoxYPxGYfjdumNRrZAa"
+],
+[
+"2026-11-13T07:46|Keren Ann|My Name Is Trouble",
+"spotify:track:5o5w6VHcA2LMrwQ15ish3V"
+],
+[
+"2026-11-13T07:13|EELS|Congratulations To Me",
+"spotify:track:0PsZbSqZk6s6bEw5Ff3xrS"
+],
+[
+"2026-11-13T06:57|Suki Waterhouse|My Fun",
+"spotify:track:306xT15GTuDs3NyopIANrh"
+],
 [
 "2026-11-13T06:51|Sylvan Esso|Right to Left",
 "spotify:track:78xiuouD9dMXKXGKdDnjqB"
@@ -3697,6 +3717,60 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-11-13T07:56|One True Pairing|Be Strong",
+"t": "2026-11-13T07:56:00+01:00",
+"artist": "One True Pairing",
+"title": "Be Strong"
+},
+{
+"id": "2026-11-13T07:49|White Town|Your Woman",
+"t": "2026-11-13T07:49:00+01:00",
+"artist": "White Town",
+"title": "Your Woman"
+},
+{
+"id": "2026-11-13T07:46|Keren Ann|My Name Is Trouble",
+"t": "2026-11-13T07:46:00+01:00",
+"artist": "Keren Ann",
+"title": "My Name Is Trouble"
+},
+{
+"id": "2026-11-13T07:41|2raumwohnung|Lass die Pferde frei (Radio Edit)",
+"t": "2026-11-13T07:41:00+01:00",
+"artist": "2raumwohnung",
+"title": "Lass die Pferde frei (Radio Edit)"
+},
+{
+"id": "2026-11-13T07:32|Cage The Elephant|Skin And Bones (2020 Mix)",
+"t": "2026-11-13T07:32:00+01:00",
+"artist": "Cage The Elephant",
+"title": "Skin And Bones (2020 Mix)"
+},
+{
+"id": "2026-11-13T07:25|Die Ärzte|Dinge von Denen",
+"t": "2026-11-13T07:25:00+01:00",
+"artist": "Die Ärzte",
+"title": "Dinge von Denen"
+},
+{
+"id": "2026-11-13T07:16|Christine And The Queens|Je disparais dans tes bras",
+"t": "2026-11-13T07:16:00+01:00",
+"artist": "Christine And The Queens",
+"title": "Je disparais dans tes bras"
+},
+{
+"id": "2026-11-13T07:13|EELS|Congratulations To Me",
+"t": "2026-11-13T07:13:00+01:00",
+"artist": "EELS",
+"title": "Congratulations To Me"
+},
+{
+"id": "2026-11-13T07:06|The Black Keys|Gold On The Ceiling",
+"t": "2026-11-13T07:06:00+01:00",
+"artist": "The Black Keys",
+"title": "Gold On The Ceiling"
+},
 {
 "id": "2026-11-13T06:57|Suki Waterhouse|My Fun",
 "t": "2026-11-13T06:57:00+01:00",
@@ -9096,66 +9170,6 @@
 "t": "2026-11-06T08:16:00+01:00",
 "artist": "Moonlight Breakfast",
 "title": "If Not Now, Then When?!"
-},
-{
-"id": "2026-11-06T08:07|Kate Moth|Overnight Sensation",
-"t": "2026-11-06T08:07:00+01:00",
-"artist": "Kate Moth",
-"title": "Overnight Sensation"
-},
-{
-"id": "2026-11-06T07:56|Mr. Scruff|Get A Move On",
-"t": "2026-11-06T07:56:00+01:00",
-"artist": "Mr. Scruff",
-"title": "Get A Move On"
-},
-{
-"id": "2026-11-06T07:51|Obongjayar|Sweet Danger",
-"t": "2026-11-06T07:51:00+01:00",
-"artist": "Obongjayar",
-"title": "Sweet Danger"
-},
-{
-"id": "2026-11-06T07:44|The Big Moon|F.O.R.E.V.E.R",
-"t": "2026-11-06T07:44:00+01:00",
-"artist": "The Big Moon",
-"title": "F.O.R.E.V.E.R"
-},
-{
-"id": "2026-11-06T07:35|Jamiroquai|(Don't) Give Hate A Chance",
-"t": "2026-11-06T07:35:00+01:00",
-"artist": "Jamiroquai",
-"title": "(Don't) Give Hate A Chance"
-},
-{
-"id": "2026-11-06T07:27|Peter Doherty feat. Aime Simone|Serenity",
-"t": "2026-11-06T07:27:00+01:00",
-"artist": "Peter Doherty feat. Aime Simone",
-"title": "Serenity"
-},
-{
-"id": "2026-11-06T07:24|Wolf Alice|Freazy",
-"t": "2026-11-06T07:24:00+01:00",
-"artist": "Wolf Alice",
-"title": "Freazy"
-},
-{
-"id": "2026-11-06T07:15|Get Well Soon|Siri, What Ruined The West ?",
-"t": "2026-11-06T07:15:00+01:00",
-"artist": "Get Well Soon",
-"title": "Siri, What Ruined The West ?"
-},
-{
-"id": "2026-11-06T07:10|New Radicals|You Get What You Give",
-"t": "2026-11-06T07:10:00+01:00",
-"artist": "New Radicals",
-"title": "You Get What You Give"
-},
-{
-"id": "2026-11-06T07:06|Uche Yara|Yesterday I Was In London",
-"t": "2026-11-06T07:06:00+01:00",
-"artist": "Uche Yara",
-"title": "Yesterday I Was In London"
 }
 ]
 }
