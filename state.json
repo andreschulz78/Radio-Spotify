@@ -1,9 +1,9 @@
 {
-"updated": "2026-11-13T19:27:10.447652+01:00",
+"updated": "2026-11-13T19:39:10.448019+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
-"synced": "2026-11-13T19:03:10.446881+01:00",
+"synced": "2026-11-13T19:31:10.447776+01:00",
 "pruned": "2026-11-13",
 "calls": {
 "2026-11-06": 191,
@@ -13,11 +13,11 @@
 "2026-11-10": 171,
 "2026-11-11": 197,
 "2026-11-12": 185,
-"2026-11-13": 112
+"2026-11-13": 113
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAhRh6hQQDJS7VuJ/R5x6r8jJ0N/7x6",
+"snapshot": "AAAhR0bqSS3syJeGzKWvDLTRkXr/gN16",
 "playlist": [
 [
 "2026-11-13T18:56|Sofie Royer|Cowboy Mouth",
@@ -3570,10 +3570,6 @@
 [
 "2026-11-06T19:36|Bryan Ferry|The Way You Look Tonight",
 "spotify:track:7rgH7KKKu8Qh2klK15jUQh"
-],
-[
-"2026-11-06T19:31|Panthéon Rococó|Vendedora de caricias",
-"spotify:track:4jikVslCvDrDysc3p4tFHM"
 ],
 [
 "2026-11-06T19:07|The Gap Band|Shake",
@@ -9410,24 +9406,6 @@
 "t": "2026-11-06T19:45:00+01:00",
 "artist": "Michael Franks",
 "title": "Dont Be Blue"
-},
-{
-"id": "2026-11-06T19:39|The Doors|Alabama Song (Moon of Alabama)",
-"t": "2026-11-06T19:39:00+01:00",
-"artist": "The Doors",
-"title": "Alabama Song (Moon of Alabama)"
-},
-{
-"id": "2026-11-06T19:36|Bryan Ferry|The Way You Look Tonight",
-"t": "2026-11-06T19:36:00+01:00",
-"artist": "Bryan Ferry",
-"title": "The Way You Look Tonight"
-},
-{
-"id": "2026-11-06T19:31|Panthéon Rococó|Vendedora de caricias",
-"t": "2026-11-06T19:31:00+01:00",
-"artist": "Panthéon Rococó",
-"title": "Vendedora de caricias"
 }
 ]
 }
