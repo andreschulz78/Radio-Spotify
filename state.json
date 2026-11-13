@@ -1,9 +1,9 @@
 {
-"updated": "2026-11-13T21:39:10.451823+01:00",
+"updated": "2026-11-13T21:51:10.452199+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
-"synced": "2026-11-13T21:27:10.451453+01:00",
+"synced": "2026-11-13T21:43:10.451999+01:00",
 "pruned": "2026-11-13",
 "calls": {
 "2026-11-06": 191,
@@ -13,12 +13,20 @@
 "2026-11-10": 171,
 "2026-11-11": 197,
 "2026-11-12": 185,
-"2026-11-13": 122
+"2026-11-13": 125
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAhSlpAe6T10TOLNaJSXaJvVg07yVKQ",
+"snapshot": "AAAhS8vSVXy+dZkcdPAgsGFUz1qF2M0x",
 "playlist": [
+[
+"2026-11-13T21:36|U2|La Reina",
+"spotify:track:528r4bbVUkSKtigDGy9iKc"
+],
+[
+"2026-11-13T21:27|Radie Peat|Still I Love Him",
+"spotify:track:1PbuDuVr1YqxVTk3jv4LTl"
+],
 [
 "2026-11-13T21:18|Radie Peat|The Moon and Stars",
 "spotify:track:67qT6DRDhXPi0Wy6V9niiX"
@@ -4029,6 +4037,18 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-11-13T21:46|U2|The Greatest Show On Earth",
+"t": "2026-11-13T21:46:00+01:00",
+"artist": "U2",
+"title": "The Greatest Show On Earth"
+},
+{
+"id": "2026-11-13T21:36|U2|La Reina",
+"t": "2026-11-13T21:36:00+01:00",
+"artist": "U2",
+"title": "La Reina"
+},
 {
 "id": "2026-11-13T21:27|Radie Peat|Still I Love Him",
 "t": "2026-11-13T21:27:00+01:00",
@@ -9374,18 +9394,6 @@
 "t": "2026-11-06T21:55:00+01:00",
 "artist": "Shygirl",
 "title": "Eternal"
-},
-{
-"id": "2026-11-06T21:51|Django Django|Feel Alright",
-"t": "2026-11-06T21:51:00+01:00",
-"artist": "Django Django",
-"title": "Feel Alright"
-},
-{
-"id": "2026-11-06T21:42|Django Django|Still Life",
-"t": "2026-11-06T21:42:00+01:00",
-"artist": "Django Django",
-"title": "Still Life"
 }
 ]
 }
