@@ -1,9 +1,9 @@
 {
-"updated": "2026-11-13T23:06:43.951527+01:00",
+"updated": "2026-11-13T23:18:43.951856+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
-"synced": "2026-11-13T22:54:43.951157+01:00",
+"synced": "2026-11-13T23:10:43.951644+01:00",
 "pruned": "2026-11-13",
 "calls": {
 "2026-11-06": 191,
@@ -13,12 +13,16 @@
 "2026-11-10": 171,
 "2026-11-11": 197,
 "2026-11-12": 185,
-"2026-11-13": 137
+"2026-11-13": 139
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAhTnMLWoK5+20f/yeHChRM/0wKfs1J",
+"snapshot": "AAAhULc5FFz4UrkJ32XacWQCIme8f5Q8",
 "playlist": [
+[
+"2026-11-13T22:52|Harald Blüchel|Gleichmut",
+"spotify:track:0TBBuZoxj693Pe4nKJvBRm"
+],
 [
 "2026-11-13T22:43|Harald Blüchel|Traeume 19, II",
 "spotify:track:6RDpZj50wHY7yUxW1Lhsmc"
@@ -30,6 +34,10 @@
 [
 "2026-11-13T22:24|Los Bitchos|Walk in Salem",
 "spotify:track:7L7h6N4isNkga450qoG00M"
+],
+[
+"2026-11-13T22:17|Kit Sebastian; Los Bitchos|El Pence",
+"spotify:track:1QixKAGsc6mUicD8gDiorm"
 ],
 [
 "2026-11-13T22:10|Los Bitchos; Adrian Quesada; Sinkane|Hang Up Pt2",
