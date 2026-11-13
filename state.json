@@ -1,9 +1,9 @@
 {
-"updated": "2026-11-13T16:51:10.442617+01:00",
+"updated": "2026-11-13T17:03:10.442998+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
-"synced": "2026-11-13T16:39:10.442200+01:00",
+"synced": "2026-11-13T16:55:10.442743+01:00",
 "pruned": "2026-11-13",
 "calls": {
 "2026-11-06": 191,
@@ -13,12 +13,20 @@
 "2026-11-10": 171,
 "2026-11-11": 197,
 "2026-11-12": 185,
-"2026-11-13": 100
+"2026-11-13": 105
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAhPlXh66//ONmqYg2Y1iMf9cg/CFXx",
+"snapshot": "AAAhQmvByNd9uPNlBOVMFvMrjV6YV0KH",
 "playlist": [
+[
+"2026-11-13T16:51|Friedberg|Goodwife",
+"spotify:track:1H89j9NLse1E0Kmjb3tzW6"
+],
+[
+"2026-11-13T16:45|Erobique feat. Luis Baltes|Salut Les Copines! (Single Edit)",
+"spotify:track:7jLBzj4MQ9BULdgjXqxZOW"
+],
 [
 "2026-11-13T16:32|Grizzly Bear|Mourning Sound",
 "spotify:track:18RnM1YySlG8IWK0ivr2a3"
@@ -36,12 +44,36 @@
 "spotify:track:1u8wrxIC4Vo3OYI1Rbb5hN"
 ],
 [
+"2026-11-13T16:10|Sofi Tukker|Drinkee",
+"spotify:track:109fFvGEW1Zbdf6EpkJ1sB"
+],
+[
 "2026-11-13T16:05|Balu Brigada|Backseat (Edit)",
 "spotify:track:7yT4NJt5rgmVoMJMGPULcj"
 ],
 [
 "2026-11-13T15:56|Nichtseattle|Ich mit Brille",
 "spotify:track:1C0Lpji3kKe7rZie1LC4bx"
+],
+[
+"2026-11-13T15:53|Camélia Jordana|Jusqu'au bout des cils",
+"spotify:track:6XPFC5Ty4xXy1tnCyRYMhn"
+],
+[
+"2026-11-13T15:47|The Who|Won't Get Fooled Again",
+"spotify:track:5NwNaEjmxnfemHLrcvXUcx"
+],
+[
+"2026-11-13T15:36|Hell feat. Bryan Ferry|U Can Dance",
+"spotify:track:0uCMJxlDw2qtI55CT2pCGy"
+],
+[
+"2026-11-13T15:33|Kelis & André 3000|Millionaire",
+"spotify:track:5dAauIxGC3TyZRGIsOwWDu"
+],
+[
+"2026-11-13T15:26|Trio|Da da da, ich lieb dich nicht, du liebst mich nicht, aha aha",
+"spotify:track:4FwXcFOcjhPz9s0ukLUtaH"
 ],
 [
 "2026-11-13T15:23|Jordan Rakei|Enemies",
@@ -54,6 +86,10 @@
 [
 "2026-11-13T15:05|Orbital feat. Penelope Isles|Are You Alive?",
 "spotify:track:2uJbLXWgxBEgkUtz2Ie07l"
+],
+[
+"2026-11-13T14:55|Massive Attack|Teardrop (Edit)",
+"spotify:track:6Tw6hwUBKYo0AyVQdXNyn2"
 ],
 [
 "2026-11-13T14:52|Ibeyi|Hurry Hurry",
@@ -3973,6 +4009,18 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-11-13T16:51|Friedberg|Goodwife",
+"t": "2026-11-13T16:51:00+01:00",
+"artist": "Friedberg",
+"title": "Goodwife"
+},
+{
+"id": "2026-11-13T16:48|Feist|Sea Lion Woman",
+"t": "2026-11-13T16:48:00+01:00",
+"artist": "Feist",
+"title": "Sea Lion Woman"
+},
 {
 "id": "2026-11-13T16:45|Erobique feat. Luis Baltes|Salut Les Copines! (Single Edit)",
 "t": "2026-11-13T16:45:00+01:00",
@@ -9372,12 +9420,6 @@
 "t": "2026-11-06T17:59:00+01:00",
 "artist": "Jean-Michel Jarre",
 "title": "Oxygene 4 (Edit ohne Intro)"
-},
-{
-"id": "2026-11-06T16:56|Depeche Mode|Dream On",
-"t": "2026-11-06T16:56:00+01:00",
-"artist": "Depeche Mode",
-"title": "Dream On"
 }
 ]
 }
