@@ -1,9 +1,9 @@
 {
-"updated": "2026-11-13T08:21:26.266837+01:00",
+"updated": "2026-11-13T08:33:26.267186+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
-"synced": "2026-11-13T08:09:26.266586+01:00",
+"synced": "2026-11-13T08:25:26.266949+01:00",
 "pruned": "2026-11-13",
 "calls": {
 "2026-11-06": 191,
@@ -13,12 +13,24 @@
 "2026-11-10": 171,
 "2026-11-11": 197,
 "2026-11-12": 185,
-"2026-11-13": 28
+"2026-11-13": 32
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAhJzoaaAGLOpA9sDUs/K2ectDWIkZa",
+"snapshot": "AAAhKoyM2qorMdt5NiunDSBBhLlF34us",
 "playlist": [
+[
+"2026-11-13T08:19|Betterov|So High",
+"spotify:track:41OWIoC6urTg3IVlZL1gSJ"
+],
+[
+"2026-11-13T08:15|Get Well Soon|Siri, What Ruined The West ?",
+"spotify:track:3XY1xxFHeGHDDt33V6GoE2"
+],
+[
+"2026-11-13T08:06|Supershy feat. Roberta Flack|Feel Like Makin' Love",
+"spotify:track:1cFZIDLjGngrmH6lnyprOA"
+],
 [
 "2026-11-13T07:56|One True Pairing|Be Strong",
 "spotify:track:2wdLugV4zmXr8DOZPVn9mr"
@@ -32,8 +44,28 @@
 "spotify:track:5o5w6VHcA2LMrwQ15ish3V"
 ],
 [
+"2026-11-13T07:41|2raumwohnung|Lass die Pferde frei (Radio Edit)",
+"spotify:track:6iKF2dQJNLjEAvNjIYAreO"
+],
+[
+"2026-11-13T07:32|Cage The Elephant|Skin And Bones (2020 Mix)",
+"spotify:track:6ubPFMzlIg73d1jzzWcC8B"
+],
+[
+"2026-11-13T07:25|Die Ärzte|Dinge von Denen",
+"spotify:track:4NsGB4BSVYFxs0jNXBM3Xw"
+],
+[
+"2026-11-13T07:16|Christine And The Queens|Je disparais dans tes bras",
+"spotify:track:2P96XdauZc5DlJFtlFT9Rt"
+],
+[
 "2026-11-13T07:13|EELS|Congratulations To Me",
 "spotify:track:0PsZbSqZk6s6bEw5Ff3xrS"
+],
+[
+"2026-11-13T07:06|The Black Keys|Gold On The Ceiling",
+"spotify:track:5lN1EH25gdiqT1SFALMAq1"
 ],
 [
 "2026-11-13T06:57|Suki Waterhouse|My Fun",
@@ -3717,6 +3749,18 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-11-13T08:26|Dream Boat|Real!",
+"t": "2026-11-13T08:26:00+01:00",
+"artist": "Dream Boat",
+"title": "Real!"
+},
+{
+"id": "2026-11-13T08:19|Betterov|So High",
+"t": "2026-11-13T08:19:00+01:00",
+"artist": "Betterov",
+"title": "So High"
+},
 {
 "id": "2026-11-13T08:15|Get Well Soon|Siri, What Ruined The West ?",
 "t": "2026-11-13T08:15:00+01:00",
@@ -9164,12 +9208,6 @@
 "t": "2026-11-06T08:35:00+01:00",
 "artist": "Rachel Chinouriri",
 "title": "It Is What It Is"
-},
-{
-"id": "2026-11-06T08:28|Kings Of Leon|KOYSAR",
-"t": "2026-11-06T08:28:00+01:00",
-"artist": "Kings Of Leon",
-"title": "KOYSAR"
 }
 ]
 }
