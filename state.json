@@ -1,9 +1,9 @@
 {
-"updated": "2026-11-13T22:03:10.452647+01:00",
+"updated": "2026-11-13T22:15:10.453015+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
-"synced": "2026-11-13T21:59:10.452483+01:00",
+"synced": "2026-11-13T22:15:10.453015+01:00",
 "pruned": "2026-11-13",
 "calls": {
 "2026-11-06": 191,
@@ -13,12 +13,24 @@
 "2026-11-10": 171,
 "2026-11-11": 197,
 "2026-11-12": 185,
-"2026-11-13": 127
+"2026-11-13": 131
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAhTDtwcrTp5NmYF5LAAE7Y2kTguZbq",
+"snapshot": "AAAhTa5BeZ3AbRxI+jpagt1jrB0jmdWF",
 "playlist": [
+[
+"2026-11-13T22:10|Los Bitchos; Adrian Quesada; Sinkane|Hang Up Pt2",
+"spotify:track:6rv94zY6aBygtbk1XpeTu7"
+],
+[
+"2026-11-13T22:04|Alex Miksch|Hundsviech",
+"spotify:track:6796UFrTwrPVWoW6QbGE0a"
+],
+[
+"2026-11-13T21:55|U2|Torn (feat. Dolly Parton)",
+"spotify:track:1fAgQxNa31NtikQz7L91Rr"
+],
 [
 "2026-11-13T21:46|U2|The Greatest Show On Earth",
 "spotify:track:1nuMwM4FenyuzMbcmx6Lxk"
@@ -4041,6 +4053,18 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-11-13T22:10|Los Bitchos; Adrian Quesada; Sinkane|Hang Up Pt2",
+"t": "2026-11-13T22:10:00+01:00",
+"artist": "Los Bitchos; Adrian Quesada; Sinkane",
+"title": "Hang Up Pt2"
+},
+{
+"id": "2026-11-13T22:04|Alex Miksch|Hundsviech",
+"t": "2026-11-13T22:04:00+01:00",
+"artist": "Alex Miksch",
+"title": "Hundsviech"
+},
 {
 "id": "2026-11-13T21:55|U2|Torn (feat. Dolly Parton)",
 "t": "2026-11-13T21:55:00+01:00",
@@ -9386,12 +9410,6 @@
 "t": "2026-11-06T22:20:00+01:00",
 "artist": "Kings Of Leon",
 "title": "The Hand"
-},
-{
-"id": "2026-11-06T22:09|Kings Of Leon|My Whole World",
-"t": "2026-11-06T22:09:00+01:00",
-"artist": "Kings Of Leon",
-"title": "My Whole World"
 }
 ]
 }
