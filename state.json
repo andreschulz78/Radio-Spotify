@@ -1,9 +1,9 @@
 {
-"updated": "2026-11-13T06:17:40.453102+01:00",
+"updated": "2026-11-13T06:29:40.453465+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
-"synced": "2026-11-13T06:09:40.452852+01:00",
+"synced": "2026-11-13T06:25:40.453355+01:00",
 "pruned": "2026-11-13",
 "calls": {
 "2026-11-06": 191,
@@ -13,12 +13,24 @@
 "2026-11-10": 171,
 "2026-11-11": 197,
 "2026-11-12": 185,
-"2026-11-13": 11
+"2026-11-13": 13
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAhIjHi/1DWyFlRZ/IORZGywzW5n4A6",
+"snapshot": "AAAhIxHsWLdSwpWSeTwBhmdQfq2eMN3l",
 "playlist": [
+[
+"2026-11-13T06:16|Matt Berninger|Bonnet Of Pins (Radio-Edit)",
+"spotify:track:0hLFRJetaM0qj09lyyJ9a5"
+],
+[
+"2026-11-13T06:12|Tikhet|Burndowner",
+"spotify:track:76iRkapw7dHIlJhSoy7PCv"
+],
+[
+"2026-11-13T06:05|Fatboy Slim|That Old Pair Of Jeans",
+"spotify:track:5N029v40KAz0YFBiSp3U94"
+],
 [
 "2026-11-13T05:56|Florence + The Machine|Buckle",
 "spotify:track:2Ea5Qh9ijEt8og1ZNBgqhR"
@@ -3669,6 +3681,12 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-11-13T06:16|Matt Berninger|Bonnet Of Pins (Radio-Edit)",
+"t": "2026-11-13T06:16:00+01:00",
+"artist": "Matt Berninger",
+"title": "Bonnet Of Pins (Radio-Edit)"
+},
 {
 "id": "2026-11-13T06:12|Tikhet|Burndowner",
 "t": "2026-11-13T06:12:00+01:00",
@@ -9116,18 +9134,6 @@
 "t": "2026-11-06T06:34:00+01:00",
 "artist": "Jim Noir",
 "title": "Eanie Meany (Fat Boy Slim Remix)"
-},
-{
-"id": "2026-11-06T06:26|Housemartins, The|Sheep",
-"t": "2026-11-06T06:26:00+01:00",
-"artist": "Housemartins, The",
-"title": "Sheep"
-},
-{
-"id": "2026-11-06T06:18|Automatic|Shadowplay",
-"t": "2026-11-06T06:18:00+01:00",
-"artist": "Automatic",
-"title": "Shadowplay"
 }
 ]
 }
