@@ -1,5 +1,5 @@
 {
-"updated": "2026-11-13T11:21:26.272190+01:00",
+"updated": "2026-11-13T11:33:26.272513+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
@@ -9326,18 +9326,6 @@
 "t": "2026-11-06T11:42:00+01:00",
 "artist": "Angus & Julia Stone",
 "title": "Karaoke Bar"
-},
-{
-"id": "2026-11-06T11:31|Erobique & Jacques Palminger|Discoroller",
-"t": "2026-11-06T11:31:00+01:00",
-"artist": "Erobique & Jacques Palminger",
-"title": "Discoroller"
-},
-{
-"id": "2026-11-06T11:27|The Style Council|Shout To The Top!",
-"t": "2026-11-06T11:27:00+01:00",
-"artist": "The Style Council",
-"title": "Shout To The Top!"
 }
 ]
 }
