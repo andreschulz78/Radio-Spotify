@@ -1,5 +1,5 @@
 {
-"updated": "2026-11-13T09:45:26.269403+01:00",
+"updated": "2026-11-13T09:57:26.269779+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
@@ -13,7 +13,7 @@
 "2026-11-10": 171,
 "2026-11-11": 197,
 "2026-11-12": 185,
-"2026-11-13": 46
+"2026-11-13": 48
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
@@ -3797,6 +3797,24 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-11-13T09:51|J.Bernardt|Love Is On My Mind",
+"t": "2026-11-13T09:51:00+01:00",
+"artist": "J.Bernardt",
+"title": "Love Is On My Mind"
+},
+{
+"id": "2026-11-13T09:47|Loyle Carner|About Time",
+"t": "2026-11-13T09:47:00+01:00",
+"artist": "Loyle Carner",
+"title": "About Time"
+},
+{
+"id": "2026-11-13T09:43|Sirens Of Lesbos|Pala",
+"t": "2026-11-13T09:43:00+01:00",
+"artist": "Sirens Of Lesbos",
+"title": "Pala"
+},
 {
 "id": "2026-11-13T09:37|The Smashing Pumpkins|Disarm",
 "t": "2026-11-13T09:37:00+01:00",
@@ -9238,24 +9256,6 @@
 "t": "2026-11-06T10:09:00+01:00",
 "artist": "Phantogram",
 "title": "Earthshaker"
-},
-{
-"id": "2026-11-06T09:57|The Electric Soft Parade|Lose Yr. Frown",
-"t": "2026-11-06T09:57:00+01:00",
-"artist": "The Electric Soft Parade",
-"title": "Lose Yr. Frown"
-},
-{
-"id": "2026-11-06T09:52|Gena feat. Liv.e, Karriem Riggins|Circlesz",
-"t": "2026-11-06T09:52:00+01:00",
-"artist": "Gena feat. Liv.e, Karriem Riggins",
-"title": "Circlesz"
-},
-{
-"id": "2026-11-06T09:47|TLC|Waterfalls",
-"t": "2026-11-06T09:47:00+01:00",
-"artist": "TLC",
-"title": "Waterfalls"
 }
 ]
 }
