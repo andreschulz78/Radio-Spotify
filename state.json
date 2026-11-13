@@ -1,9 +1,9 @@
 {
-"updated": "2026-11-13T17:03:10.442998+01:00",
+"updated": "2026-11-13T17:15:10.443335+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
-"synced": "2026-11-13T16:55:10.442743+01:00",
+"synced": "2026-11-13T17:11:10.443230+01:00",
 "pruned": "2026-11-13",
 "calls": {
 "2026-11-06": 191,
@@ -13,12 +13,16 @@
 "2026-11-10": 171,
 "2026-11-11": 197,
 "2026-11-12": 185,
-"2026-11-13": 105
+"2026-11-13": 106
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAhQmvByNd9uPNlBOVMFvMrjV6YV0KH",
+"snapshot": "AAAhQ8NNjRqX1HYkuuoWrbGcQTM+HFmB",
 "playlist": [
+[
+"2026-11-13T16:58|Leon Bridges|Talk it over",
+"spotify:track:5Bdn8RyTqz4dV7F07EFBP5"
+],
 [
 "2026-11-13T16:51|Friedberg|Goodwife",
 "spotify:track:1H89j9NLse1E0Kmjb3tzW6"
@@ -4009,6 +4013,12 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-11-13T16:58|Leon Bridges|Talk it over",
+"t": "2026-11-13T16:58:00+01:00",
+"artist": "Leon Bridges",
+"title": "Talk it over"
+},
 {
 "id": "2026-11-13T16:51|Friedberg|Goodwife",
 "t": "2026-11-13T16:51:00+01:00",
