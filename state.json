@@ -1,9 +1,9 @@
 {
-"updated": "2026-11-13T10:57:26.271555+01:00",
+"updated": "2026-11-13T11:09:26.271857+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
-"synced": "2026-11-13T10:49:26.271318+01:00",
+"synced": "2026-11-13T11:05:26.271767+01:00",
 "pruned": "2026-11-13",
 "calls": {
 "2026-11-06": 191,
@@ -13,12 +13,28 @@
 "2026-11-10": 171,
 "2026-11-11": 197,
 "2026-11-12": 185,
-"2026-11-13": 61
+"2026-11-13": 62
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAhM6a9oy0pwyjqKBtY9A1VuqDcP3kV",
+"snapshot": "AAAhNBXz4/KLuWxer+JOxUkQslIF7AMU",
 "playlist": [
+[
+"2026-11-13T10:56|Ex:Re|Radio Station",
+"spotify:track:2ixKxWKW6ejtIVr5gm00K7"
+],
+[
+"2026-11-13T10:52|Dahi feat. Kendrick Lamar & Amber Mark|How To Pray",
+"spotify:track:5M8eNQ6wLYPT9D60hbcxVU"
+],
+[
+"2026-11-13T10:49|Allah-Las|Catamaran",
+"spotify:track:4H0KLsPpr5atperrHGfz3x"
+],
+[
+"2026-11-13T10:44|Röyksopp|Poor Leno",
+"spotify:track:2xVfwAqxDUMOXIxeinYE0u"
+],
 [
 "2026-11-13T10:35|Lola Young|Big Brown Eyes",
 "spotify:track:2eQotZtrNHzi38qge7CGXE"
@@ -3837,6 +3853,12 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-11-13T10:56|Ex:Re|Radio Station",
+"t": "2026-11-13T10:56:00+01:00",
+"artist": "Ex:Re",
+"title": "Radio Station"
+},
 {
 "id": "2026-11-13T10:52|Dahi feat. Kendrick Lamar & Amber Mark|How To Pray",
 "t": "2026-11-13T10:52:00+01:00",
@@ -9302,18 +9324,6 @@
 "t": "2026-11-06T11:17:00+01:00",
 "artist": "Grinderman",
 "title": "Palaces Of Montezuma"
-},
-{
-"id": "2026-11-06T11:07|Viagra Boys|Uno II",
-"t": "2026-11-06T11:07:00+01:00",
-"artist": "Viagra Boys",
-"title": "Uno II"
-},
-{
-"id": "2026-11-06T10:58|Odd Beholder|Insecurities",
-"t": "2026-11-06T10:58:00+01:00",
-"artist": "Odd Beholder",
-"title": "Insecurities"
 }
 ]
 }
