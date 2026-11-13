@@ -1,5 +1,5 @@
 {
-"updated": "2026-11-13T10:33:26.270802+01:00",
+"updated": "2026-11-13T10:45:26.271198+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
@@ -13,7 +13,7 @@
 "2026-11-10": 171,
 "2026-11-11": 197,
 "2026-11-12": 185,
-"2026-11-13": 56
+"2026-11-13": 58
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
@@ -3829,6 +3829,18 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-11-13T10:35|Lola Young|Big Brown Eyes",
+"t": "2026-11-13T10:35:00+01:00",
+"artist": "Lola Young",
+"title": "Big Brown Eyes"
+},
+{
+"id": "2026-11-13T10:30|Death Cab For Cutie|Riptides",
+"t": "2026-11-13T10:30:00+01:00",
+"artist": "Death Cab For Cutie",
+"title": "Riptides"
+},
 {
 "id": "2026-11-13T10:25|Grace Cummings|I'm Not Crazy",
 "t": "2026-11-13T10:25:00+01:00",
@@ -9282,12 +9294,6 @@
 "t": "2026-11-06T10:50:00+01:00",
 "artist": "Die Lassie Singers",
 "title": "Hamburg"
-},
-{
-"id": "2026-11-06T10:41|Black Marble|Jim Carol New Year",
-"t": "2026-11-06T10:41:00+01:00",
-"artist": "Black Marble",
-"title": "Jim Carol New Year"
 }
 ]
 }
