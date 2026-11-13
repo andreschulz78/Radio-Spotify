@@ -1,9 +1,9 @@
 {
-"updated": "2026-11-13T12:45:26.274344+01:00",
+"updated": "2026-11-13T12:57:26.274664+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
-"synced": "2026-11-13T12:41:26.274252+01:00",
+"synced": "2026-11-13T12:57:26.274664+01:00",
 "pruned": "2026-11-13",
 "calls": {
 "2026-11-06": 191,
@@ -13,12 +13,24 @@
 "2026-11-10": 171,
 "2026-11-11": 197,
 "2026-11-12": 185,
-"2026-11-13": 78
+"2026-11-13": 81
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAhOogaHFH6K5BKR7pqBgk/jrN7O6AK",
+"snapshot": "AAAhO3EBZ3/0b7/z0FrttBiGwP5KASC9",
 "playlist": [
+[
+"2026-11-13T12:50|Sparkling & COMA|It Won't Be Like This Forever",
+"spotify:track:1w6NksiUfe5WNa5wZAJXYO"
+],
+[
+"2026-11-13T12:43|Der Assistent|Neue Lunge",
+"spotify:track:23UCUmIvckoyodJ6BgrRZl"
+],
+[
+"2026-11-13T12:38|Wallners|Dracula",
+"spotify:track:5fDDkYPH5n7tXt7bVkQkay"
+],
 [
 "2026-11-13T12:31|Franz Ferdinand|This Fffire",
 "spotify:track:3Obu3jvFSfgLF3pSbi64Vj"
@@ -3901,6 +3913,12 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-11-13T12:50|Sparkling & COMA|It Won't Be Like This Forever",
+"t": "2026-11-13T12:50:00+01:00",
+"artist": "Sparkling & COMA",
+"title": "It Won't Be Like This Forever"
+},
 {
 "id": "2026-11-13T12:43|Der Assistent|Neue Lunge",
 "t": "2026-11-13T12:43:00+01:00",
@@ -9360,24 +9378,6 @@
 "t": "2026-11-06T13:04:00+01:00",
 "artist": "Nihils",
 "title": "Lavender"
-},
-{
-"id": "2026-11-06T12:55|Benjamin Clementine|In Fact You Know You Gotto Go",
-"t": "2026-11-06T12:55:00+01:00",
-"artist": "Benjamin Clementine",
-"title": "In Fact You Know You Gotto Go"
-},
-{
-"id": "2026-11-06T12:49|The Beatles|Sgt Pepper's Lonely Hearts Club Band",
-"t": "2026-11-06T12:49:00+01:00",
-"artist": "The Beatles",
-"title": "Sgt Pepper's Lonely Hearts Club Band"
-},
-{
-"id": "2026-11-06T12:46|Loaded Honey|Don't Speak",
-"t": "2026-11-06T12:46:00+01:00",
-"artist": "Loaded Honey",
-"title": "Don't Speak"
 }
 ]
 }
