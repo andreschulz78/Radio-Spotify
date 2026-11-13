@@ -1,9 +1,9 @@
 {
-"updated": "2026-11-13T19:51:10.448392+01:00",
+"updated": "2026-11-13T20:03:10.448736+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
-"synced": "2026-11-13T19:31:10.447776+01:00",
+"synced": "2026-11-13T20:03:10.448736+01:00",
 "pruned": "2026-11-13",
 "calls": {
 "2026-11-06": 191,
@@ -13,12 +13,16 @@
 "2026-11-10": 171,
 "2026-11-11": 197,
 "2026-11-12": 185,
-"2026-11-13": 113
+"2026-11-13": 115
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAhR0bqSS3syJeGzKWvDLTRkXr/gN16",
+"snapshot": "AAAhSL5UR5KeTqtNzWhq5weiUlDQCenH",
 "playlist": [
+[
+"2026-11-13T19:58|Pamela.|Better than Before",
+"spotify:track:30ewsn0jSF9Jme7Altrz9X"
+],
 [
 "2026-11-13T18:56|Sofie Royer|Cowboy Mouth",
 "spotify:track:7qgYR8fHsHyyS5WKvA9srS"
@@ -4013,6 +4017,12 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-11-13T19:58|Pamela.|Better than Before",
+"t": "2026-11-13T19:58:00+01:00",
+"artist": "Pamela.",
+"title": "Better than Before"
+},
 {
 "id": "2026-11-13T18:56|Sofie Royer|Cowboy Mouth",
 "t": "2026-11-13T18:56:00+01:00",
@@ -9394,12 +9404,6 @@
 "t": "2026-11-06T20:06:00+01:00",
 "artist": "Loden in NY",
 "title": "The Magic Room (Dino Lenny Remix)"
-},
-{
-"id": "2026-11-06T19:57|Pink Martini|Hey Eugene",
-"t": "2026-11-06T19:57:00+01:00",
-"artist": "Pink Martini",
-"title": "Hey Eugene"
 }
 ]
 }
