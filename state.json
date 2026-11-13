@@ -1,9 +1,9 @@
 {
-"updated": "2026-11-13T10:09:26.270105+01:00",
+"updated": "2026-11-13T10:21:26.270473+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
-"synced": "2026-11-13T10:01:26.269881+01:00",
+"synced": "2026-11-13T10:17:26.270352+01:00",
 "pruned": "2026-11-13",
 "calls": {
 "2026-11-06": 191,
@@ -13,12 +13,20 @@
 "2026-11-10": 171,
 "2026-11-11": 197,
 "2026-11-12": 185,
-"2026-11-13": 50
+"2026-11-13": 54
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAhMBsEl7JlZSEYYoatqI29fSUjCji3",
+"snapshot": "AAAhMQYSG0lHg8QEcK8bbFOyJnSjwJ+G",
 "playlist": [
+[
+"2026-11-13T10:12|Slowdive|Sugar For The Pill",
+"spotify:track:4jP4NBLn6gPDiyRNuFogE7"
+],
+[
+"2026-11-13T10:06|Thus Love|In Tandem",
+"spotify:track:5AfzXDe1ySB7J8QrtjMJef"
+],
 [
 "2026-11-13T09:57|Mumford & Sons|Alleycat",
 "spotify:track:3MtVQlX0ZSPqs7d1Tn0g4m"
@@ -3813,6 +3821,18 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-11-13T10:12|Slowdive|Sugar For The Pill",
+"t": "2026-11-13T10:12:00+01:00",
+"artist": "Slowdive",
+"title": "Sugar For The Pill"
+},
+{
+"id": "2026-11-13T10:06|Thus Love|In Tandem",
+"t": "2026-11-13T10:06:00+01:00",
+"artist": "Thus Love",
+"title": "In Tandem"
+},
 {
 "id": "2026-11-13T09:57|Mumford & Sons|Alleycat",
 "t": "2026-11-13T09:57:00+01:00",
@@ -9260,18 +9280,6 @@
 "t": "2026-11-06T10:25:00+01:00",
 "artist": "Stereo MC's",
 "title": "Connected"
-},
-{
-"id": "2026-11-06T10:21|Cari Cari|My Grandma Says We Have No Future",
-"t": "2026-11-06T10:21:00+01:00",
-"artist": "Cari Cari",
-"title": "My Grandma Says We Have No Future"
-},
-{
-"id": "2026-11-06T10:16|The Beatles|When I'm Sixty Four",
-"t": "2026-11-06T10:16:00+01:00",
-"artist": "The Beatles",
-"title": "When I'm Sixty Four"
 }
 ]
 }
