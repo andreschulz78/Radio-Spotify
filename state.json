@@ -1,9 +1,9 @@
 {
-"updated": "2026-11-13T18:51:10.446508+01:00",
+"updated": "2026-11-13T19:03:10.446881+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
-"synced": "2026-11-13T18:15:10.445268+01:00",
+"synced": "2026-11-13T19:03:10.446881+01:00",
 "pruned": "2026-11-13",
 "calls": {
 "2026-11-06": 191,
@@ -13,12 +13,16 @@
 "2026-11-10": 171,
 "2026-11-11": 197,
 "2026-11-12": 185,
-"2026-11-13": 110
+"2026-11-13": 112
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAhRXvjUOg+1WQoTwQDm3z+Ru1TIsO1",
+"snapshot": "AAAhRh6hQQDJS7VuJ/R5x6r8jJ0N/7x6",
 "playlist": [
+[
+"2026-11-13T18:56|Sofie Royer|Cowboy Mouth",
+"spotify:track:7qgYR8fHsHyyS5WKvA9srS"
+],
 [
 "2026-11-13T17:57|Michael Kiwanuka|You Ain't The Problem",
 "spotify:track:0QDe6nlExlt3AM1NHTh4nn"
@@ -4013,6 +4017,12 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-11-13T18:56|Sofie Royer|Cowboy Mouth",
+"t": "2026-11-13T18:56:00+01:00",
+"artist": "Sofie Royer",
+"title": "Cowboy Mouth"
+},
 {
 "id": "2026-11-13T17:57|Michael Kiwanuka|You Ain't The Problem",
 "t": "2026-11-13T17:57:00+01:00",
@@ -9424,12 +9434,6 @@
 "t": "2026-11-06T19:07:00+01:00",
 "artist": "The Gap Band",
 "title": "Shake"
-},
-{
-"id": "2026-11-06T18:56|Wallners|Movie Stars",
-"t": "2026-11-06T18:56:00+01:00",
-"artist": "Wallners",
-"title": "Movie Stars"
 }
 ]
 }
