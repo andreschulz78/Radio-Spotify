@@ -1,9 +1,9 @@
 {
-"updated": "2026-11-14T14:32:20.507074+01:00",
+"updated": "2026-11-14T14:44:20.507426+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
-"synced": "2026-11-14T14:28:20.506963+01:00",
+"synced": "2026-11-14T14:44:20.507426+01:00",
 "pruned": "2026-11-14",
 "calls": {
 "2026-11-07": 127,
@@ -13,12 +13,20 @@
 "2026-11-11": 197,
 "2026-11-12": 185,
 "2026-11-13": 149,
-"2026-11-14": 64
+"2026-11-14": 67
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAheMsD86ky2kuE8EABCyd7kZ8KB+sm",
+"snapshot": "AAAheWUdw+BkSrYMlCgh0eed6x6HbhEv",
 "playlist": [
+[
+"2026-11-14T14:32|Die Ärzte|Rock'n'Roll-Übermensch",
+"spotify:track:7DdlPvJ4xtnlPLG80CWo9K"
+],
+[
+"2026-11-14T14:28|Kasper Bjørke|Deep Is The Breath",
+"spotify:track:121FPmHmpxtS3TUsECQ597"
+],
 [
 "2026-11-14T14:22|Arctic Monkeys|Opening Night",
 "spotify:track:7HXzuAd8UNJj2yCAS0NWbB"
@@ -3693,6 +3701,18 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-11-14T14:32|Die Ärzte|Rock'n'Roll-Übermensch",
+"t": "2026-11-14T14:32:00+01:00",
+"artist": "Die Ärzte",
+"title": "Rock'n'Roll-Übermensch"
+},
+{
+"id": "2026-11-14T14:28|Kasper Bjørke|Deep Is The Breath",
+"t": "2026-11-14T14:28:00+01:00",
+"artist": "Kasper Bjørke",
+"title": "Deep Is The Breath"
+},
 {
 "id": "2026-11-14T14:22|Arctic Monkeys|Opening Night",
 "t": "2026-11-14T14:22:00+01:00",
