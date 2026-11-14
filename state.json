@@ -1,9 +1,9 @@
 {
-"updated": "2026-11-14T21:25:57.498408+01:00",
+"updated": "2026-11-14T21:37:57.498729+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
-"synced": "2026-11-14T21:21:57.498299+01:00",
+"synced": "2026-11-14T21:37:57.498729+01:00",
 "pruned": "2026-11-14",
 "calls": {
 "2026-11-07": 127,
@@ -13,12 +13,20 @@
 "2026-11-11": 197,
 "2026-11-12": 185,
 "2026-11-13": 149,
-"2026-11-14": 114
+"2026-11-14": 116
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAhh04lZ3U1jbIVZQreJMx/rv2cmH52",
+"snapshot": "AAAhiE/GtycIm9hSaIc/SqlngoiaX9BW",
 "playlist": [
+[
+"2026-11-14T21:25|Gurriers|Nobody's Coming To Save You",
+"spotify:track:0difWBwYseFbbXTAj6TyOi"
+],
+[
+"2026-11-14T21:18|Tom A. Smith|Carry That Weight",
+"spotify:track:3YEPzlXlnuKlDDJSdUXQRQ"
+],
 [
 "2026-11-14T21:11|Dead Poet Society|Hollywood On Fire",
 "spotify:track:6Fx93FeykhviDh2kF0kY4r"
@@ -3865,6 +3873,12 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-11-14T21:25|Gurriers|Nobody's Coming To Save You",
+"t": "2026-11-14T21:25:00+01:00",
+"artist": "Gurriers",
+"title": "Nobody's Coming To Save You"
+},
 {
 "id": "2026-11-14T21:18|Tom A. Smith|Carry That Weight",
 "t": "2026-11-14T21:18:00+01:00",
@@ -9348,12 +9362,6 @@
 "t": "2026-11-07T21:40:00+01:00",
 "artist": "The Church",
 "title": "Martian Skyline"
-},
-{
-"id": "2026-11-07T21:30|Tyler Bates, HEALTH|Outer Dark",
-"t": "2026-11-07T21:30:00+01:00",
-"artist": "Tyler Bates, HEALTH",
-"title": "Outer Dark"
 }
 ]
 }
