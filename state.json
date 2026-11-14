@@ -1,9 +1,9 @@
 {
-"updated": "2026-11-14T15:56:20.509402+01:00",
+"updated": "2026-11-14T17:01:57.490971+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
-"synced": "2026-11-14T15:48:20.509204+01:00",
+"synced": "2026-11-14T17:01:57.490971+01:00",
 "pruned": "2026-11-14",
 "calls": {
 "2026-11-07": 127,
@@ -13,12 +13,60 @@
 "2026-11-11": 197,
 "2026-11-12": 185,
 "2026-11-13": 149,
-"2026-11-14": 82
+"2026-11-14": 86
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAhffm47A/maet34rO8fVJ37owxcJqa",
+"snapshot": "AAAhfgxa3IOs3sbRuZHppupLmYTUw1pA",
 "playlist": [
+[
+"2026-11-14T16:57|JGrrey feat. Bel Cobain|Take My Hand",
+"spotify:track:0i4SCqKHjbBrPjUX4RPRq3"
+],
+[
+"2026-11-14T16:51|Peter Licht|Sonnendeck (Ekimas & Proppe RMX)",
+"spotify:track:75jSpwHDakoTAR9oZwU2mI"
+],
+[
+"2026-11-14T16:48|Genesis Owusu|Human Again",
+"spotify:track:3uP7jqdt4haiuL4acLhrDY"
+],
+[
+"2026-11-14T16:44|The Notwist|Chemicals",
+"spotify:track:3lfSuipjoEEnFaiHZ4ISLd"
+],
+[
+"2026-11-14T16:38|Villagers|A Trick Of The Light",
+"spotify:track:1rCPg5GOtes0FIo1BzgvUi"
+],
+[
+"2026-11-14T16:31|Erika De Casier|Delusional",
+"spotify:track:6M5Y8sn5cXePK58bH1WKon"
+],
+[
+"2026-11-14T16:22|Moonlight Breakfast|If Not Now, Then When?!",
+"spotify:track:7rqjXsHITwfxR5XoKIGsaJ"
+],
+[
+"2026-11-14T16:19|Ásgeir|Against The Current",
+"spotify:track:5udQbIlHLaD6QRDJmv0bjX"
+],
+[
+"2026-11-14T16:14|José González|A Perfect Storm",
+"spotify:track:1Db5Rcb2ij0kOl1nVInx01"
+],
+[
+"2026-11-14T16:08|Keshavara|Moondram Sevi",
+"spotify:track:0jpeIdUkge4S8dMS0nkZ6r"
+],
+[
+"2026-11-14T15:49|Hot Chip|Random Violence (Radio Edit)",
+"spotify:track:0T3vTM8KUAwGMukdAhNVj2"
+],
+[
+"2026-11-14T15:46|Kirsty MacColl|In These Shoes",
+"spotify:track:79IQjJH4Spjw5lwdFiVpSu"
+],
 [
 "2026-11-14T15:42|Voodoo Jürgens|guade stubn",
 "spotify:track:7536ELrcg84cZvqM81RACo"
@@ -3749,6 +3797,90 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-11-14T16:57|JGrrey feat. Bel Cobain|Take My Hand",
+"t": "2026-11-14T16:57:00+01:00",
+"artist": "JGrrey feat. Bel Cobain",
+"title": "Take My Hand"
+},
+{
+"id": "2026-11-14T16:51|Peter Licht|Sonnendeck (Ekimas & Proppe RMX)",
+"t": "2026-11-14T16:51:00+01:00",
+"artist": "Peter Licht",
+"title": "Sonnendeck (Ekimas & Proppe RMX)"
+},
+{
+"id": "2026-11-14T16:48|Genesis Owusu|Human Again",
+"t": "2026-11-14T16:48:00+01:00",
+"artist": "Genesis Owusu",
+"title": "Human Again"
+},
+{
+"id": "2026-11-14T16:44|The Notwist|Chemicals",
+"t": "2026-11-14T16:44:00+01:00",
+"artist": "The Notwist",
+"title": "Chemicals"
+},
+{
+"id": "2026-11-14T16:38|Villagers|A Trick Of The Light",
+"t": "2026-11-14T16:38:00+01:00",
+"artist": "Villagers",
+"title": "A Trick Of The Light"
+},
+{
+"id": "2026-11-14T16:34|Leyya|Sometimes You're Lonely",
+"t": "2026-11-14T16:34:00+01:00",
+"artist": "Leyya",
+"title": "Sometimes You're Lonely"
+},
+{
+"id": "2026-11-14T16:31|Erika De Casier|Delusional",
+"t": "2026-11-14T16:31:00+01:00",
+"artist": "Erika De Casier",
+"title": "Delusional"
+},
+{
+"id": "2026-11-14T16:27|Happy Mondays|Loose Fit",
+"t": "2026-11-14T16:27:00+01:00",
+"artist": "Happy Mondays",
+"title": "Loose Fit"
+},
+{
+"id": "2026-11-14T16:22|Moonlight Breakfast|If Not Now, Then When?!",
+"t": "2026-11-14T16:22:00+01:00",
+"artist": "Moonlight Breakfast",
+"title": "If Not Now, Then When?!"
+},
+{
+"id": "2026-11-14T16:19|Ásgeir|Against The Current",
+"t": "2026-11-14T16:19:00+01:00",
+"artist": "Ásgeir",
+"title": "Against The Current"
+},
+{
+"id": "2026-11-14T16:14|José González|A Perfect Storm",
+"t": "2026-11-14T16:14:00+01:00",
+"artist": "José González",
+"title": "A Perfect Storm"
+},
+{
+"id": "2026-11-14T16:08|Keshavara|Moondram Sevi",
+"t": "2026-11-14T16:08:00+01:00",
+"artist": "Keshavara",
+"title": "Moondram Sevi"
+},
+{
+"id": "2026-11-14T16:05|Ruti|Luh Luh Love",
+"t": "2026-11-14T16:05:00+01:00",
+"artist": "Ruti",
+"title": "Luh Luh Love"
+},
+{
+"id": "2026-11-14T15:55|Fujiya & Miyagi|Ankle Injuries",
+"t": "2026-11-14T15:55:00+01:00",
+"artist": "Fujiya & Miyagi",
+"title": "Ankle Injuries"
+},
 {
 "id": "2026-11-14T15:49|Hot Chip|Random Violence (Radio Edit)",
 "t": "2026-11-14T15:49:00+01:00",
