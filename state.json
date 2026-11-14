@@ -1,9 +1,9 @@
 {
-"updated": "2026-11-14T08:10:51.781312+01:00",
+"updated": "2026-11-14T08:22:51.781666+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
-"synced": "2026-11-14T07:58:51.781030+01:00",
+"synced": "2026-11-14T08:14:51.781441+01:00",
 "pruned": "2026-11-14",
 "calls": {
 "2026-11-07": 127,
@@ -13,12 +13,20 @@
 "2026-11-11": 197,
 "2026-11-12": 185,
 "2026-11-13": 149,
-"2026-11-14": 26
+"2026-11-14": 30
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAhZDYr/dq9HjaVXM4IBbPqWDzK88Wc",
+"snapshot": "AAAhZYITnA2wWAfwS27f2cLDGAFECi7l",
 "playlist": [
+[
+"2026-11-14T08:04|Billy Nomates|The Test",
+"spotify:track:5MCtwpg6FCHEM8gFb0erM1"
+],
+[
+"2026-11-14T07:57|Nia Archives|Vertical",
+"spotify:track:0ecQazzKkndVD8Ry9Orp9Q"
+],
 [
 "2026-11-14T07:50|The Dresden Dolls|Coin-Operated Boy",
 "spotify:track:2OcJNw7K8cYs4FKoh8aEow"
@@ -3633,6 +3641,18 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-11-14T08:16|DJ Shadow|Nobody Speak",
+"t": "2026-11-14T08:16:00+01:00",
+"artist": "DJ Shadow",
+"title": "Nobody Speak"
+},
+{
+"id": "2026-11-14T08:11|The Human League|Don't You Want Me",
+"t": "2026-11-14T08:11:00+01:00",
+"artist": "The Human League",
+"title": "Don't You Want Me"
+},
 {
 "id": "2026-11-14T08:04|Billy Nomates|The Test",
 "t": "2026-11-14T08:04:00+01:00",
@@ -8966,24 +8986,6 @@
 "t": "2026-11-07T08:26:00+01:00",
 "artist": "Boy & Bear",
 "title": "Tripping Over Time"
-},
-{
-"id": "2026-11-07T08:20|Ayele|Fractured (Radio Edit)",
-"t": "2026-11-07T08:20:00+01:00",
-"artist": "Ayele",
-"title": "Fractured (Radio Edit)"
-},
-{
-"id": "2026-11-07T08:17|Overmono feat. Ruthven|Gem Lingo (ovr now)",
-"t": "2026-11-07T08:17:00+01:00",
-"artist": "Overmono feat. Ruthven",
-"title": "Gem Lingo (ovr now)"
-},
-{
-"id": "2026-11-07T08:12|Doechii|Anxiety",
-"t": "2026-11-07T08:12:00+01:00",
-"artist": "Doechii",
-"title": "Anxiety"
 }
 ]
 }
