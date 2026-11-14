@@ -1,9 +1,9 @@
 {
-"updated": "2026-11-14T17:25:57.491672+01:00",
+"updated": "2026-11-14T17:37:57.492020+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
-"synced": "2026-11-14T17:17:57.491420+01:00",
+"synced": "2026-11-14T17:33:57.491892+01:00",
 "pruned": "2026-11-14",
 "calls": {
 "2026-11-07": 127,
@@ -13,12 +13,24 @@
 "2026-11-11": 197,
 "2026-11-12": 185,
 "2026-11-13": 149,
-"2026-11-14": 99
+"2026-11-14": 102
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAhgjNviZYX9X8MXDkVieWMVRwf9+g+",
+"snapshot": "AAAhgyLDUHq7EdWYBD2hqnmJuUqo/xye",
 "playlist": [
+[
+"2026-11-14T17:26|Little Simz|Heart on fire",
+"spotify:track:5OJUTZS9QE2qem6FDsEnOM"
+],
+[
+"2026-11-14T17:22|The Art Of Noise|Moments In Love",
+"spotify:track:3ASjpwyvuIPvxHlqXt2r4K"
+],
+[
+"2026-11-14T17:18|Stoppok|Hoppla Hoppla",
+"spotify:track:32BUIBv62P4BZCTFEf49TI"
+],
 [
 "2026-11-14T17:09|Amilli|Warning Signs",
 "spotify:track:1Fj3PeeNmoLHaYLJcDTO5d"
@@ -3821,6 +3833,18 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-11-14T17:30|Cultured Pearls|Kissing The Sheets",
+"t": "2026-11-14T17:30:00+01:00",
+"artist": "Cultured Pearls",
+"title": "Kissing The Sheets"
+},
+{
+"id": "2026-11-14T17:26|Little Simz|Heart on fire",
+"t": "2026-11-14T17:26:00+01:00",
+"artist": "Little Simz",
+"title": "Heart on fire"
+},
 {
 "id": "2026-11-14T17:22|The Art Of Noise|Moments In Love",
 "t": "2026-11-14T17:22:00+01:00",
