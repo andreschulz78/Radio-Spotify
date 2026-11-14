@@ -1,9 +1,9 @@
 {
-"updated": "2026-11-14T18:01:57.492708+01:00",
+"updated": "2026-11-14T18:13:57.493044+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
-"synced": "2026-11-14T17:49:57.492378+01:00",
+"synced": "2026-11-14T18:05:57.492794+01:00",
 "pruned": "2026-11-14",
 "calls": {
 "2026-11-07": 127,
@@ -13,12 +13,24 @@
 "2026-11-11": 197,
 "2026-11-12": 185,
 "2026-11-13": 149,
-"2026-11-14": 106
+"2026-11-14": 108
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAhhDaQhEC641jpFLk4D9aknj1n7I2b",
+"snapshot": "AAAhhfIvbJtK+YwhCV5wXE18OlPaylV/",
 "playlist": [
+[
+"2026-11-14T17:51|Sigur Rós|Gobbledigook",
+"spotify:track:2xgexXNoOuBLzwaJLLDHR4"
+],
+[
+"2026-11-14T17:47|DJ Koze|Spiralen (Radio Edit)",
+"spotify:track:03ra0kWWPT8fW3sy6onMfc"
+],
+[
+"2026-11-14T17:44|Jake Bugg|When The Night",
+"spotify:track:08x17zjOci04K0yBWHy8ZP"
+],
 [
 "2026-11-14T17:38|NITSCH|Pupillen",
 "spotify:track:7BPAKaprpHUAe3eAuYYfYX"
