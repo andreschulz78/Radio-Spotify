@@ -1,5 +1,5 @@
 {
-"updated": "2026-11-14T14:44:20.507426+01:00",
+"updated": "2026-11-14T14:56:20.507766+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
@@ -13,7 +13,7 @@
 "2026-11-11": 197,
 "2026-11-12": 185,
 "2026-11-13": 149,
-"2026-11-14": 67
+"2026-11-14": 70
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
@@ -3701,6 +3701,24 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-11-14T14:51|Iron and Wine|Such Great Heights",
+"t": "2026-11-14T14:51:00+01:00",
+"artist": "Iron and Wine",
+"title": "Such Great Heights"
+},
+{
+"id": "2026-11-14T14:47|Inspiral Carpets|Bitches Brew",
+"t": "2026-11-14T14:47:00+01:00",
+"artist": "Inspiral Carpets",
+"title": "Bitches Brew"
+},
+{
+"id": "2026-11-14T14:43|Aurora|All My Demons Greeting Me As A Friend",
+"t": "2026-11-14T14:43:00+01:00",
+"artist": "Aurora",
+"title": "All My Demons Greeting Me As A Friend"
+},
 {
 "id": "2026-11-14T14:32|Die Ärzte|Rock'n'Roll-Übermensch",
 "t": "2026-11-14T14:32:00+01:00",
