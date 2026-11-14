@@ -1,9 +1,9 @@
 {
-"updated": "2026-11-14T09:58:51.783870+01:00",
+"updated": "2026-11-14T10:10:51.784147+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
-"synced": "2026-11-14T09:38:51.783355+01:00",
+"synced": "2026-11-14T10:02:51.783970+01:00",
 "pruned": "2026-11-14",
 "calls": {
 "2026-11-07": 127,
@@ -13,12 +13,16 @@
 "2026-11-11": 197,
 "2026-11-12": 185,
 "2026-11-13": 149,
-"2026-11-14": 38
+"2026-11-14": 39
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAhaTL3fqYRAvnFQ8nssBqC1Z3IvkXJ",
+"snapshot": "AAAhatRE3EEoULIEz6Jk9AQ8TlylxdQK",
 "playlist": [
+[
+"2026-11-14T09:57|Leon Bridges|Talk it over",
+"spotify:track:5Bdn8RyTqz4dV7F07EFBP5"
+],
 [
 "2026-11-14T08:56|Marlon Magnee|People Are Afraid",
 "spotify:track:4ARZSaY13oxocIbvHBKoLi"
@@ -3677,6 +3681,12 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-11-14T09:57|Leon Bridges|Talk it over",
+"t": "2026-11-14T09:57:00+01:00",
+"artist": "Leon Bridges",
+"title": "Talk it over"
+},
 {
 "id": "2026-11-14T08:56|Marlon Magnee|People Are Afraid",
 "t": "2026-11-14T08:56:00+01:00",
@@ -8974,18 +8984,6 @@
 "t": "2026-11-07T10:19:00+01:00",
 "artist": "The Flaming Lips",
 "title": "What Is The Light"
-},
-{
-"id": "2026-11-07T10:08|Jürgen Paape|Mit Dir",
-"t": "2026-11-07T10:08:00+01:00",
-"artist": "Jürgen Paape",
-"title": "Mit Dir"
-},
-{
-"id": "2026-11-07T10:05|Gerry Read feat. Gregor|Taking All My Clothes Off",
-"t": "2026-11-07T10:05:00+01:00",
-"artist": "Gerry Read feat. Gregor",
-"title": "Taking All My Clothes Off"
 }
 ]
 }
