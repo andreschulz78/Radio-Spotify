@@ -1,5 +1,5 @@
 {
-"updated": "2026-11-14T11:20:20.502107+01:00",
+"updated": "2026-11-14T11:32:20.502425+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
@@ -8908,24 +8908,6 @@
 "t": "2026-11-07T11:34:00+01:00",
 "artist": "The Chap",
 "title": "We Work In Bars"
-},
-{
-"id": "2026-11-07T11:31|Pachyman|Toyota nuevo",
-"t": "2026-11-07T11:31:00+01:00",
-"artist": "Pachyman",
-"title": "Toyota nuevo"
-},
-{
-"id": "2026-11-07T11:26|Boy Harsher|Tough Luck (When You Don't Call)",
-"t": "2026-11-07T11:26:00+01:00",
-"artist": "Boy Harsher",
-"title": "Tough Luck (When You Don't Call)"
-},
-{
-"id": "2026-11-07T11:24|Joshua Idehen|Could Be Forever",
-"t": "2026-11-07T11:24:00+01:00",
-"artist": "Joshua Idehen",
-"title": "Could Be Forever"
 }
 ]
 }
