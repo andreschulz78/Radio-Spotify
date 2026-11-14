@@ -1,9 +1,9 @@
 {
-"updated": "2026-11-14T21:01:57.497715+01:00",
+"updated": "2026-11-14T21:13:57.498056+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
-"synced": "2026-11-14T18:05:57.492794+01:00",
+"synced": "2026-11-14T21:05:57.497829+01:00",
 "pruned": "2026-11-14",
 "calls": {
 "2026-11-07": 127,
@@ -13,12 +13,16 @@
 "2026-11-11": 197,
 "2026-11-12": 185,
 "2026-11-13": 149,
-"2026-11-14": 108
+"2026-11-14": 111
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAhhfIvbJtK+YwhCV5wXE18OlPaylV/",
+"snapshot": "AAAhhqrW6A8gy+6l7VvxNH6Z3RZWhzPZ",
 "playlist": [
+[
+"2026-11-14T21:03|Everclear|AM Radio - Remastered 2004",
+"spotify:track:03gsb1WnVQUuLqChBvzmoo"
+],
 [
 "2026-11-14T17:51|Sigur Rós|Gobbledigook",
 "spotify:track:2xgexXNoOuBLzwaJLLDHR4"
@@ -3857,6 +3861,12 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-11-14T21:03|Everclear|AM Radio - Remastered 2004",
+"t": "2026-11-14T21:03:00+01:00",
+"artist": "Everclear",
+"title": "AM Radio - Remastered 2004"
+},
 {
 "id": "2026-11-14T17:51|Sigur Rós|Gobbledigook",
 "t": "2026-11-14T17:51:00+01:00",
@@ -9334,18 +9344,6 @@
 "t": "2026-11-07T21:22:00+01:00",
 "artist": "Liars",
 "title": "Ice Pick, Kalamazoo"
-},
-{
-"id": "2026-11-07T21:13|Imperial Teen|All Over You",
-"t": "2026-11-07T21:13:00+01:00",
-"artist": "Imperial Teen",
-"title": "All Over You"
-},
-{
-"id": "2026-11-07T21:03|The Velvet Underground|I'm Waiting For The Man",
-"t": "2026-11-07T21:03:00+01:00",
-"artist": "The Velvet Underground",
-"title": "I'm Waiting For The Man"
 }
 ]
 }
