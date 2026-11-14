@@ -1,9 +1,9 @@
 {
-"updated": "2026-11-14T17:37:57.492020+01:00",
+"updated": "2026-11-14T17:49:57.492378+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
-"synced": "2026-11-14T17:33:57.491892+01:00",
+"synced": "2026-11-14T17:49:57.492378+01:00",
 "pruned": "2026-11-14",
 "calls": {
 "2026-11-07": 127,
@@ -13,12 +13,24 @@
 "2026-11-11": 197,
 "2026-11-12": 185,
 "2026-11-13": 149,
-"2026-11-14": 102
+"2026-11-14": 104
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAhgyLDUHq7EdWYBD2hqnmJuUqo/xye",
+"snapshot": "AAAhhDaQhEC641jpFLk4D9aknj1n7I2b",
 "playlist": [
+[
+"2026-11-14T17:38|NITSCH|Pupillen",
+"spotify:track:7BPAKaprpHUAe3eAuYYfYX"
+],
+[
+"2026-11-14T17:34|Boards Of Canada|Prophecy At 1420 MHz (Edit)",
+"spotify:track:4gYaI1S9Qug6B96E2HwxeN"
+],
+[
+"2026-11-14T17:30|Cultured Pearls|Kissing The Sheets",
+"spotify:track:4SSFMfKiZqRcZUHYER000X"
+],
 [
 "2026-11-14T17:26|Little Simz|Heart on fire",
 "spotify:track:5OJUTZS9QE2qem6FDsEnOM"
@@ -3833,6 +3845,18 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-11-14T17:38|NITSCH|Pupillen",
+"t": "2026-11-14T17:38:00+01:00",
+"artist": "NITSCH",
+"title": "Pupillen"
+},
+{
+"id": "2026-11-14T17:34|Boards Of Canada|Prophecy At 1420 MHz (Edit)",
+"t": "2026-11-14T17:34:00+01:00",
+"artist": "Boards Of Canada",
+"title": "Prophecy At 1420 MHz (Edit)"
+},
 {
 "id": "2026-11-14T17:30|Cultured Pearls|Kissing The Sheets",
 "t": "2026-11-14T17:30:00+01:00",
