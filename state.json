@@ -1,9 +1,9 @@
 {
-"updated": "2026-11-14T17:13:57.491311+01:00",
+"updated": "2026-11-14T17:25:57.491672+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
-"synced": "2026-11-14T17:01:57.490971+01:00",
+"synced": "2026-11-14T17:17:57.491420+01:00",
 "pruned": "2026-11-14",
 "calls": {
 "2026-11-07": 127,
@@ -13,12 +13,20 @@
 "2026-11-11": 197,
 "2026-11-12": 185,
 "2026-11-13": 149,
-"2026-11-14": 92
+"2026-11-14": 99
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAhfgxa3IOs3sbRuZHppupLmYTUw1pA",
+"snapshot": "AAAhgjNviZYX9X8MXDkVieWMVRwf9+g+",
 "playlist": [
+[
+"2026-11-14T17:09|Amilli|Warning Signs",
+"spotify:track:1Fj3PeeNmoLHaYLJcDTO5d"
+],
+[
+"2026-11-14T17:05|Harry Dean Lewis feat. Joe Traxler|Fizz",
+"spotify:track:6Z1z8g21WwLmm936bVBiN1"
+],
 [
 "2026-11-14T16:57|JGrrey feat. Bel Cobain|Take My Hand",
 "spotify:track:0i4SCqKHjbBrPjUX4RPRq3"
@@ -40,8 +48,16 @@
 "spotify:track:1rCPg5GOtes0FIo1BzgvUi"
 ],
 [
+"2026-11-14T16:34|Leyya|Sometimes You're Lonely",
+"spotify:track:4HsNsGkrYU83sIK57jvxfD"
+],
+[
 "2026-11-14T16:31|Erika De Casier|Delusional",
 "spotify:track:6M5Y8sn5cXePK58bH1WKon"
+],
+[
+"2026-11-14T16:27|Happy Mondays|Loose Fit",
+"spotify:track:4kZw8EhifauYd0cceW4oxY"
 ],
 [
 "2026-11-14T16:22|Moonlight Breakfast|If Not Now, Then When?!",
@@ -58,6 +74,14 @@
 [
 "2026-11-14T16:08|Keshavara|Moondram Sevi",
 "spotify:track:0jpeIdUkge4S8dMS0nkZ6r"
+],
+[
+"2026-11-14T16:05|Ruti|Luh Luh Love",
+"spotify:track:2GrcwGYt4V1yP7Yjx32udG"
+],
+[
+"2026-11-14T15:55|Fujiya & Miyagi|Ankle Injuries",
+"spotify:track:4FnRRY3oEAor3gMEvsuBrp"
 ],
 [
 "2026-11-14T15:49|Hot Chip|Random Violence (Radio Edit)",
@@ -3797,6 +3821,24 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-11-14T17:22|The Art Of Noise|Moments In Love",
+"t": "2026-11-14T17:22:00+01:00",
+"artist": "The Art Of Noise",
+"title": "Moments In Love"
+},
+{
+"id": "2026-11-14T17:18|Stoppok|Hoppla Hoppla",
+"t": "2026-11-14T17:18:00+01:00",
+"artist": "Stoppok",
+"title": "Hoppla Hoppla"
+},
+{
+"id": "2026-11-14T17:09|Amilli|Warning Signs",
+"t": "2026-11-14T17:09:00+01:00",
+"artist": "Amilli",
+"title": "Warning Signs"
+},
 {
 "id": "2026-11-14T17:05|Harry Dean Lewis feat. Joe Traxler|Fizz",
 "t": "2026-11-14T17:05:00+01:00",
