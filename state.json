@@ -1,9 +1,9 @@
 {
-"updated": "2026-11-14T22:13:57.499778+01:00",
+"updated": "2026-11-14T22:25:57.500100+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
-"synced": "2026-11-14T22:09:57.499659+01:00",
+"synced": "2026-11-14T22:25:57.500100+01:00",
 "pruned": "2026-11-14",
 "calls": {
 "2026-11-07": 127,
@@ -13,12 +13,20 @@
 "2026-11-11": 197,
 "2026-11-12": 185,
 "2026-11-13": 149,
-"2026-11-14": 125
+"2026-11-14": 128
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAhijkZuRQuCmj7rK3GKCHjUmH0SiLk",
+"snapshot": "AAAhiyPjVNofX3OO52C/20q8T1IEDM2b",
 "playlist": [
+[
+"2026-11-14T22:20|Phantogram, Aaron Hibell|You Don't Get Me High Anymore - Aaron Hibell Remix",
+"spotify:track:1eCLiXnYSuv7N8rQYcTIw0"
+],
+[
+"2026-11-14T22:08|Mareux|The Perfect Girl",
+"spotify:track:5RBOcBpJXaNnHCGViJmYhh"
+],
 [
 "2026-11-14T22:03|Amelie Lens|In Silence",
 "spotify:track:72olEiCRdGntdjSUAADxer"
@@ -3893,6 +3901,18 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-11-14T22:20|Phantogram, Aaron Hibell|You Don't Get Me High Anymore - Aaron Hibell Remix",
+"t": "2026-11-14T22:20:00+01:00",
+"artist": "Phantogram, Aaron Hibell",
+"title": "You Don't Get Me High Anymore - Aaron Hibell Remix"
+},
+{
+"id": "2026-11-14T22:08|Mareux|The Perfect Girl",
+"t": "2026-11-14T22:08:00+01:00",
+"artist": "Mareux",
+"title": "The Perfect Girl"
+},
 {
 "id": "2026-11-14T22:03|Amelie Lens|In Silence",
 "t": "2026-11-14T22:03:00+01:00",
@@ -9376,12 +9396,6 @@
 "t": "2026-11-07T22:28:00+01:00",
 "artist": "Hot Chip",
 "title": "Random violence"
-},
-{
-"id": "2026-11-07T22:18|Modeselektor, KABEAUSHÉ|IWUDLYK",
-"t": "2026-11-07T22:18:00+01:00",
-"artist": "Modeselektor, KABEAUSHÉ",
-"title": "IWUDLYK"
 }
 ]
 }
