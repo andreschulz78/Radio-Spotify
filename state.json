@@ -1,9 +1,9 @@
 {
-"updated": "2026-11-14T06:46:51.779213+01:00",
+"updated": "2026-11-14T06:58:51.779474+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
-"synced": "2026-11-14T06:38:51.779030+01:00",
+"synced": "2026-11-14T06:54:51.779389+01:00",
 "pruned": "2026-11-14",
 "calls": {
 "2026-11-07": 127,
@@ -13,12 +13,20 @@
 "2026-11-11": 197,
 "2026-11-12": 185,
 "2026-11-13": 149,
-"2026-11-14": 8
+"2026-11-14": 11
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAhXNbHqShRNNSah18jIC8P9obtE0Ad",
+"snapshot": "AAAhXS2ktHVpDnjz45q6/1pt1o8Tc9hO",
 "playlist": [
+[
+"2026-11-14T06:45|Zero 7|In The Waiting Line",
+"spotify:track:5jKknZdlp7YM3LrPfKoErN"
+],
+[
+"2026-11-14T06:36|54 Ultra|Tell Me",
+"spotify:track:6iXIvHGsLMJ89TuW1S9E3C"
+],
 [
 "2026-11-14T06:32|Methyl Ethel|Scream Whole",
 "spotify:track:4pyYNLVSzkJzTd66tP7Taz"
@@ -3581,6 +3589,24 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-11-14T06:52|Suzanne Vega|When Heroes Go Down",
+"t": "2026-11-14T06:52:00+01:00",
+"artist": "Suzanne Vega",
+"title": "When Heroes Go Down"
+},
+{
+"id": "2026-11-14T06:49|The Avalanches feat. Karen O|Blue Shadows",
+"t": "2026-11-14T06:49:00+01:00",
+"artist": "The Avalanches feat. Karen O",
+"title": "Blue Shadows"
+},
+{
+"id": "2026-11-14T06:45|Zero 7|In The Waiting Line",
+"t": "2026-11-14T06:45:00+01:00",
+"artist": "Zero 7",
+"title": "In The Waiting Line"
+},
 {
 "id": "2026-11-14T06:36|54 Ultra|Tell Me",
 "t": "2026-11-14T06:36:00+01:00",
@@ -8920,24 +8946,6 @@
 "t": "2026-11-07T07:04:00+01:00",
 "artist": "CECI feat. Lords of Lounge",
 "title": "Honey Honey"
-},
-{
-"id": "2026-11-07T06:58|Hot Butter|Popcorn",
-"t": "2026-11-07T06:58:00+01:00",
-"artist": "Hot Butter",
-"title": "Popcorn"
-},
-{
-"id": "2026-11-07T06:55|Ex:Re|Radio Station",
-"t": "2026-11-07T06:55:00+01:00",
-"artist": "Ex:Re",
-"title": "Radio Station"
-},
-{
-"id": "2026-11-07T06:50|Tomorrow's World|Drive",
-"t": "2026-11-07T06:50:00+01:00",
-"artist": "Tomorrow's World",
-"title": "Drive"
 }
 ]
 }
