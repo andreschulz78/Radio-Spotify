@@ -1,9 +1,9 @@
 {
-"updated": "2026-11-14T15:08:20.508078+01:00",
+"updated": "2026-11-14T15:20:20.508415+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
-"synced": "2026-11-14T15:00:20.507867+01:00",
+"synced": "2026-11-14T15:16:20.508307+01:00",
 "pruned": "2026-11-14",
 "calls": {
 "2026-11-07": 127,
@@ -13,12 +13,20 @@
 "2026-11-11": 197,
 "2026-11-12": 185,
 "2026-11-13": 149,
-"2026-11-14": 71
+"2026-11-14": 73
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAhejp0AYXDwN7wfZ1IhzuQFGqynZfs",
+"snapshot": "AAAhe2cJvmFskGc8AIuQF26n88uP0o/O",
 "playlist": [
+[
+"2026-11-14T15:09|Anika|Walk Away",
+"spotify:track:1ho4UhAtrDtziFysSO22wm"
+],
+[
+"2026-11-14T15:05|Smidley feat. Lucy Dacus|Capstone",
+"spotify:track:0YosJMrYxYQP7mLXfFo0p1"
+],
 [
 "2026-11-14T14:57|Kaktus Einarsson feat. John Grant|Follow",
 "spotify:track:0bbPqdrMN94XmIlBQS21B3"
@@ -3713,6 +3721,24 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-11-14T15:15|Hermanos Gutierrez|Sonido Cosmico",
+"t": "2026-11-14T15:15:00+01:00",
+"artist": "Hermanos Gutierrez",
+"title": "Sonido Cosmico"
+},
+{
+"id": "2026-11-14T15:09|Anika|Walk Away",
+"t": "2026-11-14T15:09:00+01:00",
+"artist": "Anika",
+"title": "Walk Away"
+},
+{
+"id": "2026-11-14T15:05|Smidley feat. Lucy Dacus|Capstone",
+"t": "2026-11-14T15:05:00+01:00",
+"artist": "Smidley feat. Lucy Dacus",
+"title": "Capstone"
+},
 {
 "id": "2026-11-14T14:57|Kaktus Einarsson feat. John Grant|Follow",
 "t": "2026-11-14T14:57:00+01:00",
