@@ -1,5 +1,5 @@
 {
-"updated": "2026-11-14T22:42:05.523455+01:00",
+"updated": "2026-11-14T22:54:05.523833+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
@@ -13,7 +13,7 @@
 "2026-11-11": 197,
 "2026-11-12": 185,
 "2026-11-13": 149,
-"2026-11-14": 130
+"2026-11-14": 131
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
@@ -3905,6 +3905,12 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-11-14T22:39|Sorry|Winner",
+"t": "2026-11-14T22:39:00+01:00",
+"artist": "Sorry",
+"title": "Winner"
+},
 {
 "id": "2026-11-14T22:30|Cristale|Quantum Loop",
 "t": "2026-11-14T22:30:00+01:00",
@@ -9376,24 +9382,6 @@
 "t": "2026-11-08T06:03:00+01:00",
 "artist": "Freedom Fry",
 "title": "She Fell In Love On The Dance Floor"
-},
-{
-"id": "2026-11-07T22:51|Fat Dog|Heart of Darkness",
-"t": "2026-11-07T22:51:00+01:00",
-"artist": "Fat Dog",
-"title": "Heart of Darkness"
-},
-{
-"id": "2026-11-07T22:46|Lemonheads|It's A Shame About Ray",
-"t": "2026-11-07T22:46:00+01:00",
-"artist": "Lemonheads",
-"title": "It's A Shame About Ray"
-},
-{
-"id": "2026-11-07T22:43|The Bevis Frond|My Drug Buddy",
-"t": "2026-11-07T22:43:00+01:00",
-"artist": "The Bevis Frond",
-"title": "My Drug Buddy"
 }
 ]
 }
