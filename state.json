@@ -1,9 +1,9 @@
 {
-"updated": "2026-11-14T11:56:20.503022+01:00",
+"updated": "2026-11-14T12:08:20.503325+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
-"synced": "2026-11-14T11:44:20.502702+01:00",
+"synced": "2026-11-14T12:00:20.503127+01:00",
 "pruned": "2026-11-14",
 "calls": {
 "2026-11-07": 127,
@@ -13,12 +13,16 @@
 "2026-11-11": 197,
 "2026-11-12": 185,
 "2026-11-13": 149,
-"2026-11-14": 44
+"2026-11-14": 46
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAhbkHEV3qPuFpqyDp7WOHE+HcIvsDr",
+"snapshot": "AAAhb0h+SbtFGGWf0zz6MrUyVreQygou",
 "playlist": [
+[
+"2026-11-14T11:55|Kenny Dope feat. Róisín Murphy|Born Under Punches (The Heat Goes On)",
+"spotify:track:2aXGl7VqgjULmAxJldWnNd"
+],
 [
 "2026-11-14T10:57|Tikhet|Almost Up In Space",
 "spotify:track:772TnPnZfWglFmfysHtAYZ"
@@ -3673,6 +3677,18 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-11-14T11:58|Deichkind|Fresh ist vorne",
+"t": "2026-11-14T11:58:00+01:00",
+"artist": "Deichkind",
+"title": "Fresh ist vorne"
+},
+{
+"id": "2026-11-14T11:55|Kenny Dope feat. Róisín Murphy|Born Under Punches (The Heat Goes On)",
+"t": "2026-11-14T11:55:00+01:00",
+"artist": "Kenny Dope feat. Róisín Murphy",
+"title": "Born Under Punches (The Heat Goes On)"
+},
 {
 "id": "2026-11-14T10:57|Tikhet|Almost Up In Space",
 "t": "2026-11-14T10:57:00+01:00",
