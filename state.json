@@ -1,9 +1,9 @@
 {
-"updated": "2026-11-14T11:08:20.501781+01:00",
+"updated": "2026-11-14T11:20:20.502107+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
-"synced": "2026-11-14T10:56:20.501482+01:00",
+"synced": "2026-11-14T11:12:20.501887+01:00",
 "pruned": "2026-11-14",
 "calls": {
 "2026-11-07": 127,
@@ -13,12 +13,16 @@
 "2026-11-11": 197,
 "2026-11-12": 185,
 "2026-11-13": 149,
-"2026-11-14": 41
+"2026-11-14": 42
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAhbC8EGbUg8qfW+IRipcR0CU93Tt8X",
+"snapshot": "AAAhbYUSwcB2B+yIibFr0214coEuBl0H",
 "playlist": [
+[
+"2026-11-14T10:57|Tikhet|Almost Up In Space",
+"spotify:track:772TnPnZfWglFmfysHtAYZ"
+],
 [
 "2026-11-14T09:57|Leon Bridges|Talk it over",
 "spotify:track:5Bdn8RyTqz4dV7F07EFBP5"
@@ -8922,18 +8926,6 @@
 "t": "2026-11-07T11:24:00+01:00",
 "artist": "Joshua Idehen",
 "title": "Could Be Forever"
-},
-{
-"id": "2026-11-07T11:18|The Stranglers|The Raven",
-"t": "2026-11-07T11:18:00+01:00",
-"artist": "The Stranglers",
-"title": "The Raven"
-},
-{
-"id": "2026-11-07T11:10|Alewya|Cairo FM",
-"t": "2026-11-07T11:10:00+01:00",
-"artist": "Alewya",
-"title": "Cairo FM"
 }
 ]
 }
