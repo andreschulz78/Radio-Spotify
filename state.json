@@ -1,9 +1,9 @@
 {
-"updated": "2026-11-14T10:20:20.500578+01:00",
+"updated": "2026-11-14T10:32:20.500909+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
-"synced": "2026-11-14T10:02:51.783970+01:00",
+"synced": "2026-11-14T10:32:20.500909+01:00",
 "pruned": "2026-11-14",
 "calls": {
 "2026-11-07": 127,
@@ -13,11 +13,11 @@
 "2026-11-11": 197,
 "2026-11-12": 185,
 "2026-11-13": 149,
-"2026-11-14": 39
+"2026-11-14": 40
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAhatRE3EEoULIEz6Jk9AQ8TlylxdQK",
+"snapshot": "AAAha8/7yPzLm6+5qQVeU+yJa9QsAA4D",
 "playlist": [
 [
 "2026-11-14T09:57|Leon Bridges|Talk it over",
@@ -3494,10 +3494,6 @@
 [
 "2026-11-07T10:36|Alessi Brothers|Seabird",
 "spotify:track:1iUpSRmgnbTRqU0Pb217qI"
-],
-[
-"2026-11-07T10:32|Miss Kittin & The Hacker|1000 Dreams",
-"spotify:track:1VNIzINc1CYjB6y6tI774j"
 ],
 [
 "2026-11-07T10:26|Yndling|Time Time Time (I'm in the Palm of Your Hand)",
@@ -8960,24 +8956,6 @@
 "t": "2026-11-07T10:36:00+01:00",
 "artist": "Alessi Brothers",
 "title": "Seabird"
-},
-{
-"id": "2026-11-07T10:32|Miss Kittin & The Hacker|1000 Dreams",
-"t": "2026-11-07T10:32:00+01:00",
-"artist": "Miss Kittin & The Hacker",
-"title": "1000 Dreams"
-},
-{
-"id": "2026-11-07T10:26|Yndling|Time Time Time (I'm in the Palm of Your Hand)",
-"t": "2026-11-07T10:26:00+01:00",
-"artist": "Yndling",
-"title": "Time Time Time (I'm in the Palm of Your Hand)"
-},
-{
-"id": "2026-11-07T10:23|Jungle|Someday, Somewhere",
-"t": "2026-11-07T10:23:00+01:00",
-"artist": "Jungle",
-"title": "Someday, Somewhere"
 }
 ]
 }
