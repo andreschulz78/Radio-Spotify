@@ -1,9 +1,9 @@
 {
-"updated": "2026-11-14T22:37:57.500417+01:00",
+"updated": "2026-11-14T22:42:05.523455+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
-"synced": "2026-11-14T22:25:57.500100+01:00",
+"synced": "2026-11-14T22:42:05.523455+01:00",
 "pruned": "2026-11-14",
 "calls": {
 "2026-11-07": 127,
@@ -13,12 +13,16 @@
 "2026-11-11": 197,
 "2026-11-12": 185,
 "2026-11-13": 149,
-"2026-11-14": 129
+"2026-11-14": 130
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAhiyPjVNofX3OO52C/20q8T1IEDM2b",
+"snapshot": "AAAhjCMlSIvdaQ+Rqrd8DdpIV1n3qugg",
 "playlist": [
+[
+"2026-11-14T22:30|Cristale|Quantum Loop",
+"spotify:track:1GMjcZBvlOwh0p049TQ3lT"
+],
 [
 "2026-11-14T22:20|Phantogram, Aaron Hibell|You Don't Get Me High Anymore - Aaron Hibell Remix",
 "spotify:track:1eCLiXnYSuv7N8rQYcTIw0"
