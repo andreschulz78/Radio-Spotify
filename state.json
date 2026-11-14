@@ -1,9 +1,9 @@
 {
-"updated": "2026-11-14T22:01:57.499407+01:00",
+"updated": "2026-11-14T22:13:57.499778+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
-"synced": "2026-11-14T21:53:57.499212+01:00",
+"synced": "2026-11-14T22:09:57.499659+01:00",
 "pruned": "2026-11-14",
 "calls": {
 "2026-11-07": 127,
@@ -13,12 +13,24 @@
 "2026-11-11": 197,
 "2026-11-12": 185,
 "2026-11-13": 149,
-"2026-11-14": 121
+"2026-11-14": 125
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAhiUtet0VQIyJCvHc18zPqkuWDGOMM",
+"snapshot": "AAAhijkZuRQuCmj7rK3GKCHjUmH0SiLk",
 "playlist": [
+[
+"2026-11-14T22:03|Amelie Lens|In Silence",
+"spotify:track:72olEiCRdGntdjSUAADxer"
+],
+[
+"2026-11-14T21:56|Mouth Ulcers|Lady Rust",
+"spotify:track:6Dn6F18nkfLe0qD2mUcVJA"
+],
+[
+"2026-11-14T21:51|GRUB|Shake It",
+"spotify:track:2Zxy878Y1dhQcskstNRRig"
+],
 [
 "2026-11-14T21:46|UCHE YARA|Bodyscanner",
 "spotify:track:0R9qBvtWzq87FFBq5CetPN"
@@ -3881,6 +3893,12 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-11-14T22:03|Amelie Lens|In Silence",
+"t": "2026-11-14T22:03:00+01:00",
+"artist": "Amelie Lens",
+"title": "In Silence"
+},
 {
 "id": "2026-11-14T21:56|Mouth Ulcers|Lady Rust",
 "t": "2026-11-14T21:56:00+01:00",
@@ -9364,18 +9382,6 @@
 "t": "2026-11-07T22:18:00+01:00",
 "artist": "Modeselektor, KABEAUSHÉ",
 "title": "IWUDLYK"
-},
-{
-"id": "2026-11-07T22:05|Fujiya & Miyagi|No Green Light",
-"t": "2026-11-07T22:05:00+01:00",
-"artist": "Fujiya & Miyagi",
-"title": "No Green Light"
-},
-{
-"id": "2026-11-07T22:03|Alexander Marcus|Presslufthammer",
-"t": "2026-11-07T22:03:00+01:00",
-"artist": "Alexander Marcus",
-"title": "Presslufthammer"
 }
 ]
 }
