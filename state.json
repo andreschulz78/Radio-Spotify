@@ -1,5 +1,5 @@
 {
-"updated": "2026-11-14T22:25:57.500100+01:00",
+"updated": "2026-11-14T22:37:57.500417+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
@@ -13,7 +13,7 @@
 "2026-11-11": 197,
 "2026-11-12": 185,
 "2026-11-13": 149,
-"2026-11-14": 128
+"2026-11-14": 129
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
@@ -3901,6 +3901,12 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-11-14T22:30|Cristale|Quantum Loop",
+"t": "2026-11-14T22:30:00+01:00",
+"artist": "Cristale",
+"title": "Quantum Loop"
+},
 {
 "id": "2026-11-14T22:20|Phantogram, Aaron Hibell|You Don't Get Me High Anymore - Aaron Hibell Remix",
 "t": "2026-11-14T22:20:00+01:00",
@@ -9384,18 +9390,6 @@
 "t": "2026-11-07T22:43:00+01:00",
 "artist": "The Bevis Frond",
 "title": "My Drug Buddy"
-},
-{
-"id": "2026-11-07T22:37|Clinic|You and I",
-"t": "2026-11-07T22:37:00+01:00",
-"artist": "Clinic",
-"title": "You and I"
-},
-{
-"id": "2026-11-07T22:28|Hot Chip|Random violence",
-"t": "2026-11-07T22:28:00+01:00",
-"artist": "Hot Chip",
-"title": "Random violence"
 }
 ]
 }
