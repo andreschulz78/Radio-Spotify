@@ -1,9 +1,9 @@
 {
-"updated": "2026-11-14T07:22:51.780031+01:00",
+"updated": "2026-11-14T07:34:51.780400+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
-"synced": "2026-11-14T07:10:51.779763+01:00",
+"synced": "2026-11-14T07:26:51.780173+01:00",
 "pruned": "2026-11-14",
 "calls": {
 "2026-11-07": 127,
@@ -13,12 +13,24 @@
 "2026-11-11": 197,
 "2026-11-12": 185,
 "2026-11-13": 149,
-"2026-11-14": 15
+"2026-11-14": 19
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAhXo0eZAQwkZJ1JiNRbuuQd3UUyEdS",
+"snapshot": "AAAhYS1B1Zzmhpr7k1nmx4lyRqtcpG2d",
 "playlist": [
+[
+"2026-11-14T07:18|Sergio Torales feat. Der Assistent|Veo",
+"spotify:track:6k1tMxv0y7hJJsQMMfnE6p"
+],
+[
+"2026-11-14T07:14|Tori Amos|Crucify",
+"spotify:track:6DVySQASssOCxJOyWMY1jW"
+],
+[
+"2026-11-14T07:10|Babe Rainbow|Waterfall",
+"spotify:track:6b7xtvXFuODSbW4uq9IxBw"
+],
 [
 "2026-11-14T07:04|Mykki Blanco|Free Ride",
 "spotify:track:4L67ZFASgypD9BTlb7VRpv"
@@ -3528,10 +3540,6 @@
 "spotify:track:4hHizy49Hzl7QfP3mGVJOY"
 ],
 [
-"2026-11-07T07:26|Supermax|Lovemachine (Part 1)",
-"spotify:track:2A9EqW476Cp9z8PqQE4pPN"
-],
-[
 "2026-11-07T07:22|Widowspeak|Soft Cover (Edit)",
 "spotify:track:4O6f5Bgs94sUNNkNAdNyhW"
 ],
@@ -3605,6 +3613,18 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-11-14T07:25|Justice feat. Tame Impala|Neverender",
+"t": "2026-11-14T07:25:00+01:00",
+"artist": "Justice feat. Tame Impala",
+"title": "Neverender"
+},
+{
+"id": "2026-11-14T07:18|Sergio Torales feat. Der Assistent|Veo",
+"t": "2026-11-14T07:18:00+01:00",
+"artist": "Sergio Torales feat. Der Assistent",
+"title": "Veo"
+},
 {
 "id": "2026-11-14T07:14|Tori Amos|Crucify",
 "t": "2026-11-14T07:14:00+01:00",
@@ -8938,18 +8958,6 @@
 "t": "2026-11-07T07:35:00+01:00",
 "artist": "UFOs",
 "title": "UFO (Radio Edit)"
-},
-{
-"id": "2026-11-07T07:32|Sydney Minsky Sargeant|I Don't Wanna",
-"t": "2026-11-07T07:32:00+01:00",
-"artist": "Sydney Minsky Sargeant",
-"title": "I Don't Wanna"
-},
-{
-"id": "2026-11-07T07:26|Supermax|Lovemachine (Part 1)",
-"t": "2026-11-07T07:26:00+01:00",
-"artist": "Supermax",
-"title": "Lovemachine (Part 1)"
 }
 ]
 }
