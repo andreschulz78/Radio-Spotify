@@ -1,9 +1,9 @@
 {
-"updated": "2026-11-14T08:22:51.781666+01:00",
+"updated": "2026-11-14T08:34:51.781962+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
-"synced": "2026-11-14T08:14:51.781441+01:00",
+"synced": "2026-11-14T08:30:51.781872+01:00",
 "pruned": "2026-11-14",
 "calls": {
 "2026-11-07": 127,
@@ -13,12 +13,28 @@
 "2026-11-11": 197,
 "2026-11-12": 185,
 "2026-11-13": 149,
-"2026-11-14": 30
+"2026-11-14": 32
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAhZYITnA2wWAfwS27f2cLDGAFECi7l",
+"snapshot": "AAAhZjRqp60qzkjqUbGLgfVokyA511q+",
 "playlist": [
+[
+"2026-11-14T08:27|Odd Beholder|Your Emancipation",
+"spotify:track:1uLBaUVurwbtHnyAlD7ExO"
+],
+[
+"2026-11-14T08:19|The Liminianas feat. Laurent Garnier|Saul",
+"spotify:track:4VVPMtMYnIanTBIN7c39VH"
+],
+[
+"2026-11-14T08:16|DJ Shadow|Nobody Speak",
+"spotify:track:1D6JmbTX8qSJoDzcqH7kUJ"
+],
+[
+"2026-11-14T08:11|The Human League|Don't You Want Me",
+"spotify:track:3AIEEEIDJFnqv8rozNVCRZ"
+],
 [
 "2026-11-14T08:04|Billy Nomates|The Test",
 "spotify:track:5MCtwpg6FCHEM8gFb0erM1"
@@ -3641,6 +3657,18 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-11-14T08:27|Odd Beholder|Your Emancipation",
+"t": "2026-11-14T08:27:00+01:00",
+"artist": "Odd Beholder",
+"title": "Your Emancipation"
+},
+{
+"id": "2026-11-14T08:19|The Liminianas feat. Laurent Garnier|Saul",
+"t": "2026-11-14T08:19:00+01:00",
+"artist": "The Liminianas feat. Laurent Garnier",
+"title": "Saul"
+},
 {
 "id": "2026-11-14T08:16|DJ Shadow|Nobody Speak",
 "t": "2026-11-14T08:16:00+01:00",
@@ -8974,18 +9002,6 @@
 "t": "2026-11-07T08:35:00+01:00",
 "artist": "The Dig",
 "title": "Million Dollar Man"
-},
-{
-"id": "2026-11-07T08:33|Metronomy|The Look",
-"t": "2026-11-07T08:33:00+01:00",
-"artist": "Metronomy",
-"title": "The Look"
-},
-{
-"id": "2026-11-07T08:26|Boy & Bear|Tripping Over Time",
-"t": "2026-11-07T08:26:00+01:00",
-"artist": "Boy & Bear",
-"title": "Tripping Over Time"
 }
 ]
 }
