@@ -1,9 +1,9 @@
 {
-"updated": "2026-11-15T09:46:17.872406+01:00",
+"updated": "2026-11-15T09:58:17.872773+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
-"synced": "2026-11-15T09:34:17.872058+01:00",
+"synced": "2026-11-15T09:50:17.872512+01:00",
 "pruned": "2026-11-15",
 "calls": {
 "2026-11-08": 111,
@@ -13,12 +13,20 @@
 "2026-11-12": 185,
 "2026-11-13": 149,
 "2026-11-14": 145,
-"2026-11-15": 45
+"2026-11-15": 47
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAhqrBTvnq8KeTQllKSz38EvN0EEths",
+"snapshot": "AAAhq7Fx0WZWCk3+7TXW6bURftY2qOFW",
 "playlist": [
+[
+"2026-11-15T09:40|Natalie Bergmann|White Oak (Kosta G. Remix)",
+"spotify:track:18PftHVAUSO5vTwdeRa7Lv"
+],
+[
+"2026-11-15T09:32|The Drums feat. Mareux|It Didn't Matter",
+"spotify:track:10kxTiNUTo4nlEbH1EzoX1"
+],
 [
 "2026-11-15T09:27|The Stranglers|Strange Little Girl",
 "spotify:track:2JvyPKDLGlVaxWHS3y1FZ3"
@@ -3789,6 +3797,12 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-11-15T09:51|Empire Of The Sun|Walking On A Dream",
+"t": "2026-11-15T09:51:00+01:00",
+"artist": "Empire Of The Sun",
+"title": "Walking On A Dream"
+},
 {
 "id": "2026-11-15T09:40|Natalie Bergmann|White Oak (Kosta G. Remix)",
 "t": "2026-11-15T09:40:00+01:00",
@@ -9284,18 +9298,6 @@
 "t": "2026-11-08T10:05:00+01:00",
 "artist": "Linka Moja",
 "title": "Men R Dogs"
-},
-{
-"id": "2026-11-08T09:55|MGMT|Little Dark Age",
-"t": "2026-11-08T09:55:00+01:00",
-"artist": "MGMT",
-"title": "Little Dark Age"
-},
-{
-"id": "2026-11-08T09:51|Death Cab For Cutie|Pep Talk",
-"t": "2026-11-08T09:51:00+01:00",
-"artist": "Death Cab For Cutie",
-"title": "Pep Talk"
 }
 ]
 }
