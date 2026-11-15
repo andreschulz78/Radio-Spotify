@@ -1,5 +1,5 @@
 {
-"updated": "2026-11-15T08:46:17.870378+01:00",
+"updated": "2026-11-15T08:58:17.870710+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
@@ -13,7 +13,7 @@
 "2026-11-12": 185,
 "2026-11-13": 149,
 "2026-11-14": 145,
-"2026-11-15": 36
+"2026-11-15": 38
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
@@ -3753,6 +3753,24 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-11-15T08:51|Boy Harsher|Tough Luck (When You Don't Call)",
+"t": "2026-11-15T08:51:00+01:00",
+"artist": "Boy Harsher",
+"title": "Tough Luck (When You Don't Call)"
+},
+{
+"id": "2026-11-15T08:49|Karel Svoboda|Drei Haselnüsse für Aschenbrödel (Titelthema)",
+"t": "2026-11-15T08:49:00+01:00",
+"artist": "Karel Svoboda",
+"title": "Drei Haselnüsse für Aschenbrödel (Titelthema)"
+},
+{
+"id": "2026-11-15T08:45|David Byrne & Brian Eno|Strange Overtones",
+"t": "2026-11-15T08:45:00+01:00",
+"artist": "David Byrne & Brian Eno",
+"title": "Strange Overtones"
+},
 {
 "id": "2026-11-15T08:35|Michelle Gurevich|First Six Months Of Love",
 "t": "2026-11-15T08:35:00+01:00",
@@ -9230,18 +9248,6 @@
 "t": "2026-11-08T09:05:00+01:00",
 "artist": "You Pretty Thing",
 "title": "Push It"
-},
-{
-"id": "2026-11-08T08:54|Dapayk & Padberg feat. Caro|Island",
-"t": "2026-11-08T08:54:00+01:00",
-"artist": "Dapayk & Padberg feat. Caro",
-"title": "Island"
-},
-{
-"id": "2026-11-08T08:50|The O'Jays|Backstabbers",
-"t": "2026-11-08T08:50:00+01:00",
-"artist": "The O'Jays",
-"title": "Backstabbers"
 }
 ]
 }
