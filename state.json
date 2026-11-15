@@ -1,9 +1,9 @@
 {
-"updated": "2026-11-15T09:10:17.871205+01:00",
+"updated": "2026-11-15T09:22:17.871664+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
-"synced": "2026-11-15T09:02:17.870864+01:00",
+"synced": "2026-11-15T09:18:17.871518+01:00",
 "pruned": "2026-11-15",
 "calls": {
 "2026-11-08": 111,
@@ -13,12 +13,20 @@
 "2026-11-12": 185,
 "2026-11-13": 149,
 "2026-11-14": 145,
-"2026-11-15": 40
+"2026-11-15": 43
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAhqFvucVgWgmU6m38r4zds9X/RnWzX",
+"snapshot": "AAAhqZvT2pYRi2l8ZfHayHKT+gmEMpsp",
 "playlist": [
+[
+"2026-11-15T09:11|Keane|Everybody's Changing",
+"spotify:track:2OfKkndS0V0ZhP5irwCHhy"
+],
+[
+"2026-11-15T09:05|The Roots feat. Dice Raw|How I Got Over",
+"spotify:track:51bnnsURQ9bITMraBp4Vbu"
+],
 [
 "2026-11-15T08:55|Jamie T|Tallahassee",
 "spotify:track:3Kwdvrz5PTUpAObYKNPlz0"
@@ -3769,6 +3777,18 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-11-15T09:15|Linka Moja|Men R Dogs",
+"t": "2026-11-15T09:15:00+01:00",
+"artist": "Linka Moja",
+"title": "Men R Dogs"
+},
+{
+"id": "2026-11-15T09:11|Keane|Everybody's Changing",
+"t": "2026-11-15T09:11:00+01:00",
+"artist": "Keane",
+"title": "Everybody's Changing"
+},
 {
 "id": "2026-11-15T09:05|The Roots feat. Dice Raw|How I Got Over",
 "t": "2026-11-15T09:05:00+01:00",
@@ -9258,18 +9278,6 @@
 "t": "2026-11-08T09:29:00+01:00",
 "artist": "Randy Newman",
 "title": "Falling In Love"
-},
-{
-"id": "2026-11-08T09:17|Chinese American Bear|Dance Dance Dance (Edit)",
-"t": "2026-11-08T09:17:00+01:00",
-"artist": "Chinese American Bear",
-"title": "Dance Dance Dance (Edit)"
-},
-{
-"id": "2026-11-08T09:13|Freundeskreis feat. Gentleman|Tabula Rasa (Part 2)",
-"t": "2026-11-08T09:13:00+01:00",
-"artist": "Freundeskreis feat. Gentleman",
-"title": "Tabula Rasa (Part 2)"
 }
 ]
 }
