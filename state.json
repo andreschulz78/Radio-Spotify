@@ -1,9 +1,9 @@
 {
-"updated": "2026-11-15T07:46:17.868506+01:00",
+"updated": "2026-11-15T07:58:17.868918+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
-"synced": "2026-11-15T07:42:17.868402+01:00",
+"synced": "2026-11-15T07:58:17.868918+01:00",
 "pruned": "2026-11-15",
 "calls": {
 "2026-11-08": 111,
@@ -13,12 +13,28 @@
 "2026-11-12": 185,
 "2026-11-13": 149,
 "2026-11-14": 145,
-"2026-11-15": 20
+"2026-11-15": 24
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAhnpeKKOzj6OLkUtqZ3Hv9E8gcpPZZ",
+"snapshot": "AAAhn2YqTsSGGZ7XblNiP0bmpLmNWj0k",
 "playlist": [
+[
+"2026-11-15T07:52|Kakkmaddafakka|Gangsta",
+"spotify:track:7glqdycLDCMVVRG8jw5iQl"
+],
+[
+"2026-11-15T07:48|Fritz Kalkbrenner|In This Game",
+"spotify:track:5LGPmloPgFEDuUFBaFV1CU"
+],
+[
+"2026-11-15T07:44|Beastie Boys|No Sleep Till Brooklyn",
+"spotify:track:5qxChyzKLEyoPJ5qGrdurN"
+],
+[
+"2026-11-15T07:39|Nourished by Time|When The War Is Over",
+"spotify:track:6CSpmRlGT82RrGNJotD9gJ"
+],
 [
 "2026-11-15T07:35|Kelela|the bridge (feat. PinkPantheress)",
 "spotify:track:4Og22Djtd18AVqNgijpLsX"
@@ -3709,6 +3725,24 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-11-15T07:52|Kakkmaddafakka|Gangsta",
+"t": "2026-11-15T07:52:00+01:00",
+"artist": "Kakkmaddafakka",
+"title": "Gangsta"
+},
+{
+"id": "2026-11-15T07:48|Fritz Kalkbrenner|In This Game",
+"t": "2026-11-15T07:48:00+01:00",
+"artist": "Fritz Kalkbrenner",
+"title": "In This Game"
+},
+{
+"id": "2026-11-15T07:44|Beastie Boys|No Sleep Till Brooklyn",
+"t": "2026-11-15T07:44:00+01:00",
+"artist": "Beastie Boys",
+"title": "No Sleep Till Brooklyn"
+},
 {
 "id": "2026-11-15T07:39|Nourished by Time|When The War Is Over",
 "t": "2026-11-15T07:39:00+01:00",
@@ -9174,24 +9208,6 @@
 "t": "2026-11-08T08:05:00+01:00",
 "artist": "Father John Misty",
 "title": "The Payoff (Radio Edit)"
-},
-{
-"id": "2026-11-08T07:57|Parcels|Tieduprightnow",
-"t": "2026-11-08T07:57:00+01:00",
-"artist": "Parcels",
-"title": "Tieduprightnow"
-},
-{
-"id": "2026-11-08T07:52|Whitney|Kansas",
-"t": "2026-11-08T07:52:00+01:00",
-"artist": "Whitney",
-"title": "Kansas"
-},
-{
-"id": "2026-11-08T07:48|Lie Ning|Utopia",
-"t": "2026-11-08T07:48:00+01:00",
-"artist": "Lie Ning",
-"title": "Utopia"
 }
 ]
 }
