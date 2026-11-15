@@ -1,9 +1,9 @@
 {
-"updated": "2026-11-15T08:34:17.869973+01:00",
+"updated": "2026-11-15T08:46:17.870378+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
-"synced": "2026-11-15T08:30:17.869892+01:00",
+"synced": "2026-11-15T08:46:17.870378+01:00",
 "pruned": "2026-11-15",
 "calls": {
 "2026-11-08": 111,
@@ -13,12 +13,24 @@
 "2026-11-12": 185,
 "2026-11-13": 149,
 "2026-11-14": 145,
-"2026-11-15": 33
+"2026-11-15": 36
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAhpjPf+nc4h2ixCir4AVmKNGTLyhDa",
+"snapshot": "AAAhp+vm22+97OFDhs4CCH/rn5u8rpue",
 "playlist": [
+[
+"2026-11-15T08:35|Michelle Gurevich|First Six Months Of Love",
+"spotify:track:0ImZJIFxv4HBobMgG4BRpU"
+],
+[
+"2026-11-15T08:31|The Notwist|Projectors",
+"spotify:track:6ndNhNpPvowtCtjHkMVAgi"
+],
+[
+"2026-11-15T08:26|Nelly Furtado feat. Rea Garvey|All Good Things (Come To An End)",
+"spotify:track:3BEIE2U4nh9J8nGyGXipvH"
+],
 [
 "2026-11-15T08:23|Antony Szmierek|Seminal (Edit)",
 "spotify:track:3E4Tw3ilp8Ms4a5hHWsIxO"
@@ -3741,6 +3753,24 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-11-15T08:35|Michelle Gurevich|First Six Months Of Love",
+"t": "2026-11-15T08:35:00+01:00",
+"artist": "Michelle Gurevich",
+"title": "First Six Months Of Love"
+},
+{
+"id": "2026-11-15T08:31|The Notwist|Projectors",
+"t": "2026-11-15T08:31:00+01:00",
+"artist": "The Notwist",
+"title": "Projectors"
+},
+{
+"id": "2026-11-15T08:26|Nelly Furtado feat. Rea Garvey|All Good Things (Come To An End)",
+"t": "2026-11-15T08:26:00+01:00",
+"artist": "Nelly Furtado feat. Rea Garvey",
+"title": "All Good Things (Come To An End)"
+},
 {
 "id": "2026-11-15T08:23|Antony Szmierek|Seminal (Edit)",
 "t": "2026-11-15T08:23:00+01:00",
@@ -9212,18 +9242,6 @@
 "t": "2026-11-08T08:50:00+01:00",
 "artist": "The O'Jays",
 "title": "Backstabbers"
-},
-{
-"id": "2026-11-08T08:45|The Waterboys|Glastonbury Song",
-"t": "2026-11-08T08:45:00+01:00",
-"artist": "The Waterboys",
-"title": "Glastonbury Song"
-},
-{
-"id": "2026-11-08T08:36|Jamie xx|Dream Night",
-"t": "2026-11-08T08:36:00+01:00",
-"artist": "Jamie xx",
-"title": "Dream Night"
 }
 ]
 }
