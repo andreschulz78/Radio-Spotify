@@ -1,9 +1,9 @@
 {
-"updated": "2026-11-15T10:14:26.250098+01:00",
+"updated": "2026-11-15T10:26:26.250429+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
-"synced": "2026-11-15T10:06:26.249870+01:00",
+"synced": "2026-11-15T10:22:26.250338+01:00",
 "pruned": "2026-11-15",
 "calls": {
 "2026-11-08": 111,
@@ -13,12 +13,20 @@
 "2026-11-12": 185,
 "2026-11-13": 149,
 "2026-11-14": 145,
-"2026-11-15": 49
+"2026-11-15": 52
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAhrKlbLdZs7wigwWqmf1JXJLkckMJo",
+"snapshot": "AAAhrRvSkVYEZgeKcZpRajXNB5u7IKT0",
 "playlist": [
+[
+"2026-11-15T10:09|Dekker|Pick It Up, Put It Back",
+"spotify:track:0LhuToBNSlvYc4IwVJpYWH"
+],
+[
+"2026-11-15T10:06|Fantastic Negrito|The Duffler",
+"spotify:track:6uAMmbcKykXTDODpYb8VR0"
+],
 [
 "2026-11-15T09:58|The Avalanches feat. Karen O|Blue Shadows",
 "spotify:track:5bN5To0VLbNBKQDzJ1Lk6c"
@@ -3809,6 +3817,18 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-11-15T10:17|Aretha Franklin|I Say A Little Prayer",
+"t": "2026-11-15T10:17:00+01:00",
+"artist": "Aretha Franklin",
+"title": "I Say A Little Prayer"
+},
+{
+"id": "2026-11-15T10:09|Dekker|Pick It Up, Put It Back",
+"t": "2026-11-15T10:09:00+01:00",
+"artist": "Dekker",
+"title": "Pick It Up, Put It Back"
+},
 {
 "id": "2026-11-15T10:06|Fantastic Negrito|The Duffler",
 "t": "2026-11-15T10:06:00+01:00",
@@ -9304,12 +9324,6 @@
 "t": "2026-11-08T10:32:00+01:00",
 "artist": "Gorillaz feat. Bizarrap, Kara Jackson and Anoushka Shankar",
 "title": "Orange County"
-},
-{
-"id": "2026-11-08T10:26|Syd Matters|Hi Life",
-"t": "2026-11-08T10:26:00+01:00",
-"artist": "Syd Matters",
-"title": "Hi Life"
 }
 ]
 }
