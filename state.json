@@ -1,9 +1,9 @@
 {
-"updated": "2026-11-15T11:14:26.251747+01:00",
+"updated": "2026-11-15T11:26:26.252104+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
-"synced": "2026-11-15T11:10:26.251621+01:00",
+"synced": "2026-11-15T11:26:26.252104+01:00",
 "pruned": "2026-11-15",
 "calls": {
 "2026-11-08": 111,
@@ -13,12 +13,16 @@
 "2026-11-12": 185,
 "2026-11-13": 149,
 "2026-11-14": 145,
-"2026-11-15": 60
+"2026-11-15": 61
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAhsCurHUVhtmzO590Qv14HVzZ4EmgI",
+"snapshot": "AAAhsZxhtYLw4CdYbYJWsKFF+1NpVoeP",
 "playlist": [
+[
+"2026-11-15T11:14|Meshell Ndegeocello feat. Cat Power|Don’t You Want Me",
+"spotify:track:5sbCqST9M4Q1sRSJM6L6oT"
+],
 [
 "2026-11-15T11:07|Masha Qrella|DJ",
 "spotify:track:1KaOD2vOA0xihDShLwSnYB"
@@ -3849,6 +3853,12 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-11-15T11:14|Meshell Ndegeocello feat. Cat Power|Don’t You Want Me",
+"t": "2026-11-15T11:14:00+01:00",
+"artist": "Meshell Ndegeocello feat. Cat Power",
+"title": "Don’t You Want Me"
+},
 {
 "id": "2026-11-15T11:07|Masha Qrella|DJ",
 "t": "2026-11-15T11:07:00+01:00",
@@ -9350,18 +9360,6 @@
 "t": "2026-11-08T11:28:00+01:00",
 "artist": "Tele",
 "title": "Die Nacht ist jung"
-},
-{
-"id": "2026-11-08T11:25|Wallners|Movie Stars",
-"t": "2026-11-08T11:25:00+01:00",
-"artist": "Wallners",
-"title": "Movie Stars"
-},
-{
-"id": "2026-11-08T11:16|KT Tunstall|The Mountain",
-"t": "2026-11-08T11:16:00+01:00",
-"artist": "KT Tunstall",
-"title": "The Mountain"
 }
 ]
 }
