@@ -1,9 +1,9 @@
 {
-"updated": "2026-11-15T07:34:17.868178+01:00",
+"updated": "2026-11-15T07:46:17.868506+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
-"synced": "2026-11-15T07:26:17.867971+01:00",
+"synced": "2026-11-15T07:42:17.868402+01:00",
 "pruned": "2026-11-15",
 "calls": {
 "2026-11-08": 111,
@@ -13,12 +13,28 @@
 "2026-11-12": 185,
 "2026-11-13": 149,
 "2026-11-14": 145,
-"2026-11-15": 18
+"2026-11-15": 20
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAhne7+ltgqUxZrBDtZaANU66NKommw",
+"snapshot": "AAAhnpeKKOzj6OLkUtqZ3Hv9E8gcpPZZ",
 "playlist": [
+[
+"2026-11-15T07:35|Kelela|the bridge (feat. PinkPantheress)",
+"spotify:track:4Og22Djtd18AVqNgijpLsX"
+],
+[
+"2026-11-15T07:31|CamelPhat x Yannis x Foals|Hypercolour",
+"spotify:track:3CmUXmrh17WIaQOQu9OVha"
+],
+[
+"2026-11-15T07:26|Hot Chip|Eleanor (Edit)",
+"spotify:track:4kLyAbRTMMfmAH5Fjm3cYU"
+],
+[
+"2026-11-15T07:23|Wolf Biermann|Ermutigung",
+"spotify:track:2MyYS26Qe1Pt2kRR6WVxfy"
+],
 [
 "2026-11-15T07:18|Laurie|Heaven On A Thread",
 "spotify:track:46Zibs91R312L2JCcsou6R"
@@ -3693,6 +3709,24 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-11-15T07:39|Nourished by Time|When The War Is Over",
+"t": "2026-11-15T07:39:00+01:00",
+"artist": "Nourished by Time",
+"title": "When The War Is Over"
+},
+{
+"id": "2026-11-15T07:35|Kelela|the bridge (feat. PinkPantheress)",
+"t": "2026-11-15T07:35:00+01:00",
+"artist": "Kelela",
+"title": "the bridge (feat. PinkPantheress)"
+},
+{
+"id": "2026-11-15T07:31|CamelPhat x Yannis x Foals|Hypercolour",
+"t": "2026-11-15T07:31:00+01:00",
+"artist": "CamelPhat x Yannis x Foals",
+"title": "Hypercolour"
+},
 {
 "id": "2026-11-15T07:26|Hot Chip|Eleanor (Edit)",
 "t": "2026-11-15T07:26:00+01:00",
@@ -9158,24 +9192,6 @@
 "t": "2026-11-08T07:48:00+01:00",
 "artist": "Lie Ning",
 "title": "Utopia"
-},
-{
-"id": "2026-11-08T07:45|Still Corners|Heavy Days",
-"t": "2026-11-08T07:45:00+01:00",
-"artist": "Still Corners",
-"title": "Heavy Days"
-},
-{
-"id": "2026-11-08T07:40|Kaktus Einarsson feat. John Grant|Follow",
-"t": "2026-11-08T07:40:00+01:00",
-"artist": "Kaktus Einarsson feat. John Grant",
-"title": "Follow"
-},
-{
-"id": "2026-11-08T07:36|Marvin Gaye|Sexual Healing",
-"t": "2026-11-08T07:36:00+01:00",
-"artist": "Marvin Gaye",
-"title": "Sexual Healing"
 }
 ]
 }
