@@ -1,9 +1,9 @@
 {
-"updated": "2026-11-15T13:38:26.255871+01:00",
+"updated": "2026-11-15T13:50:26.256193+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
-"synced": "2026-11-15T13:18:26.255242+01:00",
+"synced": "2026-11-15T13:42:26.255965+01:00",
 "pruned": "2026-11-15",
 "calls": {
 "2026-11-08": 111,
@@ -13,11 +13,11 @@
 "2026-11-12": 185,
 "2026-11-13": 149,
 "2026-11-14": 145,
-"2026-11-15": 73
+"2026-11-15": 74
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAhtmXs8NRzlY93w7YUf3Peee0oC5mQ",
+"snapshot": "AAAht5MIUsNQzDiVjTr6e7gyTsIlq/mH",
 "playlist": [
 [
 "2026-11-15T11:57|Johnny Cash|If You Could Read My Mind",
@@ -3590,10 +3590,6 @@
 [
 "2026-11-08T13:51|J.Bernardt|Love Is On My Mind",
 "spotify:track:4LuP3veDBkqnyLQvgDQpJb"
-],
-[
-"2026-11-08T13:42|Maya Jane Coles feat. Kim Ann Foxman|Burning Bright",
-"spotify:track:6hjxWp0m45aRHXJrMve0Ul"
 ],
 [
 "2026-11-08T13:32|Get Well Soon|Siri, What Ruined The West ?",
@@ -9302,12 +9298,6 @@
 "t": "2026-11-08T13:51:00+01:00",
 "artist": "J.Bernardt",
 "title": "Love Is On My Mind"
-},
-{
-"id": "2026-11-08T13:42|Maya Jane Coles feat. Kim Ann Foxman|Burning Bright",
-"t": "2026-11-08T13:42:00+01:00",
-"artist": "Maya Jane Coles feat. Kim Ann Foxman",
-"title": "Burning Bright"
 }
 ]
 }
