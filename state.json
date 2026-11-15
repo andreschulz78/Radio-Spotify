@@ -1,9 +1,9 @@
 {
-"updated": "2026-11-15T11:38:26.252440+01:00",
+"updated": "2026-11-15T11:50:26.252733+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
-"synced": "2026-11-15T11:26:26.252104+01:00",
+"synced": "2026-11-15T11:42:26.252548+01:00",
 "pruned": "2026-11-15",
 "calls": {
 "2026-11-08": 111,
@@ -13,12 +13,24 @@
 "2026-11-12": 185,
 "2026-11-13": 149,
 "2026-11-14": 145,
-"2026-11-15": 63
+"2026-11-15": 66
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAhsZxhtYLw4CdYbYJWsKFF+1NpVoeP",
+"snapshot": "AAAhsm6pNF/mZYh/Tc0HuLg6Gv8bcxB5",
 "playlist": [
+[
+"2026-11-15T11:36|Benjamin Biolay|Dans La Merco Benz",
+"spotify:track:4qTqmiLn1nFzuREnQaxLma"
+],
+[
+"2026-11-15T11:31|The Mock Turtles|Can You Dig It?",
+"spotify:track:6JqB0SQ6aQWibpMaIqfEXc"
+],
+[
+"2026-11-15T11:25|Golden Bug feat. The Limiñanas & Vega Voga|Hi No Tori",
+"spotify:track:3bwUf5ieZ8zDhqhb9riS0O"
+],
 [
 "2026-11-15T11:14|Meshell Ndegeocello feat. Cat Power|Don’t You Want Me",
 "spotify:track:5sbCqST9M4Q1sRSJM6L6oT"
@@ -3853,6 +3865,24 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-11-15T11:47|Gnarls Barkley|Crazy",
+"t": "2026-11-15T11:47:00+01:00",
+"artist": "Gnarls Barkley",
+"title": "Crazy"
+},
+{
+"id": "2026-11-15T11:43|JGrrey feat. Bel Cobain|Take My Hand",
+"t": "2026-11-15T11:43:00+01:00",
+"artist": "JGrrey feat. Bel Cobain",
+"title": "Take My Hand"
+},
+{
+"id": "2026-11-15T11:36|Benjamin Biolay|Dans La Merco Benz",
+"t": "2026-11-15T11:36:00+01:00",
+"artist": "Benjamin Biolay",
+"title": "Dans La Merco Benz"
+},
 {
 "id": "2026-11-15T11:31|The Mock Turtles|Can You Dig It?",
 "t": "2026-11-15T11:31:00+01:00",
@@ -9342,18 +9372,6 @@
 "t": "2026-11-08T11:53:00+01:00",
 "artist": "49th & Main",
 "title": "Insomnia"
-},
-{
-"id": "2026-11-08T11:50|SOFY|50/50",
-"t": "2026-11-08T11:50:00+01:00",
-"artist": "SOFY",
-"title": "50/50"
-},
-{
-"id": "2026-11-08T11:45|The Verve|Bitter Sweet Symphony (Radio Edit)",
-"t": "2026-11-08T11:45:00+01:00",
-"artist": "The Verve",
-"title": "Bitter Sweet Symphony (Radio Edit)"
 }
 ]
 }
