@@ -1,9 +1,9 @@
 {
-"updated": "2026-11-15T06:10:17.865771+01:00",
+"updated": "2026-11-15T06:22:17.866063+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
-"synced": "2026-11-15T06:06:17.865676+01:00",
+"synced": "2026-11-15T06:22:17.866063+01:00",
 "pruned": "2026-11-15",
 "calls": {
 "2026-11-08": 111,
@@ -13,12 +13,24 @@
 "2026-11-12": 185,
 "2026-11-13": 149,
 "2026-11-14": 145,
-"2026-11-15": 3
+"2026-11-15": 5
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAhmJ8zj0uTPimL572RmzAG4zN7t5p8",
+"snapshot": "AAAhme9ti4qCwzbZORAmHH4cPrkxMyrq",
 "playlist": [
+[
+"2026-11-15T06:16|Billy Joel|Allentown",
+"spotify:track:59xhCcRskqyMtKzdvLZDfV"
+],
+[
+"2026-11-15T06:12|Agnes Obel|Laymelli (Edit)",
+"spotify:track:0VzMHjWcs2P24LHLekZ8Qa"
+],
+[
+"2026-11-15T06:08|Elvis Costello & The Imposters|Unwanted number",
+"spotify:track:0o18FakQWjSDmbbJcq6Do3"
+],
 [
 "2026-11-15T06:03|Jungle|Time",
 "spotify:track:3DtPUW86Kj060DaS0ITq6w"
@@ -3629,6 +3641,24 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-11-15T06:16|Billy Joel|Allentown",
+"t": "2026-11-15T06:16:00+01:00",
+"artist": "Billy Joel",
+"title": "Allentown"
+},
+{
+"id": "2026-11-15T06:12|Agnes Obel|Laymelli (Edit)",
+"t": "2026-11-15T06:12:00+01:00",
+"artist": "Agnes Obel",
+"title": "Laymelli (Edit)"
+},
+{
+"id": "2026-11-15T06:08|Elvis Costello & The Imposters|Unwanted number",
+"t": "2026-11-15T06:08:00+01:00",
+"artist": "Elvis Costello & The Imposters",
+"title": "Unwanted number"
+},
 {
 "id": "2026-11-15T06:03|Jungle|Time",
 "t": "2026-11-15T06:03:00+01:00",
@@ -9094,18 +9124,6 @@
 "t": "2026-11-08T06:23:00+01:00",
 "artist": "Jonathan Jeremiah",
 "title": "Kolkata Bear"
-},
-{
-"id": "2026-11-08T06:17|Burning Spear|Slavery Days",
-"t": "2026-11-08T06:17:00+01:00",
-"artist": "Burning Spear",
-"title": "Slavery Days"
-},
-{
-"id": "2026-11-08T06:13|The Cure|Lovesong",
-"t": "2026-11-08T06:13:00+01:00",
-"artist": "The Cure",
-"title": "Lovesong"
 }
 ]
 }
