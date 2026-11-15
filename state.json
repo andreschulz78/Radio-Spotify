@@ -1,9 +1,9 @@
 {
-"updated": "2026-11-15T08:10:17.869314+01:00",
+"updated": "2026-11-15T08:22:17.869676+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
-"synced": "2026-11-15T07:58:17.868918+01:00",
+"synced": "2026-11-15T08:14:17.869421+01:00",
 "pruned": "2026-11-15",
 "calls": {
 "2026-11-08": 111,
@@ -13,12 +13,20 @@
 "2026-11-12": 185,
 "2026-11-13": 149,
 "2026-11-14": 145,
-"2026-11-15": 24
+"2026-11-15": 32
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAhn2YqTsSGGZ7XblNiP0bmpLmNWj0k",
+"snapshot": "AAAhpX1U5zmVuxaANgrL+dA2To1OAEg0",
 "playlist": [
+[
+"2026-11-15T08:05|Gorillaz feat. Bizarrap, Kara Jackson and Anoushka Shankar|Orange County",
+"spotify:track:5l4Gq3UC0dHKSExIf5xD9N"
+],
+[
+"2026-11-15T07:57|Kate Bush|Babooshka",
+"spotify:track:53Mz9H5UvWMQUXHZnaZYKQ"
+],
 [
 "2026-11-15T07:52|Kakkmaddafakka|Gangsta",
 "spotify:track:7glqdycLDCMVVRG8jw5iQl"
@@ -3616,10 +3624,6 @@
 "spotify:track:6jJTpzMquQLVuUkM2vVEIF"
 ],
 [
-"2026-11-08T08:14|The Drums feat. Mareux|It Didn't Matter",
-"spotify:track:10kxTiNUTo4nlEbH1EzoX1"
-],
-[
 "2026-11-08T08:05|Father John Misty|The Payoff (Radio Edit)",
 "spotify:track:2WIcSjSoGt78KKBnzViTdC"
 ],
@@ -3725,6 +3729,18 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-11-15T08:15|Kings Of Leon|My Whole World",
+"t": "2026-11-15T08:15:00+01:00",
+"artist": "Kings Of Leon",
+"title": "My Whole World"
+},
+{
+"id": "2026-11-15T08:10|2raumwohnung|Wir werden sehen (Remix)",
+"t": "2026-11-15T08:10:00+01:00",
+"artist": "2raumwohnung",
+"title": "Wir werden sehen (Remix)"
+},
 {
 "id": "2026-11-15T08:05|Gorillaz feat. Bizarrap, Kara Jackson and Anoushka Shankar|Orange County",
 "t": "2026-11-15T08:05:00+01:00",
@@ -9202,18 +9218,6 @@
 "t": "2026-11-08T08:26:00+01:00",
 "artist": "Oscar Farrell feat. Sampha",
 "title": "Dream Therapy"
-},
-{
-"id": "2026-11-08T08:18|Bonobo feat. Joy Crookes|Always on Your Side",
-"t": "2026-11-08T08:18:00+01:00",
-"artist": "Bonobo feat. Joy Crookes",
-"title": "Always on Your Side"
-},
-{
-"id": "2026-11-08T08:14|The Drums feat. Mareux|It Didn't Matter",
-"t": "2026-11-08T08:14:00+01:00",
-"artist": "The Drums feat. Mareux",
-"title": "It Didn't Matter"
 }
 ]
 }
