@@ -1,9 +1,9 @@
 {
-"updated": "2026-11-15T11:50:26.252733+01:00",
+"updated": "2026-11-15T12:02:26.253039+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
-"synced": "2026-11-15T11:42:26.252548+01:00",
+"synced": "2026-11-15T11:58:26.252942+01:00",
 "pruned": "2026-11-15",
 "calls": {
 "2026-11-08": 111,
@@ -13,12 +13,24 @@
 "2026-11-12": 185,
 "2026-11-13": 149,
 "2026-11-14": 145,
-"2026-11-15": 66
+"2026-11-15": 67
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAhsm6pNF/mZYh/Tc0HuLg6Gv8bcxB5",
+"snapshot": "AAAhs0noo9FGSegIry/wrqoBx2RnR1u3",
 "playlist": [
+[
+"2026-11-15T11:50|Automatic|Shadowplay",
+"spotify:track:0pT1m2UpNBliUb6W7S7YzA"
+],
+[
+"2026-11-15T11:47|Gnarls Barkley|Crazy",
+"spotify:track:1vxw6aYJls2oq3gW0DujAo"
+],
+[
+"2026-11-15T11:43|JGrrey feat. Bel Cobain|Take My Hand",
+"spotify:track:0i4SCqKHjbBrPjUX4RPRq3"
+],
 [
 "2026-11-15T11:36|Benjamin Biolay|Dans La Merco Benz",
 "spotify:track:4qTqmiLn1nFzuREnQaxLma"
@@ -3865,6 +3877,12 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-11-15T11:50|Automatic|Shadowplay",
+"t": "2026-11-15T11:50:00+01:00",
+"artist": "Automatic",
+"title": "Shadowplay"
+},
 {
 "id": "2026-11-15T11:47|Gnarls Barkley|Crazy",
 "t": "2026-11-15T11:47:00+01:00",
@@ -9360,18 +9378,6 @@
 "t": "2026-11-08T12:04:00+01:00",
 "artist": "Smidley feat. Lucy Dacus",
 "title": "Capstone"
-},
-{
-"id": "2026-11-08T11:57|Screamin' Jay Hawkins|I put a spell on you",
-"t": "2026-11-08T11:57:00+01:00",
-"artist": "Screamin' Jay Hawkins",
-"title": "I put a spell on you"
-},
-{
-"id": "2026-11-08T11:53|49th & Main|Insomnia",
-"t": "2026-11-08T11:53:00+01:00",
-"artist": "49th & Main",
-"title": "Insomnia"
 }
 ]
 }
