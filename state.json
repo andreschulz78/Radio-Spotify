@@ -1,5 +1,5 @@
 {
-"updated": "2026-11-16T11:59:47.857337+01:00",
+"updated": "2026-11-16T12:11:47.857697+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
@@ -13,7 +13,7 @@
 "2026-11-13": 149,
 "2026-11-14": 145,
 "2026-11-15": 93,
-"2026-11-16": 66
+"2026-11-16": 67
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
@@ -3829,6 +3829,18 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-11-16T12:05|Angel Olsen|What It Is",
+"t": "2026-11-16T12:05:00+01:00",
+"artist": "Angel Olsen",
+"title": "What It Is"
+},
+{
+"id": "2026-11-16T11:55|Sofia Kourtesis|Corazón",
+"t": "2026-11-16T11:55:00+01:00",
+"artist": "Sofia Kourtesis",
+"title": "Corazón"
+},
 {
 "id": "2026-11-16T11:49|Jessie Ware|110%",
 "t": "2026-11-16T11:49:00+01:00",
@@ -9222,18 +9234,6 @@
 "t": "2026-11-09T12:15:00+01:00",
 "artist": "Mazzy Star",
 "title": "Fade into you"
-},
-{
-"id": "2026-11-09T12:08|TORRES|i got the fear",
-"t": "2026-11-09T12:08:00+01:00",
-"artist": "TORRES",
-"title": "i got the fear"
-},
-{
-"id": "2026-11-09T12:05|Leon Bridges|Light The Way",
-"t": "2026-11-09T12:05:00+01:00",
-"artist": "Leon Bridges",
-"title": "Light The Way"
 }
 ]
 }
