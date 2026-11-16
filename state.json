@@ -1,9 +1,9 @@
 {
-"updated": "2026-11-16T12:59:47.859065+01:00",
+"updated": "2026-11-16T13:11:47.859406+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
-"synced": "2026-11-16T12:47:47.858716+01:00",
+"synced": "2026-11-16T13:03:47.859179+01:00",
 "pruned": "2026-11-16",
 "calls": {
 "2026-11-09": 172,
@@ -13,12 +13,24 @@
 "2026-11-13": 149,
 "2026-11-14": 145,
 "2026-11-15": 93,
-"2026-11-16": 80
+"2026-11-16": 82
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAh5gB35N+dazeJXtR+/T9FSRKrzRrw",
+"snapshot": "AAAh56gLhFR0s11OTVh3drAmvJC1/NQu",
 "playlist": [
+[
+"2026-11-16T12:54|Serebii|Even In The Quiet",
+"spotify:track:5ZIYdecFkCGyT6Tbyk7rAq"
+],
+[
+"2026-11-16T12:51|Sam Burton|I'm A Stranger",
+"spotify:track:4hAYraVhSzgMTdvftCcqKo"
+],
+[
+"2026-11-16T12:47|Les Rita Mitsouko|Marcia Baila",
+"spotify:track:43THPstJP6RXLMd7ryXyNf"
+],
 [
 "2026-11-16T12:42|Escape From New York|Fire In My Heart",
 "spotify:track:0tZvQzUshPO6FsZyZnnvVi"
@@ -3865,6 +3877,18 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-11-16T13:05|Jamie XX feat. Romy & Oliver Sim|Waited All Night",
+"t": "2026-11-16T13:05:00+01:00",
+"artist": "Jamie XX feat. Romy & Oliver Sim",
+"title": "Waited All Night"
+},
+{
+"id": "2026-11-16T12:54|Serebii|Even In The Quiet",
+"t": "2026-11-16T12:54:00+01:00",
+"artist": "Serebii",
+"title": "Even In The Quiet"
+},
 {
 "id": "2026-11-16T12:51|Sam Burton|I'm A Stranger",
 "t": "2026-11-16T12:51:00+01:00",
@@ -9258,18 +9282,6 @@
 "t": "2026-11-09T13:16:00+01:00",
 "artist": "Twisted",
 "title": "When We First Met"
-},
-{
-"id": "2026-11-09T13:09|Metronomy|The Bay",
-"t": "2026-11-09T13:09:00+01:00",
-"artist": "Metronomy",
-"title": "The Bay"
-},
-{
-"id": "2026-11-09T13:06|Ibeyi|Hurry Hurry",
-"t": "2026-11-09T13:06:00+01:00",
-"artist": "Ibeyi",
-"title": "Hurry Hurry"
 }
 ]
 }
