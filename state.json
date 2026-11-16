@@ -1,9 +1,9 @@
 {
-"updated": "2026-11-16T13:11:47.859406+01:00",
+"updated": "2026-11-16T13:23:47.859761+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
-"synced": "2026-11-16T13:03:47.859179+01:00",
+"synced": "2026-11-16T13:19:47.859647+01:00",
 "pruned": "2026-11-16",
 "calls": {
 "2026-11-09": 172,
@@ -13,12 +13,20 @@
 "2026-11-13": 149,
 "2026-11-14": 145,
 "2026-11-15": 93,
-"2026-11-16": 82
+"2026-11-16": 84
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAh56gLhFR0s11OTVh3drAmvJC1/NQu",
+"snapshot": "AAAh6JU1R1NFwCHSUzFWr2r/lYgeZlUp",
 "playlist": [
+[
+"2026-11-16T13:09|INNENRÄUME|Zwischen den Spuren (Radio Edit)",
+"spotify:track:7KdcqWI6cLahL9BZW2OQvV"
+],
+[
+"2026-11-16T13:05|Jamie XX feat. Romy & Oliver Sim|Waited All Night",
+"spotify:track:0TBETiWtmbXvj0g5RVaRTb"
+],
 [
 "2026-11-16T12:54|Serebii|Even In The Quiet",
 "spotify:track:5ZIYdecFkCGyT6Tbyk7rAq"
@@ -3877,6 +3885,18 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-11-16T13:16|Radie Peat|Hares on the Mountain",
+"t": "2026-11-16T13:16:00+01:00",
+"artist": "Radie Peat",
+"title": "Hares on the Mountain"
+},
+{
+"id": "2026-11-16T13:09|INNENRÄUME|Zwischen den Spuren (Radio Edit)",
+"t": "2026-11-16T13:09:00+01:00",
+"artist": "INNENRÄUME",
+"title": "Zwischen den Spuren (Radio Edit)"
+},
 {
 "id": "2026-11-16T13:05|Jamie XX feat. Romy & Oliver Sim|Waited All Night",
 "t": "2026-11-16T13:05:00+01:00",
@@ -9258,30 +9278,6 @@
 "t": "2026-11-09T13:26:00+01:00",
 "artist": "Vince Staples",
 "title": "Tulsa, OK"
-},
-{
-"id": "2026-11-09T13:23|JJerome87|Green Velvet",
-"t": "2026-11-09T13:23:00+01:00",
-"artist": "JJerome87",
-"title": "Green Velvet"
-},
-{
-"id": "2026-11-09T13:20|Sinéad O'Connor|No Man's Woman",
-"t": "2026-11-09T13:20:00+01:00",
-"artist": "Sinéad O'Connor",
-"title": "No Man's Woman"
-},
-{
-"id": "2026-11-09T13:17|Jungle|Keep Me Satisfied",
-"t": "2026-11-09T13:17:00+01:00",
-"artist": "Jungle",
-"title": "Keep Me Satisfied"
-},
-{
-"id": "2026-11-09T13:16|Twisted|When We First Met",
-"t": "2026-11-09T13:16:00+01:00",
-"artist": "Twisted",
-"title": "When We First Met"
 }
 ]
 }
