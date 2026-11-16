@@ -1,9 +1,9 @@
 {
-"updated": "2026-11-16T09:07:38.986065+01:00",
+"updated": "2026-11-16T09:19:38.986379+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
-"synced": "2026-11-16T09:03:38.985972+01:00",
+"synced": "2026-11-16T09:19:38.986379+01:00",
 "pruned": "2026-11-16",
 "calls": {
 "2026-11-09": 172,
@@ -13,12 +13,16 @@
 "2026-11-13": 149,
 "2026-11-14": 145,
 "2026-11-15": 93,
-"2026-11-16": 39
+"2026-11-16": 41
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAh176yx+PsI4roimuVZWDeVaK0PLoX",
+"snapshot": "AAAh2Gz+d9dbkuy6DdZRyTFLgxKhTOFH",
 "playlist": [
+[
+"2026-11-16T09:06|Tikhet|Burndowner",
+"spotify:track:76iRkapw7dHIlJhSoy7PCv"
+],
 [
 "2026-11-16T08:57|Alexander IV & IYAMAH|About Us",
 "spotify:track:0c3tXpFKZilDSR3yAphPZt"
@@ -3713,6 +3717,12 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-11-16T09:06|Tikhet|Burndowner",
+"t": "2026-11-16T09:06:00+01:00",
+"artist": "Tikhet",
+"title": "Burndowner"
+},
 {
 "id": "2026-11-16T08:57|Alexander IV & IYAMAH|About Us",
 "t": "2026-11-16T08:57:00+01:00",
@@ -9112,18 +9122,6 @@
 "t": "2026-11-09T09:23:00+01:00",
 "artist": "Sly & The Family Stone",
 "title": "Family Affair"
-},
-{
-"id": "2026-11-09T09:18|SOFY|50/50",
-"t": "2026-11-09T09:18:00+01:00",
-"artist": "SOFY",
-"title": "50/50"
-},
-{
-"id": "2026-11-09T09:12|Yard Act|You're Gonna Need A Little Music",
-"t": "2026-11-09T09:12:00+01:00",
-"artist": "Yard Act",
-"title": "You're Gonna Need A Little Music"
 }
 ]
 }
