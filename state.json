@@ -1,9 +1,9 @@
 {
-"updated": "2026-11-16T08:55:38.985756+01:00",
+"updated": "2026-11-16T09:07:38.986065+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
-"synced": "2026-11-16T08:47:38.985568+01:00",
+"synced": "2026-11-16T09:03:38.985972+01:00",
 "pruned": "2026-11-16",
 "calls": {
 "2026-11-09": 172,
@@ -13,12 +13,20 @@
 "2026-11-13": 149,
 "2026-11-14": 145,
 "2026-11-15": 93,
-"2026-11-16": 38
+"2026-11-16": 39
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAh1lkz9Gn0ihmKRKdDOclGTOaQ6ga+",
+"snapshot": "AAAh176yx+PsI4roimuVZWDeVaK0PLoX",
 "playlist": [
+[
+"2026-11-16T08:57|Alexander IV & IYAMAH|About Us",
+"spotify:track:0c3tXpFKZilDSR3yAphPZt"
+],
+[
+"2026-11-16T08:44|Interpol|Iron City",
+"spotify:track:7o9gwmscHBXh6sUEYkWQ4e"
+],
 [
 "2026-11-16T08:42|Joshua Idehen|Could Be Forever",
 "spotify:track:0ZUKth5xg7UM6Q73YhDq2w"
@@ -3705,6 +3713,12 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-11-16T08:57|Alexander IV & IYAMAH|About Us",
+"t": "2026-11-16T08:57:00+01:00",
+"artist": "Alexander IV & IYAMAH",
+"title": "About Us"
+},
 {
 "id": "2026-11-16T08:44|Interpol|Iron City",
 "t": "2026-11-16T08:44:00+01:00",
@@ -9110,12 +9124,6 @@
 "t": "2026-11-09T09:12:00+01:00",
 "artist": "Yard Act",
 "title": "You're Gonna Need A Little Music"
-},
-{
-"id": "2026-11-09T09:05|Foxwarren|Listen2me",
-"t": "2026-11-09T09:05:00+01:00",
-"artist": "Foxwarren",
-"title": "Listen2me"
 }
 ]
 }
