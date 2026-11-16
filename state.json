@@ -1,9 +1,9 @@
 {
-"updated": "2026-11-16T15:11:47.862957+01:00",
+"updated": "2026-11-16T18:21:48.150017+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
-"synced": "2026-11-16T15:11:47.862957+01:00",
+"synced": "2026-11-16T18:21:48.150017+01:00",
 "pruned": "2026-11-16",
 "calls": {
 "2026-11-09": 172,
@@ -13,12 +13,72 @@
 "2026-11-13": 149,
 "2026-11-14": 145,
 "2026-11-15": 93,
-"2026-11-16": 104
+"2026-11-16": 108
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAh73DFZgwnoDqcUm7YMDZbGOU5ijzv",
+"snapshot": "AAAh8Akfrkj7YszH5DQjvzu9dt4IJtA7",
 "playlist": [
+[
+"2026-11-16T18:09|Meshell Ndegeocello feat. Cat Power|Don’t You Want Me",
+"spotify:track:5sbCqST9M4Q1sRSJM6L6oT"
+],
+[
+"2026-11-16T18:06|Kings Of Leon|Molly's Chambers",
+"spotify:track:3SvPmGLrQCkigYcm26Cxw5"
+],
+[
+"2026-11-16T17:57|UCHE YARA|Hello Hello",
+"spotify:track:3hadpAb0vS5uYSrfidLaDr"
+],
+[
+"2026-11-16T17:50|Gabriels|Break It",
+"spotify:track:5WiVqnjVzB9tNXqeSKZgxH"
+],
+[
+"2026-11-16T17:45|Ofra Haza|Im nin'alu (Edit)",
+"spotify:track:5PomJFkGwOHkrk0Rfs2DnH"
+],
+[
+"2026-11-16T17:42|James Blake|I Had a Dream She Took My Hand",
+"spotify:track:2hUOnJj6B7938kFBcPO6l5"
+],
+[
+"2026-11-16T17:22|Hot Chip|Random Violence (Radio Edit)",
+"spotify:track:0T3vTM8KUAwGMukdAhNVj2"
+],
+[
+"2026-11-16T17:06|BICEP feat. SOARR|Air (Radio Edit)",
+"spotify:track:2infXICqVSUM3bbGSOgFOY"
+],
+[
+"2026-11-16T16:56|Boy Harsher|Tough Luck (When You Don't Call)",
+"spotify:track:109AVLNWp2BnTXTzF4j6XE"
+],
+[
+"2026-11-16T16:49|Jamie T|Tallahassee",
+"spotify:track:3Kwdvrz5PTUpAObYKNPlz0"
+],
+[
+"2026-11-16T16:33|Antony Szmierek|Chalk (Radio Edit)",
+"spotify:track:5HdeMdzAlNKwCM4L9cjehN"
+],
+[
+"2026-11-16T15:57|Stella Donnelly|Laying Low",
+"spotify:track:0jWZDtZgmV2LZ2iW4c3yB7"
+],
+[
+"2026-11-16T15:50|Nihils|Lavender",
+"spotify:track:24IHKK4RZRa5WYOEigkp5h"
+],
+[
+"2026-11-16T15:18|Dekker|Pick It Up, Put It Back",
+"spotify:track:0LhuToBNSlvYc4IwVJpYWH"
+],
+[
+"2026-11-16T15:08|Natalie Bergmann|White Oak (Kosta G. Remix)",
+"spotify:track:18PftHVAUSO5vTwdeRa7Lv"
+],
 [
 "2026-11-16T15:05|Sydney Minsky Sargeant|I Don't Wanna",
 "spotify:track:4hHizy49Hzl7QfP3mGVJOY"
@@ -3973,6 +4033,174 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-11-16T18:09|Meshell Ndegeocello feat. Cat Power|Don’t You Want Me",
+"t": "2026-11-16T18:09:00+01:00",
+"artist": "Meshell Ndegeocello feat. Cat Power",
+"title": "Don’t You Want Me"
+},
+{
+"id": "2026-11-16T18:06|Kings Of Leon|Molly's Chambers",
+"t": "2026-11-16T18:06:00+01:00",
+"artist": "Kings Of Leon",
+"title": "Molly's Chambers"
+},
+{
+"id": "2026-11-16T17:57|UCHE YARA|Hello Hello",
+"t": "2026-11-16T17:57:00+01:00",
+"artist": "UCHE YARA",
+"title": "Hello Hello"
+},
+{
+"id": "2026-11-16T17:50|Gabriels|Break It",
+"t": "2026-11-16T17:50:00+01:00",
+"artist": "Gabriels",
+"title": "Break It"
+},
+{
+"id": "2026-11-16T17:45|Ofra Haza|Im nin'alu (Edit)",
+"t": "2026-11-16T17:45:00+01:00",
+"artist": "Ofra Haza",
+"title": "Im nin'alu (Edit)"
+},
+{
+"id": "2026-11-16T17:42|James Blake|I Had a Dream She Took My Hand",
+"t": "2026-11-16T17:42:00+01:00",
+"artist": "James Blake",
+"title": "I Had a Dream She Took My Hand"
+},
+{
+"id": "2026-11-16T17:34|Yeah Yeah Yeahs|Heads Will Roll",
+"t": "2026-11-16T17:34:00+01:00",
+"artist": "Yeah Yeah Yeahs",
+"title": "Heads Will Roll"
+},
+{
+"id": "2026-11-16T17:26|Christine and the Queens & Thee Diane|Ah Ya",
+"t": "2026-11-16T17:26:00+01:00",
+"artist": "Christine and the Queens & Thee Diane",
+"title": "Ah Ya"
+},
+{
+"id": "2026-11-16T17:22|Hot Chip|Random Violence (Radio Edit)",
+"t": "2026-11-16T17:22:00+01:00",
+"artist": "Hot Chip",
+"title": "Random Violence (Radio Edit)"
+},
+{
+"id": "2026-11-16T17:15|Fettes Brot|Jein",
+"t": "2026-11-16T17:15:00+01:00",
+"artist": "Fettes Brot",
+"title": "Jein"
+},
+{
+"id": "2026-11-16T17:06|BICEP feat. SOARR|Air (Radio Edit)",
+"t": "2026-11-16T17:06:00+01:00",
+"artist": "BICEP feat. SOARR",
+"title": "Air (Radio Edit)"
+},
+{
+"id": "2026-11-16T16:56|Boy Harsher|Tough Luck (When You Don't Call)",
+"t": "2026-11-16T16:56:00+01:00",
+"artist": "Boy Harsher",
+"title": "Tough Luck (When You Don't Call)"
+},
+{
+"id": "2026-11-16T16:49|Jamie T|Tallahassee",
+"t": "2026-11-16T16:49:00+01:00",
+"artist": "Jamie T",
+"title": "Tallahassee"
+},
+{
+"id": "2026-11-16T16:45|Kylie Minogue|Slow",
+"t": "2026-11-16T16:45:00+01:00",
+"artist": "Kylie Minogue",
+"title": "Slow"
+},
+{
+"id": "2026-11-16T16:41|Steve Miller Band|Fly Like An Eagle",
+"t": "2026-11-16T16:41:00+01:00",
+"artist": "Steve Miller Band",
+"title": "Fly Like An Eagle"
+},
+{
+"id": "2026-11-16T16:33|Antony Szmierek|Chalk (Radio Edit)",
+"t": "2026-11-16T16:33:00+01:00",
+"artist": "Antony Szmierek",
+"title": "Chalk (Radio Edit)"
+},
+{
+"id": "2026-11-16T16:24|Adele|Skyfall",
+"t": "2026-11-16T16:24:00+01:00",
+"artist": "Adele",
+"title": "Skyfall"
+},
+{
+"id": "2026-11-16T16:18|MRCY feat. Yazmin Lacey|Better Days",
+"t": "2026-11-16T16:18:00+01:00",
+"artist": "MRCY feat. Yazmin Lacey",
+"title": "Better Days"
+},
+{
+"id": "2026-11-16T16:15|Harp|Throne Of Amber (Edit)",
+"t": "2026-11-16T16:15:00+01:00",
+"artist": "Harp",
+"title": "Throne Of Amber (Edit)"
+},
+{
+"id": "2026-11-16T16:07|RAYE|Where is my husband!",
+"t": "2026-11-16T16:07:00+01:00",
+"artist": "RAYE",
+"title": "Where is my husband!"
+},
+{
+"id": "2026-11-16T15:57|Stella Donnelly|Laying Low",
+"t": "2026-11-16T15:57:00+01:00",
+"artist": "Stella Donnelly",
+"title": "Laying Low"
+},
+{
+"id": "2026-11-16T15:50|Nihils|Lavender",
+"t": "2026-11-16T15:50:00+01:00",
+"artist": "Nihils",
+"title": "Lavender"
+},
+{
+"id": "2026-11-16T15:44|The Doobie Brothers|What A Fool Believes",
+"t": "2026-11-16T15:44:00+01:00",
+"artist": "The Doobie Brothers",
+"title": "What A Fool Believes"
+},
+{
+"id": "2026-11-16T15:31|Methyl Ethel|Trip The Mains",
+"t": "2026-11-16T15:31:00+01:00",
+"artist": "Methyl Ethel",
+"title": "Trip The Mains"
+},
+{
+"id": "2026-11-16T15:24|Otto von Bismarck|Leichtes Spiel",
+"t": "2026-11-16T15:24:00+01:00",
+"artist": "Otto von Bismarck",
+"title": "Leichtes Spiel"
+},
+{
+"id": "2026-11-16T15:21|Fun Lovin' Criminals|Love Unlimited",
+"t": "2026-11-16T15:21:00+01:00",
+"artist": "Fun Lovin' Criminals",
+"title": "Love Unlimited"
+},
+{
+"id": "2026-11-16T15:18|Dekker|Pick It Up, Put It Back",
+"t": "2026-11-16T15:18:00+01:00",
+"artist": "Dekker",
+"title": "Pick It Up, Put It Back"
+},
+{
+"id": "2026-11-16T15:08|Natalie Bergmann|White Oak (Kosta G. Remix)",
+"t": "2026-11-16T15:08:00+01:00",
+"artist": "Natalie Bergmann",
+"title": "White Oak (Kosta G. Remix)"
+},
 {
 "id": "2026-11-16T15:05|Sydney Minsky Sargeant|I Don't Wanna",
 "t": "2026-11-16T15:05:00+01:00",
@@ -9192,186 +9420,6 @@
 "t": "2026-11-09T18:26:00+01:00",
 "artist": "Gabriels",
 "title": "Break It"
-},
-{
-"id": "2026-11-09T18:19|Bonaparte|Weinbar",
-"t": "2026-11-09T18:19:00+01:00",
-"artist": "Bonaparte",
-"title": "Weinbar"
-},
-{
-"id": "2026-11-09T18:16|Talking Heads|Road To Nowhere",
-"t": "2026-11-09T18:16:00+01:00",
-"artist": "Talking Heads",
-"title": "Road To Nowhere"
-},
-{
-"id": "2026-11-09T18:06|Antony Szmierek|Seminal (Edit)",
-"t": "2026-11-09T18:06:00+01:00",
-"artist": "Antony Szmierek",
-"title": "Seminal (Edit)"
-},
-{
-"id": "2026-11-09T17:57|54 Ultra|Tell Me",
-"t": "2026-11-09T17:57:00+01:00",
-"artist": "54 Ultra",
-"title": "Tell Me"
-},
-{
-"id": "2026-11-09T17:51|Wallners|Games (Radio Edit)",
-"t": "2026-11-09T17:51:00+01:00",
-"artist": "Wallners",
-"title": "Games (Radio Edit)"
-},
-{
-"id": "2026-11-09T17:48|Grim104|Monstera",
-"t": "2026-11-09T17:48:00+01:00",
-"artist": "Grim104",
-"title": "Monstera"
-},
-{
-"id": "2026-11-09T17:44|The Drums feat. Mareux|It Didn't Matter",
-"t": "2026-11-09T17:44:00+01:00",
-"artist": "The Drums feat. Mareux",
-"title": "It Didn't Matter"
-},
-{
-"id": "2026-11-09T17:36|Gus Gus|Ladyshave",
-"t": "2026-11-09T17:36:00+01:00",
-"artist": "Gus Gus",
-"title": "Ladyshave"
-},
-{
-"id": "2026-11-09T17:33|Kaktus Einarsson feat. John Grant|Follow",
-"t": "2026-11-09T17:33:00+01:00",
-"artist": "Kaktus Einarsson feat. John Grant",
-"title": "Follow"
-},
-{
-"id": "2026-11-09T17:25|Jalen Ngonda|If You Don't Want My Love",
-"t": "2026-11-09T17:25:00+01:00",
-"artist": "Jalen Ngonda",
-"title": "If You Don't Want My Love"
-},
-{
-"id": "2026-11-09T17:23|The Asteroids Galaxy Tour|My Club",
-"t": "2026-11-09T17:23:00+01:00",
-"artist": "The Asteroids Galaxy Tour",
-"title": "My Club"
-},
-{
-"id": "2026-11-09T17:17|Nia Archives|There Goes Ma Head",
-"t": "2026-11-09T17:17:00+01:00",
-"artist": "Nia Archives",
-"title": "There Goes Ma Head"
-},
-{
-"id": "2026-11-09T17:08|Carrtoons feat. Hailé Supreme|Labor Of Love",
-"t": "2026-11-09T17:08:00+01:00",
-"artist": "Carrtoons feat. Hailé Supreme",
-"title": "Labor Of Love"
-},
-{
-"id": "2026-11-09T17:05|Fun Lovin' Criminals|Scooby Snacks",
-"t": "2026-11-09T17:05:00+01:00",
-"artist": "Fun Lovin' Criminals",
-"title": "Scooby Snacks"
-},
-{
-"id": "2026-11-09T16:56|Miike Snow|I Was A Sailor",
-"t": "2026-11-09T16:56:00+01:00",
-"artist": "Miike Snow",
-"title": "I Was A Sailor"
-},
-{
-"id": "2026-11-09T16:49|Widowspeak|Soft Cover (Edit)",
-"t": "2026-11-09T16:49:00+01:00",
-"artist": "Widowspeak",
-"title": "Soft Cover (Edit)"
-},
-{
-"id": "2026-11-09T16:46|Lou Reed|Satellite Of Love",
-"t": "2026-11-09T16:46:00+01:00",
-"artist": "Lou Reed",
-"title": "Satellite Of Love"
-},
-{
-"id": "2026-11-09T16:42|Ex:Re|Sleep",
-"t": "2026-11-09T16:42:00+01:00",
-"artist": "Ex:Re",
-"title": "Sleep"
-},
-{
-"id": "2026-11-09T16:39|Ibibio Sound Machine|Love",
-"t": "2026-11-09T16:39:00+01:00",
-"artist": "Ibibio Sound Machine",
-"title": "Love"
-},
-{
-"id": "2026-11-09T16:32|Beirut|Fisher Island Sound",
-"t": "2026-11-09T16:32:00+01:00",
-"artist": "Beirut",
-"title": "Fisher Island Sound"
-},
-{
-"id": "2026-11-09T16:23|Tracey Thorn|Hormones",
-"t": "2026-11-09T16:23:00+01:00",
-"artist": "Tracey Thorn",
-"title": "Hormones"
-},
-{
-"id": "2026-11-09T16:19|Sepalot|My Own Way",
-"t": "2026-11-09T16:19:00+01:00",
-"artist": "Sepalot",
-"title": "My Own Way"
-},
-{
-"id": "2026-11-09T16:15|Interpol|Iron City",
-"t": "2026-11-09T16:15:00+01:00",
-"artist": "Interpol",
-"title": "Iron City"
-},
-{
-"id": "2026-11-09T16:06|LCD Soundsystem|Home (Tom Sharkett Edit 2)",
-"t": "2026-11-09T16:06:00+01:00",
-"artist": "LCD Soundsystem",
-"title": "Home (Tom Sharkett Edit 2)"
-},
-{
-"id": "2026-11-09T15:58|The Avalanches feat. Karen O|Blue Shadows",
-"t": "2026-11-09T15:58:00+01:00",
-"artist": "The Avalanches feat. Karen O",
-"title": "Blue Shadows"
-},
-{
-"id": "2026-11-09T15:52|Big Thief|All Night All Day",
-"t": "2026-11-09T15:52:00+01:00",
-"artist": "Big Thief",
-"title": "All Night All Day"
-},
-{
-"id": "2026-11-09T15:45|Timmy Thomas|Why Can't We Live Together",
-"t": "2026-11-09T15:45:00+01:00",
-"artist": "Timmy Thomas",
-"title": "Why Can't We Live Together"
-},
-{
-"id": "2026-11-09T15:32|1-800 Girls feat. Art School Girlfriend|sometimes",
-"t": "2026-11-09T15:32:00+01:00",
-"artist": "1-800 Girls feat. Art School Girlfriend",
-"title": "sometimes"
-},
-{
-"id": "2026-11-09T15:23|Innenräume|Im Gegenlicht",
-"t": "2026-11-09T15:23:00+01:00",
-"artist": "Innenräume",
-"title": "Im Gegenlicht"
-},
-{
-"id": "2026-11-09T15:19|Sleater-Kinney|Can I go on",
-"t": "2026-11-09T15:19:00+01:00",
-"artist": "Sleater-Kinney",
-"title": "Can I go on"
 }
 ]
 }
