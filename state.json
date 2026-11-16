@@ -1,9 +1,9 @@
 {
-"updated": "2026-11-16T18:33:48.150374+01:00",
+"updated": "2026-11-16T18:45:48.150694+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
-"synced": "2026-11-16T18:21:48.150017+01:00",
+"synced": "2026-11-16T18:37:48.150471+01:00",
 "pruned": "2026-11-16",
 "calls": {
 "2026-11-09": 172,
@@ -13,12 +13,28 @@
 "2026-11-13": 149,
 "2026-11-14": 145,
 "2026-11-15": 93,
-"2026-11-16": 118
+"2026-11-16": 132
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAh8Akfrkj7YszH5DQjvzu9dt4IJtA7",
+"snapshot": "AAAh9pYJAcyMNefte5f8xycGSXghXWTH",
 "playlist": [
+[
+"2026-11-16T18:33|Sivert Høyem|Sleepwalking Man",
+"spotify:track:0wn4T3IxuOj3rKgbDzSEac"
+],
+[
+"2026-11-16T18:25|LA Priest|Rayon",
+"spotify:track:2weT26RNcHVHWcLiIpsk4l"
+],
+[
+"2026-11-16T18:22|Jordan Rakei|Enemies",
+"spotify:track:0X9GwAax0c0HPe3iIoDVW6"
+],
+[
+"2026-11-16T18:19|Tuvaband|Im Safely Passing in Time",
+"spotify:track:4j4DRKqZ0wUeKMLSkFZ8O5"
+],
 [
 "2026-11-16T18:09|Meshell Ndegeocello feat. Cat Power|Don’t You Want Me",
 "spotify:track:5sbCqST9M4Q1sRSJM6L6oT"
@@ -44,8 +60,20 @@
 "spotify:track:2hUOnJj6B7938kFBcPO6l5"
 ],
 [
+"2026-11-16T17:34|Yeah Yeah Yeahs|Heads Will Roll",
+"spotify:track:2WRFD9WczJ975X2K1Y9YVs"
+],
+[
+"2026-11-16T17:26|Christine and the Queens & Thee Diane|Ah Ya",
+"spotify:track:3MaYsrNTYEASQ8Ean2d8WE"
+],
+[
 "2026-11-16T17:22|Hot Chip|Random Violence (Radio Edit)",
 "spotify:track:0T3vTM8KUAwGMukdAhNVj2"
+],
+[
+"2026-11-16T17:15|Fettes Brot|Jein",
+"spotify:track:4Opr7jkRw4hHO22XpynYC9"
 ],
 [
 "2026-11-16T17:06|BICEP feat. SOARR|Air (Radio Edit)",
@@ -60,8 +88,32 @@
 "spotify:track:3Kwdvrz5PTUpAObYKNPlz0"
 ],
 [
+"2026-11-16T16:45|Kylie Minogue|Slow",
+"spotify:track:0JfBvuhPjLqsgMWzXgy0ip"
+],
+[
+"2026-11-16T16:41|Steve Miller Band|Fly Like An Eagle",
+"spotify:track:3e0FzZjTXOUtiJGSClOBrI"
+],
+[
 "2026-11-16T16:33|Antony Szmierek|Chalk (Radio Edit)",
 "spotify:track:5HdeMdzAlNKwCM4L9cjehN"
+],
+[
+"2026-11-16T16:24|Adele|Skyfall",
+"spotify:track:6VObnIkLVruX4UVyxWhlqm"
+],
+[
+"2026-11-16T16:18|MRCY feat. Yazmin Lacey|Better Days",
+"spotify:track:04LrMPgfrbskqRMeTPeZlJ"
+],
+[
+"2026-11-16T16:15|Harp|Throne Of Amber (Edit)",
+"spotify:track:0o0poDJFR3tknRxiNVjdRb"
+],
+[
+"2026-11-16T16:07|RAYE|Where is my husband!",
+"spotify:track:55lijDD6OAjLFFUHU9tcDm"
 ],
 [
 "2026-11-16T15:57|Stella Donnelly|Laying Low",
@@ -70,6 +122,14 @@
 [
 "2026-11-16T15:50|Nihils|Lavender",
 "spotify:track:24IHKK4RZRa5WYOEigkp5h"
+],
+[
+"2026-11-16T15:44|The Doobie Brothers|What A Fool Believes",
+"spotify:track:2yBVeksU2EtrPJbTu4ZslK"
+],
+[
+"2026-11-16T15:31|Methyl Ethel|Trip The Mains",
+"spotify:track:3Fcdn8WbtTAvgD69y8deK0"
 ],
 [
 "2026-11-16T15:18|Dekker|Pick It Up, Put It Back",
@@ -4033,6 +4093,18 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-11-16T18:37|Lea Porcelain|Choirs To Heaven",
+"t": "2026-11-16T18:37:00+01:00",
+"artist": "Lea Porcelain",
+"title": "Choirs To Heaven"
+},
+{
+"id": "2026-11-16T18:33|Sivert Høyem|Sleepwalking Man",
+"t": "2026-11-16T18:33:00+01:00",
+"artist": "Sivert Høyem",
+"title": "Sleepwalking Man"
+},
 {
 "id": "2026-11-16T18:25|LA Priest|Rayon",
 "t": "2026-11-16T18:25:00+01:00",
@@ -9414,24 +9486,6 @@
 "t": "2026-11-09T18:46:00+01:00",
 "artist": "Thievery Corporation",
 "title": "Lebanese Blonde"
-},
-{
-"id": "2026-11-09T18:43|Readymade FC feat. Queen Kaltoum|The Light At The End Of The Tunnel",
-"t": "2026-11-09T18:43:00+01:00",
-"artist": "Readymade FC feat. Queen Kaltoum",
-"title": "The Light At The End Of The Tunnel"
-},
-{
-"id": "2026-11-09T18:41|Kaeto|Words",
-"t": "2026-11-09T18:41:00+01:00",
-"artist": "Kaeto",
-"title": "Words"
-},
-{
-"id": "2026-11-09T18:35|Mishlawi|All Night",
-"t": "2026-11-09T18:35:00+01:00",
-"artist": "Mishlawi",
-"title": "All Night"
 }
 ]
 }
