@@ -1,5 +1,5 @@
 {
-"updated": "2026-11-16T12:47:47.858716+01:00",
+"updated": "2026-11-16T12:59:47.859065+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
@@ -13,7 +13,7 @@
 "2026-11-13": 149,
 "2026-11-14": 145,
 "2026-11-15": 93,
-"2026-11-16": 77
+"2026-11-16": 80
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
@@ -3865,6 +3865,18 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-11-16T12:51|Sam Burton|I'm A Stranger",
+"t": "2026-11-16T12:51:00+01:00",
+"artist": "Sam Burton",
+"title": "I'm A Stranger"
+},
+{
+"id": "2026-11-16T12:47|Les Rita Mitsouko|Marcia Baila",
+"t": "2026-11-16T12:47:00+01:00",
+"artist": "Les Rita Mitsouko",
+"title": "Marcia Baila"
+},
 {
 "id": "2026-11-16T12:42|Escape From New York|Fire In My Heart",
 "t": "2026-11-16T12:42:00+01:00",
@@ -9258,24 +9270,6 @@
 "t": "2026-11-09T13:06:00+01:00",
 "artist": "Ibeyi",
 "title": "Hurry Hurry"
-},
-{
-"id": "2026-11-09T12:54|Tessa Rose Jackson|Built To Collide",
-"t": "2026-11-09T12:54:00+01:00",
-"artist": "Tessa Rose Jackson",
-"title": "Built To Collide"
-},
-{
-"id": "2026-11-09T12:51|Grace Cummings|I'm Not Crazy",
-"t": "2026-11-09T12:51:00+01:00",
-"artist": "Grace Cummings",
-"title": "I'm Not Crazy"
-},
-{
-"id": "2026-11-09T12:48|Jonathan Jeremiah|Happiness (Morgan Geist Remix)",
-"t": "2026-11-09T12:48:00+01:00",
-"artist": "Jonathan Jeremiah",
-"title": "Happiness (Morgan Geist Remix)"
 }
 ]
 }
