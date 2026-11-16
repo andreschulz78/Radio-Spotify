@@ -1,9 +1,9 @@
 {
-"updated": "2026-11-16T12:23:47.858044+01:00",
+"updated": "2026-11-16T12:35:47.858350+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
-"synced": "2026-11-16T12:15:47.857808+01:00",
+"synced": "2026-11-16T12:31:47.858240+01:00",
 "pruned": "2026-11-16",
 "calls": {
 "2026-11-09": 172,
@@ -13,12 +13,24 @@
 "2026-11-13": 149,
 "2026-11-14": 145,
 "2026-11-15": 93,
-"2026-11-16": 69
+"2026-11-16": 71
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAh5C1itk1FimLtZdEIqBto8gbRzlGk",
+"snapshot": "AAAh5U641j9wQjtOoaC4ZWovhKA/L25g",
 "playlist": [
+[
+"2026-11-16T12:26|Nia Archives|Vertical",
+"spotify:track:0ecQazzKkndVD8Ry9Orp9Q"
+],
+[
+"2026-11-16T12:22|Phoebe Bridgers|Lost Boys (Radio Edit)",
+"spotify:track:2Rbkkd9pKlLtBOhsp5NmSI"
+],
+[
+"2026-11-16T12:16|Jamie Woon|Heavy Going...",
+"spotify:track:79ieU2vuYImbGnz3E3a9Y3"
+],
 [
 "2026-11-16T12:08|Villagers|Mountain Out Of A Molehill",
 "spotify:track:6XiREk9KhKOGI2iRS6ltAb"
@@ -3837,6 +3849,24 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-11-16T12:30|Skeleten|Walking On Your Name",
+"t": "2026-11-16T12:30:00+01:00",
+"artist": "Skeleten",
+"title": "Walking On Your Name"
+},
+{
+"id": "2026-11-16T12:26|Nia Archives|Vertical",
+"t": "2026-11-16T12:26:00+01:00",
+"artist": "Nia Archives",
+"title": "Vertical"
+},
+{
+"id": "2026-11-16T12:22|Phoebe Bridgers|Lost Boys (Radio Edit)",
+"t": "2026-11-16T12:22:00+01:00",
+"artist": "Phoebe Bridgers",
+"title": "Lost Boys (Radio Edit)"
+},
 {
 "id": "2026-11-16T12:16|Jamie Woon|Heavy Going...",
 "t": "2026-11-16T12:16:00+01:00",
@@ -9230,18 +9260,6 @@
 "t": "2026-11-09T12:36:00+01:00",
 "artist": "Buckshot LeFonque",
 "title": "Music Evolution"
-},
-{
-"id": "2026-11-09T12:30|Keimzeit|Ein schöner Tag",
-"t": "2026-11-09T12:30:00+01:00",
-"artist": "Keimzeit",
-"title": "Ein schöner Tag"
-},
-{
-"id": "2026-11-09T12:24|Jack Johnson|My Mind Is For Sale",
-"t": "2026-11-09T12:24:00+01:00",
-"artist": "Jack Johnson",
-"title": "My Mind Is For Sale"
 }
 ]
 }
