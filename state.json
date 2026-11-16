@@ -1,5 +1,5 @@
 {
-"updated": "2026-11-16T18:21:48.150017+01:00",
+"updated": "2026-11-16T18:33:48.150374+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
@@ -13,7 +13,7 @@
 "2026-11-13": 149,
 "2026-11-14": 145,
 "2026-11-15": 93,
-"2026-11-16": 108
+"2026-11-16": 118
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
@@ -4033,6 +4033,24 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-11-16T18:25|LA Priest|Rayon",
+"t": "2026-11-16T18:25:00+01:00",
+"artist": "LA Priest",
+"title": "Rayon"
+},
+{
+"id": "2026-11-16T18:22|Jordan Rakei|Enemies",
+"t": "2026-11-16T18:22:00+01:00",
+"artist": "Jordan Rakei",
+"title": "Enemies"
+},
+{
+"id": "2026-11-16T18:19|Tuvaband|Im Safely Passing in Time",
+"t": "2026-11-16T18:19:00+01:00",
+"artist": "Tuvaband",
+"title": "Im Safely Passing in Time"
+},
 {
 "id": "2026-11-16T18:09|Meshell Ndegeocello feat. Cat Power|Don’t You Want Me",
 "t": "2026-11-16T18:09:00+01:00",
@@ -9414,12 +9432,6 @@
 "t": "2026-11-09T18:35:00+01:00",
 "artist": "Mishlawi",
 "title": "All Night"
-},
-{
-"id": "2026-11-09T18:26|Gabriels|Break It",
-"t": "2026-11-09T18:26:00+01:00",
-"artist": "Gabriels",
-"title": "Break It"
 }
 ]
 }
