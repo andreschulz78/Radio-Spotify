@@ -1,5 +1,5 @@
 {
-"updated": "2026-11-16T09:19:38.986379+01:00",
+"updated": "2026-11-16T09:31:38.986757+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
@@ -13,7 +13,7 @@
 "2026-11-13": 149,
 "2026-11-14": 145,
 "2026-11-15": 93,
-"2026-11-16": 41
+"2026-11-16": 42
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
@@ -3717,6 +3717,24 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-11-16T09:25|EELS|Congratulations To Me",
+"t": "2026-11-16T09:25:00+01:00",
+"artist": "EELS",
+"title": "Congratulations To Me"
+},
+{
+"id": "2026-11-16T09:18|Joyce Sims|Come into my life",
+"t": "2026-11-16T09:18:00+01:00",
+"artist": "Joyce Sims",
+"title": "Come into my life"
+},
+{
+"id": "2026-11-16T09:13|Extra Credit|It's Over (Edit)",
+"t": "2026-11-16T09:13:00+01:00",
+"artist": "Extra Credit",
+"title": "It's Over (Edit)"
+},
 {
 "id": "2026-11-16T09:06|Tikhet|Burndowner",
 "t": "2026-11-16T09:06:00+01:00",
@@ -9110,18 +9128,6 @@
 "t": "2026-11-09T09:34:00+01:00",
 "artist": "Avalon Emerson",
 "title": "Hot Evening"
-},
-{
-"id": "2026-11-09T09:26|Paul Kalkbrenner|Graf Zahl (Edit)",
-"t": "2026-11-09T09:26:00+01:00",
-"artist": "Paul Kalkbrenner",
-"title": "Graf Zahl (Edit)"
-},
-{
-"id": "2026-11-09T09:23|Sly & The Family Stone|Family Affair",
-"t": "2026-11-09T09:23:00+01:00",
-"artist": "Sly & The Family Stone",
-"title": "Family Affair"
 }
 ]
 }
