@@ -1,9 +1,9 @@
 {
-"updated": "2026-11-16T12:35:47.858350+01:00",
+"updated": "2026-11-16T12:47:47.858716+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
-"synced": "2026-11-16T12:31:47.858240+01:00",
+"synced": "2026-11-16T12:47:47.858716+01:00",
 "pruned": "2026-11-16",
 "calls": {
 "2026-11-09": 172,
@@ -13,12 +13,28 @@
 "2026-11-13": 149,
 "2026-11-14": 145,
 "2026-11-15": 93,
-"2026-11-16": 71
+"2026-11-16": 77
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAh5U641j9wQjtOoaC4ZWovhKA/L25g",
+"snapshot": "AAAh5gB35N+dazeJXtR+/T9FSRKrzRrw",
 "playlist": [
+[
+"2026-11-16T12:42|Escape From New York|Fire In My Heart",
+"spotify:track:0tZvQzUshPO6FsZyZnnvVi"
+],
+[
+"2026-11-16T12:38|Khruangbin|August 10",
+"spotify:track:2MIavWMdvbYuRoA2Cw6VkN"
+],
+[
+"2026-11-16T12:35|Jean-Michel Jarre & Laurie Anderson|Rely On Me",
+"spotify:track:48hYVnFENX4BY9nPJO0mcU"
+],
+[
+"2026-11-16T12:30|Skeleten|Walking On Your Name",
+"spotify:track:0sbcE7ltIt3tM47UTK0mmP"
+],
 [
 "2026-11-16T12:26|Nia Archives|Vertical",
 "spotify:track:0ecQazzKkndVD8Ry9Orp9Q"
@@ -3849,6 +3865,24 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-11-16T12:42|Escape From New York|Fire In My Heart",
+"t": "2026-11-16T12:42:00+01:00",
+"artist": "Escape From New York",
+"title": "Fire In My Heart"
+},
+{
+"id": "2026-11-16T12:38|Khruangbin|August 10",
+"t": "2026-11-16T12:38:00+01:00",
+"artist": "Khruangbin",
+"title": "August 10"
+},
+{
+"id": "2026-11-16T12:35|Jean-Michel Jarre & Laurie Anderson|Rely On Me",
+"t": "2026-11-16T12:35:00+01:00",
+"artist": "Jean-Michel Jarre & Laurie Anderson",
+"title": "Rely On Me"
+},
 {
 "id": "2026-11-16T12:30|Skeleten|Walking On Your Name",
 "t": "2026-11-16T12:30:00+01:00",
@@ -9242,24 +9276,6 @@
 "t": "2026-11-09T12:48:00+01:00",
 "artist": "Jonathan Jeremiah",
 "title": "Happiness (Morgan Geist Remix)"
-},
-{
-"id": "2026-11-09T12:44|Fleetwood Mac|Gypsy",
-"t": "2026-11-09T12:44:00+01:00",
-"artist": "Fleetwood Mac",
-"title": "Gypsy"
-},
-{
-"id": "2026-11-09T12:41|Eilis Frawley|Taken, Never Erased",
-"t": "2026-11-09T12:41:00+01:00",
-"artist": "Eilis Frawley",
-"title": "Taken, Never Erased"
-},
-{
-"id": "2026-11-09T12:36|Buckshot LeFonque|Music Evolution",
-"t": "2026-11-09T12:36:00+01:00",
-"artist": "Buckshot LeFonque",
-"title": "Music Evolution"
 }
 ]
 }
