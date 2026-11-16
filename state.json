@@ -1,9 +1,9 @@
 {
-"updated": "2026-11-16T05:07:38.979522+01:00",
+"updated": "2026-11-16T05:19:38.979846+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
-"synced": "2026-11-16T05:03:38.979412+01:00",
+"synced": "2026-11-16T05:19:38.979846+01:00",
 "pruned": "2026-11-16",
 "calls": {
 "2026-11-09": 172,
@@ -12,12 +12,20 @@
 "2026-11-12": 185,
 "2026-11-13": 149,
 "2026-11-14": 145,
-"2026-11-15": 90
+"2026-11-15": 93
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAhwbPGgIuuik405tmxAzI8LPRjwvrl",
+"snapshot": "AAAhwiej5T2fH2ZTKZ7Z7cv26a8Ywo2G",
 "playlist": [
+[
+"2026-11-16T05:08|Die Fantastischen Vier|Der Picknicker",
+"spotify:track:1FPjlBFmvsXhBHvdJAbp77"
+],
+[
+"2026-11-16T05:03|Kelela|Contact",
+"spotify:track:02uslYmKRGArhSEe3Z72qm"
+],
 [
 "2026-11-15T11:57|Johnny Cash|If You Could Read My Mind",
 "spotify:track:0xTggtP2weZNXgY7s0dh2b"
@@ -3584,6 +3592,18 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-11-16T05:08|Die Fantastischen Vier|Der Picknicker",
+"t": "2026-11-16T05:08:00+01:00",
+"artist": "Die Fantastischen Vier",
+"title": "Der Picknicker"
+},
+{
+"id": "2026-11-16T05:03|Kelela|Contact",
+"t": "2026-11-16T05:03:00+01:00",
+"artist": "Kelela",
+"title": "Contact"
+},
 {
 "id": "2026-11-15T11:57|Johnny Cash|If You Could Read My Mind",
 "t": "2026-11-15T11:57:00+01:00",
@@ -8983,18 +9003,6 @@
 "t": "2026-11-09T05:25:00+01:00",
 "artist": "Fontaines D.C.",
 "title": "Marianne"
-},
-{
-"id": "2026-11-09T05:17|AGASSI|The Whole Shebang",
-"t": "2026-11-09T05:17:00+01:00",
-"artist": "AGASSI",
-"title": "The Whole Shebang"
-},
-{
-"id": "2026-11-09T05:10|Keshavara|Oracular",
-"t": "2026-11-09T05:10:00+01:00",
-"artist": "Keshavara",
-"title": "Oracular"
 }
 ]
 }
