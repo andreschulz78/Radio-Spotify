@@ -1,9 +1,9 @@
 {
-"updated": "2026-11-16T14:11:47.861152+01:00",
+"updated": "2026-11-16T14:23:47.861502+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
-"synced": "2026-11-16T14:07:47.861023+01:00",
+"synced": "2026-11-16T14:23:47.861502+01:00",
 "pruned": "2026-11-16",
 "calls": {
 "2026-11-09": 172,
@@ -13,12 +13,24 @@
 "2026-11-13": 149,
 "2026-11-14": 145,
 "2026-11-15": 93,
-"2026-11-16": 94
+"2026-11-16": 96
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAh6zzS8O47hurS5B5pS7SONfxzH9Qi",
+"snapshot": "AAAh7DwmMwC3XT72pZiIv50oxzZVAq1s",
 "playlist": [
+[
+"2026-11-16T14:17|Faithless|Miss U Less, See U More",
+"spotify:track:2ojL9cOWfePbVRM4YZYD4B"
+],
+[
+"2026-11-16T14:10|Automatic|Shadowplay",
+"spotify:track:0pT1m2UpNBliUb6W7S7YzA"
+],
+[
+"2026-11-16T14:05|Yard Act|You're Gonna Need A Little Music",
+"spotify:track:43KS2LpjMVkvJdprLaoQxQ"
+],
 [
 "2026-11-16T13:55|Father John Misty|The Old Law",
 "spotify:track:1JeJ5XwrM2qPa7tDS2CRQx"
@@ -3921,6 +3933,18 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-11-16T14:17|Faithless|Miss U Less, See U More",
+"t": "2026-11-16T14:17:00+01:00",
+"artist": "Faithless",
+"title": "Miss U Less, See U More"
+},
+{
+"id": "2026-11-16T14:10|Automatic|Shadowplay",
+"t": "2026-11-16T14:10:00+01:00",
+"artist": "Automatic",
+"title": "Shadowplay"
+},
 {
 "id": "2026-11-16T14:05|Yard Act|You're Gonna Need A Little Music",
 "t": "2026-11-16T14:05:00+01:00",
@@ -9308,18 +9332,6 @@
 "t": "2026-11-09T14:24:00+01:00",
 "artist": "Buffalo Springfield",
 "title": "For What It's Worth"
-},
-{
-"id": "2026-11-09T14:19|Nightmares On Wax feat. Mozez|You Wish (Abbey Road Fuzz Gospel Version)",
-"t": "2026-11-09T14:19:00+01:00",
-"artist": "Nightmares On Wax feat. Mozez",
-"title": "You Wish (Abbey Road Fuzz Gospel Version)"
-},
-{
-"id": "2026-11-09T14:16|The Goo Goo Dolls|Iris",
-"t": "2026-11-09T14:16:00+01:00",
-"artist": "The Goo Goo Dolls",
-"title": "Iris"
 }
 ]
 }
