@@ -1,9 +1,9 @@
 {
-"updated": "2026-11-16T13:47:47.860433+01:00",
+"updated": "2026-11-16T13:59:47.860793+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
-"synced": "2026-11-16T13:35:47.860099+01:00",
+"synced": "2026-11-16T13:51:47.860567+01:00",
 "pruned": "2026-11-16",
 "calls": {
 "2026-11-09": 172,
@@ -13,12 +13,24 @@
 "2026-11-13": 149,
 "2026-11-14": 145,
 "2026-11-15": 93,
-"2026-11-16": 91
+"2026-11-16": 92
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAh6fPoZuVTWTKvp0sc+VD0Zy7O9dcU",
+"snapshot": "AAAh6odrxfg7nzU2+X7cgygxaiFz2C9q",
 "playlist": [
+[
+"2026-11-16T13:44|Arlo Parks|Heaven",
+"spotify:track:4zgFh0ZXkVcyXpJbteYviU"
+],
+[
+"2026-11-16T13:41|Flora Hibberd|Bowling Ball",
+"spotify:track:2Bqy2DIYw0DXkZj8gHTg2p"
+],
+[
+"2026-11-16T13:34|Camel Power Club|Thundergarou",
+"spotify:track:5T8f0BjnpIv6yeCF9fytTD"
+],
 [
 "2026-11-16T13:31|Jim James|Here In Spirit",
 "spotify:track:5GE8FTL15kS123apRK7vD4"
@@ -3901,6 +3913,18 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-11-16T13:48|Sparkling & COMA|It Won't Be Like This Forever",
+"t": "2026-11-16T13:48:00+01:00",
+"artist": "Sparkling & COMA",
+"title": "It Won't Be Like This Forever"
+},
+{
+"id": "2026-11-16T13:44|Arlo Parks|Heaven",
+"t": "2026-11-16T13:44:00+01:00",
+"artist": "Arlo Parks",
+"title": "Heaven"
+},
 {
 "id": "2026-11-16T13:41|Flora Hibberd|Bowling Ball",
 "t": "2026-11-16T13:41:00+01:00",
@@ -9282,18 +9306,6 @@
 "t": "2026-11-09T14:05:00+01:00",
 "artist": "Andrew Collberg",
 "title": "Hi Hopes (Edit)"
-},
-{
-"id": "2026-11-09T13:56|All Saints|Under The Bridge",
-"t": "2026-11-09T13:56:00+01:00",
-"artist": "All Saints",
-"title": "Under The Bridge"
-},
-{
-"id": "2026-11-09T13:50|Mike D|I Don't Care",
-"t": "2026-11-09T13:50:00+01:00",
-"artist": "Mike D",
-"title": "I Don't Care"
 }
 ]
 }
