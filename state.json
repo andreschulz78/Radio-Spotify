@@ -1,9 +1,9 @@
 {
-"updated": "2026-11-16T09:59:47.854035+01:00",
+"updated": "2026-11-16T10:11:47.854320+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
-"synced": "2026-11-16T09:51:47.853820+01:00",
+"synced": "2026-11-16T10:07:47.854219+01:00",
 "pruned": "2026-11-16",
 "calls": {
 "2026-11-09": 172,
@@ -13,12 +13,20 @@
 "2026-11-13": 149,
 "2026-11-14": 145,
 "2026-11-15": 93,
-"2026-11-16": 46
+"2026-11-16": 48
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAh2j7tdxHMzoTBNbECho9DCEYAjvyX",
+"snapshot": "AAAh23oPq3ijY3cA3fRs8hIkEPXwKoJZ",
 "playlist": [
+[
+"2026-11-16T09:55|Ibibio Sound Machine|Love",
+"spotify:track:0JGa4KrhqriWUuPcni3I8D"
+],
+[
+"2026-11-16T09:47|Ginuwine|Pony",
+"spotify:track:3svZIIzlpMS90gQR80GP3O"
+],
 [
 "2026-11-16T09:43|Sylvan Esso|Right to Left",
 "spotify:track:78xiuouD9dMXKXGKdDnjqB"
@@ -3741,6 +3749,18 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-11-16T10:05|Jacob Bellens|Back To You",
+"t": "2026-11-16T10:05:00+01:00",
+"artist": "Jacob Bellens",
+"title": "Back To You"
+},
+{
+"id": "2026-11-16T09:55|Ibibio Sound Machine|Love",
+"t": "2026-11-16T09:55:00+01:00",
+"artist": "Ibibio Sound Machine",
+"title": "Love"
+},
 {
 "id": "2026-11-16T09:47|Ginuwine|Pony",
 "t": "2026-11-16T09:47:00+01:00",
@@ -9140,18 +9160,6 @@
 "t": "2026-11-09T10:17:00+01:00",
 "artist": "Ayele",
 "title": "Fractured (Radio Edit)"
-},
-{
-"id": "2026-11-09T10:08|TOMORA|The Thing (Edit)",
-"t": "2026-11-09T10:08:00+01:00",
-"artist": "TOMORA",
-"title": "The Thing (Edit)"
-},
-{
-"id": "2026-11-09T10:05|Get Well Soon|Siri, What Ruined The West ?",
-"t": "2026-11-09T10:05:00+01:00",
-"artist": "Get Well Soon",
-"title": "Siri, What Ruined The West ?"
 }
 ]
 }
