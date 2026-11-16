@@ -1,9 +1,9 @@
 {
-"updated": "2026-11-16T07:55:38.984119+01:00",
+"updated": "2026-11-16T08:07:38.984470+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
-"synced": "2026-11-16T07:43:38.983819+01:00",
+"synced": "2026-11-16T07:59:38.984232+01:00",
 "pruned": "2026-11-16",
 "calls": {
 "2026-11-09": 172,
@@ -13,12 +13,20 @@
 "2026-11-13": 149,
 "2026-11-14": 145,
 "2026-11-15": 93,
-"2026-11-16": 25
+"2026-11-16": 27
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAhzg2l9afjZm7ftIwoCiVzPRaB8L8k",
+"snapshot": "AAAhz92+97pS7zOB+wkYoO57QuxdUOOI",
 "playlist": [
+[
+"2026-11-16T07:50|Anderson .Paak & Cordae|A Good Day",
+"spotify:track:4CrnExkcZkg6Aek113hAWl"
+],
+[
+"2026-11-16T07:43|The All Seeing I|Beat Goes On",
+"spotify:track:6IPFsG4OpNShJfJ4LoeJW0"
+],
 [
 "2026-11-16T07:35|Django Django|Cameos",
 "spotify:track:6q1og9CkTnFTTYqOSN9ed3"
@@ -3673,6 +3681,18 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-11-16T07:56|Incubus|Are You In",
+"t": "2026-11-16T07:56:00+01:00",
+"artist": "Incubus",
+"title": "Are You In"
+},
+{
+"id": "2026-11-16T07:50|Anderson .Paak & Cordae|A Good Day",
+"t": "2026-11-16T07:50:00+01:00",
+"artist": "Anderson .Paak & Cordae",
+"title": "A Good Day"
+},
 {
 "id": "2026-11-16T07:43|The All Seeing I|Beat Goes On",
 "t": "2026-11-16T07:43:00+01:00",
@@ -9072,18 +9092,6 @@
 "t": "2026-11-09T08:14:00+01:00",
 "artist": "Mother Soki",
 "title": "Thicken"
-},
-{
-"id": "2026-11-09T08:05|Das Pop|The Game",
-"t": "2026-11-09T08:05:00+01:00",
-"artist": "Das Pop",
-"title": "The Game"
-},
-{
-"id": "2026-11-09T07:56|Klee|Gold",
-"t": "2026-11-09T07:56:00+01:00",
-"artist": "Klee",
-"title": "Gold"
 }
 ]
 }
