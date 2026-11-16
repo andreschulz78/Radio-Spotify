@@ -1,9 +1,9 @@
 {
-"updated": "2026-11-16T08:43:38.985466+01:00",
+"updated": "2026-11-16T08:55:38.985756+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
-"synced": "2026-11-16T08:31:38.985118+01:00",
+"synced": "2026-11-16T08:47:38.985568+01:00",
 "pruned": "2026-11-16",
 "calls": {
 "2026-11-09": 172,
@@ -13,12 +13,20 @@
 "2026-11-13": 149,
 "2026-11-14": 145,
 "2026-11-15": 93,
-"2026-11-16": 33
+"2026-11-16": 38
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAh0Vczi18IbiEGZWuo6awYzdckE/ty",
+"snapshot": "AAAh1lkz9Gn0ihmKRKdDOclGTOaQ6ga+",
 "playlist": [
+[
+"2026-11-16T08:42|Joshua Idehen|Could Be Forever",
+"spotify:track:0ZUKth5xg7UM6Q73YhDq2w"
+],
+[
+"2026-11-16T08:35|Bat For Lashes|Daniel",
+"spotify:track:3jgGvWC8icBVtEj0ZzCvBf"
+],
 [
 "2026-11-16T08:26|Saigon Soul Revival|Ai Thật Lòng Yêu Ai",
 "spotify:track:3bnmNiAUsg93LesWjgi2OM"
@@ -3568,10 +3576,6 @@
 "spotify:track:06yOVBBnuLmPU7GdpWZZQb"
 ],
 [
-"2026-11-09T08:47|Genesis Owusu|Human Again",
-"spotify:track:3uP7jqdt4haiuL4acLhrDY"
-],
-[
 "2026-11-09T08:40|Nichtseattle|Meine Ladies",
 "spotify:track:2KzhbaZMPr8G4oOAS1jnvu"
 ],
@@ -3701,6 +3705,18 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-11-16T08:44|Interpol|Iron City",
+"t": "2026-11-16T08:44:00+01:00",
+"artist": "Interpol",
+"title": "Iron City"
+},
+{
+"id": "2026-11-16T08:42|Joshua Idehen|Could Be Forever",
+"t": "2026-11-16T08:42:00+01:00",
+"artist": "Joshua Idehen",
+"title": "Could Be Forever"
+},
 {
 "id": "2026-11-16T08:35|Bat For Lashes|Daniel",
 "t": "2026-11-16T08:35:00+01:00",
@@ -9100,18 +9116,6 @@
 "t": "2026-11-09T09:05:00+01:00",
 "artist": "Foxwarren",
 "title": "Listen2me"
-},
-{
-"id": "2026-11-09T08:54|Urban Species|Woman",
-"t": "2026-11-09T08:54:00+01:00",
-"artist": "Urban Species",
-"title": "Woman"
-},
-{
-"id": "2026-11-09T08:47|Genesis Owusu|Human Again",
-"t": "2026-11-09T08:47:00+01:00",
-"artist": "Genesis Owusu",
-"title": "Human Again"
 }
 ]
 }
