@@ -1,9 +1,9 @@
 {
-"updated": "2026-11-16T08:19:38.984795+01:00",
+"updated": "2026-11-16T08:31:38.985118+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
-"synced": "2026-11-16T08:15:38.984688+01:00",
+"synced": "2026-11-16T08:31:38.985118+01:00",
 "pruned": "2026-11-16",
 "calls": {
 "2026-11-09": 172,
@@ -13,12 +13,24 @@
 "2026-11-13": 149,
 "2026-11-14": 145,
 "2026-11-15": 93,
-"2026-11-16": 30
+"2026-11-16": 33
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAh0Duuq0kA0mpXkuF+qq9nthrCilHZ",
+"snapshot": "AAAh0Vczi18IbiEGZWuo6awYzdckE/ty",
 "playlist": [
+[
+"2026-11-16T08:26|Saigon Soul Revival|Ai Thật Lòng Yêu Ai",
+"spotify:track:3bnmNiAUsg93LesWjgi2OM"
+],
+[
+"2026-11-16T08:19|Led Zeppelin|D'yer Mak'er",
+"spotify:track:5uUhS7XDkyycNa5FaNfPGT"
+],
+[
+"2026-11-16T08:16|Jungle|Someday, Somewhere",
+"spotify:track:20FqWsyuUaQTU5tk4nP6eN"
+],
 [
 "2026-11-16T08:06|Groove Armada feat. Bryan Ferry|Shameless",
 "spotify:track:00ZEOjraE3jm7OAyTBg2BL"
@@ -3689,6 +3701,24 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-11-16T08:26|Saigon Soul Revival|Ai Thật Lòng Yêu Ai",
+"t": "2026-11-16T08:26:00+01:00",
+"artist": "Saigon Soul Revival",
+"title": "Ai Thật Lòng Yêu Ai"
+},
+{
+"id": "2026-11-16T08:19|Led Zeppelin|D'yer Mak'er",
+"t": "2026-11-16T08:19:00+01:00",
+"artist": "Led Zeppelin",
+"title": "D'yer Mak'er"
+},
+{
+"id": "2026-11-16T08:16|Jungle|Someday, Somewhere",
+"t": "2026-11-16T08:16:00+01:00",
+"artist": "Jungle",
+"title": "Someday, Somewhere"
+},
 {
 "id": "2026-11-16T08:06|Groove Armada feat. Bryan Ferry|Shameless",
 "t": "2026-11-16T08:06:00+01:00",
@@ -9088,12 +9118,6 @@
 "t": "2026-11-09T08:33:00+01:00",
 "artist": "Alewya",
 "title": "Cairo FM"
-},
-{
-"id": "2026-11-09T08:25|Nihils|Lavender",
-"t": "2026-11-09T08:25:00+01:00",
-"artist": "Nihils",
-"title": "Lavender"
 }
 ]
 }
