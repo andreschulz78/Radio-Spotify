@@ -1,9 +1,9 @@
 {
-"updated": "2026-11-16T13:23:47.859761+01:00",
+"updated": "2026-11-16T13:35:47.860099+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
-"synced": "2026-11-16T13:19:47.859647+01:00",
+"synced": "2026-11-16T13:35:47.860099+01:00",
 "pruned": "2026-11-16",
 "calls": {
 "2026-11-09": 172,
@@ -13,12 +13,28 @@
 "2026-11-13": 149,
 "2026-11-14": 145,
 "2026-11-15": 93,
-"2026-11-16": 84
+"2026-11-16": 89
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAh6JU1R1NFwCHSUzFWr2r/lYgeZlUp",
+"snapshot": "AAAh6fPoZuVTWTKvp0sc+VD0Zy7O9dcU",
 "playlist": [
+[
+"2026-11-16T13:31|Jim James|Here In Spirit",
+"spotify:track:5GE8FTL15kS123apRK7vD4"
+],
+[
+"2026-11-16T13:25|Braxe + Falcon feat. Sunni Colon|Elevation",
+"spotify:track:0vTkJkiYQriLDzdmSt0zHr"
+],
+[
+"2026-11-16T13:19|Blondie|Rapture",
+"spotify:track:0D6qZlc6vNR7PDW2RKGPsV"
+],
+[
+"2026-11-16T13:16|Radie Peat|Hares on the Mountain",
+"spotify:track:6R0wgXkbTNsw0ihyWEMEtG"
+],
 [
 "2026-11-16T13:09|INNENRÄUME|Zwischen den Spuren (Radio Edit)",
 "spotify:track:7KdcqWI6cLahL9BZW2OQvV"
@@ -3885,6 +3901,24 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-11-16T13:31|Jim James|Here In Spirit",
+"t": "2026-11-16T13:31:00+01:00",
+"artist": "Jim James",
+"title": "Here In Spirit"
+},
+{
+"id": "2026-11-16T13:25|Braxe + Falcon feat. Sunni Colon|Elevation",
+"t": "2026-11-16T13:25:00+01:00",
+"artist": "Braxe + Falcon feat. Sunni Colon",
+"title": "Elevation"
+},
+{
+"id": "2026-11-16T13:19|Blondie|Rapture",
+"t": "2026-11-16T13:19:00+01:00",
+"artist": "Blondie",
+"title": "Rapture"
+},
 {
 "id": "2026-11-16T13:16|Radie Peat|Hares on the Mountain",
 "t": "2026-11-16T13:16:00+01:00",
@@ -9266,18 +9300,6 @@
 "t": "2026-11-09T13:36:00+01:00",
 "artist": "Chinese American Bear",
 "title": "Dance Dance Dance (Edit)"
-},
-{
-"id": "2026-11-09T13:31|Kutiman feat. Dekel|My Everything",
-"t": "2026-11-09T13:31:00+01:00",
-"artist": "Kutiman feat. Dekel",
-"title": "My Everything"
-},
-{
-"id": "2026-11-09T13:26|Vince Staples|Tulsa, OK",
-"t": "2026-11-09T13:26:00+01:00",
-"artist": "Vince Staples",
-"title": "Tulsa, OK"
 }
 ]
 }
