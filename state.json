@@ -1,9 +1,9 @@
 {
-"updated": "2026-11-16T10:35:47.855050+01:00",
+"updated": "2026-11-16T10:47:47.855381+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
-"synced": "2026-11-16T10:23:47.854693+01:00",
+"synced": "2026-11-16T10:39:47.855162+01:00",
 "pruned": "2026-11-16",
 "calls": {
 "2026-11-09": 172,
@@ -13,12 +13,28 @@
 "2026-11-13": 149,
 "2026-11-14": 145,
 "2026-11-15": 93,
-"2026-11-16": 53
+"2026-11-16": 55
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAh3AdlWaoC2qcyv6fPlVYKJP0cuyvS",
+"snapshot": "AAAh3a+bzssf1IdKFyCZvZ1gz3iu82WD",
 "playlist": [
+[
+"2026-11-16T10:29|Midlake|Roscoe",
+"spotify:track:01qJhVPCHFFR6wJ5ptyw17"
+],
+[
+"2026-11-16T10:23|Stan Ridgway & Wall Of Voodoo|Mexican Radio",
+"spotify:track:1BtOAYgTkPnv1KRcLHqyxO"
+],
+[
+"2026-11-16T10:21|Σtella|Belinda",
+"spotify:track:1rs2lOYfBKNW5OCpeTIiVf"
+],
+[
+"2026-11-16T10:18|Boards of Canada|Roygbiv",
+"spotify:track:5Hf2h59YLInKlic7ooWZVd"
+],
 [
 "2026-11-16T10:16|Alewya|Maktoub",
 "spotify:track:56DYNKo3QHkakqOUkWi3vl"
@@ -3761,6 +3777,18 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-11-16T10:38|Beck|It Ends Right Here",
+"t": "2026-11-16T10:38:00+01:00",
+"artist": "Beck",
+"title": "It Ends Right Here"
+},
+{
+"id": "2026-11-16T10:34|Tracey Thorn|Raise The Roof",
+"t": "2026-11-16T10:34:00+01:00",
+"artist": "Tracey Thorn",
+"title": "Raise The Roof"
+},
 {
 "id": "2026-11-16T10:29|Midlake|Roscoe",
 "t": "2026-11-16T10:29:00+01:00",
@@ -9172,12 +9200,6 @@
 "t": "2026-11-09T10:49:00+01:00",
 "artist": "FLEECE",
 "title": "Where’s My Beach Hat"
-},
-{
-"id": "2026-11-09T10:45|Alabama Shakes|Don't Wanna Fight",
-"t": "2026-11-09T10:45:00+01:00",
-"artist": "Alabama Shakes",
-"title": "Don't Wanna Fight"
 }
 ]
 }
