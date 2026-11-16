@@ -1,5 +1,5 @@
 {
-"updated": "2026-11-16T08:31:38.985118+01:00",
+"updated": "2026-11-16T08:43:38.985466+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
@@ -3701,6 +3701,12 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-11-16T08:35|Bat For Lashes|Daniel",
+"t": "2026-11-16T08:35:00+01:00",
+"artist": "Bat For Lashes",
+"title": "Daniel"
+},
 {
 "id": "2026-11-16T08:26|Saigon Soul Revival|Ai Thật Lòng Yêu Ai",
 "t": "2026-11-16T08:26:00+01:00",
@@ -9106,18 +9112,6 @@
 "t": "2026-11-09T08:47:00+01:00",
 "artist": "Genesis Owusu",
 "title": "Human Again"
-},
-{
-"id": "2026-11-09T08:40|Nichtseattle|Meine Ladies",
-"t": "2026-11-09T08:40:00+01:00",
-"artist": "Nichtseattle",
-"title": "Meine Ladies"
-},
-{
-"id": "2026-11-09T08:33|Alewya|Cairo FM",
-"t": "2026-11-09T08:33:00+01:00",
-"artist": "Alewya",
-"title": "Cairo FM"
 }
 ]
 }
