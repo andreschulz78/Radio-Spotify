@@ -1,9 +1,9 @@
 {
-"updated": "2026-11-16T11:23:47.856352+01:00",
+"updated": "2026-11-16T11:35:47.856656+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
-"synced": "2026-11-16T11:11:47.855979+01:00",
+"synced": "2026-11-16T11:27:47.856427+01:00",
 "pruned": "2026-11-16",
 "calls": {
 "2026-11-09": 172,
@@ -13,12 +13,24 @@
 "2026-11-13": 149,
 "2026-11-14": 145,
 "2026-11-15": 93,
-"2026-11-16": 58
+"2026-11-16": 61
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAh35jt2qMcWXxulRSPLh6eHv6ijDEh",
+"snapshot": "AAAh4D+rcOiGJ76xk1wwlQ5x7rvgaloc",
 "playlist": [
+[
+"2026-11-16T11:19|America|A Horse With No Name",
+"spotify:track:54eZmuggBFJbV7k248bTTt"
+],
+[
+"2026-11-16T11:16|Kelela|the bridge (feat. PinkPantheress)",
+"spotify:track:4Og22Djtd18AVqNgijpLsX"
+],
+[
+"2026-11-16T11:09|Boy & Bear|Tripping Over Time",
+"spotify:track:0s3R2UEykTPuilo5QTzH7P"
+],
 [
 "2026-11-16T11:06|Amanda Blank|DJ",
 "spotify:track:6630jJm4hZc35rtcj8SxIc"
@@ -3797,6 +3809,30 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-11-16T11:33|José González|Heartbeats",
+"t": "2026-11-16T11:33:00+01:00",
+"artist": "José González",
+"title": "Heartbeats"
+},
+{
+"id": "2026-11-16T11:29|The Black Keys|On Repeat",
+"t": "2026-11-16T11:29:00+01:00",
+"artist": "The Black Keys",
+"title": "On Repeat"
+},
+{
+"id": "2026-11-16T11:23|Grace Cummings|I'm Not Crazy",
+"t": "2026-11-16T11:23:00+01:00",
+"artist": "Grace Cummings",
+"title": "I'm Not Crazy"
+},
+{
+"id": "2026-11-16T11:19|America|A Horse With No Name",
+"t": "2026-11-16T11:19:00+01:00",
+"artist": "America",
+"title": "A Horse With No Name"
+},
 {
 "id": "2026-11-16T11:16|Kelela|the bridge (feat. PinkPantheress)",
 "t": "2026-11-16T11:16:00+01:00",
@@ -9190,24 +9226,6 @@
 "t": "2026-11-09T11:40:00+01:00",
 "artist": "Aka Kelzz",
 "title": "Memories"
-},
-{
-"id": "2026-11-09T11:34|Hermanos Gutierrez feat. Leon Bridges|Elegantly Wasted",
-"t": "2026-11-09T11:34:00+01:00",
-"artist": "Hermanos Gutierrez feat. Leon Bridges",
-"title": "Elegantly Wasted"
-},
-{
-"id": "2026-11-09T11:29|Hot Chip|Random Violence (Radio Edit)",
-"t": "2026-11-09T11:29:00+01:00",
-"artist": "Hot Chip",
-"title": "Random Violence (Radio Edit)"
-},
-{
-"id": "2026-11-09T11:25|Oh Pep!|Doctor Doctor",
-"t": "2026-11-09T11:25:00+01:00",
-"artist": "Oh Pep!",
-"title": "Doctor Doctor"
 }
 ]
 }
