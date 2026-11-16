@@ -1,5 +1,5 @@
 {
-"updated": "2026-11-16T13:35:47.860099+01:00",
+"updated": "2026-11-16T13:47:47.860433+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
@@ -13,7 +13,7 @@
 "2026-11-13": 149,
 "2026-11-14": 145,
 "2026-11-15": 93,
-"2026-11-16": 89
+"2026-11-16": 91
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
@@ -3901,6 +3901,18 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-11-16T13:41|Flora Hibberd|Bowling Ball",
+"t": "2026-11-16T13:41:00+01:00",
+"artist": "Flora Hibberd",
+"title": "Bowling Ball"
+},
+{
+"id": "2026-11-16T13:34|Camel Power Club|Thundergarou",
+"t": "2026-11-16T13:34:00+01:00",
+"artist": "Camel Power Club",
+"title": "Thundergarou"
+},
 {
 "id": "2026-11-16T13:31|Jim James|Here In Spirit",
 "t": "2026-11-16T13:31:00+01:00",
@@ -9282,24 +9294,6 @@
 "t": "2026-11-09T13:50:00+01:00",
 "artist": "Mike D",
 "title": "I Don't Care"
-},
-{
-"id": "2026-11-09T13:46|Mounika., Ocie Elliott|Tender love",
-"t": "2026-11-09T13:46:00+01:00",
-"artist": "Mounika., Ocie Elliott",
-"title": "Tender love"
-},
-{
-"id": "2026-11-09T13:42|Modest Mouse|Missed The Boat",
-"t": "2026-11-09T13:42:00+01:00",
-"artist": "Modest Mouse",
-"title": "Missed The Boat"
-},
-{
-"id": "2026-11-09T13:36|Chinese American Bear|Dance Dance Dance (Edit)",
-"t": "2026-11-09T13:36:00+01:00",
-"artist": "Chinese American Bear",
-"title": "Dance Dance Dance (Edit)"
 }
 ]
 }
