@@ -1,9 +1,9 @@
 {
-"updated": "2026-11-17T19:50:52.674699+01:00",
+"updated": "2026-11-17T20:02:52.675019+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
-"synced": "2026-11-17T19:42:52.674511+01:00",
+"synced": "2026-11-17T19:58:52.674911+01:00",
 "pruned": "2026-11-17",
 "calls": {
 "2026-11-10": 171,
@@ -13,12 +13,16 @@
 "2026-11-14": 145,
 "2026-11-15": 93,
 "2026-11-16": 163,
-"2026-11-17": 136
+"2026-11-17": 138
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAiQPkajLdXYqRy1G9dyIuNY9STqI0N",
+"snapshot": "AAAiQioeOyx9I2hm/VazWFBO57WzHqQ/",
 "playlist": [
+[
+"2026-11-17T19:38|Hannah Jadagu|My Love",
+"spotify:track:4XM4c3zMS0orMhblnrZwnS"
+],
 [
 "2026-11-17T19:06|Fuffifufzich|New Era",
 "spotify:track:0sF1TJMDGYxKvu9pp1JQkQ"
@@ -150,6 +154,10 @@
 [
 "2026-11-17T16:06|The Primitives|Crash",
 "spotify:track:4tPHC7YsU3LInUYcIe2UIi"
+],
+[
+"2026-11-17T15:57|Kid Simius feat. Bonaparte|Good Things (Radio Edit)",
+"spotify:track:0xEMZFV5ThVBT0brPMJoLB"
 ],
 [
 "2026-11-17T15:52|Lola Young|Big Brown Eyes",
@@ -4101,6 +4109,12 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-11-17T19:56|Baxter Dury|I'm Not Your Dog",
+"t": "2026-11-17T19:56:00+01:00",
+"artist": "Baxter Dury",
+"title": "I'm Not Your Dog"
+},
 {
 "id": "2026-11-17T19:38|Hannah Jadagu|My Love",
 "t": "2026-11-17T19:38:00+01:00",
