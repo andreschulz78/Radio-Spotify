@@ -1,9 +1,9 @@
 {
-"updated": "2026-11-17T12:14:20.374025+01:00",
+"updated": "2026-11-17T12:26:20.374319+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
-"synced": "2026-11-17T12:10:20.373921+01:00",
+"synced": "2026-11-17T12:26:20.374319+01:00",
 "pruned": "2026-11-17",
 "calls": {
 "2026-11-10": 171,
@@ -13,12 +13,24 @@
 "2026-11-14": 145,
 "2026-11-15": 93,
 "2026-11-16": 163,
-"2026-11-17": 67
+"2026-11-17": 72
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAiKWbc/F0Sj3apdBy+LLipOGOtD2tn",
+"snapshot": "AAAiLD5KNULM+WDtMUX79QhE56Be5hBI",
 "playlist": [
+[
+"2026-11-17T12:21|Barbara Acklin|Am I The Same Girl",
+"spotify:track:2KZ4EZcNUanFLpf8CykQeR"
+],
+[
+"2026-11-17T12:17|Benjamin Clementine|In Fact You Know You Gotto Go",
+"spotify:track:4cWEdRTQ8sg4QaTBIGn06j"
+],
+[
+"2026-11-17T12:09|A.G. Sully|Psyche",
+"spotify:track:58EdbjtDOhgX3T1IoHGt5N"
+],
 [
 "2026-11-17T12:06|Damien Jurado|Percy Faith",
 "spotify:track:1qCgkpuBE1M3C4TJbsJkEN"
@@ -3544,10 +3556,6 @@
 "spotify:track:65FYifoevTTHKtMNRtov1U"
 ],
 [
-"2026-11-10T12:26|Kevin Morby|PBJ (Edit)",
-"spotify:track:5rjtzSA5VBWg7zmuOGg5Dz"
-],
-[
 "2026-11-10T12:22|Sofia Kourtesis|La Perla (Edit)",
 "spotify:track:4pNlEl7y5pT9f9zFy0oxXb"
 ],
@@ -3829,6 +3837,24 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-11-17T12:21|Barbara Acklin|Am I The Same Girl",
+"t": "2026-11-17T12:21:00+01:00",
+"artist": "Barbara Acklin",
+"title": "Am I The Same Girl"
+},
+{
+"id": "2026-11-17T12:17|Benjamin Clementine|In Fact You Know You Gotto Go",
+"t": "2026-11-17T12:17:00+01:00",
+"artist": "Benjamin Clementine",
+"title": "In Fact You Know You Gotto Go"
+},
+{
+"id": "2026-11-17T12:09|A.G. Sully|Psyche",
+"t": "2026-11-17T12:09:00+01:00",
+"artist": "A.G. Sully",
+"title": "Psyche"
+},
 {
 "id": "2026-11-17T12:06|Damien Jurado|Percy Faith",
 "t": "2026-11-17T12:06:00+01:00",
@@ -9192,30 +9218,6 @@
 "t": "2026-11-10T12:31:00+01:00",
 "artist": "Katy J Pearson",
 "title": "Save Me"
-},
-{
-"id": "2026-11-10T12:26|Kevin Morby|PBJ (Edit)",
-"t": "2026-11-10T12:26:00+01:00",
-"artist": "Kevin Morby",
-"title": "PBJ (Edit)"
-},
-{
-"id": "2026-11-10T12:22|Sofia Kourtesis|La Perla (Edit)",
-"t": "2026-11-10T12:22:00+01:00",
-"artist": "Sofia Kourtesis",
-"title": "La Perla (Edit)"
-},
-{
-"id": "2026-11-10T12:19|Alabama Shakes|Hang Loose",
-"t": "2026-11-10T12:19:00+01:00",
-"artist": "Alabama Shakes",
-"title": "Hang Loose"
-},
-{
-"id": "2026-11-10T12:16|Jordan Rakei|Enemies",
-"t": "2026-11-10T12:16:00+01:00",
-"artist": "Jordan Rakei",
-"title": "Enemies"
 }
 ]
 }
