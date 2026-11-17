@@ -1,9 +1,9 @@
 {
-"updated": "2026-11-17T22:26:52.678979+01:00",
+"updated": "2026-11-17T22:38:52.679356+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
-"synced": "2026-11-17T22:22:52.678871+01:00",
+"synced": "2026-11-17T22:38:52.679356+01:00",
 "pruned": "2026-11-17",
 "calls": {
 "2026-11-10": 171,
@@ -13,12 +13,24 @@
 "2026-11-14": 145,
 "2026-11-15": 93,
 "2026-11-16": 163,
-"2026-11-17": 167
+"2026-11-17": 171
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAiSyQMiu6VDfofHnbDOePHGw6tWB3Y",
+"snapshot": "AAAiTHVY621+2tPoROJMgXQfvV+bfRfb",
 "playlist": [
+[
+"2026-11-17T22:30|Grim104|Haus In Lübars",
+"spotify:track:1utRDKkKvdrHCc1u8oJJY5"
+],
+[
+"2026-11-17T22:27|Run The Jewels|Ooh la la (mit DJ P)",
+"spotify:track:63i315nHKEkPF5V7sHu7us"
+],
+[
+"2026-11-17T22:22|Sam Cooke|(Ain’t That) Good News",
+"spotify:track:6fPFznE5ks9IZwQW2zomu0"
+],
 [
 "2026-11-17T22:14|Bing Crosby|Do You Hear What I Hear",
 "spotify:track:4cQ9ucRx0brWky04cw1Mxr"
@@ -4189,6 +4201,18 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-11-17T22:30|Grim104|Haus In Lübars",
+"t": "2026-11-17T22:30:00+01:00",
+"artist": "Grim104",
+"title": "Haus In Lübars"
+},
+{
+"id": "2026-11-17T22:27|Run The Jewels|Ooh la la (mit DJ P)",
+"t": "2026-11-17T22:27:00+01:00",
+"artist": "Run The Jewels",
+"title": "Ooh la la (mit DJ P)"
+},
 {
 "id": "2026-11-17T22:22|Sam Cooke|(Ain’t That) Good News",
 "t": "2026-11-17T22:22:00+01:00",
