@@ -1,9 +1,9 @@
 {
-"updated": "2026-11-17T05:36:38.637153+01:00",
+"updated": "2026-11-17T05:48:38.637543+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
-"synced": "2026-11-17T05:28:38.636919+01:00",
+"synced": "2026-11-17T05:44:38.637380+01:00",
 "pruned": "2026-11-17",
 "calls": {
 "2026-11-10": 171,
@@ -13,12 +13,24 @@
 "2026-11-14": 145,
 "2026-11-15": 93,
 "2026-11-16": 163,
-"2026-11-17": 1
+"2026-11-17": 4
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAiC7K1f/jMZPqJi0++r0qPqVvc5pyh",
+"snapshot": "AAAiDJFXMuGMAplkC8N7oF6cJYIXjtSJ",
 "playlist": [
+[
+"2026-11-17T05:33|Red Hot Chili Peppers|Dani California",
+"spotify:track:6vODhpvfWwdsO0i9MBWnEq"
+],
+[
+"2026-11-17T05:28|Nia Archives|Vertical",
+"spotify:track:0ecQazzKkndVD8Ry9Orp9Q"
+],
+[
+"2026-11-17T05:26|Georg Auf Lieder|Kranfahrer",
+"spotify:track:49tZRfqCKB9KyEp8BhY1UD"
+],
 [
 "2026-11-17T05:19|Supertramp|The Logical Song",
 "spotify:track:26TsScuJSlqwZyaoWG2l7u"
@@ -3589,6 +3601,18 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-11-17T05:41|Mutter|Wenn du da bist",
+"t": "2026-11-17T05:41:00+01:00",
+"artist": "Mutter",
+"title": "Wenn du da bist"
+},
+{
+"id": "2026-11-17T05:33|Red Hot Chili Peppers|Dani California",
+"t": "2026-11-17T05:33:00+01:00",
+"artist": "Red Hot Chili Peppers",
+"title": "Dani California"
+},
 {
 "id": "2026-11-17T05:28|Nia Archives|Vertical",
 "t": "2026-11-17T05:28:00+01:00",
@@ -8970,18 +8994,6 @@
 "t": "2026-11-10T05:50:00+01:00",
 "artist": "Pearl Jam",
 "title": "I Am Mine"
-},
-{
-"id": "2026-11-10T05:45|Automatic|Shadowplay",
-"t": "2026-11-10T05:45:00+01:00",
-"artist": "Automatic",
-"title": "Shadowplay"
-},
-{
-"id": "2026-11-10T05:40|Jordan Rakei & Tom McFarland|Easy to Love",
-"t": "2026-11-10T05:40:00+01:00",
-"artist": "Jordan Rakei & Tom McFarland",
-"title": "Easy to Love"
 }
 ]
 }
