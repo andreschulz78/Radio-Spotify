@@ -1,9 +1,9 @@
 {
-"updated": "2026-11-17T20:02:52.675019+01:00",
+"updated": "2026-11-17T20:14:52.675342+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
-"synced": "2026-11-17T19:58:52.674911+01:00",
+"synced": "2026-11-17T20:14:52.675342+01:00",
 "pruned": "2026-11-17",
 "calls": {
 "2026-11-10": 171,
@@ -13,12 +13,20 @@
 "2026-11-14": 145,
 "2026-11-15": 93,
 "2026-11-16": 163,
-"2026-11-17": 138
+"2026-11-17": 140
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAiQioeOyx9I2hm/VazWFBO57WzHqQ/",
+"snapshot": "AAAiQxLZKMZ4objSjNeOlw+DQjpFpDLj",
 "playlist": [
+[
+"2026-11-17T20:06|Electric Guest|This Head I Hold",
+"spotify:track:0LVaveDmmoMEKhBGhVhfoI"
+],
+[
+"2026-11-17T19:56|Baxter Dury|I'm Not Your Dog",
+"spotify:track:0akzU7VdwCaGjDWZnvK1G1"
+],
 [
 "2026-11-17T19:38|Hannah Jadagu|My Love",
 "spotify:track:4XM4c3zMS0orMhblnrZwnS"
@@ -4109,6 +4117,12 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-11-17T20:06|Electric Guest|This Head I Hold",
+"t": "2026-11-17T20:06:00+01:00",
+"artist": "Electric Guest",
+"title": "This Head I Hold"
+},
 {
 "id": "2026-11-17T19:56|Baxter Dury|I'm Not Your Dog",
 "t": "2026-11-17T19:56:00+01:00",
