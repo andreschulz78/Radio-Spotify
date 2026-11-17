@@ -1,9 +1,9 @@
 {
-"updated": "2026-11-17T12:50:20.374992+01:00",
+"updated": "2026-11-17T13:02:20.375334+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
-"synced": "2026-11-17T12:42:20.374779+01:00",
+"synced": "2026-11-17T12:58:20.375216+01:00",
 "pruned": "2026-11-17",
 "calls": {
 "2026-11-10": 171,
@@ -13,12 +13,24 @@
 "2026-11-14": 145,
 "2026-11-15": 93,
 "2026-11-16": 163,
-"2026-11-17": 78
+"2026-11-17": 80
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAiLRe+6IbVHz8XCMCrbDqgQCM7FbS+",
+"snapshot": "AAAiLl2SS9BzZ+0mfKPWr70yxFDi3QhR",
 "playlist": [
+[
+"2026-11-17T12:51|Paul Kalkbrenner|Sky And Sand",
+"spotify:track:3ZSqMer9RLSglvi18bWXYV"
+],
+[
+"2026-11-17T12:46|The Phenomenal Handclap Band|Skyline",
+"spotify:track:3xh3p1yEG7FCUN6J7shlVr"
+],
+[
+"2026-11-17T12:39|Adele|Skyfall",
+"spotify:track:6VObnIkLVruX4UVyxWhlqm"
+],
 [
 "2026-11-17T12:36|Wilco|Sky Blue Sky",
 "spotify:track:4Fpu9HViylfPzKVkBRdwSy"
@@ -3853,6 +3865,18 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-11-17T12:54|Super 700|Under The No Sky",
+"t": "2026-11-17T12:54:00+01:00",
+"artist": "Super 700",
+"title": "Under The No Sky"
+},
+{
+"id": "2026-11-17T12:51|Paul Kalkbrenner|Sky And Sand",
+"t": "2026-11-17T12:51:00+01:00",
+"artist": "Paul Kalkbrenner",
+"title": "Sky And Sand"
+},
 {
 "id": "2026-11-17T12:46|The Phenomenal Handclap Band|Skyline",
 "t": "2026-11-17T12:46:00+01:00",
@@ -9228,24 +9252,6 @@
 "t": "2026-11-10T13:06:00+01:00",
 "artist": "King Gizzard & The Lizard Wizard",
 "title": "Bone"
-},
-{
-"id": "2026-11-10T12:59|John Legend|Save Room",
-"t": "2026-11-10T12:59:00+01:00",
-"artist": "John Legend",
-"title": "Save Room"
-},
-{
-"id": "2026-11-10T12:55|Indeep|Last Night A DJ Saved My Life",
-"t": "2026-11-10T12:55:00+01:00",
-"artist": "Indeep",
-"title": "Last Night A DJ Saved My Life"
-},
-{
-"id": "2026-11-10T12:52|WhoMadeWho feat. RY X|Love Will Save Me",
-"t": "2026-11-10T12:52:00+01:00",
-"artist": "WhoMadeWho feat. RY X",
-"title": "Love Will Save Me"
 }
 ]
 }
