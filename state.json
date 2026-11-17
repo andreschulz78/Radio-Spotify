@@ -1,9 +1,9 @@
 {
-"updated": "2026-11-17T21:26:52.677336+01:00",
+"updated": "2026-11-17T21:38:52.677667+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
-"synced": "2026-11-17T21:18:52.677059+01:00",
+"synced": "2026-11-17T21:34:52.677562+01:00",
 "pruned": "2026-11-17",
 "calls": {
 "2026-11-10": 171,
@@ -13,12 +13,20 @@
 "2026-11-14": 145,
 "2026-11-15": 93,
 "2026-11-16": 163,
-"2026-11-17": 151
+"2026-11-17": 155
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAiRx5BsFKxixXxVgH/dUPg7WXHJduQ",
+"snapshot": "AAAiSMbSoTEbA6dONqiRO8mdRQ0BlesM",
 "playlist": [
+[
+"2026-11-17T21:25|Kris Kristofferson|Casey's Last Ride",
+"spotify:track:2OvDSBsuUGLPAw0WJlfuCo"
+],
+[
+"2026-11-17T21:19|Willy Hagara|Lasst den Weg uns gehen",
+"spotify:track:3DvUSHYhLgX4oSZMzh2c1A"
+],
 [
 "2026-11-17T21:05|Public Enemy|Harder Than You Think",
 "spotify:track:5YpZh8wfS4moRBk0ijNcXr"
@@ -4153,6 +4161,18 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-11-17T21:31|Sergio Mendes (feat. Carlinhos)|Magalenha",
+"t": "2026-11-17T21:31:00+01:00",
+"artist": "Sergio Mendes (feat. Carlinhos)",
+"title": "Magalenha"
+},
+{
+"id": "2026-11-17T21:25|Kris Kristofferson|Casey's Last Ride",
+"t": "2026-11-17T21:25:00+01:00",
+"artist": "Kris Kristofferson",
+"title": "Casey's Last Ride"
+},
 {
 "id": "2026-11-17T21:19|Willy Hagara|Lasst den Weg uns gehen",
 "t": "2026-11-17T21:19:00+01:00",
