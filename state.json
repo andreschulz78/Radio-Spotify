@@ -1,9 +1,9 @@
 {
-"updated": "2026-11-17T07:36:38.640584+01:00",
+"updated": "2026-11-17T10:02:20.370367+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
-"synced": "2026-11-17T07:36:38.640584+01:00",
+"synced": "2026-11-17T10:02:20.370367+01:00",
 "pruned": "2026-11-17",
 "calls": {
 "2026-11-10": 171,
@@ -13,12 +13,72 @@
 "2026-11-14": 145,
 "2026-11-15": 93,
 "2026-11-16": 163,
-"2026-11-17": 27
+"2026-11-17": 31
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAiGV1b9MHRZF+62iOzNJCR4Jq9EwLO",
+"snapshot": "AAAiGs0BcdhNLlByACnm4o3ea8shfTlW",
 "playlist": [
+[
+"2026-11-17T09:56|Roisín Murphy|Murphy's Law",
+"spotify:track:4vPHYmIczB9quxzX6JxO5Q"
+],
+[
+"2026-11-17T09:51|Dizzy Fae|Try",
+"spotify:track:6ryhqQIMGqBoS3cQQymXrf"
+],
+[
+"2026-11-17T09:47|Peter Fox|Zukunft Pink",
+"spotify:track:4YxZQd3I4rj1nqkXgvpCk4"
+],
+[
+"2026-11-17T09:44|Peki Momés|Ahşap Kutu",
+"spotify:track:0ldb6REGn8guDjkpA21tJx"
+],
+[
+"2026-11-17T09:35|Nick Cave & The Bad Seeds|Wild God (Radio Edit)",
+"spotify:track:6d2JJCLcg02uteyuvFVmCq"
+],
+[
+"2026-11-17T09:26|Bonaparte|KiOSKO",
+"spotify:track:5seYGZRYuD3oPMxryJdvOk"
+],
+[
+"2026-11-17T09:20|Reyna Tropical|Conexión Ancestral",
+"spotify:track:66NoT1tpX8AzNQai4iUlVt"
+],
+[
+"2026-11-17T09:15|Nichtseattle|Ich mit Brille",
+"spotify:track:1C0Lpji3kKe7rZie1LC4bx"
+],
+[
+"2026-11-17T08:56|Die Sauna|ich liebe dich",
+"spotify:track:6hlw9o1GgUSSummPTKacU0"
+],
+[
+"2026-11-17T08:51|Erika De Casier|Delusional",
+"spotify:track:6M5Y8sn5cXePK58bH1WKon"
+],
+[
+"2026-11-17T08:44|The Streets|I Love You More Than You Like Me",
+"spotify:track:6jWOYnJiHYG2BU9GM17mvJ"
+],
+[
+"2026-11-17T08:15|Agnes Obel|Laymelli (Edit)",
+"spotify:track:0VzMHjWcs2P24LHLekZ8Qa"
+],
+[
+"2026-11-17T07:58|Σtella|Belinda",
+"spotify:track:1rs2lOYfBKNW5OCpeTIiVf"
+],
+[
+"2026-11-17T07:51|Grim104|Monstera",
+"spotify:track:3rSiXUS27EJxisY62sEqmJ"
+],
+[
+"2026-11-17T07:41|Overmono feat. Ruthven|Gem Lingo (ovr now)",
+"spotify:track:6dSqM0tWJPlchpmGrEwC1c"
+],
 [
 "2026-11-17T07:26|Peter Cruseder|Love",
 "spotify:track:7mc6omD0uFBGHeiwdtFzY2"
@@ -3661,6 +3721,144 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-11-17T09:56|Roisín Murphy|Murphy's Law",
+"t": "2026-11-17T09:56:00+01:00",
+"artist": "Roisín Murphy",
+"title": "Murphy's Law"
+},
+{
+"id": "2026-11-17T09:51|Dizzy Fae|Try",
+"t": "2026-11-17T09:51:00+01:00",
+"artist": "Dizzy Fae",
+"title": "Try"
+},
+{
+"id": "2026-11-17T09:47|Peter Fox|Zukunft Pink",
+"t": "2026-11-17T09:47:00+01:00",
+"artist": "Peter Fox",
+"title": "Zukunft Pink"
+},
+{
+"id": "2026-11-17T09:44|Peki Momés|Ahşap Kutu",
+"t": "2026-11-17T09:44:00+01:00",
+"artist": "Peki Momés",
+"title": "Ahşap Kutu"
+},
+{
+"id": "2026-11-17T09:35|Nick Cave & The Bad Seeds|Wild God (Radio Edit)",
+"t": "2026-11-17T09:35:00+01:00",
+"artist": "Nick Cave & The Bad Seeds",
+"title": "Wild God (Radio Edit)"
+},
+{
+"id": "2026-11-17T09:26|Bonaparte|KiOSKO",
+"t": "2026-11-17T09:26:00+01:00",
+"artist": "Bonaparte",
+"title": "KiOSKO"
+},
+{
+"id": "2026-11-17T09:20|Reyna Tropical|Conexión Ancestral",
+"t": "2026-11-17T09:20:00+01:00",
+"artist": "Reyna Tropical",
+"title": "Conexión Ancestral"
+},
+{
+"id": "2026-11-17T09:15|Nichtseattle|Ich mit Brille",
+"t": "2026-11-17T09:15:00+01:00",
+"artist": "Nichtseattle",
+"title": "Ich mit Brille"
+},
+{
+"id": "2026-11-17T09:06|Modest Mouse|Dashboard",
+"t": "2026-11-17T09:06:00+01:00",
+"artist": "Modest Mouse",
+"title": "Dashboard"
+},
+{
+"id": "2026-11-17T08:56|Die Sauna|ich liebe dich",
+"t": "2026-11-17T08:56:00+01:00",
+"artist": "Die Sauna",
+"title": "ich liebe dich"
+},
+{
+"id": "2026-11-17T08:51|Erika De Casier|Delusional",
+"t": "2026-11-17T08:51:00+01:00",
+"artist": "Erika De Casier",
+"title": "Delusional"
+},
+{
+"id": "2026-11-17T08:44|The Streets|I Love You More Than You Like Me",
+"t": "2026-11-17T08:44:00+01:00",
+"artist": "The Streets",
+"title": "I Love You More Than You Like Me"
+},
+{
+"id": "2026-11-17T08:35|The xx|On Hold",
+"t": "2026-11-17T08:35:00+01:00",
+"artist": "The xx",
+"title": "On Hold"
+},
+{
+"id": "2026-11-17T08:26|Lumidee|Never Leave You (Uh-Oooh)",
+"t": "2026-11-17T08:26:00+01:00",
+"artist": "Lumidee",
+"title": "Never Leave You (Uh-Oooh)"
+},
+{
+"id": "2026-11-17T08:22|Lou Reed|Vicious",
+"t": "2026-11-17T08:22:00+01:00",
+"artist": "Lou Reed",
+"title": "Vicious"
+},
+{
+"id": "2026-11-17T08:19|DJ Koze feat. Arnim Teutoburg-Weiß & The Düsseldorf Düsterboys|Wie schön du bist",
+"t": "2026-11-17T08:19:00+01:00",
+"artist": "DJ Koze feat. Arnim Teutoburg-Weiß & The Düsseldorf Düsterboys",
+"title": "Wie schön du bist"
+},
+{
+"id": "2026-11-17T08:15|Agnes Obel|Laymelli (Edit)",
+"t": "2026-11-17T08:15:00+01:00",
+"artist": "Agnes Obel",
+"title": "Laymelli (Edit)"
+},
+{
+"id": "2026-11-17T08:06|Twin Shadow|Five Seconds",
+"t": "2026-11-17T08:06:00+01:00",
+"artist": "Twin Shadow",
+"title": "Five Seconds"
+},
+{
+"id": "2026-11-17T07:58|Σtella|Belinda",
+"t": "2026-11-17T07:58:00+01:00",
+"artist": "Σtella",
+"title": "Belinda"
+},
+{
+"id": "2026-11-17T07:51|Grim104|Monstera",
+"t": "2026-11-17T07:51:00+01:00",
+"artist": "Grim104",
+"title": "Monstera"
+},
+{
+"id": "2026-11-17T07:47|Working Men's Club|Circumference (Radio Edit)",
+"t": "2026-11-17T07:47:00+01:00",
+"artist": "Working Men's Club",
+"title": "Circumference (Radio Edit)"
+},
+{
+"id": "2026-11-17T07:41|Overmono feat. Ruthven|Gem Lingo (ovr now)",
+"t": "2026-11-17T07:41:00+01:00",
+"artist": "Overmono feat. Ruthven",
+"title": "Gem Lingo (ovr now)"
+},
+{
+"id": "2026-11-17T07:34|Lola Young|Flicker Of Light",
+"t": "2026-11-17T07:34:00+01:00",
+"artist": "Lola Young",
+"title": "Flicker Of Light"
+},
 {
 "id": "2026-11-17T07:26|Peter Cruseder|Love",
 "t": "2026-11-17T07:26:00+01:00",
@@ -8922,144 +9120,6 @@
 "t": "2026-11-10T10:06:00+01:00",
 "artist": "Kaktus Einarsson feat. John Grant",
 "title": "Follow"
-},
-{
-"id": "2026-11-10T09:56|Kelela|the bridge (feat. PinkPantheress)",
-"t": "2026-11-10T09:56:00+01:00",
-"artist": "Kelela",
-"title": "the bridge (feat. PinkPantheress)"
-},
-{
-"id": "2026-11-10T09:49|Seabear|Lion Face Boy",
-"t": "2026-11-10T09:49:00+01:00",
-"artist": "Seabear",
-"title": "Lion Face Boy"
-},
-{
-"id": "2026-11-10T09:45|Nation of Language|Inept Apollo",
-"t": "2026-11-10T09:45:00+01:00",
-"artist": "Nation of Language",
-"title": "Inept Apollo"
-},
-{
-"id": "2026-11-10T09:41|Jim James|Come Again",
-"t": "2026-11-10T09:41:00+01:00",
-"artist": "Jim James",
-"title": "Come Again"
-},
-{
-"id": "2026-11-10T09:34|Sophia Kennedy|Rodeo",
-"t": "2026-11-10T09:34:00+01:00",
-"artist": "Sophia Kennedy",
-"title": "Rodeo"
-},
-{
-"id": "2026-11-10T09:25|54 Ultra|Tell Me",
-"t": "2026-11-10T09:25:00+01:00",
-"artist": "54 Ultra",
-"title": "Tell Me"
-},
-{
-"id": "2026-11-10T09:22|DJ Seinfeld feat. TS Graye|U Can't Come Home (Radio Edit)",
-"t": "2026-11-10T09:22:00+01:00",
-"artist": "DJ Seinfeld feat. TS Graye",
-"title": "U Can't Come Home (Radio Edit)"
-},
-{
-"id": "2026-11-10T09:17|The Specials|A Message To You, Rudy",
-"t": "2026-11-10T09:17:00+01:00",
-"artist": "The Specials",
-"title": "A Message To You, Rudy"
-},
-{
-"id": "2026-11-10T09:12|Laura Lee & the Jettes|Cloud Stripping",
-"t": "2026-11-10T09:12:00+01:00",
-"artist": "Laura Lee & the Jettes",
-"title": "Cloud Stripping"
-},
-{
-"id": "2026-11-10T09:04|Hot Chip|Random Violence (Radio Edit)",
-"t": "2026-11-10T09:04:00+01:00",
-"artist": "Hot Chip",
-"title": "Random Violence (Radio Edit)"
-},
-{
-"id": "2026-11-10T08:56|Noga Erez|Come Back Home",
-"t": "2026-11-10T08:56:00+01:00",
-"artist": "Noga Erez",
-"title": "Come Back Home"
-},
-{
-"id": "2026-11-10T08:51|Mine|Ich weiss es nicht",
-"t": "2026-11-10T08:51:00+01:00",
-"artist": "Mine",
-"title": "Ich weiss es nicht"
-},
-{
-"id": "2026-11-10T08:44|Nightmares On Wax feat. Mozez|You Wish (Abbey Road Fuzz Gospel Version)",
-"t": "2026-11-10T08:44:00+01:00",
-"artist": "Nightmares On Wax feat. Mozez",
-"title": "You Wish (Abbey Road Fuzz Gospel Version)"
-},
-{
-"id": "2026-11-10T08:41|Moglii|Crush",
-"t": "2026-11-10T08:41:00+01:00",
-"artist": "Moglii",
-"title": "Crush"
-},
-{
-"id": "2026-11-10T08:34|Jungle|All Of The Time",
-"t": "2026-11-10T08:34:00+01:00",
-"artist": "Jungle",
-"title": "All Of The Time"
-},
-{
-"id": "2026-11-10T08:25|Siouxsie And The Banshees|Dear Prudence",
-"t": "2026-11-10T08:25:00+01:00",
-"artist": "Siouxsie And The Banshees",
-"title": "Dear Prudence"
-},
-{
-"id": "2026-11-10T08:20|Babybird|You're Gorgeous",
-"t": "2026-11-10T08:20:00+01:00",
-"artist": "Babybird",
-"title": "You're Gorgeous"
-},
-{
-"id": "2026-11-10T08:18|Bilderbuch|Baby Junkie",
-"t": "2026-11-10T08:18:00+01:00",
-"artist": "Bilderbuch",
-"title": "Baby Junkie"
-},
-{
-"id": "2026-11-10T08:14|Grace Cummings|I'm Not Crazy",
-"t": "2026-11-10T08:14:00+01:00",
-"artist": "Grace Cummings",
-"title": "I'm Not Crazy"
-},
-{
-"id": "2026-11-10T08:05|The Zutons|Valerie",
-"t": "2026-11-10T08:05:00+01:00",
-"artist": "The Zutons",
-"title": "Valerie"
-},
-{
-"id": "2026-11-10T07:56|MorMor feat. Celeste|Like Heaven",
-"t": "2026-11-10T07:56:00+01:00",
-"artist": "MorMor feat. Celeste",
-"title": "Like Heaven"
-},
-{
-"id": "2026-11-10T07:49|De La Soul feat. Otis Redding|Eye Know",
-"t": "2026-11-10T07:49:00+01:00",
-"artist": "De La Soul feat. Otis Redding",
-"title": "Eye Know"
-},
-{
-"id": "2026-11-10T07:43|Ibeyi|Hurry Hurry",
-"t": "2026-11-10T07:43:00+01:00",
-"artist": "Ibeyi",
-"title": "Hurry Hurry"
 }
 ]
 }
