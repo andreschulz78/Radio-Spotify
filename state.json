@@ -1,9 +1,9 @@
 {
-"updated": "2026-11-17T15:38:20.379829+01:00",
+"updated": "2026-11-17T19:26:52.674022+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
-"synced": "2026-11-17T15:38:20.379829+01:00",
+"synced": "2026-11-17T19:26:52.674022+01:00",
 "pruned": "2026-11-17",
 "calls": {
 "2026-11-10": 171,
@@ -13,12 +13,104 @@
 "2026-11-14": 145,
 "2026-11-15": 93,
 "2026-11-16": 163,
-"2026-11-17": 113
+"2026-11-17": 117
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAiOsMw99FKMraL6udgiozxXyrNMvfC",
+"snapshot": "AAAiO7IQqaUa/HlrpBJQuVmuhHJhdDCR",
 "playlist": [
+[
+"2026-11-17T19:06|Fuffifufzich|New Era",
+"spotify:track:0sF1TJMDGYxKvu9pp1JQkQ"
+],
+[
+"2026-11-17T18:55|Benjamin Clementine|Nemesis (Radio Edit)",
+"spotify:track:2OTsxrA8P5JjBl3kz4478w"
+],
+[
+"2026-11-17T18:51|Eilis Frawley|Taken, Never Erased",
+"spotify:track:5a3IV4xiA81Ucn98CHtJzb"
+],
+[
+"2026-11-17T18:46|Tristan Brusch|Vierzehn",
+"spotify:track:6bauquMrawP7ZfZ6qsmOtr"
+],
+[
+"2026-11-17T18:43|SOFY|50/50",
+"spotify:track:16QLv8xt9nPNBZCBDm3Gkv"
+],
+[
+"2026-11-17T18:37|Common feat. PJ|Imagine",
+"spotify:track:1VmpfLRBPlMpRJgJhZ7Od9"
+],
+[
+"2026-11-17T18:34|Kaktus Einarsson feat. John Grant|Follow",
+"spotify:track:0bbPqdrMN94XmIlBQS21B3"
+],
+[
+"2026-11-17T18:25|Robot Koch|Dreams",
+"spotify:track:2pSNrB5Ya7TLS3KANlvDda"
+],
+[
+"2026-11-17T18:20|Seeed|Hale-Bopp",
+"spotify:track:73gwUCEJBgLhLzM1WTMBv0"
+],
+[
+"2026-11-17T18:09|Ibeyi|Hurry Hurry",
+"spotify:track:4BGA7VW330Eu1kaFNi98cG"
+],
+[
+"2026-11-17T18:05|Wild Beasts|The Devil's Crayon",
+"spotify:track:6Mm0RWHGch0sJVxUyl19m3"
+],
+[
+"2026-11-17T17:51|Missincat|Back On My Feet",
+"spotify:track:4Lj6orCl0ZM7DoTBuzsEco"
+],
+[
+"2026-11-17T17:48|CECI feat. Lords of Lounge|Honey Honey",
+"spotify:track:1I3D3G5pwYFKNYGIYTLRCq"
+],
+[
+"2026-11-17T17:44|Death Cab For Cutie|Pep Talk",
+"spotify:track:3ra7fDLqfUHBWBL702fOAn"
+],
+[
+"2026-11-17T17:18|Bulgarian Cartrader|In My Zone (Radio Edit)",
+"spotify:track:5eRnR1gok6Btb2kYJICbsX"
+],
+[
+"2026-11-17T17:15|2raumwohnung|Lass die Pferde frei (Radio Edit)",
+"spotify:track:6iKF2dQJNLjEAvNjIYAreO"
+],
+[
+"2026-11-17T17:09|Ayele|Fractured (Radio Edit)",
+"spotify:track:5EGnOBL2qoUNard3Oaq5Hc"
+],
+[
+"2026-11-17T16:23|Black Marble|Jim Carol New Year",
+"spotify:track:3UhXNJjt6Y0sNCEwwhoJnT"
+],
+[
+"2026-11-17T16:20|Tyler Ballgame|For The First Time, Again",
+"spotify:track:3U6hRsB4wRDjsg2pEsJWhA"
+],
+[
+"2026-11-17T16:18|Linka Moja|Men R Dogs",
+"spotify:track:7AgfOLYDB7GrgIWg60PBw7"
+],
+[
+"2026-11-17T16:09|The Drums feat. Mareux|It Didn't Matter",
+"spotify:track:10kxTiNUTo4nlEbH1EzoX1"
+],
+[
+"2026-11-17T15:52|Lola Young|Big Brown Eyes",
+"spotify:track:2eQotZtrNHzi38qge7CGXE"
+],
+[
+"2026-11-17T15:45|Sergio Torales feat. Der Assistent|Veo",
+"spotify:track:6k1tMxv0y7hJJsQMMfnE6p"
+],
 [
 "2026-11-17T15:32|Daft Punk|One More Time",
 "spotify:track:5P0cYWH6mpkdrmsgo5e1fe"
@@ -3961,6 +4053,222 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-11-17T19:06|Fuffifufzich|New Era",
+"t": "2026-11-17T19:06:00+01:00",
+"artist": "Fuffifufzich",
+"title": "New Era"
+},
+{
+"id": "2026-11-17T18:55|Benjamin Clementine|Nemesis (Radio Edit)",
+"t": "2026-11-17T18:55:00+01:00",
+"artist": "Benjamin Clementine",
+"title": "Nemesis (Radio Edit)"
+},
+{
+"id": "2026-11-17T18:51|Eilis Frawley|Taken, Never Erased",
+"t": "2026-11-17T18:51:00+01:00",
+"artist": "Eilis Frawley",
+"title": "Taken, Never Erased"
+},
+{
+"id": "2026-11-17T18:46|Tristan Brusch|Vierzehn",
+"t": "2026-11-17T18:46:00+01:00",
+"artist": "Tristan Brusch",
+"title": "Vierzehn"
+},
+{
+"id": "2026-11-17T18:43|SOFY|50/50",
+"t": "2026-11-17T18:43:00+01:00",
+"artist": "SOFY",
+"title": "50/50"
+},
+{
+"id": "2026-11-17T18:37|Common feat. PJ|Imagine",
+"t": "2026-11-17T18:37:00+01:00",
+"artist": "Common feat. PJ",
+"title": "Imagine"
+},
+{
+"id": "2026-11-17T18:34|Kaktus Einarsson feat. John Grant|Follow",
+"t": "2026-11-17T18:34:00+01:00",
+"artist": "Kaktus Einarsson feat. John Grant",
+"title": "Follow"
+},
+{
+"id": "2026-11-17T18:25|Robot Koch|Dreams",
+"t": "2026-11-17T18:25:00+01:00",
+"artist": "Robot Koch",
+"title": "Dreams"
+},
+{
+"id": "2026-11-17T18:20|Seeed|Hale-Bopp",
+"t": "2026-11-17T18:20:00+01:00",
+"artist": "Seeed",
+"title": "Hale-Bopp"
+},
+{
+"id": "2026-11-17T18:17|Soap & Skin|Safe With Me",
+"t": "2026-11-17T18:17:00+01:00",
+"artist": "Soap & Skin",
+"title": "Safe With Me"
+},
+{
+"id": "2026-11-17T18:09|Ibeyi|Hurry Hurry",
+"t": "2026-11-17T18:09:00+01:00",
+"artist": "Ibeyi",
+"title": "Hurry Hurry"
+},
+{
+"id": "2026-11-17T18:05|Wild Beasts|The Devil's Crayon",
+"t": "2026-11-17T18:05:00+01:00",
+"artist": "Wild Beasts",
+"title": "The Devil's Crayon"
+},
+{
+"id": "2026-11-17T17:57|Fred Again..|Julia (Deep Diving) (Edit)",
+"t": "2026-11-17T17:57:00+01:00",
+"artist": "Fred Again..",
+"title": "Julia (Deep Diving) (Edit)"
+},
+{
+"id": "2026-11-17T17:51|Missincat|Back On My Feet",
+"t": "2026-11-17T17:51:00+01:00",
+"artist": "Missincat",
+"title": "Back On My Feet"
+},
+{
+"id": "2026-11-17T17:48|CECI feat. Lords of Lounge|Honey Honey",
+"t": "2026-11-17T17:48:00+01:00",
+"artist": "CECI feat. Lords of Lounge",
+"title": "Honey Honey"
+},
+{
+"id": "2026-11-17T17:44|Death Cab For Cutie|Pep Talk",
+"t": "2026-11-17T17:44:00+01:00",
+"artist": "Death Cab For Cutie",
+"title": "Pep Talk"
+},
+{
+"id": "2026-11-17T17:39|William Fitzsimmons|I Don't Feel It Anymore (George Raquet Remix)",
+"t": "2026-11-17T17:39:00+01:00",
+"artist": "William Fitzsimmons",
+"title": "I Don't Feel It Anymore (George Raquet Remix)"
+},
+{
+"id": "2026-11-17T17:34|The Last Dinner Party|The Feminine Urge",
+"t": "2026-11-17T17:34:00+01:00",
+"artist": "The Last Dinner Party",
+"title": "The Feminine Urge"
+},
+{
+"id": "2026-11-17T17:24|Charles Bradley|Changes",
+"t": "2026-11-17T17:24:00+01:00",
+"artist": "Charles Bradley",
+"title": "Changes"
+},
+{
+"id": "2026-11-17T17:18|Bulgarian Cartrader|In My Zone (Radio Edit)",
+"t": "2026-11-17T17:18:00+01:00",
+"artist": "Bulgarian Cartrader",
+"title": "In My Zone (Radio Edit)"
+},
+{
+"id": "2026-11-17T17:15|2raumwohnung|Lass die Pferde frei (Radio Edit)",
+"t": "2026-11-17T17:15:00+01:00",
+"artist": "2raumwohnung",
+"title": "Lass die Pferde frei (Radio Edit)"
+},
+{
+"id": "2026-11-17T17:09|Ayele|Fractured (Radio Edit)",
+"t": "2026-11-17T17:09:00+01:00",
+"artist": "Ayele",
+"title": "Fractured (Radio Edit)"
+},
+{
+"id": "2026-11-17T17:05|Leonard Cohen|You Want It Darker (Paul Kalkbrenner Remix)",
+"t": "2026-11-17T17:05:00+01:00",
+"artist": "Leonard Cohen",
+"title": "You Want It Darker (Paul Kalkbrenner Remix)"
+},
+{
+"id": "2026-11-17T16:55|US3|Cantaloop",
+"t": "2026-11-17T16:55:00+01:00",
+"artist": "US3",
+"title": "Cantaloop"
+},
+{
+"id": "2026-11-17T16:47|Blur|The Universal",
+"t": "2026-11-17T16:47:00+01:00",
+"artist": "Blur",
+"title": "The Universal"
+},
+{
+"id": "2026-11-17T16:43|Billy Nomates|Saboteur Forcefield",
+"t": "2026-11-17T16:43:00+01:00",
+"artist": "Billy Nomates",
+"title": "Saboteur Forcefield"
+},
+{
+"id": "2026-11-17T16:36|Courtney Barnett|Write A List Of Things To Look Forward To",
+"t": "2026-11-17T16:36:00+01:00",
+"artist": "Courtney Barnett",
+"title": "Write A List Of Things To Look Forward To"
+},
+{
+"id": "2026-11-17T16:33|Sohn|Artifice",
+"t": "2026-11-17T16:33:00+01:00",
+"artist": "Sohn",
+"title": "Artifice"
+},
+{
+"id": "2026-11-17T16:23|Black Marble|Jim Carol New Year",
+"t": "2026-11-17T16:23:00+01:00",
+"artist": "Black Marble",
+"title": "Jim Carol New Year"
+},
+{
+"id": "2026-11-17T16:20|Tyler Ballgame|For The First Time, Again",
+"t": "2026-11-17T16:20:00+01:00",
+"artist": "Tyler Ballgame",
+"title": "For The First Time, Again"
+},
+{
+"id": "2026-11-17T16:18|Linka Moja|Men R Dogs",
+"t": "2026-11-17T16:18:00+01:00",
+"artist": "Linka Moja",
+"title": "Men R Dogs"
+},
+{
+"id": "2026-11-17T16:09|The Drums feat. Mareux|It Didn't Matter",
+"t": "2026-11-17T16:09:00+01:00",
+"artist": "The Drums feat. Mareux",
+"title": "It Didn't Matter"
+},
+{
+"id": "2026-11-17T16:06|The Primitives|Crash",
+"t": "2026-11-17T16:06:00+01:00",
+"artist": "The Primitives",
+"title": "Crash"
+},
+{
+"id": "2026-11-17T15:57|Kid Simius feat. Bonaparte|Good Things (Radio Edit)",
+"t": "2026-11-17T15:57:00+01:00",
+"artist": "Kid Simius feat. Bonaparte",
+"title": "Good Things (Radio Edit)"
+},
+{
+"id": "2026-11-17T15:52|Lola Young|Big Brown Eyes",
+"t": "2026-11-17T15:52:00+01:00",
+"artist": "Lola Young",
+"title": "Big Brown Eyes"
+},
+{
+"id": "2026-11-17T15:45|Sergio Torales feat. Der Assistent|Veo",
+"t": "2026-11-17T15:45:00+01:00",
+"artist": "Sergio Torales feat. Der Assistent",
+"title": "Veo"
+},
 {
 "id": "2026-11-17T15:32|Daft Punk|One More Time",
 "t": "2026-11-17T15:32:00+01:00",
@@ -9144,210 +9452,6 @@
 "t": "2026-11-10T20:37:00+01:00",
 "artist": "Overmono feat. Ruthven",
 "title": "Gem Lingo (ovr now)"
-},
-{
-"id": "2026-11-10T18:56|The Flaming Lips|God Will Control The Werewolves (Radio Edit)",
-"t": "2026-11-10T18:56:00+01:00",
-"artist": "The Flaming Lips",
-"title": "God Will Control The Werewolves (Radio Edit)"
-},
-{
-"id": "2026-11-10T18:49|Tunng|Scared To Death",
-"t": "2026-11-10T18:49:00+01:00",
-"artist": "Tunng",
-"title": "Scared To Death"
-},
-{
-"id": "2026-11-10T18:46|Liam Gallagher|Once",
-"t": "2026-11-10T18:46:00+01:00",
-"artist": "Liam Gallagher",
-"title": "Once"
-},
-{
-"id": "2026-11-10T18:42|Carla Bruni|Quelque chose",
-"t": "2026-11-10T18:42:00+01:00",
-"artist": "Carla Bruni",
-"title": "Quelque chose"
-},
-{
-"id": "2026-11-10T18:35|Tank And The Bangas|Stolen Fruit",
-"t": "2026-11-10T18:35:00+01:00",
-"artist": "Tank And The Bangas",
-"title": "Stolen Fruit"
-},
-{
-"id": "2026-11-10T18:32|Arctic Monkeys|Fluorescent Adolescent",
-"t": "2026-11-10T18:32:00+01:00",
-"artist": "Arctic Monkeys",
-"title": "Fluorescent Adolescent"
-},
-{
-"id": "2026-11-10T18:25|Nation of Language|Stumbling Still (Edit)",
-"t": "2026-11-10T18:25:00+01:00",
-"artist": "Nation of Language",
-"title": "Stumbling Still (Edit)"
-},
-{
-"id": "2026-11-10T18:21|Vince Staples|Tulsa, OK",
-"t": "2026-11-10T18:21:00+01:00",
-"artist": "Vince Staples",
-"title": "Tulsa, OK"
-},
-{
-"id": "2026-11-10T18:17|Rumer|Am I Forgiven",
-"t": "2026-11-10T18:17:00+01:00",
-"artist": "Rumer",
-"title": "Am I Forgiven"
-},
-{
-"id": "2026-11-10T18:10|The Big Moon|F.O.R.E.V.E.R",
-"t": "2026-11-10T18:10:00+01:00",
-"artist": "The Big Moon",
-"title": "F.O.R.E.V.E.R"
-},
-{
-"id": "2026-11-10T18:06|Durand Jones & The Indications|Love Will Work It Out (feat. Aaron Frazer)",
-"t": "2026-11-10T18:06:00+01:00",
-"artist": "Durand Jones & The Indications",
-"title": "Love Will Work It Out (feat. Aaron Frazer)"
-},
-{
-"id": "2026-11-10T17:56|Messer|Taucher (Für Smukal)",
-"t": "2026-11-10T17:56:00+01:00",
-"artist": "Messer",
-"title": "Taucher (Für Smukal)"
-},
-{
-"id": "2026-11-10T17:48|Elton John|Rocket Man (I Think It's Going To Be A Long, Long Time)",
-"t": "2026-11-10T17:48:00+01:00",
-"artist": "Elton John",
-"title": "Rocket Man (I Think It's Going To Be A Long, Long Time)"
-},
-{
-"id": "2026-11-10T17:44|The Avener feat. Terry Callier|900 Miles - The Avener Rework",
-"t": "2026-11-10T17:44:00+01:00",
-"artist": "The Avener feat. Terry Callier",
-"title": "900 Miles - The Avener Rework"
-},
-{
-"id": "2026-11-10T17:36|Linka Moja|Men R Dogs",
-"t": "2026-11-10T17:36:00+01:00",
-"artist": "Linka Moja",
-"title": "Men R Dogs"
-},
-{
-"id": "2026-11-10T17:33|TOKiMONSTA feat. Channel Tres|Naked",
-"t": "2026-11-10T17:33:00+01:00",
-"artist": "TOKiMONSTA feat. Channel Tres",
-"title": "Naked"
-},
-{
-"id": "2026-11-10T17:26|Fontaines D.C.|Bug",
-"t": "2026-11-10T17:26:00+01:00",
-"artist": "Fontaines D.C.",
-"title": "Bug"
-},
-{
-"id": "2026-11-10T17:17|Kate Bush|Somewhere In Between",
-"t": "2026-11-10T17:17:00+01:00",
-"artist": "Kate Bush",
-"title": "Somewhere In Between"
-},
-{
-"id": "2026-11-10T17:15|Young Franco w/ EARTHGANG & Jafunk|Lose Control",
-"t": "2026-11-10T17:15:00+01:00",
-"artist": "Young Franco w/ EARTHGANG & Jafunk",
-"title": "Lose Control"
-},
-{
-"id": "2026-11-10T17:08|Meshell Ndegeocello feat. Cat Power|Don’t You Want Me",
-"t": "2026-11-10T17:08:00+01:00",
-"artist": "Meshell Ndegeocello feat. Cat Power",
-"title": "Don’t You Want Me"
-},
-{
-"id": "2026-11-10T17:05|The National|Sorrow",
-"t": "2026-11-10T17:05:00+01:00",
-"artist": "The National",
-"title": "Sorrow"
-},
-{
-"id": "2026-11-10T16:56|Super Furry Animals|Northern Lites",
-"t": "2026-11-10T16:56:00+01:00",
-"artist": "Super Furry Animals",
-"title": "Northern Lites"
-},
-{
-"id": "2026-11-10T16:48|Lana Del Rey|West Coast",
-"t": "2026-11-10T16:48:00+01:00",
-"artist": "Lana Del Rey",
-"title": "West Coast"
-},
-{
-"id": "2026-11-10T16:45|Cameron Winter|Love Takes Miles",
-"t": "2026-11-10T16:45:00+01:00",
-"artist": "Cameron Winter",
-"title": "Love Takes Miles"
-},
-{
-"id": "2026-11-10T16:37|RAR|Kannst du bei mir bleiben?",
-"t": "2026-11-10T16:37:00+01:00",
-"artist": "RAR",
-"title": "Kannst du bei mir bleiben?"
-},
-{
-"id": "2026-11-10T16:34|Eno & Hyde|Daddy's Car",
-"t": "2026-11-10T16:34:00+01:00",
-"artist": "Eno & Hyde",
-"title": "Daddy's Car"
-},
-{
-"id": "2026-11-10T16:26|Alice Phoebe Lou|Underworld",
-"t": "2026-11-10T16:26:00+01:00",
-"artist": "Alice Phoebe Lou",
-"title": "Underworld"
-},
-{
-"id": "2026-11-10T16:20|Harry Styles|Aperture",
-"t": "2026-11-10T16:20:00+01:00",
-"artist": "Harry Styles",
-"title": "Aperture"
-},
-{
-"id": "2026-11-10T16:17|Keshavara|Oracular",
-"t": "2026-11-10T16:17:00+01:00",
-"artist": "Keshavara",
-"title": "Oracular"
-},
-{
-"id": "2026-11-10T16:10|Jungle|Someday, Somewhere",
-"t": "2026-11-10T16:10:00+01:00",
-"artist": "Jungle",
-"title": "Someday, Somewhere"
-},
-{
-"id": "2026-11-10T16:07|The Jam|That's Entertainment",
-"t": "2026-11-10T16:07:00+01:00",
-"artist": "The Jam",
-"title": "That's Entertainment"
-},
-{
-"id": "2026-11-10T15:57|José González|A Perfect Storm",
-"t": "2026-11-10T15:57:00+01:00",
-"artist": "José González",
-"title": "A Perfect Storm"
-},
-{
-"id": "2026-11-10T15:52|Beck|It Ends Right Here",
-"t": "2026-11-10T15:52:00+01:00",
-"artist": "Beck",
-"title": "It Ends Right Here"
-},
-{
-"id": "2026-11-10T15:46|Kenny Dope feat. Róisín Murphy|Born Under Punches (The Heat Goes On)",
-"t": "2026-11-10T15:46:00+01:00",
-"artist": "Kenny Dope feat. Róisín Murphy",
-"title": "Born Under Punches (The Heat Goes On)"
 }
 ]
 }
