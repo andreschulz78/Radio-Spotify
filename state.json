@@ -1,9 +1,9 @@
 {
-"updated": "2026-11-17T12:38:20.374676+01:00",
+"updated": "2026-11-17T12:50:20.374992+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
-"synced": "2026-11-17T12:26:20.374319+01:00",
+"synced": "2026-11-17T12:42:20.374779+01:00",
 "pruned": "2026-11-17",
 "calls": {
 "2026-11-10": 171,
@@ -13,12 +13,28 @@
 "2026-11-14": 145,
 "2026-11-15": 93,
 "2026-11-16": 163,
-"2026-11-17": 73
+"2026-11-17": 78
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAiLD5KNULM+WDtMUX79QhE56Be5hBI",
+"snapshot": "AAAiLRe+6IbVHz8XCMCrbDqgQCM7FbS+",
 "playlist": [
+[
+"2026-11-17T12:36|Wilco|Sky Blue Sky",
+"spotify:track:4Fpu9HViylfPzKVkBRdwSy"
+],
+[
+"2026-11-17T12:32|Cheap Wedding|Skyscrapers",
+"spotify:track:5UI9nPXtNjVt4Hk0NgKWVv"
+],
+[
+"2026-11-17T12:29|Jack Johnson & Lee \"Scratch\" Perry|Traffic In The Sky (Lee Scratch Perry Dub)",
+"spotify:track:2WKV1J1ny7g0papXOVRBLR"
+],
+[
+"2026-11-17T12:24|Cassia|lovedrunk",
+"spotify:track:73HM4oXqEBDbeKn8GexF3c"
+],
 [
 "2026-11-17T12:21|Barbara Acklin|Am I The Same Girl",
 "spotify:track:2KZ4EZcNUanFLpf8CykQeR"
@@ -3837,6 +3853,30 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-11-17T12:46|The Phenomenal Handclap Band|Skyline",
+"t": "2026-11-17T12:46:00+01:00",
+"artist": "The Phenomenal Handclap Band",
+"title": "Skyline"
+},
+{
+"id": "2026-11-17T12:43|Anderson .Paak|Fire In The Sky",
+"t": "2026-11-17T12:43:00+01:00",
+"artist": "Anderson .Paak",
+"title": "Fire In The Sky"
+},
+{
+"id": "2026-11-17T12:39|Adele|Skyfall",
+"t": "2026-11-17T12:39:00+01:00",
+"artist": "Adele",
+"title": "Skyfall"
+},
+{
+"id": "2026-11-17T12:36|Wilco|Sky Blue Sky",
+"t": "2026-11-17T12:36:00+01:00",
+"artist": "Wilco",
+"title": "Sky Blue Sky"
+},
 {
 "id": "2026-11-17T12:32|Cheap Wedding|Skyscrapers",
 "t": "2026-11-17T12:32:00+01:00",
@@ -9206,18 +9246,6 @@
 "t": "2026-11-10T12:52:00+01:00",
 "artist": "WhoMadeWho feat. RY X",
 "title": "Love Will Save Me"
-},
-{
-"id": "2026-11-10T12:47|Aimee Mann|Save Me",
-"t": "2026-11-10T12:47:00+01:00",
-"artist": "Aimee Mann",
-"title": "Save Me"
-},
-{
-"id": "2026-11-10T12:43|Red Hot Chili Peppers|Save The Population",
-"t": "2026-11-10T12:43:00+01:00",
-"artist": "Red Hot Chili Peppers",
-"title": "Save The Population"
 }
 ]
 }
