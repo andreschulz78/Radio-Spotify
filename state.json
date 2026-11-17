@@ -1,9 +1,9 @@
 {
-"updated": "2026-11-17T06:24:38.638590+01:00",
+"updated": "2026-11-17T06:36:38.638931+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
-"synced": "2026-11-17T06:16:38.638392+01:00",
+"synced": "2026-11-17T06:32:38.638823+01:00",
 "pruned": "2026-11-17",
 "calls": {
 "2026-11-10": 171,
@@ -13,12 +13,24 @@
 "2026-11-14": 145,
 "2026-11-15": 93,
 "2026-11-16": 163,
-"2026-11-17": 15
+"2026-11-17": 17
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAiE0TMFBTsB6WIATAEAnio0g5mt5Ks",
+"snapshot": "AAAiFBFu/5P7vUJ4RA5gGVya6Y6fPvvC",
 "playlist": [
+[
+"2026-11-17T06:25|Janelle Monáe|Make Me Feel",
+"spotify:track:79GsUxLyzxgnN4I1E11dtO"
+],
+[
+"2026-11-17T06:19|Leon Bridges|Light The Way",
+"spotify:track:3G1hTUddM2diIyYA0yy9kS"
+],
+[
+"2026-11-17T06:13|Automatic|Shadowplay",
+"spotify:track:0pT1m2UpNBliUb6W7S7YzA"
+],
 [
 "2026-11-17T06:05|Genesis Owusu|Human Again",
 "spotify:track:3uP7jqdt4haiuL4acLhrDY"
@@ -3621,6 +3633,18 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-11-17T06:25|Janelle Monáe|Make Me Feel",
+"t": "2026-11-17T06:25:00+01:00",
+"artist": "Janelle Monáe",
+"title": "Make Me Feel"
+},
+{
+"id": "2026-11-17T06:19|Leon Bridges|Light The Way",
+"t": "2026-11-17T06:19:00+01:00",
+"artist": "Leon Bridges",
+"title": "Light The Way"
+},
 {
 "id": "2026-11-17T06:13|Automatic|Shadowplay",
 "t": "2026-11-17T06:13:00+01:00",
@@ -9002,18 +9026,6 @@
 "t": "2026-11-10T06:40:00+01:00",
 "artist": "Gorillaz feat. Fatoumata Diawara",
 "title": "Désolé"
-},
-{
-"id": "2026-11-10T06:33|Grouplove|Tongue Tied",
-"t": "2026-11-10T06:33:00+01:00",
-"artist": "Grouplove",
-"title": "Tongue Tied"
-},
-{
-"id": "2026-11-10T06:26|Tank And The Bangas|Ain’t That Deep",
-"t": "2026-11-10T06:26:00+01:00",
-"artist": "Tank And The Bangas",
-"title": "Ain’t That Deep"
 }
 ]
 }
