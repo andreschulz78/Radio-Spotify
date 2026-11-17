@@ -1,9 +1,9 @@
 {
-"updated": "2026-11-17T10:14:20.370720+01:00",
+"updated": "2026-11-17T10:26:20.371069+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
-"synced": "2026-11-17T10:02:20.370367+01:00",
+"synced": "2026-11-17T10:18:20.370856+01:00",
 "pruned": "2026-11-17",
 "calls": {
 "2026-11-10": 171,
@@ -13,12 +13,20 @@
 "2026-11-14": 145,
 "2026-11-15": 93,
 "2026-11-16": 163,
-"2026-11-17": 40
+"2026-11-17": 48
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAiGs0BcdhNLlByACnm4o3ea8shfTlW",
+"snapshot": "AAAiII/kjm6Ng4HAVqw//eNgSFeCqZxL",
 "playlist": [
+[
+"2026-11-17T10:09|Pete Doherty|Last Of The English Roses",
+"spotify:track:6RiLgHM09CuXAWfsaDZi9X"
+],
+[
+"2026-11-17T10:06|Antony Szmierek|Chalk (Radio Edit)",
+"spotify:track:5HdeMdzAlNKwCM4L9cjehN"
+],
 [
 "2026-11-17T09:56|Roisín Murphy|Murphy's Law",
 "spotify:track:4vPHYmIczB9quxzX6JxO5Q"
@@ -52,6 +60,10 @@
 "spotify:track:1C0Lpji3kKe7rZie1LC4bx"
 ],
 [
+"2026-11-17T09:06|Modest Mouse|Dashboard",
+"spotify:track:0Fe3WxeO6lZZxj7ytvbDUh"
+],
+[
 "2026-11-17T08:56|Die Sauna|ich liebe dich",
 "spotify:track:6hlw9o1GgUSSummPTKacU0"
 ],
@@ -64,8 +76,28 @@
 "spotify:track:6jWOYnJiHYG2BU9GM17mvJ"
 ],
 [
+"2026-11-17T08:35|The xx|On Hold",
+"spotify:track:5w3CRkbTWXfbYepIdFpGUN"
+],
+[
+"2026-11-17T08:26|Lumidee|Never Leave You (Uh-Oooh)",
+"spotify:track:7z8aFQ2vr0fbdkuWBH3e6V"
+],
+[
+"2026-11-17T08:22|Lou Reed|Vicious",
+"spotify:track:4A48NL57P16zSRaq3yoYry"
+],
+[
+"2026-11-17T08:19|DJ Koze feat. Arnim Teutoburg-Weiß & The Düsseldorf Düsterboys|Wie schön du bist",
+"spotify:track:1MOcTFQKehOrYWF6rZ9Sxx"
+],
+[
 "2026-11-17T08:15|Agnes Obel|Laymelli (Edit)",
 "spotify:track:0VzMHjWcs2P24LHLekZ8Qa"
+],
+[
+"2026-11-17T08:06|Twin Shadow|Five Seconds",
+"spotify:track:61f7YLWbVgGfCfbROgWiqR"
 ],
 [
 "2026-11-17T07:58|Σtella|Belinda",
@@ -76,8 +108,16 @@
 "spotify:track:3rSiXUS27EJxisY62sEqmJ"
 ],
 [
+"2026-11-17T07:47|Working Men's Club|Circumference (Radio Edit)",
+"spotify:track:2Xi64OY33XLXTDhUGYg5Uc"
+],
+[
 "2026-11-17T07:41|Overmono feat. Ruthven|Gem Lingo (ovr now)",
 "spotify:track:6dSqM0tWJPlchpmGrEwC1c"
+],
+[
+"2026-11-17T07:34|Lola Young|Flicker Of Light",
+"spotify:track:3etbPFMXnAuShtcImz4UXW"
 ],
 [
 "2026-11-17T07:26|Peter Cruseder|Love",
@@ -3721,6 +3761,18 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-11-17T10:19|Anna von Hausswolff feat. Iggy Pop|The Whole Woman",
+"t": "2026-11-17T10:19:00+01:00",
+"artist": "Anna von Hausswolff feat. Iggy Pop",
+"title": "The Whole Woman"
+},
+{
+"id": "2026-11-17T10:09|Pete Doherty|Last Of The English Roses",
+"t": "2026-11-17T10:09:00+01:00",
+"artist": "Pete Doherty",
+"title": "Last Of The English Roses"
+},
 {
 "id": "2026-11-17T10:06|Antony Szmierek|Chalk (Radio Edit)",
 "t": "2026-11-17T10:06:00+01:00",
@@ -9102,18 +9154,6 @@
 "t": "2026-11-10T10:30:00+01:00",
 "artist": "Stella Donnelly",
 "title": "Laying Low"
-},
-{
-"id": "2026-11-10T10:26|The Cure|10.15 Saturday Night",
-"t": "2026-11-10T10:26:00+01:00",
-"artist": "The Cure",
-"title": "10.15 Saturday Night"
-},
-{
-"id": "2026-11-10T10:22|St. Vincent|Los Ageless",
-"t": "2026-11-10T10:22:00+01:00",
-"artist": "St. Vincent",
-"title": "Los Ageless"
 }
 ]
 }
