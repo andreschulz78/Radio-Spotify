@@ -1,9 +1,9 @@
 {
-"updated": "2026-11-17T19:38:52.674395+01:00",
+"updated": "2026-11-17T19:50:52.674699+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
-"synced": "2026-11-17T19:26:52.674022+01:00",
+"synced": "2026-11-17T19:42:52.674511+01:00",
 "pruned": "2026-11-17",
 "calls": {
 "2026-11-10": 171,
@@ -13,11 +13,11 @@
 "2026-11-14": 145,
 "2026-11-15": 93,
 "2026-11-16": 163,
-"2026-11-17": 126
+"2026-11-17": 136
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAiO7IQqaUa/HlrpBJQuVmuhHJhdDCR",
+"snapshot": "AAAiQPkajLdXYqRy1G9dyIuNY9STqI0N",
 "playlist": [
 [
 "2026-11-17T19:06|Fuffifufzich|New Era",
@@ -56,12 +56,20 @@
 "spotify:track:73gwUCEJBgLhLzM1WTMBv0"
 ],
 [
+"2026-11-17T18:17|Soap & Skin|Safe With Me",
+"spotify:track:6JXNQLqk8iSHgHp4ag7498"
+],
+[
 "2026-11-17T18:09|Ibeyi|Hurry Hurry",
 "spotify:track:4BGA7VW330Eu1kaFNi98cG"
 ],
 [
 "2026-11-17T18:05|Wild Beasts|The Devil's Crayon",
 "spotify:track:6Mm0RWHGch0sJVxUyl19m3"
+],
+[
+"2026-11-17T17:57|Fred Again..|Julia (Deep Diving) (Edit)",
+"spotify:track:5DHSlpd0MX9DfnoAQqolfa"
 ],
 [
 "2026-11-17T17:51|Missincat|Back On My Feet",
@@ -76,6 +84,18 @@
 "spotify:track:3ra7fDLqfUHBWBL702fOAn"
 ],
 [
+"2026-11-17T17:39|William Fitzsimmons|I Don't Feel It Anymore (George Raquet Remix)",
+"spotify:track:7FeYNuraPFq6AjpCHtHT8E"
+],
+[
+"2026-11-17T17:34|The Last Dinner Party|The Feminine Urge",
+"spotify:track:1gRK6QnBOpNtEDjYKftzTc"
+],
+[
+"2026-11-17T17:24|Charles Bradley|Changes",
+"spotify:track:3HC6U39266ytr7fMW9M2Mz"
+],
+[
 "2026-11-17T17:18|Bulgarian Cartrader|In My Zone (Radio Edit)",
 "spotify:track:5eRnR1gok6Btb2kYJICbsX"
 ],
@@ -86,6 +106,30 @@
 [
 "2026-11-17T17:09|Ayele|Fractured (Radio Edit)",
 "spotify:track:5EGnOBL2qoUNard3Oaq5Hc"
+],
+[
+"2026-11-17T17:05|Leonard Cohen|You Want It Darker (Paul Kalkbrenner Remix)",
+"spotify:track:7m7fvKgy2HBrVYXTZzupNt"
+],
+[
+"2026-11-17T16:55|US3|Cantaloop",
+"spotify:track:3w3DMgfAvubFLJ1edEibLr"
+],
+[
+"2026-11-17T16:47|Blur|The Universal",
+"spotify:track:0101EAdbQ4d1p7XXzW3aFn"
+],
+[
+"2026-11-17T16:43|Billy Nomates|Saboteur Forcefield",
+"spotify:track:0ukh87ug2zuyeFpUfzrP4Z"
+],
+[
+"2026-11-17T16:36|Courtney Barnett|Write A List Of Things To Look Forward To",
+"spotify:track:7vlcJzNIVdJIzJ4ayUqgDc"
+],
+[
+"2026-11-17T16:33|Sohn|Artifice",
+"spotify:track:5FdeKWbwhnjsGmIxkeRJ7t"
 ],
 [
 "2026-11-17T16:23|Black Marble|Jim Carol New Year",
@@ -102,6 +146,10 @@
 [
 "2026-11-17T16:09|The Drums feat. Mareux|It Didn't Matter",
 "spotify:track:10kxTiNUTo4nlEbH1EzoX1"
+],
+[
+"2026-11-17T16:06|The Primitives|Crash",
+"spotify:track:4tPHC7YsU3LInUYcIe2UIi"
 ],
 [
 "2026-11-17T15:52|Lola Young|Big Brown Eyes",
@@ -4053,6 +4101,12 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-11-17T19:38|Hannah Jadagu|My Love",
+"t": "2026-11-17T19:38:00+01:00",
+"artist": "Hannah Jadagu",
+"title": "My Love"
+},
 {
 "id": "2026-11-17T19:06|Fuffifufzich|New Era",
 "t": "2026-11-17T19:06:00+01:00",
