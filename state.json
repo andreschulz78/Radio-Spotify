@@ -1,9 +1,9 @@
 {
-"updated": "2026-11-17T07:24:38.640227+01:00",
+"updated": "2026-11-17T07:36:38.640584+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
-"synced": "2026-11-17T07:20:38.640146+01:00",
+"synced": "2026-11-17T07:36:38.640584+01:00",
 "pruned": "2026-11-17",
 "calls": {
 "2026-11-10": 171,
@@ -13,12 +13,20 @@
 "2026-11-14": 145,
 "2026-11-15": 93,
 "2026-11-16": 163,
-"2026-11-17": 24
+"2026-11-17": 27
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAiGA/uU7evEkfaAk8Imq4rdQtak5Nn",
+"snapshot": "AAAiGV1b9MHRZF+62iOzNJCR4Jq9EwLO",
 "playlist": [
+[
+"2026-11-17T07:26|Peter Cruseder|Love",
+"spotify:track:7mc6omD0uFBGHeiwdtFzY2"
+],
+[
+"2026-11-17T07:18|Nelly|Dilemma",
+"spotify:track:0ARK753YaiJbpLUk7z5yIM"
+],
 [
 "2026-11-17T07:14|Steve Lacy|Show You Me",
 "spotify:track:4f50UTC41M2Ah5itifSGE5"
@@ -3653,6 +3661,18 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-11-17T07:26|Peter Cruseder|Love",
+"t": "2026-11-17T07:26:00+01:00",
+"artist": "Peter Cruseder",
+"title": "Love"
+},
+{
+"id": "2026-11-17T07:18|Nelly|Dilemma",
+"t": "2026-11-17T07:18:00+01:00",
+"artist": "Nelly",
+"title": "Dilemma"
+},
 {
 "id": "2026-11-17T07:14|Steve Lacy|Show You Me",
 "t": "2026-11-17T07:14:00+01:00",
@@ -9040,18 +9060,6 @@
 "t": "2026-11-10T07:43:00+01:00",
 "artist": "Ibeyi",
 "title": "Hurry Hurry"
-},
-{
-"id": "2026-11-10T07:34|Big Red Machine feat. Fleet Foxes & Anaïs Mitchell|Phoenix",
-"t": "2026-11-10T07:34:00+01:00",
-"artist": "Big Red Machine feat. Fleet Foxes & Anaïs Mitchell",
-"title": "Phoenix"
-},
-{
-"id": "2026-11-10T07:26|Tame Impala|Is It True",
-"t": "2026-11-10T07:26:00+01:00",
-"artist": "Tame Impala",
-"title": "Is It True"
 }
 ]
 }
