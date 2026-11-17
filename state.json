@@ -1,9 +1,9 @@
 {
-"updated": "2026-11-17T13:38:20.376319+01:00",
+"updated": "2026-11-17T13:50:20.376781+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
-"synced": "2026-11-17T13:30:20.376105+01:00",
+"synced": "2026-11-17T13:46:20.376550+01:00",
 "pruned": "2026-11-17",
 "calls": {
 "2026-11-10": 171,
@@ -13,12 +13,20 @@
 "2026-11-14": 145,
 "2026-11-15": 93,
 "2026-11-16": 163,
-"2026-11-17": 87
+"2026-11-17": 90
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAiMMmr+91+TcXs+XCQqbtkCHuOT5fp",
+"snapshot": "AAAiMdZoKDw2XM62Ff3uEB/vUpeE1wws",
 "playlist": [
+[
+"2026-11-17T13:34|Nightmares On Wax feat. Mozez|You Wish (Abbey Road Fuzz Gospel Version)",
+"spotify:track:6G6M4fl2I0eqEQnzyTwR8m"
+],
+[
+"2026-11-17T13:30|4 Non Blondes|What's Up",
+"spotify:track:0jWgAnTrNZmOGmqgvHhZEm"
+],
 [
 "2026-11-17T13:24|Bilderbuch|Baby Junkie",
 "spotify:track:1bPs9oNEaAEUYfCL7tH79W"
@@ -3885,6 +3893,18 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-11-17T13:43|Placebo|Running Up That Hill",
+"t": "2026-11-17T13:43:00+01:00",
+"artist": "Placebo",
+"title": "Running Up That Hill"
+},
+{
+"id": "2026-11-17T13:34|Nightmares On Wax feat. Mozez|You Wish (Abbey Road Fuzz Gospel Version)",
+"t": "2026-11-17T13:34:00+01:00",
+"artist": "Nightmares On Wax feat. Mozez",
+"title": "You Wish (Abbey Road Fuzz Gospel Version)"
+},
 {
 "id": "2026-11-17T13:30|4 Non Blondes|What's Up",
 "t": "2026-11-17T13:30:00+01:00",
@@ -9248,18 +9268,6 @@
 "t": "2026-11-10T13:56:00+01:00",
 "artist": "Pet Shop Boys",
 "title": "Burning The Heather (Edit)"
-},
-{
-"id": "2026-11-10T13:50|Kollektiv Turmstrasse feat. Joel Stewart|When The Lights Go Lower",
-"t": "2026-11-10T13:50:00+01:00",
-"artist": "Kollektiv Turmstrasse feat. Joel Stewart",
-"title": "When The Lights Go Lower"
-},
-{
-"id": "2026-11-10T13:47|SOFY|50/50",
-"t": "2026-11-10T13:47:00+01:00",
-"artist": "SOFY",
-"title": "50/50"
 }
 ]
 }
