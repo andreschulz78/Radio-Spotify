@@ -1,9 +1,9 @@
 {
-"updated": "2026-11-17T11:02:20.372051+01:00",
+"updated": "2026-11-17T11:14:20.372387+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
-"synced": "2026-11-17T10:50:20.371696+01:00",
+"synced": "2026-11-17T11:06:20.372162+01:00",
 "pruned": "2026-11-17",
 "calls": {
 "2026-11-10": 171,
@@ -13,12 +13,24 @@
 "2026-11-14": 145,
 "2026-11-15": 93,
 "2026-11-16": 163,
-"2026-11-17": 52
+"2026-11-17": 56
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAiI6Mn8A980Ad0HYqN1TINYObfM/qF",
+"snapshot": "AAAiJSmGTEiKv7DfjN1iXGi42tUtsdK/",
 "playlist": [
+[
+"2026-11-17T10:56|Childish Gambino & Brittany Howard|Stay High (Childish Gambino Version)",
+"spotify:track:6R4D0br3jixC7aDNBaZRKl"
+],
+[
+"2026-11-17T10:50|Jem|They",
+"spotify:track:5HiVagjTjqdvu3Ke2aqMc7"
+],
+[
+"2026-11-17T10:47|Django Django|Cameos",
+"spotify:track:6q1og9CkTnFTTYqOSN9ed3"
+],
 [
 "2026-11-17T10:34|Austra|Math Equation",
 "spotify:track:2r6yEYmV8vu1pjVHmKEr0f"
@@ -3552,10 +3564,6 @@
 "spotify:track:5MkC4l5EgOeLTd0CNb7IJz"
 ],
 [
-"2026-11-10T11:06|Nick Cave & The Bad Seeds|Nature Boy",
-"spotify:track:6pmDHODsAiR8PZtlJZnJmC"
-],
-[
 "2026-11-10T10:57|Hearts Hearts|Rub My Eyes",
 "spotify:track:4KoTfmv9jyJDxbFC4g13YY"
 ],
@@ -3773,6 +3781,18 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-11-17T11:06|Getdown Services|I Cant Die Like That",
+"t": "2026-11-17T11:06:00+01:00",
+"artist": "Getdown Services",
+"title": "I Cant Die Like That"
+},
+{
+"id": "2026-11-17T10:56|Childish Gambino & Brittany Howard|Stay High (Childish Gambino Version)",
+"t": "2026-11-17T10:56:00+01:00",
+"artist": "Childish Gambino & Brittany Howard",
+"title": "Stay High (Childish Gambino Version)"
+},
 {
 "id": "2026-11-17T10:50|Jem|They",
 "t": "2026-11-17T10:50:00+01:00",
@@ -9154,18 +9174,6 @@
 "t": "2026-11-10T11:20:00+01:00",
 "artist": "Grim104",
 "title": "Monstera"
-},
-{
-"id": "2026-11-10T11:09|Planningtorock feat. Romy|The One",
-"t": "2026-11-10T11:09:00+01:00",
-"artist": "Planningtorock feat. Romy",
-"title": "The One"
-},
-{
-"id": "2026-11-10T11:06|Nick Cave & The Bad Seeds|Nature Boy",
-"t": "2026-11-10T11:06:00+01:00",
-"artist": "Nick Cave & The Bad Seeds",
-"title": "Nature Boy"
 }
 ]
 }
