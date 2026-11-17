@@ -1,9 +1,9 @@
 {
-"updated": "2026-11-17T10:38:20.371377+01:00",
+"updated": "2026-11-17T10:50:20.371696+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
-"synced": "2026-11-17T10:34:20.371293+01:00",
+"synced": "2026-11-17T10:50:20.371696+01:00",
 "pruned": "2026-11-17",
 "calls": {
 "2026-11-10": 171,
@@ -13,12 +13,20 @@
 "2026-11-14": 145,
 "2026-11-15": 93,
 "2026-11-16": 163,
-"2026-11-17": 50
+"2026-11-17": 51
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAiItu56sG4E/t6JByD3tsqmjTjnHaW",
+"snapshot": "AAAiI6Mn8A980Ad0HYqN1TINYObfM/qF",
 "playlist": [
+[
+"2026-11-17T10:34|Austra|Math Equation",
+"spotify:track:2r6yEYmV8vu1pjVHmKEr0f"
+],
+[
+"2026-11-17T10:30|Phoenix|After Midnight",
+"spotify:track:21rpBPAlXAvBavvu5kCQzs"
+],
 [
 "2026-11-17T10:24|Poliça|Carlines",
 "spotify:track:3yuU8d8ckQ1SeLNSynIurJ"
@@ -3765,6 +3773,12 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-11-17T10:34|Austra|Math Equation",
+"t": "2026-11-17T10:34:00+01:00",
+"artist": "Austra",
+"title": "Math Equation"
+},
 {
 "id": "2026-11-17T10:30|Phoenix|After Midnight",
 "t": "2026-11-17T10:30:00+01:00",
@@ -9146,18 +9160,6 @@
 "t": "2026-11-10T10:57:00+01:00",
 "artist": "Hearts Hearts",
 "title": "Rub My Eyes"
-},
-{
-"id": "2026-11-10T10:49|Odd Beholder|Your Emancipation",
-"t": "2026-11-10T10:49:00+01:00",
-"artist": "Odd Beholder",
-"title": "Your Emancipation"
-},
-{
-"id": "2026-11-10T10:45|Whitest Boy Alive|Courage",
-"t": "2026-11-10T10:45:00+01:00",
-"artist": "Whitest Boy Alive",
-"title": "Courage"
 }
 ]
 }
