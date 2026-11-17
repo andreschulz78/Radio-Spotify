@@ -1,9 +1,9 @@
 {
-"updated": "2026-11-17T15:14:20.379132+01:00",
+"updated": "2026-11-17T15:26:20.379456+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
-"synced": "2026-11-17T15:06:20.378880+01:00",
+"synced": "2026-11-17T15:22:20.379352+01:00",
 "pruned": "2026-11-17",
 "calls": {
 "2026-11-10": 171,
@@ -13,12 +13,20 @@
 "2026-11-14": 145,
 "2026-11-15": 93,
 "2026-11-16": 163,
-"2026-11-17": 107
+"2026-11-17": 110
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAiON6ADOEk8hCRVi5sczLw4GOCaJ4w",
+"snapshot": "AAAiOXh1OKdjSBrNSjRz9Ixav+YGjDEH",
 "playlist": [
+[
+"2026-11-17T15:09|Avalon Emerson|Eden",
+"spotify:track:3QIcezZQJD2Vkb0SkhnQyp"
+],
+[
+"2026-11-17T15:06|Scissor Sisters|Take Your Mama",
+"spotify:track:6hy7ONYlFybtQ1bX6eoXlt"
+],
 [
 "2026-11-17T14:56|Sophia Kennedy|Musik ist kein Krieg",
 "spotify:track:1v5GB9ZT5CdwIqF3fx1tGP"
@@ -3941,6 +3949,24 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-11-17T15:21|Grace Ives|Trouble",
+"t": "2026-11-17T15:21:00+01:00",
+"artist": "Grace Ives",
+"title": "Trouble"
+},
+{
+"id": "2026-11-17T15:17|Interpol|Iron City",
+"t": "2026-11-17T15:17:00+01:00",
+"artist": "Interpol",
+"title": "Iron City"
+},
+{
+"id": "2026-11-17T15:09|Avalon Emerson|Eden",
+"t": "2026-11-17T15:09:00+01:00",
+"artist": "Avalon Emerson",
+"title": "Eden"
+},
 {
 "id": "2026-11-17T15:06|Scissor Sisters|Take Your Mama",
 "t": "2026-11-17T15:06:00+01:00",
@@ -9304,18 +9330,6 @@
 "t": "2026-11-10T15:33:00+01:00",
 "artist": "Lola Young",
 "title": "From Down Here (Radio Edit)"
-},
-{
-"id": "2026-11-10T15:24|Lord Huron|Bag of bones",
-"t": "2026-11-10T15:24:00+01:00",
-"artist": "Lord Huron",
-"title": "Bag of bones"
-},
-{
-"id": "2026-11-10T15:18|Natalie Bergmann|White Oak (Kosta G. Remix)",
-"t": "2026-11-10T15:18:00+01:00",
-"artist": "Natalie Bergmann",
-"title": "White Oak (Kosta G. Remix)"
 }
 ]
 }
