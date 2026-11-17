@@ -1,9 +1,9 @@
 {
-"updated": "2026-11-17T12:02:20.373689+01:00",
+"updated": "2026-11-17T12:14:20.374025+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
-"synced": "2026-11-17T11:54:20.373487+01:00",
+"synced": "2026-11-17T12:10:20.373921+01:00",
 "pruned": "2026-11-17",
 "calls": {
 "2026-11-10": 171,
@@ -13,12 +13,24 @@
 "2026-11-14": 145,
 "2026-11-15": 93,
 "2026-11-16": 163,
-"2026-11-17": 64
+"2026-11-17": 67
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAiKL55HXFzn19HS/hSgv5d3KtWsdoi",
+"snapshot": "AAAiKWbc/F0Sj3apdBy+LLipOGOtD2tn",
 "playlist": [
+[
+"2026-11-17T12:06|Damien Jurado|Percy Faith",
+"spotify:track:1qCgkpuBE1M3C4TJbsJkEN"
+],
+[
+"2026-11-17T11:55|Santigold|Disparate Youth",
+"spotify:track:7d23MhPFE9eB3U8DPRirnL"
+],
+[
+"2026-11-17T11:50|Joey Ramone|What A Wonderful World",
+"spotify:track:3Kgz8aGqtXJFyihsSuNAWO"
+],
 [
 "2026-11-17T11:46|Sylvan Esso|Right to Left",
 "spotify:track:78xiuouD9dMXKXGKdDnjqB"
@@ -3817,6 +3829,12 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-11-17T12:06|Damien Jurado|Percy Faith",
+"t": "2026-11-17T12:06:00+01:00",
+"artist": "Damien Jurado",
+"title": "Percy Faith"
+},
 {
 "id": "2026-11-17T11:55|Santigold|Disparate Youth",
 "t": "2026-11-17T11:55:00+01:00",
@@ -9198,18 +9216,6 @@
 "t": "2026-11-10T12:16:00+01:00",
 "artist": "Jordan Rakei",
 "title": "Enemies"
-},
-{
-"id": "2026-11-10T12:09|Yazmin Lacey feat. TYSON|Water",
-"t": "2026-11-10T12:09:00+01:00",
-"artist": "Yazmin Lacey feat. TYSON",
-"title": "Water"
-},
-{
-"id": "2026-11-10T12:05|Passion Pit|Little Secrets",
-"t": "2026-11-10T12:05:00+01:00",
-"artist": "Passion Pit",
-"title": "Little Secrets"
 }
 ]
 }
