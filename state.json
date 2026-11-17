@@ -1,9 +1,9 @@
 {
-"updated": "2026-11-17T07:00:38.639622+01:00",
+"updated": "2026-11-17T07:12:38.639959+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
-"synced": "2026-11-17T06:48:38.639277+01:00",
+"synced": "2026-11-17T07:04:38.639735+01:00",
 "pruned": "2026-11-17",
 "calls": {
 "2026-11-10": 171,
@@ -13,12 +13,24 @@
 "2026-11-14": 145,
 "2026-11-15": 93,
 "2026-11-16": 163,
-"2026-11-17": 21
+"2026-11-17": 22
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAiFuILcU/g48W1dEiNcQ+I4AAbi8gf",
+"snapshot": "AAAiFxpXIxo0MWAHZQlaTAmcdOuBQX3w",
 "playlist": [
+[
+"2026-11-17T06:57|Dekker|Pick It Up, Put It Back",
+"spotify:track:0LhuToBNSlvYc4IwVJpYWH"
+],
+[
+"2026-11-17T06:50|Band Of Horses|Is There A Ghost",
+"spotify:track:7fgOmdonXZap1Kuz7hs3O1"
+],
+[
+"2026-11-17T06:44|Keshavara|Oracular",
+"spotify:track:41sGSIiPi1QAYaL6nUWSDg"
+],
 [
 "2026-11-17T06:35|The Mountain Goats|Charlie Sheen Reaches Out To The Feds",
 "spotify:track:4Nx6uVBaesj4bx1tGCWeAz"
@@ -3633,6 +3645,12 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-11-17T07:06|Courtney Barnett|Wonder",
+"t": "2026-11-17T07:06:00+01:00",
+"artist": "Courtney Barnett",
+"title": "Wonder"
+},
 {
 "id": "2026-11-17T06:57|Dekker|Pick It Up, Put It Back",
 "t": "2026-11-17T06:57:00+01:00",
@@ -9026,12 +9044,6 @@
 "t": "2026-11-10T07:15:00+01:00",
 "artist": "Nichtseattle",
 "title": "Ich mit Brille"
-},
-{
-"id": "2026-11-10T07:12|Marlon Williams|My Boy",
-"t": "2026-11-10T07:12:00+01:00",
-"artist": "Marlon Williams",
-"title": "My Boy"
 }
 ]
 }
