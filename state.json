@@ -1,9 +1,9 @@
 {
-"updated": "2026-11-17T20:50:52.676338+01:00",
+"updated": "2026-11-17T21:02:52.676655+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
-"synced": "2026-11-17T20:46:52.676241+01:00",
+"synced": "2026-11-17T21:02:52.676655+01:00",
 "pruned": "2026-11-17",
 "calls": {
 "2026-11-10": 171,
@@ -13,12 +13,24 @@
 "2026-11-14": 145,
 "2026-11-15": 93,
 "2026-11-16": 163,
-"2026-11-17": 145
+"2026-11-17": 147
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAiRa+jEIB7EG5JtGMQJYv+OipPWxV9",
+"snapshot": "AAAiRvmmThn527BXgqLUapPxVuCMIoRr",
 "playlist": [
+[
+"2026-11-17T20:56|The Head And The Heart|Winter Song",
+"spotify:track:0EehVLemNjS8ifv4beZOcp"
+],
+[
+"2026-11-17T20:51|The War On Drugs|Who's That",
+"spotify:track:2YPP52aPZiFUxTmbQTUiR6"
+],
+[
+"2026-11-17T20:47|Ex:Re|Radio Station",
+"spotify:track:2ixKxWKW6ejtIVr5gm00K7"
+],
 [
 "2026-11-17T20:43|James Vincent McMorrow|Hurricane",
 "spotify:track:430AdcQfEGaKOZepLczGTo"
@@ -4133,6 +4145,24 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-11-17T20:56|The Head And The Heart|Winter Song",
+"t": "2026-11-17T20:56:00+01:00",
+"artist": "The Head And The Heart",
+"title": "Winter Song"
+},
+{
+"id": "2026-11-17T20:51|The War On Drugs|Who's That",
+"t": "2026-11-17T20:51:00+01:00",
+"artist": "The War On Drugs",
+"title": "Who's That"
+},
+{
+"id": "2026-11-17T20:47|Ex:Re|Radio Station",
+"t": "2026-11-17T20:47:00+01:00",
+"artist": "Ex:Re",
+"title": "Radio Station"
+},
 {
 "id": "2026-11-17T20:43|James Vincent McMorrow|Hurricane",
 "t": "2026-11-17T20:43:00+01:00",
@@ -9544,12 +9574,6 @@
 "t": "2026-11-11T05:03:00+01:00",
 "artist": "Slut",
 "title": "For The Soul There Is No Hospital"
-},
-{
-"id": "2026-11-10T20:52|The Drums feat. Mareux|It Didn't Matter",
-"t": "2026-11-10T20:52:00+01:00",
-"artist": "The Drums feat. Mareux",
-"title": "It Didn't Matter"
 }
 ]
 }
