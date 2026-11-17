@@ -1,9 +1,9 @@
 {
-"updated": "2026-11-17T14:14:20.377440+01:00",
+"updated": "2026-11-17T14:26:20.377772+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
-"synced": "2026-11-17T14:02:20.377118+01:00",
+"synced": "2026-11-17T14:18:20.377538+01:00",
 "pruned": "2026-11-17",
 "calls": {
 "2026-11-10": 171,
@@ -13,12 +13,20 @@
 "2026-11-14": 145,
 "2026-11-15": 93,
 "2026-11-16": 163,
-"2026-11-17": 93
+"2026-11-17": 97
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAiMseRRdjIw3J526ziZff9F1cJv3XO",
+"snapshot": "AAAiM5xfwznlKgIY8WdRen+yHkEUL0mH",
 "playlist": [
+[
+"2026-11-17T14:08|Alexander IV & IYAMAH|About Us",
+"spotify:track:0c3tXpFKZilDSR3yAphPZt"
+],
+[
+"2026-11-17T14:04|The Strokes|Under Cover Of Darkness",
+"spotify:track:6u0x5ad9ewHvs3z6u9Oe3c"
+],
 [
 "2026-11-17T13:51|Meshell Ndegeocello feat. Cat Power|Don’t You Want Me",
 "spotify:track:5sbCqST9M4Q1sRSJM6L6oT"
@@ -3905,6 +3913,24 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-11-17T14:21|Minnie Riperton|Inside My Love",
+"t": "2026-11-17T14:21:00+01:00",
+"artist": "Minnie Riperton",
+"title": "Inside My Love"
+},
+{
+"id": "2026-11-17T14:18|Dove Ellis|Heaven Has No Wings",
+"t": "2026-11-17T14:18:00+01:00",
+"artist": "Dove Ellis",
+"title": "Heaven Has No Wings"
+},
+{
+"id": "2026-11-17T14:08|Alexander IV & IYAMAH|About Us",
+"t": "2026-11-17T14:08:00+01:00",
+"artist": "Alexander IV & IYAMAH",
+"title": "About Us"
+},
 {
 "id": "2026-11-17T14:04|The Strokes|Under Cover Of Darkness",
 "t": "2026-11-17T14:04:00+01:00",
@@ -9268,18 +9294,6 @@
 "t": "2026-11-10T14:29:00+01:00",
 "artist": "Sassy 009 feat. Blood Orange",
 "title": "Tell Me (Jam City Remix) (Edit)"
-},
-{
-"id": "2026-11-10T14:24|Devendra Banhart|16th & Valencia Roxy Music",
-"t": "2026-11-10T14:24:00+01:00",
-"artist": "Devendra Banhart",
-"title": "16th & Valencia Roxy Music"
-},
-{
-"id": "2026-11-10T14:19|Gabriels|Break It",
-"t": "2026-11-10T14:19:00+01:00",
-"artist": "Gabriels",
-"title": "Break It"
 }
 ]
 }
