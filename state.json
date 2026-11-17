@@ -1,9 +1,9 @@
 {
-"updated": "2026-11-17T06:12:38.638267+01:00",
+"updated": "2026-11-17T06:24:38.638590+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
-"synced": "2026-11-17T06:00:38.637910+01:00",
+"synced": "2026-11-17T06:16:38.638392+01:00",
 "pruned": "2026-11-17",
 "calls": {
 "2026-11-10": 171,
@@ -13,12 +13,16 @@
 "2026-11-14": 145,
 "2026-11-15": 93,
 "2026-11-16": 163,
-"2026-11-17": 8
+"2026-11-17": 15
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAiDX3vvj0/WiV0mjwa1mq/foirIBhM",
+"snapshot": "AAAiE0TMFBTsB6WIATAEAnio0g5mt5Ks",
 "playlist": [
+[
+"2026-11-17T06:05|Genesis Owusu|Human Again",
+"spotify:track:3uP7jqdt4haiuL4acLhrDY"
+],
 [
 "2026-11-17T05:56|Madonna|Music",
 "spotify:track:7gCqotv7xXv8xRGT5sCHzV"
@@ -3560,10 +3564,6 @@
 "spotify:track:2IlvaOGNEZQu4rd76bQAFK"
 ],
 [
-"2026-11-10T06:16|Boy Harsher|Tough Luck (When You Don't Call)",
-"spotify:track:109AVLNWp2BnTXTzF4j6XE"
-],
-[
 "2026-11-10T06:11|Madonna|Into The Groove",
 "spotify:track:3y2Y3Bc6GDxAWAMIpbW7RU"
 ],
@@ -3621,6 +3621,12 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-11-17T06:13|Automatic|Shadowplay",
+"t": "2026-11-17T06:13:00+01:00",
+"artist": "Automatic",
+"title": "Shadowplay"
+},
 {
 "id": "2026-11-17T06:05|Genesis Owusu|Human Again",
 "t": "2026-11-17T06:05:00+01:00",
@@ -9008,18 +9014,6 @@
 "t": "2026-11-10T06:26:00+01:00",
 "artist": "Tank And The Bangas",
 "title": "Ain’t That Deep"
-},
-{
-"id": "2026-11-10T06:22|Oren Lavie|Her morning elegance",
-"t": "2026-11-10T06:22:00+01:00",
-"artist": "Oren Lavie",
-"title": "Her morning elegance"
-},
-{
-"id": "2026-11-10T06:16|Boy Harsher|Tough Luck (When You Don't Call)",
-"t": "2026-11-10T06:16:00+01:00",
-"artist": "Boy Harsher",
-"title": "Tough Luck (When You Don't Call)"
 }
 ]
 }
