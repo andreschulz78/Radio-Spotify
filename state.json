@@ -1,9 +1,9 @@
 {
-"updated": "2026-11-18T06:25:59.858788+01:00",
+"updated": "2026-11-18T06:37:59.859126+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
-"synced": "2026-11-18T06:17:59.858560+01:00",
+"synced": "2026-11-18T06:33:59.858985+01:00",
 "pruned": "2026-11-18",
 "calls": {
 "2026-11-11": 197,
@@ -13,12 +13,24 @@
 "2026-11-15": 93,
 "2026-11-16": 163,
 "2026-11-17": 194,
-"2026-11-18": 16
+"2026-11-18": 19
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAiYRFLSWhIc7G/3xW5SuwFoQL+bLMA",
+"snapshot": "AAAiY8RJq16bpbrTRRjToP39wDzAwJsM",
 "playlist": [
+[
+"2026-11-18T06:23|Madness|Bullingdon Boys",
+"spotify:track:6NgUbs4JTjq465CUbG7yag"
+],
+[
+"2026-11-18T06:18|Everything But The Girl|Young and Dumb",
+"spotify:track:4b3EgGk2hdOQwBHvFQUTmJ"
+],
+[
+"2026-11-18T06:14|The Duke Spirit|My Sunken Treasure",
+"spotify:track:35fdY9KjHv9clcmHtuOBtP"
+],
 [
 "2026-11-18T06:06|Beth Ditto|In And Out",
 "spotify:track:21Ca8qgNqwQoMQ9pJHfDyo"
@@ -3644,10 +3656,6 @@
 "spotify:track:1yxpRDrcK5ExwNiThPa9Uh"
 ],
 [
-"2026-11-11T06:33|Faithless feat. Dido|One Step Too Far",
-"spotify:track:67JG3WZ0ow05lDqcWnCBBc"
-],
-[
 "2026-11-11T06:23|Cass McCombs|Peace",
 "spotify:track:0HJuwBpU9bpH3Zt5r1PtNS"
 ],
@@ -3705,6 +3713,12 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-11-18T06:23|Madness|Bullingdon Boys",
+"t": "2026-11-18T06:23:00+01:00",
+"artist": "Madness",
+"title": "Bullingdon Boys"
+},
 {
 "id": "2026-11-18T06:18|Everything But The Girl|Young and Dumb",
 "t": "2026-11-18T06:18:00+01:00",
@@ -9242,12 +9256,6 @@
 "t": "2026-11-11T06:41:00+01:00",
 "artist": "Dream Boat",
 "title": "Real!"
-},
-{
-"id": "2026-11-11T06:33|Faithless feat. Dido|One Step Too Far",
-"t": "2026-11-11T06:33:00+01:00",
-"artist": "Faithless feat. Dido",
-"title": "One Step Too Far"
 }
 ]
 }
