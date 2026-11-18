@@ -473,7 +473,7 @@
 },
 "arcade fire|ready to start": {
 "u": "spotify:track:33X9miK4Xz7pNeVrc9RITG",
-"d": "2026-11-03T00:03:16.597546+01:00"
+"d": "2026-11-18T18:56:40.578342+01:00"
 },
 "arcade fire|rebellion": {
 "u": "spotify:track:0xOeB16JDbBJBJKSdHbElT",
@@ -557,7 +557,7 @@
 },
 "austra patrick holland|siren reprise": {
 "u": "spotify:track:678wI419HyRL4qSTbXdyLu",
-"d": "2026-11-16T00:03:31.317805+01:00"
+"d": "2026-11-18T18:56:40.578342+01:00"
 },
 "austra|lose it": {
 "u": "spotify:track:4xi9OcyjMfvBdQ6JvNnk8D",
@@ -3241,7 +3241,7 @@
 },
 "inxs|beautiful girl": {
 "u": "spotify:track:4FtcubXLzT1821D5vLK9H8",
-"d": "2026-11-11T00:01:59.827254+01:00"
+"d": "2026-11-18T18:56:40.578342+01:00"
 },
 "inxs|by my side": {
 "u": "spotify:track:1vmOWok3n7VAWh08KpEB4y",
@@ -4321,7 +4321,7 @@
 },
 "leron thomas|don t you know": {
 "u": "spotify:track:5OGqJs1n2p0dH3hzMLFlel",
-"d": "2026-11-16T00:03:31.317805+01:00"
+"d": "2026-11-18T18:56:40.578342+01:00"
 },
 "les rita mitsouko|marcia baila": {
 "u": "spotify:track:43THPstJP6RXLMd7ryXyNf",
@@ -6141,7 +6141,7 @@
 },
 "royksopp feat astrid s|let s get it right radio edit": {
 "u": "spotify:track:6KQCvjxj0uknK1vH8cbguO",
-"d": "2026-11-14T00:02:43.953012+01:00"
+"d": "2026-11-18T18:56:40.578342+01:00"
 },
 "royksopp|eple": {
 "u": "spotify:track:3lFFvF5PtAKKvtnfWTxutX",
@@ -6566,6 +6566,10 @@
 "sofie royer|cowboy mouth": {
 "u": "spotify:track:7qgYR8fHsHyyS5WKvA9srS",
 "d": "2026-11-18T00:02:52.681681+01:00"
+},
+"soft cell|where did our love go": {
+"u": "spotify:track:5fkfdFPtgeYGvpGYblD7l1",
+"d": "2026-11-18T18:56:40.578342+01:00"
 },
 "sofy|40 minute masterpiece": {
 "u": "spotify:track:1KY8ZR1fYcEJWD9iPgRYG4",
@@ -7407,6 +7411,10 @@
 "u": "spotify:track:6bVQ9ygrzZj9B7Z5hLB1bk",
 "d": "2026-11-15T00:02:05.525820+01:00"
 },
+"the national|rylan": {
+"u": "spotify:track:6XxPXXqkE4lG7MVkpom6F8",
+"d": "2026-11-18T18:56:40.578342+01:00"
+},
 "the national|sorrow": {
 "u": "spotify:track:0uSy1B5lpMHgYqd7TDEjjy",
 "d": "2026-11-17T02:00:38.631113+01:00"
@@ -7819,10 +7827,6 @@
 "u": "spotify:track:1NHd4UVxT5d5EGYzlDq17T",
 "d": "2026-11-02T00:01:41.599683+01:00"
 },
-"tok tok vs soffy o|day of mine": {
-"u": null,
-"d": "2026-11-17T19:46:52.674595+01:00"
-},
 "tokimonsta feat channel tres|naked": {
 "u": "spotify:track:1EzfgoY8TVuHrX402tzK7D",
 "d": "2026-11-17T02:00:38.631113+01:00"
@@ -8218,6 +8222,10 @@
 "war|low rider": {
 "u": "spotify:track:7Bz8yww6UMbTgTVLG6zbI4",
 "d": "2026-11-10T00:02:37.457510+01:00"
+},
+"wax tailor|que sera": {
+"u": "spotify:track:4I1LbLy9xIFZ9sftxGSLDR",
+"d": "2026-11-18T18:56:40.578342+01:00"
 },
 "weezer|l a girlz": {
 "u": "spotify:track:0qNGyNLKZtjueKjrOO1PRq",

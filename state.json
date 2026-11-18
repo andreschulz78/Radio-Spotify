@@ -1,9 +1,9 @@
 {
-"updated": "2026-11-18T15:37:51.896366+01:00",
+"updated": "2026-11-18T18:56:40.578342+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
-"synced": "2026-11-18T15:37:51.896366+01:00",
+"synced": "2026-11-18T18:56:40.578342+01:00",
 "pruned": "2026-11-18",
 "calls": {
 "2026-11-11": 197,
@@ -13,12 +13,100 @@
 "2026-11-15": 93,
 "2026-11-16": 163,
 "2026-11-17": 194,
-"2026-11-18": 126
+"2026-11-18": 131
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAimenB3oWsEYC/a8oFrf7Yx+sqLZk5",
+"snapshot": "AAAimyUobOVum/g3TusJt5gFObpgSQBv",
 "playlist": [
+[
+"2026-11-18T18:51|Grace Cummings|I'm Not Crazy",
+"spotify:track:70QaE9UJ2uTVwC4IGS6yvU"
+],
+[
+"2026-11-18T18:48|Soft Cell|Where Did Our Love Go?",
+"spotify:track:5fkfdFPtgeYGvpGYblD7l1"
+],
+[
+"2026-11-18T18:45|Steve Lacy|Show You Me",
+"spotify:track:4f50UTC41M2Ah5itifSGE5"
+],
+[
+"2026-11-18T18:39|Austra & Patrick Holland|Siren Reprise",
+"spotify:track:678wI419HyRL4qSTbXdyLu"
+],
+[
+"2026-11-18T18:35|The National|Rylan",
+"spotify:track:6XxPXXqkE4lG7MVkpom6F8"
+],
+[
+"2026-11-18T18:26|The Drums feat. Mareux|It Didn't Matter",
+"spotify:track:10kxTiNUTo4nlEbH1EzoX1"
+],
+[
+"2026-11-18T18:22|Wax Tailor|Que Sera",
+"spotify:track:4I1LbLy9xIFZ9sftxGSLDR"
+],
+[
+"2026-11-18T18:19|Röyksopp feat. Astrid S|Let's Get It Right (Radio Edit)",
+"spotify:track:6KQCvjxj0uknK1vH8cbguO"
+],
+[
+"2026-11-18T18:11|Keshavara|Oracular",
+"spotify:track:41sGSIiPi1QAYaL6nUWSDg"
+],
+[
+"2026-11-18T17:58|Alewya|Maktoub",
+"spotify:track:56DYNKo3QHkakqOUkWi3vl"
+],
+[
+"2026-11-18T17:49|Anderson .Paak & Cordae|A Good Day",
+"spotify:track:4CrnExkcZkg6Aek113hAWl"
+],
+[
+"2026-11-18T17:39|Dekker|Pick It Up, Put It Back",
+"spotify:track:0LhuToBNSlvYc4IwVJpYWH"
+],
+[
+"2026-11-18T17:36|Tessa Rose Jackson|Built To Collide",
+"spotify:track:69saRCWp2ov8jBLOprFAfE"
+],
+[
+"2026-11-18T17:25|Kutiman & Dekel|Everybody Needs to Be",
+"spotify:track:57nR701tskrQisI9GZJ9oq"
+],
+[
+"2026-11-18T17:13|Ex:Re|Sleep",
+"spotify:track:31hSy1c6SWABIV3W1LqjMz"
+],
+[
+"2026-11-18T16:58|Aurora|All My Demons Greeting Me As A Friend",
+"spotify:track:5O1tikYb6HKrP5cxSQv0iV"
+],
+[
+"2026-11-18T16:51|Leron Thomas|Don't You Know",
+"spotify:track:5OGqJs1n2p0dH3hzMLFlel"
+],
+[
+"2026-11-18T16:23|Meshell Ndegeocello feat. Cat Power|Don’t You Want Me",
+"spotify:track:5sbCqST9M4Q1sRSJM6L6oT"
+],
+[
+"2026-11-18T16:19|Arcade Fire|Ready To Start",
+"spotify:track:33X9miK4Xz7pNeVrc9RITG"
+],
+[
+"2026-11-18T16:10|Chinese American Bear|Dance Dance Dance (Edit)",
+"spotify:track:3Ct3ro3LnsTHjeRVPNSG5s"
+],
+[
+"2026-11-18T16:07|Inxs|Beautiful Girl",
+"spotify:track:4FtcubXLzT1821D5vLK9H8"
+],
+[
+"2026-11-18T15:57|EELS|Congratulations To Me",
+"spotify:track:0PsZbSqZk6s6bEw5Ff3xrS"
+],
 [
 "2026-11-18T15:30|Miike Snow|Black & Blue",
 "spotify:track:0xGlQO6wmX3tRWcWu9SpGZ"
@@ -3548,10 +3636,6 @@
 "spotify:track:4iej0znQnZAym0PgU7PICD"
 ],
 [
-"2026-11-11T18:56|Depeche Mode|Behind The Wheel",
-"spotify:track:5ZO4gjA1fMk0cD4EFkPSYT"
-],
-[
 "2026-11-11T18:53|Cassia|lovedrunk",
 "spotify:track:73HM4oXqEBDbeKn8GexF3c"
 ],
@@ -4041,6 +4125,192 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-11-18T18:51|Grace Cummings|I'm Not Crazy",
+"t": "2026-11-18T18:51:00+01:00",
+"artist": "Grace Cummings",
+"title": "I'm Not Crazy"
+},
+{
+"id": "2026-11-18T18:48|Soft Cell|Where Did Our Love Go?",
+"t": "2026-11-18T18:48:00+01:00",
+"artist": "Soft Cell",
+"title": "Where Did Our Love Go?"
+},
+{
+"id": "2026-11-18T18:45|Steve Lacy|Show You Me",
+"t": "2026-11-18T18:45:00+01:00",
+"artist": "Steve Lacy",
+"title": "Show You Me"
+},
+{
+"id": "2026-11-18T18:39|Austra & Patrick Holland|Siren Reprise",
+"t": "2026-11-18T18:39:00+01:00",
+"artist": "Austra & Patrick Holland",
+"title": "Siren Reprise"
+},
+{
+"id": "2026-11-18T18:35|The National|Rylan",
+"t": "2026-11-18T18:35:00+01:00",
+"artist": "The National",
+"title": "Rylan"
+},
+{
+"id": "2026-11-18T18:26|The Drums feat. Mareux|It Didn't Matter",
+"t": "2026-11-18T18:26:00+01:00",
+"artist": "The Drums feat. Mareux",
+"title": "It Didn't Matter"
+},
+{
+"id": "2026-11-18T18:22|Wax Tailor|Que Sera",
+"t": "2026-11-18T18:22:00+01:00",
+"artist": "Wax Tailor",
+"title": "Que Sera"
+},
+{
+"id": "2026-11-18T18:19|Röyksopp feat. Astrid S|Let's Get It Right (Radio Edit)",
+"t": "2026-11-18T18:19:00+01:00",
+"artist": "Röyksopp feat. Astrid S",
+"title": "Let's Get It Right (Radio Edit)"
+},
+{
+"id": "2026-11-18T18:11|Keshavara|Oracular",
+"t": "2026-11-18T18:11:00+01:00",
+"artist": "Keshavara",
+"title": "Oracular"
+},
+{
+"id": "2026-11-18T18:07|The Notwist|Kong",
+"t": "2026-11-18T18:07:00+01:00",
+"artist": "The Notwist",
+"title": "Kong"
+},
+{
+"id": "2026-11-18T17:58|Alewya|Maktoub",
+"t": "2026-11-18T17:58:00+01:00",
+"artist": "Alewya",
+"title": "Maktoub"
+},
+{
+"id": "2026-11-18T17:51|Nina Simone|My Baby Just Cares For Me",
+"t": "2026-11-18T17:51:00+01:00",
+"artist": "Nina Simone",
+"title": "My Baby Just Cares For Me"
+},
+{
+"id": "2026-11-18T17:49|Anderson .Paak & Cordae|A Good Day",
+"t": "2026-11-18T17:49:00+01:00",
+"artist": "Anderson .Paak & Cordae",
+"title": "A Good Day"
+},
+{
+"id": "2026-11-18T17:39|Dekker|Pick It Up, Put It Back",
+"t": "2026-11-18T17:39:00+01:00",
+"artist": "Dekker",
+"title": "Pick It Up, Put It Back"
+},
+{
+"id": "2026-11-18T17:36|Tessa Rose Jackson|Built To Collide",
+"t": "2026-11-18T17:36:00+01:00",
+"artist": "Tessa Rose Jackson",
+"title": "Built To Collide"
+},
+{
+"id": "2026-11-18T17:25|Kutiman & Dekel|Everybody Needs to Be",
+"t": "2026-11-18T17:25:00+01:00",
+"artist": "Kutiman & Dekel",
+"title": "Everybody Needs to Be"
+},
+{
+"id": "2026-11-18T17:23|The Boxer Rebellion|Weapon",
+"t": "2026-11-18T17:23:00+01:00",
+"artist": "The Boxer Rebellion",
+"title": "Weapon"
+},
+{
+"id": "2026-11-18T17:16|Melody's Echo Chamber|I Follow You",
+"t": "2026-11-18T17:16:00+01:00",
+"artist": "Melody's Echo Chamber",
+"title": "I Follow You"
+},
+{
+"id": "2026-11-18T17:13|Ex:Re|Sleep",
+"t": "2026-11-18T17:13:00+01:00",
+"artist": "Ex:Re",
+"title": "Sleep"
+},
+{
+"id": "2026-11-18T17:06|The Chemical Brothers & Beck|Wide Open",
+"t": "2026-11-18T17:06:00+01:00",
+"artist": "The Chemical Brothers & Beck",
+"title": "Wide Open"
+},
+{
+"id": "2026-11-18T16:58|Aurora|All My Demons Greeting Me As A Friend",
+"t": "2026-11-18T16:58:00+01:00",
+"artist": "Aurora",
+"title": "All My Demons Greeting Me As A Friend"
+},
+{
+"id": "2026-11-18T16:51|Leron Thomas|Don't You Know",
+"t": "2026-11-18T16:51:00+01:00",
+"artist": "Leron Thomas",
+"title": "Don't You Know"
+},
+{
+"id": "2026-11-18T16:48|Kavinsky feat. Lovefoxxx|Nightcall",
+"t": "2026-11-18T16:48:00+01:00",
+"artist": "Kavinsky feat. Lovefoxxx",
+"title": "Nightcall"
+},
+{
+"id": "2026-11-18T16:39|Heather Nova|Walk This World",
+"t": "2026-11-18T16:39:00+01:00",
+"artist": "Heather Nova",
+"title": "Walk This World"
+},
+{
+"id": "2026-11-18T16:23|Meshell Ndegeocello feat. Cat Power|Don’t You Want Me",
+"t": "2026-11-18T16:23:00+01:00",
+"artist": "Meshell Ndegeocello feat. Cat Power",
+"title": "Don’t You Want Me"
+},
+{
+"id": "2026-11-18T16:19|Arcade Fire|Ready To Start",
+"t": "2026-11-18T16:19:00+01:00",
+"artist": "Arcade Fire",
+"title": "Ready To Start"
+},
+{
+"id": "2026-11-18T16:10|Chinese American Bear|Dance Dance Dance (Edit)",
+"t": "2026-11-18T16:10:00+01:00",
+"artist": "Chinese American Bear",
+"title": "Dance Dance Dance (Edit)"
+},
+{
+"id": "2026-11-18T16:07|Inxs|Beautiful Girl",
+"t": "2026-11-18T16:07:00+01:00",
+"artist": "Inxs",
+"title": "Beautiful Girl"
+},
+{
+"id": "2026-11-18T15:57|EELS|Congratulations To Me",
+"t": "2026-11-18T15:57:00+01:00",
+"artist": "EELS",
+"title": "Congratulations To Me"
+},
+{
+"id": "2026-11-18T15:52|Edward Sharpe & The Magnetic Zeros|Free Stuff",
+"t": "2026-11-18T15:52:00+01:00",
+"artist": "Edward Sharpe & The Magnetic Zeros",
+"title": "Free Stuff"
+},
+{
+"id": "2026-11-18T15:45|The Cure|Close To Me",
+"t": "2026-11-18T15:45:00+01:00",
+"artist": "The Cure",
+"title": "Close To Me"
+},
 {
 "id": "2026-11-18T15:30|Miike Snow|Black & Blue",
 "t": "2026-11-18T15:30:00+01:00",
@@ -9422,204 +9692,6 @@
 "t": "2026-11-11T19:06:00+01:00",
 "artist": "Cage The Elephant",
 "title": "Dying in reverse"
-},
-{
-"id": "2026-11-11T18:56|Depeche Mode|Behind The Wheel",
-"t": "2026-11-11T18:56:00+01:00",
-"artist": "Depeche Mode",
-"title": "Behind The Wheel"
-},
-{
-"id": "2026-11-11T18:53|Cassia|lovedrunk",
-"t": "2026-11-11T18:53:00+01:00",
-"artist": "Cassia",
-"title": "lovedrunk"
-},
-{
-"id": "2026-11-11T18:48|Langoth feat. Melinda Stoika|Watch What You Say",
-"t": "2026-11-11T18:48:00+01:00",
-"artist": "Langoth feat. Melinda Stoika",
-"title": "Watch What You Say"
-},
-{
-"id": "2026-11-11T18:44|Natalie Jane Hill|Never Left Me",
-"t": "2026-11-11T18:44:00+01:00",
-"artist": "Natalie Jane Hill",
-"title": "Never Left Me"
-},
-{
-"id": "2026-11-11T18:40|Ayele|Fractured (Radio Edit)",
-"t": "2026-11-11T18:40:00+01:00",
-"artist": "Ayele",
-"title": "Fractured (Radio Edit)"
-},
-{
-"id": "2026-11-11T18:38|Ayele|Fractured (Radio Edit)",
-"t": "2026-11-11T18:38:00+01:00",
-"artist": "Ayele",
-"title": "Fractured (Radio Edit)"
-},
-{
-"id": "2026-11-11T18:34|Get Well Soon|It's Love",
-"t": "2026-11-11T18:34:00+01:00",
-"artist": "Get Well Soon",
-"title": "It's Love"
-},
-{
-"id": "2026-11-11T18:25|Leon Bridges|Panther City",
-"t": "2026-11-11T18:25:00+01:00",
-"artist": "Leon Bridges",
-"title": "Panther City"
-},
-{
-"id": "2026-11-11T18:14|Tikhet|Burndowner",
-"t": "2026-11-11T18:14:00+01:00",
-"artist": "Tikhet",
-"title": "Burndowner"
-},
-{
-"id": "2026-11-11T18:09|Buckshot LeFonque|Another Day",
-"t": "2026-11-11T18:09:00+01:00",
-"artist": "Buckshot LeFonque",
-"title": "Another Day"
-},
-{
-"id": "2026-11-11T18:05|Snow Patrol|Chasing Cars",
-"t": "2026-11-11T18:05:00+01:00",
-"artist": "Snow Patrol",
-"title": "Chasing Cars"
-},
-{
-"id": "2026-11-11T17:55|The Police|The Bed's Too Big Without You",
-"t": "2026-11-11T17:55:00+01:00",
-"artist": "The Police",
-"title": "The Bed's Too Big Without You"
-},
-{
-"id": "2026-11-11T17:48|Youth Lagoon|Football",
-"t": "2026-11-11T17:48:00+01:00",
-"artist": "Youth Lagoon",
-"title": "Football"
-},
-{
-"id": "2026-11-11T17:38|Mattafix|Living Darfur",
-"t": "2026-11-11T17:38:00+01:00",
-"artist": "Mattafix",
-"title": "Living Darfur"
-},
-{
-"id": "2026-11-11T17:34|Falco|Junge Römer",
-"t": "2026-11-11T17:34:00+01:00",
-"artist": "Falco",
-"title": "Junge Römer"
-},
-{
-"id": "2026-11-11T17:25|Caribou|Odessa",
-"t": "2026-11-11T17:25:00+01:00",
-"artist": "Caribou",
-"title": "Odessa"
-},
-{
-"id": "2026-11-11T17:18|Grace Cummings|I'm Not Crazy",
-"t": "2026-11-11T17:18:00+01:00",
-"artist": "Grace Cummings",
-"title": "I'm Not Crazy"
-},
-{
-"id": "2026-11-11T17:13|Briskeby|Propaganda",
-"t": "2026-11-11T17:13:00+01:00",
-"artist": "Briskeby",
-"title": "Propaganda"
-},
-{
-"id": "2026-11-11T17:08|They Owe Us|Don't Think About Me",
-"t": "2026-11-11T17:08:00+01:00",
-"artist": "They Owe Us",
-"title": "Don't Think About Me"
-},
-{
-"id": "2026-11-11T17:05|The Avalanches feat. Karen O|Blue Shadows",
-"t": "2026-11-11T17:05:00+01:00",
-"artist": "The Avalanches feat. Karen O",
-"title": "Blue Shadows"
-},
-{
-"id": "2026-11-11T16:58|Joni Mitchell|Big Yellow Taxi",
-"t": "2026-11-11T16:58:00+01:00",
-"artist": "Joni Mitchell",
-"title": "Big Yellow Taxi"
-},
-{
-"id": "2026-11-11T16:53|Steve Lacy|Show You Me",
-"t": "2026-11-11T16:53:00+01:00",
-"artist": "Steve Lacy",
-"title": "Show You Me"
-},
-{
-"id": "2026-11-11T16:50|The Beatles|Birthday",
-"t": "2026-11-11T16:50:00+01:00",
-"artist": "The Beatles",
-"title": "Birthday"
-},
-{
-"id": "2026-11-11T16:46|Mac DeMarco|The Way You 'd Love Her",
-"t": "2026-11-11T16:46:00+01:00",
-"artist": "Mac DeMarco",
-"title": "The Way You 'd Love Her"
-},
-{
-"id": "2026-11-11T16:38|Jamie Lidell|Another Day",
-"t": "2026-11-11T16:38:00+01:00",
-"artist": "Jamie Lidell",
-"title": "Another Day"
-},
-{
-"id": "2026-11-11T16:34|BICEP feat. SOARR|Air (Radio Edit)",
-"t": "2026-11-11T16:34:00+01:00",
-"artist": "BICEP feat. SOARR",
-"title": "Air (Radio Edit)"
-},
-{
-"id": "2026-11-11T16:23|The Divine Comedy|Invisible Thread",
-"t": "2026-11-11T16:23:00+01:00",
-"artist": "The Divine Comedy",
-"title": "Invisible Thread"
-},
-{
-"id": "2026-11-11T16:19|Oscar Farrell feat. Sampha|Dream Therapy",
-"t": "2026-11-11T16:19:00+01:00",
-"artist": "Oscar Farrell feat. Sampha",
-"title": "Dream Therapy"
-},
-{
-"id": "2026-11-11T16:10|Julia Holter|Everytime Boots",
-"t": "2026-11-11T16:10:00+01:00",
-"artist": "Julia Holter",
-"title": "Everytime Boots"
-},
-{
-"id": "2026-11-11T16:06|Tok Tok vs Soffy O|Day Of Mine",
-"t": "2026-11-11T16:06:00+01:00",
-"artist": "Tok Tok vs Soffy O",
-"title": "Day Of Mine"
-},
-{
-"id": "2026-11-11T15:57|Black Pumas|Colors",
-"t": "2026-11-11T15:57:00+01:00",
-"artist": "Black Pumas",
-"title": "Colors"
-},
-{
-"id": "2026-11-11T15:50|Timbaland (feat. Katy Perry)|If we ever meet again",
-"t": "2026-11-11T15:50:00+01:00",
-"artist": "Timbaland (feat. Katy Perry)",
-"title": "If we ever meet again"
-},
-{
-"id": "2026-11-11T15:45|J.Bernardt|Love Is On My Mind",
-"t": "2026-11-11T15:45:00+01:00",
-"artist": "J.Bernardt",
-"title": "Love Is On My Mind"
 }
 ]
 }
