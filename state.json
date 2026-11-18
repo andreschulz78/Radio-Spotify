@@ -1,9 +1,9 @@
 {
-"updated": "2026-11-18T11:49:51.890452+01:00",
+"updated": "2026-11-18T12:01:51.890753+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
-"synced": "2026-11-18T11:37:51.890167+01:00",
+"synced": "2026-11-18T11:53:51.890545+01:00",
 "pruned": "2026-11-18",
 "calls": {
 "2026-11-11": 197,
@@ -13,12 +13,24 @@
 "2026-11-15": 93,
 "2026-11-16": 163,
 "2026-11-17": 194,
-"2026-11-18": 72
+"2026-11-18": 75
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAifmDEjI6oT4JX8Bwpbgab5Vt0ZVD5",
+"snapshot": "AAAigBWGPdlX04aRAwSlO4eZhxX2+rXo",
 "playlist": [
+[
+"2026-11-18T11:43|Bobby Womack|Please Forgive My Heart",
+"spotify:track:2R7pokZEaPU20gjlTVIbkL"
+],
+[
+"2026-11-18T11:39|Keane|Is It Any Wonder",
+"spotify:track:1GfZOkeGmN73OL5BM7p723"
+],
+[
+"2026-11-18T11:35|The Dead South|In Hell I'll Be Good Company",
+"spotify:track:4eMxLQtSdgxdA1Hs6D2YuN"
+],
 [
 "2026-11-18T11:30|Odd Beholder|Your Emancipation",
 "spotify:track:1uLBaUVurwbtHnyAlD7ExO"
@@ -3648,10 +3660,6 @@
 "spotify:track:6H2ZSdZkYYW63UM6K2GcFh"
 ],
 [
-"2026-11-11T11:53|Alli Neumann|Ich kann gar nichts",
-"spotify:track:63T803LuN96NMlVWd4UkuU"
-],
-[
 "2026-11-11T11:46|Elton John|Your Song",
 "spotify:track:6Tfw0QTw4K24OTlvyx2fbi"
 ],
@@ -3873,6 +3881,24 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-11-18T11:56|Gladys Knight & The Pips|Midnight Train To Georgia",
+"t": "2026-11-18T11:56:00+01:00",
+"artist": "Gladys Knight & The Pips",
+"title": "Midnight Train To Georgia"
+},
+{
+"id": "2026-11-18T11:51|The Avalanches feat. Karen O|Blue Shadows",
+"t": "2026-11-18T11:51:00+01:00",
+"artist": "The Avalanches feat. Karen O",
+"title": "Blue Shadows"
+},
+{
+"id": "2026-11-18T11:47|Gabriels|Break It",
+"t": "2026-11-18T11:47:00+01:00",
+"artist": "Gabriels",
+"title": "Break It"
+},
 {
 "id": "2026-11-18T11:43|Bobby Womack|Please Forgive My Heart",
 "t": "2026-11-18T11:43:00+01:00",
@@ -9416,18 +9442,6 @@
 "t": "2026-11-11T12:06:00+01:00",
 "artist": "Boy Harsher",
 "title": "Tough Luck (When You Don't Call)"
-},
-{
-"id": "2026-11-11T11:59|Ethan French|Reckless And Arranged - Day 56",
-"t": "2026-11-11T11:59:00+01:00",
-"artist": "Ethan French",
-"title": "Reckless And Arranged - Day 56"
-},
-{
-"id": "2026-11-11T11:53|Alli Neumann|Ich kann gar nichts",
-"t": "2026-11-11T11:53:00+01:00",
-"artist": "Alli Neumann",
-"title": "Ich kann gar nichts"
 }
 ]
 }
