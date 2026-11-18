@@ -1,9 +1,9 @@
 {
-"updated": "2026-11-18T07:25:59.860555+01:00",
+"updated": "2026-11-18T07:37:59.860863+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
-"synced": "2026-11-18T07:21:59.860438+01:00",
+"synced": "2026-11-18T07:37:59.860863+01:00",
 "pruned": "2026-11-18",
 "calls": {
 "2026-11-11": 197,
@@ -13,12 +13,20 @@
 "2026-11-15": 93,
 "2026-11-16": 163,
 "2026-11-17": 194,
-"2026-11-18": 28
+"2026-11-18": 29
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAiZ01Bsft3o8XODO3VE4/A0b9G9NH6",
+"snapshot": "AAAiaIdlwsrKUfufzT0IKpitnFgLgbeK",
 "playlist": [
+[
+"2026-11-18T07:26|Lily Allen|Dallas Major",
+"spotify:track:1ECugAb7Pg6UDA501YYgH9"
+],
+[
+"2026-11-18T07:17|Talking Heads|Once In A Lifetime",
+"spotify:track:1Tr4K5MU5XYE44umXGDndd"
+],
 [
 "2026-11-18T07:12|Tikhet|Burndowner",
 "spotify:track:76iRkapw7dHIlJhSoy7PCv"
@@ -3737,6 +3745,12 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-11-18T07:26|Lily Allen|Dallas Major",
+"t": "2026-11-18T07:26:00+01:00",
+"artist": "Lily Allen",
+"title": "Dallas Major"
+},
 {
 "id": "2026-11-18T07:17|Talking Heads|Once In A Lifetime",
 "t": "2026-11-18T07:17:00+01:00",
@@ -9274,12 +9288,6 @@
 "t": "2026-11-11T07:42:00+01:00",
 "artist": "Johnny Marr",
 "title": "Lightning People"
-},
-{
-"id": "2026-11-11T07:33|Ibibio Sound Machine|Love",
-"t": "2026-11-11T07:33:00+01:00",
-"artist": "Ibibio Sound Machine",
-"title": "Love"
 }
 ]
 }
