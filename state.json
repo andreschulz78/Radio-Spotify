@@ -1,9 +1,9 @@
 {
-"updated": "2026-11-18T13:49:51.893367+01:00",
+"updated": "2026-11-18T14:01:51.893681+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
-"synced": "2026-11-18T13:45:51.893271+01:00",
+"synced": "2026-11-18T14:01:51.893681+01:00",
 "pruned": "2026-11-18",
 "calls": {
 "2026-11-11": 197,
@@ -13,12 +13,24 @@
 "2026-11-15": 93,
 "2026-11-16": 163,
 "2026-11-17": 194,
-"2026-11-18": 98
+"2026-11-18": 100
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAijBUhW9fNLpzf+ddGcFnnr7p6qs5R",
+"snapshot": "AAAijY0/4Ewmf7IyezYaesXvyvz5qg/7",
 "playlist": [
+[
+"2026-11-18T13:50|Friedberg|Goodwife",
+"spotify:track:1H89j9NLse1E0Kmjb3tzW6"
+],
+[
+"2026-11-18T13:48|Johnny Cash|Solitary Man",
+"spotify:track:3UMXhDBYe7eIXUe2HLUn0v"
+],
+[
+"2026-11-18T13:44|Doechii|Anxiety",
+"spotify:track:1musbempyJAw5gfSKZHXP9"
+],
 [
 "2026-11-18T13:38|Major Lazer|Get Free",
 "spotify:track:4p4hyqRFdoiw4EMbEsqBdA"
@@ -3973,6 +3985,24 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-11-18T13:50|Friedberg|Goodwife",
+"t": "2026-11-18T13:50:00+01:00",
+"artist": "Friedberg",
+"title": "Goodwife"
+},
+{
+"id": "2026-11-18T13:48|Johnny Cash|Solitary Man",
+"t": "2026-11-18T13:48:00+01:00",
+"artist": "Johnny Cash",
+"title": "Solitary Man"
+},
+{
+"id": "2026-11-18T13:44|Doechii|Anxiety",
+"t": "2026-11-18T13:44:00+01:00",
+"artist": "Doechii",
+"title": "Anxiety"
+},
 {
 "id": "2026-11-18T13:38|Major Lazer|Get Free",
 "t": "2026-11-18T13:38:00+01:00",
@@ -9528,18 +9558,6 @@
 "t": "2026-11-11T14:05:00+01:00",
 "artist": "Hot Chip",
 "title": "Random Violence (Radio Edit)"
-},
-{
-"id": "2026-11-11T13:57|Dahi feat. Kendrick Lamar & Amber Mark|How To Pray",
-"t": "2026-11-11T13:57:00+01:00",
-"artist": "Dahi feat. Kendrick Lamar & Amber Mark",
-"title": "How To Pray"
-},
-{
-"id": "2026-11-11T13:51|Gerry Read feat. Gregor|Taking All My Clothes Off",
-"t": "2026-11-11T13:51:00+01:00",
-"artist": "Gerry Read feat. Gregor",
-"title": "Taking All My Clothes Off"
 }
 ]
 }
