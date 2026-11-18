@@ -1,9 +1,9 @@
 {
-"updated": "2026-11-18T10:25:51.888264+01:00",
+"updated": "2026-11-18T10:37:51.888600+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
-"synced": "2026-11-18T10:17:51.888040+01:00",
+"synced": "2026-11-18T10:33:51.888496+01:00",
 "pruned": "2026-11-18",
 "calls": {
 "2026-11-11": 197,
@@ -13,12 +13,20 @@
 "2026-11-15": 93,
 "2026-11-16": 163,
 "2026-11-17": 194,
-"2026-11-18": 55
+"2026-11-18": 60
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAidTQp2YVLO2KGzt9GU2vusJ3/V5OR",
+"snapshot": "AAAid8VCYKVXfjV2Ug+8xdkFw9nN/W13",
 "playlist": [
+[
+"2026-11-18T10:23|The Clash|This Is England",
+"spotify:track:7p949cKSO5MDSjajSrAcfI"
+],
+[
+"2026-11-18T10:19|INNENRÄUME|Zwischen den Spuren (Radio Edit)",
+"spotify:track:7KdcqWI6cLahL9BZW2OQvV"
+],
 [
 "2026-11-18T10:09|Girl Ray|Love Is Enough (Radio Edit)",
 "spotify:track:6RiPhlOCxelViYQwBzHokS"
@@ -3656,10 +3664,6 @@
 "spotify:track:5cZ6iDczIvnNezs5sqdgU8"
 ],
 [
-"2026-11-11T10:33|Matthew E. White feat. Natalie Prass|Cool Out",
-"spotify:track:0sVe9dSeNSisHB0OocGykj"
-],
-[
 "2026-11-11T10:26|Philip Selway|Check For Signs Of Life",
 "spotify:track:2LswW8KbYNsM36agVAWeF0"
 ],
@@ -3837,6 +3841,24 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-11-18T10:31|The Mavericks|Dance The Night Away",
+"t": "2026-11-18T10:31:00+01:00",
+"artist": "The Mavericks",
+"title": "Dance The Night Away"
+},
+{
+"id": "2026-11-18T10:26|L'Impératrice|Me da igual",
+"t": "2026-11-18T10:26:00+01:00",
+"artist": "L'Impératrice",
+"title": "Me da igual"
+},
+{
+"id": "2026-11-18T10:23|The Clash|This Is England",
+"t": "2026-11-18T10:23:00+01:00",
+"artist": "The Clash",
+"title": "This Is England"
+},
 {
 "id": "2026-11-18T10:19|INNENRÄUME|Zwischen den Spuren (Radio Edit)",
 "t": "2026-11-18T10:19:00+01:00",
@@ -9380,24 +9402,6 @@
 "t": "2026-11-11T10:49:00+01:00",
 "artist": "Santana",
 "title": "Samba pa ti"
-},
-{
-"id": "2026-11-11T10:37|Bonobo|Shokoufeh",
-"t": "2026-11-11T10:37:00+01:00",
-"artist": "Bonobo",
-"title": "Shokoufeh"
-},
-{
-"id": "2026-11-11T10:33|Matthew E. White feat. Natalie Prass|Cool Out",
-"t": "2026-11-11T10:33:00+01:00",
-"artist": "Matthew E. White feat. Natalie Prass",
-"title": "Cool Out"
-},
-{
-"id": "2026-11-11T10:26|Philip Selway|Check For Signs Of Life",
-"t": "2026-11-11T10:26:00+01:00",
-"artist": "Philip Selway",
-"title": "Check For Signs Of Life"
 }
 ]
 }
