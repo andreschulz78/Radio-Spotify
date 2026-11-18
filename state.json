@@ -1,9 +1,9 @@
 {
-"updated": "2026-11-18T12:13:51.891037+01:00",
+"updated": "2026-11-18T12:25:51.891329+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
-"synced": "2026-11-18T12:09:51.890947+01:00",
+"synced": "2026-11-18T12:25:51.891329+01:00",
 "pruned": "2026-11-18",
 "calls": {
 "2026-11-11": 197,
@@ -13,12 +13,24 @@
 "2026-11-15": 93,
 "2026-11-16": 163,
 "2026-11-17": 194,
-"2026-11-18": 82
+"2026-11-18": 85
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAihfq2eyNeJZWKUCAFEX3M+aMOFtOD",
+"snapshot": "AAAih3fpZ+9wA2N6gKAeRXZOa5iXXRO/",
 "playlist": [
+[
+"2026-11-18T12:16|Primal Scream|Movin' On Up",
+"spotify:track:61dwXi1UXPGK2z815A792d"
+],
+[
+"2026-11-18T12:10|Natalie Bergmann|White Oak (Kosta G. Remix)",
+"spotify:track:18PftHVAUSO5vTwdeRa7Lv"
+],
+[
+"2026-11-18T12:06|Oliver Koletzki & Fran|Hypnotized",
+"spotify:track:0V2GX0aukyZMt6nSMxfOJk"
+],
 [
 "2026-11-18T11:56|Gladys Knight & The Pips|Midnight Train To Georgia",
 "spotify:track:2UdLtaqJyNbhISi9aPjsjY"
@@ -3648,10 +3660,6 @@
 "spotify:track:10kxTiNUTo4nlEbH1EzoX1"
 ],
 [
-"2026-11-11T12:25|Hollie Cook|Walking In The Sand",
-"spotify:track:6V39cPq3fueR20iwBHPCIh"
-],
-[
 "2026-11-11T12:21|The Cure|A Fragile Thing",
 "spotify:track:17k0Dwj1nr2VnES26230lJ"
 ],
@@ -3889,6 +3897,18 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-11-18T12:16|Primal Scream|Movin' On Up",
+"t": "2026-11-18T12:16:00+01:00",
+"artist": "Primal Scream",
+"title": "Movin' On Up"
+},
+{
+"id": "2026-11-18T12:10|Natalie Bergmann|White Oak (Kosta G. Remix)",
+"t": "2026-11-18T12:10:00+01:00",
+"artist": "Natalie Bergmann",
+"title": "White Oak (Kosta G. Remix)"
+},
 {
 "id": "2026-11-18T12:06|Oliver Koletzki & Fran|Hypnotized",
 "t": "2026-11-18T12:06:00+01:00",
@@ -9426,24 +9446,6 @@
 "t": "2026-11-11T12:29:00+01:00",
 "artist": "The Drums feat. Mareux",
 "title": "It Didn't Matter"
-},
-{
-"id": "2026-11-11T12:25|Hollie Cook|Walking In The Sand",
-"t": "2026-11-11T12:25:00+01:00",
-"artist": "Hollie Cook",
-"title": "Walking In The Sand"
-},
-{
-"id": "2026-11-11T12:21|The Cure|A Fragile Thing",
-"t": "2026-11-11T12:21:00+01:00",
-"artist": "The Cure",
-"title": "A Fragile Thing"
-},
-{
-"id": "2026-11-11T12:17|Peaches|Fuck the pain away",
-"t": "2026-11-11T12:17:00+01:00",
-"artist": "Peaches",
-"title": "Fuck the pain away"
 }
 ]
 }
