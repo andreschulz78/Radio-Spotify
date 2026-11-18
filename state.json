@@ -1,9 +1,9 @@
 {
-"updated": "2026-11-18T19:32:40.579210+01:00",
+"updated": "2026-11-18T19:44:40.579638+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
-"synced": "2026-11-18T19:28:40.579128+01:00",
+"synced": "2026-11-18T19:44:40.579638+01:00",
 "pruned": "2026-11-18",
 "calls": {
 "2026-11-11": 197,
@@ -13,11 +13,11 @@
 "2026-11-15": 93,
 "2026-11-16": 163,
 "2026-11-17": 194,
-"2026-11-18": 151
+"2026-11-18": 152
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAio/sRUNnepGDrMd5DmCPYjTgKg7Oh",
+"snapshot": "AAAipIgHlrG8dwE/3vhR9OIxCfUrCshT",
 "playlist": [
 [
 "2026-11-18T19:21|The Velvet Underground feat. Nico|Sunday Morning",
@@ -3670,10 +3670,6 @@
 [
 "2026-11-11T19:53|Modeselektor|IWUDLYK",
 "spotify:track:0ETCwiSL7d6N9Wg4jJn5Gz"
-],
-[
-"2026-11-11T19:44|Tamino|Cigar",
-"spotify:track:01Y7ntOQnQtfcBYQuAR4Jf"
 ],
 [
 "2026-11-11T19:34|Father John Misty|I Guess Time Just Makes Fools Of Us All",
@@ -9740,18 +9736,6 @@
 "t": "2026-11-11T19:53:00+01:00",
 "artist": "Modeselektor",
 "title": "IWUDLYK"
-},
-{
-"id": "2026-11-11T19:44|Tamino|Cigar",
-"t": "2026-11-11T19:44:00+01:00",
-"artist": "Tamino",
-"title": "Cigar"
-},
-{
-"id": "2026-11-11T19:34|Father John Misty|I Guess Time Just Makes Fools Of Us All",
-"t": "2026-11-11T19:34:00+01:00",
-"artist": "Father John Misty",
-"title": "I Guess Time Just Makes Fools Of Us All"
 }
 ]
 }
