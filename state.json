@@ -1,9 +1,9 @@
 {
-"updated": "2026-11-18T07:49:59.861229+01:00",
+"updated": "2026-11-18T10:01:51.887641+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
-"synced": "2026-11-18T07:37:59.860863+01:00",
+"synced": "2026-11-18T10:01:51.887641+01:00",
 "pruned": "2026-11-18",
 "calls": {
 "2026-11-11": 197,
@@ -13,12 +13,72 @@
 "2026-11-15": 93,
 "2026-11-16": 163,
 "2026-11-17": 194,
-"2026-11-18": 29
+"2026-11-18": 33
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAiaIdlwsrKUfufzT0IKpitnFgLgbeK",
+"snapshot": "AAAiaayOsvD/xn7O08H9b28gXFwO8Sor",
 "playlist": [
+[
+"2026-11-18T09:55|Arctic Monkeys|Opening Night",
+"spotify:track:7HXzuAd8UNJj2yCAS0NWbB"
+],
+[
+"2026-11-18T09:49|Billie Eilish|Bad Guy",
+"spotify:track:2Fxmhks0bxGSBdJ92vM42m"
+],
+[
+"2026-11-18T09:45|Sampha|Blood On Me",
+"spotify:track:2D9aPhceBfcp7sVIcmFMZS"
+],
+[
+"2026-11-18T09:42|Marcy Playground|Sex And Candy",
+"spotify:track:5mkGfmJGFZpwK9nA5amOhv"
+],
+[
+"2026-11-18T09:33|Sassy 009 feat. Blood Orange|Tell Me (Jam City Remix) (Edit)",
+"spotify:track:1pDiRrLro0tlhsPSexB3Zv"
+],
+[
+"2026-11-18T09:14|Ayele|Fractured (Radio Edit)",
+"spotify:track:5EGnOBL2qoUNard3Oaq5Hc"
+],
+[
+"2026-11-18T08:56|Bill Withers|Use me",
+"spotify:track:4gRA0i5sxx3jAhHaVjPnUN"
+],
+[
+"2026-11-18T08:45|New German Cinema|Water Drops",
+"spotify:track:65SwobxDwUigYvd91PIAuF"
+],
+[
+"2026-11-18T08:34|Zaho de Sagazan|Ô travers",
+"spotify:track:2GK0yEfMHJg7pXloAtVQSb"
+],
+[
+"2026-11-18T08:25|Jordan Rakei|Enemies",
+"spotify:track:0X9GwAax0c0HPe3iIoDVW6"
+],
+[
+"2026-11-18T08:05|Benjamin Clementine|In Fact You Know You Gotto Go",
+"spotify:track:4cWEdRTQ8sg4QaTBIGn06j"
+],
+[
+"2026-11-18T07:55|Hubbabubbaklubb|Mopedbart",
+"spotify:track:7xHxDE898j1kfvcWlRfQy5"
+],
+[
+"2026-11-18T07:48|US3|Cantaloop",
+"spotify:track:3w3DMgfAvubFLJ1edEibLr"
+],
+[
+"2026-11-18T07:40|Wallners|Movie Stars",
+"spotify:track:7xesRbRs3O1MLOgWqMSN7a"
+],
+[
+"2026-11-18T07:34|49th & Main|Insomnia",
+"spotify:track:6JGrKJtW3CxLscWj7OJMYt"
+],
 [
 "2026-11-18T07:26|Lily Allen|Dallas Major",
 "spotify:track:1ECugAb7Pg6UDA501YYgH9"
@@ -3745,6 +3805,126 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-11-18T09:55|Arctic Monkeys|Opening Night",
+"t": "2026-11-18T09:55:00+01:00",
+"artist": "Arctic Monkeys",
+"title": "Opening Night"
+},
+{
+"id": "2026-11-18T09:49|Billie Eilish|Bad Guy",
+"t": "2026-11-18T09:49:00+01:00",
+"artist": "Billie Eilish",
+"title": "Bad Guy"
+},
+{
+"id": "2026-11-18T09:45|Sampha|Blood On Me",
+"t": "2026-11-18T09:45:00+01:00",
+"artist": "Sampha",
+"title": "Blood On Me"
+},
+{
+"id": "2026-11-18T09:42|Marcy Playground|Sex And Candy",
+"t": "2026-11-18T09:42:00+01:00",
+"artist": "Marcy Playground",
+"title": "Sex And Candy"
+},
+{
+"id": "2026-11-18T09:33|Sassy 009 feat. Blood Orange|Tell Me (Jam City Remix) (Edit)",
+"t": "2026-11-18T09:33:00+01:00",
+"artist": "Sassy 009 feat. Blood Orange",
+"title": "Tell Me (Jam City Remix) (Edit)"
+},
+{
+"id": "2026-11-18T09:25|Drangsal|Allan Align",
+"t": "2026-11-18T09:25:00+01:00",
+"artist": "Drangsal",
+"title": "Allan Align"
+},
+{
+"id": "2026-11-18T09:19|TTRRUUCES|Sensations Of Cool",
+"t": "2026-11-18T09:19:00+01:00",
+"artist": "TTRRUUCES",
+"title": "Sensations Of Cool"
+},
+{
+"id": "2026-11-18T09:14|Ayele|Fractured (Radio Edit)",
+"t": "2026-11-18T09:14:00+01:00",
+"artist": "Ayele",
+"title": "Fractured (Radio Edit)"
+},
+{
+"id": "2026-11-18T09:06|Allah-Las|Dust",
+"t": "2026-11-18T09:06:00+01:00",
+"artist": "Allah-Las",
+"title": "Dust"
+},
+{
+"id": "2026-11-18T08:56|Bill Withers|Use me",
+"t": "2026-11-18T08:56:00+01:00",
+"artist": "Bill Withers",
+"title": "Use me"
+},
+{
+"id": "2026-11-18T08:49|Metronomy feat. Biig Piig|405 (Radio Edit)",
+"t": "2026-11-18T08:49:00+01:00",
+"artist": "Metronomy feat. Biig Piig",
+"title": "405 (Radio Edit)"
+},
+{
+"id": "2026-11-18T08:45|New German Cinema|Water Drops",
+"t": "2026-11-18T08:45:00+01:00",
+"artist": "New German Cinema",
+"title": "Water Drops"
+},
+{
+"id": "2026-11-18T08:42|Ane Brun feat. Röyksopp|Eat The Fruit (Radio Edit)",
+"t": "2026-11-18T08:42:00+01:00",
+"artist": "Ane Brun feat. Röyksopp",
+"title": "Eat The Fruit (Radio Edit)"
+},
+{
+"id": "2026-11-18T08:34|Zaho de Sagazan|Ô travers",
+"t": "2026-11-18T08:34:00+01:00",
+"artist": "Zaho de Sagazan",
+"title": "Ô travers"
+},
+{
+"id": "2026-11-18T08:25|Jordan Rakei|Enemies",
+"t": "2026-11-18T08:25:00+01:00",
+"artist": "Jordan Rakei",
+"title": "Enemies"
+},
+{
+"id": "2026-11-18T08:17|Simple Minds|Home",
+"t": "2026-11-18T08:17:00+01:00",
+"artist": "Simple Minds",
+"title": "Home"
+},
+{
+"id": "2026-11-18T08:13|The Preatures|Is This How You Feel",
+"t": "2026-11-18T08:13:00+01:00",
+"artist": "The Preatures",
+"title": "Is This How You Feel"
+},
+{
+"id": "2026-11-18T08:05|Benjamin Clementine|In Fact You Know You Gotto Go",
+"t": "2026-11-18T08:05:00+01:00",
+"artist": "Benjamin Clementine",
+"title": "In Fact You Know You Gotto Go"
+},
+{
+"id": "2026-11-18T07:55|Hubbabubbaklubb|Mopedbart",
+"t": "2026-11-18T07:55:00+01:00",
+"artist": "Hubbabubbaklubb",
+"title": "Mopedbart"
+},
+{
+"id": "2026-11-18T07:48|US3|Cantaloop",
+"t": "2026-11-18T07:48:00+01:00",
+"artist": "US3",
+"title": "Cantaloop"
+},
 {
 "id": "2026-11-18T07:40|Wallners|Movie Stars",
 "t": "2026-11-18T07:40:00+01:00",
@@ -9198,96 +9378,6 @@
 "t": "2026-11-11T10:05:00+01:00",
 "artist": "Wir sind Helden",
 "title": "Nur ein Wort"
-},
-{
-"id": "2026-11-11T09:55|Beirut|Guericke's Unicorn",
-"t": "2026-11-11T09:55:00+01:00",
-"artist": "Beirut",
-"title": "Guericke's Unicorn"
-},
-{
-"id": "2026-11-11T09:47|The Crusaders feat. Randy Crawford|Street Life",
-"t": "2026-11-11T09:47:00+01:00",
-"artist": "The Crusaders feat. Randy Crawford",
-"title": "Street Life"
-},
-{
-"id": "2026-11-11T09:41|Bonaparte|White Noize",
-"t": "2026-11-11T09:41:00+01:00",
-"artist": "Bonaparte",
-"title": "White Noize"
-},
-{
-"id": "2026-11-11T09:33|The Strokes|Someday",
-"t": "2026-11-11T09:33:00+01:00",
-"artist": "The Strokes",
-"title": "Someday"
-},
-{
-"id": "2026-11-11T09:24|INNENRÄUME|Zwischen den Spuren (Radio Edit)",
-"t": "2026-11-11T09:24:00+01:00",
-"artist": "INNENRÄUME",
-"title": "Zwischen den Spuren (Radio Edit)"
-},
-{
-"id": "2026-11-11T09:18|Sade|Nothing Can Come Between Us",
-"t": "2026-11-11T09:18:00+01:00",
-"artist": "Sade",
-"title": "Nothing Can Come Between Us"
-},
-{
-"id": "2026-11-11T09:13|Gorillaz feat. Mos Def & Bobby Womack|Stylo",
-"t": "2026-11-11T09:13:00+01:00",
-"artist": "Gorillaz feat. Mos Def & Bobby Womack",
-"title": "Stylo"
-},
-{
-"id": "2026-11-11T09:06|Dekker|Pick It Up, Put It Back",
-"t": "2026-11-11T09:06:00+01:00",
-"artist": "Dekker",
-"title": "Pick It Up, Put It Back"
-},
-{
-"id": "2026-11-11T08:57|Jazzanova feat. Ben Westbeech|I Can See",
-"t": "2026-11-11T08:57:00+01:00",
-"artist": "Jazzanova feat. Ben Westbeech",
-"title": "I Can See"
-},
-{
-"id": "2026-11-11T08:49|The Big Moon|F.O.R.E.V.E.R",
-"t": "2026-11-11T08:49:00+01:00",
-"artist": "The Big Moon",
-"title": "F.O.R.E.V.E.R"
-},
-{
-"id": "2026-11-11T08:34|Jim James|Come Again",
-"t": "2026-11-11T08:34:00+01:00",
-"artist": "Jim James",
-"title": "Come Again"
-},
-{
-"id": "2026-11-11T08:23|Tristan Brusch|Vierzehn",
-"t": "2026-11-11T08:23:00+01:00",
-"artist": "Tristan Brusch",
-"title": "Vierzehn"
-},
-{
-"id": "2026-11-11T08:15|The Shins|Phantom Limb",
-"t": "2026-11-11T08:15:00+01:00",
-"artist": "The Shins",
-"title": "Phantom Limb"
-},
-{
-"id": "2026-11-11T08:06|Sassy 009 feat. Blood Orange|Tell Me (Jam City Remix) (Edit)",
-"t": "2026-11-11T08:06:00+01:00",
-"artist": "Sassy 009 feat. Blood Orange",
-"title": "Tell Me (Jam City Remix) (Edit)"
-},
-{
-"id": "2026-11-11T07:55|Sam Fender feat. Olivia Dean|Rein Me In (Edit)",
-"t": "2026-11-11T07:55:00+01:00",
-"artist": "Sam Fender feat. Olivia Dean",
-"title": "Rein Me In (Edit)"
 }
 ]
 }
