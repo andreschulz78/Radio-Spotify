@@ -1,9 +1,9 @@
 {
-"updated": "2026-11-18T15:01:51.895300+01:00",
+"updated": "2026-11-18T15:13:51.895729+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
-"synced": "2026-11-18T14:49:51.894994+01:00",
+"synced": "2026-11-18T15:05:51.895394+01:00",
 "pruned": "2026-11-18",
 "calls": {
 "2026-11-11": 197,
@@ -13,12 +13,28 @@
 "2026-11-15": 93,
 "2026-11-16": 163,
 "2026-11-17": 194,
-"2026-11-18": 118
+"2026-11-18": 121
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAillMSrs5QECNatVJr3iMWujnvpj1M",
+"snapshot": "AAAil9+dseDvTZbhOC5/rj9AbhFyqASj",
 "playlist": [
+[
+"2026-11-18T14:57|Jamie Woon|Sharpness",
+"spotify:track:2dk5HQv2V6hEVeGGlPvCFA"
+],
+[
+"2026-11-18T14:51|Ibibio Sound Machine|Love",
+"spotify:track:0JGa4KrhqriWUuPcni3I8D"
+],
+[
+"2026-11-18T14:44|Jules Ahoi|Magnolia (Radio Edit)",
+"spotify:track:1F4JDCJdm9AoILQ6darBvK"
+],
+[
+"2026-11-18T14:35|Nichtseattle|Ich mit Brille",
+"spotify:track:1C0Lpji3kKe7rZie1LC4bx"
+],
 [
 "2026-11-18T14:31|Mando Diao|Down In The Past (Unplugged)",
 "spotify:track:5eg4JShsIkXTyRclfRqWuR"
@@ -4005,6 +4021,18 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-11-18T15:06|Editors|Ocean Of Night",
+"t": "2026-11-18T15:06:00+01:00",
+"artist": "Editors",
+"title": "Ocean Of Night"
+},
+{
+"id": "2026-11-18T14:57|Jamie Woon|Sharpness",
+"t": "2026-11-18T14:57:00+01:00",
+"artist": "Jamie Woon",
+"title": "Sharpness"
+},
 {
 "id": "2026-11-18T14:51|Ibibio Sound Machine|Love",
 "t": "2026-11-18T14:51:00+01:00",
@@ -9566,18 +9594,6 @@
 "t": "2026-11-11T15:19:00+01:00",
 "artist": "Sixpence None The Richer",
 "title": "Kiss Me"
-},
-{
-"id": "2026-11-11T15:09|Raphael Saadiq|Rikers Island",
-"t": "2026-11-11T15:09:00+01:00",
-"artist": "Raphael Saadiq",
-"title": "Rikers Island"
-},
-{
-"id": "2026-11-11T15:06|Chinese American Bear|Dance Dance Dance (Edit)",
-"t": "2026-11-11T15:06:00+01:00",
-"artist": "Chinese American Bear",
-"title": "Dance Dance Dance (Edit)"
 }
 ]
 }
