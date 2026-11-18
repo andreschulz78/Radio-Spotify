@@ -1,9 +1,9 @@
 {
-"updated": "2026-11-18T20:08:40.580326+01:00",
+"updated": "2026-11-18T20:20:40.580729+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
-"synced": "2026-11-18T20:00:40.580081+01:00",
+"synced": "2026-11-18T20:16:40.580520+01:00",
 "pruned": "2026-11-18",
 "calls": {
 "2026-11-11": 197,
@@ -13,12 +13,16 @@
 "2026-11-15": 93,
 "2026-11-16": 163,
 "2026-11-17": 194,
-"2026-11-18": 156
+"2026-11-18": 162
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAipdqTkE+r2U+a85tEDgO61pI4HxSk",
+"snapshot": "AAAiqg2+xxNqphaG9LI/oTP5EBxzrnIZ",
 "playlist": [
+[
+"2026-11-18T20:05|Monolink|Father Ocean",
+"spotify:track:6sHByho7nTr8EuarliCllk"
+],
 [
 "2026-11-18T19:55|D-Troit|Do The Right Thing",
 "spotify:track:3YG33HJ4Jm3F1hfWSTgy1Y"
@@ -3664,10 +3668,6 @@
 "spotify:track:4C2o68XUoLpjvncsNsgwjA"
 ],
 [
-"2026-11-11T20:16|Nightmares On Wax feat. Mozez|You Wish (Abbey Road Fuzz Gospel Version)",
-"spotify:track:6G6M4fl2I0eqEQnzyTwR8m"
-],
-[
 "2026-11-11T20:04|The Postal Service|Such Great Heights",
 "spotify:track:4G21jWo0Cm6lOIUNnZ2mUI"
 ],
@@ -4177,6 +4177,18 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-11-18T20:16|Black Marble|Jim Carol New Year",
+"t": "2026-11-18T20:16:00+01:00",
+"artist": "Black Marble",
+"title": "Jim Carol New Year"
+},
+{
+"id": "2026-11-18T20:05|Monolink|Father Ocean",
+"t": "2026-11-18T20:05:00+01:00",
+"artist": "Monolink",
+"title": "Father Ocean"
+},
 {
 "id": "2026-11-18T19:55|D-Troit|Do The Right Thing",
 "t": "2026-11-18T19:55:00+01:00",
@@ -9732,12 +9744,6 @@
 "t": "2026-11-11T20:25:00+01:00",
 "artist": "Bleachers",
 "title": "the van"
-},
-{
-"id": "2026-11-11T20:16|Nightmares On Wax feat. Mozez|You Wish (Abbey Road Fuzz Gospel Version)",
-"t": "2026-11-11T20:16:00+01:00",
-"artist": "Nightmares On Wax feat. Mozez",
-"title": "You Wish (Abbey Road Fuzz Gospel Version)"
 }
 ]
 }
