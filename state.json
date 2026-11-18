@@ -1,9 +1,9 @@
 {
-"updated": "2026-11-18T05:37:59.857412+01:00",
+"updated": "2026-11-18T05:49:59.857760+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
-"synced": "2026-11-18T05:29:59.857184+01:00",
+"synced": "2026-11-18T05:45:59.857645+01:00",
 "pruned": "2026-11-18",
 "calls": {
 "2026-11-11": 197,
@@ -13,12 +13,28 @@
 "2026-11-15": 93,
 "2026-11-16": 163,
 "2026-11-17": 194,
-"2026-11-18": 1
+"2026-11-18": 4
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAiWnILK/CmgtwihUWV1SeNgmhDuCpe",
+"snapshot": "AAAiW5b1g0wPrqaEj0JJrHIhvENzV/B4",
 "playlist": [
+[
+"2026-11-18T05:40|Yard Act|Janey Said (Edit)",
+"spotify:track:0mV0B0SbcF6CMSdDyDNYpR"
+],
+[
+"2026-11-18T05:37|Creedence Clearwater Revival|Have you ever seen the rain?",
+"spotify:track:2LawezPeJhN4AWuSB0GtAU"
+],
+[
+"2026-11-18T05:32|Thomas Dybdahl|45",
+"spotify:track:1tgspCK9fpGd1V5PsqWO6F"
+],
+[
+"2026-11-18T05:26|Asian Dub Foundation feat. Sinéad O'Connor|1000 Mirrors",
+"spotify:track:7H0TaixANBP2DRJXHP0EbT"
+],
 [
 "2026-11-18T05:22|Boy Harsher|Tough Luck (When You Don't Call)",
 "spotify:track:109AVLNWp2BnTXTzF4j6XE"
@@ -3677,6 +3693,18 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-11-18T05:40|Yard Act|Janey Said (Edit)",
+"t": "2026-11-18T05:40:00+01:00",
+"artist": "Yard Act",
+"title": "Janey Said (Edit)"
+},
+{
+"id": "2026-11-18T05:37|Creedence Clearwater Revival|Have you ever seen the rain?",
+"t": "2026-11-18T05:37:00+01:00",
+"artist": "Creedence Clearwater Revival",
+"title": "Have you ever seen the rain?"
+},
 {
 "id": "2026-11-18T05:32|Thomas Dybdahl|45",
 "t": "2026-11-18T05:32:00+01:00",
@@ -9208,18 +9236,6 @@
 "t": "2026-11-11T05:50:00+01:00",
 "artist": "Benjamin Clementine",
 "title": "In Fact You Know You Gotto Go"
-},
-{
-"id": "2026-11-11T05:46|Balu Brigada|Backseat (Edit)",
-"t": "2026-11-11T05:46:00+01:00",
-"artist": "Balu Brigada",
-"title": "Backseat (Edit)"
-},
-{
-"id": "2026-11-11T05:40|Agnes Obel|Laymelli (Edit)",
-"t": "2026-11-11T05:40:00+01:00",
-"artist": "Agnes Obel",
-"title": "Laymelli (Edit)"
 }
 ]
 }
