@@ -1,9 +1,9 @@
 {
-"updated": "2026-11-18T10:13:51.887938+01:00",
+"updated": "2026-11-18T10:25:51.888264+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
-"synced": "2026-11-18T10:01:51.887641+01:00",
+"synced": "2026-11-18T10:17:51.888040+01:00",
 "pruned": "2026-11-18",
 "calls": {
 "2026-11-11": 197,
@@ -13,12 +13,20 @@
 "2026-11-15": 93,
 "2026-11-16": 163,
 "2026-11-17": 194,
-"2026-11-18": 42
+"2026-11-18": 55
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAiaayOsvD/xn7O08H9b28gXFwO8Sor",
+"snapshot": "AAAidTQp2YVLO2KGzt9GU2vusJ3/V5OR",
 "playlist": [
+[
+"2026-11-18T10:09|Girl Ray|Love Is Enough (Radio Edit)",
+"spotify:track:6RiPhlOCxelViYQwBzHokS"
+],
+[
+"2026-11-18T10:05|Blur|Barbaric",
+"spotify:track:71o2pLB6Xu62uVjqpwmiS9"
+],
 [
 "2026-11-18T09:55|Arctic Monkeys|Opening Night",
 "spotify:track:7HXzuAd8UNJj2yCAS0NWbB"
@@ -40,16 +48,36 @@
 "spotify:track:1pDiRrLro0tlhsPSexB3Zv"
 ],
 [
+"2026-11-18T09:25|Drangsal|Allan Align",
+"spotify:track:0HuYCUvf1iU7pL0niNBN9j"
+],
+[
+"2026-11-18T09:19|TTRRUUCES|Sensations Of Cool",
+"spotify:track:2LDYJE4Xo4EG5ewhec5Kcr"
+],
+[
 "2026-11-18T09:14|Ayele|Fractured (Radio Edit)",
 "spotify:track:5EGnOBL2qoUNard3Oaq5Hc"
+],
+[
+"2026-11-18T09:06|Allah-Las|Dust",
+"spotify:track:3wkQaLpUEf3smTUNp0MhXK"
 ],
 [
 "2026-11-18T08:56|Bill Withers|Use me",
 "spotify:track:4gRA0i5sxx3jAhHaVjPnUN"
 ],
 [
+"2026-11-18T08:49|Metronomy feat. Biig Piig|405 (Radio Edit)",
+"spotify:track:1KjLbuPsJmYdZJt0CsyVAg"
+],
+[
 "2026-11-18T08:45|New German Cinema|Water Drops",
 "spotify:track:65SwobxDwUigYvd91PIAuF"
+],
+[
+"2026-11-18T08:42|Ane Brun feat. Röyksopp|Eat The Fruit (Radio Edit)",
+"spotify:track:6QTVocXJIT6QomBx2QuBBm"
 ],
 [
 "2026-11-18T08:34|Zaho de Sagazan|Ô travers",
@@ -58,6 +86,14 @@
 [
 "2026-11-18T08:25|Jordan Rakei|Enemies",
 "spotify:track:0X9GwAax0c0HPe3iIoDVW6"
+],
+[
+"2026-11-18T08:17|Simple Minds|Home",
+"spotify:track:0VDZ2WNSHvxORNiowjBZKh"
+],
+[
+"2026-11-18T08:13|The Preatures|Is This How You Feel",
+"spotify:track:2PYd6dM9Bqo28ACUrPIgAD"
 ],
 [
 "2026-11-18T08:05|Benjamin Clementine|In Fact You Know You Gotto Go",
@@ -3636,10 +3672,6 @@
 "spotify:track:3PmyDf7Zu4vveCnayueVYX"
 ],
 [
-"2026-11-11T10:17|Ibeyi|Hurry Hurry",
-"spotify:track:4BGA7VW330Eu1kaFNi98cG"
-],
-[
 "2026-11-11T10:09|The Black Angels|Here & Now",
 "spotify:track:2BLBYVk9pCw7S9LLi7kGNh"
 ],
@@ -3805,6 +3837,18 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-11-18T10:19|INNENRÄUME|Zwischen den Spuren (Radio Edit)",
+"t": "2026-11-18T10:19:00+01:00",
+"artist": "INNENRÄUME",
+"title": "Zwischen den Spuren (Radio Edit)"
+},
+{
+"id": "2026-11-18T10:09|Girl Ray|Love Is Enough (Radio Edit)",
+"t": "2026-11-18T10:09:00+01:00",
+"artist": "Girl Ray",
+"title": "Love Is Enough (Radio Edit)"
+},
 {
 "id": "2026-11-18T10:05|Blur|Barbaric",
 "t": "2026-11-18T10:05:00+01:00",
@@ -9354,24 +9398,6 @@
 "t": "2026-11-11T10:26:00+01:00",
 "artist": "Philip Selway",
 "title": "Check For Signs Of Life"
-},
-{
-"id": "2026-11-11T10:23|Dawn Penn|You Don't Love Me (No, No, No)",
-"t": "2026-11-11T10:23:00+01:00",
-"artist": "Dawn Penn",
-"title": "You Don't Love Me (No, No, No)"
-},
-{
-"id": "2026-11-11T10:20|Beck|It Ends Right Here",
-"t": "2026-11-11T10:20:00+01:00",
-"artist": "Beck",
-"title": "It Ends Right Here"
-},
-{
-"id": "2026-11-11T10:17|Ibeyi|Hurry Hurry",
-"t": "2026-11-11T10:17:00+01:00",
-"artist": "Ibeyi",
-"title": "Hurry Hurry"
 }
 ]
 }
