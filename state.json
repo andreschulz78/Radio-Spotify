@@ -1,9 +1,9 @@
 {
-"updated": "2026-11-18T15:13:51.895729+01:00",
+"updated": "2026-11-18T15:25:51.896060+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
-"synced": "2026-11-18T15:05:51.895394+01:00",
+"synced": "2026-11-18T15:21:51.895955+01:00",
 "pruned": "2026-11-18",
 "calls": {
 "2026-11-11": 197,
@@ -13,12 +13,20 @@
 "2026-11-15": 93,
 "2026-11-16": 163,
 "2026-11-17": 194,
-"2026-11-18": 121
+"2026-11-18": 124
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAil9+dseDvTZbhOC5/rj9AbhFyqASj",
+"snapshot": "AAAimLRcEGXBQ5KqM7FqAzJhJGO7lLw7",
 "playlist": [
+[
+"2026-11-18T15:09|Kaktus Einarsson feat. John Grant|Follow",
+"spotify:track:0bbPqdrMN94XmIlBQS21B3"
+],
+[
+"2026-11-18T15:06|Editors|Ocean Of Night",
+"spotify:track:4vFVZyn6RdvrXpeEqsTas6"
+],
 [
 "2026-11-18T14:57|Jamie Woon|Sharpness",
 "spotify:track:2dk5HQv2V6hEVeGGlPvCFA"
@@ -4021,6 +4029,24 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-11-18T15:22|Madonna|Frozen",
+"t": "2026-11-18T15:22:00+01:00",
+"artist": "Madonna",
+"title": "Frozen"
+},
+{
+"id": "2026-11-18T15:18|Faithless|I Need Someone (Edit)",
+"t": "2026-11-18T15:18:00+01:00",
+"artist": "Faithless",
+"title": "I Need Someone (Edit)"
+},
+{
+"id": "2026-11-18T15:09|Kaktus Einarsson feat. John Grant|Follow",
+"t": "2026-11-18T15:09:00+01:00",
+"artist": "Kaktus Einarsson feat. John Grant",
+"title": "Follow"
+},
 {
 "id": "2026-11-18T15:06|Editors|Ocean Of Night",
 "t": "2026-11-18T15:06:00+01:00",
@@ -9582,18 +9608,6 @@
 "t": "2026-11-11T15:30:00+01:00",
 "artist": "Yard Act",
 "title": "You're Gonna Need A Little Music"
-},
-{
-"id": "2026-11-11T15:22|UFOs|UFO (Radio Edit)",
-"t": "2026-11-11T15:22:00+01:00",
-"artist": "UFOs",
-"title": "UFO (Radio Edit)"
-},
-{
-"id": "2026-11-11T15:19|Sixpence None The Richer|Kiss Me",
-"t": "2026-11-11T15:19:00+01:00",
-"artist": "Sixpence None The Richer",
-"title": "Kiss Me"
 }
 ]
 }
