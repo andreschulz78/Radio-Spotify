@@ -1,9 +1,9 @@
 {
-"updated": "2026-11-18T14:37:51.894679+01:00",
+"updated": "2026-11-18T14:49:51.894994+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
-"synced": "2026-11-18T14:33:51.894581+01:00",
+"synced": "2026-11-18T14:49:51.894994+01:00",
 "pruned": "2026-11-18",
 "calls": {
 "2026-11-11": 197,
@@ -13,12 +13,16 @@
 "2026-11-15": 93,
 "2026-11-16": 163,
 "2026-11-17": 194,
-"2026-11-18": 114
+"2026-11-18": 116
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAilJ4o6JB805fVFgsZDFRPMS8fM5mr",
+"snapshot": "AAAillMSrs5QECNatVJr3iMWujnvpj1M",
 "playlist": [
+[
+"2026-11-18T14:31|Mando Diao|Down In The Past (Unplugged)",
+"spotify:track:5eg4JShsIkXTyRclfRqWuR"
+],
 [
 "2026-11-18T14:24|Babyshambles|Dr. No",
 "spotify:track:5xhmIQwWQ9D62428HT0ATR"
@@ -3662,10 +3666,6 @@
 [
 "2026-11-11T14:51|Morrissey|I'm Throwing My Arms Around Paris",
 "spotify:track:5XsNOpMXOauE1YC89ZGOhR"
-],
-[
-"2026-11-11T14:49|Jenny Lewis & The Watson Twins|You Are What You Love",
-"spotify:track:30BarLQM6SA6zs8wFEsiCj"
 ],
 [
 "2026-11-11T14:45|La Roux|Cabin fever",
@@ -9566,24 +9566,6 @@
 "t": "2026-11-11T14:51:00+01:00",
 "artist": "Morrissey",
 "title": "I'm Throwing My Arms Around Paris"
-},
-{
-"id": "2026-11-11T14:49|Jenny Lewis & The Watson Twins|You Are What You Love",
-"t": "2026-11-11T14:49:00+01:00",
-"artist": "Jenny Lewis & The Watson Twins",
-"title": "You Are What You Love"
-},
-{
-"id": "2026-11-11T14:45|La Roux|Cabin fever",
-"t": "2026-11-11T14:45:00+01:00",
-"artist": "La Roux",
-"title": "Cabin fever"
-},
-{
-"id": "2026-11-11T14:39|Jamie T|Tallahassee",
-"t": "2026-11-11T14:39:00+01:00",
-"artist": "Jamie T",
-"title": "Tallahassee"
 }
 ]
 }
