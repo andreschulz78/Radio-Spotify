@@ -1,9 +1,9 @@
 {
-"updated": "2026-11-18T19:08:40.578622+01:00",
+"updated": "2026-11-18T19:20:40.578913+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
-"synced": "2026-11-18T18:56:40.578342+01:00",
+"synced": "2026-11-18T19:12:40.578722+01:00",
 "pruned": "2026-11-18",
 "calls": {
 "2026-11-11": 197,
@@ -13,12 +13,20 @@
 "2026-11-15": 93,
 "2026-11-16": 163,
 "2026-11-17": 194,
-"2026-11-18": 140
+"2026-11-18": 148
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAimyUobOVum/g3TusJt5gFObpgSQBv",
+"snapshot": "AAAiotCOXWf1wViqOE37idHZrZPHiOV4",
 "playlist": [
+[
+"2026-11-18T19:06|WhoMadeWho feat. RY X|Love Will Save Me",
+"spotify:track:2YjXImhg2zXDmWcVy1oSDw"
+],
+[
+"2026-11-18T18:56|Father John Misty|I Guess Time Just Makes Fools Of Us All",
+"spotify:track:0QA1dDs6A2xLr7nxWFpeJN"
+],
 [
 "2026-11-18T18:51|Grace Cummings|I'm Not Crazy",
 "spotify:track:70QaE9UJ2uTVwC4IGS6yvU"
@@ -56,8 +64,16 @@
 "spotify:track:41sGSIiPi1QAYaL6nUWSDg"
 ],
 [
+"2026-11-18T18:07|The Notwist|Kong",
+"spotify:track:6GZPK2ju2nk34EexrTCJzu"
+],
+[
 "2026-11-18T17:58|Alewya|Maktoub",
 "spotify:track:56DYNKo3QHkakqOUkWi3vl"
+],
+[
+"2026-11-18T17:51|Nina Simone|My Baby Just Cares For Me",
+"spotify:track:07Xrizjzvky8DVmXUGsQrS"
 ],
 [
 "2026-11-18T17:49|Anderson .Paak & Cordae|A Good Day",
@@ -76,8 +92,20 @@
 "spotify:track:57nR701tskrQisI9GZJ9oq"
 ],
 [
+"2026-11-18T17:23|The Boxer Rebellion|Weapon",
+"spotify:track:4B9s7eNq4bbBki4pRz7HRG"
+],
+[
+"2026-11-18T17:16|Melody's Echo Chamber|I Follow You",
+"spotify:track:3EEzQDCP8jRl2pEt9eDKMO"
+],
+[
 "2026-11-18T17:13|Ex:Re|Sleep",
 "spotify:track:31hSy1c6SWABIV3W1LqjMz"
+],
+[
+"2026-11-18T17:06|The Chemical Brothers & Beck|Wide Open",
+"spotify:track:2hqW0pCaEwmZ7qlKMwvz65"
 ],
 [
 "2026-11-18T16:58|Aurora|All My Demons Greeting Me As A Friend",
@@ -86,6 +114,14 @@
 [
 "2026-11-18T16:51|Leron Thomas|Don't You Know",
 "spotify:track:5OGqJs1n2p0dH3hzMLFlel"
+],
+[
+"2026-11-18T16:48|Kavinsky feat. Lovefoxxx|Nightcall",
+"spotify:track:0U0ldCRmgCqhVvD6ksG63j"
+],
+[
+"2026-11-18T16:39|Heather Nova|Walk This World",
+"spotify:track:22xk6BCzlsa0N5frXx0L7o"
 ],
 [
 "2026-11-18T16:23|Meshell Ndegeocello feat. Cat Power|Don’t You Want Me",
@@ -106,6 +142,14 @@
 [
 "2026-11-18T15:57|EELS|Congratulations To Me",
 "spotify:track:0PsZbSqZk6s6bEw5Ff3xrS"
+],
+[
+"2026-11-18T15:52|Edward Sharpe & The Magnetic Zeros|Free Stuff",
+"spotify:track:24mFWMKXSO2DzL1farTpnv"
+],
+[
+"2026-11-18T15:45|The Cure|Close To Me",
+"spotify:track:6xJ9touQFEUPfm3Ij6d1Xk"
 ],
 [
 "2026-11-18T15:30|Miike Snow|Black & Blue",
@@ -4125,6 +4169,12 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-11-18T19:06|WhoMadeWho feat. RY X|Love Will Save Me",
+"t": "2026-11-18T19:06:00+01:00",
+"artist": "WhoMadeWho feat. RY X",
+"title": "Love Will Save Me"
+},
 {
 "id": "2026-11-18T18:56|Father John Misty|I Guess Time Just Makes Fools Of Us All",
 "t": "2026-11-18T18:56:00+01:00",
