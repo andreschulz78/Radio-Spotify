@@ -1,9 +1,9 @@
 {
-"updated": "2026-11-18T20:20:40.580729+01:00",
+"updated": "2026-11-18T20:32:40.581044+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
-"synced": "2026-11-18T20:16:40.580520+01:00",
+"synced": "2026-11-18T20:32:40.581044+01:00",
 "pruned": "2026-11-18",
 "calls": {
 "2026-11-11": 197,
@@ -13,12 +13,20 @@
 "2026-11-15": 93,
 "2026-11-16": 163,
 "2026-11-17": 194,
-"2026-11-18": 162
+"2026-11-18": 165
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAiqg2+xxNqphaG9LI/oTP5EBxzrnIZ",
+"snapshot": "AAAirJVXWGVJ6+KXBbEhLlsEULDGd8Qz",
 "playlist": [
+[
+"2026-11-18T20:25|Joan Baez|Stones In The Road",
+"spotify:track:3lPka7FKPQZwAA6dglWdfb"
+],
+[
+"2026-11-18T20:16|Black Marble|Jim Carol New Year",
+"spotify:track:3UhXNJjt6Y0sNCEwwhoJnT"
+],
 [
 "2026-11-18T20:05|Monolink|Father Ocean",
 "spotify:track:6sHByho7nTr8EuarliCllk"
@@ -3656,10 +3664,6 @@
 "spotify:track:5WiVqnjVzB9tNXqeSKZgxH"
 ],
 [
-"2026-11-11T20:32|Emiliana Torrini|Baby Blue",
-"spotify:track:30BlWHznaKjj4XuHzfDbEf"
-],
-[
 "2026-11-11T20:28|Henrik Schwarz & Metropole Orkestra feat. Ben Westbeech|Counter Culture",
 "spotify:track:6WAYThm2Nrp0gaSqplrasb"
 ],
@@ -4177,6 +4181,12 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-11-18T20:25|Joan Baez|Stones In The Road",
+"t": "2026-11-18T20:25:00+01:00",
+"artist": "Joan Baez",
+"title": "Stones In The Road"
+},
 {
 "id": "2026-11-18T20:16|Black Marble|Jim Carol New Year",
 "t": "2026-11-18T20:16:00+01:00",
@@ -9726,24 +9736,6 @@
 "t": "2026-11-11T20:38:00+01:00",
 "artist": "Gabriels",
 "title": "Break It"
-},
-{
-"id": "2026-11-11T20:32|Emiliana Torrini|Baby Blue",
-"t": "2026-11-11T20:32:00+01:00",
-"artist": "Emiliana Torrini",
-"title": "Baby Blue"
-},
-{
-"id": "2026-11-11T20:28|Henrik Schwarz & Metropole Orkestra feat. Ben Westbeech|Counter Culture",
-"t": "2026-11-11T20:28:00+01:00",
-"artist": "Henrik Schwarz & Metropole Orkestra feat. Ben Westbeech",
-"title": "Counter Culture"
-},
-{
-"id": "2026-11-11T20:25|Bleachers|the van",
-"t": "2026-11-11T20:25:00+01:00",
-"artist": "Bleachers",
-"title": "the van"
 }
 ]
 }
