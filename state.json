@@ -1,9 +1,9 @@
 {
-"updated": "2026-11-18T14:13:51.894047+01:00",
+"updated": "2026-11-18T14:25:51.894380+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
-"synced": "2026-11-18T14:01:51.893681+01:00",
+"synced": "2026-11-18T14:17:51.894145+01:00",
 "pruned": "2026-11-18",
 "calls": {
 "2026-11-11": 197,
@@ -13,12 +13,24 @@
 "2026-11-15": 93,
 "2026-11-16": 163,
 "2026-11-17": 194,
-"2026-11-18": 104
+"2026-11-18": 105
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAijY0/4Ewmf7IyezYaesXvyvz5qg/7",
+"snapshot": "AAAijlLkvn4qPyCcR+yc3XvOaZVRHs77",
 "playlist": [
+[
+"2026-11-18T14:10|Django Django|Cameos",
+"spotify:track:6q1og9CkTnFTTYqOSN9ed3"
+],
+[
+"2026-11-18T14:05|Jamiroquai|Shake It On",
+"spotify:track:4bL5GNTF2zw5WyEle7irMf"
+],
+[
+"2026-11-18T13:56|Shout Out Louds|Impossible",
+"spotify:track:6N6PSTxRJvsQkrItKgi7ek"
+],
 [
 "2026-11-18T13:50|Friedberg|Goodwife",
 "spotify:track:1H89j9NLse1E0Kmjb3tzW6"
@@ -3985,6 +3997,12 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-11-18T14:10|Django Django|Cameos",
+"t": "2026-11-18T14:10:00+01:00",
+"artist": "Django Django",
+"title": "Cameos"
+},
 {
 "id": "2026-11-18T14:05|Jamiroquai|Shake It On",
 "t": "2026-11-18T14:05:00+01:00",
@@ -9552,12 +9570,6 @@
 "t": "2026-11-11T14:27:00+01:00",
 "artist": "Belle & Sebastian",
 "title": "The White Collar Boy"
-},
-{
-"id": "2026-11-11T14:20|Odd Beholder|Your Emancipation",
-"t": "2026-11-11T14:20:00+01:00",
-"artist": "Odd Beholder",
-"title": "Your Emancipation"
 }
 ]
 }
