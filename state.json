@@ -1,9 +1,9 @@
 {
-"updated": "2026-11-18T05:01:59.856378+01:00",
+"updated": "2026-11-18T05:13:59.856708+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
-"synced": "2026-11-18T04:01:59.854588+01:00",
+"synced": "2026-11-18T05:13:59.856708+01:00",
 "pruned": "2026-11-18",
 "calls": {
 "2026-11-11": 197,
@@ -12,12 +12,16 @@
 "2026-11-14": 145,
 "2026-11-15": 93,
 "2026-11-16": 163,
-"2026-11-17": 188
+"2026-11-17": 191
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAiWKQ0PZlK+fLceyvMwbE2bfm9dE4d",
+"snapshot": "AAAiWfuVRfEdQ+gMt99XpXLibTr9DRav",
 "playlist": [
+[
+"2026-11-18T05:03|Get Well Soon|Mantra (Edit)",
+"spotify:track:6arpyP1LcOqPkvPm0YdpX6"
+],
 [
 "2026-11-17T22:51|Berend|Die Zukunft Wie Sie War",
 "spotify:track:3U7IOewEPe0p30Rjot0K9E"
@@ -3656,6 +3660,12 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-11-18T05:03|Get Well Soon|Mantra (Edit)",
+"t": "2026-11-18T05:03:00+01:00",
+"artist": "Get Well Soon",
+"title": "Mantra (Edit)"
+},
 {
 "id": "2026-11-17T22:51|Berend|Die Zukunft Wie Sie War",
 "t": "2026-11-17T22:51:00+01:00",
@@ -9187,18 +9197,6 @@
 "t": "2026-11-11T05:16:00+01:00",
 "artist": "UCHE YARA",
 "title": "Hello Hello"
-},
-{
-"id": "2026-11-11T05:07|Beats International|Dub Be Good To Me (Just Be Good To Me)",
-"t": "2026-11-11T05:07:00+01:00",
-"artist": "Beats International",
-"title": "Dub Be Good To Me (Just Be Good To Me)"
-},
-{
-"id": "2026-11-11T05:03|Slut|For The Soul There Is No Hospital",
-"t": "2026-11-11T05:03:00+01:00",
-"artist": "Slut",
-"title": "For The Soul There Is No Hospital"
 }
 ]
 }
