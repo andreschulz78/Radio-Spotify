@@ -1,5 +1,5 @@
 {
-"updated": "2026-11-18T05:13:59.856708+01:00",
+"updated": "2026-11-18T05:25:59.857056+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
@@ -12,7 +12,7 @@
 "2026-11-14": 145,
 "2026-11-15": 93,
 "2026-11-16": 163,
-"2026-11-17": 191
+"2026-11-17": 193
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
@@ -3660,6 +3660,30 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-11-18T05:22|Boy Harsher|Tough Luck (When You Don't Call)",
+"t": "2026-11-18T05:22:00+01:00",
+"artist": "Boy Harsher",
+"title": "Tough Luck (When You Don't Call)"
+},
+{
+"id": "2026-11-18T05:16|Lola Young|From Down Here (Radio Edit)",
+"t": "2026-11-18T05:16:00+01:00",
+"artist": "Lola Young",
+"title": "From Down Here (Radio Edit)"
+},
+{
+"id": "2026-11-18T05:13|Bilderbuch|Baby Junkie",
+"t": "2026-11-18T05:13:00+01:00",
+"artist": "Bilderbuch",
+"title": "Baby Junkie"
+},
+{
+"id": "2026-11-18T05:08|Aretha Franklin|Walk On By",
+"t": "2026-11-18T05:08:00+01:00",
+"artist": "Aretha Franklin",
+"title": "Walk On By"
+},
 {
 "id": "2026-11-18T05:03|Get Well Soon|Mantra (Edit)",
 "t": "2026-11-18T05:03:00+01:00",
@@ -9185,18 +9209,6 @@
 "t": "2026-11-11T05:26:00+01:00",
 "artist": "CATT",
 "title": "No One Ever Tells You (Edit)"
-},
-{
-"id": "2026-11-11T05:23|Bulgarian Cartrader|In My Zone (Radio Edit)",
-"t": "2026-11-11T05:23:00+01:00",
-"artist": "Bulgarian Cartrader",
-"title": "In My Zone (Radio Edit)"
-},
-{
-"id": "2026-11-11T05:16|UCHE YARA|Hello Hello",
-"t": "2026-11-11T05:16:00+01:00",
-"artist": "UCHE YARA",
-"title": "Hello Hello"
 }
 ]
 }
