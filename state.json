@@ -1,9 +1,9 @@
 {
-"updated": "2026-11-18T19:20:40.578913+01:00",
+"updated": "2026-11-18T19:32:40.579210+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
-"synced": "2026-11-18T19:12:40.578722+01:00",
+"synced": "2026-11-18T19:28:40.579128+01:00",
 "pruned": "2026-11-18",
 "calls": {
 "2026-11-11": 197,
@@ -13,12 +13,16 @@
 "2026-11-15": 93,
 "2026-11-16": 163,
 "2026-11-17": 194,
-"2026-11-18": 148
+"2026-11-18": 151
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAiotCOXWf1wViqOE37idHZrZPHiOV4",
+"snapshot": "AAAio/sRUNnepGDrMd5DmCPYjTgKg7Oh",
 "playlist": [
+[
+"2026-11-18T19:21|The Velvet Underground feat. Nico|Sunday Morning",
+"spotify:track:11607FzqoipskTsXrwEHnJ"
+],
 [
 "2026-11-18T19:06|WhoMadeWho feat. RY X|Love Will Save Me",
 "spotify:track:2YjXImhg2zXDmWcVy1oSDw"
@@ -4169,6 +4173,12 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-11-18T19:21|The Velvet Underground feat. Nico|Sunday Morning",
+"t": "2026-11-18T19:21:00+01:00",
+"artist": "The Velvet Underground feat. Nico",
+"title": "Sunday Morning"
+},
 {
 "id": "2026-11-18T19:06|WhoMadeWho feat. RY X|Love Will Save Me",
 "t": "2026-11-18T19:06:00+01:00",
