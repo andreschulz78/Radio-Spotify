@@ -1,5 +1,5 @@
 {
-"updated": "2026-11-18T10:49:51.888881+01:00",
+"updated": "2026-11-18T11:01:51.889200+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
@@ -13,7 +13,7 @@
 "2026-11-15": 93,
 "2026-11-16": 163,
 "2026-11-17": 194,
-"2026-11-18": 62
+"2026-11-18": 63
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
@@ -3849,6 +3849,18 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-11-18T10:55|Automatic|Shadowplay",
+"t": "2026-11-18T10:55:00+01:00",
+"artist": "Automatic",
+"title": "Shadowplay"
+},
+{
+"id": "2026-11-18T10:49|MS MR|Hurricane",
+"t": "2026-11-18T10:49:00+01:00",
+"artist": "MS MR",
+"title": "Hurricane"
+},
 {
 "id": "2026-11-18T10:35|Harry Styles|Aperture",
 "t": "2026-11-18T10:35:00+01:00",
@@ -9404,12 +9416,6 @@
 "t": "2026-11-11T11:06:00+01:00",
 "artist": "The War On Drugs",
 "title": "Red Eyes"
-},
-{
-"id": "2026-11-11T10:57|JGrrey feat. Bel Cobain|Take My Hand",
-"t": "2026-11-11T10:57:00+01:00",
-"artist": "JGrrey feat. Bel Cobain",
-"title": "Take My Hand"
 }
 ]
 }
