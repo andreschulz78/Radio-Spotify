@@ -1,9 +1,9 @@
 {
-"updated": "2026-11-18T14:25:51.894380+01:00",
+"updated": "2026-11-18T14:37:51.894679+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
-"synced": "2026-11-18T14:17:51.894145+01:00",
+"synced": "2026-11-18T14:33:51.894581+01:00",
 "pruned": "2026-11-18",
 "calls": {
 "2026-11-11": 197,
@@ -13,12 +13,24 @@
 "2026-11-15": 93,
 "2026-11-16": 163,
 "2026-11-17": 194,
-"2026-11-18": 105
+"2026-11-18": 114
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAijlLkvn4qPyCcR+yc3XvOaZVRHs77",
+"snapshot": "AAAilJ4o6JB805fVFgsZDFRPMS8fM5mr",
 "playlist": [
+[
+"2026-11-18T14:24|Babyshambles|Dr. No",
+"spotify:track:5xhmIQwWQ9D62428HT0ATR"
+],
+[
+"2026-11-18T14:22|Dry Cleaning|Gary Ashby",
+"spotify:track:30erf27MriGIsvb4rzria6"
+],
+[
+"2026-11-18T14:18|Morcheeba|Blindfold",
+"spotify:track:7xgfSlAPUouBAquQZkAUdq"
+],
 [
 "2026-11-18T14:10|Django Django|Cameos",
 "spotify:track:6q1og9CkTnFTTYqOSN9ed3"
@@ -3668,10 +3680,6 @@
 "spotify:track:3oWGBitSdsizfiIlCfwUqV"
 ],
 [
-"2026-11-11T14:33|Kelela|the bridge (feat. PinkPantheress)",
-"spotify:track:4Og22Djtd18AVqNgijpLsX"
-],
-[
 "2026-11-11T14:27|Belle & Sebastian|The White Collar Boy",
 "spotify:track:6sgs5mVCxzuwJYDPSo9waa"
 ],
@@ -3997,6 +4005,30 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-11-18T14:31|Mando Diao|Down In The Past (Unplugged)",
+"t": "2026-11-18T14:31:00+01:00",
+"artist": "Mando Diao",
+"title": "Down In The Past (Unplugged)"
+},
+{
+"id": "2026-11-18T14:24|Babyshambles|Dr. No",
+"t": "2026-11-18T14:24:00+01:00",
+"artist": "Babyshambles",
+"title": "Dr. No"
+},
+{
+"id": "2026-11-18T14:22|Dry Cleaning|Gary Ashby",
+"t": "2026-11-18T14:22:00+01:00",
+"artist": "Dry Cleaning",
+"title": "Gary Ashby"
+},
+{
+"id": "2026-11-18T14:18|Morcheeba|Blindfold",
+"t": "2026-11-18T14:18:00+01:00",
+"artist": "Morcheeba",
+"title": "Blindfold"
+},
 {
 "id": "2026-11-18T14:10|Django Django|Cameos",
 "t": "2026-11-18T14:10:00+01:00",
@@ -9552,24 +9584,6 @@
 "t": "2026-11-11T14:39:00+01:00",
 "artist": "Jamie T",
 "title": "Tallahassee"
-},
-{
-"id": "2026-11-11T14:36|Andy Shauf|Halloween Store",
-"t": "2026-11-11T14:36:00+01:00",
-"artist": "Andy Shauf",
-"title": "Halloween Store"
-},
-{
-"id": "2026-11-11T14:33|Kelela|the bridge (feat. PinkPantheress)",
-"t": "2026-11-11T14:33:00+01:00",
-"artist": "Kelela",
-"title": "the bridge (feat. PinkPantheress)"
-},
-{
-"id": "2026-11-11T14:27|Belle & Sebastian|The White Collar Boy",
-"t": "2026-11-11T14:27:00+01:00",
-"artist": "Belle & Sebastian",
-"title": "The White Collar Boy"
 }
 ]
 }
