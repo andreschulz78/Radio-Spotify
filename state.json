@@ -1,9 +1,9 @@
 {
-"updated": "2026-11-18T06:13:59.858432+01:00",
+"updated": "2026-11-18T06:25:59.858788+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
-"synced": "2026-11-18T06:01:59.858104+01:00",
+"synced": "2026-11-18T06:17:59.858560+01:00",
 "pruned": "2026-11-18",
 "calls": {
 "2026-11-11": 197,
@@ -13,12 +13,20 @@
 "2026-11-15": 93,
 "2026-11-16": 163,
 "2026-11-17": 194,
-"2026-11-18": 8
+"2026-11-18": 16
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAiXCwbhvRpUJUZ4q5vjnCkuHdSpnpu",
+"snapshot": "AAAiYRFLSWhIc7G/3xW5SuwFoQL+bLMA",
 "playlist": [
+[
+"2026-11-18T06:06|Beth Ditto|In And Out",
+"spotify:track:21Ca8qgNqwQoMQ9pJHfDyo"
+],
+[
+"2026-11-18T05:56|Nilüfer Yanya|The Dealer",
+"spotify:track:5gi73IM9tqnRR2arLMjT8I"
+],
 [
 "2026-11-18T05:51|Alice Costelloe|How Can I",
 "spotify:track:6ev5ii9Zpk67XEhdNTtY5z"
@@ -3644,10 +3652,6 @@
 "spotify:track:0HJuwBpU9bpH3Zt5r1PtNS"
 ],
 [
-"2026-11-11T06:17|Nihils|Lavender",
-"spotify:track:24IHKK4RZRa5WYOEigkp5h"
-],
-[
 "2026-11-11T06:11|Muse|Starlight",
 "spotify:track:2Jlq1yNoXP548kPZcKRl18"
 ],
@@ -3701,6 +3705,18 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-11-18T06:18|Everything But The Girl|Young and Dumb",
+"t": "2026-11-18T06:18:00+01:00",
+"artist": "Everything But The Girl",
+"title": "Young and Dumb"
+},
+{
+"id": "2026-11-18T06:14|The Duke Spirit|My Sunken Treasure",
+"t": "2026-11-18T06:14:00+01:00",
+"artist": "The Duke Spirit",
+"title": "My Sunken Treasure"
+},
 {
 "id": "2026-11-18T06:06|Beth Ditto|In And Out",
 "t": "2026-11-18T06:06:00+01:00",
@@ -9232,18 +9248,6 @@
 "t": "2026-11-11T06:33:00+01:00",
 "artist": "Faithless feat. Dido",
 "title": "One Step Too Far"
-},
-{
-"id": "2026-11-11T06:23|Cass McCombs|Peace",
-"t": "2026-11-11T06:23:00+01:00",
-"artist": "Cass McCombs",
-"title": "Peace"
-},
-{
-"id": "2026-11-11T06:17|Nihils|Lavender",
-"t": "2026-11-11T06:17:00+01:00",
-"artist": "Nihils",
-"title": "Lavender"
 }
 ]
 }
