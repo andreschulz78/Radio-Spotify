@@ -1,9 +1,9 @@
 {
-"updated": "2026-11-18T13:37:51.893078+01:00",
+"updated": "2026-11-18T13:49:51.893367+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
-"synced": "2026-11-18T13:29:51.892892+01:00",
+"synced": "2026-11-18T13:45:51.893271+01:00",
 "pruned": "2026-11-18",
 "calls": {
 "2026-11-11": 197,
@@ -13,12 +13,32 @@
 "2026-11-15": 93,
 "2026-11-16": 163,
 "2026-11-17": 194,
-"2026-11-18": 96
+"2026-11-18": 98
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAii/8WqwtiLlfgHeRgQkN7htGySct+",
+"snapshot": "AAAijBUhW9fNLpzf+ddGcFnnr7p6qs5R",
 "playlist": [
+[
+"2026-11-18T13:38|Major Lazer|Get Free",
+"spotify:track:4p4hyqRFdoiw4EMbEsqBdA"
+],
+[
+"2026-11-18T13:36|Modeselektor|IWUDLYK",
+"spotify:track:0ETCwiSL7d6N9Wg4jJn5Gz"
+],
+[
+"2026-11-18T13:33|Iggy Pop|Real Wild Child",
+"spotify:track:6ZAwEE4kTdtvyE66iRhFxR"
+],
+[
+"2026-11-18T13:28|Florence + The Machine|Buckle",
+"spotify:track:2Ea5Qh9ijEt8og1ZNBgqhR"
+],
+[
+"2026-11-18T13:24|Smidley feat. Lucy Dacus|Capstone",
+"spotify:track:0YosJMrYxYQP7mLXfFo0p1"
+],
 [
 "2026-11-18T13:21|Madison McFerrin|(Please Don't) Leave Me Now",
 "spotify:track:0FsApA1lcgdcUHFlwEnTfE"
@@ -3953,6 +3973,18 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-11-18T13:38|Major Lazer|Get Free",
+"t": "2026-11-18T13:38:00+01:00",
+"artist": "Major Lazer",
+"title": "Get Free"
+},
+{
+"id": "2026-11-18T13:36|Modeselektor|IWUDLYK",
+"t": "2026-11-18T13:36:00+01:00",
+"artist": "Modeselektor",
+"title": "IWUDLYK"
+},
 {
 "id": "2026-11-18T13:33|Iggy Pop|Real Wild Child",
 "t": "2026-11-18T13:33:00+01:00",
@@ -9508,24 +9540,6 @@
 "t": "2026-11-11T13:51:00+01:00",
 "artist": "Gerry Read feat. Gregor",
 "title": "Taking All My Clothes Off"
-},
-{
-"id": "2026-11-11T13:47|Oren Lavie feat. Vanessa Paradis|Did You Really Say No",
-"t": "2026-11-11T13:47:00+01:00",
-"artist": "Oren Lavie feat. Vanessa Paradis",
-"title": "Did You Really Say No"
-},
-{
-"id": "2026-11-11T13:43|The The|Slow Emotion Replay",
-"t": "2026-11-11T13:43:00+01:00",
-"artist": "The The",
-"title": "Slow Emotion Replay"
-},
-{
-"id": "2026-11-11T13:38|Nia Archives|Vertical",
-"t": "2026-11-11T13:38:00+01:00",
-"artist": "Nia Archives",
-"title": "Vertical"
 }
 ]
 }
