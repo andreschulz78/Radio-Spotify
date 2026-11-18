@@ -1,9 +1,9 @@
 {
-"updated": "2026-11-18T11:13:51.889528+01:00",
+"updated": "2026-11-18T11:25:51.889817+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
-"synced": "2026-11-18T11:05:51.889316+01:00",
+"synced": "2026-11-18T11:21:51.889719+01:00",
 "pruned": "2026-11-18",
 "calls": {
 "2026-11-11": 197,
@@ -13,12 +13,16 @@
 "2026-11-15": 93,
 "2026-11-16": 163,
 "2026-11-17": 194,
-"2026-11-18": 65
+"2026-11-18": 69
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAietHGYXK9g/P36cSHqfawCVtlz3/O",
+"snapshot": "AAAifdc50hbr/rB1uti5NHGVlYGKnwU9",
 "playlist": [
+[
+"2026-11-18T11:07|Overmono feat. Ruthven|Gem Lingo (ovr now)",
+"spotify:track:6dSqM0tWJPlchpmGrEwC1c"
+],
 [
 "2026-11-18T10:55|Automatic|Shadowplay",
 "spotify:track:0pT1m2UpNBliUb6W7S7YzA"
@@ -3656,10 +3660,6 @@
 "spotify:track:2Bqy2DIYw0DXkZj8gHTg2p"
 ],
 [
-"2026-11-11T11:21|Jamie xx|Dream Night",
-"spotify:track:2DewmibGFWxakcxvVyf2Tv"
-],
-[
 "2026-11-11T11:19|SOFY|50/50",
 "spotify:track:16QLv8xt9nPNBZCBDm3Gkv"
 ],
@@ -3857,6 +3857,12 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-11-18T11:17|Queen|Bohemian Rhapsody",
+"t": "2026-11-18T11:17:00+01:00",
+"artist": "Queen",
+"title": "Bohemian Rhapsody"
+},
 {
 "id": "2026-11-18T11:07|Overmono feat. Ruthven|Gem Lingo (ovr now)",
 "t": "2026-11-18T11:07:00+01:00",
@@ -9406,24 +9412,6 @@
 "t": "2026-11-11T11:26:00+01:00",
 "artist": "Flora Hibberd",
 "title": "Bowling Ball"
-},
-{
-"id": "2026-11-11T11:21|Jamie xx|Dream Night",
-"t": "2026-11-11T11:21:00+01:00",
-"artist": "Jamie xx",
-"title": "Dream Night"
-},
-{
-"id": "2026-11-11T11:19|SOFY|50/50",
-"t": "2026-11-11T11:19:00+01:00",
-"artist": "SOFY",
-"title": "50/50"
-},
-{
-"id": "2026-11-11T11:15|Fleetwood Mac|Thrown Down",
-"t": "2026-11-11T11:15:00+01:00",
-"artist": "Fleetwood Mac",
-"title": "Thrown Down"
 }
 ]
 }
