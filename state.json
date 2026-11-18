@@ -1,9 +1,9 @@
 {
-"updated": "2026-11-18T11:01:51.889200+01:00",
+"updated": "2026-11-18T11:13:51.889528+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
-"synced": "2026-11-18T10:49:51.888881+01:00",
+"synced": "2026-11-18T11:05:51.889316+01:00",
 "pruned": "2026-11-18",
 "calls": {
 "2026-11-11": 197,
@@ -13,12 +13,20 @@
 "2026-11-15": 93,
 "2026-11-16": 163,
 "2026-11-17": 194,
-"2026-11-18": 63
+"2026-11-18": 65
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAiecmxt8IikKlWU/Pc+uOpFpVBC5Bq",
+"snapshot": "AAAietHGYXK9g/P36cSHqfawCVtlz3/O",
 "playlist": [
+[
+"2026-11-18T10:55|Automatic|Shadowplay",
+"spotify:track:0pT1m2UpNBliUb6W7S7YzA"
+],
+[
+"2026-11-18T10:49|MS MR|Hurricane",
+"spotify:track:59EV6vDqrDPfh3ipDVK1HP"
+],
 [
 "2026-11-18T10:35|Harry Styles|Aperture",
 "spotify:track:45Z3m6yazmAi4jZuW0tzW0"
@@ -3849,6 +3857,12 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-11-18T11:07|Overmono feat. Ruthven|Gem Lingo (ovr now)",
+"t": "2026-11-18T11:07:00+01:00",
+"artist": "Overmono feat. Ruthven",
+"title": "Gem Lingo (ovr now)"
+},
 {
 "id": "2026-11-18T10:55|Automatic|Shadowplay",
 "t": "2026-11-18T10:55:00+01:00",
@@ -9410,12 +9424,6 @@
 "t": "2026-11-11T11:15:00+01:00",
 "artist": "Fleetwood Mac",
 "title": "Thrown Down"
-},
-{
-"id": "2026-11-11T11:06|The War On Drugs|Red Eyes",
-"t": "2026-11-11T11:06:00+01:00",
-"artist": "The War On Drugs",
-"title": "Red Eyes"
 }
 ]
 }
