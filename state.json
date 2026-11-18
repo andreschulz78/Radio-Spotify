@@ -1,9 +1,9 @@
 {
-"updated": "2026-11-18T07:01:59.859842+01:00",
+"updated": "2026-11-18T07:13:59.860192+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
-"synced": "2026-11-18T06:49:59.859481+01:00",
+"synced": "2026-11-18T07:05:59.859957+01:00",
 "pruned": "2026-11-18",
 "calls": {
 "2026-11-11": 197,
@@ -13,12 +13,24 @@
 "2026-11-15": 93,
 "2026-11-16": 163,
 "2026-11-17": 194,
-"2026-11-18": 22
+"2026-11-18": 24
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAiZGQ0LmTKjdevArpF0uC4546M4cD/",
+"snapshot": "AAAiZnyAwoemhVQhcSYRbz82tb01ybye",
 "playlist": [
+[
+"2026-11-18T06:56|Rialto|Monday Morning 5:19 (Radio Edit)",
+"spotify:track:1W7xGjZUgJ9am0QwO1MDVa"
+],
+[
+"2026-11-18T06:49|Hot Chip|Random Violence (Radio Edit)",
+"spotify:track:0T3vTM8KUAwGMukdAhNVj2"
+],
+[
+"2026-11-18T06:45|Alison Goldfrapp|So hard so hot - Radio Edit",
+"spotify:track:4duew98Np4voE0rFdSdrfG"
+],
 [
 "2026-11-18T06:42|Blonde Redhead feat. David Sylvian|Messenger",
 "spotify:track:6cAbIQ5tachruXGBnXNuQ1"
@@ -3644,10 +3656,6 @@
 "spotify:track:6zgvKcL58XPES10HwspEkT"
 ],
 [
-"2026-11-11T07:05|Dramas|Mess",
-"spotify:track:0YKIn1FFwm066LCUWMZ6Vd"
-],
-[
 "2026-11-11T06:56|Maribou State feat. Khruangbin|Feel Good",
 "spotify:track:6XH2zDNsbwv8rJhJJjA4gk"
 ],
@@ -3721,6 +3729,12 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-11-18T07:06|Linka Moja|Men R Dogs",
+"t": "2026-11-18T07:06:00+01:00",
+"artist": "Linka Moja",
+"title": "Men R Dogs"
+},
 {
 "id": "2026-11-18T06:56|Rialto|Monday Morning 5:19 (Radio Edit)",
 "t": "2026-11-18T06:56:00+01:00",
@@ -9258,18 +9272,6 @@
 "t": "2026-11-11T07:16:00+01:00",
 "artist": "Madness",
 "title": "Tomorrow's Just Another Day"
-},
-{
-"id": "2026-11-11T07:12|Peaches|No Lube So Rude",
-"t": "2026-11-11T07:12:00+01:00",
-"artist": "Peaches",
-"title": "No Lube So Rude"
-},
-{
-"id": "2026-11-11T07:05|Dramas|Mess",
-"t": "2026-11-11T07:05:00+01:00",
-"artist": "Dramas",
-"title": "Mess"
 }
 ]
 }
