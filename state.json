@@ -1,5 +1,5 @@
 {
-"updated": "2026-11-18T14:49:51.894994+01:00",
+"updated": "2026-11-18T15:01:51.895300+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
@@ -13,7 +13,7 @@
 "2026-11-15": 93,
 "2026-11-16": 163,
 "2026-11-17": 194,
-"2026-11-18": 116
+"2026-11-18": 118
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
@@ -4005,6 +4005,30 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-11-18T14:51|Ibibio Sound Machine|Love",
+"t": "2026-11-18T14:51:00+01:00",
+"artist": "Ibibio Sound Machine",
+"title": "Love"
+},
+{
+"id": "2026-11-18T14:47|Al Green|Love Is A Beautiful Thing",
+"t": "2026-11-18T14:47:00+01:00",
+"artist": "Al Green",
+"title": "Love Is A Beautiful Thing"
+},
+{
+"id": "2026-11-18T14:44|Jules Ahoi|Magnolia (Radio Edit)",
+"t": "2026-11-18T14:44:00+01:00",
+"artist": "Jules Ahoi",
+"title": "Magnolia (Radio Edit)"
+},
+{
+"id": "2026-11-18T14:35|Nichtseattle|Ich mit Brille",
+"t": "2026-11-18T14:35:00+01:00",
+"artist": "Nichtseattle",
+"title": "Ich mit Brille"
+},
 {
 "id": "2026-11-18T14:31|Mando Diao|Down In The Past (Unplugged)",
 "t": "2026-11-18T14:31:00+01:00",
@@ -9554,18 +9578,6 @@
 "t": "2026-11-11T15:06:00+01:00",
 "artist": "Chinese American Bear",
 "title": "Dance Dance Dance (Edit)"
-},
-{
-"id": "2026-11-11T14:57|Sophia Kennedy|Schenke mir ein",
-"t": "2026-11-11T14:57:00+01:00",
-"artist": "Sophia Kennedy",
-"title": "Schenke mir ein"
-},
-{
-"id": "2026-11-11T14:51|Morrissey|I'm Throwing My Arms Around Paris",
-"t": "2026-11-11T14:51:00+01:00",
-"artist": "Morrissey",
-"title": "I'm Throwing My Arms Around Paris"
 }
 ]
 }
