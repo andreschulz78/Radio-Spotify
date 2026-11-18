@@ -1,9 +1,9 @@
 {
-"updated": "2026-11-18T13:25:51.892795+01:00",
+"updated": "2026-11-18T13:37:51.893078+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
-"synced": "2026-11-18T13:13:51.892490+01:00",
+"synced": "2026-11-18T13:29:51.892892+01:00",
 "pruned": "2026-11-18",
 "calls": {
 "2026-11-11": 197,
@@ -13,12 +13,24 @@
 "2026-11-15": 93,
 "2026-11-16": 163,
 "2026-11-17": 194,
-"2026-11-18": 94
+"2026-11-18": 96
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAiipuJ2URnetGMcm5PSYNHWulHnAaE",
+"snapshot": "AAAii/8WqwtiLlfgHeRgQkN7htGySct+",
 "playlist": [
+[
+"2026-11-18T13:21|Madison McFerrin|(Please Don't) Leave Me Now",
+"spotify:track:0FsApA1lcgdcUHFlwEnTfE"
+],
+[
+"2026-11-18T13:16|The Stone Roses|Fools Gold (Edit)",
+"spotify:track:2mv6GY70UsHiTCGQZ4JfgC"
+],
+[
+"2026-11-18T13:08|Cherry Glazerr|Bad Habit",
+"spotify:track:3O7ij6i8NmdxxmOrpHDVJV"
+],
 [
 "2026-11-18T13:05|Death Cab For Cutie|Pep Talk",
 "spotify:track:3ra7fDLqfUHBWBL702fOAn"
@@ -3941,6 +3953,24 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-11-18T13:33|Iggy Pop|Real Wild Child",
+"t": "2026-11-18T13:33:00+01:00",
+"artist": "Iggy Pop",
+"title": "Real Wild Child"
+},
+{
+"id": "2026-11-18T13:28|Florence + The Machine|Buckle",
+"t": "2026-11-18T13:28:00+01:00",
+"artist": "Florence + The Machine",
+"title": "Buckle"
+},
+{
+"id": "2026-11-18T13:24|Smidley feat. Lucy Dacus|Capstone",
+"t": "2026-11-18T13:24:00+01:00",
+"artist": "Smidley feat. Lucy Dacus",
+"title": "Capstone"
+},
 {
 "id": "2026-11-18T13:21|Madison McFerrin|(Please Don't) Leave Me Now",
 "t": "2026-11-18T13:21:00+01:00",
@@ -9496,18 +9526,6 @@
 "t": "2026-11-11T13:38:00+01:00",
 "artist": "Nia Archives",
 "title": "Vertical"
-},
-{
-"id": "2026-11-11T13:33|Kasabian|Re-Wired",
-"t": "2026-11-11T13:33:00+01:00",
-"artist": "Kasabian",
-"title": "Re-Wired"
-},
-{
-"id": "2026-11-11T13:28|Austra|Math Equation",
-"t": "2026-11-11T13:28:00+01:00",
-"artist": "Austra",
-"title": "Math Equation"
 }
 ]
 }
