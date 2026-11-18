@@ -1,9 +1,9 @@
 {
-"updated": "2026-11-18T19:56:40.579977+01:00",
+"updated": "2026-11-18T20:08:40.580326+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
-"synced": "2026-11-18T19:44:40.579638+01:00",
+"synced": "2026-11-18T20:00:40.580081+01:00",
 "pruned": "2026-11-18",
 "calls": {
 "2026-11-11": 197,
@@ -13,12 +13,20 @@
 "2026-11-15": 93,
 "2026-11-16": 163,
 "2026-11-17": 194,
-"2026-11-18": 154
+"2026-11-18": 156
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAipIgHlrG8dwE/3vhR9OIxCfUrCshT",
+"snapshot": "AAAipdqTkE+r2U+a85tEDgO61pI4HxSk",
 "playlist": [
+[
+"2026-11-18T19:55|D-Troit|Do The Right Thing",
+"spotify:track:3YG33HJ4Jm3F1hfWSTgy1Y"
+],
+[
+"2026-11-18T19:48|Jim James|Come Again",
+"spotify:track:6S3Ao3HkuLpHffHWL8oRsz"
+],
 [
 "2026-11-18T19:21|The Velvet Underground feat. Nico|Sunday Morning",
 "spotify:track:11607FzqoipskTsXrwEHnJ"
@@ -4169,6 +4177,12 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-11-18T19:55|D-Troit|Do The Right Thing",
+"t": "2026-11-18T19:55:00+01:00",
+"artist": "D-Troit",
+"title": "Do The Right Thing"
+},
 {
 "id": "2026-11-18T19:48|Jim James|Come Again",
 "t": "2026-11-18T19:48:00+01:00",
@@ -9724,12 +9738,6 @@
 "t": "2026-11-11T20:16:00+01:00",
 "artist": "Nightmares On Wax feat. Mozez",
 "title": "You Wish (Abbey Road Fuzz Gospel Version)"
-},
-{
-"id": "2026-11-11T20:04|The Postal Service|Such Great Heights",
-"t": "2026-11-11T20:04:00+01:00",
-"artist": "The Postal Service",
-"title": "Such Great Heights"
 }
 ]
 }
