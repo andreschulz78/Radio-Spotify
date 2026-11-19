@@ -1,9 +1,9 @@
 {
-"updated": "2026-11-19T14:02:23.761401+01:00",
+"updated": "2026-11-19T14:14:23.761738+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
-"synced": "2026-11-19T13:54:23.761062+01:00",
+"synced": "2026-11-19T14:10:23.761641+01:00",
 "pruned": "2026-11-19",
 "calls": {
 "2026-11-12": 185,
@@ -13,12 +13,28 @@
 "2026-11-16": 163,
 "2026-11-17": 194,
 "2026-11-18": 180,
-"2026-11-19": 91
+"2026-11-19": 94
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAi3Q5wlrUecNOh1lcLvsiIvbmX8JeP",
+"snapshot": "AAAi3iOzFYQwKKpfeTxZtiHhD8n5znQP",
 "playlist": [
+[
+"2026-11-19T14:07|Tom Misch|Slow Tonight",
+"spotify:track:7cpoZVJlz9euhcgUfQBMRL"
+],
+[
+"2026-11-19T13:58|Laura Stevenson|Torch Song",
+"spotify:track:68fiDbfk2EIVbDY89KmtXO"
+],
+[
+"2026-11-19T13:51|Ten Fé|Candidate",
+"spotify:track:5wjRZRpkGpfZHXLXuVHQaW"
+],
+[
+"2026-11-19T13:47|Leon Bridges|Light The Way",
+"spotify:track:3G1hTUddM2diIyYA0yy9kS"
+],
 [
 "2026-11-19T13:41|Etienne de Crécy|Prix Choc",
 "spotify:track:7Jt3KNk914D6t2T3pB49sb"
@@ -3909,6 +3925,18 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-11-19T14:07|Tom Misch|Slow Tonight",
+"t": "2026-11-19T14:07:00+01:00",
+"artist": "Tom Misch",
+"title": "Slow Tonight"
+},
+{
+"id": "2026-11-19T13:58|Laura Stevenson|Torch Song",
+"t": "2026-11-19T13:58:00+01:00",
+"artist": "Laura Stevenson",
+"title": "Torch Song"
+},
 {
 "id": "2026-11-19T13:51|Ten Fé|Candidate",
 "t": "2026-11-19T13:51:00+01:00",
@@ -9326,18 +9354,6 @@
 "t": "2026-11-12T14:18:00+01:00",
 "artist": "Fontaines D.C. & ROSALIA",
 "title": "Where Is Gone?"
-},
-{
-"id": "2026-11-12T14:14|De La Soul|A Roller Skating Jam Named \"Saturdays\"",
-"t": "2026-11-12T14:14:00+01:00",
-"artist": "De La Soul",
-"title": "A Roller Skating Jam Named \"Saturdays\""
-},
-{
-"id": "2026-11-12T14:05|Courtney Barnett|Wonder",
-"t": "2026-11-12T14:05:00+01:00",
-"artist": "Courtney Barnett",
-"title": "Wonder"
 }
 ]
 }
