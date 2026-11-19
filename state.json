@@ -1,9 +1,9 @@
 {
-"updated": "2026-11-19T18:52:45.462751+01:00",
+"updated": "2026-11-19T19:04:45.463111+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
-"synced": "2026-11-19T18:48:45.462618+01:00",
+"synced": "2026-11-19T19:04:45.463111+01:00",
 "pruned": "2026-11-19",
 "calls": {
 "2026-11-12": 185,
@@ -13,12 +13,24 @@
 "2026-11-16": 163,
 "2026-11-17": 194,
 "2026-11-18": 180,
-"2026-11-19": 134
+"2026-11-19": 136
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAi7ltr+zJLWeo6WJpIetMV+Oh/Tzie",
+"snapshot": "AAAi7/owwmapRCBtGlMWp4SwyZqc7qHl",
 "playlist": [
+[
+"2026-11-19T18:56|Sergio Torales feat. Der Assistent|Veo",
+"spotify:track:6k1tMxv0y7hJJsQMMfnE6p"
+],
+[
+"2026-11-19T18:50|Kings Of Convenience|I Don't Know What I Can Save You From",
+"spotify:track:4KHO9py2dphAa5pfegUojN"
+],
+[
+"2026-11-19T18:46|The Electric Soft Parade|Misunderstanding",
+"spotify:track:4jtF9HJseZIRFFrkYuhy5p"
+],
 [
 "2026-11-19T18:43|Jonathan Personne|Un Homme Sans Visage",
 "spotify:track:253vvuEJZapMUdRgVCDI8v"
@@ -4093,6 +4105,18 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-11-19T18:56|Sergio Torales feat. Der Assistent|Veo",
+"t": "2026-11-19T18:56:00+01:00",
+"artist": "Sergio Torales feat. Der Assistent",
+"title": "Veo"
+},
+{
+"id": "2026-11-19T18:50|Kings Of Convenience|I Don't Know What I Can Save You From",
+"t": "2026-11-19T18:50:00+01:00",
+"artist": "Kings Of Convenience",
+"title": "I Don't Know What I Can Save You From"
+},
 {
 "id": "2026-11-19T18:46|The Electric Soft Parade|Misunderstanding",
 "t": "2026-11-19T18:46:00+01:00",
@@ -9486,12 +9510,6 @@
 "t": "2026-11-12T19:06:00+01:00",
 "artist": "49th & Main",
 "title": "Insomnia"
-},
-{
-"id": "2026-11-12T18:56|Afro Celt Sound System feat. P. Gabriel|When You're Falling",
-"t": "2026-11-12T18:56:00+01:00",
-"artist": "Afro Celt Sound System feat. P. Gabriel",
-"title": "When You're Falling"
 }
 ]
 }
