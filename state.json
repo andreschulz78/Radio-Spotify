@@ -1,5 +1,5 @@
 {
-"updated": "2026-11-19T10:26:23.754046+01:00",
+"updated": "2026-11-19T10:38:23.754343+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
@@ -13,7 +13,7 @@
 "2026-11-16": 163,
 "2026-11-17": 194,
 "2026-11-18": 180,
-"2026-11-19": 52
+"2026-11-19": 54
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
@@ -3777,6 +3777,24 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-11-19T10:33|Pamela.|Better than Before",
+"t": "2026-11-19T10:33:00+01:00",
+"artist": "Pamela.",
+"title": "Better than Before"
+},
+{
+"id": "2026-11-19T10:28|Texas|Inner Smile",
+"t": "2026-11-19T10:28:00+01:00",
+"artist": "Texas",
+"title": "Inner Smile"
+},
+{
+"id": "2026-11-19T10:24|Flora Hibberd|Bowling Ball",
+"t": "2026-11-19T10:24:00+01:00",
+"artist": "Flora Hibberd",
+"title": "Bowling Ball"
+},
 {
 "id": "2026-11-19T10:21|Waldeck|One Of These Days",
 "t": "2026-11-19T10:21:00+01:00",
@@ -9200,18 +9218,6 @@
 "t": "2026-11-12T10:45:00+01:00",
 "artist": "Beach Baby",
 "title": "U R"
-},
-{
-"id": "2026-11-12T10:35|Liz Lawrence|California Screaming",
-"t": "2026-11-12T10:35:00+01:00",
-"artist": "Liz Lawrence",
-"title": "California Screaming"
-},
-{
-"id": "2026-11-12T10:32|Deki Alem|Mr Man",
-"t": "2026-11-12T10:32:00+01:00",
-"artist": "Deki Alem",
-"title": "Mr Man"
 }
 ]
 }
