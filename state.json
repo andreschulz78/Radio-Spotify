@@ -1,9 +1,9 @@
 {
-"updated": "2026-11-19T10:14:23.753707+01:00",
+"updated": "2026-11-19T10:26:23.754046+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
-"synced": "2026-11-19T10:10:23.753618+01:00",
+"synced": "2026-11-19T10:26:23.754046+01:00",
 "pruned": "2026-11-19",
 "calls": {
 "2026-11-12": 185,
@@ -13,12 +13,24 @@
 "2026-11-16": 163,
 "2026-11-17": 194,
 "2026-11-18": 180,
-"2026-11-19": 45
+"2026-11-19": 52
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAiy/hZykzLGBKnojHeHGKTGdHfec6F",
+"snapshot": "AAAizpE8kNmpbiNQofzQ2JGJxH7WDZvj",
 "playlist": [
+[
+"2026-11-19T10:21|Waldeck|One Of These Days",
+"spotify:track:37wmHUvJl1XFdwcXADvDSs"
+],
+[
+"2026-11-19T10:18|Van Morrison|Brown Eyed Girl",
+"spotify:track:4CNL4GBNTdVIU5Nk6hB4LC"
+],
+[
+"2026-11-19T10:09|Kate Nash|Do Wah Doo",
+"spotify:track:1usoppjA2ZiseWLsp1vH5e"
+],
 [
 "2026-11-19T10:05|Boy Harsher|Tough Luck (When You Don't Call)",
 "spotify:track:109AVLNWp2BnTXTzF4j6XE"
@@ -3576,10 +3588,6 @@
 "spotify:track:37zztHh0JkdPuOYGzkLYKo"
 ],
 [
-"2026-11-12T10:26|JJerome87|Green Velvet",
-"spotify:track:4tYeJ03pfClYTXqhao6PJf"
-],
-[
 "2026-11-12T10:24|Lucy Dacus|I Don't Wanna Be Funny",
 "spotify:track:2VowanntnxJJOQEqt8DuhE"
 ],
@@ -3769,6 +3777,24 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-11-19T10:21|Waldeck|One Of These Days",
+"t": "2026-11-19T10:21:00+01:00",
+"artist": "Waldeck",
+"title": "One Of These Days"
+},
+{
+"id": "2026-11-19T10:18|Van Morrison|Brown Eyed Girl",
+"t": "2026-11-19T10:18:00+01:00",
+"artist": "Van Morrison",
+"title": "Brown Eyed Girl"
+},
+{
+"id": "2026-11-19T10:09|Kate Nash|Do Wah Doo",
+"t": "2026-11-19T10:09:00+01:00",
+"artist": "Kate Nash",
+"title": "Do Wah Doo"
+},
 {
 "id": "2026-11-19T10:05|Boy Harsher|Tough Luck (When You Don't Call)",
 "t": "2026-11-19T10:05:00+01:00",
@@ -9186,24 +9212,6 @@
 "t": "2026-11-12T10:32:00+01:00",
 "artist": "Deki Alem",
 "title": "Mr Man"
-},
-{
-"id": "2026-11-12T10:26|JJerome87|Green Velvet",
-"t": "2026-11-12T10:26:00+01:00",
-"artist": "JJerome87",
-"title": "Green Velvet"
-},
-{
-"id": "2026-11-12T10:24|Lucy Dacus|I Don't Wanna Be Funny",
-"t": "2026-11-12T10:24:00+01:00",
-"artist": "Lucy Dacus",
-"title": "I Don't Wanna Be Funny"
-},
-{
-"id": "2026-11-12T10:20|Texas|Halo",
-"t": "2026-11-12T10:20:00+01:00",
-"artist": "Texas",
-"title": "Halo"
 }
 ]
 }
