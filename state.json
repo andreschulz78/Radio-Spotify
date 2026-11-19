@@ -1,9 +1,9 @@
 {
-"updated": "2026-11-19T20:04:45.464874+01:00",
+"updated": "2026-11-19T20:16:45.465208+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
-"synced": "2026-11-19T19:52:45.464582+01:00",
+"synced": "2026-11-19T20:08:45.464989+01:00",
 "pruned": "2026-11-19",
 "calls": {
 "2026-11-12": 185,
@@ -13,12 +13,16 @@
 "2026-11-16": 163,
 "2026-11-17": 194,
 "2026-11-18": 180,
-"2026-11-19": 141
+"2026-11-19": 143
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAi8jNhOflyMxLtPISl2m5weXArnzWK",
+"snapshot": "AAAi81KVpmDEXaAlx8jlNLlaFagLqQYv",
 "playlist": [
+[
+"2026-11-19T19:55|Barenaked Ladies|Pinch Me",
+"spotify:track:2RQ3fWFZJJe4G5KkHEACww"
+],
 [
 "2026-11-19T19:44|Angela Aux|Schöne Replikantin",
 "spotify:track:4VoxbJMlN04xPOxS2gKXNl"
@@ -4117,6 +4121,12 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-11-19T20:06|The Killers|This Is Your Life",
+"t": "2026-11-19T20:06:00+01:00",
+"artist": "The Killers",
+"title": "This Is Your Life"
+},
 {
 "id": "2026-11-19T19:55|Barenaked Ladies|Pinch Me",
 "t": "2026-11-19T19:55:00+01:00",
@@ -9510,12 +9520,6 @@
 "t": "2026-11-12T20:22:00+01:00",
 "artist": "Sam Burton",
 "title": "I'm A Stranger"
-},
-{
-"id": "2026-11-12T20:05|Marmaduke Duke|Kid Gloves",
-"t": "2026-11-12T20:05:00+01:00",
-"artist": "Marmaduke Duke",
-"title": "Kid Gloves"
 }
 ]
 }
