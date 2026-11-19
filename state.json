@@ -1,9 +1,9 @@
 {
-"updated": "2026-11-19T14:26:23.762026+01:00",
+"updated": "2026-11-19T18:16:45.461688+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
-"synced": "2026-11-19T14:26:23.762026+01:00",
+"synced": "2026-11-19T18:16:45.461688+01:00",
 "pruned": "2026-11-19",
 "calls": {
 "2026-11-12": 185,
@@ -13,12 +13,108 @@
 "2026-11-16": 163,
 "2026-11-17": 194,
 "2026-11-18": 180,
-"2026-11-19": 96
+"2026-11-19": 101
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAi33bqOvpCkH6vi7U8N6nVbOuwd1Oz",
+"snapshot": "AAAi4G7Tcj+bHYRqXjxnpOM0kG4ezTxi",
 "playlist": [
+[
+"2026-11-19T18:06|Fontaines D.C. & ROSALIA|Where Is Gone?",
+"spotify:track:6ZH1yeWUf3Xp2XO0EZk91i"
+],
+[
+"2026-11-19T17:57|Peter Doherty & Frédéric Lo|You Can’t Keep It From Me Forever",
+"spotify:track:2l8j0MVvaz0bPvMRp9PTWz"
+],
+[
+"2026-11-19T17:51|Django Django|Headrush",
+"spotify:track:61rotfa63Y9gMHrd3AclMe"
+],
+[
+"2026-11-19T17:47|Beirut|Santa Fe",
+"spotify:track:2bxQP85JNU11CQV4KXCnau"
+],
+[
+"2026-11-19T17:38|Ramones|Pet Sematary",
+"spotify:track:07b5vArZtW08PuEqCw61Ei"
+],
+[
+"2026-11-19T17:34|A$AP Rocky|Punk Rocky",
+"spotify:track:5FSvy2wYKnurBi0Nq3wR9F"
+],
+[
+"2026-11-19T17:25|Bonaparte|KiOSKO",
+"spotify:track:5seYGZRYuD3oPMxryJdvOk"
+],
+[
+"2026-11-19T17:16|54 Ultra|Tell Me",
+"spotify:track:6iXIvHGsLMJ89TuW1S9E3C"
+],
+[
+"2026-11-19T17:12|Natalie Bergmann|White Oak (Kosta G. Remix)",
+"spotify:track:18PftHVAUSO5vTwdeRa7Lv"
+],
+[
+"2026-11-19T16:50|The Big Moon|F.O.R.E.V.E.R",
+"spotify:track:0UaPOdi1O83vr1oTXaGqgx"
+],
+[
+"2026-11-19T16:43|Nightbus|Angles Mortz",
+"spotify:track:5XvRng3X26Q3oGMEoFKsWo"
+],
+[
+"2026-11-19T16:32|Antony Szmierek|Seminal (Edit)",
+"spotify:track:3E4Tw3ilp8Ms4a5hHWsIxO"
+],
+[
+"2026-11-19T16:21|MGMT|Little Dark Age",
+"spotify:track:2Y0iGXY6m6immVb2ktbseM"
+],
+[
+"2026-11-19T16:08|The Pierces|You'll Be Mine",
+"spotify:track:6TpPwEz1YEPe7gCsXXQQFl"
+],
+[
+"2026-11-19T16:05|Joshua Idehen|Could Be Forever",
+"spotify:track:0ZUKth5xg7UM6Q73YhDq2w"
+],
+[
+"2026-11-19T15:32|Keshavara|Oracular",
+"spotify:track:41sGSIiPi1QAYaL6nUWSDg"
+],
+[
+"2026-11-19T15:24|Peter, Björn & John feat. Victoria|Young Folks",
+"spotify:track:4dyx5SzxPPaD8xQIid5Wjj"
+],
+[
+"2026-11-19T15:21|Nourished by Time|When The War Is Over",
+"spotify:track:6CSpmRlGT82RrGNJotD9gJ"
+],
+[
+"2026-11-19T15:18|Grim104|Monstera",
+"spotify:track:3rSiXUS27EJxisY62sEqmJ"
+],
+[
+"2026-11-19T15:08|Ex:Re|Radio Station",
+"spotify:track:2ixKxWKW6ejtIVr5gm00K7"
+],
+[
+"2026-11-19T14:50|Overmono feat. Ruthven|Gem Lingo (ovr now)",
+"spotify:track:6dSqM0tWJPlchpmGrEwC1c"
+],
+[
+"2026-11-19T14:43|Maribou State feat. Khruangbin|Feel Good",
+"spotify:track:6XH2zDNsbwv8rJhJJjA4gk"
+],
+[
+"2026-11-19T14:31|Balu Brigada|Backseat (Edit)",
+"spotify:track:7yT4NJt5rgmVoMJMGPULcj"
+],
+[
+"2026-11-19T14:24|New Order|Blue Monday (1988)",
+"spotify:track:6hHc7Pks7wtBIW8Z6A0iFq"
+],
 [
 "2026-11-19T14:19|Vampire Weekend|One (Blake's Got A New Face)",
 "spotify:track:1SqxV8oT8lKD583CW9JiOL"
@@ -3933,6 +4029,222 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-11-19T18:06|Fontaines D.C. & ROSALIA|Where Is Gone?",
+"t": "2026-11-19T18:06:00+01:00",
+"artist": "Fontaines D.C. & ROSALIA",
+"title": "Where Is Gone?"
+},
+{
+"id": "2026-11-19T17:57|Peter Doherty & Frédéric Lo|You Can’t Keep It From Me Forever",
+"t": "2026-11-19T17:57:00+01:00",
+"artist": "Peter Doherty & Frédéric Lo",
+"title": "You Can’t Keep It From Me Forever"
+},
+{
+"id": "2026-11-19T17:51|Django Django|Headrush",
+"t": "2026-11-19T17:51:00+01:00",
+"artist": "Django Django",
+"title": "Headrush"
+},
+{
+"id": "2026-11-19T17:47|Beirut|Santa Fe",
+"t": "2026-11-19T17:47:00+01:00",
+"artist": "Beirut",
+"title": "Santa Fe"
+},
+{
+"id": "2026-11-19T17:38|Ramones|Pet Sematary",
+"t": "2026-11-19T17:38:00+01:00",
+"artist": "Ramones",
+"title": "Pet Sematary"
+},
+{
+"id": "2026-11-19T17:34|A$AP Rocky|Punk Rocky",
+"t": "2026-11-19T17:34:00+01:00",
+"artist": "A$AP Rocky",
+"title": "Punk Rocky"
+},
+{
+"id": "2026-11-19T17:25|Bonaparte|KiOSKO",
+"t": "2026-11-19T17:25:00+01:00",
+"artist": "Bonaparte",
+"title": "KiOSKO"
+},
+{
+"id": "2026-11-19T17:16|54 Ultra|Tell Me",
+"t": "2026-11-19T17:16:00+01:00",
+"artist": "54 Ultra",
+"title": "Tell Me"
+},
+{
+"id": "2026-11-19T17:12|Natalie Bergmann|White Oak (Kosta G. Remix)",
+"t": "2026-11-19T17:12:00+01:00",
+"artist": "Natalie Bergmann",
+"title": "White Oak (Kosta G. Remix)"
+},
+{
+"id": "2026-11-19T17:06|Trentemøller feat. DíSA|Behind My Eyes",
+"t": "2026-11-19T17:06:00+01:00",
+"artist": "Trentemøller feat. DíSA",
+"title": "Behind My Eyes"
+},
+{
+"id": "2026-11-19T16:58|Ghost Woman|The End of a Gun",
+"t": "2026-11-19T16:58:00+01:00",
+"artist": "Ghost Woman",
+"title": "The End of a Gun"
+},
+{
+"id": "2026-11-19T16:50|The Big Moon|F.O.R.E.V.E.R",
+"t": "2026-11-19T16:50:00+01:00",
+"artist": "The Big Moon",
+"title": "F.O.R.E.V.E.R"
+},
+{
+"id": "2026-11-19T16:47|Superfunk feat. Ron Carroll|Lucky Star",
+"t": "2026-11-19T16:47:00+01:00",
+"artist": "Superfunk feat. Ron Carroll",
+"title": "Lucky Star"
+},
+{
+"id": "2026-11-19T16:43|Nightbus|Angles Mortz",
+"t": "2026-11-19T16:43:00+01:00",
+"artist": "Nightbus",
+"title": "Angles Mortz"
+},
+{
+"id": "2026-11-19T16:39|Mocky feat. Taylor Savvy|Catch A Moment In Time",
+"t": "2026-11-19T16:39:00+01:00",
+"artist": "Mocky feat. Taylor Savvy",
+"title": "Catch A Moment In Time"
+},
+{
+"id": "2026-11-19T16:32|Antony Szmierek|Seminal (Edit)",
+"t": "2026-11-19T16:32:00+01:00",
+"artist": "Antony Szmierek",
+"title": "Seminal (Edit)"
+},
+{
+"id": "2026-11-19T16:21|MGMT|Little Dark Age",
+"t": "2026-11-19T16:21:00+01:00",
+"artist": "MGMT",
+"title": "Little Dark Age"
+},
+{
+"id": "2026-11-19T16:16|Depeche Mode|Blasphemous Rumours",
+"t": "2026-11-19T16:16:00+01:00",
+"artist": "Depeche Mode",
+"title": "Blasphemous Rumours"
+},
+{
+"id": "2026-11-19T16:08|The Pierces|You'll Be Mine",
+"t": "2026-11-19T16:08:00+01:00",
+"artist": "The Pierces",
+"title": "You'll Be Mine"
+},
+{
+"id": "2026-11-19T16:05|Joshua Idehen|Could Be Forever",
+"t": "2026-11-19T16:05:00+01:00",
+"artist": "Joshua Idehen",
+"title": "Could Be Forever"
+},
+{
+"id": "2026-11-19T15:58|Godford|The Beast",
+"t": "2026-11-19T15:58:00+01:00",
+"artist": "Godford",
+"title": "The Beast"
+},
+{
+"id": "2026-11-19T15:53|Sharon Jones & The Dap-Kings|Little By Little",
+"t": "2026-11-19T15:53:00+01:00",
+"artist": "Sharon Jones & The Dap-Kings",
+"title": "Little By Little"
+},
+{
+"id": "2026-11-19T15:45|Ash|Shining Light (Radio Edit)",
+"t": "2026-11-19T15:45:00+01:00",
+"artist": "Ash",
+"title": "Shining Light (Radio Edit)"
+},
+{
+"id": "2026-11-19T15:32|Keshavara|Oracular",
+"t": "2026-11-19T15:32:00+01:00",
+"artist": "Keshavara",
+"title": "Oracular"
+},
+{
+"id": "2026-11-19T15:24|Peter, Björn & John feat. Victoria|Young Folks",
+"t": "2026-11-19T15:24:00+01:00",
+"artist": "Peter, Björn & John feat. Victoria",
+"title": "Young Folks"
+},
+{
+"id": "2026-11-19T15:21|Nourished by Time|When The War Is Over",
+"t": "2026-11-19T15:21:00+01:00",
+"artist": "Nourished by Time",
+"title": "When The War Is Over"
+},
+{
+"id": "2026-11-19T15:18|Grim104|Monstera",
+"t": "2026-11-19T15:18:00+01:00",
+"artist": "Grim104",
+"title": "Monstera"
+},
+{
+"id": "2026-11-19T15:08|Ex:Re|Radio Station",
+"t": "2026-11-19T15:08:00+01:00",
+"artist": "Ex:Re",
+"title": "Radio Station"
+},
+{
+"id": "2026-11-19T15:06|TV On The Radio|Dancing Choose",
+"t": "2026-11-19T15:06:00+01:00",
+"artist": "TV On The Radio",
+"title": "Dancing Choose"
+},
+{
+"id": "2026-11-19T14:56|Fleet Foxes|He Doesn't Know Why",
+"t": "2026-11-19T14:56:00+01:00",
+"artist": "Fleet Foxes",
+"title": "He Doesn't Know Why"
+},
+{
+"id": "2026-11-19T14:50|Overmono feat. Ruthven|Gem Lingo (ovr now)",
+"t": "2026-11-19T14:50:00+01:00",
+"artist": "Overmono feat. Ruthven",
+"title": "Gem Lingo (ovr now)"
+},
+{
+"id": "2026-11-19T14:47|Ladaniva|Margarita",
+"t": "2026-11-19T14:47:00+01:00",
+"artist": "Ladaniva",
+"title": "Margarita"
+},
+{
+"id": "2026-11-19T14:43|Maribou State feat. Khruangbin|Feel Good",
+"t": "2026-11-19T14:43:00+01:00",
+"artist": "Maribou State feat. Khruangbin",
+"title": "Feel Good"
+},
+{
+"id": "2026-11-19T14:39|Muse|Plug In Baby",
+"t": "2026-11-19T14:39:00+01:00",
+"artist": "Muse",
+"title": "Plug In Baby"
+},
+{
+"id": "2026-11-19T14:31|Balu Brigada|Backseat (Edit)",
+"t": "2026-11-19T14:31:00+01:00",
+"artist": "Balu Brigada",
+"title": "Backseat (Edit)"
+},
+{
+"id": "2026-11-19T14:24|New Order|Blue Monday (1988)",
+"t": "2026-11-19T14:24:00+01:00",
+"artist": "New Order",
+"title": "Blue Monday (1988)"
+},
 {
 "id": "2026-11-19T14:19|Vampire Weekend|One (Blake's Got A New Face)",
 "t": "2026-11-19T14:19:00+01:00",
@@ -9128,240 +9440,6 @@
 "t": "2026-11-12T18:19:00+01:00",
 "artist": "Nia Archives",
 "title": "Vertical"
-},
-{
-"id": "2026-11-12T18:09|Crystal Fighters|Champion Sound",
-"t": "2026-11-12T18:09:00+01:00",
-"artist": "Crystal Fighters",
-"title": "Champion Sound"
-},
-{
-"id": "2026-11-12T18:05|Gotye feat. Kimbra|Somebody That I Used To Know",
-"t": "2026-11-12T18:05:00+01:00",
-"artist": "Gotye feat. Kimbra",
-"title": "Somebody That I Used To Know"
-},
-{
-"id": "2026-11-12T17:57|Blur|Fool's Day",
-"t": "2026-11-12T17:57:00+01:00",
-"artist": "Blur",
-"title": "Fool's Day"
-},
-{
-"id": "2026-11-12T17:50|Benjamin Clementine|In Fact You Know You Gotto Go",
-"t": "2026-11-12T17:50:00+01:00",
-"artist": "Benjamin Clementine",
-"title": "In Fact You Know You Gotto Go"
-},
-{
-"id": "2026-11-12T17:46|XTC|Making Plans For Nigel",
-"t": "2026-11-12T17:46:00+01:00",
-"artist": "XTC",
-"title": "Making Plans For Nigel"
-},
-{
-"id": "2026-11-12T17:37|Lily Allen|Dallas Major",
-"t": "2026-11-12T17:37:00+01:00",
-"artist": "Lily Allen",
-"title": "Dallas Major"
-},
-{
-"id": "2026-11-12T17:34|TV On The Radio|Happy Idiot",
-"t": "2026-11-12T17:34:00+01:00",
-"artist": "TV On The Radio",
-"title": "Happy Idiot"
-},
-{
-"id": "2026-11-12T17:26|Bilderbuch|Bungalow",
-"t": "2026-11-12T17:26:00+01:00",
-"artist": "Bilderbuch",
-"title": "Bungalow"
-},
-{
-"id": "2026-11-12T17:16|Ocean Colour Scene|Riverboat Song",
-"t": "2026-11-12T17:16:00+01:00",
-"artist": "Ocean Colour Scene",
-"title": "Riverboat Song"
-},
-{
-"id": "2026-11-12T17:10|Ibeyi|Hurry Hurry",
-"t": "2026-11-12T17:10:00+01:00",
-"artist": "Ibeyi",
-"title": "Hurry Hurry"
-},
-{
-"id": "2026-11-12T17:06|MODERAT|Easy Prey (Edit)",
-"t": "2026-11-12T17:06:00+01:00",
-"artist": "MODERAT",
-"title": "Easy Prey (Edit)"
-},
-{
-"id": "2026-11-12T16:57|Black Marble|Jim Carol New Year",
-"t": "2026-11-12T16:57:00+01:00",
-"artist": "Black Marble",
-"title": "Jim Carol New Year"
-},
-{
-"id": "2026-11-12T16:51|Urge Overkill|Girl, You'll Be A Woman Soon",
-"t": "2026-11-12T16:51:00+01:00",
-"artist": "Urge Overkill",
-"title": "Girl, You'll Be A Woman Soon"
-},
-{
-"id": "2026-11-12T16:48|Sergio Torales feat. Der Assistent|Veo",
-"t": "2026-11-12T16:48:00+01:00",
-"artist": "Sergio Torales feat. Der Assistent",
-"title": "Veo"
-},
-{
-"id": "2026-11-12T16:44|Brazilian Girls|Don't Stop",
-"t": "2026-11-12T16:44:00+01:00",
-"artist": "Brazilian Girls",
-"title": "Don't Stop"
-},
-{
-"id": "2026-11-12T16:41|The Rodeo|L'hymne À La Moue",
-"t": "2026-11-12T16:41:00+01:00",
-"artist": "The Rodeo",
-"title": "L'hymne À La Moue"
-},
-{
-"id": "2026-11-12T16:33|Tame Impala|Dracula",
-"t": "2026-11-12T16:33:00+01:00",
-"artist": "Tame Impala",
-"title": "Dracula"
-},
-{
-"id": "2026-11-12T16:25|Anderson .Paak|Celebrate",
-"t": "2026-11-12T16:25:00+01:00",
-"artist": "Anderson .Paak",
-"title": "Celebrate"
-},
-{
-"id": "2026-11-12T16:20|Joy Division|Atmosphere",
-"t": "2026-11-12T16:20:00+01:00",
-"artist": "Joy Division",
-"title": "Atmosphere"
-},
-{
-"id": "2026-11-12T16:16|Hayley Williams|Simmer",
-"t": "2026-11-12T16:16:00+01:00",
-"artist": "Hayley Williams",
-"title": "Simmer"
-},
-{
-"id": "2026-11-12T16:08|Death Cab For Cutie|Pep Talk",
-"t": "2026-11-12T16:08:00+01:00",
-"artist": "Death Cab For Cutie",
-"title": "Pep Talk"
-},
-{
-"id": "2026-11-12T16:06|Junior Varsity|Bass Drum",
-"t": "2026-11-12T16:06:00+01:00",
-"artist": "Junior Varsity",
-"title": "Bass Drum"
-},
-{
-"id": "2026-11-12T15:57|The Beat|Twist And Crawl",
-"t": "2026-11-12T15:57:00+01:00",
-"artist": "The Beat",
-"title": "Twist And Crawl"
-},
-{
-"id": "2026-11-12T15:53|Santigold|I'm A Lady",
-"t": "2026-11-12T15:53:00+01:00",
-"artist": "Santigold",
-"title": "I'm A Lady"
-},
-{
-"id": "2026-11-12T15:51|Adriano Celentano|La pigiatura",
-"t": "2026-11-12T15:51:00+01:00",
-"artist": "Adriano Celentano",
-"title": "La pigiatura"
-},
-{
-"id": "2026-11-12T15:45|Eric B. & Rakim|Paid In Full (Cold Cut Mix)",
-"t": "2026-11-12T15:45:00+01:00",
-"artist": "Eric B. & Rakim",
-"title": "Paid In Full (Cold Cut Mix)"
-},
-{
-"id": "2026-11-12T15:32|Ibibio Sound Machine|Love",
-"t": "2026-11-12T15:32:00+01:00",
-"artist": "Ibibio Sound Machine",
-"title": "Love"
-},
-{
-"id": "2026-11-12T15:24|A$AP Rocky|Punk Rocky",
-"t": "2026-11-12T15:24:00+01:00",
-"artist": "A$AP Rocky",
-"title": "Punk Rocky"
-},
-{
-"id": "2026-11-12T15:21|Sparkling & COMA|It Won't Be Like This Forever",
-"t": "2026-11-12T15:21:00+01:00",
-"artist": "Sparkling & COMA",
-"title": "It Won't Be Like This Forever"
-},
-{
-"id": "2026-11-12T15:14|Link Wray & His Ray Men|Rumble",
-"t": "2026-11-12T15:14:00+01:00",
-"artist": "Link Wray & His Ray Men",
-"title": "Rumble"
-},
-{
-"id": "2026-11-12T15:06|Maximo Park|Girls Who Play Guitars",
-"t": "2026-11-12T15:06:00+01:00",
-"artist": "Maximo Park",
-"title": "Girls Who Play Guitars"
-},
-{
-"id": "2026-11-12T14:56|Simian Mobile Disco feat. Beth Ditto|Cruel Intentions",
-"t": "2026-11-12T14:56:00+01:00",
-"artist": "Simian Mobile Disco feat. Beth Ditto",
-"title": "Cruel Intentions"
-},
-{
-"id": "2026-11-12T14:50|Marianne Faithfull|The ballad of Lucy Jordan",
-"t": "2026-11-12T14:50:00+01:00",
-"artist": "Marianne Faithfull",
-"title": "The ballad of Lucy Jordan"
-},
-{
-"id": "2026-11-12T14:47|Kevin Morby|PBJ (Edit)",
-"t": "2026-11-12T14:47:00+01:00",
-"artist": "Kevin Morby",
-"title": "PBJ (Edit)"
-},
-{
-"id": "2026-11-12T14:42|Grace Cummings|I'm Not Crazy",
-"t": "2026-11-12T14:42:00+01:00",
-"artist": "Grace Cummings",
-"title": "I'm Not Crazy"
-},
-{
-"id": "2026-11-12T14:40|Soap & Skin|Creep",
-"t": "2026-11-12T14:40:00+01:00",
-"artist": "Soap & Skin",
-"title": "Creep"
-},
-{
-"id": "2026-11-12T14:34|KNTRL|Just Words",
-"t": "2026-11-12T14:34:00+01:00",
-"artist": "KNTRL",
-"title": "Just Words"
-},
-{
-"id": "2026-11-12T14:31|Gerry Cinnamon|Sometimes",
-"t": "2026-11-12T14:31:00+01:00",
-"artist": "Gerry Cinnamon",
-"title": "Sometimes"
-},
-{
-"id": "2026-11-12T14:28|Joshua Idehen|Could Be Forever",
-"t": "2026-11-12T14:28:00+01:00",
-"artist": "Joshua Idehen",
-"title": "Could Be Forever"
 }
 ]
 }
