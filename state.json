@@ -1,9 +1,9 @@
 {
-"updated": "2026-11-19T13:50:23.760917+01:00",
+"updated": "2026-11-19T14:02:23.761401+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
-"synced": "2026-11-19T13:38:23.760476+01:00",
+"synced": "2026-11-19T13:54:23.761062+01:00",
 "pruned": "2026-11-19",
 "calls": {
 "2026-11-12": 185,
@@ -13,12 +13,24 @@
 "2026-11-16": 163,
 "2026-11-17": 194,
 "2026-11-18": 180,
-"2026-11-19": 90
+"2026-11-19": 91
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAi3CgoGpqmieCkA+ja4phBgExaAbwC",
+"snapshot": "AAAi3Q5wlrUecNOh1lcLvsiIvbmX8JeP",
 "playlist": [
+[
+"2026-11-19T13:41|Etienne de Crécy|Prix Choc",
+"spotify:track:7Jt3KNk914D6t2T3pB49sb"
+],
+[
+"2026-11-19T13:38|Gabriels|Break It",
+"spotify:track:5WiVqnjVzB9tNXqeSKZgxH"
+],
+[
+"2026-11-19T13:33|K. Flay|Bad Things",
+"spotify:track:1W4pg6Inlhenk8RmU1h7xy"
+],
 [
 "2026-11-19T13:27|Interpol|Iron City",
 "spotify:track:7o9gwmscHBXh6sUEYkWQ4e"
@@ -3897,6 +3909,18 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-11-19T13:51|Ten Fé|Candidate",
+"t": "2026-11-19T13:51:00+01:00",
+"artist": "Ten Fé",
+"title": "Candidate"
+},
+{
+"id": "2026-11-19T13:47|Leon Bridges|Light The Way",
+"t": "2026-11-19T13:47:00+01:00",
+"artist": "Leon Bridges",
+"title": "Light The Way"
+},
 {
 "id": "2026-11-19T13:41|Etienne de Crécy|Prix Choc",
 "t": "2026-11-19T13:41:00+01:00",
@@ -9314,12 +9338,6 @@
 "t": "2026-11-12T14:05:00+01:00",
 "artist": "Courtney Barnett",
 "title": "Wonder"
-},
-{
-"id": "2026-11-12T13:56|Parov Stelar feat. Marvin Gaye|Keep On Dancing",
-"t": "2026-11-12T13:56:00+01:00",
-"artist": "Parov Stelar feat. Marvin Gaye",
-"title": "Keep On Dancing"
 }
 ]
 }
