@@ -1,9 +1,9 @@
 {
-"updated": "2026-11-19T13:14:23.759606+01:00",
+"updated": "2026-11-19T13:26:23.760097+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
-"synced": "2026-11-19T13:06:23.759374+01:00",
+"synced": "2026-11-19T13:22:23.759946+01:00",
 "pruned": "2026-11-19",
 "calls": {
 "2026-11-12": 185,
@@ -13,12 +13,20 @@
 "2026-11-16": 163,
 "2026-11-17": 194,
 "2026-11-18": 180,
-"2026-11-19": 83
+"2026-11-19": 87
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAi2f4bBAaMLX6TGfWdk5ri+RmOR04y",
+"snapshot": "AAAi20wQVo3960VcHs73c3B8COlzRHTI",
 "playlist": [
+[
+"2026-11-19T13:17|Acid Pauli & Kingdom Molongi|Mystic Meltdown",
+"spotify:track:5dOUcTtJ4MkY582UjGfk3D"
+],
+[
+"2026-11-19T13:06|Widowspeak|Everything Is Simple",
+"spotify:track:62MNXdByBrfrtTScpAT0bq"
+],
 [
 "2026-11-19T12:55|Oh Pep!|Your Nail And Your Hammer",
 "spotify:track:0epAKyJiYam3th0HCxe3oc"
@@ -3568,10 +3576,6 @@
 "spotify:track:0f5NKP9rzNRYWpI4LhjC5p"
 ],
 [
-"2026-11-12T13:22|Canto Diáspora|Las flores",
-"spotify:track:4isjCHvIsulP431I33uFbW"
-],
-[
 "2026-11-12T13:08|Natalie Bergmann|White Oak (Kosta G. Remix)",
 "spotify:track:18PftHVAUSO5vTwdeRa7Lv"
 ],
@@ -3889,6 +3893,12 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-11-19T13:17|Acid Pauli & Kingdom Molongi|Mystic Meltdown",
+"t": "2026-11-19T13:17:00+01:00",
+"artist": "Acid Pauli & Kingdom Molongi",
+"title": "Mystic Meltdown"
+},
 {
 "id": "2026-11-19T13:06|Widowspeak|Everything Is Simple",
 "t": "2026-11-19T13:06:00+01:00",
@@ -9312,12 +9322,6 @@
 "t": "2026-11-12T13:31:00+01:00",
 "artist": "Stereo MC's",
 "title": "Deep Down & Dirty"
-},
-{
-"id": "2026-11-12T13:22|Canto Diáspora|Las flores",
-"t": "2026-11-12T13:22:00+01:00",
-"artist": "Canto Diáspora",
-"title": "Las flores"
 }
 ]
 }
