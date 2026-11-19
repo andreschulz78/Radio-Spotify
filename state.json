@@ -1,9 +1,9 @@
 {
-"updated": "2026-11-19T09:14:23.751786+01:00",
+"updated": "2026-11-19T09:26:23.752167+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
-"synced": "2026-11-19T09:06:23.751535+01:00",
+"synced": "2026-11-19T09:22:23.752049+01:00",
 "pruned": "2026-11-19",
 "calls": {
 "2026-11-12": 185,
@@ -13,12 +13,16 @@
 "2026-11-16": 163,
 "2026-11-17": 194,
 "2026-11-18": 180,
-"2026-11-19": 35
+"2026-11-19": 37
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAix9NbhQ8j8escx1HR7l+cn1XwhQCU",
+"snapshot": "AAAiyLZHwu/z2HiEbKHrbTVa4/JLYrvM",
 "playlist": [
+[
+"2026-11-19T09:08|Arlo Parks|Heaven",
+"spotify:track:4zgFh0ZXkVcyXpJbteYviU"
+],
 [
 "2026-11-19T08:59|Brakes|Ring A Ding Ding",
 "spotify:track:6mPdibGsi4ajbXMFLDTag2"
@@ -3737,6 +3741,18 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-11-19T09:18|The Pointer Sisters|Hot Together",
+"t": "2026-11-19T09:18:00+01:00",
+"artist": "The Pointer Sisters",
+"title": "Hot Together"
+},
+{
+"id": "2026-11-19T09:08|Arlo Parks|Heaven",
+"t": "2026-11-19T09:08:00+01:00",
+"artist": "Arlo Parks",
+"title": "Heaven"
+},
 {
 "id": "2026-11-19T08:59|Brakes|Ring A Ding Ding",
 "t": "2026-11-19T08:59:00+01:00",
@@ -9166,24 +9182,6 @@
 "t": "2026-11-12T09:34:00+01:00",
 "artist": "Baxter Dury",
 "title": "Schadenfreude"
-},
-{
-"id": "2026-11-12T09:26|Madison Cunningham|Golden Gate (On And On)",
-"t": "2026-11-12T09:26:00+01:00",
-"artist": "Madison Cunningham",
-"title": "Golden Gate (On And On)"
-},
-{
-"id": "2026-11-12T09:19|Genesis Owusu|Human Again",
-"t": "2026-11-12T09:19:00+01:00",
-"artist": "Genesis Owusu",
-"title": "Human Again"
-},
-{
-"id": "2026-11-12T09:15|Boy Harsher|Tough Luck (When You Don't Call)",
-"t": "2026-11-12T09:15:00+01:00",
-"artist": "Boy Harsher",
-"title": "Tough Luck (When You Don't Call)"
 }
 ]
 }
