@@ -1,9 +1,9 @@
 {
-"updated": "2026-11-19T12:38:23.758451+01:00",
+"updated": "2026-11-19T12:50:23.758813+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
-"synced": "2026-11-19T12:34:23.758346+01:00",
+"synced": "2026-11-19T12:50:23.758813+01:00",
 "pruned": "2026-11-19",
 "calls": {
 "2026-11-12": 185,
@@ -13,12 +13,32 @@
 "2026-11-16": 163,
 "2026-11-17": 194,
 "2026-11-18": 180,
-"2026-11-19": 76
+"2026-11-19": 78
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAi141IQlIxpI4Nwufg1iqSzBy+QMjd",
+"snapshot": "AAAi2K1t8oVkE7PxpkOfljfaYx/dgUc+",
 "playlist": [
+[
+"2026-11-19T12:45|Linka Moja|Men R Dogs",
+"spotify:track:7AgfOLYDB7GrgIWg60PBw7"
+],
+[
+"2026-11-19T12:40|Black Sea Dahu|Ruth (Edit)",
+"spotify:track:1RI2qxSeqmZNdA3arPMOTQ"
+],
+[
+"2026-11-19T12:37|Steve Lacy|Show You Me",
+"spotify:track:4f50UTC41M2Ah5itifSGE5"
+],
+[
+"2026-11-19T12:33|Arcade Fire|Put Your Money On Me",
+"spotify:track:0SaEmR2rdtfsZawPjMYkWg"
+],
+[
+"2026-11-19T12:29|Aurora|All My Demons Greeting Me As A Friend",
+"spotify:track:5O1tikYb6HKrP5cxSQv0iV"
+],
 [
 "2026-11-19T12:24|New Found Land|The Hunter",
 "spotify:track:0oXXK8tmP0VdVe91pJWwr5"
@@ -3857,6 +3877,30 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-11-19T12:45|Linka Moja|Men R Dogs",
+"t": "2026-11-19T12:45:00+01:00",
+"artist": "Linka Moja",
+"title": "Men R Dogs"
+},
+{
+"id": "2026-11-19T12:40|Black Sea Dahu|Ruth (Edit)",
+"t": "2026-11-19T12:40:00+01:00",
+"artist": "Black Sea Dahu",
+"title": "Ruth (Edit)"
+},
+{
+"id": "2026-11-19T12:37|Steve Lacy|Show You Me",
+"t": "2026-11-19T12:37:00+01:00",
+"artist": "Steve Lacy",
+"title": "Show You Me"
+},
+{
+"id": "2026-11-19T12:33|Arcade Fire|Put Your Money On Me",
+"t": "2026-11-19T12:33:00+01:00",
+"artist": "Arcade Fire",
+"title": "Put Your Money On Me"
+},
 {
 "id": "2026-11-19T12:29|Aurora|All My Demons Greeting Me As A Friend",
 "t": "2026-11-19T12:29:00+01:00",
@@ -9262,30 +9306,6 @@
 "t": "2026-11-12T12:51:00+01:00",
 "artist": "RÜFÜS DU SOL",
 "title": "Like An Animal"
-},
-{
-"id": "2026-11-12T12:47|St. Michael Front|Once",
-"t": "2026-11-12T12:47:00+01:00",
-"artist": "St. Michael Front",
-"title": "Once"
-},
-{
-"id": "2026-11-12T12:44|Charlotte OC|Freedom",
-"t": "2026-11-12T12:44:00+01:00",
-"artist": "Charlotte OC",
-"title": "Freedom"
-},
-{
-"id": "2026-11-12T12:42|The Undertones|Teenage Kicks",
-"t": "2026-11-12T12:42:00+01:00",
-"artist": "The Undertones",
-"title": "Teenage Kicks"
-},
-{
-"id": "2026-11-12T12:39|Leon Bridges|Talk it over",
-"t": "2026-11-12T12:39:00+01:00",
-"artist": "Leon Bridges",
-"title": "Talk it over"
 }
 ]
 }
