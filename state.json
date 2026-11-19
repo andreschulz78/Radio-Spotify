@@ -1,9 +1,9 @@
 {
-"updated": "2026-11-19T09:50:23.752935+01:00",
+"updated": "2026-11-19T10:02:23.753348+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
-"synced": "2026-11-19T09:38:23.752600+01:00",
+"synced": "2026-11-19T09:54:23.753035+01:00",
 "pruned": "2026-11-19",
 "calls": {
 "2026-11-12": 185,
@@ -13,12 +13,24 @@
 "2026-11-16": 163,
 "2026-11-17": 194,
 "2026-11-18": 180,
-"2026-11-19": 41
+"2026-11-19": 44
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAiySY0+ZyZ5Jitri2tsRmK4iwt0g2N",
+"snapshot": "AAAiygQOSvHRWZIHnD/4loThLcmTJAjb",
 "playlist": [
+[
+"2026-11-19T09:46|Dekker|Pick It Up, Put It Back",
+"spotify:track:0LhuToBNSlvYc4IwVJpYWH"
+],
+[
+"2026-11-19T09:43|The Boo Radleys|Wake Up Boo!",
+"spotify:track:15RgdXlKJQTNMsR4hAzIGh"
+],
+[
+"2026-11-19T09:34|Alexis Taylor feat. Lola Kirke|Out Of Phase",
+"spotify:track:2Heb851vgYM6Vz1JIQnF3G"
+],
 [
 "2026-11-19T09:18|The Pointer Sisters|Hot Together",
 "spotify:track:2KWhl75cqqKWEqTIHv1Zsd"
@@ -3745,6 +3757,18 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-11-19T09:57|The Black Keys|Lonely Boy",
+"t": "2026-11-19T09:57:00+01:00",
+"artist": "The Black Keys",
+"title": "Lonely Boy"
+},
+{
+"id": "2026-11-19T09:49|Eddie Vedder|Hard sun",
+"t": "2026-11-19T09:49:00+01:00",
+"artist": "Eddie Vedder",
+"title": "Hard sun"
+},
 {
 "id": "2026-11-19T09:46|Dekker|Pick It Up, Put It Back",
 "t": "2026-11-19T09:46:00+01:00",
@@ -9174,12 +9198,6 @@
 "t": "2026-11-12T10:04:00+01:00",
 "artist": "Keshavara",
 "title": "Moondram Sevi"
-},
-{
-"id": "2026-11-12T09:55|Bran Van 3000|Love Cliché",
-"t": "2026-11-12T09:55:00+01:00",
-"artist": "Bran Van 3000",
-"title": "Love Cliché"
 }
 ]
 }
