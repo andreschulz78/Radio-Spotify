@@ -1,9 +1,9 @@
 {
-"updated": "2026-11-19T20:52:45.466218+01:00",
+"updated": "2026-11-19T21:04:45.466619+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
-"synced": "2026-11-19T20:40:45.465881+01:00",
+"synced": "2026-11-19T20:56:45.466355+01:00",
 "pruned": "2026-11-19",
 "calls": {
 "2026-11-12": 185,
@@ -13,12 +13,20 @@
 "2026-11-16": 163,
 "2026-11-17": 194,
 "2026-11-18": 180,
-"2026-11-19": 147
+"2026-11-19": 148
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAi9ZEN2+odMtTnpyqxS+ZHd9w6sLtz",
+"snapshot": "AAAi9gwh06x8JZMnfnHaPQxzoQcsvDlJ",
 "playlist": [
+[
+"2026-11-19T20:43|Kalle Zeier|Asteroid",
+"spotify:track:2YlLRqftdy9FFJfIJW5IYf"
+],
+[
+"2026-11-19T20:40|Jungle|Someday, Somewhere",
+"spotify:track:20FqWsyuUaQTU5tk4nP6eN"
+],
 [
 "2026-11-19T20:29|Sassy 009 feat. Blood Orange|Tell Me (Jam City Remix) (Edit)",
 "spotify:track:1pDiRrLro0tlhsPSexB3Zv"
@@ -9510,12 +9518,6 @@
 "t": "2026-11-13T05:03:00+01:00",
 "artist": "Serebii",
 "title": "Even In The Quiet"
-},
-{
-"id": "2026-11-12T20:53|Friedberg|Goodwife",
-"t": "2026-11-12T20:53:00+01:00",
-"artist": "Friedberg",
-"title": "Goodwife"
 }
 ]
 }
