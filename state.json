@@ -1,9 +1,9 @@
 {
-"updated": "2026-11-19T09:26:23.752167+01:00",
+"updated": "2026-11-19T09:38:23.752600+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
-"synced": "2026-11-19T09:22:23.752049+01:00",
+"synced": "2026-11-19T09:38:23.752600+01:00",
 "pruned": "2026-11-19",
 "calls": {
 "2026-11-12": 185,
@@ -13,12 +13,16 @@
 "2026-11-16": 163,
 "2026-11-17": 194,
 "2026-11-18": 180,
-"2026-11-19": 37
+"2026-11-19": 38
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAiyLZHwu/z2HiEbKHrbTVa4/JLYrvM",
+"snapshot": "AAAiySY0+ZyZ5Jitri2tsRmK4iwt0g2N",
 "playlist": [
+[
+"2026-11-19T09:18|The Pointer Sisters|Hot Together",
+"spotify:track:2KWhl75cqqKWEqTIHv1Zsd"
+],
 [
 "2026-11-19T09:08|Arlo Parks|Heaven",
 "spotify:track:4zgFh0ZXkVcyXpJbteYviU"
@@ -9176,12 +9180,6 @@
 "t": "2026-11-12T09:42:00+01:00",
 "artist": "The Amazing Snakeheads",
 "title": "Here It Comes Again"
-},
-{
-"id": "2026-11-12T09:34|Baxter Dury|Schadenfreude",
-"t": "2026-11-12T09:34:00+01:00",
-"artist": "Baxter Dury",
-"title": "Schadenfreude"
 }
 ]
 }
