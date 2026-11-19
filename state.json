@@ -1,9 +1,9 @@
 {
-"updated": "2026-11-19T05:37:42.678194+01:00",
+"updated": "2026-11-19T05:49:42.678592+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
-"synced": "2026-11-19T05:29:42.677971+01:00",
+"synced": "2026-11-19T05:45:42.678467+01:00",
 "pruned": "2026-11-19",
 "calls": {
 "2026-11-12": 185,
@@ -13,12 +13,28 @@
 "2026-11-16": 163,
 "2026-11-17": 194,
 "2026-11-18": 180,
-"2026-11-19": 2
+"2026-11-19": 6
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAiuNdZCqflCDfapvrW2c3QhKSnSeM3",
+"snapshot": "AAAiuabsI4xiNjRJS4XlFicXPLOLzl0k",
 "playlist": [
+[
+"2026-11-19T05:41|MorMor feat. Celeste|Like Heaven",
+"spotify:track:5pZGuhprytXKB7QRMul3jq"
+],
+[
+"2026-11-19T05:36|Frank Turner|Four Simple Words",
+"spotify:track:6aW2iwJxBurjRMkbcKuSRi"
+],
+[
+"2026-11-19T05:30|Phoenix|If I Ever Feel Better",
+"spotify:track:3AA8xNhDC0MpqwkGX3EP5V"
+],
+[
+"2026-11-19T05:25|Ann Peebles|I Can't Stand The Rain",
+"spotify:track:0CcL4kSHKIEwF3IW0BGgb6"
+],
 [
 "2026-11-19T05:19|The Dandy Warhols|Not If You Were The Last Junkie On Earth",
 "spotify:track:0BfPhHh0Gf1WR1hQgIYqen"
@@ -3617,6 +3633,18 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-11-19T05:41|MorMor feat. Celeste|Like Heaven",
+"t": "2026-11-19T05:41:00+01:00",
+"artist": "MorMor feat. Celeste",
+"title": "Like Heaven"
+},
+{
+"id": "2026-11-19T05:36|Frank Turner|Four Simple Words",
+"t": "2026-11-19T05:36:00+01:00",
+"artist": "Frank Turner",
+"title": "Four Simple Words"
+},
 {
 "id": "2026-11-19T05:30|Phoenix|If I Ever Feel Better",
 "t": "2026-11-19T05:30:00+01:00",
@@ -9052,18 +9080,6 @@
 "t": "2026-11-12T05:50:00+01:00",
 "artist": "Richard Ashcroft",
 "title": "Music Is Power"
-},
-{
-"id": "2026-11-12T05:46|Kelela|the bridge (feat. PinkPantheress)",
-"t": "2026-11-12T05:46:00+01:00",
-"artist": "Kelela",
-"title": "the bridge (feat. PinkPantheress)"
-},
-{
-"id": "2026-11-12T05:40|The Kooks|Ooh La",
-"t": "2026-11-12T05:40:00+01:00",
-"artist": "The Kooks",
-"title": "Ooh La"
 }
 ]
 }
