@@ -1,9 +1,9 @@
 {
-"updated": "2026-11-19T19:16:45.463515+01:00",
+"updated": "2026-11-19T19:28:45.463860+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
-"synced": "2026-11-19T19:04:45.463111+01:00",
+"synced": "2026-11-19T19:20:45.463633+01:00",
 "pruned": "2026-11-19",
 "calls": {
 "2026-11-12": 185,
@@ -13,12 +13,16 @@
 "2026-11-16": 163,
 "2026-11-17": 194,
 "2026-11-18": 180,
-"2026-11-19": 136
+"2026-11-19": 138
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAi7/owwmapRCBtGlMWp4SwyZqc7qHl",
+"snapshot": "AAAi8Cu0eqeP0KDlz9N3Zpa9OggEnl69",
 "playlist": [
+[
+"2026-11-19T19:06|Cass McCombs|Peace",
+"spotify:track:0HJuwBpU9bpH3Zt5r1PtNS"
+],
 [
 "2026-11-19T18:56|Sergio Torales feat. Der Assistent|Veo",
 "spotify:track:6k1tMxv0y7hJJsQMMfnE6p"
@@ -9504,12 +9508,6 @@
 "t": "2026-11-12T19:31:00+01:00",
 "artist": "Steve Lacy",
 "title": "Show You Me"
-},
-{
-"id": "2026-11-12T19:27|Alex Turner|Hiding Tonight",
-"t": "2026-11-12T19:27:00+01:00",
-"artist": "Alex Turner",
-"title": "Hiding Tonight"
 }
 ]
 }
