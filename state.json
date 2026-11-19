@@ -1,9 +1,9 @@
 {
-"updated": "2026-11-19T12:26:23.758094+01:00",
+"updated": "2026-11-19T12:38:23.758451+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
-"synced": "2026-11-19T12:18:23.757792+01:00",
+"synced": "2026-11-19T12:34:23.758346+01:00",
 "pruned": "2026-11-19",
 "calls": {
 "2026-11-12": 185,
@@ -13,12 +13,24 @@
 "2026-11-16": 163,
 "2026-11-17": 194,
 "2026-11-18": 180,
-"2026-11-19": 75
+"2026-11-19": 76
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAi1nmysCiDnUha5Ya3+OjeoLgmankP",
+"snapshot": "AAAi141IQlIxpI4Nwufg1iqSzBy+QMjd",
 "playlist": [
+[
+"2026-11-19T12:24|New Found Land|The Hunter",
+"spotify:track:0oXXK8tmP0VdVe91pJWwr5"
+],
+[
+"2026-11-19T12:20|Andrew Collberg|Hi Hopes (Edit)",
+"spotify:track:1kjdZI17F6ONf5iluLS0in"
+],
+[
+"2026-11-19T12:16|Tito & Tarantula|After Dark (Terranova Remix)",
+"spotify:track:6CvoLme4xu7hBmZi79rvR2"
+],
 [
 "2026-11-19T12:10|Ayele|Fractured (Radio Edit)",
 "spotify:track:5EGnOBL2qoUNard3Oaq5Hc"
@@ -3845,6 +3857,18 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-11-19T12:29|Aurora|All My Demons Greeting Me As A Friend",
+"t": "2026-11-19T12:29:00+01:00",
+"artist": "Aurora",
+"title": "All My Demons Greeting Me As A Friend"
+},
+{
+"id": "2026-11-19T12:24|New Found Land|The Hunter",
+"t": "2026-11-19T12:24:00+01:00",
+"artist": "New Found Land",
+"title": "The Hunter"
+},
 {
 "id": "2026-11-19T12:20|Andrew Collberg|Hi Hopes (Edit)",
 "t": "2026-11-19T12:20:00+01:00",
@@ -9262,24 +9286,6 @@
 "t": "2026-11-12T12:39:00+01:00",
 "artist": "Leon Bridges",
 "title": "Talk it over"
-},
-{
-"id": "2026-11-12T12:35|Elbow|Grounds For Divorce",
-"t": "2026-11-12T12:35:00+01:00",
-"artist": "Elbow",
-"title": "Grounds For Divorce"
-},
-{
-"id": "2026-11-12T12:32|Mount Kimbie|Fishbrain (Radio Edit)",
-"t": "2026-11-12T12:32:00+01:00",
-"artist": "Mount Kimbie",
-"title": "Fishbrain (Radio Edit)"
-},
-{
-"id": "2026-11-12T12:28|Lola Young|From Down Here (Radio Edit)",
-"t": "2026-11-12T12:28:00+01:00",
-"artist": "Lola Young",
-"title": "From Down Here (Radio Edit)"
 }
 ]
 }
