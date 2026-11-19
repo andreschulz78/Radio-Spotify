@@ -1,9 +1,9 @@
 {
-"updated": "2026-11-19T06:49:42.680479+01:00",
+"updated": "2026-11-19T08:50:23.751056+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
-"synced": "2026-11-19T06:49:42.680479+01:00",
+"synced": "2026-11-19T08:50:23.751056+01:00",
 "pruned": "2026-11-19",
 "calls": {
 "2026-11-12": 185,
@@ -13,12 +13,64 @@
 "2026-11-16": 163,
 "2026-11-17": 194,
 "2026-11-18": 180,
-"2026-11-19": 18
+"2026-11-19": 22
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAiv1FcOkgAYO4jR6gmP/JLTQmHNH3I",
+"snapshot": "AAAiwN5AyxsMtmVFIlCPf9vS/D1QeAh4",
 "playlist": [
+[
+"2026-11-19T08:46|Automatic|Shadowplay",
+"spotify:track:0pT1m2UpNBliUb6W7S7YzA"
+],
+[
+"2026-11-19T08:35|Albert Hammond Jr.|Far Away Truths",
+"spotify:track:3dJCbcLcqMKJVZ9Vd390K3"
+],
+[
+"2026-11-19T08:26|Sparkling & COMA|It Won't Be Like This Forever",
+"spotify:track:1w6NksiUfe5WNa5wZAJXYO"
+],
+[
+"2026-11-19T08:19|Edie Brickell & New Bohemians|What I Am",
+"spotify:track:6hHUiDe461VUoTHnsplRYs"
+],
+[
+"2026-11-19T08:15|Death Cab For Cutie|Pep Talk",
+"spotify:track:3ra7fDLqfUHBWBL702fOAn"
+],
+[
+"2026-11-19T08:07|Dawes|When My Time Comes",
+"spotify:track:2naZ9Xeo6zI4qLLIk4KFTw"
+],
+[
+"2026-11-19T07:51|Vince Staples|Tulsa, OK",
+"spotify:track:4lyK8sT0dLpxSBv14wtVet"
+],
+[
+"2026-11-19T07:43|Ibeyi|Hurry Hurry",
+"spotify:track:4BGA7VW330Eu1kaFNi98cG"
+],
+[
+"2026-11-19T07:24|Meshell Ndegeocello feat. Cat Power|Don’t You Want Me",
+"spotify:track:5sbCqST9M4Q1sRSJM6L6oT"
+],
+[
+"2026-11-19T07:11|Kaktus Einarsson feat. John Grant|Follow",
+"spotify:track:0bbPqdrMN94XmIlBQS21B3"
+],
+[
+"2026-11-19T07:06|Bel Cobain|Am I Dumb",
+"spotify:track:1sIVgEvTlxQ67GPZREOahZ"
+],
+[
+"2026-11-19T06:49|UCHE YARA|Hello Hello",
+"spotify:track:3hadpAb0vS5uYSrfidLaDr"
+],
+[
+"2026-11-19T06:45|Yazmin Lacey|Summer Haze",
+"spotify:track:465QjZo1z1JAuLTTC7DnuK"
+],
 [
 "2026-11-19T06:36|Yeah Yeah Yeahs|Down Boy",
 "spotify:track:60dhkkPtuzMGOdYgLJIpQD"
@@ -3661,6 +3713,114 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-11-19T08:46|Automatic|Shadowplay",
+"t": "2026-11-19T08:46:00+01:00",
+"artist": "Automatic",
+"title": "Shadowplay"
+},
+{
+"id": "2026-11-19T08:35|Albert Hammond Jr.|Far Away Truths",
+"t": "2026-11-19T08:35:00+01:00",
+"artist": "Albert Hammond Jr.",
+"title": "Far Away Truths"
+},
+{
+"id": "2026-11-19T08:26|Sparkling & COMA|It Won't Be Like This Forever",
+"t": "2026-11-19T08:26:00+01:00",
+"artist": "Sparkling & COMA",
+"title": "It Won't Be Like This Forever"
+},
+{
+"id": "2026-11-19T08:19|Edie Brickell & New Bohemians|What I Am",
+"t": "2026-11-19T08:19:00+01:00",
+"artist": "Edie Brickell & New Bohemians",
+"title": "What I Am"
+},
+{
+"id": "2026-11-19T08:15|Death Cab For Cutie|Pep Talk",
+"t": "2026-11-19T08:15:00+01:00",
+"artist": "Death Cab For Cutie",
+"title": "Pep Talk"
+},
+{
+"id": "2026-11-19T08:07|Dawes|When My Time Comes",
+"t": "2026-11-19T08:07:00+01:00",
+"artist": "Dawes",
+"title": "When My Time Comes"
+},
+{
+"id": "2026-11-19T07:56|Florence + The Machine|Hunger",
+"t": "2026-11-19T07:56:00+01:00",
+"artist": "Florence + The Machine",
+"title": "Hunger"
+},
+{
+"id": "2026-11-19T07:51|Vince Staples|Tulsa, OK",
+"t": "2026-11-19T07:51:00+01:00",
+"artist": "Vince Staples",
+"title": "Tulsa, OK"
+},
+{
+"id": "2026-11-19T07:48|El Perro Del Mar|God Knows (You Gotta Give To Get)",
+"t": "2026-11-19T07:48:00+01:00",
+"artist": "El Perro Del Mar",
+"title": "God Knows (You Gotta Give To Get)"
+},
+{
+"id": "2026-11-19T07:43|Ibeyi|Hurry Hurry",
+"t": "2026-11-19T07:43:00+01:00",
+"artist": "Ibeyi",
+"title": "Hurry Hurry"
+},
+{
+"id": "2026-11-19T07:34|Car Seat Headrest|Martin",
+"t": "2026-11-19T07:34:00+01:00",
+"artist": "Car Seat Headrest",
+"title": "Martin"
+},
+{
+"id": "2026-11-19T07:24|Meshell Ndegeocello feat. Cat Power|Don’t You Want Me",
+"t": "2026-11-19T07:24:00+01:00",
+"artist": "Meshell Ndegeocello feat. Cat Power",
+"title": "Don’t You Want Me"
+},
+{
+"id": "2026-11-19T07:15|Moloko|The Time Is Now",
+"t": "2026-11-19T07:15:00+01:00",
+"artist": "Moloko",
+"title": "The Time Is Now"
+},
+{
+"id": "2026-11-19T07:11|Kaktus Einarsson feat. John Grant|Follow",
+"t": "2026-11-19T07:11:00+01:00",
+"artist": "Kaktus Einarsson feat. John Grant",
+"title": "Follow"
+},
+{
+"id": "2026-11-19T07:06|Bel Cobain|Am I Dumb",
+"t": "2026-11-19T07:06:00+01:00",
+"artist": "Bel Cobain",
+"title": "Am I Dumb"
+},
+{
+"id": "2026-11-19T06:56|Roots Manuva|Don't Breathe Out",
+"t": "2026-11-19T06:56:00+01:00",
+"artist": "Roots Manuva",
+"title": "Don't Breathe Out"
+},
+{
+"id": "2026-11-19T06:49|UCHE YARA|Hello Hello",
+"t": "2026-11-19T06:49:00+01:00",
+"artist": "UCHE YARA",
+"title": "Hello Hello"
+},
+{
+"id": "2026-11-19T06:45|Yazmin Lacey|Summer Haze",
+"t": "2026-11-19T06:45:00+01:00",
+"artist": "Yazmin Lacey",
+"title": "Summer Haze"
+},
 {
 "id": "2026-11-19T06:36|Yeah Yeah Yeahs|Down Boy",
 "t": "2026-11-19T06:36:00+01:00",
@@ -9000,102 +9160,6 @@
 "t": "2026-11-12T08:56:00+01:00",
 "artist": "Editors",
 "title": "The Racing Rats"
-},
-{
-"id": "2026-11-12T08:49|Psychic TV|Godstar",
-"t": "2026-11-12T08:49:00+01:00",
-"artist": "Psychic TV",
-"title": "Godstar"
-},
-{
-"id": "2026-11-12T08:44|Linka Moja|Men R Dogs",
-"t": "2026-11-12T08:44:00+01:00",
-"artist": "Linka Moja",
-"title": "Men R Dogs"
-},
-{
-"id": "2026-11-12T08:34|Sam Vance-Law|Gayby",
-"t": "2026-11-12T08:34:00+01:00",
-"artist": "Sam Vance-Law",
-"title": "Gayby"
-},
-{
-"id": "2026-11-12T08:25|Tuvaband|Im Safely Passing in Time",
-"t": "2026-11-12T08:25:00+01:00",
-"artist": "Tuvaband",
-"title": "Im Safely Passing in Time"
-},
-{
-"id": "2026-11-12T08:18|Manic Street Preachers|You Stole The Sun From My Heart",
-"t": "2026-11-12T08:18:00+01:00",
-"artist": "Manic Street Preachers",
-"title": "You Stole The Sun From My Heart"
-},
-{
-"id": "2026-11-12T08:13|Kaktus Einarsson feat. John Grant|Follow",
-"t": "2026-11-12T08:13:00+01:00",
-"artist": "Kaktus Einarsson feat. John Grant",
-"title": "Follow"
-},
-{
-"id": "2026-11-12T08:06|The Temper Trap|Fader",
-"t": "2026-11-12T08:06:00+01:00",
-"artist": "The Temper Trap",
-"title": "Fader"
-},
-{
-"id": "2026-11-12T07:56|AnnenMayKantereit|Pocahontas",
-"t": "2026-11-12T07:56:00+01:00",
-"artist": "AnnenMayKantereit",
-"title": "Pocahontas"
-},
-{
-"id": "2026-11-12T07:49|Antony Szmierek|Chalk (Radio Edit)",
-"t": "2026-11-12T07:49:00+01:00",
-"artist": "Antony Szmierek",
-"title": "Chalk (Radio Edit)"
-},
-{
-"id": "2026-11-12T07:43|Interpol|Iron City",
-"t": "2026-11-12T07:43:00+01:00",
-"artist": "Interpol",
-"title": "Iron City"
-},
-{
-"id": "2026-11-12T07:35|Egozi|Fela",
-"t": "2026-11-12T07:35:00+01:00",
-"artist": "Egozi",
-"title": "Fela"
-},
-{
-"id": "2026-11-12T07:27|New Found Land|The Hunter",
-"t": "2026-11-12T07:27:00+01:00",
-"artist": "New Found Land",
-"title": "The Hunter"
-},
-{
-"id": "2026-11-12T07:19|Travis|Re-offender",
-"t": "2026-11-12T07:19:00+01:00",
-"artist": "Travis",
-"title": "Re-offender"
-},
-{
-"id": "2026-11-12T07:13|Wir sind Helden|Von hier an blind",
-"t": "2026-11-12T07:13:00+01:00",
-"artist": "Wir sind Helden",
-"title": "Von hier an blind"
-},
-{
-"id": "2026-11-12T07:06|Moonlight Breakfast|If Not Now, Then When?!",
-"t": "2026-11-12T07:06:00+01:00",
-"artist": "Moonlight Breakfast",
-"title": "If Not Now, Then When?!"
-},
-{
-"id": "2026-11-12T06:56|The Knife|Pass This On",
-"t": "2026-11-12T06:56:00+01:00",
-"artist": "The Knife",
-"title": "Pass This On"
 }
 ]
 }
