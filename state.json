@@ -1,9 +1,9 @@
 {
-"updated": "2026-11-19T13:02:23.759181+01:00",
+"updated": "2026-11-19T13:14:23.759606+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
-"synced": "2026-11-19T12:50:23.758813+01:00",
+"synced": "2026-11-19T13:06:23.759374+01:00",
 "pruned": "2026-11-19",
 "calls": {
 "2026-11-12": 185,
@@ -13,12 +13,24 @@
 "2026-11-16": 163,
 "2026-11-17": 194,
 "2026-11-18": 180,
-"2026-11-19": 79
+"2026-11-19": 83
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAi2K1t8oVkE7PxpkOfljfaYx/dgUc+",
+"snapshot": "AAAi2f4bBAaMLX6TGfWdk5ri+RmOR04y",
 "playlist": [
+[
+"2026-11-19T12:55|Oh Pep!|Your Nail And Your Hammer",
+"spotify:track:0epAKyJiYam3th0HCxe3oc"
+],
+[
+"2026-11-19T12:50|Boys' Shorts|New Era (Vocal Radio Mix)",
+"spotify:track:0QntpiMlL01xKeAEW3UriQ"
+],
+[
+"2026-11-19T12:47|Donna Summer|I Feel Love",
+"spotify:track:7B7lf3sIze5VR2WuYttn18"
+],
 [
 "2026-11-19T12:45|Linka Moja|Men R Dogs",
 "spotify:track:7AgfOLYDB7GrgIWg60PBw7"
@@ -3877,6 +3889,18 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-11-19T13:06|Widowspeak|Everything Is Simple",
+"t": "2026-11-19T13:06:00+01:00",
+"artist": "Widowspeak",
+"title": "Everything Is Simple"
+},
+{
+"id": "2026-11-19T12:55|Oh Pep!|Your Nail And Your Hammer",
+"t": "2026-11-19T12:55:00+01:00",
+"artist": "Oh Pep!",
+"title": "Your Nail And Your Hammer"
+},
 {
 "id": "2026-11-19T12:50|Boys' Shorts|New Era (Vocal Radio Mix)",
 "t": "2026-11-19T12:50:00+01:00",
@@ -9294,18 +9318,6 @@
 "t": "2026-11-12T13:22:00+01:00",
 "artist": "Canto Diáspora",
 "title": "Las flores"
-},
-{
-"id": "2026-11-12T13:08|Natalie Bergmann|White Oak (Kosta G. Remix)",
-"t": "2026-11-12T13:08:00+01:00",
-"artist": "Natalie Bergmann",
-"title": "White Oak (Kosta G. Remix)"
-},
-{
-"id": "2026-11-12T13:05|Biig Piig|Liquorice",
-"t": "2026-11-12T13:05:00+01:00",
-"artist": "Biig Piig",
-"title": "Liquorice"
 }
 ]
 }
