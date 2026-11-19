@@ -1,9 +1,9 @@
 {
-"updated": "2026-11-19T19:40:45.464227+01:00",
+"updated": "2026-11-19T19:52:45.464582+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
-"synced": "2026-11-19T19:36:45.464109+01:00",
+"synced": "2026-11-19T19:52:45.464582+01:00",
 "pruned": "2026-11-19",
 "calls": {
 "2026-11-12": 185,
@@ -13,12 +13,16 @@
 "2026-11-16": 163,
 "2026-11-17": 194,
 "2026-11-18": 180,
-"2026-11-19": 139
+"2026-11-19": 141
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAi8R0QHsaMp1mLPDbuvxUFmCw1YJU/",
+"snapshot": "AAAi8jNhOflyMxLtPISl2m5weXArnzWK",
 "playlist": [
+[
+"2026-11-19T19:44|Angela Aux|Schöne Replikantin",
+"spotify:track:4VoxbJMlN04xPOxS2gKXNl"
+],
 [
 "2026-11-19T19:24|Alewya|Maktoub",
 "spotify:track:56DYNKo3QHkakqOUkWi3vl"
@@ -4113,6 +4117,12 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-11-19T19:44|Angela Aux|Schöne Replikantin",
+"t": "2026-11-19T19:44:00+01:00",
+"artist": "Angela Aux",
+"title": "Schöne Replikantin"
+},
 {
 "id": "2026-11-19T19:24|Alewya|Maktoub",
 "t": "2026-11-19T19:24:00+01:00",
@@ -9506,12 +9516,6 @@
 "t": "2026-11-12T19:56:00+01:00",
 "artist": "Alex Hepburn",
 "title": "I Believe"
-},
-{
-"id": "2026-11-12T19:47|Calexico|Ballad Of Cable Hogue",
-"t": "2026-11-12T19:47:00+01:00",
-"artist": "Calexico",
-"title": "Ballad Of Cable Hogue"
 }
 ]
 }
