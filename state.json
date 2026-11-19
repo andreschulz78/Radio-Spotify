@@ -1,9 +1,9 @@
 {
-"updated": "2026-11-19T11:50:23.756940+01:00",
+"updated": "2026-11-19T12:02:23.757305+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
-"synced": "2026-11-19T11:46:23.756786+01:00",
+"synced": "2026-11-19T12:02:23.757305+01:00",
 "pruned": "2026-11-19",
 "calls": {
 "2026-11-12": 185,
@@ -13,12 +13,16 @@
 "2026-11-16": 163,
 "2026-11-17": 194,
 "2026-11-18": 180,
-"2026-11-19": 68
+"2026-11-19": 72
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAi08jlHayagIzkZfIHsnD2edYv+ITA",
+"snapshot": "AAAi1ONqphvc1V9eQAAxhfRPNQuTEQzf",
 "playlist": [
+[
+"2026-11-19T11:50|Chet Faker|Low",
+"spotify:track:0A3KdCoiyXXJmMTZaMDIYP"
+],
 [
 "2026-11-19T11:43|J.Bernardt|Love Is On My Mind",
 "spotify:track:4LuP3veDBkqnyLQvgDQpJb"
@@ -3833,6 +3837,12 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-11-19T11:50|Chet Faker|Low",
+"t": "2026-11-19T11:50:00+01:00",
+"artist": "Chet Faker",
+"title": "Low"
+},
 {
 "id": "2026-11-19T11:46|Totally Enormous Extinct Dinosaurs|The Distance (Edit)",
 "t": "2026-11-19T11:46:00+01:00",
@@ -9256,18 +9266,6 @@
 "t": "2026-11-12T12:07:00+01:00",
 "artist": "Overmono feat. Ruthven",
 "title": "Gem Lingo (ovr now)"
-},
-{
-"id": "2026-11-12T11:58|Bilderbuch|Frisbeee",
-"t": "2026-11-12T11:58:00+01:00",
-"artist": "Bilderbuch",
-"title": "Frisbeee"
-},
-{
-"id": "2026-11-12T11:51|Dream Boat|Real!",
-"t": "2026-11-12T11:51:00+01:00",
-"artist": "Dream Boat",
-"title": "Real!"
 }
 ]
 }
