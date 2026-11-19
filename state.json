@@ -1,9 +1,9 @@
 {
-"updated": "2026-11-19T06:13:42.679342+01:00",
+"updated": "2026-11-19T06:25:42.679729+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
-"synced": "2026-11-19T06:01:42.679015+01:00",
+"synced": "2026-11-19T06:17:42.679469+01:00",
 "pruned": "2026-11-19",
 "calls": {
 "2026-11-12": 185,
@@ -13,12 +13,20 @@
 "2026-11-16": 163,
 "2026-11-17": 194,
 "2026-11-18": 180,
-"2026-11-19": 9
+"2026-11-19": 12
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAiuvYSuzhVKyuNKTD3pkHfbjOW53wd",
+"snapshot": "AAAiu9oHCIPWzviQhgUKvJKNpjCZ4x8F",
 "playlist": [
+[
+"2026-11-19T06:06|1-800 Girls feat. Art School Girlfriend|sometimes",
+"spotify:track:4akb3UnPEbDpUBc8JdQ5ED"
+],
+[
+"2026-11-19T05:56|Kings Of Leon|Pyro",
+"spotify:track:0umDVf77ygI5RiVp9OvNDj"
+],
 [
 "2026-11-19T05:52|Ibibio Sound Machine|Love",
 "spotify:track:0JGa4KrhqriWUuPcni3I8D"
@@ -3641,6 +3649,18 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-11-19T06:18|Propellerheads feat. Shirley Bassey|History Repeating",
+"t": "2026-11-19T06:18:00+01:00",
+"artist": "Propellerheads feat. Shirley Bassey",
+"title": "History Repeating"
+},
+{
+"id": "2026-11-19T06:14|Fuffifufzich|New Era",
+"t": "2026-11-19T06:14:00+01:00",
+"artist": "Fuffifufzich",
+"title": "New Era"
+},
 {
 "id": "2026-11-19T06:06|1-800 Girls feat. Art School Girlfriend|sometimes",
 "t": "2026-11-19T06:06:00+01:00",
@@ -9076,18 +9096,6 @@
 "t": "2026-11-12T06:33:00+01:00",
 "artist": "Kutiman & Dekel",
 "title": "Everybody Needs to Be"
-},
-{
-"id": "2026-11-12T06:23|The Drums feat. Mareux|It Didn't Matter",
-"t": "2026-11-12T06:23:00+01:00",
-"artist": "The Drums feat. Mareux",
-"title": "It Didn't Matter"
-},
-{
-"id": "2026-11-12T06:16|Band Of Skulls|We're Alive",
-"t": "2026-11-12T06:16:00+01:00",
-"artist": "Band Of Skulls",
-"title": "We're Alive"
 }
 ]
 }
