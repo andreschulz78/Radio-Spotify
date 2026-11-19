@@ -1,9 +1,9 @@
 {
-"updated": "2026-11-19T18:28:45.462026+01:00",
+"updated": "2026-11-19T18:40:45.462381+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
-"synced": "2026-11-19T18:16:45.461688+01:00",
+"synced": "2026-11-19T18:32:45.462140+01:00",
 "pruned": "2026-11-19",
 "calls": {
 "2026-11-12": 185,
@@ -13,12 +13,20 @@
 "2026-11-16": 163,
 "2026-11-17": 194,
 "2026-11-18": 180,
-"2026-11-19": 111
+"2026-11-19": 128
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAi4G7Tcj+bHYRqXjxnpOM0kG4ezTxi",
+"snapshot": "AAAi6xiUfpcE/ozm6eMy8+wOJALTsWYH",
 "playlist": [
+[
+"2026-11-19T18:23|Holybones And Hak Baker|Englishman",
+"spotify:track:2JUuTZGYhFValMxODAuhue"
+],
+[
+"2026-11-19T18:17|Monkey Safari|Shelter (Radio-Edit)",
+"spotify:track:6zsGbLCYfowCehwxHdpHlG"
+],
 [
 "2026-11-19T18:06|Fontaines D.C. & ROSALIA|Where Is Gone?",
 "spotify:track:6ZH1yeWUf3Xp2XO0EZk91i"
@@ -56,12 +64,28 @@
 "spotify:track:18PftHVAUSO5vTwdeRa7Lv"
 ],
 [
+"2026-11-19T17:06|Trentemøller feat. DíSA|Behind My Eyes",
+"spotify:track:65b9l4I5PVpXzX3Pjk1Vpy"
+],
+[
+"2026-11-19T16:58|Ghost Woman|The End of a Gun",
+"spotify:track:0cow9NyrQyJvaFxmnWGyQq"
+],
+[
 "2026-11-19T16:50|The Big Moon|F.O.R.E.V.E.R",
 "spotify:track:0UaPOdi1O83vr1oTXaGqgx"
 ],
 [
+"2026-11-19T16:47|Superfunk feat. Ron Carroll|Lucky Star",
+"spotify:track:18nfehYgwp7UvlshiRP5jD"
+],
+[
 "2026-11-19T16:43|Nightbus|Angles Mortz",
 "spotify:track:5XvRng3X26Q3oGMEoFKsWo"
+],
+[
+"2026-11-19T16:39|Mocky feat. Taylor Savvy|Catch A Moment In Time",
+"spotify:track:5zhMoDrnVa0b1F7JrfpM4u"
 ],
 [
 "2026-11-19T16:32|Antony Szmierek|Seminal (Edit)",
@@ -72,12 +96,28 @@
 "spotify:track:2Y0iGXY6m6immVb2ktbseM"
 ],
 [
+"2026-11-19T16:16|Depeche Mode|Blasphemous Rumours",
+"spotify:track:7oQX82XgUBDhSbpMSksG12"
+],
+[
 "2026-11-19T16:08|The Pierces|You'll Be Mine",
 "spotify:track:6TpPwEz1YEPe7gCsXXQQFl"
 ],
 [
 "2026-11-19T16:05|Joshua Idehen|Could Be Forever",
 "spotify:track:0ZUKth5xg7UM6Q73YhDq2w"
+],
+[
+"2026-11-19T15:58|Godford|The Beast",
+"spotify:track:4TcgJozSkcBjOugERDLmZD"
+],
+[
+"2026-11-19T15:53|Sharon Jones & The Dap-Kings|Little By Little",
+"spotify:track:2OpwPyGcyy84QI1rnw0lg7"
+],
+[
+"2026-11-19T15:45|Ash|Shining Light (Radio Edit)",
+"spotify:track:2MrYOZLu1RTdeJbju0yOhF"
 ],
 [
 "2026-11-19T15:32|Keshavara|Oracular",
@@ -98,6 +138,14 @@
 [
 "2026-11-19T15:08|Ex:Re|Radio Station",
 "spotify:track:2ixKxWKW6ejtIVr5gm00K7"
+],
+[
+"2026-11-19T15:06|TV On The Radio|Dancing Choose",
+"spotify:track:00ljAov4PVg8oQSGpNgGbD"
+],
+[
+"2026-11-19T14:56|Fleet Foxes|He Doesn't Know Why",
+"spotify:track:4FlNj8oEuikVspfVWzMZVz"
 ],
 [
 "2026-11-19T14:50|Overmono feat. Ruthven|Gem Lingo (ovr now)",
@@ -3512,10 +3560,6 @@
 "spotify:track:4YUBcBSUIXfCNNFAaWQcyG"
 ],
 [
-"2026-11-12T18:32|Anderson .Paak & Cordae|A Good Day",
-"spotify:track:4CrnExkcZkg6Aek113hAWl"
-],
-[
 "2026-11-12T18:24|The Streets|Has It Come To This",
 "spotify:track:35zEswqAFI1D41cmoBXOFK"
 ],
@@ -4029,6 +4073,18 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-11-19T18:34|AGASSI|The Whole Shebang",
+"t": "2026-11-19T18:34:00+01:00",
+"artist": "AGASSI",
+"title": "The Whole Shebang"
+},
+{
+"id": "2026-11-19T18:23|Holybones And Hak Baker|Englishman",
+"t": "2026-11-19T18:23:00+01:00",
+"artist": "Holybones And Hak Baker",
+"title": "Englishman"
+},
 {
 "id": "2026-11-19T18:17|Monkey Safari|Shelter (Radio-Edit)",
 "t": "2026-11-19T18:17:00+01:00",
@@ -9422,18 +9478,6 @@
 "t": "2026-11-12T18:41:00+01:00",
 "artist": "Die Sterne",
 "title": "Du musst gar nix"
-},
-{
-"id": "2026-11-12T18:35|Passion Mango|Bloody Eyes",
-"t": "2026-11-12T18:35:00+01:00",
-"artist": "Passion Mango",
-"title": "Bloody Eyes"
-},
-{
-"id": "2026-11-12T18:32|Anderson .Paak & Cordae|A Good Day",
-"t": "2026-11-12T18:32:00+01:00",
-"artist": "Anderson .Paak & Cordae",
-"title": "A Good Day"
 }
 ]
 }
