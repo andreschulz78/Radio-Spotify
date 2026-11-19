@@ -1,5 +1,5 @@
 {
-"updated": "2026-11-19T20:40:45.465881+01:00",
+"updated": "2026-11-19T20:52:45.466218+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
@@ -13,7 +13,7 @@
 "2026-11-16": 163,
 "2026-11-17": 194,
 "2026-11-18": 180,
-"2026-11-19": 146
+"2026-11-19": 147
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
@@ -4129,6 +4129,18 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-11-19T20:43|Kalle Zeier|Asteroid",
+"t": "2026-11-19T20:43:00+01:00",
+"artist": "Kalle Zeier",
+"title": "Asteroid"
+},
+{
+"id": "2026-11-19T20:40|Jungle|Someday, Somewhere",
+"t": "2026-11-19T20:40:00+01:00",
+"artist": "Jungle",
+"title": "Someday, Somewhere"
+},
 {
 "id": "2026-11-19T20:29|Sassy 009 feat. Blood Orange|Tell Me (Jam City Remix) (Edit)",
 "t": "2026-11-19T20:29:00+01:00",
@@ -9504,18 +9516,6 @@
 "t": "2026-11-12T20:53:00+01:00",
 "artist": "Friedberg",
 "title": "Goodwife"
-},
-{
-"id": "2026-11-12T20:43|Poliça|Chain My Name",
-"t": "2026-11-12T20:43:00+01:00",
-"artist": "Poliça",
-"title": "Chain My Name"
-},
-{
-"id": "2026-11-12T20:41|Lener|Keine Zeit",
-"t": "2026-11-12T20:41:00+01:00",
-"artist": "Lener",
-"title": "Keine Zeit"
 }
 ]
 }
