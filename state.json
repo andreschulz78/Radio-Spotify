@@ -1,9 +1,9 @@
 {
-"updated": "2026-11-19T09:02:23.751399+01:00",
+"updated": "2026-11-19T09:14:23.751786+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
-"synced": "2026-11-19T08:50:23.751056+01:00",
+"synced": "2026-11-19T09:06:23.751535+01:00",
 "pruned": "2026-11-19",
 "calls": {
 "2026-11-12": 185,
@@ -13,12 +13,20 @@
 "2026-11-16": 163,
 "2026-11-17": 194,
 "2026-11-18": 180,
-"2026-11-19": 27
+"2026-11-19": 35
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAiwN5AyxsMtmVFIlCPf9vS/D1QeAh4",
+"snapshot": "AAAix9NbhQ8j8escx1HR7l+cn1XwhQCU",
 "playlist": [
+[
+"2026-11-19T08:59|Brakes|Ring A Ding Ding",
+"spotify:track:6mPdibGsi4ajbXMFLDTag2"
+],
+[
+"2026-11-19T08:53|Passion Mango|Bloody Eyes",
+"spotify:track:4YUBcBSUIXfCNNFAaWQcyG"
+],
 [
 "2026-11-19T08:46|Automatic|Shadowplay",
 "spotify:track:0pT1m2UpNBliUb6W7S7YzA"
@@ -44,16 +52,32 @@
 "spotify:track:2naZ9Xeo6zI4qLLIk4KFTw"
 ],
 [
+"2026-11-19T07:56|Florence + The Machine|Hunger",
+"spotify:track:6HJcuxVgYjxcYDnPG0ystc"
+],
+[
 "2026-11-19T07:51|Vince Staples|Tulsa, OK",
 "spotify:track:4lyK8sT0dLpxSBv14wtVet"
+],
+[
+"2026-11-19T07:48|El Perro Del Mar|God Knows (You Gotta Give To Get)",
+"spotify:track:426fkd1Ld1iaa5OGXH0g5v"
 ],
 [
 "2026-11-19T07:43|Ibeyi|Hurry Hurry",
 "spotify:track:4BGA7VW330Eu1kaFNi98cG"
 ],
 [
+"2026-11-19T07:34|Car Seat Headrest|Martin",
+"spotify:track:4sedpIHFDSBtEx8h546oll"
+],
+[
 "2026-11-19T07:24|Meshell Ndegeocello feat. Cat Power|Don’t You Want Me",
 "spotify:track:5sbCqST9M4Q1sRSJM6L6oT"
+],
+[
+"2026-11-19T07:15|Moloko|The Time Is Now",
+"spotify:track:3tuLL88krXBbkE8rjPWrRs"
 ],
 [
 "2026-11-19T07:11|Kaktus Einarsson feat. John Grant|Follow",
@@ -62,6 +86,10 @@
 [
 "2026-11-19T07:06|Bel Cobain|Am I Dumb",
 "spotify:track:1sIVgEvTlxQ67GPZREOahZ"
+],
+[
+"2026-11-19T06:56|Roots Manuva|Don't Breathe Out",
+"spotify:track:3NgYpToPTgIW1qEoWBoMib"
 ],
 [
 "2026-11-19T06:49|UCHE YARA|Hello Hello",
@@ -3568,10 +3596,6 @@
 "spotify:track:109AVLNWp2BnTXTzF4j6XE"
 ],
 [
-"2026-11-12T09:06|Sandra Isabel|Scherben",
-"spotify:track:08EqzaIXwVBF7bkaSNpPaz"
-],
-[
 "2026-11-12T08:56|Editors|The Racing Rats",
 "spotify:track:1VCxGwTx1F4I7hvMJPV2ip"
 ],
@@ -3713,6 +3737,12 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-11-19T08:59|Brakes|Ring A Ding Ding",
+"t": "2026-11-19T08:59:00+01:00",
+"artist": "Brakes",
+"title": "Ring A Ding Ding"
+},
 {
 "id": "2026-11-19T08:53|Passion Mango|Bloody Eyes",
 "t": "2026-11-19T08:53:00+01:00",
@@ -9154,12 +9184,6 @@
 "t": "2026-11-12T09:15:00+01:00",
 "artist": "Boy Harsher",
 "title": "Tough Luck (When You Don't Call)"
-},
-{
-"id": "2026-11-12T09:06|Sandra Isabel|Scherben",
-"t": "2026-11-12T09:06:00+01:00",
-"artist": "Sandra Isabel",
-"title": "Scherben"
 }
 ]
 }
