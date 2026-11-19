@@ -1,9 +1,9 @@
 {
-"updated": "2026-11-19T11:38:23.756510+01:00",
+"updated": "2026-11-19T11:50:23.756940+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
-"synced": "2026-11-19T11:30:23.756300+01:00",
+"synced": "2026-11-19T11:46:23.756786+01:00",
 "pruned": "2026-11-19",
 "calls": {
 "2026-11-12": 185,
@@ -13,12 +13,32 @@
 "2026-11-16": 163,
 "2026-11-17": 194,
 "2026-11-18": 180,
-"2026-11-19": 65
+"2026-11-19": 68
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAi0q9pVgShpNW3Gu6J7ikeeGZgIjhN",
+"snapshot": "AAAi08jlHayagIzkZfIHsnD2edYv+ITA",
 "playlist": [
+[
+"2026-11-19T11:43|J.Bernardt|Love Is On My Mind",
+"spotify:track:4LuP3veDBkqnyLQvgDQpJb"
+],
+[
+"2026-11-19T11:39|Freedom Fry|She Fell In Love On The Dance Floor",
+"spotify:track:22uuH9uHRSdS2y2zvS5uEt"
+],
+[
+"2026-11-19T11:34|Nia Archives|Vertical",
+"spotify:track:0ecQazzKkndVD8Ry9Orp9Q"
+],
+[
+"2026-11-19T11:31|Kaiser Chiefs|Never Miss A Beat",
+"spotify:track:0bXhjlgUddDlJzHOeVM4Tq"
+],
+[
+"2026-11-19T11:27|Tikhet|Burndowner",
+"spotify:track:76iRkapw7dHIlJhSoy7PCv"
+],
 [
 "2026-11-19T11:22|Ideal|Monotonie",
 "spotify:track:0pbz8TUuSPhG4poXauYUAI"
@@ -3813,6 +3833,30 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-11-19T11:46|Totally Enormous Extinct Dinosaurs|The Distance (Edit)",
+"t": "2026-11-19T11:46:00+01:00",
+"artist": "Totally Enormous Extinct Dinosaurs",
+"title": "The Distance (Edit)"
+},
+{
+"id": "2026-11-19T11:43|J.Bernardt|Love Is On My Mind",
+"t": "2026-11-19T11:43:00+01:00",
+"artist": "J.Bernardt",
+"title": "Love Is On My Mind"
+},
+{
+"id": "2026-11-19T11:39|Freedom Fry|She Fell In Love On The Dance Floor",
+"t": "2026-11-19T11:39:00+01:00",
+"artist": "Freedom Fry",
+"title": "She Fell In Love On The Dance Floor"
+},
+{
+"id": "2026-11-19T11:34|Nia Archives|Vertical",
+"t": "2026-11-19T11:34:00+01:00",
+"artist": "Nia Archives",
+"title": "Vertical"
+},
 {
 "id": "2026-11-19T11:31|Kaiser Chiefs|Never Miss A Beat",
 "t": "2026-11-19T11:31:00+01:00",
@@ -9224,24 +9268,6 @@
 "t": "2026-11-12T11:51:00+01:00",
 "artist": "Dream Boat",
 "title": "Real!"
-},
-{
-"id": "2026-11-12T11:48|Sun Cutter|Don't Fail Me Now",
-"t": "2026-11-12T11:48:00+01:00",
-"artist": "Sun Cutter",
-"title": "Don't Fail Me Now"
-},
-{
-"id": "2026-11-12T11:44|Yard Act|You're Gonna Need A Little Music",
-"t": "2026-11-12T11:44:00+01:00",
-"artist": "Yard Act",
-"title": "You're Gonna Need A Little Music"
-},
-{
-"id": "2026-11-12T11:39|Madonna|Danceteria",
-"t": "2026-11-12T11:39:00+01:00",
-"artist": "Madonna",
-"title": "Danceteria"
 }
 ]
 }
