@@ -1,9 +1,9 @@
 {
-"updated": "2026-11-19T06:25:42.679729+01:00",
+"updated": "2026-11-19T06:37:42.680106+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
-"synced": "2026-11-19T06:17:42.679469+01:00",
+"synced": "2026-11-19T06:33:42.679976+01:00",
 "pruned": "2026-11-19",
 "calls": {
 "2026-11-12": 185,
@@ -13,12 +13,24 @@
 "2026-11-16": 163,
 "2026-11-17": 194,
 "2026-11-18": 180,
-"2026-11-19": 12
+"2026-11-19": 16
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAiu9oHCIPWzviQhgUKvJKNpjCZ4x8F",
+"snapshot": "AAAivlO8Ni3EDwZKwZFNHKJdcKqeJJdW",
 "playlist": [
+[
+"2026-11-19T06:25|The Streets|You Are Not The Voice In Your Head",
+"spotify:track:6As25xy6XmVb0Lv72z314I"
+],
+[
+"2026-11-19T06:18|Propellerheads feat. Shirley Bassey|History Repeating",
+"spotify:track:2L6LJwUnZWa1nhvjmxBH2B"
+],
+[
+"2026-11-19T06:14|Fuffifufzich|New Era",
+"spotify:track:0sF1TJMDGYxKvu9pp1JQkQ"
+],
 [
 "2026-11-19T06:06|1-800 Girls feat. Art School Girlfriend|sometimes",
 "spotify:track:4akb3UnPEbDpUBc8JdQ5ED"
@@ -3584,10 +3596,6 @@
 "spotify:track:4mIC3DsUIoLz8V2TpWbQhT"
 ],
 [
-"2026-11-12T06:33|Kutiman & Dekel|Everybody Needs to Be",
-"spotify:track:57nR701tskrQisI9GZJ9oq"
-],
-[
 "2026-11-12T06:23|The Drums feat. Mareux|It Didn't Matter",
 "spotify:track:10kxTiNUTo4nlEbH1EzoX1"
 ],
@@ -3649,6 +3657,12 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-11-19T06:25|The Streets|You Are Not The Voice In Your Head",
+"t": "2026-11-19T06:25:00+01:00",
+"artist": "The Streets",
+"title": "You Are Not The Voice In Your Head"
+},
 {
 "id": "2026-11-19T06:18|Propellerheads feat. Shirley Bassey|History Repeating",
 "t": "2026-11-19T06:18:00+01:00",
@@ -9084,18 +9098,6 @@
 "t": "2026-11-12T06:45:00+01:00",
 "artist": "Amy Winehouse",
 "title": "Just Friends"
-},
-{
-"id": "2026-11-12T06:37|Soap & Skin|Wonder",
-"t": "2026-11-12T06:37:00+01:00",
-"artist": "Soap & Skin",
-"title": "Wonder"
-},
-{
-"id": "2026-11-12T06:33|Kutiman & Dekel|Everybody Needs to Be",
-"t": "2026-11-12T06:33:00+01:00",
-"artist": "Kutiman & Dekel",
-"title": "Everybody Needs to Be"
 }
 ]
 }
