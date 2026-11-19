@@ -1,9 +1,9 @@
 {
-"updated": "2026-11-19T10:38:23.754343+01:00",
+"updated": "2026-11-19T10:50:23.754658+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
-"synced": "2026-11-19T10:26:23.754046+01:00",
+"synced": "2026-11-19T10:42:23.754465+01:00",
 "pruned": "2026-11-19",
 "calls": {
 "2026-11-12": 185,
@@ -13,12 +13,28 @@
 "2026-11-16": 163,
 "2026-11-17": 194,
 "2026-11-18": 180,
-"2026-11-19": 54
+"2026-11-19": 55
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAizpE8kNmpbiNQofzQ2JGJxH7WDZvj",
+"snapshot": "AAAiz8rMpD+Wys9eis+tk0+HzZMwq19i",
 "playlist": [
+[
+"2026-11-19T10:36|Jamie T|Tallahassee",
+"spotify:track:3Kwdvrz5PTUpAObYKNPlz0"
+],
+[
+"2026-11-19T10:33|Pamela.|Better than Before",
+"spotify:track:30ewsn0jSF9Jme7Altrz9X"
+],
+[
+"2026-11-19T10:28|Texas|Inner Smile",
+"spotify:track:0bN78ecTh4bb2hGt4BSzN4"
+],
+[
+"2026-11-19T10:24|Flora Hibberd|Bowling Ball",
+"spotify:track:2Bqy2DIYw0DXkZj8gHTg2p"
+],
 [
 "2026-11-19T10:21|Waldeck|One Of These Days",
 "spotify:track:37wmHUvJl1XFdwcXADvDSs"
@@ -3777,6 +3793,12 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-11-19T10:36|Jamie T|Tallahassee",
+"t": "2026-11-19T10:36:00+01:00",
+"artist": "Jamie T",
+"title": "Tallahassee"
+},
 {
 "id": "2026-11-19T10:33|Pamela.|Better than Before",
 "t": "2026-11-19T10:33:00+01:00",
@@ -9206,18 +9228,6 @@
 "t": "2026-11-12T10:55:00+01:00",
 "artist": "LA Priest",
 "title": "Rayon"
-},
-{
-"id": "2026-11-12T10:49|Frankie Valli|Can't Take My Eyes Off You",
-"t": "2026-11-12T10:49:00+01:00",
-"artist": "Frankie Valli",
-"title": "Can't Take My Eyes Off You"
-},
-{
-"id": "2026-11-12T10:45|Beach Baby|U R",
-"t": "2026-11-12T10:45:00+01:00",
-"artist": "Beach Baby",
-"title": "U R"
 }
 ]
 }
