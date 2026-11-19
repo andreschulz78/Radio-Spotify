@@ -1,9 +1,9 @@
 {
-"updated": "2026-11-19T13:26:23.760097+01:00",
+"updated": "2026-11-19T13:38:23.760476+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
-"synced": "2026-11-19T13:22:23.759946+01:00",
+"synced": "2026-11-19T13:38:23.760476+01:00",
 "pruned": "2026-11-19",
 "calls": {
 "2026-11-12": 185,
@@ -13,12 +13,16 @@
 "2026-11-16": 163,
 "2026-11-17": 194,
 "2026-11-18": 180,
-"2026-11-19": 87
+"2026-11-19": 88
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAi20wQVo3960VcHs73c3B8COlzRHTI",
+"snapshot": "AAAi3CgoGpqmieCkA+ja4phBgExaAbwC",
 "playlist": [
+[
+"2026-11-19T13:27|Interpol|Iron City",
+"spotify:track:7o9gwmscHBXh6sUEYkWQ4e"
+],
 [
 "2026-11-19T13:17|Acid Pauli & Kingdom Molongi|Mystic Meltdown",
 "spotify:track:5dOUcTtJ4MkY582UjGfk3D"
@@ -3893,6 +3897,12 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-11-19T13:27|Interpol|Iron City",
+"t": "2026-11-19T13:27:00+01:00",
+"artist": "Interpol",
+"title": "Iron City"
+},
 {
 "id": "2026-11-19T13:17|Acid Pauli & Kingdom Molongi|Mystic Meltdown",
 "t": "2026-11-19T13:17:00+01:00",
@@ -9310,18 +9320,6 @@
 "t": "2026-11-12T13:40:00+01:00",
 "artist": "Bonobo feat. Joy Crookes",
 "title": "Always on Your Side"
-},
-{
-"id": "2026-11-12T13:36|Weezer|L.A. Girlz",
-"t": "2026-11-12T13:36:00+01:00",
-"artist": "Weezer",
-"title": "L.A. Girlz"
-},
-{
-"id": "2026-11-12T13:31|Stereo MC's|Deep Down & Dirty",
-"t": "2026-11-12T13:31:00+01:00",
-"artist": "Stereo MC's",
-"title": "Deep Down & Dirty"
 }
 ]
 }
