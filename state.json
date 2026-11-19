@@ -1,9 +1,9 @@
 {
-"updated": "2026-11-19T05:49:42.678592+01:00",
+"updated": "2026-11-19T06:01:42.679015+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
-"synced": "2026-11-19T05:45:42.678467+01:00",
+"synced": "2026-11-19T06:01:42.679015+01:00",
 "pruned": "2026-11-19",
 "calls": {
 "2026-11-12": 185,
@@ -13,12 +13,20 @@
 "2026-11-16": 163,
 "2026-11-17": 194,
 "2026-11-18": 180,
-"2026-11-19": 6
+"2026-11-19": 8
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAiuabsI4xiNjRJS4XlFicXPLOLzl0k",
+"snapshot": "AAAiuvYSuzhVKyuNKTD3pkHfbjOW53wd",
 "playlist": [
+[
+"2026-11-19T05:52|Ibibio Sound Machine|Love",
+"spotify:track:0JGa4KrhqriWUuPcni3I8D"
+],
+[
+"2026-11-19T05:47|Bing Austria & The Flippin' Soul Stompers|Ruined Heart (Rocksteady)",
+"spotify:track:78LWYOXsR0h7CjhwzIJWb4"
+],
 [
 "2026-11-19T05:41|MorMor feat. Celeste|Like Heaven",
 "spotify:track:5pZGuhprytXKB7QRMul3jq"
@@ -3633,6 +3641,18 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-11-19T05:52|Ibibio Sound Machine|Love",
+"t": "2026-11-19T05:52:00+01:00",
+"artist": "Ibibio Sound Machine",
+"title": "Love"
+},
+{
+"id": "2026-11-19T05:47|Bing Austria & The Flippin' Soul Stompers|Ruined Heart (Rocksteady)",
+"t": "2026-11-19T05:47:00+01:00",
+"artist": "Bing Austria & The Flippin' Soul Stompers",
+"title": "Ruined Heart (Rocksteady)"
+},
 {
 "id": "2026-11-19T05:41|MorMor feat. Celeste|Like Heaven",
 "t": "2026-11-19T05:41:00+01:00",
@@ -9068,18 +9088,6 @@
 "t": "2026-11-12T06:04:00+01:00",
 "artist": "Arlo Parks",
 "title": "2SIDED"
-},
-{
-"id": "2026-11-12T05:56|Bent|Magic Love",
-"t": "2026-11-12T05:56:00+01:00",
-"artist": "Bent",
-"title": "Magic Love"
-},
-{
-"id": "2026-11-12T05:50|Richard Ashcroft|Music Is Power",
-"t": "2026-11-12T05:50:00+01:00",
-"artist": "Richard Ashcroft",
-"title": "Music Is Power"
 }
 ]
 }
