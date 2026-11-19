@@ -1,9 +1,9 @@
 {
-"updated": "2026-11-19T05:25:42.677692+01:00",
+"updated": "2026-11-19T05:37:42.678194+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
-"synced": "2026-11-19T05:13:42.677253+01:00",
+"synced": "2026-11-19T05:29:42.677971+01:00",
 "pruned": "2026-11-19",
 "calls": {
 "2026-11-12": 185,
@@ -12,12 +12,25 @@
 "2026-11-15": 93,
 "2026-11-16": 163,
 "2026-11-17": 194,
-"2026-11-18": 179
+"2026-11-18": 180,
+"2026-11-19": 2
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAit7YTWr8qZRbxAoJrdLSP8GFkIo+W",
+"snapshot": "AAAiuNdZCqflCDfapvrW2c3QhKSnSeM3",
 "playlist": [
+[
+"2026-11-19T05:19|The Dandy Warhols|Not If You Were The Last Junkie On Earth",
+"spotify:track:0BfPhHh0Gf1WR1hQgIYqen"
+],
+[
+"2026-11-19T05:12|Kelela|the bridge (feat. PinkPantheress)",
+"spotify:track:4Og22Djtd18AVqNgijpLsX"
+],
+[
+"2026-11-19T05:07|Odd Beholder|Your Emancipation",
+"spotify:track:1uLBaUVurwbtHnyAlD7ExO"
+],
 [
 "2026-11-19T05:03|Nihils|Lavender",
 "spotify:track:24IHKK4RZRa5WYOEigkp5h"
@@ -3604,6 +3617,18 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-11-19T05:30|Phoenix|If I Ever Feel Better",
+"t": "2026-11-19T05:30:00+01:00",
+"artist": "Phoenix",
+"title": "If I Ever Feel Better"
+},
+{
+"id": "2026-11-19T05:25|Ann Peebles|I Can't Stand The Rain",
+"t": "2026-11-19T05:25:00+01:00",
+"artist": "Ann Peebles",
+"title": "I Can't Stand The Rain"
+},
 {
 "id": "2026-11-19T05:19|The Dandy Warhols|Not If You Were The Last Junkie On Earth",
 "t": "2026-11-19T05:19:00+01:00",
@@ -9039,24 +9064,6 @@
 "t": "2026-11-12T05:40:00+01:00",
 "artist": "The Kooks",
 "title": "Ooh La"
-},
-{
-"id": "2026-11-12T05:36|Sexy Zebras|Nena (live)",
-"t": "2026-11-12T05:36:00+01:00",
-"artist": "Sexy Zebras",
-"title": "Nena (live)"
-},
-{
-"id": "2026-11-12T05:31|Beck|Up All Night",
-"t": "2026-11-12T05:31:00+01:00",
-"artist": "Beck",
-"title": "Up All Night"
-},
-{
-"id": "2026-11-12T05:26|Moscoman feat. Tom Sanders|What Do We Care",
-"t": "2026-11-12T05:26:00+01:00",
-"artist": "Moscoman feat. Tom Sanders",
-"title": "What Do We Care"
 }
 ]
 }
