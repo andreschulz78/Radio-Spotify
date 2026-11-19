@@ -1,9 +1,9 @@
 {
-"updated": "2026-11-19T18:40:45.462381+01:00",
+"updated": "2026-11-19T18:52:45.462751+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
-"synced": "2026-11-19T18:32:45.462140+01:00",
+"synced": "2026-11-19T18:48:45.462618+01:00",
 "pruned": "2026-11-19",
 "calls": {
 "2026-11-12": 185,
@@ -13,12 +13,24 @@
 "2026-11-16": 163,
 "2026-11-17": 194,
 "2026-11-18": 180,
-"2026-11-19": 128
+"2026-11-19": 134
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAi6xiUfpcE/ozm6eMy8+wOJALTsWYH",
+"snapshot": "AAAi7ltr+zJLWeo6WJpIetMV+Oh/Tzie",
 "playlist": [
+[
+"2026-11-19T18:43|Jonathan Personne|Un Homme Sans Visage",
+"spotify:track:253vvuEJZapMUdRgVCDI8v"
+],
+[
+"2026-11-19T18:41|Michael Nau|I Root",
+"spotify:track:6gchFxzo3Y4vjy7OOK5GA6"
+],
+[
+"2026-11-19T18:34|AGASSI|The Whole Shebang",
+"spotify:track:4KeFVLb7EQN0JFDo91QdLt"
+],
 [
 "2026-11-19T18:23|Holybones And Hak Baker|Englishman",
 "spotify:track:2JUuTZGYhFValMxODAuhue"
@@ -152,8 +164,16 @@
 "spotify:track:6dSqM0tWJPlchpmGrEwC1c"
 ],
 [
+"2026-11-19T14:47|Ladaniva|Margarita",
+"spotify:track:6J0xM2E9cQsStwo340IlJa"
+],
+[
 "2026-11-19T14:43|Maribou State feat. Khruangbin|Feel Good",
 "spotify:track:6XH2zDNsbwv8rJhJJjA4gk"
+],
+[
+"2026-11-19T14:39|Muse|Plug In Baby",
+"spotify:track:7qW9DfJJADuYYtolnoh93X"
 ],
 [
 "2026-11-19T14:31|Balu Brigada|Backseat (Edit)",
@@ -4073,6 +4093,24 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-11-19T18:46|The Electric Soft Parade|Misunderstanding",
+"t": "2026-11-19T18:46:00+01:00",
+"artist": "The Electric Soft Parade",
+"title": "Misunderstanding"
+},
+{
+"id": "2026-11-19T18:43|Jonathan Personne|Un Homme Sans Visage",
+"t": "2026-11-19T18:43:00+01:00",
+"artist": "Jonathan Personne",
+"title": "Un Homme Sans Visage"
+},
+{
+"id": "2026-11-19T18:41|Michael Nau|I Root",
+"t": "2026-11-19T18:41:00+01:00",
+"artist": "Michael Nau",
+"title": "I Root"
+},
 {
 "id": "2026-11-19T18:34|AGASSI|The Whole Shebang",
 "t": "2026-11-19T18:34:00+01:00",
@@ -9454,30 +9492,6 @@
 "t": "2026-11-12T18:56:00+01:00",
 "artist": "Afro Celt Sound System feat. P. Gabriel",
 "title": "When You're Falling"
-},
-{
-"id": "2026-11-12T18:52|54 Ultra|Tell Me",
-"t": "2026-11-12T18:52:00+01:00",
-"artist": "54 Ultra",
-"title": "Tell Me"
-},
-{
-"id": "2026-11-12T18:47|Oasis|Supersonic (Remastered)",
-"t": "2026-11-12T18:47:00+01:00",
-"artist": "Oasis",
-"title": "Supersonic (Remastered)"
-},
-{
-"id": "2026-11-12T18:44|Michael Nau|When",
-"t": "2026-11-12T18:44:00+01:00",
-"artist": "Michael Nau",
-"title": "When"
-},
-{
-"id": "2026-11-12T18:41|Die Sterne|Du musst gar nix",
-"t": "2026-11-12T18:41:00+01:00",
-"artist": "Die Sterne",
-"title": "Du musst gar nix"
 }
 ]
 }
