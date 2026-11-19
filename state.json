@@ -1,5 +1,5 @@
 {
-"updated": "2026-11-19T13:38:23.760476+01:00",
+"updated": "2026-11-19T13:50:23.760917+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
@@ -13,7 +13,7 @@
 "2026-11-16": 163,
 "2026-11-17": 194,
 "2026-11-18": 180,
-"2026-11-19": 88
+"2026-11-19": 90
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
@@ -3897,6 +3897,24 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-11-19T13:41|Etienne de Crécy|Prix Choc",
+"t": "2026-11-19T13:41:00+01:00",
+"artist": "Etienne de Crécy",
+"title": "Prix Choc"
+},
+{
+"id": "2026-11-19T13:38|Gabriels|Break It",
+"t": "2026-11-19T13:38:00+01:00",
+"artist": "Gabriels",
+"title": "Break It"
+},
+{
+"id": "2026-11-19T13:33|K. Flay|Bad Things",
+"t": "2026-11-19T13:33:00+01:00",
+"artist": "K. Flay",
+"title": "Bad Things"
+},
 {
 "id": "2026-11-19T13:27|Interpol|Iron City",
 "t": "2026-11-19T13:27:00+01:00",
@@ -9302,24 +9320,6 @@
 "t": "2026-11-12T13:56:00+01:00",
 "artist": "Parov Stelar feat. Marvin Gaye",
 "title": "Keep On Dancing"
-},
-{
-"id": "2026-11-12T13:49|Die Sauna|ich liebe dich",
-"t": "2026-11-12T13:49:00+01:00",
-"artist": "Die Sauna",
-"title": "ich liebe dich"
-},
-{
-"id": "2026-11-12T13:46|imani coppola|Legend Of A Cowgirl",
-"t": "2026-11-12T13:46:00+01:00",
-"artist": "imani coppola",
-"title": "Legend Of A Cowgirl"
-},
-{
-"id": "2026-11-12T13:40|Bonobo feat. Joy Crookes|Always on Your Side",
-"t": "2026-11-12T13:40:00+01:00",
-"artist": "Bonobo feat. Joy Crookes",
-"title": "Always on Your Side"
 }
 ]
 }
