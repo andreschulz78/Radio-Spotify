@@ -1,9 +1,9 @@
 {
-"updated": "2026-11-19T14:14:23.761738+01:00",
+"updated": "2026-11-19T14:26:23.762026+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
-"synced": "2026-11-19T14:10:23.761641+01:00",
+"synced": "2026-11-19T14:26:23.762026+01:00",
 "pruned": "2026-11-19",
 "calls": {
 "2026-11-12": 185,
@@ -13,12 +13,20 @@
 "2026-11-16": 163,
 "2026-11-17": 194,
 "2026-11-18": 180,
-"2026-11-19": 94
+"2026-11-19": 96
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAi3iOzFYQwKKpfeTxZtiHhD8n5znQP",
+"snapshot": "AAAi33bqOvpCkH6vi7U8N6nVbOuwd1Oz",
 "playlist": [
+[
+"2026-11-19T14:19|Vampire Weekend|One (Blake's Got A New Face)",
+"spotify:track:1SqxV8oT8lKD583CW9JiOL"
+],
+[
+"2026-11-19T14:10|Bleachers|Blood Brothers",
+"spotify:track:7aMdmpShbYFRbdJigosY7C"
+],
 [
 "2026-11-19T14:07|Tom Misch|Slow Tonight",
 "spotify:track:7cpoZVJlz9euhcgUfQBMRL"
@@ -3925,6 +3933,18 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-11-19T14:19|Vampire Weekend|One (Blake's Got A New Face)",
+"t": "2026-11-19T14:19:00+01:00",
+"artist": "Vampire Weekend",
+"title": "One (Blake's Got A New Face)"
+},
+{
+"id": "2026-11-19T14:10|Bleachers|Blood Brothers",
+"t": "2026-11-19T14:10:00+01:00",
+"artist": "Bleachers",
+"title": "Blood Brothers"
+},
 {
 "id": "2026-11-19T14:07|Tom Misch|Slow Tonight",
 "t": "2026-11-19T14:07:00+01:00",
@@ -9342,18 +9362,6 @@
 "t": "2026-11-12T14:28:00+01:00",
 "artist": "Joshua Idehen",
 "title": "Could Be Forever"
-},
-{
-"id": "2026-11-12T14:23|U2|Magnificent",
-"t": "2026-11-12T14:23:00+01:00",
-"artist": "U2",
-"title": "Magnificent"
-},
-{
-"id": "2026-11-12T14:18|Fontaines D.C. & ROSALIA|Where Is Gone?",
-"t": "2026-11-12T14:18:00+01:00",
-"artist": "Fontaines D.C. & ROSALIA",
-"title": "Where Is Gone?"
 }
 ]
 }
