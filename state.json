@@ -1,9 +1,9 @@
 {
-"updated": "2026-11-20T06:09:34.605956+01:00",
+"updated": "2026-11-20T06:21:34.606316+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
-"synced": "2026-11-20T06:01:34.605718+01:00",
+"synced": "2026-11-20T06:17:34.606204+01:00",
 "pruned": "2026-11-20",
 "calls": {
 "2026-11-13": 149,
@@ -13,12 +13,16 @@
 "2026-11-17": 194,
 "2026-11-18": 180,
 "2026-11-19": 164,
-"2026-11-20": 8
+"2026-11-20": 10
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAjA6uxiXXmIH6302nXdw+3ZivZLcUT",
+"snapshot": "AAAjBDYbATnObAH0qELyf0Kc4jOwDJ9B",
 "playlist": [
+[
+"2026-11-20T06:06|Tori Amos|Spies (UK Radio Edit)",
+"spotify:track:1Z9XYk3pchgABuFtaBJyKu"
+],
 [
 "2026-11-20T05:56|The Shins|New Slang",
 "spotify:track:1wAqhAF1dynDjMy7m5CSSE"
@@ -3593,6 +3597,18 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-11-20T06:14|Jake Bugg|Never Can Tell",
+"t": "2026-11-20T06:14:00+01:00",
+"artist": "Jake Bugg",
+"title": "Never Can Tell"
+},
+{
+"id": "2026-11-20T06:06|Tori Amos|Spies (UK Radio Edit)",
+"t": "2026-11-20T06:06:00+01:00",
+"artist": "Tori Amos",
+"title": "Spies (UK Radio Edit)"
+},
 {
 "id": "2026-11-20T05:56|The Shins|New Slang",
 "t": "2026-11-20T05:56:00+01:00",
@@ -8950,18 +8966,6 @@
 "t": "2026-11-13T06:24:00+01:00",
 "artist": "Bleachers",
 "title": "Blood Brothers"
-},
-{
-"id": "2026-11-13T06:16|Matt Berninger|Bonnet Of Pins (Radio-Edit)",
-"t": "2026-11-13T06:16:00+01:00",
-"artist": "Matt Berninger",
-"title": "Bonnet Of Pins (Radio-Edit)"
-},
-{
-"id": "2026-11-13T06:12|Tikhet|Burndowner",
-"t": "2026-11-13T06:12:00+01:00",
-"artist": "Tikhet",
-"title": "Burndowner"
 }
 ]
 }
