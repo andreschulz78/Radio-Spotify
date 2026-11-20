@@ -1,9 +1,9 @@
 {
-"updated": "2026-11-20T12:22:50.318273+01:00",
+"updated": "2026-11-20T12:34:50.318611+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
-"synced": "2026-11-20T12:14:50.318014+01:00",
+"synced": "2026-11-20T12:30:50.318500+01:00",
 "pruned": "2026-11-20",
 "calls": {
 "2026-11-13": 149,
@@ -13,12 +13,28 @@
 "2026-11-17": 194,
 "2026-11-18": 180,
 "2026-11-19": 164,
-"2026-11-20": 61
+"2026-11-20": 64
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAjGLK2af/FYSlIq1ZcvKhZByiMF6VO",
+"snapshot": "AAAjGQxKQwJHgJoiSpjWKBP8qvBnY79b",
 "playlist": [
+[
+"2026-11-20T12:27|Ada|Moon Rider",
+"spotify:track:1GgRvYZrLJXbNlNXbRYiqp"
+],
+[
+"2026-11-20T12:24|Obongjayar|Sweet Danger",
+"spotify:track:1IPRwv7FqZvdaawA2YWCcQ"
+],
+[
+"2026-11-20T12:17|Daft Punk|Digital Love",
+"spotify:track:2VEZx7NWsZ1D0eJ4uv5Fym"
+],
+[
+"2026-11-20T12:12|Neneh Cherry feat. Robyn|Out Of The Black",
+"spotify:track:5uMNWPmDxiZVEbdwHVp6kJ"
+],
 [
 "2026-11-20T12:07|Kaktus Einarsson feat. John Grant|Follow",
 "spotify:track:0bbPqdrMN94XmIlBQS21B3"
@@ -3801,6 +3817,24 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-11-20T12:27|Ada|Moon Rider",
+"t": "2026-11-20T12:27:00+01:00",
+"artist": "Ada",
+"title": "Moon Rider"
+},
+{
+"id": "2026-11-20T12:24|Obongjayar|Sweet Danger",
+"t": "2026-11-20T12:24:00+01:00",
+"artist": "Obongjayar",
+"title": "Sweet Danger"
+},
+{
+"id": "2026-11-20T12:17|Daft Punk|Digital Love",
+"t": "2026-11-20T12:17:00+01:00",
+"artist": "Daft Punk",
+"title": "Digital Love"
+},
 {
 "id": "2026-11-20T12:12|Neneh Cherry feat. Robyn|Out Of The Black",
 "t": "2026-11-20T12:12:00+01:00",
@@ -9158,24 +9192,6 @@
 "t": "2026-11-13T12:38:00+01:00",
 "artist": "Wallners",
 "title": "Dracula"
-},
-{
-"id": "2026-11-13T12:31|Franz Ferdinand|This Fffire",
-"t": "2026-11-13T12:31:00+01:00",
-"artist": "Franz Ferdinand",
-"title": "This Fffire"
-},
-{
-"id": "2026-11-13T12:26|Lorde|Team",
-"t": "2026-11-13T12:26:00+01:00",
-"artist": "Lorde",
-"title": "Team"
-},
-{
-"id": "2026-11-13T12:24|Beatsteaks|Hand In Hand",
-"t": "2026-11-13T12:24:00+01:00",
-"artist": "Beatsteaks",
-"title": "Hand In Hand"
 }
 ]
 }
