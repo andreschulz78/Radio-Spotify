@@ -1,9 +1,9 @@
 {
-"updated": "2026-11-20T10:34:50.315109+01:00",
+"updated": "2026-11-20T10:46:50.315445+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
-"synced": "2026-11-20T10:22:50.314775+01:00",
+"synced": "2026-11-20T10:38:50.315223+01:00",
 "pruned": "2026-11-20",
 "calls": {
 "2026-11-13": 149,
@@ -13,12 +13,24 @@
 "2026-11-17": 194,
 "2026-11-18": 180,
 "2026-11-19": 164,
-"2026-11-20": 39
+"2026-11-20": 42
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAjEatxo+kQw+Fi6Z3tU0Sbny1hVRIK",
+"snapshot": "AAAjEir7P5fW4OY8tO4+EOCHFJplfZIF",
 "playlist": [
+[
+"2026-11-20T10:31|Grim104|Monstera",
+"spotify:track:3rSiXUS27EJxisY62sEqmJ"
+],
+[
+"2026-11-20T10:25|All Saints|Pure Shores",
+"spotify:track:1IExduN4WSwCpbGB4XsdgZ"
+],
+[
+"2026-11-20T10:20|Courtney Barnett|Wonder",
+"spotify:track:5QraYxwAgy8LloNZeIiuQ5"
+],
 [
 "2026-11-20T10:09|Sylvan Esso|Right to Left",
 "spotify:track:78xiuouD9dMXKXGKdDnjqB"
@@ -3729,6 +3741,18 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-11-20T10:37|New Order|Bizarre Love Triangle '94",
+"t": "2026-11-20T10:37:00+01:00",
+"artist": "New Order",
+"title": "Bizarre Love Triangle '94"
+},
+{
+"id": "2026-11-20T10:31|Grim104|Monstera",
+"t": "2026-11-20T10:31:00+01:00",
+"artist": "Grim104",
+"title": "Monstera"
+},
 {
 "id": "2026-11-20T10:25|All Saints|Pure Shores",
 "t": "2026-11-20T10:25:00+01:00",
@@ -9080,18 +9104,6 @@
 "t": "2026-11-13T10:49:00+01:00",
 "artist": "Allah-Las",
 "title": "Catamaran"
-},
-{
-"id": "2026-11-13T10:44|Röyksopp|Poor Leno",
-"t": "2026-11-13T10:44:00+01:00",
-"artist": "Röyksopp",
-"title": "Poor Leno"
-},
-{
-"id": "2026-11-13T10:35|Lola Young|Big Brown Eyes",
-"t": "2026-11-13T10:35:00+01:00",
-"artist": "Lola Young",
-"title": "Big Brown Eyes"
 }
 ]
 }
