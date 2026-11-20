@@ -1,9 +1,9 @@
 {
-"updated": "2026-11-20T12:10:50.317878+01:00",
+"updated": "2026-11-20T12:22:50.318273+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
-"synced": "2026-11-20T11:58:50.317538+01:00",
+"synced": "2026-11-20T12:14:50.318014+01:00",
 "pruned": "2026-11-20",
 "calls": {
 "2026-11-13": 149,
@@ -13,12 +13,20 @@
 "2026-11-17": 194,
 "2026-11-18": 180,
 "2026-11-19": 164,
-"2026-11-20": 59
+"2026-11-20": 61
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAjF4+xh4V8URDSkgRppWXAu2ZGSTtg",
+"snapshot": "AAAjGLK2af/FYSlIq1ZcvKhZByiMF6VO",
 "playlist": [
+[
+"2026-11-20T12:07|Kaktus Einarsson feat. John Grant|Follow",
+"spotify:track:0bbPqdrMN94XmIlBQS21B3"
+],
+[
+"2026-11-20T11:58|Warren G Feat. Nate Dogg|Regulate",
+"spotify:track:4uIKHABS2ixy0AW0Y31rj4"
+],
 [
 "2026-11-20T11:52|Ann Peebles|I Can't Stand The Rain",
 "spotify:track:0CcL4kSHKIEwF3IW0BGgb6"
@@ -3793,6 +3801,12 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-11-20T12:12|Neneh Cherry feat. Robyn|Out Of The Black",
+"t": "2026-11-20T12:12:00+01:00",
+"artist": "Neneh Cherry feat. Robyn",
+"title": "Out Of The Black"
+},
 {
 "id": "2026-11-20T12:07|Kaktus Einarsson feat. John Grant|Follow",
 "t": "2026-11-20T12:07:00+01:00",
@@ -9162,12 +9176,6 @@
 "t": "2026-11-13T12:24:00+01:00",
 "artist": "Beatsteaks",
 "title": "Hand In Hand"
-},
-{
-"id": "2026-11-13T12:16|Pulp|Spike Island (Radio Edit)",
-"t": "2026-11-13T12:16:00+01:00",
-"artist": "Pulp",
-"title": "Spike Island (Radio Edit)"
 }
 ]
 }
