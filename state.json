@@ -1,5 +1,5 @@
 {
-"updated": "2026-11-20T11:10:50.316145+01:00",
+"updated": "2026-11-20T11:22:50.316523+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
@@ -3761,6 +3761,12 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-11-20T11:11|Bonaparte|KiOSKO",
+"t": "2026-11-20T11:11:00+01:00",
+"artist": "Bonaparte",
+"title": "KiOSKO"
+},
 {
 "id": "2026-11-20T11:06|Booker T. & The M.G.'s|Green Onions",
 "t": "2026-11-20T11:06:00+01:00",
@@ -9118,12 +9124,6 @@
 "t": "2026-11-13T11:27:00+01:00",
 "artist": "Moonlight Breakfast",
 "title": "If Not Now, Then When?!"
-},
-{
-"id": "2026-11-13T11:15|Fontaines D.C. & ROSALIA|Where Is Gone?",
-"t": "2026-11-13T11:15:00+01:00",
-"artist": "Fontaines D.C. & ROSALIA",
-"title": "Where Is Gone?"
 }
 ]
 }
