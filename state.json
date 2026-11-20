@@ -1,9 +1,9 @@
 {
-"updated": "2026-11-20T10:46:50.315445+01:00",
+"updated": "2026-11-20T10:58:50.315795+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
-"synced": "2026-11-20T10:38:50.315223+01:00",
+"synced": "2026-11-20T10:54:50.315681+01:00",
 "pruned": "2026-11-20",
 "calls": {
 "2026-11-13": 149,
@@ -13,12 +13,16 @@
 "2026-11-17": 194,
 "2026-11-18": 180,
 "2026-11-19": 164,
-"2026-11-20": 42
+"2026-11-20": 44
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAjEir7P5fW4OY8tO4+EOCHFJplfZIF",
+"snapshot": "AAAjE1gzXtebD2/mm1SgmpkIiKyvUsur",
 "playlist": [
+[
+"2026-11-20T10:37|New Order|Bizarre Love Triangle '94",
+"spotify:track:6wVViUl2xSRoDK2T7dMZbR"
+],
 [
 "2026-11-20T10:31|Grim104|Monstera",
 "spotify:track:3rSiXUS27EJxisY62sEqmJ"
@@ -3741,6 +3745,18 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-11-20T10:52|Jungle|The Wave",
+"t": "2026-11-20T10:52:00+01:00",
+"artist": "Jungle",
+"title": "The Wave"
+},
+{
+"id": "2026-11-20T10:48|Elefant|Now That I Miss Her",
+"t": "2026-11-20T10:48:00+01:00",
+"artist": "Elefant",
+"title": "Now That I Miss Her"
+},
 {
 "id": "2026-11-20T10:37|New Order|Bizarre Love Triangle '94",
 "t": "2026-11-20T10:37:00+01:00",
@@ -9086,24 +9102,6 @@
 "t": "2026-11-13T11:06:00+01:00",
 "artist": "Other Lives",
 "title": "Hey Hey I"
-},
-{
-"id": "2026-11-13T10:56|Ex:Re|Radio Station",
-"t": "2026-11-13T10:56:00+01:00",
-"artist": "Ex:Re",
-"title": "Radio Station"
-},
-{
-"id": "2026-11-13T10:52|Dahi feat. Kendrick Lamar & Amber Mark|How To Pray",
-"t": "2026-11-13T10:52:00+01:00",
-"artist": "Dahi feat. Kendrick Lamar & Amber Mark",
-"title": "How To Pray"
-},
-{
-"id": "2026-11-13T10:49|Allah-Las|Catamaran",
-"t": "2026-11-13T10:49:00+01:00",
-"artist": "Allah-Las",
-"title": "Catamaran"
 }
 ]
 }
