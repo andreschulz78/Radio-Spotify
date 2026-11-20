@@ -1,5 +1,5 @@
 {
-"updated": "2026-11-20T08:46:50.312041+01:00",
+"updated": "2026-11-20T08:58:50.312390+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
@@ -13,7 +13,7 @@
 "2026-11-17": 194,
 "2026-11-18": 180,
 "2026-11-19": 164,
-"2026-11-20": 22
+"2026-11-20": 23
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
@@ -3685,6 +3685,18 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-11-20T08:50|Thundercat|I Wish I Didn’t Waste Your Time (Radio Edit)",
+"t": "2026-11-20T08:50:00+01:00",
+"artist": "Thundercat",
+"title": "I Wish I Didn’t Waste Your Time (Radio Edit)"
+},
+{
+"id": "2026-11-20T08:45|Stereophonics|Have A Nice Day",
+"t": "2026-11-20T08:45:00+01:00",
+"artist": "Stereophonics",
+"title": "Have A Nice Day"
+},
 {
 "id": "2026-11-20T08:41|2raumwohnung|Lass die Pferde frei (Radio Edit)",
 "t": "2026-11-20T08:41:00+01:00",
@@ -9036,24 +9048,6 @@
 "t": "2026-11-13T09:06:00+01:00",
 "artist": "Fuffifufzich",
 "title": "Hoffnung"
-},
-{
-"id": "2026-11-13T08:57|Faith No More|Easy",
-"t": "2026-11-13T08:57:00+01:00",
-"artist": "Faith No More",
-"title": "Easy"
-},
-{
-"id": "2026-11-13T08:50|Dry Cleaning|Strong Feelings",
-"t": "2026-11-13T08:50:00+01:00",
-"artist": "Dry Cleaning",
-"title": "Strong Feelings"
-},
-{
-"id": "2026-11-13T08:47|Eilis Frawley|Taken, Never Erased",
-"t": "2026-11-13T08:47:00+01:00",
-"artist": "Eilis Frawley",
-"title": "Taken, Never Erased"
 }
 ]
 }
