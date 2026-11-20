@@ -1,5 +1,5 @@
 {
-"updated": "2026-11-20T10:22:50.314775+01:00",
+"updated": "2026-11-20T10:34:50.315109+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
@@ -13,7 +13,7 @@
 "2026-11-17": 194,
 "2026-11-18": 180,
 "2026-11-19": 164,
-"2026-11-20": 38
+"2026-11-20": 39
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
@@ -3729,6 +3729,24 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-11-20T10:25|All Saints|Pure Shores",
+"t": "2026-11-20T10:25:00+01:00",
+"artist": "All Saints",
+"title": "Pure Shores"
+},
+{
+"id": "2026-11-20T10:20|Courtney Barnett|Wonder",
+"t": "2026-11-20T10:20:00+01:00",
+"artist": "Courtney Barnett",
+"title": "Wonder"
+},
+{
+"id": "2026-11-20T10:17|Deichkind|Fresh ist vorne",
+"t": "2026-11-20T10:17:00+01:00",
+"artist": "Deichkind",
+"title": "Fresh ist vorne"
+},
 {
 "id": "2026-11-20T10:09|Sylvan Esso|Right to Left",
 "t": "2026-11-20T10:09:00+01:00",
@@ -9074,18 +9092,6 @@
 "t": "2026-11-13T10:35:00+01:00",
 "artist": "Lola Young",
 "title": "Big Brown Eyes"
-},
-{
-"id": "2026-11-13T10:30|Death Cab For Cutie|Riptides",
-"t": "2026-11-13T10:30:00+01:00",
-"artist": "Death Cab For Cutie",
-"title": "Riptides"
-},
-{
-"id": "2026-11-13T10:25|Grace Cummings|I'm Not Crazy",
-"t": "2026-11-13T10:25:00+01:00",
-"artist": "Grace Cummings",
-"title": "I'm Not Crazy"
 }
 ]
 }
