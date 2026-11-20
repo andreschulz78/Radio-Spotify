@@ -1881,7 +1881,7 @@
 },
 "deki alem|mr man": {
 "u": "spotify:track:37zztHh0JkdPuOYGzkLYKo",
-"d": "2026-11-19T00:00:40.586677+01:00"
+"d": "2026-11-20T17:01:49.189516+01:00"
 },
 "deki alem|shadowman": {
 "u": "spotify:track:0cytkUZkllEce2mqaMRvlZ",
@@ -2583,10 +2583,6 @@
 "u": "spotify:track:4zTdOT6HTlEQky3w5cNx0Y",
 "d": "2026-11-06T00:02:55.176430+01:00"
 },
-"feist|sea lion woman": {
-"u": null,
-"d": "2026-11-19T18:44:45.462494+01:00"
-},
 "felhur x andro|bourgeois jouissent": {
 "u": "spotify:track:5FXxtxEfo9NYsHZUFrHTKq",
 "d": "2026-11-06T00:02:55.176430+01:00"
@@ -2869,7 +2865,7 @@
 },
 "gerry read feat gregor|taking all my clothes off": {
 "u": "spotify:track:0a1BTzQAc7NuYreRDWMV63",
-"d": "2026-11-18T00:02:52.681681+01:00"
+"d": "2026-11-20T17:01:49.189516+01:00"
 },
 "gerry read|it ll be all over dj koze remix": {
 "u": "spotify:track:2FRoszas9Ai4BozbNpPlBJ",
@@ -6049,7 +6045,7 @@
 },
 "pixx|andean condor": {
 "u": "spotify:track:0LZU49YemIdcqIzjw6Aez7",
-"d": "2026-11-14T00:02:43.953012+01:00"
+"d": "2026-11-20T17:01:49.189516+01:00"
 },
 "pj harvey|the wheel": {
 "u": "spotify:track:6EVTgXDsDsa3rqUQiA6XQE",
@@ -6386,6 +6382,10 @@
 "robbie williams|mr bojangles": {
 "u": "spotify:track:0aIXPVVZArfwTOrPYSOaa5",
 "d": "2026-11-18T00:02:52.681681+01:00"
+},
+"robert d|clubbed to death edit": {
+"u": null,
+"d": "2026-11-20T17:01:49.189516+01:00"
 },
 "robert plant|29 palms": {
 "u": "spotify:track:5hrsqusQlSqlWpvtjJpxPq",
@@ -6921,7 +6921,7 @@
 },
 "sophia kennedy|hot match": {
 "u": "spotify:track:1QBwezIfN3BP7CF1vN7wCk",
-"d": "2026-11-06T00:02:55.176430+01:00"
+"d": "2026-11-20T17:01:49.189516+01:00"
 },
 "sophia kennedy|musik ist kein krieg": {
 "u": "spotify:track:1v5GB9ZT5CdwIqF3fx1tGP",
@@ -7658,6 +7658,10 @@
 "the goo goo dolls|iris": {
 "u": "spotify:track:6Qyc6fS4DsZjB2mRW9DsQs",
 "d": "2026-11-16T00:03:31.317805+01:00"
+},
+"the good the bad the queen|kingdom of doom": {
+"u": "spotify:track:4EdcfgVJLMCRu2h3fOeENr",
+"d": "2026-11-20T17:01:49.189516+01:00"
 },
 "the haunted youth|teen rebel edit": {
 "u": "spotify:track:3x20zcKUu6rKKsaHdGhyL9",
@@ -8483,6 +8487,10 @@
 "u": "spotify:track:4Dsmse5UgrtyJecAGqhanG",
 "d": "2026-11-19T00:00:40.586677+01:00"
 },
+"u2|pride in the name of love": {
+"u": "spotify:track:5oQeiIcvVlzPF5b4RWGmoa",
+"d": "2026-11-20T17:01:49.189516+01:00"
+},
 "u2|the greatest show on earth": {
 "u": "spotify:track:1nuMwM4FenyuzMbcmx6Lxk",
 "d": "2026-11-20T00:45:34.596430+01:00"
@@ -8577,7 +8585,7 @@
 },
 "viagra boys|uno ii": {
 "u": "spotify:track:2CHdkhVS2Nh0fIEdzpokC7",
-"d": "2026-11-13T00:01:31.520817+01:00"
+"d": "2026-11-20T17:01:49.189516+01:00"
 },
 "villagers|a trick of the light": {
 "u": "spotify:track:1rCPg5GOtes0FIo1BzgvUi",
@@ -8849,7 +8857,7 @@
 },
 "yeasayer|reagan s skeleton": {
 "u": "spotify:track:300xH1GUWwSHnFLDqgsC8P",
-"d": "2026-11-06T00:02:55.176430+01:00"
+"d": "2026-11-20T17:01:49.189516+01:00"
 },
 "yello|break out": {
 "u": "spotify:track:05rR2TFxYVNvUtN33ZK6FR",
@@ -8865,7 +8873,7 @@
 },
 "yndling|time time time i m in the palm of your hand": {
 "u": "spotify:track:02UC3kQj8XFMqW1oeVo9xD",
-"d": "2026-11-14T00:02:43.953012+01:00"
+"d": "2026-11-20T17:01:49.189516+01:00"
 },
 "you pretty thing|push it": {
 "u": "spotify:track:6EpuSwrYb3Qzj9PtTAmS1i",

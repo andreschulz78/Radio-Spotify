@@ -1,9 +1,9 @@
 {
-"updated": "2026-11-20T13:34:50.320384+01:00",
+"updated": "2026-11-20T17:01:49.189516+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
-"synced": "2026-11-20T13:34:50.320384+01:00",
+"synced": "2026-11-20T17:01:49.189516+01:00",
 "pruned": "2026-11-20",
 "calls": {
 "2026-11-13": 149,
@@ -13,12 +13,88 @@
 "2026-11-17": 194,
 "2026-11-18": 180,
 "2026-11-19": 164,
-"2026-11-20": 80
+"2026-11-20": 85
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAjHqo90LvPL/+Vj2cbu2O9KntPouCg",
+"snapshot": "AAAjHzfQD3RegyG7byBOj5lXdAq72MWn",
 "playlist": [
+[
+"2026-11-20T16:50|Sophia Kennedy|Hot Match",
+"spotify:track:1QBwezIfN3BP7CF1vN7wCk"
+],
+[
+"2026-11-20T16:39|The Good, The Bad & The Queen|Kingdom Of Doom",
+"spotify:track:4EdcfgVJLMCRu2h3fOeENr"
+],
+[
+"2026-11-20T16:35|Kelela|the bridge (feat. PinkPantheress)",
+"spotify:track:4Og22Djtd18AVqNgijpLsX"
+],
+[
+"2026-11-20T16:33|Gerry Read feat. Gregor|Taking All My Clothes Off",
+"spotify:track:0a1BTzQAc7NuYreRDWMV63"
+],
+[
+"2026-11-20T16:24|U2|Pride (In The Name Of Love)",
+"spotify:track:5oQeiIcvVlzPF5b4RWGmoa"
+],
+[
+"2026-11-20T16:11|Nightmares On Wax feat. Mozez|You Wish (Abbey Road Fuzz Gospel Version)",
+"spotify:track:6G6M4fl2I0eqEQnzyTwR8m"
+],
+[
+"2026-11-20T16:06|Yeasayer|Reagan's Skeleton",
+"spotify:track:300xH1GUWwSHnFLDqgsC8P"
+],
+[
+"2026-11-20T15:58|Deki Alem|Mr Man",
+"spotify:track:37zztHh0JkdPuOYGzkLYKo"
+],
+[
+"2026-11-20T15:55|Yndling|Time Time Time (I'm in the Palm of Your Hand)",
+"spotify:track:02UC3kQj8XFMqW1oeVo9xD"
+],
+[
+"2026-11-20T15:48|UCHE YARA|Hello Hello",
+"spotify:track:3hadpAb0vS5uYSrfidLaDr"
+],
+[
+"2026-11-20T15:07|Ane Brun feat. Röyksopp|Eat The Fruit (Radio Edit)",
+"spotify:track:6QTVocXJIT6QomBx2QuBBm"
+],
+[
+"2026-11-20T15:05|Viagra Boys|Uno II",
+"spotify:track:2CHdkhVS2Nh0fIEdzpokC7"
+],
+[
+"2026-11-20T14:55|Ibeyi|Hurry Hurry",
+"spotify:track:4BGA7VW330Eu1kaFNi98cG"
+],
+[
+"2026-11-20T14:23|Eilis Frawley|Taken, Never Erased",
+"spotify:track:5a3IV4xiA81Ucn98CHtJzb"
+],
+[
+"2026-11-20T14:21|The Avalanches feat. Karen O|Blue Shadows",
+"spotify:track:5bN5To0VLbNBKQDzJ1Lk6c"
+],
+[
+"2026-11-20T14:06|Moonlight Breakfast|If Not Now, Then When?!",
+"spotify:track:7rqjXsHITwfxR5XoKIGsaJ"
+],
+[
+"2026-11-20T13:58|Yard Act|You're Gonna Need A Little Music",
+"spotify:track:43KS2LpjMVkvJdprLaoQxQ"
+],
+[
+"2026-11-20T13:50|Pixx|Andean condor",
+"spotify:track:0LZU49YemIdcqIzjw6Aez7"
+],
+[
+"2026-11-20T13:33|Lola Young|From Down Here (Radio Edit)",
+"spotify:track:7Hg7l5aOygIHuaNDVFp3ox"
+],
 [
 "2026-11-20T13:23|Nation of Language|Inept Apollo",
 "spotify:track:0YikZXNNkvNlPInLAPMV06"
@@ -3849,6 +3925,204 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-11-20T16:55|Robert D.|Clubbed To Death (Edit)",
+"t": "2026-11-20T16:55:00+01:00",
+"artist": "Robert D.",
+"title": "Clubbed To Death (Edit)"
+},
+{
+"id": "2026-11-20T16:50|Sophia Kennedy|Hot Match",
+"t": "2026-11-20T16:50:00+01:00",
+"artist": "Sophia Kennedy",
+"title": "Hot Match"
+},
+{
+"id": "2026-11-20T16:39|The Good, The Bad & The Queen|Kingdom Of Doom",
+"t": "2026-11-20T16:39:00+01:00",
+"artist": "The Good, The Bad & The Queen",
+"title": "Kingdom Of Doom"
+},
+{
+"id": "2026-11-20T16:35|Kelela|the bridge (feat. PinkPantheress)",
+"t": "2026-11-20T16:35:00+01:00",
+"artist": "Kelela",
+"title": "the bridge (feat. PinkPantheress)"
+},
+{
+"id": "2026-11-20T16:33|Gerry Read feat. Gregor|Taking All My Clothes Off",
+"t": "2026-11-20T16:33:00+01:00",
+"artist": "Gerry Read feat. Gregor",
+"title": "Taking All My Clothes Off"
+},
+{
+"id": "2026-11-20T16:24|U2|Pride (In The Name Of Love)",
+"t": "2026-11-20T16:24:00+01:00",
+"artist": "U2",
+"title": "Pride (In The Name Of Love)"
+},
+{
+"id": "2026-11-20T16:11|Nightmares On Wax feat. Mozez|You Wish (Abbey Road Fuzz Gospel Version)",
+"t": "2026-11-20T16:11:00+01:00",
+"artist": "Nightmares On Wax feat. Mozez",
+"title": "You Wish (Abbey Road Fuzz Gospel Version)"
+},
+{
+"id": "2026-11-20T16:06|Yeasayer|Reagan's Skeleton",
+"t": "2026-11-20T16:06:00+01:00",
+"artist": "Yeasayer",
+"title": "Reagan's Skeleton"
+},
+{
+"id": "2026-11-20T15:58|Deki Alem|Mr Man",
+"t": "2026-11-20T15:58:00+01:00",
+"artist": "Deki Alem",
+"title": "Mr Man"
+},
+{
+"id": "2026-11-20T15:55|Yndling|Time Time Time (I'm in the Palm of Your Hand)",
+"t": "2026-11-20T15:55:00+01:00",
+"artist": "Yndling",
+"title": "Time Time Time (I'm in the Palm of Your Hand)"
+},
+{
+"id": "2026-11-20T15:48|UCHE YARA|Hello Hello",
+"t": "2026-11-20T15:48:00+01:00",
+"artist": "UCHE YARA",
+"title": "Hello Hello"
+},
+{
+"id": "2026-11-20T15:35|School Of Seven Bells|Windstorm",
+"t": "2026-11-20T15:35:00+01:00",
+"artist": "School Of Seven Bells",
+"title": "Windstorm"
+},
+{
+"id": "2026-11-20T15:32|Bloc Party|Banquet",
+"t": "2026-11-20T15:32:00+01:00",
+"artist": "Bloc Party",
+"title": "Banquet"
+},
+{
+"id": "2026-11-20T15:24|Public Image Limited (P.I.L.)|This Is Not A Love Song",
+"t": "2026-11-20T15:24:00+01:00",
+"artist": "Public Image Limited (P.I.L.)",
+"title": "This Is Not A Love Song"
+},
+{
+"id": "2026-11-20T15:20|Rahill feat. Beck|Fables",
+"t": "2026-11-20T15:20:00+01:00",
+"artist": "Rahill feat. Beck",
+"title": "Fables"
+},
+{
+"id": "2026-11-20T15:07|Ane Brun feat. Röyksopp|Eat The Fruit (Radio Edit)",
+"t": "2026-11-20T15:07:00+01:00",
+"artist": "Ane Brun feat. Röyksopp",
+"title": "Eat The Fruit (Radio Edit)"
+},
+{
+"id": "2026-11-20T15:05|Viagra Boys|Uno II",
+"t": "2026-11-20T15:05:00+01:00",
+"artist": "Viagra Boys",
+"title": "Uno II"
+},
+{
+"id": "2026-11-20T14:58|Die Fantastischen Vier|Nur in deinem Kopf",
+"t": "2026-11-20T14:58:00+01:00",
+"artist": "Die Fantastischen Vier",
+"title": "Nur in deinem Kopf"
+},
+{
+"id": "2026-11-20T14:55|Ibeyi|Hurry Hurry",
+"t": "2026-11-20T14:55:00+01:00",
+"artist": "Ibeyi",
+"title": "Hurry Hurry"
+},
+{
+"id": "2026-11-20T14:49|Kim Gordon|Play Me",
+"t": "2026-11-20T14:49:00+01:00",
+"artist": "Kim Gordon",
+"title": "Play Me"
+},
+{
+"id": "2026-11-20T14:45|Falco|Brillantin' Brutal'",
+"t": "2026-11-20T14:45:00+01:00",
+"artist": "Falco",
+"title": "Brillantin' Brutal'"
+},
+{
+"id": "2026-11-20T14:42|Fatboy Slim|Praise You",
+"t": "2026-11-20T14:42:00+01:00",
+"artist": "Fatboy Slim",
+"title": "Praise You"
+},
+{
+"id": "2026-11-20T14:32|Tame Impala|The Less I Know The Better",
+"t": "2026-11-20T14:32:00+01:00",
+"artist": "Tame Impala",
+"title": "The Less I Know The Better"
+},
+{
+"id": "2026-11-20T14:29|The Slow Show|Breathe (Edit)",
+"t": "2026-11-20T14:29:00+01:00",
+"artist": "The Slow Show",
+"title": "Breathe (Edit)"
+},
+{
+"id": "2026-11-20T14:23|Eilis Frawley|Taken, Never Erased",
+"t": "2026-11-20T14:23:00+01:00",
+"artist": "Eilis Frawley",
+"title": "Taken, Never Erased"
+},
+{
+"id": "2026-11-20T14:21|The Avalanches feat. Karen O|Blue Shadows",
+"t": "2026-11-20T14:21:00+01:00",
+"artist": "The Avalanches feat. Karen O",
+"title": "Blue Shadows"
+},
+{
+"id": "2026-11-20T14:12|Gary Numan|Cars",
+"t": "2026-11-20T14:12:00+01:00",
+"artist": "Gary Numan",
+"title": "Cars"
+},
+{
+"id": "2026-11-20T14:06|Moonlight Breakfast|If Not Now, Then When?!",
+"t": "2026-11-20T14:06:00+01:00",
+"artist": "Moonlight Breakfast",
+"title": "If Not Now, Then When?!"
+},
+{
+"id": "2026-11-20T13:58|Yard Act|You're Gonna Need A Little Music",
+"t": "2026-11-20T13:58:00+01:00",
+"artist": "Yard Act",
+"title": "You're Gonna Need A Little Music"
+},
+{
+"id": "2026-11-20T13:50|Pixx|Andean condor",
+"t": "2026-11-20T13:50:00+01:00",
+"artist": "Pixx",
+"title": "Andean condor"
+},
+{
+"id": "2026-11-20T13:45|Peter Tosh|Legalize It",
+"t": "2026-11-20T13:45:00+01:00",
+"artist": "Peter Tosh",
+"title": "Legalize It"
+},
+{
+"id": "2026-11-20T13:33|Lola Young|From Down Here (Radio Edit)",
+"t": "2026-11-20T13:33:00+01:00",
+"artist": "Lola Young",
+"title": "From Down Here (Radio Edit)"
+},
+{
+"id": "2026-11-20T13:30|NEIKED feat. Portugal. The Man|Glide",
+"t": "2026-11-20T13:30:00+01:00",
+"artist": "NEIKED feat. Portugal. The Man",
+"title": "Glide"
+},
 {
 "id": "2026-11-20T13:23|Nation of Language|Inept Apollo",
 "t": "2026-11-20T13:23:00+01:00",
@@ -9098,132 +9372,6 @@
 "t": "2026-11-13T17:57:00+01:00",
 "artist": "Michael Kiwanuka",
 "title": "You Ain't The Problem"
-},
-{
-"id": "2026-11-13T16:58|Leon Bridges|Talk it over",
-"t": "2026-11-13T16:58:00+01:00",
-"artist": "Leon Bridges",
-"title": "Talk it over"
-},
-{
-"id": "2026-11-13T16:51|Friedberg|Goodwife",
-"t": "2026-11-13T16:51:00+01:00",
-"artist": "Friedberg",
-"title": "Goodwife"
-},
-{
-"id": "2026-11-13T16:48|Feist|Sea Lion Woman",
-"t": "2026-11-13T16:48:00+01:00",
-"artist": "Feist",
-"title": "Sea Lion Woman"
-},
-{
-"id": "2026-11-13T16:45|Erobique feat. Luis Baltes|Salut Les Copines! (Single Edit)",
-"t": "2026-11-13T16:45:00+01:00",
-"artist": "Erobique feat. Luis Baltes",
-"title": "Salut Les Copines! (Single Edit)"
-},
-{
-"id": "2026-11-13T16:32|Grizzly Bear|Mourning Sound",
-"t": "2026-11-13T16:32:00+01:00",
-"artist": "Grizzly Bear",
-"title": "Mourning Sound"
-},
-{
-"id": "2026-11-13T16:23|Heaven 17|Temptation",
-"t": "2026-11-13T16:23:00+01:00",
-"artist": "Heaven 17",
-"title": "Temptation"
-},
-{
-"id": "2026-11-13T16:20|Donkey Kid|Goldmine",
-"t": "2026-11-13T16:20:00+01:00",
-"artist": "Donkey Kid",
-"title": "Goldmine"
-},
-{
-"id": "2026-11-13T16:13|Heaven 17|Temptation",
-"t": "2026-11-13T16:13:00+01:00",
-"artist": "Heaven 17",
-"title": "Temptation"
-},
-{
-"id": "2026-11-13T16:10|Sofi Tukker|Drinkee",
-"t": "2026-11-13T16:10:00+01:00",
-"artist": "Sofi Tukker",
-"title": "Drinkee"
-},
-{
-"id": "2026-11-13T16:05|Balu Brigada|Backseat (Edit)",
-"t": "2026-11-13T16:05:00+01:00",
-"artist": "Balu Brigada",
-"title": "Backseat (Edit)"
-},
-{
-"id": "2026-11-13T15:56|Nichtseattle|Ich mit Brille",
-"t": "2026-11-13T15:56:00+01:00",
-"artist": "Nichtseattle",
-"title": "Ich mit Brille"
-},
-{
-"id": "2026-11-13T15:53|Camélia Jordana|Jusqu'au bout des cils",
-"t": "2026-11-13T15:53:00+01:00",
-"artist": "Camélia Jordana",
-"title": "Jusqu'au bout des cils"
-},
-{
-"id": "2026-11-13T15:47|The Who|Won't Get Fooled Again",
-"t": "2026-11-13T15:47:00+01:00",
-"artist": "The Who",
-"title": "Won't Get Fooled Again"
-},
-{
-"id": "2026-11-13T15:36|Hell feat. Bryan Ferry|U Can Dance",
-"t": "2026-11-13T15:36:00+01:00",
-"artist": "Hell feat. Bryan Ferry",
-"title": "U Can Dance"
-},
-{
-"id": "2026-11-13T15:33|Kelis & André 3000|Millionaire",
-"t": "2026-11-13T15:33:00+01:00",
-"artist": "Kelis & André 3000",
-"title": "Millionaire"
-},
-{
-"id": "2026-11-13T15:26|Trio|Da da da, ich lieb dich nicht, du liebst mich nicht, aha aha",
-"t": "2026-11-13T15:26:00+01:00",
-"artist": "Trio",
-"title": "Da da da, ich lieb dich nicht, du liebst mich nicht, aha aha"
-},
-{
-"id": "2026-11-13T15:23|Jordan Rakei|Enemies",
-"t": "2026-11-13T15:23:00+01:00",
-"artist": "Jordan Rakei",
-"title": "Enemies"
-},
-{
-"id": "2026-11-13T15:17|Bonaparte|KiOSKO",
-"t": "2026-11-13T15:17:00+01:00",
-"artist": "Bonaparte",
-"title": "KiOSKO"
-},
-{
-"id": "2026-11-13T15:05|Orbital feat. Penelope Isles|Are You Alive?",
-"t": "2026-11-13T15:05:00+01:00",
-"artist": "Orbital feat. Penelope Isles",
-"title": "Are You Alive?"
-},
-{
-"id": "2026-11-13T14:55|Massive Attack|Teardrop (Edit)",
-"t": "2026-11-13T14:55:00+01:00",
-"artist": "Massive Attack",
-"title": "Teardrop (Edit)"
-},
-{
-"id": "2026-11-13T14:52|Ibeyi|Hurry Hurry",
-"t": "2026-11-13T14:52:00+01:00",
-"artist": "Ibeyi",
-"title": "Hurry Hurry"
 }
 ]
 }
