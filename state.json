@@ -1,9 +1,9 @@
 {
-"updated": "2026-11-20T21:25:49.196246+01:00",
+"updated": "2026-11-20T21:37:49.196545+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
-"synced": "2026-11-20T21:21:49.196150+01:00",
+"synced": "2026-11-20T21:37:49.196545+01:00",
 "pruned": "2026-11-20",
 "calls": {
 "2026-11-13": 149,
@@ -13,12 +13,16 @@
 "2026-11-17": 194,
 "2026-11-18": 180,
 "2026-11-19": 164,
-"2026-11-20": 120
+"2026-11-20": 122
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAjK/rjfAFJhT6rDRZ8z5PTsQUhNSGr",
+"snapshot": "AAAjLOkslj8pknNou4fT0108DltDbefA",
 "playlist": [
+[
+"2026-11-20T21:28|B O D I E S|The Observable Universe",
+"spotify:track:1lmzuwoKY6MWurqsZ3Nc5W"
+],
 [
 "2026-11-20T21:03|Kisser|Bad Boy Mountain",
 "spotify:track:3ptGZmlYhmrVZ2MwymI2x4"
@@ -3981,6 +3985,12 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-11-20T21:28|B O D I E S|The Observable Universe",
+"t": "2026-11-20T21:28:00+01:00",
+"artist": "B O D I E S",
+"title": "The Observable Universe"
+},
 {
 "id": "2026-11-20T21:21|B O D I E S|The Dream",
 "t": "2026-11-20T21:21:00+01:00",
@@ -9416,18 +9426,6 @@
 "t": "2026-11-13T21:46:00+01:00",
 "artist": "U2",
 "title": "The Greatest Show On Earth"
-},
-{
-"id": "2026-11-13T21:36|U2|La Reina",
-"t": "2026-11-13T21:36:00+01:00",
-"artist": "U2",
-"title": "La Reina"
-},
-{
-"id": "2026-11-13T21:27|Radie Peat|Still I Love Him",
-"t": "2026-11-13T21:27:00+01:00",
-"artist": "Radie Peat",
-"title": "Still I Love Him"
 }
 ]
 }
