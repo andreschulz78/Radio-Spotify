@@ -1,9 +1,9 @@
 {
-"updated": "2026-11-20T10:58:50.315795+01:00",
+"updated": "2026-11-20T11:10:50.316145+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
-"synced": "2026-11-20T10:54:50.315681+01:00",
+"synced": "2026-11-20T11:10:50.316145+01:00",
 "pruned": "2026-11-20",
 "calls": {
 "2026-11-13": 149,
@@ -13,12 +13,28 @@
 "2026-11-17": 194,
 "2026-11-18": 180,
 "2026-11-19": 164,
-"2026-11-20": 44
+"2026-11-20": 49
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAjE1gzXtebD2/mm1SgmpkIiKyvUsur",
+"snapshot": "AAAjFFQT4gM38SpC4D82Gxn2MfENkEX8",
 "playlist": [
+[
+"2026-11-20T11:06|Booker T. & The M.G.'s|Green Onions",
+"spotify:track:4fQMGlCawbTkH9yPPZ49kP"
+],
+[
+"2026-11-20T10:58|Aldous Harding|Venus In The Zinnia",
+"spotify:track:6X5ARfLepGTGntuFbc2Hpo"
+],
+[
+"2026-11-20T10:52|Jungle|The Wave",
+"spotify:track:6Ln44Up5lBxNgCsaLoXY6W"
+],
+[
+"2026-11-20T10:48|Elefant|Now That I Miss Her",
+"spotify:track:0OolGFQzPbDd4w1wEQ9L4l"
+],
 [
 "2026-11-20T10:37|New Order|Bizarre Love Triangle '94",
 "spotify:track:6wVViUl2xSRoDK2T7dMZbR"
@@ -3745,6 +3761,18 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-11-20T11:06|Booker T. & The M.G.'s|Green Onions",
+"t": "2026-11-20T11:06:00+01:00",
+"artist": "Booker T. & The M.G.'s",
+"title": "Green Onions"
+},
+{
+"id": "2026-11-20T10:58|Aldous Harding|Venus In The Zinnia",
+"t": "2026-11-20T10:58:00+01:00",
+"artist": "Aldous Harding",
+"title": "Venus In The Zinnia"
+},
 {
 "id": "2026-11-20T10:52|Jungle|The Wave",
 "t": "2026-11-20T10:52:00+01:00",
@@ -9096,12 +9124,6 @@
 "t": "2026-11-13T11:15:00+01:00",
 "artist": "Fontaines D.C. & ROSALIA",
 "title": "Where Is Gone?"
-},
-{
-"id": "2026-11-13T11:06|Other Lives|Hey Hey I",
-"t": "2026-11-13T11:06:00+01:00",
-"artist": "Other Lives",
-"title": "Hey Hey I"
 }
 ]
 }
