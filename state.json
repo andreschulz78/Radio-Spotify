@@ -1,5 +1,5 @@
 {
-"updated": "2026-11-20T21:37:49.196545+01:00",
+"updated": "2026-11-20T21:49:49.196848+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
@@ -13,7 +13,7 @@
 "2026-11-17": 194,
 "2026-11-18": 180,
 "2026-11-19": 164,
-"2026-11-20": 122
+"2026-11-20": 124
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
@@ -3985,6 +3985,18 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-11-20T21:43|Jake Bugg|Trapped In A Cage",
+"t": "2026-11-20T21:43:00+01:00",
+"artist": "Jake Bugg",
+"title": "Trapped In A Cage"
+},
+{
+"id": "2026-11-20T21:35|Jake Bugg|Drop In The Water",
+"t": "2026-11-20T21:35:00+01:00",
+"artist": "Jake Bugg",
+"title": "Drop In The Water"
+},
 {
 "id": "2026-11-20T21:28|B O D I E S|The Observable Universe",
 "t": "2026-11-20T21:28:00+01:00",
@@ -9420,12 +9432,6 @@
 "t": "2026-11-13T21:55:00+01:00",
 "artist": "U2",
 "title": "Torn (feat. Dolly Parton)"
-},
-{
-"id": "2026-11-13T21:46|U2|The Greatest Show On Earth",
-"t": "2026-11-13T21:46:00+01:00",
-"artist": "U2",
-"title": "The Greatest Show On Earth"
 }
 ]
 }
