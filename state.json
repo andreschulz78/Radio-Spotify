@@ -1,9 +1,9 @@
 {
-"updated": "2026-11-20T09:22:50.313089+01:00",
+"updated": "2026-11-20T09:34:50.313434+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
-"synced": "2026-11-20T09:18:50.312975+01:00",
+"synced": "2026-11-20T09:34:50.313434+01:00",
 "pruned": "2026-11-20",
 "calls": {
 "2026-11-13": 149,
@@ -13,12 +13,16 @@
 "2026-11-17": 194,
 "2026-11-18": 180,
 "2026-11-19": 164,
-"2026-11-20": 27
+"2026-11-20": 30
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAjC1e2n/J87HlQwG/tx40VFtlrqJHf",
+"snapshot": "AAAjDWhhNcU8Qyf4hrfA9n8lbMvYe0t6",
 "playlist": [
+[
+"2026-11-20T09:18|Kate Bush|Cloudbusting",
+"spotify:track:373vZ0g1dpWaUcrbh0WKhd"
+],
 [
 "2026-11-20T09:12|Danger Dan|Dass es hier so schön ist",
 "spotify:track:1HGb9YabpkJHq6i8A1HY6n"
@@ -3528,10 +3532,6 @@
 "spotify:track:2lXHg7BtTNoP39AezyCSfL"
 ],
 [
-"2026-11-13T09:34|A Projection|Transition",
-"spotify:track:3Kcam8JyyxQwJdCM06AYi1"
-],
-[
 "2026-11-13T09:27|Elfi|Am Kottbusser Damm",
 "spotify:track:6TiDhz9j5DlSwpFciFqbWU"
 ],
@@ -3705,6 +3705,12 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-11-20T09:18|Kate Bush|Cloudbusting",
+"t": "2026-11-20T09:18:00+01:00",
+"artist": "Kate Bush",
+"title": "Cloudbusting"
+},
 {
 "id": "2026-11-20T09:12|Danger Dan|Dass es hier so schön ist",
 "t": "2026-11-20T09:12:00+01:00",
@@ -9056,18 +9062,6 @@
 "t": "2026-11-13T09:37:00+01:00",
 "artist": "The Smashing Pumpkins",
 "title": "Disarm"
-},
-{
-"id": "2026-11-13T09:34|A Projection|Transition",
-"t": "2026-11-13T09:34:00+01:00",
-"artist": "A Projection",
-"title": "Transition"
-},
-{
-"id": "2026-11-13T09:27|Elfi|Am Kottbusser Damm",
-"t": "2026-11-13T09:27:00+01:00",
-"artist": "Elfi",
-"title": "Am Kottbusser Damm"
 }
 ]
 }
