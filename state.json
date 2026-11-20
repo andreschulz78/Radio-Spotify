@@ -1,9 +1,9 @@
 {
-"updated": "2026-11-20T05:57:34.605608+01:00",
+"updated": "2026-11-20T06:09:34.605956+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
-"synced": "2026-11-20T05:45:34.605277+01:00",
+"synced": "2026-11-20T06:01:34.605718+01:00",
 "pruned": "2026-11-20",
 "calls": {
 "2026-11-13": 149,
@@ -13,12 +13,20 @@
 "2026-11-17": 194,
 "2026-11-18": 180,
 "2026-11-19": 164,
-"2026-11-20": 6
+"2026-11-20": 8
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAjAqsH+/MnM9xvTelJs7H3f0OAirR5",
+"snapshot": "AAAjA6uxiXXmIH6302nXdw+3ZivZLcUT",
 "playlist": [
+[
+"2026-11-20T05:56|The Shins|New Slang",
+"spotify:track:1wAqhAF1dynDjMy7m5CSSE"
+],
+[
+"2026-11-20T05:52|Alice Phoebe Lou|Better",
+"spotify:track:7cT6TnC60ou32XkbfYnH9v"
+],
 [
 "2026-11-20T05:40|Eroc|Wolkenreise",
 "spotify:track:0Qko1btZ8Db6j3tBMQVmLZ"
@@ -3585,6 +3593,12 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-11-20T05:56|The Shins|New Slang",
+"t": "2026-11-20T05:56:00+01:00",
+"artist": "The Shins",
+"title": "New Slang"
+},
 {
 "id": "2026-11-20T05:52|Alice Phoebe Lou|Better",
 "t": "2026-11-20T05:52:00+01:00",
@@ -8948,12 +8962,6 @@
 "t": "2026-11-13T06:12:00+01:00",
 "artist": "Tikhet",
 "title": "Burndowner"
-},
-{
-"id": "2026-11-13T06:05|Fatboy Slim|That Old Pair Of Jeans",
-"t": "2026-11-13T06:05:00+01:00",
-"artist": "Fatboy Slim",
-"title": "That Old Pair Of Jeans"
 }
 ]
 }
