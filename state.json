@@ -1,9 +1,9 @@
 {
-"updated": "2026-11-20T13:22:50.320039+01:00",
+"updated": "2026-11-20T13:34:50.320384+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
-"synced": "2026-11-20T13:18:50.319927+01:00",
+"synced": "2026-11-20T13:34:50.320384+01:00",
 "pruned": "2026-11-20",
 "calls": {
 "2026-11-13": 149,
@@ -13,12 +13,16 @@
 "2026-11-17": 194,
 "2026-11-18": 180,
 "2026-11-19": 164,
-"2026-11-20": 78
+"2026-11-20": 80
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAjHCs7TkO5iT4ItUHwfzYHzOlBm1TR",
+"snapshot": "AAAjHqo90LvPL/+Vj2cbu2O9KntPouCg",
 "playlist": [
+[
+"2026-11-20T13:23|Nation of Language|Inept Apollo",
+"spotify:track:0YikZXNNkvNlPInLAPMV06"
+],
 [
 "2026-11-20T13:10|Vega 4|A Billion Tons of Light",
 "spotify:track:1wqugCxI0xp2CLaOb7aAuk"
@@ -3540,10 +3544,6 @@
 "spotify:track:4BGA7VW330Eu1kaFNi98cG"
 ],
 [
-"2026-11-13T13:34|Zoot Woman|Taken It All",
-"spotify:track:2C1a9QRxNhNHJpOUKwwTnA"
-],
-[
 "2026-11-13T13:30|Haim|The Wire",
 "spotify:track:3h8mGFJU0OSrMGyOSRF5xH"
 ],
@@ -3849,6 +3849,12 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-11-20T13:23|Nation of Language|Inept Apollo",
+"t": "2026-11-20T13:23:00+01:00",
+"artist": "Nation of Language",
+"title": "Inept Apollo"
+},
 {
 "id": "2026-11-20T13:10|Vega 4|A Billion Tons of Light",
 "t": "2026-11-20T13:10:00+01:00",
@@ -9218,24 +9224,6 @@
 "t": "2026-11-13T14:52:00+01:00",
 "artist": "Ibeyi",
 "title": "Hurry Hurry"
-},
-{
-"id": "2026-11-13T13:34|Zoot Woman|Taken It All",
-"t": "2026-11-13T13:34:00+01:00",
-"artist": "Zoot Woman",
-"title": "Taken It All"
-},
-{
-"id": "2026-11-13T13:30|Haim|The Wire",
-"t": "2026-11-13T13:30:00+01:00",
-"artist": "Haim",
-"title": "The Wire"
-},
-{
-"id": "2026-11-13T13:24|Spoon|Hot Thoughts",
-"t": "2026-11-13T13:24:00+01:00",
-"artist": "Spoon",
-"title": "Hot Thoughts"
 }
 ]
 }
