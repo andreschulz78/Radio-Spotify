@@ -1,9 +1,9 @@
 {
-"updated": "2026-11-20T22:01:49.197174+01:00",
+"updated": "2026-11-20T22:13:49.197493+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
-"synced": "2026-11-20T21:53:49.196970+01:00",
+"synced": "2026-11-20T22:09:49.197413+01:00",
 "pruned": "2026-11-20",
 "calls": {
 "2026-11-13": 149,
@@ -13,12 +13,20 @@
 "2026-11-17": 194,
 "2026-11-18": 180,
 "2026-11-19": 164,
-"2026-11-20": 128
+"2026-11-20": 131
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAjLW7JTNxL6QNLORY4GQFYu0Ow6xr/",
+"snapshot": "AAAjLsWJQwQ3SUOAwSQX8D5PO4cUKbM7",
 "playlist": [
+[
+"2026-11-20T21:55|Kovacs|Happiness",
+"spotify:track:6MiWGa7dBbRzt8bnqC9DMw"
+],
+[
+"2026-11-20T21:49|Jake Bugg|Cloud In The Sky",
+"spotify:track:19z3WQVI8kgWXI8eZHRaDg"
+],
 [
 "2026-11-20T21:43|Jake Bugg|Trapped In A Cage",
 "spotify:track:34dkiXL0l6DadkuVqymbnM"
@@ -3993,6 +4001,12 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-11-20T22:03|Joesef|Pacify",
+"t": "2026-11-20T22:03:00+01:00",
+"artist": "Joesef",
+"title": "Pacify"
+},
 {
 "id": "2026-11-20T21:55|Kovacs|Happiness",
 "t": "2026-11-20T21:55:00+01:00",
@@ -9434,18 +9448,6 @@
 "t": "2026-11-13T22:17:00+01:00",
 "artist": "Kit Sebastian; Los Bitchos",
 "title": "El Pence"
-},
-{
-"id": "2026-11-13T22:10|Los Bitchos; Adrian Quesada; Sinkane|Hang Up Pt2",
-"t": "2026-11-13T22:10:00+01:00",
-"artist": "Los Bitchos; Adrian Quesada; Sinkane",
-"title": "Hang Up Pt2"
-},
-{
-"id": "2026-11-13T22:04|Alex Miksch|Hundsviech",
-"t": "2026-11-13T22:04:00+01:00",
-"artist": "Alex Miksch",
-"title": "Hundsviech"
 }
 ]
 }
