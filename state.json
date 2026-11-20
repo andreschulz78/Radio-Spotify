@@ -1,5 +1,5 @@
 {
-"updated": "2026-11-20T04:57:34.603862+01:00",
+"updated": "2026-11-20T05:09:34.604228+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
@@ -8921,18 +8921,6 @@
 "t": "2026-11-13T05:11:00+01:00",
 "artist": "Coldplay",
 "title": "Don't Panic"
-},
-{
-"id": "2026-11-13T05:07|Widowspeak|Soft Cover (Edit)",
-"t": "2026-11-13T05:07:00+01:00",
-"artist": "Widowspeak",
-"title": "Soft Cover (Edit)"
-},
-{
-"id": "2026-11-13T05:03|Serebii|Even In The Quiet",
-"t": "2026-11-13T05:03:00+01:00",
-"artist": "Serebii",
-"title": "Even In The Quiet"
 }
 ]
 }
