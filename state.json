@@ -1,5 +1,5 @@
 {
-"updated": "2026-11-20T11:58:50.317538+01:00",
+"updated": "2026-11-20T12:10:50.317878+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
@@ -13,7 +13,7 @@
 "2026-11-17": 194,
 "2026-11-18": 180,
 "2026-11-19": 164,
-"2026-11-20": 55
+"2026-11-20": 59
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
@@ -3793,6 +3793,18 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-11-20T12:07|Kaktus Einarsson feat. John Grant|Follow",
+"t": "2026-11-20T12:07:00+01:00",
+"artist": "Kaktus Einarsson feat. John Grant",
+"title": "Follow"
+},
+{
+"id": "2026-11-20T11:58|Warren G Feat. Nate Dogg|Regulate",
+"t": "2026-11-20T11:58:00+01:00",
+"artist": "Warren G Feat. Nate Dogg",
+"title": "Regulate"
+},
 {
 "id": "2026-11-20T11:52|Ann Peebles|I Can't Stand The Rain",
 "t": "2026-11-20T11:52:00+01:00",
@@ -9156,12 +9168,6 @@
 "t": "2026-11-13T12:16:00+01:00",
 "artist": "Pulp",
 "title": "Spike Island (Radio Edit)"
-},
-{
-"id": "2026-11-13T12:06|Hannah Jadagu|My Love",
-"t": "2026-11-13T12:06:00+01:00",
-"artist": "Hannah Jadagu",
-"title": "My Love"
 }
 ]
 }
