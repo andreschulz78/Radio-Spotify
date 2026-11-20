@@ -1,9 +1,9 @@
 {
-"updated": "2026-11-20T08:22:50.311323+01:00",
+"updated": "2026-11-20T08:34:50.311673+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
-"synced": "2026-11-20T08:14:50.311106+01:00",
+"synced": "2026-11-20T08:30:50.311561+01:00",
 "pruned": "2026-11-20",
 "calls": {
 "2026-11-13": 149,
@@ -13,12 +13,24 @@
 "2026-11-17": 194,
 "2026-11-18": 180,
 "2026-11-19": 164,
-"2026-11-20": 18
+"2026-11-20": 21
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAjB+3n64XRAa9Z/Fsc0hSRtYZEqRQk",
+"snapshot": "AAAjCFy+zlrfmMZfUgKT6+Pa9p2iOd+U",
 "playlist": [
+[
+"2026-11-20T08:26|Blackhaine|The Wind",
+"spotify:track:0W6Y1SoUrkoic7M3MEkWwv"
+],
+[
+"2026-11-20T08:18|The Cult|She Sells Sanctuary",
+"spotify:track:4hR2l9x2u4EvtW4BmEgMdE"
+],
+[
+"2026-11-20T08:13|Phoebe Bridgers|Lost Boys (Radio Edit)",
+"spotify:track:2Rbkkd9pKlLtBOhsp5NmSI"
+],
 [
 "2026-11-20T08:05|Kevin Morby|PBJ (Edit)",
 "spotify:track:5rjtzSA5VBWg7zmuOGg5Dz"
@@ -3665,6 +3677,18 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-11-20T08:26|Blackhaine|The Wind",
+"t": "2026-11-20T08:26:00+01:00",
+"artist": "Blackhaine",
+"title": "The Wind"
+},
+{
+"id": "2026-11-20T08:18|The Cult|She Sells Sanctuary",
+"t": "2026-11-20T08:18:00+01:00",
+"artist": "The Cult",
+"title": "She Sells Sanctuary"
+},
 {
 "id": "2026-11-20T08:13|Phoebe Bridgers|Lost Boys (Radio Edit)",
 "t": "2026-11-20T08:13:00+01:00",
@@ -9016,18 +9040,6 @@
 "t": "2026-11-13T08:41:00+01:00",
 "artist": "Tyler Ballgame",
 "title": "I Believe In Love"
-},
-{
-"id": "2026-11-13T08:33|Portugal. The Man|People Say",
-"t": "2026-11-13T08:33:00+01:00",
-"artist": "Portugal. The Man",
-"title": "People Say"
-},
-{
-"id": "2026-11-13T08:26|Dream Boat|Real!",
-"t": "2026-11-13T08:26:00+01:00",
-"artist": "Dream Boat",
-"title": "Real!"
 }
 ]
 }
