@@ -1,9 +1,9 @@
 {
-"updated": "2026-11-20T22:13:49.197493+01:00",
+"updated": "2026-11-20T22:25:49.197757+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
-"synced": "2026-11-20T22:09:49.197413+01:00",
+"synced": "2026-11-20T22:25:49.197757+01:00",
 "pruned": "2026-11-20",
 "calls": {
 "2026-11-13": 149,
@@ -13,12 +13,24 @@
 "2026-11-17": 194,
 "2026-11-18": 180,
 "2026-11-19": 164,
-"2026-11-20": 131
+"2026-11-20": 134
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAjLsWJQwQ3SUOAwSQX8D5PO4cUKbM7",
+"snapshot": "AAAjLwxoY0eVWgdSGyyu+r7GFYPinZCX",
 "playlist": [
+[
+"2026-11-20T22:21|Blackhaine|Consumer",
+"spotify:track:63c44noYGmbnelCK4rwyGf"
+],
+[
+"2026-11-20T22:13|Blackhaine|Northside Needs Me",
+"spotify:track:2RNIwDWB5NzDnkL8XrBfF1"
+],
+[
+"2026-11-20T22:03|Joesef|Pacify",
+"spotify:track:41jzlZUkgEC9tWQDZ5miJm"
+],
 [
 "2026-11-20T21:55|Kovacs|Happiness",
 "spotify:track:6MiWGa7dBbRzt8bnqC9DMw"
@@ -4001,6 +4013,18 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-11-20T22:21|Blackhaine|Consumer",
+"t": "2026-11-20T22:21:00+01:00",
+"artist": "Blackhaine",
+"title": "Consumer"
+},
+{
+"id": "2026-11-20T22:13|Blackhaine|Northside Needs Me",
+"t": "2026-11-20T22:13:00+01:00",
+"artist": "Blackhaine",
+"title": "Northside Needs Me"
+},
 {
 "id": "2026-11-20T22:03|Joesef|Pacify",
 "t": "2026-11-20T22:03:00+01:00",
@@ -9436,18 +9460,6 @@
 "t": "2026-11-13T22:32:00+01:00",
 "artist": "Harald Blüchel",
 "title": "No Ordinary Moments, II-IV"
-},
-{
-"id": "2026-11-13T22:24|Los Bitchos|Walk in Salem",
-"t": "2026-11-13T22:24:00+01:00",
-"artist": "Los Bitchos",
-"title": "Walk in Salem"
-},
-{
-"id": "2026-11-13T22:17|Kit Sebastian; Los Bitchos|El Pence",
-"t": "2026-11-13T22:17:00+01:00",
-"artist": "Kit Sebastian; Los Bitchos",
-"title": "El Pence"
 }
 ]
 }
