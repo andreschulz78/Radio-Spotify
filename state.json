@@ -1,9 +1,9 @@
 {
-"updated": "2026-11-20T09:58:50.314121+01:00",
+"updated": "2026-11-20T10:10:50.314423+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
-"synced": "2026-11-20T09:50:50.313893+01:00",
+"synced": "2026-11-20T10:06:50.314344+01:00",
 "pruned": "2026-11-20",
 "calls": {
 "2026-11-13": 149,
@@ -13,12 +13,16 @@
 "2026-11-17": 194,
 "2026-11-18": 180,
 "2026-11-19": 164,
-"2026-11-20": 34
+"2026-11-20": 37
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAjDrpUJQv/PDMTvevHvLKhtIpr853s",
+"snapshot": "AAAjEEtb6YMWgc/OFvGZ7s5WxuKhHEgq",
 "playlist": [
+[
+"2026-11-20T09:56|JGrrey feat. Bel Cobain|Take My Hand",
+"spotify:track:0i4SCqKHjbBrPjUX4RPRq3"
+],
 [
 "2026-11-20T09:46|CECI feat. Lords of Lounge|Honey Honey",
 "spotify:track:1I3D3G5pwYFKNYGIYTLRCq"
@@ -3524,10 +3528,6 @@
 "spotify:track:4jP4NBLn6gPDiyRNuFogE7"
 ],
 [
-"2026-11-13T10:06|Thus Love|In Tandem",
-"spotify:track:5AfzXDe1ySB7J8QrtjMJef"
-],
-[
 "2026-11-13T09:57|Mumford & Sons|Alleycat",
 "spotify:track:3MtVQlX0ZSPqs7d1Tn0g4m"
 ],
@@ -3721,6 +3721,18 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-11-20T10:05|Get Well Soon|Siri, What Ruined The West ?",
+"t": "2026-11-20T10:05:00+01:00",
+"artist": "Get Well Soon",
+"title": "Siri, What Ruined The West ?"
+},
+{
+"id": "2026-11-20T09:56|JGrrey feat. Bel Cobain|Take My Hand",
+"t": "2026-11-20T09:56:00+01:00",
+"artist": "JGrrey feat. Bel Cobain",
+"title": "Take My Hand"
+},
 {
 "id": "2026-11-20T09:50|Sleep Sleep|The City",
 "t": "2026-11-20T09:50:00+01:00",
@@ -9072,12 +9084,6 @@
 "t": "2026-11-13T10:12:00+01:00",
 "artist": "Slowdive",
 "title": "Sugar For The Pill"
-},
-{
-"id": "2026-11-13T10:06|Thus Love|In Tandem",
-"t": "2026-11-13T10:06:00+01:00",
-"artist": "Thus Love",
-"title": "In Tandem"
 }
 ]
 }
