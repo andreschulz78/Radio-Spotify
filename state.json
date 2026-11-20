@@ -1,9 +1,9 @@
 {
-"updated": "2026-11-20T12:34:50.318611+01:00",
+"updated": "2026-11-20T12:46:50.318948+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
-"synced": "2026-11-20T12:30:50.318500+01:00",
+"synced": "2026-11-20T12:46:50.318948+01:00",
 "pruned": "2026-11-20",
 "calls": {
 "2026-11-13": 149,
@@ -13,12 +13,24 @@
 "2026-11-17": 194,
 "2026-11-18": 180,
 "2026-11-19": 164,
-"2026-11-20": 64
+"2026-11-20": 68
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAjGQxKQwJHgJoiSpjWKBP8qvBnY79b",
+"snapshot": "AAAjGkhHxba8p72KXayk3l5YjToKuYTC",
 "playlist": [
+[
+"2026-11-20T12:43|Joy Division|Love Will Tear Us Apart",
+"spotify:track:34iOH7LY3vme5rQxsVILZ4"
+],
+[
+"2026-11-20T12:34|Keshavara|Satori",
+"spotify:track:0AC4SNPMRexmroNpGj2XET"
+],
+[
+"2026-11-20T12:31|Django Django|Cameos",
+"spotify:track:6q1og9CkTnFTTYqOSN9ed3"
+],
 [
 "2026-11-20T12:27|Ada|Moon Rider",
 "spotify:track:1GgRvYZrLJXbNlNXbRYiqp"
@@ -3817,6 +3829,24 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-11-20T12:43|Joy Division|Love Will Tear Us Apart",
+"t": "2026-11-20T12:43:00+01:00",
+"artist": "Joy Division",
+"title": "Love Will Tear Us Apart"
+},
+{
+"id": "2026-11-20T12:34|Keshavara|Satori",
+"t": "2026-11-20T12:34:00+01:00",
+"artist": "Keshavara",
+"title": "Satori"
+},
+{
+"id": "2026-11-20T12:31|Django Django|Cameos",
+"t": "2026-11-20T12:31:00+01:00",
+"artist": "Django Django",
+"title": "Cameos"
+},
 {
 "id": "2026-11-20T12:27|Ada|Moon Rider",
 "t": "2026-11-20T12:27:00+01:00",
@@ -9180,18 +9210,6 @@
 "t": "2026-11-13T12:50:00+01:00",
 "artist": "Sparkling & COMA",
 "title": "It Won't Be Like This Forever"
-},
-{
-"id": "2026-11-13T12:43|Der Assistent|Neue Lunge",
-"t": "2026-11-13T12:43:00+01:00",
-"artist": "Der Assistent",
-"title": "Neue Lunge"
-},
-{
-"id": "2026-11-13T12:38|Wallners|Dracula",
-"t": "2026-11-13T12:38:00+01:00",
-"artist": "Wallners",
-"title": "Dracula"
 }
 ]
 }
