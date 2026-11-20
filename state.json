@@ -1,9 +1,9 @@
 {
-"updated": "2026-11-20T21:49:49.196848+01:00",
+"updated": "2026-11-20T22:01:49.197174+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
-"synced": "2026-11-20T21:37:49.196545+01:00",
+"synced": "2026-11-20T21:53:49.196970+01:00",
 "pruned": "2026-11-20",
 "calls": {
 "2026-11-13": 149,
@@ -13,12 +13,20 @@
 "2026-11-17": 194,
 "2026-11-18": 180,
 "2026-11-19": 164,
-"2026-11-20": 124
+"2026-11-20": 128
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAjLOkslj8pknNou4fT0108DltDbefA",
+"snapshot": "AAAjLW7JTNxL6QNLORY4GQFYu0Ow6xr/",
 "playlist": [
+[
+"2026-11-20T21:43|Jake Bugg|Trapped In A Cage",
+"spotify:track:34dkiXL0l6DadkuVqymbnM"
+],
+[
+"2026-11-20T21:35|Jake Bugg|Drop In The Water",
+"spotify:track:1eKyC1iaXM9P1oNXl3V46q"
+],
 [
 "2026-11-20T21:28|B O D I E S|The Observable Universe",
 "spotify:track:1lmzuwoKY6MWurqsZ3Nc5W"
@@ -3985,6 +3993,18 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-11-20T21:55|Kovacs|Happiness",
+"t": "2026-11-20T21:55:00+01:00",
+"artist": "Kovacs",
+"title": "Happiness"
+},
+{
+"id": "2026-11-20T21:49|Jake Bugg|Cloud In The Sky",
+"t": "2026-11-20T21:49:00+01:00",
+"artist": "Jake Bugg",
+"title": "Cloud In The Sky"
+},
 {
 "id": "2026-11-20T21:43|Jake Bugg|Trapped In A Cage",
 "t": "2026-11-20T21:43:00+01:00",
@@ -9426,12 +9446,6 @@
 "t": "2026-11-13T22:04:00+01:00",
 "artist": "Alex Miksch",
 "title": "Hundsviech"
-},
-{
-"id": "2026-11-13T21:55|U2|Torn (feat. Dolly Parton)",
-"t": "2026-11-13T21:55:00+01:00",
-"artist": "U2",
-"title": "Torn (feat. Dolly Parton)"
 }
 ]
 }
