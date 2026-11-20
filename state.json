@@ -1,9 +1,9 @@
 {
-"updated": "2026-11-20T17:25:49.190165+01:00",
+"updated": "2026-11-20T17:37:49.190469+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
-"synced": "2026-11-20T17:17:49.189944+01:00",
+"synced": "2026-11-20T17:33:49.190386+01:00",
 "pruned": "2026-11-20",
 "calls": {
 "2026-11-13": 149,
@@ -13,11 +13,11 @@
 "2026-11-17": 194,
 "2026-11-18": 180,
 "2026-11-19": 164,
-"2026-11-20": 108
+"2026-11-20": 110
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAjJPHy513M+FwXlbRP4UJgEjZLw8iV",
+"snapshot": "AAAjJiHZyrcUL1Z2M6ebXFRjTPeYkxO0",
 "playlist": [
 [
 "2026-11-20T16:58|The Black Seeds|Love Is A Radiation",
@@ -136,8 +136,16 @@
 "spotify:track:0LZU49YemIdcqIzjw6Aez7"
 ],
 [
+"2026-11-20T13:45|Peter Tosh|Legalize It",
+"spotify:track:7wQqv6a4t78nGamWfhSFY6"
+],
+[
 "2026-11-20T13:33|Lola Young|From Down Here (Radio Edit)",
 "spotify:track:7Hg7l5aOygIHuaNDVFp3ox"
+],
+[
+"2026-11-20T13:30|NEIKED feat. Portugal. The Man|Glide",
+"spotify:track:1CSAUEapYQQOD50ardFG0K"
 ],
 [
 "2026-11-20T13:23|Nation of Language|Inept Apollo",
