@@ -1,9 +1,9 @@
 {
-"updated": "2026-11-20T06:21:34.606316+01:00",
+"updated": "2026-11-20T07:58:50.310656+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
-"synced": "2026-11-20T06:17:34.606204+01:00",
+"synced": "2026-11-20T07:58:50.310656+01:00",
 "pruned": "2026-11-20",
 "calls": {
 "2026-11-13": 149,
@@ -13,12 +13,68 @@
 "2026-11-17": 194,
 "2026-11-18": 180,
 "2026-11-19": 164,
-"2026-11-20": 10
+"2026-11-20": 15
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAjBDYbATnObAH0qELyf0Kc4jOwDJ9B",
+"snapshot": "AAAjBVHuT78zMdU+z6mnQJCgdX12DgWJ",
 "playlist": [
+[
+"2026-11-20T07:49|OutKast|Ms. Jackson",
+"spotify:track:7f5EfIjG8bWxe5fRxD46t0"
+],
+[
+"2026-11-20T07:43|Boy Harsher|Tough Luck (When You Don't Call)",
+"spotify:track:109AVLNWp2BnTXTzF4j6XE"
+],
+[
+"2026-11-20T07:34|Dottie Andersson|Wind That Makes The Subway Sound",
+"spotify:track:3FdJLESuBrb3B9Fh9We3Fl"
+],
+[
+"2026-11-20T07:25|Flora Hibberd|Bowling Ball",
+"spotify:track:2Bqy2DIYw0DXkZj8gHTg2p"
+],
+[
+"2026-11-20T07:17|Die Höchste Eisenbahn|Bürotage",
+"spotify:track:3Uhtuf8aJhIGYcH8sATMpi"
+],
+[
+"2026-11-20T07:13|Lana Del Rey|Blue Jeans",
+"spotify:track:7r9fTuD3JEyUwi3vD7XZDh"
+],
+[
+"2026-11-20T07:05|J.Bernardt|Love Is On My Mind",
+"spotify:track:4LuP3veDBkqnyLQvgDQpJb"
+],
+[
+"2026-11-20T06:56|Ciara Lea|Feel It",
+"spotify:track:2pgT2k8GEnq6ITpy3lVJmi"
+],
+[
+"2026-11-20T06:49|Loaded Honey|Don't Speak",
+"spotify:track:2sKjOX72UX1HiCDhI2HdlR"
+],
+[
+"2026-11-20T06:45|EELS|Congratulations To Me",
+"spotify:track:0PsZbSqZk6s6bEw5Ff3xrS"
+],
+[
+"2026-11-20T06:37|Billie Eilish|Birds Of A Feather",
+"spotify:track:6dOtVTDdiauQNBQEDOtlAB"
+],
+[
+"2026-11-20T06:34|Tommy Richman|Million Dollar Baby (Main Version)",
+"spotify:track:5AJ9hqTS2wcFQCELCFRO7A"
+],
+[
+"2026-11-20T06:17|Fontaines D.C.|Marianne",
+"spotify:track:69rHKcrQpYGfToPThOV1UB"
+],
+[
+"2026-11-20T06:14|Jake Bugg|Never Can Tell",
+"spotify:track:6LE0zFXclaKKFooqm4delR"
+],
 [
 "2026-11-20T06:06|Tori Amos|Spies (UK Radio Edit)",
 "spotify:track:1Z9XYk3pchgABuFtaBJyKu"
@@ -3597,6 +3653,90 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-11-20T07:49|OutKast|Ms. Jackson",
+"t": "2026-11-20T07:49:00+01:00",
+"artist": "OutKast",
+"title": "Ms. Jackson"
+},
+{
+"id": "2026-11-20T07:43|Boy Harsher|Tough Luck (When You Don't Call)",
+"t": "2026-11-20T07:43:00+01:00",
+"artist": "Boy Harsher",
+"title": "Tough Luck (When You Don't Call)"
+},
+{
+"id": "2026-11-20T07:34|Dottie Andersson|Wind That Makes The Subway Sound",
+"t": "2026-11-20T07:34:00+01:00",
+"artist": "Dottie Andersson",
+"title": "Wind That Makes The Subway Sound"
+},
+{
+"id": "2026-11-20T07:25|Flora Hibberd|Bowling Ball",
+"t": "2026-11-20T07:25:00+01:00",
+"artist": "Flora Hibberd",
+"title": "Bowling Ball"
+},
+{
+"id": "2026-11-20T07:17|Die Höchste Eisenbahn|Bürotage",
+"t": "2026-11-20T07:17:00+01:00",
+"artist": "Die Höchste Eisenbahn",
+"title": "Bürotage"
+},
+{
+"id": "2026-11-20T07:13|Lana Del Rey|Blue Jeans",
+"t": "2026-11-20T07:13:00+01:00",
+"artist": "Lana Del Rey",
+"title": "Blue Jeans"
+},
+{
+"id": "2026-11-20T07:05|J.Bernardt|Love Is On My Mind",
+"t": "2026-11-20T07:05:00+01:00",
+"artist": "J.Bernardt",
+"title": "Love Is On My Mind"
+},
+{
+"id": "2026-11-20T06:56|Ciara Lea|Feel It",
+"t": "2026-11-20T06:56:00+01:00",
+"artist": "Ciara Lea",
+"title": "Feel It"
+},
+{
+"id": "2026-11-20T06:49|Loaded Honey|Don't Speak",
+"t": "2026-11-20T06:49:00+01:00",
+"artist": "Loaded Honey",
+"title": "Don't Speak"
+},
+{
+"id": "2026-11-20T06:45|EELS|Congratulations To Me",
+"t": "2026-11-20T06:45:00+01:00",
+"artist": "EELS",
+"title": "Congratulations To Me"
+},
+{
+"id": "2026-11-20T06:37|Billie Eilish|Birds Of A Feather",
+"t": "2026-11-20T06:37:00+01:00",
+"artist": "Billie Eilish",
+"title": "Birds Of A Feather"
+},
+{
+"id": "2026-11-20T06:34|Tommy Richman|Million Dollar Baby (Main Version)",
+"t": "2026-11-20T06:34:00+01:00",
+"artist": "Tommy Richman",
+"title": "Million Dollar Baby (Main Version)"
+},
+{
+"id": "2026-11-20T06:25|Blur|Out Of Time",
+"t": "2026-11-20T06:25:00+01:00",
+"artist": "Blur",
+"title": "Out Of Time"
+},
+{
+"id": "2026-11-20T06:17|Fontaines D.C.|Marianne",
+"t": "2026-11-20T06:17:00+01:00",
+"artist": "Fontaines D.C.",
+"title": "Marianne"
+},
 {
 "id": "2026-11-20T06:14|Jake Bugg|Never Can Tell",
 "t": "2026-11-20T06:14:00+01:00",
@@ -8876,96 +9016,6 @@
 "t": "2026-11-13T08:06:00+01:00",
 "artist": "Supershy feat. Roberta Flack",
 "title": "Feel Like Makin' Love"
-},
-{
-"id": "2026-11-13T07:56|One True Pairing|Be Strong",
-"t": "2026-11-13T07:56:00+01:00",
-"artist": "One True Pairing",
-"title": "Be Strong"
-},
-{
-"id": "2026-11-13T07:49|White Town|Your Woman",
-"t": "2026-11-13T07:49:00+01:00",
-"artist": "White Town",
-"title": "Your Woman"
-},
-{
-"id": "2026-11-13T07:46|Keren Ann|My Name Is Trouble",
-"t": "2026-11-13T07:46:00+01:00",
-"artist": "Keren Ann",
-"title": "My Name Is Trouble"
-},
-{
-"id": "2026-11-13T07:41|2raumwohnung|Lass die Pferde frei (Radio Edit)",
-"t": "2026-11-13T07:41:00+01:00",
-"artist": "2raumwohnung",
-"title": "Lass die Pferde frei (Radio Edit)"
-},
-{
-"id": "2026-11-13T07:32|Cage The Elephant|Skin And Bones (2020 Mix)",
-"t": "2026-11-13T07:32:00+01:00",
-"artist": "Cage The Elephant",
-"title": "Skin And Bones (2020 Mix)"
-},
-{
-"id": "2026-11-13T07:25|Die Ärzte|Dinge von Denen",
-"t": "2026-11-13T07:25:00+01:00",
-"artist": "Die Ärzte",
-"title": "Dinge von Denen"
-},
-{
-"id": "2026-11-13T07:16|Christine And The Queens|Je disparais dans tes bras",
-"t": "2026-11-13T07:16:00+01:00",
-"artist": "Christine And The Queens",
-"title": "Je disparais dans tes bras"
-},
-{
-"id": "2026-11-13T07:13|EELS|Congratulations To Me",
-"t": "2026-11-13T07:13:00+01:00",
-"artist": "EELS",
-"title": "Congratulations To Me"
-},
-{
-"id": "2026-11-13T07:06|The Black Keys|Gold On The Ceiling",
-"t": "2026-11-13T07:06:00+01:00",
-"artist": "The Black Keys",
-"title": "Gold On The Ceiling"
-},
-{
-"id": "2026-11-13T06:57|Suki Waterhouse|My Fun",
-"t": "2026-11-13T06:57:00+01:00",
-"artist": "Suki Waterhouse",
-"title": "My Fun"
-},
-{
-"id": "2026-11-13T06:51|Sylvan Esso|Right to Left",
-"t": "2026-11-13T06:51:00+01:00",
-"artist": "Sylvan Esso",
-"title": "Right to Left"
-},
-{
-"id": "2026-11-13T06:46|Goldfrapp|Number 1",
-"t": "2026-11-13T06:46:00+01:00",
-"artist": "Goldfrapp",
-"title": "Number 1"
-},
-{
-"id": "2026-11-13T06:37|Bilderbuch|Eine Nacht in Manila",
-"t": "2026-11-13T06:37:00+01:00",
-"artist": "Bilderbuch",
-"title": "Eine Nacht in Manila"
-},
-{
-"id": "2026-11-13T06:31|Oslo Twins|I Wake Up Slowly",
-"t": "2026-11-13T06:31:00+01:00",
-"artist": "Oslo Twins",
-"title": "I Wake Up Slowly"
-},
-{
-"id": "2026-11-13T06:24|Bleachers|Blood Brothers",
-"t": "2026-11-13T06:24:00+01:00",
-"artist": "Bleachers",
-"title": "Blood Brothers"
 }
 ]
 }
