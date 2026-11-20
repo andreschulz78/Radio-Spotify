@@ -1,9 +1,9 @@
 {
-"updated": "2026-11-20T17:13:49.189821+01:00",
+"updated": "2026-11-20T17:25:49.190165+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
-"synced": "2026-11-20T17:01:49.189516+01:00",
+"synced": "2026-11-20T17:17:49.189944+01:00",
 "pruned": "2026-11-20",
 "calls": {
 "2026-11-13": 149,
@@ -13,12 +13,16 @@
 "2026-11-17": 194,
 "2026-11-18": 180,
 "2026-11-19": 164,
-"2026-11-20": 96
+"2026-11-20": 108
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAjHzfQD3RegyG7byBOj5lXdAq72MWn",
+"snapshot": "AAAjJPHy513M+FwXlbRP4UJgEjZLw8iV",
 "playlist": [
+[
+"2026-11-20T16:58|The Black Seeds|Love Is A Radiation",
+"spotify:track:7Mc7Ps9byLj7WKZtD3dT4o"
+],
 [
 "2026-11-20T16:50|Sophia Kennedy|Hot Match",
 "spotify:track:1QBwezIfN3BP7CF1vN7wCk"
@@ -60,6 +64,18 @@
 "spotify:track:3hadpAb0vS5uYSrfidLaDr"
 ],
 [
+"2026-11-20T15:35|School Of Seven Bells|Windstorm",
+"spotify:track:0i1LIDHKEWNCHuz3nWeKKf"
+],
+[
+"2026-11-20T15:32|Bloc Party|Banquet",
+"spotify:track:7k2g6qYbEIObCvRLMcqZeN"
+],
+[
+"2026-11-20T15:20|Rahill feat. Beck|Fables",
+"spotify:track:3I49KOk2e2Fxoh6IlSiTKX"
+],
+[
 "2026-11-20T15:07|Ane Brun feat. Röyksopp|Eat The Fruit (Radio Edit)",
 "spotify:track:6QTVocXJIT6QomBx2QuBBm"
 ],
@@ -68,8 +84,32 @@
 "spotify:track:2CHdkhVS2Nh0fIEdzpokC7"
 ],
 [
+"2026-11-20T14:58|Die Fantastischen Vier|Nur in deinem Kopf",
+"spotify:track:3673hMKxAJFB6BCoPOsJW0"
+],
+[
 "2026-11-20T14:55|Ibeyi|Hurry Hurry",
 "spotify:track:4BGA7VW330Eu1kaFNi98cG"
+],
+[
+"2026-11-20T14:49|Kim Gordon|Play Me",
+"spotify:track:3r8jMGukBwtwapk6C8QrA3"
+],
+[
+"2026-11-20T14:45|Falco|Brillantin' Brutal'",
+"spotify:track:5CAmDCxCwpJkhQd7vOww4B"
+],
+[
+"2026-11-20T14:42|Fatboy Slim|Praise You",
+"spotify:track:1FS21kclHQ2vVi3U1ZxETc"
+],
+[
+"2026-11-20T14:32|Tame Impala|The Less I Know The Better",
+"spotify:track:6K4t31amVTZDgR3sKmwUJJ"
+],
+[
+"2026-11-20T14:29|The Slow Show|Breathe (Edit)",
+"spotify:track:71oeOG6r24M9GKeUunvDVU"
 ],
 [
 "2026-11-20T14:23|Eilis Frawley|Taken, Never Erased",
@@ -78,6 +118,10 @@
 [
 "2026-11-20T14:21|The Avalanches feat. Karen O|Blue Shadows",
 "spotify:track:5bN5To0VLbNBKQDzJ1Lk6c"
+],
+[
+"2026-11-20T14:12|Gary Numan|Cars",
+"spotify:track:4DSla2dkEgoOC7d0D4ZbtG"
 ],
 [
 "2026-11-20T14:06|Moonlight Breakfast|If Not Now, Then When?!",
