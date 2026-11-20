@@ -1,9 +1,9 @@
 {
-"updated": "2026-11-20T18:01:49.191165+01:00",
+"updated": "2026-11-20T18:13:49.191462+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
-"synced": "2026-11-20T17:57:49.191044+01:00",
+"synced": "2026-11-20T18:13:49.191462+01:00",
 "pruned": "2026-11-20",
 "calls": {
 "2026-11-13": 149,
@@ -13,12 +13,16 @@
 "2026-11-17": 194,
 "2026-11-18": 180,
 "2026-11-19": 164,
-"2026-11-20": 111
+"2026-11-20": 113
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAjJ1DeG7UmPUpPAsaS1GAzUyNExvY/",
+"snapshot": "AAAjKKHsK00z+jvRmJwlEdDoonC/5/YE",
 "playlist": [
+[
+"2026-11-20T17:58|New German Cinema|Water Drops",
+"spotify:track:65SwobxDwUigYvd91PIAuF"
+],
 [
 "2026-11-20T16:58|The Black Seeds|Love Is A Radiation",
 "spotify:track:7Mc7Ps9byLj7WKZtD3dT4o"
