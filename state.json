@@ -1,9 +1,9 @@
 {
-"updated": "2026-11-21T16:28:10.239308+01:00",
+"updated": "2026-11-21T16:40:10.239625+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
-"synced": "2026-11-21T16:20:10.239076+01:00",
+"synced": "2026-11-21T16:36:10.239514+01:00",
 "pruned": "2026-11-21",
 "calls": {
 "2026-11-14": 145,
@@ -13,12 +13,24 @@
 "2026-11-18": 180,
 "2026-11-19": 164,
 "2026-11-20": 147,
-"2026-11-21": 80
+"2026-11-21": 81
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAjWy/oTIIgafiQVfSS9BgKAKKMpVxd",
+"snapshot": "AAAjXJmjCxONbK0A+3cP85aHkg7z1OBz",
 "playlist": [
+[
+"2026-11-21T16:32|SOFY|50/50",
+"spotify:track:16QLv8xt9nPNBZCBDm3Gkv"
+],
+[
+"2026-11-21T16:24|Benjamin Clementine|In Fact You Know You Gotto Go",
+"spotify:track:4cWEdRTQ8sg4QaTBIGn06j"
+],
+[
+"2026-11-21T16:20|Ayele|Fractured (Radio Edit)",
+"spotify:track:5EGnOBL2qoUNard3Oaq5Hc"
+],
 [
 "2026-11-21T16:06|The Cranberries|Zombie",
 "spotify:track:3AuzWjtoc3BxIBvhRL9nZR"
@@ -3889,6 +3901,24 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-11-21T16:35|Serebii|Even In The Quiet",
+"t": "2026-11-21T16:35:00+01:00",
+"artist": "Serebii",
+"title": "Even In The Quiet"
+},
+{
+"id": "2026-11-21T16:32|SOFY|50/50",
+"t": "2026-11-21T16:32:00+01:00",
+"artist": "SOFY",
+"title": "50/50"
+},
+{
+"id": "2026-11-21T16:24|Benjamin Clementine|In Fact You Know You Gotto Go",
+"t": "2026-11-21T16:24:00+01:00",
+"artist": "Benjamin Clementine",
+"title": "In Fact You Know You Gotto Go"
+},
 {
 "id": "2026-11-21T16:20|Ayele|Fractured (Radio Edit)",
 "t": "2026-11-21T16:20:00+01:00",
@@ -9408,24 +9438,6 @@
 "t": "2026-11-14T16:44:00+01:00",
 "artist": "The Notwist",
 "title": "Chemicals"
-},
-{
-"id": "2026-11-14T16:38|Villagers|A Trick Of The Light",
-"t": "2026-11-14T16:38:00+01:00",
-"artist": "Villagers",
-"title": "A Trick Of The Light"
-},
-{
-"id": "2026-11-14T16:34|Leyya|Sometimes You're Lonely",
-"t": "2026-11-14T16:34:00+01:00",
-"artist": "Leyya",
-"title": "Sometimes You're Lonely"
-},
-{
-"id": "2026-11-14T16:31|Erika De Casier|Delusional",
-"t": "2026-11-14T16:31:00+01:00",
-"artist": "Erika De Casier",
-"title": "Delusional"
 }
 ]
 }
