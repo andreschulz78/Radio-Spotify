@@ -1,5 +1,5 @@
 {
-"updated": "2026-11-21T06:29:09.590130+01:00",
+"updated": "2026-11-21T06:41:09.590439+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
@@ -13,7 +13,7 @@
 "2026-11-18": 180,
 "2026-11-19": 164,
 "2026-11-20": 147,
-"2026-11-21": 5
+"2026-11-21": 6
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
@@ -3605,6 +3605,18 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-11-21T06:33|Bonaparte|KiOSKO",
+"t": "2026-11-21T06:33:00+01:00",
+"artist": "Bonaparte",
+"title": "KiOSKO"
+},
+{
+"id": "2026-11-21T06:27|Len|Steal My Sunshine",
+"t": "2026-11-21T06:27:00+01:00",
+"artist": "Len",
+"title": "Steal My Sunshine"
+},
 {
 "id": "2026-11-21T06:21|Sophia Kennedy|Schenke mir ein",
 "t": "2026-11-21T06:21:00+01:00",
@@ -9034,18 +9046,6 @@
 "t": "2026-11-14T06:45:00+01:00",
 "artist": "Zero 7",
 "title": "In The Waiting Line"
-},
-{
-"id": "2026-11-14T06:36|54 Ultra|Tell Me",
-"t": "2026-11-14T06:36:00+01:00",
-"artist": "54 Ultra",
-"title": "Tell Me"
-},
-{
-"id": "2026-11-14T06:32|Methyl Ethel|Scream Whole",
-"t": "2026-11-14T06:32:00+01:00",
-"artist": "Methyl Ethel",
-"title": "Scream Whole"
 }
 ]
 }
