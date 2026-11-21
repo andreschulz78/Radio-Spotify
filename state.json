@@ -1,9 +1,9 @@
 {
-"updated": "2026-11-21T18:04:10.242010+01:00",
+"updated": "2026-11-21T18:16:10.242328+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
-"synced": "2026-11-21T17:52:10.241653+01:00",
+"synced": "2026-11-21T18:08:10.242119+01:00",
 "pruned": "2026-11-21",
 "calls": {
 "2026-11-14": 145,
@@ -13,12 +13,20 @@
 "2026-11-18": 180,
 "2026-11-19": 164,
 "2026-11-20": 147,
-"2026-11-21": 90
+"2026-11-21": 91
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAjYCAFU64TnK8gZ1VhXNYlbletcKSq",
+"snapshot": "AAAjYdaSJm8nIDiZ2Af8HIcm8j3sz9x1",
 "playlist": [
+[
+"2026-11-21T17:51|Agnes Obel|Laymelli (Edit)",
+"spotify:track:0VzMHjWcs2P24LHLekZ8Qa"
+],
+[
+"2026-11-21T17:48|Air|Don't Be Light",
+"spotify:track:7dH6ijjB12ouc9WXyYtMla"
+],
 [
 "2026-11-21T17:44|Whitney Houston|Million Dollar Bill",
 "spotify:track:78Liq9m8u6xjuamJIeznTd"
