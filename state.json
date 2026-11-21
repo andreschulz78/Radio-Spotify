@@ -1,9 +1,9 @@
 {
-"updated": "2026-11-21T17:04:10.240299+01:00",
+"updated": "2026-11-21T17:16:10.240638+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
-"synced": "2026-11-21T16:52:10.239962+01:00",
+"synced": "2026-11-21T17:08:10.240412+01:00",
 "pruned": "2026-11-21",
 "calls": {
 "2026-11-14": 145,
@@ -13,12 +13,20 @@
 "2026-11-18": 180,
 "2026-11-19": 164,
 "2026-11-20": 147,
-"2026-11-21": 84
+"2026-11-21": 85
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAjXd6psErJT2nt5O0gATTrpoBvhwb9",
+"snapshot": "AAAjXofpKWr45H+xHSQktdLp6/pBFmhL",
 "playlist": [
+[
+"2026-11-21T16:54|Theophilus London feat. Ariel Pink|Revenge",
+"spotify:track:4WJgcVQ3oAtvlWuB2KgYi0"
+],
+[
+"2026-11-21T16:51|Toro y Moi feat. Kenny Beats|Daria",
+"spotify:track:2tkgYtgyl5CVafEr8ev25S"
+],
 [
 "2026-11-21T16:46|Σtella|Belinda",
 "spotify:track:1rs2lOYfBKNW5OCpeTIiVf"
@@ -9438,18 +9446,6 @@
 "t": "2026-11-14T17:18:00+01:00",
 "artist": "Stoppok",
 "title": "Hoppla Hoppla"
-},
-{
-"id": "2026-11-14T17:09|Amilli|Warning Signs",
-"t": "2026-11-14T17:09:00+01:00",
-"artist": "Amilli",
-"title": "Warning Signs"
-},
-{
-"id": "2026-11-14T17:05|Harry Dean Lewis feat. Joe Traxler|Fizz",
-"t": "2026-11-14T17:05:00+01:00",
-"artist": "Harry Dean Lewis feat. Joe Traxler",
-"title": "Fizz"
 }
 ]
 }
