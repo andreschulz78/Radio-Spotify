@@ -1,5 +1,5 @@
 {
-"updated": "2026-11-21T21:41:03.280598+01:00",
+"updated": "2026-11-21T21:53:03.280866+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
@@ -9406,18 +9406,6 @@
 "t": "2026-11-14T21:56:00+01:00",
 "artist": "Mouth Ulcers",
 "title": "Lady Rust"
-},
-{
-"id": "2026-11-14T21:51|GRUB|Shake It",
-"t": "2026-11-14T21:51:00+01:00",
-"artist": "GRUB",
-"title": "Shake It"
-},
-{
-"id": "2026-11-14T21:46|UCHE YARA|Bodyscanner",
-"t": "2026-11-14T21:46:00+01:00",
-"artist": "UCHE YARA",
-"title": "Bodyscanner"
 }
 ]
 }
