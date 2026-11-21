@@ -1,9 +1,9 @@
 {
-"updated": "2026-11-21T21:17:03.280029+01:00",
+"updated": "2026-11-21T21:29:03.280306+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
-"synced": "2026-11-21T18:08:10.242119+01:00",
+"synced": "2026-11-21T21:25:03.280222+01:00",
 "pruned": "2026-11-21",
 "calls": {
 "2026-11-14": 145,
@@ -13,11 +13,11 @@
 "2026-11-18": 180,
 "2026-11-19": 164,
 "2026-11-20": 147,
-"2026-11-21": 91
+"2026-11-21": 93
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAjYdaSJm8nIDiZ2Af8HIcm8j3sz9x1",
+"snapshot": "AAAjYhikdleAy2DaIC29Awi+VySzs2Xy",
 "playlist": [
 [
 "2026-11-21T17:51|Agnes Obel|Laymelli (Edit)",
@@ -3598,10 +3598,6 @@
 [
 "2026-11-14T21:37|Cats in Space|Miracle",
 "spotify:track:6tuaEb32FvhRj7jbR9KEQJ"
-],
-[
-"2026-11-14T21:25|Gurriers|Nobody's Coming To Save You",
-"spotify:track:0difWBwYseFbbXTAj6TyOi"
 ],
 [
 "2026-11-14T21:18|Tom A. Smith|Carry That Weight",
@@ -9428,18 +9424,6 @@
 "t": "2026-11-14T21:37:00+01:00",
 "artist": "Cats in Space",
 "title": "Miracle"
-},
-{
-"id": "2026-11-14T21:25|Gurriers|Nobody's Coming To Save You",
-"t": "2026-11-14T21:25:00+01:00",
-"artist": "Gurriers",
-"title": "Nobody's Coming To Save You"
-},
-{
-"id": "2026-11-14T21:18|Tom A. Smith|Carry That Weight",
-"t": "2026-11-14T21:18:00+01:00",
-"artist": "Tom A. Smith",
-"title": "Carry That Weight"
 }
 ]
 }
