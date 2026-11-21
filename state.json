@@ -1,9 +1,9 @@
 {
-"updated": "2026-11-21T08:41:09.594037+01:00",
+"updated": "2026-11-21T08:53:09.594358+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
-"synced": "2026-11-21T08:37:09.593929+01:00",
+"synced": "2026-11-21T08:53:09.594358+01:00",
 "pruned": "2026-11-21",
 "calls": {
 "2026-11-14": 145,
@@ -13,12 +13,20 @@
 "2026-11-18": 180,
 "2026-11-19": 164,
 "2026-11-20": 147,
-"2026-11-21": 27
+"2026-11-21": 29
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAjRAHAHL3jITeakHwbzAIf0T/ZE5w2",
+"snapshot": "AAAjRQOgsCq1ueF1gB2sQ5GTy5chnWNT",
 "playlist": [
+[
+"2026-11-21T08:46|The Avalanches feat. Karen O|Blue Shadows",
+"spotify:track:5bN5To0VLbNBKQDzJ1Lk6c"
+],
+[
+"2026-11-21T08:41|Hayden Thorpe|Golden Ratio",
+"spotify:track:3MHBYSloK2tHDGAZ3ucA5I"
+],
 [
 "2026-11-21T08:32|Soulwax|Run Free (Radio Edit)",
 "spotify:track:7dZj9gntXZJBDuSlYguPyH"
@@ -3685,6 +3693,18 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-11-21T08:46|The Avalanches feat. Karen O|Blue Shadows",
+"t": "2026-11-21T08:46:00+01:00",
+"artist": "The Avalanches feat. Karen O",
+"title": "Blue Shadows"
+},
+{
+"id": "2026-11-21T08:41|Hayden Thorpe|Golden Ratio",
+"t": "2026-11-21T08:41:00+01:00",
+"artist": "Hayden Thorpe",
+"title": "Golden Ratio"
+},
 {
 "id": "2026-11-21T08:32|Soulwax|Run Free (Radio Edit)",
 "t": "2026-11-21T08:32:00+01:00",
@@ -9096,24 +9116,6 @@
 "t": "2026-11-14T08:56:00+01:00",
 "artist": "Marlon Magnee",
 "title": "People Are Afraid"
-},
-{
-"id": "2026-11-14T08:51|Kings Of Convenience|Toxic Girl",
-"t": "2026-11-14T08:51:00+01:00",
-"artist": "Kings Of Convenience",
-"title": "Toxic Girl"
-},
-{
-"id": "2026-11-14T08:48|Alewya|Maktoub",
-"t": "2026-11-14T08:48:00+01:00",
-"artist": "Alewya",
-"title": "Maktoub"
-},
-{
-"id": "2026-11-14T08:42|King Krule|Easy Easy",
-"t": "2026-11-14T08:42:00+01:00",
-"artist": "King Krule",
-"title": "Easy Easy"
 }
 ]
 }
