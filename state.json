@@ -1,9 +1,9 @@
 {
-"updated": "2026-11-21T08:17:09.593248+01:00",
+"updated": "2026-11-21T08:29:09.593640+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
-"synced": "2026-11-21T08:05:09.592882+01:00",
+"synced": "2026-11-21T08:21:09.593353+01:00",
 "pruned": "2026-11-21",
 "calls": {
 "2026-11-14": 145,
@@ -13,12 +13,20 @@
 "2026-11-18": 180,
 "2026-11-19": 164,
 "2026-11-20": 147,
-"2026-11-21": 20
+"2026-11-21": 24
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAjQoeJYiT0yG4YFPN6O79hqy8S+CjW",
+"snapshot": "AAAjQ6X71kkagcuS0WB95Ntm6l+udMo3",
 "playlist": [
+[
+"2026-11-21T08:12|Ibibio Sound Machine|Love",
+"spotify:track:0JGa4KrhqriWUuPcni3I8D"
+],
+[
+"2026-11-21T08:04|Oum Shatt|Gold To Straw",
+"spotify:track:1McTZhC5JeEmEm0AbiAefJ"
+],
 [
 "2026-11-21T07:56|Kelela|the bridge (feat. PinkPantheress)",
 "spotify:track:4Og22Djtd18AVqNgijpLsX"
@@ -3665,6 +3673,18 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-11-21T08:22|Karl die Große|Gefällt",
+"t": "2026-11-21T08:22:00+01:00",
+"artist": "Karl die Große",
+"title": "Gefällt"
+},
+{
+"id": "2026-11-21T08:16|The Psychedelic Furs|Until She Comes",
+"t": "2026-11-21T08:16:00+01:00",
+"artist": "The Psychedelic Furs",
+"title": "Until She Comes"
+},
 {
 "id": "2026-11-21T08:12|Ibibio Sound Machine|Love",
 "t": "2026-11-21T08:12:00+01:00",
@@ -9082,18 +9102,6 @@
 "t": "2026-11-14T08:35:00+01:00",
 "artist": "Chinese American Bear",
 "title": "Dance Dance Dance (Edit)"
-},
-{
-"id": "2026-11-14T08:27|Odd Beholder|Your Emancipation",
-"t": "2026-11-14T08:27:00+01:00",
-"artist": "Odd Beholder",
-"title": "Your Emancipation"
-},
-{
-"id": "2026-11-14T08:19|The Liminianas feat. Laurent Garnier|Saul",
-"t": "2026-11-14T08:19:00+01:00",
-"artist": "The Liminianas feat. Laurent Garnier",
-"title": "Saul"
 }
 ]
 }
