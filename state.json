@@ -1,9 +1,9 @@
 {
-"updated": "2026-11-21T07:29:09.591833+01:00",
+"updated": "2026-11-21T07:41:09.592203+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
-"synced": "2026-11-21T07:17:09.591473+01:00",
+"synced": "2026-11-21T07:33:09.591961+01:00",
 "pruned": "2026-11-21",
 "calls": {
 "2026-11-14": 145,
@@ -13,12 +13,24 @@
 "2026-11-18": 180,
 "2026-11-19": 164,
 "2026-11-20": 147,
-"2026-11-21": 12
+"2026-11-21": 14
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAjP1qsX6SZZE5Cu1ak2/aMIdxatWGf",
+"snapshot": "AAAjQIF4SEpxD+HJMW+rH5smnHphX1oJ",
 "playlist": [
+[
+"2026-11-21T07:24|Sergio Torales feat. Der Assistent|Veo",
+"spotify:track:6k1tMxv0y7hJJsQMMfnE6p"
+],
+[
+"2026-11-21T07:21|Ane Brun feat. Röyksopp|Eat The Fruit (Radio Edit)",
+"spotify:track:6QTVocXJIT6QomBx2QuBBm"
+],
+[
+"2026-11-21T07:16|54 Ultra|Tell Me",
+"spotify:track:6iXIvHGsLMJ89TuW1S9E3C"
+],
 [
 "2026-11-21T07:12|Bonobo|Shokoufeh",
 "spotify:track:5cZ6iDczIvnNezs5sqdgU8"
@@ -3633,6 +3645,18 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-11-21T07:31|Stella Donnelly|Laying Low",
+"t": "2026-11-21T07:31:00+01:00",
+"artist": "Stella Donnelly",
+"title": "Laying Low"
+},
+{
+"id": "2026-11-21T07:24|Sergio Torales feat. Der Assistent|Veo",
+"t": "2026-11-21T07:24:00+01:00",
+"artist": "Sergio Torales feat. Der Assistent",
+"title": "Veo"
+},
 {
 "id": "2026-11-21T07:21|Ane Brun feat. Röyksopp|Eat The Fruit (Radio Edit)",
 "t": "2026-11-21T07:21:00+01:00",
@@ -9050,24 +9074,6 @@
 "t": "2026-11-14T07:47:00+01:00",
 "artist": "Austra",
 "title": "Math Equation"
-},
-{
-"id": "2026-11-14T07:40|Sam Burton|I'm A Stranger",
-"t": "2026-11-14T07:40:00+01:00",
-"artist": "Sam Burton",
-"title": "I'm A Stranger"
-},
-{
-"id": "2026-11-14T07:35|Still Corners|The Creeps",
-"t": "2026-11-14T07:35:00+01:00",
-"artist": "Still Corners",
-"title": "The Creeps"
-},
-{
-"id": "2026-11-14T07:32|Obongjayar|Just Cool",
-"t": "2026-11-14T07:32:00+01:00",
-"artist": "Obongjayar",
-"title": "Just Cool"
 }
 ]
 }
