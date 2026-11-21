@@ -1,9 +1,9 @@
 {
-"updated": "2026-11-21T09:17:09.595078+01:00",
+"updated": "2026-11-21T09:29:09.595461+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
-"synced": "2026-11-21T09:09:09.594829+01:00",
+"synced": "2026-11-21T09:25:09.595298+01:00",
 "pruned": "2026-11-21",
 "calls": {
 "2026-11-14": 145,
@@ -13,12 +13,24 @@
 "2026-11-18": 180,
 "2026-11-19": 164,
 "2026-11-20": 147,
-"2026-11-21": 32
+"2026-11-21": 33
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAjRuAh5jyxm1fossK3wCby8NQFmAmL",
+"snapshot": "AAAjRxq9JUj9CNKGhhU0EDdq78Il3TU5",
 "playlist": [
+[
+"2026-11-21T09:21|The Big Moon|F.O.R.E.V.E.R",
+"spotify:track:0UaPOdi1O83vr1oTXaGqgx"
+],
+[
+"2026-11-21T09:10|Perel|Alles",
+"spotify:track:26gfWRqtpcDB1GVUieK6vG"
+],
+[
+"2026-11-21T09:04|Westside Cowboy|Kick Stones (The Boys)",
+"spotify:track:6qIdkfxjme3OEkdgsA8ANp"
+],
 [
 "2026-11-21T08:49|Kutiman & Dekel|Hope",
 "spotify:track:4gFA57bNxMSqRk3q0vALkl"
@@ -3697,6 +3709,12 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-11-21T09:21|The Big Moon|F.O.R.E.V.E.R",
+"t": "2026-11-21T09:21:00+01:00",
+"artist": "The Big Moon",
+"title": "F.O.R.E.V.E.R"
+},
 {
 "id": "2026-11-21T09:10|Perel|Alles",
 "t": "2026-11-21T09:10:00+01:00",
