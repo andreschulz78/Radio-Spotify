@@ -1,5 +1,5 @@
 {
-"updated": "2026-11-21T08:05:09.592882+01:00",
+"updated": "2026-11-21T08:17:09.593248+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
@@ -13,7 +13,7 @@
 "2026-11-18": 180,
 "2026-11-19": 164,
 "2026-11-20": 147,
-"2026-11-21": 19
+"2026-11-21": 20
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
@@ -3665,6 +3665,18 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-11-21T08:12|Ibibio Sound Machine|Love",
+"t": "2026-11-21T08:12:00+01:00",
+"artist": "Ibibio Sound Machine",
+"title": "Love"
+},
+{
+"id": "2026-11-21T08:04|Oum Shatt|Gold To Straw",
+"t": "2026-11-21T08:04:00+01:00",
+"artist": "Oum Shatt",
+"title": "Gold To Straw"
+},
 {
 "id": "2026-11-21T07:56|Kelela|the bridge (feat. PinkPantheress)",
 "t": "2026-11-21T07:56:00+01:00",
@@ -9082,18 +9094,6 @@
 "t": "2026-11-14T08:19:00+01:00",
 "artist": "The Liminianas feat. Laurent Garnier",
 "title": "Saul"
-},
-{
-"id": "2026-11-14T08:16|DJ Shadow|Nobody Speak",
-"t": "2026-11-14T08:16:00+01:00",
-"artist": "DJ Shadow",
-"title": "Nobody Speak"
-},
-{
-"id": "2026-11-14T08:11|The Human League|Don't You Want Me",
-"t": "2026-11-14T08:11:00+01:00",
-"artist": "The Human League",
-"title": "Don't You Want Me"
 }
 ]
 }
