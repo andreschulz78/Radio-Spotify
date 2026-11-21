@@ -1,9 +1,9 @@
 {
-"updated": "2026-11-21T12:52:10.233425+01:00",
+"updated": "2026-11-21T13:04:10.233714+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
-"synced": "2026-11-21T12:40:10.233103+01:00",
+"synced": "2026-11-21T12:56:10.233530+01:00",
 "pruned": "2026-11-21",
 "calls": {
 "2026-11-14": 145,
@@ -13,11 +13,11 @@
 "2026-11-18": 180,
 "2026-11-19": 164,
 "2026-11-20": 147,
-"2026-11-21": 51
+"2026-11-21": 54
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAjTrAa2NF2fTb01pirZjtPBX2AE/Hs",
+"snapshot": "AAAjUYvJ94YNCbMglEH0gkQC61TuTusT",
 "playlist": [
 [
 "2026-11-21T11:56|Zaho de Sagazan|Modern Love",
@@ -44,12 +44,28 @@
 "spotify:track:7MZHqgTVTnN6xZGYAcEEAf"
 ],
 [
+"2026-11-21T11:22|Apparat|Arcadia",
+"spotify:track:49KVtxjMNy8li0sQt4exTD"
+],
+[
 "2026-11-21T11:18|Ibeyi|Hurry Hurry",
 "spotify:track:4BGA7VW330Eu1kaFNi98cG"
 ],
 [
+"2026-11-21T11:10|Ellis, Beggs & Howard|Big Bubbles, No Troubles",
+"spotify:track:7xvXsRAYk3tSiuSyMyoKiw"
+],
+[
+"2026-11-21T11:06|Glass Animals|Life Itself",
+"spotify:track:32zkKx35Et6A515oZKxDkD"
+],
+[
 "2026-11-21T10:57|Andrew Bird|Make A Picture",
 "spotify:track:79nKml4A4m5KINlosGJNli"
+],
+[
+"2026-11-21T10:51|Fleps feat. Anita Lykkegård|Sorry For The Tears",
+"spotify:track:2bcYOA5pB9jvvb7GdCI1lf"
 ],
 [
 "2026-11-21T10:48|Keshavara|Oracular",
@@ -9346,12 +9362,6 @@
 "t": "2026-11-14T14:06:00+01:00",
 "artist": "Skeleten",
 "title": "Love Enemy"
-},
-{
-"id": "2026-11-14T12:57|Nihils|Lavender",
-"t": "2026-11-14T12:57:00+01:00",
-"artist": "Nihils",
-"title": "Lavender"
 }
 ]
 }
