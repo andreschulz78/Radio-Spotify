@@ -1,9 +1,9 @@
 {
-"updated": "2026-11-21T10:53:09.597842+01:00",
+"updated": "2026-11-21T12:40:10.233103+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
-"synced": "2026-11-21T10:45:09.597644+01:00",
+"synced": "2026-11-21T12:40:10.233103+01:00",
 "pruned": "2026-11-21",
 "calls": {
 "2026-11-14": 145,
@@ -13,12 +13,48 @@
 "2026-11-18": 180,
 "2026-11-19": 164,
 "2026-11-20": 147,
-"2026-11-21": 43
+"2026-11-21": 47
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAjTVtso5OPlAhveFUqFuILSHO99amH",
+"snapshot": "AAAjTrAa2NF2fTb01pirZjtPBX2AE/Hs",
 "playlist": [
+[
+"2026-11-21T11:56|Zaho de Sagazan|Modern Love",
+"spotify:track:61rputyFcUsC1ldct1OKRr"
+],
+[
+"2026-11-21T11:51|Anderson .Paak & Cordae|A Good Day",
+"spotify:track:4CrnExkcZkg6Aek113hAWl"
+],
+[
+"2026-11-21T11:45|Simple Minds|Theme For Great Cities",
+"spotify:track:3jPd3ktKuVmVxdOBPAfwZy"
+],
+[
+"2026-11-21T11:35|Agoria feat. Noemie & Rami Khalifé|Teardrops",
+"spotify:track:10zmZSuW7yD7r9YTJeztsw"
+],
+[
+"2026-11-21T11:31|Smidley feat. Lucy Dacus|Capstone",
+"spotify:track:0YosJMrYxYQP7mLXfFo0p1"
+],
+[
+"2026-11-21T11:26|Sam Fender feat. Olivia Dean|Rein Me In (Edit)",
+"spotify:track:7MZHqgTVTnN6xZGYAcEEAf"
+],
+[
+"2026-11-21T11:18|Ibeyi|Hurry Hurry",
+"spotify:track:4BGA7VW330Eu1kaFNi98cG"
+],
+[
+"2026-11-21T10:57|Andrew Bird|Make A Picture",
+"spotify:track:79nKml4A4m5KINlosGJNli"
+],
+[
+"2026-11-21T10:48|Keshavara|Oracular",
+"spotify:track:41sGSIiPi1QAYaL6nUWSDg"
+],
 [
 "2026-11-21T10:36|College feat. Electric Youth|A Real Hero",
 "spotify:track:1aJrVsHwcQMZ8TZ6mlvT5J"
@@ -3749,6 +3785,84 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-11-21T11:56|Zaho de Sagazan|Modern Love",
+"t": "2026-11-21T11:56:00+01:00",
+"artist": "Zaho de Sagazan",
+"title": "Modern Love"
+},
+{
+"id": "2026-11-21T11:51|Anderson .Paak & Cordae|A Good Day",
+"t": "2026-11-21T11:51:00+01:00",
+"artist": "Anderson .Paak & Cordae",
+"title": "A Good Day"
+},
+{
+"id": "2026-11-21T11:45|Simple Minds|Theme For Great Cities",
+"t": "2026-11-21T11:45:00+01:00",
+"artist": "Simple Minds",
+"title": "Theme For Great Cities"
+},
+{
+"id": "2026-11-21T11:35|Agoria feat. Noemie & Rami Khalifé|Teardrops",
+"t": "2026-11-21T11:35:00+01:00",
+"artist": "Agoria feat. Noemie & Rami Khalifé",
+"title": "Teardrops"
+},
+{
+"id": "2026-11-21T11:31|Smidley feat. Lucy Dacus|Capstone",
+"t": "2026-11-21T11:31:00+01:00",
+"artist": "Smidley feat. Lucy Dacus",
+"title": "Capstone"
+},
+{
+"id": "2026-11-21T11:26|Sam Fender feat. Olivia Dean|Rein Me In (Edit)",
+"t": "2026-11-21T11:26:00+01:00",
+"artist": "Sam Fender feat. Olivia Dean",
+"title": "Rein Me In (Edit)"
+},
+{
+"id": "2026-11-21T11:22|Apparat|Arcadia",
+"t": "2026-11-21T11:22:00+01:00",
+"artist": "Apparat",
+"title": "Arcadia"
+},
+{
+"id": "2026-11-21T11:18|Ibeyi|Hurry Hurry",
+"t": "2026-11-21T11:18:00+01:00",
+"artist": "Ibeyi",
+"title": "Hurry Hurry"
+},
+{
+"id": "2026-11-21T11:10|Ellis, Beggs & Howard|Big Bubbles, No Troubles",
+"t": "2026-11-21T11:10:00+01:00",
+"artist": "Ellis, Beggs & Howard",
+"title": "Big Bubbles, No Troubles"
+},
+{
+"id": "2026-11-21T11:06|Glass Animals|Life Itself",
+"t": "2026-11-21T11:06:00+01:00",
+"artist": "Glass Animals",
+"title": "Life Itself"
+},
+{
+"id": "2026-11-21T10:57|Andrew Bird|Make A Picture",
+"t": "2026-11-21T10:57:00+01:00",
+"artist": "Andrew Bird",
+"title": "Make A Picture"
+},
+{
+"id": "2026-11-21T10:51|Fleps feat. Anita Lykkegård|Sorry For The Tears",
+"t": "2026-11-21T10:51:00+01:00",
+"artist": "Fleps feat. Anita Lykkegård",
+"title": "Sorry For The Tears"
+},
+{
+"id": "2026-11-21T10:48|Keshavara|Oracular",
+"t": "2026-11-21T10:48:00+01:00",
+"artist": "Keshavara",
+"title": "Oracular"
+},
 {
 "id": "2026-11-21T10:36|College feat. Electric Youth|A Real Hero",
 "t": "2026-11-21T10:36:00+01:00",
@@ -9238,24 +9352,6 @@
 "t": "2026-11-14T12:57:00+01:00",
 "artist": "Nihils",
 "title": "Lavender"
-},
-{
-"id": "2026-11-14T11:58|Deichkind|Fresh ist vorne",
-"t": "2026-11-14T11:58:00+01:00",
-"artist": "Deichkind",
-"title": "Fresh ist vorne"
-},
-{
-"id": "2026-11-14T11:55|Kenny Dope feat. Róisín Murphy|Born Under Punches (The Heat Goes On)",
-"t": "2026-11-14T11:55:00+01:00",
-"artist": "Kenny Dope feat. Róisín Murphy",
-"title": "Born Under Punches (The Heat Goes On)"
-},
-{
-"id": "2026-11-14T10:57|Tikhet|Almost Up In Space",
-"t": "2026-11-14T10:57:00+01:00",
-"artist": "Tikhet",
-"title": "Almost Up In Space"
 }
 ]
 }
