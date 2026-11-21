@@ -1,5 +1,5 @@
 {
-"updated": "2026-11-21T21:53:03.280866+01:00",
+"updated": "2026-11-21T22:05:03.281188+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
@@ -9394,18 +9394,6 @@
 "t": "2026-11-14T22:08:00+01:00",
 "artist": "Mareux",
 "title": "The Perfect Girl"
-},
-{
-"id": "2026-11-14T22:03|Amelie Lens|In Silence",
-"t": "2026-11-14T22:03:00+01:00",
-"artist": "Amelie Lens",
-"title": "In Silence"
-},
-{
-"id": "2026-11-14T21:56|Mouth Ulcers|Lady Rust",
-"t": "2026-11-14T21:56:00+01:00",
-"artist": "Mouth Ulcers",
-"title": "Lady Rust"
 }
 ]
 }
