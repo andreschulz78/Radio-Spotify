@@ -1,9 +1,9 @@
 {
-"updated": "2026-11-21T14:52:10.236575+01:00",
+"updated": "2026-11-21T15:04:10.236904+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
-"synced": "2026-11-21T14:44:10.236348+01:00",
+"synced": "2026-11-21T15:00:10.236800+01:00",
 "pruned": "2026-11-21",
 "calls": {
 "2026-11-14": 145,
@@ -13,12 +13,32 @@
 "2026-11-18": 180,
 "2026-11-19": 164,
 "2026-11-20": 147,
-"2026-11-21": 63
+"2026-11-21": 67
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAjVbAn6xJqWFAylF4e0gzmm3nXdN4/",
+"snapshot": "AAAjVlJ9PkKZ/pnJUL0cgTqX887m1GRi",
 "playlist": [
+[
+"2026-11-21T14:57|Dope Lemon|Streets Of Your Town",
+"spotify:track:0SgJzBROysSAqSWZfWzfeH"
+],
+[
+"2026-11-21T14:51|Bonobo|Age of Phase (Radio Edit)",
+"spotify:track:0xIo8d1CLxARzQhaZwJ1RM"
+],
+[
+"2026-11-21T14:48|Bulgarian Cartrader|In My Zone (Radio Edit)",
+"spotify:track:5eRnR1gok6Btb2kYJICbsX"
+],
+[
+"2026-11-21T14:45|Vince Staples|Tulsa, OK",
+"spotify:track:4lyK8sT0dLpxSBv14wtVet"
+],
+[
+"2026-11-21T14:42|Chinese American Bear|Dance Dance Dance (Edit)",
+"spotify:track:3Ct3ro3LnsTHjeRVPNSG5s"
+],
 [
 "2026-11-21T14:35|Mine|Dunkel",
 "spotify:track:2UCO6MiyQaUz0ZNAmFppnO"
@@ -3821,6 +3841,24 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-11-21T14:57|Dope Lemon|Streets Of Your Town",
+"t": "2026-11-21T14:57:00+01:00",
+"artist": "Dope Lemon",
+"title": "Streets Of Your Town"
+},
+{
+"id": "2026-11-21T14:51|Bonobo|Age of Phase (Radio Edit)",
+"t": "2026-11-21T14:51:00+01:00",
+"artist": "Bonobo",
+"title": "Age of Phase (Radio Edit)"
+},
+{
+"id": "2026-11-21T14:48|Bulgarian Cartrader|In My Zone (Radio Edit)",
+"t": "2026-11-21T14:48:00+01:00",
+"artist": "Bulgarian Cartrader",
+"title": "In My Zone (Radio Edit)"
+},
 {
 "id": "2026-11-21T14:45|Vince Staples|Tulsa, OK",
 "t": "2026-11-21T14:45:00+01:00",
@@ -9364,12 +9402,6 @@
 "t": "2026-11-14T15:05:00+01:00",
 "artist": "Smidley feat. Lucy Dacus",
 "title": "Capstone"
-},
-{
-"id": "2026-11-14T14:57|Kaktus Einarsson feat. John Grant|Follow",
-"t": "2026-11-14T14:57:00+01:00",
-"artist": "Kaktus Einarsson feat. John Grant",
-"title": "Follow"
 }
 ]
 }
