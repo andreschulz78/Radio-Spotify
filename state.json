@@ -1,9 +1,9 @@
 {
-"updated": "2026-11-21T17:40:10.241315+01:00",
+"updated": "2026-11-21T17:52:10.241653+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
-"synced": "2026-11-21T17:36:10.241191+01:00",
+"synced": "2026-11-21T17:52:10.241653+01:00",
 "pruned": "2026-11-21",
 "calls": {
 "2026-11-14": 145,
@@ -13,12 +13,20 @@
 "2026-11-18": 180,
 "2026-11-19": 164,
 "2026-11-20": 147,
-"2026-11-21": 87
+"2026-11-21": 90
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAjX6k+jII7Gt2NlwIIDOZSFxTYtX7s",
+"snapshot": "AAAjYCAFU64TnK8gZ1VhXNYlbletcKSq",
 "playlist": [
+[
+"2026-11-21T17:44|Whitney Houston|Million Dollar Bill",
+"spotify:track:78Liq9m8u6xjuamJIeznTd"
+],
+[
+"2026-11-21T17:40|Future Islands|The Tower",
+"spotify:track:5tH2qe9ZNeIpto9dxk4ufx"
+],
 [
 "2026-11-21T17:33|Keshavara|Moondram Sevi",
 "spotify:track:0jpeIdUkge4S8dMS0nkZ6r"
@@ -3929,6 +3937,18 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-11-21T17:44|Whitney Houston|Million Dollar Bill",
+"t": "2026-11-21T17:44:00+01:00",
+"artist": "Whitney Houston",
+"title": "Million Dollar Bill"
+},
+{
+"id": "2026-11-21T17:40|Future Islands|The Tower",
+"t": "2026-11-21T17:40:00+01:00",
+"artist": "Future Islands",
+"title": "The Tower"
+},
 {
 "id": "2026-11-21T17:33|Keshavara|Moondram Sevi",
 "t": "2026-11-21T17:33:00+01:00",
@@ -9412,24 +9432,6 @@
 "t": "2026-11-14T21:03:00+01:00",
 "artist": "Everclear",
 "title": "AM Radio - Remastered 2004"
-},
-{
-"id": "2026-11-14T17:51|Sigur Rós|Gobbledigook",
-"t": "2026-11-14T17:51:00+01:00",
-"artist": "Sigur Rós",
-"title": "Gobbledigook"
-},
-{
-"id": "2026-11-14T17:47|DJ Koze|Spiralen (Radio Edit)",
-"t": "2026-11-14T17:47:00+01:00",
-"artist": "DJ Koze",
-"title": "Spiralen (Radio Edit)"
-},
-{
-"id": "2026-11-14T17:44|Jake Bugg|When The Night",
-"t": "2026-11-14T17:44:00+01:00",
-"artist": "Jake Bugg",
-"title": "When The Night"
 }
 ]
 }
