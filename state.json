@@ -1,9 +1,9 @@
 {
-"updated": "2026-11-21T06:41:09.590439+01:00",
+"updated": "2026-11-21T06:53:09.590749+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
-"synced": "2026-11-21T06:29:09.590130+01:00",
+"synced": "2026-11-21T06:45:09.590548+01:00",
 "pruned": "2026-11-21",
 "calls": {
 "2026-11-14": 145,
@@ -13,12 +13,24 @@
 "2026-11-18": 180,
 "2026-11-19": 164,
 "2026-11-20": 147,
-"2026-11-21": 6
+"2026-11-21": 9
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAjO8/oW+F4SbblIkTWuW/s9LIWSmw5",
+"snapshot": "AAAjPUpA2HK0vo+5KI5nbaL5Ip0yjOpA",
 "playlist": [
+[
+"2026-11-21T06:40|Klee|Erinner Dich",
+"spotify:track:76RbTPu0PXOUsBl1UDI5XN"
+],
+[
+"2026-11-21T06:33|Bonaparte|KiOSKO",
+"spotify:track:5seYGZRYuD3oPMxryJdvOk"
+],
+[
+"2026-11-21T06:27|Len|Steal My Sunshine",
+"spotify:track:5k2eOI8e9RpwCZcFQrqtKi"
+],
 [
 "2026-11-21T06:21|Sophia Kennedy|Schenke mir ein",
 "spotify:track:1nh7tFgkfO0Q7B6EAdUaJ2"
@@ -3564,10 +3576,6 @@
 "spotify:track:5bN5To0VLbNBKQDzJ1Lk6c"
 ],
 [
-"2026-11-14T06:45|Zero 7|In The Waiting Line",
-"spotify:track:5jKknZdlp7YM3LrPfKoErN"
-],
-[
 "2026-11-14T06:36|54 Ultra|Tell Me",
 "spotify:track:6iXIvHGsLMJ89TuW1S9E3C"
 ],
@@ -3605,6 +3613,12 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-11-21T06:40|Klee|Erinner Dich",
+"t": "2026-11-21T06:40:00+01:00",
+"artist": "Klee",
+"title": "Erinner Dich"
+},
 {
 "id": "2026-11-21T06:33|Bonaparte|KiOSKO",
 "t": "2026-11-21T06:33:00+01:00",
@@ -9028,24 +9042,6 @@
 "t": "2026-11-14T06:56:00+01:00",
 "artist": "Jamie xx",
 "title": "Dream Night"
-},
-{
-"id": "2026-11-14T06:52|Suzanne Vega|When Heroes Go Down",
-"t": "2026-11-14T06:52:00+01:00",
-"artist": "Suzanne Vega",
-"title": "When Heroes Go Down"
-},
-{
-"id": "2026-11-14T06:49|The Avalanches feat. Karen O|Blue Shadows",
-"t": "2026-11-14T06:49:00+01:00",
-"artist": "The Avalanches feat. Karen O",
-"title": "Blue Shadows"
-},
-{
-"id": "2026-11-14T06:45|Zero 7|In The Waiting Line",
-"t": "2026-11-14T06:45:00+01:00",
-"artist": "Zero 7",
-"title": "In The Waiting Line"
 }
 ]
 }
