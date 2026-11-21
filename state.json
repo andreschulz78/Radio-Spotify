@@ -1,9 +1,9 @@
 {
-"updated": "2026-11-21T15:52:10.238259+01:00",
+"updated": "2026-11-21T16:04:10.238575+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
-"synced": "2026-11-21T15:48:10.238143+01:00",
+"synced": "2026-11-21T16:04:10.238575+01:00",
 "pruned": "2026-11-21",
 "calls": {
 "2026-11-14": 145,
@@ -13,12 +13,28 @@
 "2026-11-18": 180,
 "2026-11-19": 164,
 "2026-11-20": 147,
-"2026-11-21": 75
+"2026-11-21": 77
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAjWWCOCTtOMNcrZFWJ0xuMyrGjHz8U",
+"snapshot": "AAAjWmshunpm/dUjkCKNG+oQJuaE/fPK",
 "playlist": [
+[
+"2026-11-21T15:57|Noel Gallagher's High Flying Birds|Council Skies (Radio Edit)",
+"spotify:track:1KDR3iKY185DjEREnzYhgU"
+],
+[
+"2026-11-21T15:52|Steve Lacy|Show You Me",
+"spotify:track:4f50UTC41M2Ah5itifSGE5"
+],
+[
+"2026-11-21T15:48|Get Well Soon|Siri, What Ruined The West ?",
+"spotify:track:3XY1xxFHeGHDDt33V6GoE2"
+],
+[
+"2026-11-21T15:45|The Love Affair|Everlasting Love",
+"spotify:track:3pz5bh4TIPwAnLZTlrTQOL"
+],
 [
 "2026-11-21T15:40|Die Höchste Eisenbahn|Bürotage",
 "spotify:track:3Uhtuf8aJhIGYcH8sATMpi"
@@ -3869,6 +3885,24 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-11-21T15:57|Noel Gallagher's High Flying Birds|Council Skies (Radio Edit)",
+"t": "2026-11-21T15:57:00+01:00",
+"artist": "Noel Gallagher's High Flying Birds",
+"title": "Council Skies (Radio Edit)"
+},
+{
+"id": "2026-11-21T15:52|Steve Lacy|Show You Me",
+"t": "2026-11-21T15:52:00+01:00",
+"artist": "Steve Lacy",
+"title": "Show You Me"
+},
+{
+"id": "2026-11-21T15:48|Get Well Soon|Siri, What Ruined The West ?",
+"t": "2026-11-21T15:48:00+01:00",
+"artist": "Get Well Soon",
+"title": "Siri, What Ruined The West ?"
+},
 {
 "id": "2026-11-21T15:45|The Love Affair|Everlasting Love",
 "t": "2026-11-21T15:45:00+01:00",
@@ -9412,12 +9446,6 @@
 "t": "2026-11-14T16:05:00+01:00",
 "artist": "Ruti",
 "title": "Luh Luh Love"
-},
-{
-"id": "2026-11-14T15:55|Fujiya & Miyagi|Ankle Injuries",
-"t": "2026-11-14T15:55:00+01:00",
-"artist": "Fujiya & Miyagi",
-"title": "Ankle Injuries"
 }
 ]
 }
