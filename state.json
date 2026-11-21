@@ -1,9 +1,9 @@
 {
-"updated": "2026-11-21T06:05:09.589369+01:00",
+"updated": "2026-11-21T06:17:09.589754+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
-"synced": "2026-11-21T04:00:55.416963+01:00",
+"synced": "2026-11-21T06:13:09.589663+01:00",
 "pruned": "2026-11-21",
 "calls": {
 "2026-11-14": 145,
@@ -13,12 +13,16 @@
 "2026-11-18": 180,
 "2026-11-19": 164,
 "2026-11-20": 147,
-"2026-11-21": 0
+"2026-11-21": 3
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAjOcQ4r2QJX8nM0wNIpJi0wfJv2PX9",
+"snapshot": "AAAjOgDUHDnEUhbC1D8YEJyAzz/AdpC1",
 "playlist": [
+[
+"2026-11-21T06:04|Simen Mitlid|It's Okay",
+"spotify:track:549pALoY8HiYnE3QFpRw43"
+],
 [
 "2026-11-20T22:49|Jimi Tenor|Wormhole Mystic",
 "spotify:track:53KE0GXAQu615G48nExKAu"
@@ -3585,6 +3589,18 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-11-21T06:08|Bangles|In Your Room",
+"t": "2026-11-21T06:08:00+01:00",
+"artist": "Bangles",
+"title": "In Your Room"
+},
+{
+"id": "2026-11-21T06:04|Simen Mitlid|It's Okay",
+"t": "2026-11-21T06:04:00+01:00",
+"artist": "Simen Mitlid",
+"title": "It's Okay"
+},
 {
 "id": "2026-11-20T22:49|Jimi Tenor|Wormhole Mystic",
 "t": "2026-11-20T22:49:00+01:00",
@@ -9014,24 +9030,6 @@
 "t": "2026-11-14T06:20:00+01:00",
 "artist": "Eilis Frawley",
 "title": "Taken, Never Erased"
-},
-{
-"id": "2026-11-14T06:14|C2C|Down The Road",
-"t": "2026-11-14T06:14:00+01:00",
-"artist": "C2C",
-"title": "Down The Road"
-},
-{
-"id": "2026-11-14T06:10|Ibeyi|Hurry Hurry",
-"t": "2026-11-14T06:10:00+01:00",
-"artist": "Ibeyi",
-"title": "Hurry Hurry"
-},
-{
-"id": "2026-11-14T06:07|The Nits|In The Dutch Mountains",
-"t": "2026-11-14T06:07:00+01:00",
-"artist": "The Nits",
-"title": "In The Dutch Mountains"
 }
 ]
 }
