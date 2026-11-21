@@ -1,5 +1,5 @@
 {
-"updated": "2026-11-21T10:29:09.597205+01:00",
+"updated": "2026-11-21T10:41:09.597536+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
@@ -13,7 +13,7 @@
 "2026-11-18": 180,
 "2026-11-19": 164,
 "2026-11-20": 147,
-"2026-11-21": 40
+"2026-11-21": 41
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
@@ -3737,6 +3737,24 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-11-21T10:36|College feat. Electric Youth|A Real Hero",
+"t": "2026-11-21T10:36:00+01:00",
+"artist": "College feat. Electric Youth",
+"title": "A Real Hero"
+},
+{
+"id": "2026-11-21T10:33|Coma|Start/Stop/Rewind",
+"t": "2026-11-21T10:33:00+01:00",
+"artist": "Coma",
+"title": "Start/Stop/Rewind"
+},
+{
+"id": "2026-11-21T10:26|Smith & Mighty feat. Tammy Payne|Believers",
+"t": "2026-11-21T10:26:00+01:00",
+"artist": "Smith & Mighty feat. Tammy Payne",
+"title": "Believers"
+},
 {
 "id": "2026-11-21T10:23|Eilis Frawley|Taken, Never Erased",
 "t": "2026-11-21T10:23:00+01:00",
