@@ -1,5 +1,5 @@
 {
-"updated": "2026-11-21T16:52:10.239962+01:00",
+"updated": "2026-11-21T17:04:10.240299+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
@@ -13,7 +13,7 @@
 "2026-11-18": 180,
 "2026-11-19": 164,
 "2026-11-20": 147,
-"2026-11-21": 83
+"2026-11-21": 84
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
@@ -3913,6 +3913,18 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-11-21T16:54|Theophilus London feat. Ariel Pink|Revenge",
+"t": "2026-11-21T16:54:00+01:00",
+"artist": "Theophilus London feat. Ariel Pink",
+"title": "Revenge"
+},
+{
+"id": "2026-11-21T16:51|Toro y Moi feat. Kenny Beats|Daria",
+"t": "2026-11-21T16:51:00+01:00",
+"artist": "Toro y Moi feat. Kenny Beats",
+"title": "Daria"
+},
 {
 "id": "2026-11-21T16:46|Σtella|Belinda",
 "t": "2026-11-21T16:46:00+01:00",
@@ -9438,12 +9450,6 @@
 "t": "2026-11-14T17:05:00+01:00",
 "artist": "Harry Dean Lewis feat. Joe Traxler",
 "title": "Fizz"
-},
-{
-"id": "2026-11-14T16:57|JGrrey feat. Bel Cobain|Take My Hand",
-"t": "2026-11-14T16:57:00+01:00",
-"artist": "JGrrey feat. Bel Cobain",
-"title": "Take My Hand"
 }
 ]
 }
