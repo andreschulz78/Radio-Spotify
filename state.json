@@ -1,5 +1,5 @@
 {
-"updated": "2026-11-21T15:16:10.237254+01:00",
+"updated": "2026-11-21T15:28:10.237581+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
@@ -13,7 +13,7 @@
 "2026-11-18": 180,
 "2026-11-19": 164,
 "2026-11-20": 147,
-"2026-11-21": 69
+"2026-11-21": 70
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
@@ -3845,6 +3845,24 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-11-21T15:22|Bomb The Bass featuring Paul Conboy|So Special",
+"t": "2026-11-21T15:22:00+01:00",
+"artist": "Bomb The Bass featuring Paul Conboy",
+"title": "So Special"
+},
+{
+"id": "2026-11-21T15:18|A Projection|Transition",
+"t": "2026-11-21T15:18:00+01:00",
+"artist": "A Projection",
+"title": "Transition"
+},
+{
+"id": "2026-11-21T15:15|Aurora|All My Demons Greeting Me As A Friend",
+"t": "2026-11-21T15:15:00+01:00",
+"artist": "Aurora",
+"title": "All My Demons Greeting Me As A Friend"
+},
 {
 "id": "2026-11-21T15:07|MorMor feat. Celeste|Like Heaven",
 "t": "2026-11-21T15:07:00+01:00",
@@ -9376,24 +9394,6 @@
 "t": "2026-11-14T15:30:00+01:00",
 "artist": "Baby D",
 "title": "I Need Your Love (Everybody's Got To Learn Sometime)"
-},
-{
-"id": "2026-11-14T15:27|Beck|Think I'm In Love",
-"t": "2026-11-14T15:27:00+01:00",
-"artist": "Beck",
-"title": "Think I'm In Love"
-},
-{
-"id": "2026-11-14T15:23|Eels|Today Is The Day",
-"t": "2026-11-14T15:23:00+01:00",
-"artist": "Eels",
-"title": "Today Is The Day"
-},
-{
-"id": "2026-11-14T15:21|Rihanna|Redemption Song",
-"t": "2026-11-14T15:21:00+01:00",
-"artist": "Rihanna",
-"title": "Redemption Song"
 }
 ]
 }
