@@ -1,9 +1,9 @@
 {
-"updated": "2026-11-21T07:05:09.591111+01:00",
+"updated": "2026-11-21T07:17:09.591473+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
-"synced": "2026-11-21T07:01:09.590957+01:00",
+"synced": "2026-11-21T07:17:09.591473+01:00",
 "pruned": "2026-11-21",
 "calls": {
 "2026-11-14": 145,
@@ -13,12 +13,20 @@
 "2026-11-18": 180,
 "2026-11-19": 164,
 "2026-11-20": 147,
-"2026-11-21": 11
+"2026-11-21": 12
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAjPp/pATjo/0OYi+i4nYJIH5CBPtgj",
+"snapshot": "AAAjP1qsX6SZZE5Cu1ak2/aMIdxatWGf",
 "playlist": [
+[
+"2026-11-21T07:12|Bonobo|Shokoufeh",
+"spotify:track:5cZ6iDczIvnNezs5sqdgU8"
+],
+[
+"2026-11-21T07:04|Sting|Rushing Water (Radio Edit)",
+"spotify:track:3M9TxdnduVdqxf3D7kTcX5"
+],
 [
 "2026-11-21T06:55|The Liminanas|The Gift",
 "spotify:track:3d4oFlaGNE7OoBE3HXE2w7"
@@ -3625,6 +3633,18 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-11-21T07:12|Bonobo|Shokoufeh",
+"t": "2026-11-21T07:12:00+01:00",
+"artist": "Bonobo",
+"title": "Shokoufeh"
+},
+{
+"id": "2026-11-21T07:04|Sting|Rushing Water (Radio Edit)",
+"t": "2026-11-21T07:04:00+01:00",
+"artist": "Sting",
+"title": "Rushing Water (Radio Edit)"
+},
 {
 "id": "2026-11-21T06:55|The Liminanas|The Gift",
 "t": "2026-11-21T06:55:00+01:00",
@@ -9048,18 +9068,6 @@
 "t": "2026-11-14T07:18:00+01:00",
 "artist": "Sergio Torales feat. Der Assistent",
 "title": "Veo"
-},
-{
-"id": "2026-11-14T07:14|Tori Amos|Crucify",
-"t": "2026-11-14T07:14:00+01:00",
-"artist": "Tori Amos",
-"title": "Crucify"
-},
-{
-"id": "2026-11-14T07:10|Babe Rainbow|Waterfall",
-"t": "2026-11-14T07:10:00+01:00",
-"artist": "Babe Rainbow",
-"title": "Waterfall"
 }
 ]
 }
