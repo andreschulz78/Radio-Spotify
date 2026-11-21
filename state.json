@@ -1,9 +1,9 @@
 {
-"updated": "2026-11-21T15:28:10.237581+01:00",
+"updated": "2026-11-21T15:40:10.237927+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
-"synced": "2026-11-21T15:16:10.237254+01:00",
+"synced": "2026-11-21T15:32:10.237694+01:00",
 "pruned": "2026-11-21",
 "calls": {
 "2026-11-14": 145,
@@ -13,12 +13,24 @@
 "2026-11-18": 180,
 "2026-11-19": 164,
 "2026-11-20": 147,
-"2026-11-21": 70
+"2026-11-21": 72
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAjV/209MKnolELr4HVjGQSEZW2ssH9",
+"snapshot": "AAAjWPLUQdgShtX+l69SfEG/Flsnp68A",
 "playlist": [
+[
+"2026-11-21T15:25|Donkey Kid|Goldmine",
+"spotify:track:69FHTmDAbvdCOlRqV49R3L"
+],
+[
+"2026-11-21T15:18|A Projection|Transition",
+"spotify:track:3Kcam8JyyxQwJdCM06AYi1"
+],
+[
+"2026-11-21T15:15|Aurora|All My Demons Greeting Me As A Friend",
+"spotify:track:5O1tikYb6HKrP5cxSQv0iV"
+],
 [
 "2026-11-21T15:07|MorMor feat. Celeste|Like Heaven",
 "spotify:track:5pZGuhprytXKB7QRMul3jq"
@@ -3845,6 +3857,24 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-11-21T15:34|Nilüfer Yanya|Kneel",
+"t": "2026-11-21T15:34:00+01:00",
+"artist": "Nilüfer Yanya",
+"title": "Kneel"
+},
+{
+"id": "2026-11-21T15:32|Soft Cell|Tainted Love",
+"t": "2026-11-21T15:32:00+01:00",
+"artist": "Soft Cell",
+"title": "Tainted Love"
+},
+{
+"id": "2026-11-21T15:25|Donkey Kid|Goldmine",
+"t": "2026-11-21T15:25:00+01:00",
+"artist": "Donkey Kid",
+"title": "Goldmine"
+},
 {
 "id": "2026-11-21T15:22|Bomb The Bass featuring Paul Conboy|So Special",
 "t": "2026-11-21T15:22:00+01:00",
@@ -9382,18 +9412,6 @@
 "t": "2026-11-14T15:42:00+01:00",
 "artist": "Voodoo Jürgens",
 "title": "guade stubn"
-},
-{
-"id": "2026-11-14T15:34|Jonathan Jeremiah|Kolkata Bear",
-"t": "2026-11-14T15:34:00+01:00",
-"artist": "Jonathan Jeremiah",
-"title": "Kolkata Bear"
-},
-{
-"id": "2026-11-14T15:30|Baby D|I Need Your Love (Everybody's Got To Learn Sometime)",
-"t": "2026-11-14T15:30:00+01:00",
-"artist": "Baby D",
-"title": "I Need Your Love (Everybody's Got To Learn Sometime)"
 }
 ]
 }
