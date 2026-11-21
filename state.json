@@ -1,9 +1,9 @@
 {
-"updated": "2026-11-21T07:53:09.592559+01:00",
+"updated": "2026-11-21T08:05:09.592882+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
-"synced": "2026-11-21T07:49:09.592426+01:00",
+"synced": "2026-11-21T08:05:09.592882+01:00",
 "pruned": "2026-11-21",
 "calls": {
 "2026-11-14": 145,
@@ -13,12 +13,24 @@
 "2026-11-18": 180,
 "2026-11-19": 164,
 "2026-11-20": 147,
-"2026-11-21": 17
+"2026-11-21": 19
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAjQSQOalgeF3ItoUZxtxxnqxqddew4",
+"snapshot": "AAAjQoeJYiT0yG4YFPN6O79hqy8S+CjW",
 "playlist": [
+[
+"2026-11-21T07:56|Kelela|the bridge (feat. PinkPantheress)",
+"spotify:track:4Og22Djtd18AVqNgijpLsX"
+],
+[
+"2026-11-21T07:51|Telepopmusik|Into Everything",
+"spotify:track:6BCXQX53CTZMRXsX2EbUbY"
+],
+[
+"2026-11-21T07:48|Jim James|Come Again",
+"spotify:track:6S3Ao3HkuLpHffHWL8oRsz"
+],
 [
 "2026-11-21T07:38|Commodores|Brick House",
 "spotify:track:5VJjhHyG8NZ5xdgG6uTb3P"
@@ -3653,6 +3665,24 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-11-21T07:56|Kelela|the bridge (feat. PinkPantheress)",
+"t": "2026-11-21T07:56:00+01:00",
+"artist": "Kelela",
+"title": "the bridge (feat. PinkPantheress)"
+},
+{
+"id": "2026-11-21T07:51|Telepopmusik|Into Everything",
+"t": "2026-11-21T07:51:00+01:00",
+"artist": "Telepopmusik",
+"title": "Into Everything"
+},
+{
+"id": "2026-11-21T07:48|Jim James|Come Again",
+"t": "2026-11-21T07:48:00+01:00",
+"artist": "Jim James",
+"title": "Come Again"
+},
 {
 "id": "2026-11-21T07:38|Commodores|Brick House",
 "t": "2026-11-21T07:38:00+01:00",
@@ -9064,18 +9094,6 @@
 "t": "2026-11-14T08:11:00+01:00",
 "artist": "The Human League",
 "title": "Don't You Want Me"
-},
-{
-"id": "2026-11-14T08:04|Billy Nomates|The Test",
-"t": "2026-11-14T08:04:00+01:00",
-"artist": "Billy Nomates",
-"title": "The Test"
-},
-{
-"id": "2026-11-14T07:57|Nia Archives|Vertical",
-"t": "2026-11-14T07:57:00+01:00",
-"artist": "Nia Archives",
-"title": "Vertical"
 }
 ]
 }
