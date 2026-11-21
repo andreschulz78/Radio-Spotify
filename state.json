@@ -1,9 +1,9 @@
 {
-"updated": "2026-11-21T10:41:09.597536+01:00",
+"updated": "2026-11-21T10:53:09.597842+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
-"synced": "2026-11-21T10:29:09.597205+01:00",
+"synced": "2026-11-21T10:45:09.597644+01:00",
 "pruned": "2026-11-21",
 "calls": {
 "2026-11-14": 145,
@@ -13,12 +13,24 @@
 "2026-11-18": 180,
 "2026-11-19": 164,
 "2026-11-20": 147,
-"2026-11-21": 41
+"2026-11-21": 43
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAjTN7hEv1eLLXK9AngffV1t76edkB7",
+"snapshot": "AAAjTVtso5OPlAhveFUqFuILSHO99amH",
 "playlist": [
+[
+"2026-11-21T10:36|College feat. Electric Youth|A Real Hero",
+"spotify:track:1aJrVsHwcQMZ8TZ6mlvT5J"
+],
+[
+"2026-11-21T10:33|Coma|Start/Stop/Rewind",
+"spotify:track:11L3mSwEwt7AJ39jh4Crbd"
+],
+[
+"2026-11-21T10:26|Smith & Mighty feat. Tammy Payne|Believers",
+"spotify:track:7oOsg39GzwYyt10V491d1a"
+],
 [
 "2026-11-21T10:23|Eilis Frawley|Taken, Never Erased",
 "spotify:track:5a3IV4xiA81Ucn98CHtJzb"
