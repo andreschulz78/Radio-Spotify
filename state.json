@@ -1,9 +1,9 @@
 {
-"updated": "2026-11-21T16:40:10.239625+01:00",
+"updated": "2026-11-21T16:52:10.239962+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
-"synced": "2026-11-21T16:36:10.239514+01:00",
+"synced": "2026-11-21T16:52:10.239962+01:00",
 "pruned": "2026-11-21",
 "calls": {
 "2026-11-14": 145,
@@ -13,12 +13,24 @@
 "2026-11-18": 180,
 "2026-11-19": 164,
 "2026-11-20": 147,
-"2026-11-21": 81
+"2026-11-21": 83
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAjXJmjCxONbK0A+3cP85aHkg7z1OBz",
+"snapshot": "AAAjXd6psErJT2nt5O0gATTrpoBvhwb9",
 "playlist": [
+[
+"2026-11-21T16:46|Σtella|Belinda",
+"spotify:track:1rs2lOYfBKNW5OCpeTIiVf"
+],
+[
+"2026-11-21T16:40|Drangsal|Bergab",
+"spotify:track:67LECJRXjO2LmQErypWbj4"
+],
+[
+"2026-11-21T16:35|Serebii|Even In The Quiet",
+"spotify:track:5ZIYdecFkCGyT6Tbyk7rAq"
+],
 [
 "2026-11-21T16:32|SOFY|50/50",
 "spotify:track:16QLv8xt9nPNBZCBDm3Gkv"
@@ -3901,6 +3913,18 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-11-21T16:46|Σtella|Belinda",
+"t": "2026-11-21T16:46:00+01:00",
+"artist": "Σtella",
+"title": "Belinda"
+},
+{
+"id": "2026-11-21T16:40|Drangsal|Bergab",
+"t": "2026-11-21T16:40:00+01:00",
+"artist": "Drangsal",
+"title": "Bergab"
+},
 {
 "id": "2026-11-21T16:35|Serebii|Even In The Quiet",
 "t": "2026-11-21T16:35:00+01:00",
@@ -9420,24 +9444,6 @@
 "t": "2026-11-14T16:57:00+01:00",
 "artist": "JGrrey feat. Bel Cobain",
 "title": "Take My Hand"
-},
-{
-"id": "2026-11-14T16:51|Peter Licht|Sonnendeck (Ekimas & Proppe RMX)",
-"t": "2026-11-14T16:51:00+01:00",
-"artist": "Peter Licht",
-"title": "Sonnendeck (Ekimas & Proppe RMX)"
-},
-{
-"id": "2026-11-14T16:48|Genesis Owusu|Human Again",
-"t": "2026-11-14T16:48:00+01:00",
-"artist": "Genesis Owusu",
-"title": "Human Again"
-},
-{
-"id": "2026-11-14T16:44|The Notwist|Chemicals",
-"t": "2026-11-14T16:44:00+01:00",
-"artist": "The Notwist",
-"title": "Chemicals"
 }
 ]
 }
