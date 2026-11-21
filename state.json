@@ -1,9 +1,9 @@
 {
-"updated": "2026-11-21T08:29:09.593640+01:00",
+"updated": "2026-11-21T08:41:09.594037+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
-"synced": "2026-11-21T08:21:09.593353+01:00",
+"synced": "2026-11-21T08:37:09.593929+01:00",
 "pruned": "2026-11-21",
 "calls": {
 "2026-11-14": 145,
@@ -13,12 +13,24 @@
 "2026-11-18": 180,
 "2026-11-19": 164,
 "2026-11-20": 147,
-"2026-11-21": 24
+"2026-11-21": 27
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAjQ6X71kkagcuS0WB95Ntm6l+udMo3",
+"snapshot": "AAAjRAHAHL3jITeakHwbzAIf0T/ZE5w2",
 "playlist": [
+[
+"2026-11-21T08:32|Soulwax|Run Free (Radio Edit)",
+"spotify:track:7dZj9gntXZJBDuSlYguPyH"
+],
+[
+"2026-11-21T08:25|Jordan Rakei|Enemies",
+"spotify:track:0X9GwAax0c0HPe3iIoDVW6"
+],
+[
+"2026-11-21T08:22|Karl die Große|Gefällt",
+"spotify:track:0dFzX2dvgmlN4tEnLoK8zQ"
+],
 [
 "2026-11-21T08:12|Ibibio Sound Machine|Love",
 "spotify:track:0JGa4KrhqriWUuPcni3I8D"
@@ -3673,6 +3685,18 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-11-21T08:32|Soulwax|Run Free (Radio Edit)",
+"t": "2026-11-21T08:32:00+01:00",
+"artist": "Soulwax",
+"title": "Run Free (Radio Edit)"
+},
+{
+"id": "2026-11-21T08:25|Jordan Rakei|Enemies",
+"t": "2026-11-21T08:25:00+01:00",
+"artist": "Jordan Rakei",
+"title": "Enemies"
+},
 {
 "id": "2026-11-21T08:22|Karl die Große|Gefällt",
 "t": "2026-11-21T08:22:00+01:00",
@@ -9090,18 +9114,6 @@
 "t": "2026-11-14T08:42:00+01:00",
 "artist": "King Krule",
 "title": "Easy Easy"
-},
-{
-"id": "2026-11-14T08:39|Keshavara|Oracular",
-"t": "2026-11-14T08:39:00+01:00",
-"artist": "Keshavara",
-"title": "Oracular"
-},
-{
-"id": "2026-11-14T08:35|Chinese American Bear|Dance Dance Dance (Edit)",
-"t": "2026-11-14T08:35:00+01:00",
-"artist": "Chinese American Bear",
-"title": "Dance Dance Dance (Edit)"
 }
 ]
 }
