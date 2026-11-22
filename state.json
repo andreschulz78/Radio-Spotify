@@ -1,9 +1,9 @@
 {
-"updated": "2026-11-22T09:43:13.447502+01:00",
+"updated": "2026-11-22T09:55:13.447767+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
-"synced": "2026-11-22T09:39:13.447416+01:00",
+"synced": "2026-11-22T09:55:13.447767+01:00",
 "pruned": "2026-11-22",
 "calls": {
 "2026-11-15": 93,
@@ -13,12 +13,24 @@
 "2026-11-19": 164,
 "2026-11-20": 147,
 "2026-11-21": 93,
-"2026-11-22": 49
+"2026-11-22": 50
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAjfA37CxvyQMoIHOq7t/XsNSH39dxq",
+"snapshot": "AAAjfetEaIq0J4yr4yDBRO1f8fd5bz0X",
 "playlist": [
+[
+"2026-11-22T09:53|Jorja Smith|Don't Leave",
+"spotify:track:44kUOVs16iRf11YjO7aaRW"
+],
+[
+"2026-11-22T09:50|Sade|Paradise (Remastered Version)",
+"spotify:track:2KpjKWyj0TI0FmGgENEKr6"
+],
+[
+"2026-11-22T09:41|Benjamin Clementine|In Fact You Know You Gotto Go",
+"spotify:track:4cWEdRTQ8sg4QaTBIGn06j"
+],
 [
 "2026-11-22T09:31|Hard-Fi|Cash Machine",
 "spotify:track:20b8EG2Hnq5Puj9UwEQO7i"
@@ -3637,6 +3649,24 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-11-22T09:53|Jorja Smith|Don't Leave",
+"t": "2026-11-22T09:53:00+01:00",
+"artist": "Jorja Smith",
+"title": "Don't Leave"
+},
+{
+"id": "2026-11-22T09:50|Sade|Paradise (Remastered Version)",
+"t": "2026-11-22T09:50:00+01:00",
+"artist": "Sade",
+"title": "Paradise (Remastered Version)"
+},
+{
+"id": "2026-11-22T09:41|Benjamin Clementine|In Fact You Know You Gotto Go",
+"t": "2026-11-22T09:41:00+01:00",
+"artist": "Benjamin Clementine",
+"title": "In Fact You Know You Gotto Go"
+},
 {
 "id": "2026-11-22T09:31|Hard-Fi|Cash Machine",
 "t": "2026-11-22T09:31:00+01:00",
@@ -9030,18 +9060,6 @@
 "t": "2026-11-15T09:58:00+01:00",
 "artist": "The Avalanches feat. Karen O",
 "title": "Blue Shadows"
-},
-{
-"id": "2026-11-15T09:53|Compuphonic|Metropolis",
-"t": "2026-11-15T09:53:00+01:00",
-"artist": "Compuphonic",
-"title": "Metropolis"
-},
-{
-"id": "2026-11-15T09:51|Empire Of The Sun|Walking On A Dream",
-"t": "2026-11-15T09:51:00+01:00",
-"artist": "Empire Of The Sun",
-"title": "Walking On A Dream"
 }
 ]
 }
