@@ -1667,6 +1667,10 @@
 "u": "spotify:track:2QhURnm7mQDxBb5jWkbDug",
 "d": "2026-11-20T00:45:34.596430+01:00"
 },
+"coldplay|viva la vida": {
+"u": "spotify:track:6WrUT7FOAlDscRWU7ndmyd",
+"d": "2026-11-22T07:35:13.444572+01:00"
+},
 "college feat electric youth|a real hero": {
 "u": "spotify:track:1aJrVsHwcQMZ8TZ6mlvT5J",
 "d": "2026-11-22T00:01:03.284133+01:00"
@@ -2357,7 +2361,7 @@
 },
 "electric beat crew|here we come": {
 "u": null,
-"d": "2026-11-19T05:49:42.678592+01:00"
+"d": "2026-11-22T07:39:13.444658+01:00"
 },
 "electric guest|stand back for you": {
 "u": "spotify:track:6eJ8C0GftRIGq98zLaxrAz",
@@ -3146,6 +3150,10 @@
 "grace jones|slave to the rhythm": {
 "u": "spotify:track:3Hv9i1KAOXF2Wn42tj5s0h",
 "d": "2026-11-10T00:02:37.457510+01:00"
+},
+"grace jones|walking in the rain": {
+"u": "spotify:track:6eQ40FpOWggK5iKl3khLyp",
+"d": "2026-11-22T07:35:13.444572+01:00"
 },
 "grauzone|eisbar": {
 "u": "spotify:track:6dO3t1e3pb7sxyDQbDyVNX",
@@ -4999,6 +5007,10 @@
 "u": "spotify:track:4gCo2r1gCEw70OAq9cF1uW",
 "d": "2026-11-07T00:03:52.409314+01:00"
 },
+"malky|theodore": {
+"u": "spotify:track:1K304ltKiEA2FluI0k3pEv",
+"d": "2026-11-22T07:35:13.444572+01:00"
+},
 "mando diao|down in the past unplugged": {
 "u": "spotify:track:5eg4JShsIkXTyRclfRqWuR",
 "d": "2026-11-22T00:01:03.284133+01:00"
@@ -6450,6 +6462,10 @@
 "radiohead|burn the witch": {
 "u": "spotify:track:4d8Zzjdh0LZ5UYf4Yu7VPI",
 "d": "2026-11-10T00:02:37.457510+01:00"
+},
+"radiohead|creep": {
+"u": "spotify:track:6JpjIy1M7oxvPJ3uVdUKTe",
+"d": "2026-11-22T07:43:13.444795+01:00"
 },
 "radiohead|karma police": {
 "u": "spotify:track:63OQupATfueTdZMWTxW03A",
