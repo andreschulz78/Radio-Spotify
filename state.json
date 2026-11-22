@@ -1,9 +1,9 @@
 {
-"updated": "2026-11-22T07:43:13.444795+01:00",
+"updated": "2026-11-22T07:55:13.445083+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
-"synced": "2026-11-22T07:31:13.444460+01:00",
+"synced": "2026-11-22T07:47:13.444898+01:00",
 "pruned": "2026-11-22",
 "calls": {
 "2026-11-15": 93,
@@ -13,12 +13,20 @@
 "2026-11-19": 164,
 "2026-11-20": 147,
 "2026-11-21": 93,
-"2026-11-22": 17
+"2026-11-22": 20
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAja7F9s6/f+36X98ss+pcKg/LhZQZH",
+"snapshot": "AAAjbuCHuJ1qA1nq6vMgEupzITfrdYmp",
 "playlist": [
+[
+"2026-11-22T07:40|Caribou|Never Come Back",
+"spotify:track:0Ej6OBBtMvhjaJvtt1vtUt"
+],
+[
+"2026-11-22T07:35|Radiohead|Creep",
+"spotify:track:6JpjIy1M7oxvPJ3uVdUKTe"
+],
 [
 "2026-11-22T07:26|The Drums feat. Mareux|It Didn't Matter",
 "spotify:track:10kxTiNUTo4nlEbH1EzoX1"
@@ -72,12 +80,24 @@
 "spotify:track:2Dh62ulfuwM2lOWPy4TLEb"
 ],
 [
+"2026-11-22T06:25|Malky|Theodore",
+"spotify:track:1K304ltKiEA2FluI0k3pEv"
+],
+[
 "2026-11-22T06:22|Steve Lacy|Show You Me",
 "spotify:track:4f50UTC41M2Ah5itifSGE5"
 ],
 [
 "2026-11-22T06:16|Grace Cummings|I'm Not Crazy",
 "spotify:track:70QaE9UJ2uTVwC4IGS6yvU"
+],
+[
+"2026-11-22T06:13|Coldplay|Viva La Vida",
+"spotify:track:6WrUT7FOAlDscRWU7ndmyd"
+],
+[
+"2026-11-22T06:08|Grace Jones|Walking In The Rain",
+"spotify:track:6eQ40FpOWggK5iKl3khLyp"
 ],
 [
 "2026-11-22T06:04|Lola Young|Not Like That Anymore",
@@ -3545,6 +3565,18 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-11-22T07:44|Slut|For The Soul There Is No Hospital",
+"t": "2026-11-22T07:44:00+01:00",
+"artist": "Slut",
+"title": "For The Soul There Is No Hospital"
+},
+{
+"id": "2026-11-22T07:40|Caribou|Never Come Back",
+"t": "2026-11-22T07:40:00+01:00",
+"artist": "Caribou",
+"title": "Never Come Back"
+},
 {
 "id": "2026-11-22T07:35|Radiohead|Creep",
 "t": "2026-11-22T07:35:00+01:00",
@@ -8938,24 +8970,6 @@
 "t": "2026-11-15T07:57:00+01:00",
 "artist": "Kate Bush",
 "title": "Babooshka"
-},
-{
-"id": "2026-11-15T07:52|Kakkmaddafakka|Gangsta",
-"t": "2026-11-15T07:52:00+01:00",
-"artist": "Kakkmaddafakka",
-"title": "Gangsta"
-},
-{
-"id": "2026-11-15T07:48|Fritz Kalkbrenner|In This Game",
-"t": "2026-11-15T07:48:00+01:00",
-"artist": "Fritz Kalkbrenner",
-"title": "In This Game"
-},
-{
-"id": "2026-11-15T07:44|Beastie Boys|No Sleep Till Brooklyn",
-"t": "2026-11-15T07:44:00+01:00",
-"artist": "Beastie Boys",
-"title": "No Sleep Till Brooklyn"
 }
 ]
 }
