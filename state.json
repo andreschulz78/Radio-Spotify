@@ -1,9 +1,9 @@
 {
-"updated": "2026-11-22T08:31:13.445901+01:00",
+"updated": "2026-11-22T08:43:13.446215+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
-"synced": "2026-11-22T08:19:13.445625+01:00",
+"synced": "2026-11-22T08:35:13.445993+01:00",
 "pruned": "2026-11-22",
 "calls": {
 "2026-11-15": 93,
@@ -13,12 +13,28 @@
 "2026-11-19": 164,
 "2026-11-20": 147,
 "2026-11-21": 93,
-"2026-11-22": 27
+"2026-11-22": 32
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAjcMg0T99bROPTb1QS+MVtMPJ23TxL",
+"snapshot": "AAAjcmNoW0HMyy4lWq8p5OxnwbTppPph",
 "playlist": [
+[
+"2026-11-22T08:32|Oliver Koletzki|Heart On Hold",
+"spotify:track:7klqcPyFmka0E9aqTsul7t"
+],
+[
+"2026-11-22T08:28|Subshine|Florence",
+"spotify:track:2gUOE7GClaojcXkIm07Smz"
+],
+[
+"2026-11-22T08:24|Queen Ifrica|Four Women",
+"spotify:track:0WuB6TSG14f1mlwxVoYKfn"
+],
+[
+"2026-11-22T08:16|Sam Burton|I'm A Stranger",
+"spotify:track:4hAYraVhSzgMTdvftCcqKo"
+],
 [
 "2026-11-22T08:12|Jan Delay|Klar",
 "spotify:track:01y4v0GVDAFwj9hjxTMshg"
@@ -3536,10 +3552,6 @@
 "spotify:track:7wXJyWtRktzx7shORVNX5B"
 ],
 [
-"2026-11-15T08:35|Michelle Gurevich|First Six Months Of Love",
-"spotify:track:0ImZJIFxv4HBobMgG4BRpU"
-],
-[
 "2026-11-15T08:31|The Notwist|Projectors",
 "spotify:track:6ndNhNpPvowtCtjHkMVAgi"
 ],
@@ -3589,6 +3601,18 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-11-22T08:32|Oliver Koletzki|Heart On Hold",
+"t": "2026-11-22T08:32:00+01:00",
+"artist": "Oliver Koletzki",
+"title": "Heart On Hold"
+},
+{
+"id": "2026-11-22T08:28|Subshine|Florence",
+"t": "2026-11-22T08:28:00+01:00",
+"artist": "Subshine",
+"title": "Florence"
+},
 {
 "id": "2026-11-22T08:24|Queen Ifrica|Four Women",
 "t": "2026-11-22T08:24:00+01:00",
@@ -8988,12 +9012,6 @@
 "t": "2026-11-15T08:45:00+01:00",
 "artist": "David Byrne & Brian Eno",
 "title": "Strange Overtones"
-},
-{
-"id": "2026-11-15T08:35|Michelle Gurevich|First Six Months Of Love",
-"t": "2026-11-15T08:35:00+01:00",
-"artist": "Michelle Gurevich",
-"title": "First Six Months Of Love"
 }
 ]
 }
