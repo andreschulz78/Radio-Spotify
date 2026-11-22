@@ -1,9 +1,9 @@
 {
-"updated": "2026-11-22T07:55:13.445083+01:00",
+"updated": "2026-11-22T08:07:13.445353+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
-"synced": "2026-11-22T07:47:13.444898+01:00",
+"synced": "2026-11-22T08:03:13.445270+01:00",
 "pruned": "2026-11-22",
 "calls": {
 "2026-11-15": 93,
@@ -13,12 +13,28 @@
 "2026-11-19": 164,
 "2026-11-20": 147,
 "2026-11-21": 93,
-"2026-11-22": 20
+"2026-11-22": 22
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAjbuCHuJ1qA1nq6vMgEupzITfrdYmp",
+"snapshot": "AAAjbyTW1d688YD1RFYnnANfVeZPwnRx",
 "playlist": [
+[
+"2026-11-22T07:55|O - Olivier Marguerit feat. Mina Tindle|White Flowers",
+"spotify:track:4LBhG05AmddsQKnDs3uOYY"
+],
+[
+"2026-11-22T07:51|Get Well Soon|Siri, What Ruined The West ?",
+"spotify:track:3XY1xxFHeGHDDt33V6GoE2"
+],
+[
+"2026-11-22T07:47|CECI feat. Lords of Lounge|Honey Honey",
+"spotify:track:1I3D3G5pwYFKNYGIYTLRCq"
+],
+[
+"2026-11-22T07:44|Slut|For The Soul There Is No Hospital",
+"spotify:track:5mnuzWflnGcWcPVzmUfNcP"
+],
 [
 "2026-11-22T07:40|Caribou|Never Come Back",
 "spotify:track:0Ej6OBBtMvhjaJvtt1vtUt"
@@ -3565,6 +3581,24 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-11-22T07:55|O - Olivier Marguerit feat. Mina Tindle|White Flowers",
+"t": "2026-11-22T07:55:00+01:00",
+"artist": "O - Olivier Marguerit feat. Mina Tindle",
+"title": "White Flowers"
+},
+{
+"id": "2026-11-22T07:51|Get Well Soon|Siri, What Ruined The West ?",
+"t": "2026-11-22T07:51:00+01:00",
+"artist": "Get Well Soon",
+"title": "Siri, What Ruined The West ?"
+},
+{
+"id": "2026-11-22T07:47|CECI feat. Lords of Lounge|Honey Honey",
+"t": "2026-11-22T07:47:00+01:00",
+"artist": "CECI feat. Lords of Lounge",
+"title": "Honey Honey"
+},
 {
 "id": "2026-11-22T07:44|Slut|For The Soul There Is No Hospital",
 "t": "2026-11-22T07:44:00+01:00",
@@ -8958,18 +8992,6 @@
 "t": "2026-11-15T08:10:00+01:00",
 "artist": "2raumwohnung",
 "title": "Wir werden sehen (Remix)"
-},
-{
-"id": "2026-11-15T08:05|Gorillaz feat. Bizarrap, Kara Jackson and Anoushka Shankar|Orange County",
-"t": "2026-11-15T08:05:00+01:00",
-"artist": "Gorillaz feat. Bizarrap, Kara Jackson and Anoushka Shankar",
-"title": "Orange County"
-},
-{
-"id": "2026-11-15T07:57|Kate Bush|Babooshka",
-"t": "2026-11-15T07:57:00+01:00",
-"artist": "Kate Bush",
-"title": "Babooshka"
 }
 ]
 }
