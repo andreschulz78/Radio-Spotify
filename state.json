@@ -1,9 +1,9 @@
 {
-"updated": "2026-11-22T13:07:13.451976+01:00",
+"updated": "2026-11-22T15:50:49.928087+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
-"synced": "2026-11-22T13:07:13.451976+01:00",
+"synced": "2026-11-22T15:50:49.928087+01:00",
 "pruned": "2026-11-22",
 "calls": {
 "2026-11-15": 93,
@@ -13,12 +13,36 @@
 "2026-11-19": 164,
 "2026-11-20": 147,
 "2026-11-21": 93,
-"2026-11-22": 85
+"2026-11-22": 88
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAjj0CDAzCeGC8RvA5nOY/Iusg0efq1",
+"snapshot": "AAAjkPqWdBbtgcAJ3m6ch3/2AlaNBrAc",
 "playlist": [
+[
+"2026-11-22T13:52|Suzanne Vega|Witch",
+"spotify:track:3pSW8h5ivnjGlTuTLXrHdP"
+],
+[
+"2026-11-22T13:40|JGrrey feat. Bel Cobain|Take My Hand",
+"spotify:track:0i4SCqKHjbBrPjUX4RPRq3"
+],
+[
+"2026-11-22T13:31|Black Pumas|More than a Love Song (Radio Edit)",
+"spotify:track:75Bc1mWdIfftfh2qCYpNxA"
+],
+[
+"2026-11-22T13:25|Mieke Miami|Cry Baby Cry",
+"spotify:track:2zXnNg8ATiqpEBAf335RW9"
+],
+[
+"2026-11-22T13:16|Madonna|Sorry",
+"spotify:track:007HiPRo5DsC2s8chTk7wb"
+],
+[
+"2026-11-22T13:05|Leon Bridges|Talk it over",
+"spotify:track:5Bdn8RyTqz4dV7F07EFBP5"
+],
 [
 "2026-11-22T12:57|A Tribe Called Quest|Enough!!",
 "spotify:track:1WvGWCDuj0dfRpuBuYecXp"
@@ -3741,6 +3765,42 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-11-22T13:52|Suzanne Vega|Witch",
+"t": "2026-11-22T13:52:00+01:00",
+"artist": "Suzanne Vega",
+"title": "Witch"
+},
+{
+"id": "2026-11-22T13:40|JGrrey feat. Bel Cobain|Take My Hand",
+"t": "2026-11-22T13:40:00+01:00",
+"artist": "JGrrey feat. Bel Cobain",
+"title": "Take My Hand"
+},
+{
+"id": "2026-11-22T13:31|Black Pumas|More than a Love Song (Radio Edit)",
+"t": "2026-11-22T13:31:00+01:00",
+"artist": "Black Pumas",
+"title": "More than a Love Song (Radio Edit)"
+},
+{
+"id": "2026-11-22T13:25|Mieke Miami|Cry Baby Cry",
+"t": "2026-11-22T13:25:00+01:00",
+"artist": "Mieke Miami",
+"title": "Cry Baby Cry"
+},
+{
+"id": "2026-11-22T13:16|Madonna|Sorry",
+"t": "2026-11-22T13:16:00+01:00",
+"artist": "Madonna",
+"title": "Sorry"
+},
+{
+"id": "2026-11-22T13:05|Leon Bridges|Talk it over",
+"t": "2026-11-22T13:05:00+01:00",
+"artist": "Leon Bridges",
+"title": "Talk it over"
+},
 {
 "id": "2026-11-22T12:57|A Tribe Called Quest|Enough!!",
 "t": "2026-11-22T12:57:00+01:00",
