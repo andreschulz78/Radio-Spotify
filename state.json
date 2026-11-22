@@ -1,5 +1,5 @@
 {
-"updated": "2026-11-22T09:55:13.447767+01:00",
+"updated": "2026-11-22T10:07:13.448029+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
@@ -3649,6 +3649,12 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-11-22T09:56|Agnes Obel|Laymelli (Edit)",
+"t": "2026-11-22T09:56:00+01:00",
+"artist": "Agnes Obel",
+"title": "Laymelli (Edit)"
+},
 {
 "id": "2026-11-22T09:53|Jorja Smith|Don't Leave",
 "t": "2026-11-22T09:53:00+01:00",
@@ -9048,18 +9054,6 @@
 "t": "2026-11-15T10:09:00+01:00",
 "artist": "Dekker",
 "title": "Pick It Up, Put It Back"
-},
-{
-"id": "2026-11-15T10:06|Fantastic Negrito|The Duffler",
-"t": "2026-11-15T10:06:00+01:00",
-"artist": "Fantastic Negrito",
-"title": "The Duffler"
-},
-{
-"id": "2026-11-15T09:58|The Avalanches feat. Karen O|Blue Shadows",
-"t": "2026-11-15T09:58:00+01:00",
-"artist": "The Avalanches feat. Karen O",
-"title": "Blue Shadows"
 }
 ]
 }
