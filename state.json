@@ -1,9 +1,9 @@
 {
-"updated": "2026-11-22T08:55:13.446479+01:00",
+"updated": "2026-11-22T09:07:13.446739+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
-"synced": "2026-11-22T08:51:13.446393+01:00",
+"synced": "2026-11-22T09:07:13.446739+01:00",
 "pruned": "2026-11-22",
 "calls": {
 "2026-11-15": 93,
@@ -13,12 +13,20 @@
 "2026-11-19": 164,
 "2026-11-20": 147,
 "2026-11-21": 93,
-"2026-11-22": 41
+"2026-11-22": 43
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAjeSP0BSSNTTa6JeEq29gzq2/OiyX9",
+"snapshot": "AAAjejFMP+AJjuZWVvBwGITvH9eF828b",
 "playlist": [
+[
+"2026-11-22T08:57|Tracy Chapman|Fast Car",
+"spotify:track:2M9ro2krNb7nr7HSprkEgo"
+],
+[
+"2026-11-22T08:52|Baxter Dury|Mr W4",
+"spotify:track:4lMutNwoqKN9Nu3OH4YoN5"
+],
 [
 "2026-11-22T08:47|SOFY|50/50",
 "spotify:track:16QLv8xt9nPNBZCBDm3Gkv"
@@ -3609,6 +3617,18 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-11-22T08:57|Tracy Chapman|Fast Car",
+"t": "2026-11-22T08:57:00+01:00",
+"artist": "Tracy Chapman",
+"title": "Fast Car"
+},
+{
+"id": "2026-11-22T08:52|Baxter Dury|Mr W4",
+"t": "2026-11-22T08:52:00+01:00",
+"artist": "Baxter Dury",
+"title": "Mr W4"
+},
 {
 "id": "2026-11-22T08:47|SOFY|50/50",
 "t": "2026-11-22T08:47:00+01:00",
@@ -9008,12 +9028,6 @@
 "t": "2026-11-15T09:11:00+01:00",
 "artist": "Keane",
 "title": "Everybody's Changing"
-},
-{
-"id": "2026-11-15T09:05|The Roots feat. Dice Raw|How I Got Over",
-"t": "2026-11-15T09:05:00+01:00",
-"artist": "The Roots feat. Dice Raw",
-"title": "How I Got Over"
 }
 ]
 }
