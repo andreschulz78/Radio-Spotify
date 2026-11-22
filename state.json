@@ -1,9 +1,9 @@
 {
-"updated": "2026-11-22T08:07:13.445353+01:00",
+"updated": "2026-11-22T08:19:13.445625+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
-"synced": "2026-11-22T08:03:13.445270+01:00",
+"synced": "2026-11-22T08:19:13.445625+01:00",
 "pruned": "2026-11-22",
 "calls": {
 "2026-11-15": 93,
@@ -13,12 +13,20 @@
 "2026-11-19": 164,
 "2026-11-20": 147,
 "2026-11-21": 93,
-"2026-11-22": 22
+"2026-11-22": 25
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAjbyTW1d688YD1RFYnnANfVeZPwnRx",
+"snapshot": "AAAjcMg0T99bROPTb1QS+MVtMPJ23TxL",
 "playlist": [
+[
+"2026-11-22T08:12|Jan Delay|Klar",
+"spotify:track:01y4v0GVDAFwj9hjxTMshg"
+],
+[
+"2026-11-22T08:04|Nightbus|Way Past Three",
+"spotify:track:3lWEr9ARqZA5K9v9BS26J2"
+],
 [
 "2026-11-22T07:55|O - Olivier Marguerit feat. Mina Tindle|White Flowers",
 "spotify:track:4LBhG05AmddsQKnDs3uOYY"
@@ -3581,6 +3589,18 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-11-22T08:12|Jan Delay|Klar",
+"t": "2026-11-22T08:12:00+01:00",
+"artist": "Jan Delay",
+"title": "Klar"
+},
+{
+"id": "2026-11-22T08:04|Nightbus|Way Past Three",
+"t": "2026-11-22T08:04:00+01:00",
+"artist": "Nightbus",
+"title": "Way Past Three"
+},
 {
 "id": "2026-11-22T07:55|O - Olivier Marguerit feat. Mina Tindle|White Flowers",
 "t": "2026-11-22T07:55:00+01:00",
@@ -8980,18 +9000,6 @@
 "t": "2026-11-15T08:23:00+01:00",
 "artist": "Antony Szmierek",
 "title": "Seminal (Edit)"
-},
-{
-"id": "2026-11-15T08:15|Kings Of Leon|My Whole World",
-"t": "2026-11-15T08:15:00+01:00",
-"artist": "Kings Of Leon",
-"title": "My Whole World"
-},
-{
-"id": "2026-11-15T08:10|2raumwohnung|Wir werden sehen (Remix)",
-"t": "2026-11-15T08:10:00+01:00",
-"artist": "2raumwohnung",
-"title": "Wir werden sehen (Remix)"
 }
 ]
 }
