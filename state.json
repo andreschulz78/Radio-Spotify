@@ -1,9 +1,9 @@
 {
-"updated": "2026-11-22T10:07:13.448029+01:00",
+"updated": "2026-11-22T10:19:13.448288+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
-"synced": "2026-11-22T09:55:13.447767+01:00",
+"synced": "2026-11-22T10:11:13.448115+01:00",
 "pruned": "2026-11-22",
 "calls": {
 "2026-11-15": 93,
@@ -13,12 +13,20 @@
 "2026-11-19": 164,
 "2026-11-20": 147,
 "2026-11-21": 93,
-"2026-11-22": 50
+"2026-11-22": 53
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAjfetEaIq0J4yr4yDBRO1f8fd5bz0X",
+"snapshot": "AAAjfj8NHP7IauS8MOKFkxE/WZvHyMOz",
 "playlist": [
+[
+"2026-11-22T10:04|Boy Harsher|Fate",
+"spotify:track:2jkLRnc7sbw7vS3qHHhKA8"
+],
+[
+"2026-11-22T09:56|Agnes Obel|Laymelli (Edit)",
+"spotify:track:0VzMHjWcs2P24LHLekZ8Qa"
+],
 [
 "2026-11-22T09:53|Jorja Smith|Don't Leave",
 "spotify:track:44kUOVs16iRf11YjO7aaRW"
@@ -3649,6 +3657,18 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-11-22T10:08|Mia.|Tanz der Moleküle",
+"t": "2026-11-22T10:08:00+01:00",
+"artist": "Mia.",
+"title": "Tanz der Moleküle"
+},
+{
+"id": "2026-11-22T10:04|Boy Harsher|Fate",
+"t": "2026-11-22T10:04:00+01:00",
+"artist": "Boy Harsher",
+"title": "Fate"
+},
 {
 "id": "2026-11-22T09:56|Agnes Obel|Laymelli (Edit)",
 "t": "2026-11-22T09:56:00+01:00",
@@ -9042,18 +9062,6 @@
 "t": "2026-11-15T10:28:00+01:00",
 "artist": "SYML",
 "title": "Where's My Love"
-},
-{
-"id": "2026-11-15T10:17|Aretha Franklin|I Say A Little Prayer",
-"t": "2026-11-15T10:17:00+01:00",
-"artist": "Aretha Franklin",
-"title": "I Say A Little Prayer"
-},
-{
-"id": "2026-11-15T10:09|Dekker|Pick It Up, Put It Back",
-"t": "2026-11-15T10:09:00+01:00",
-"artist": "Dekker",
-"title": "Pick It Up, Put It Back"
 }
 ]
 }
