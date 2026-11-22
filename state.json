@@ -1,9 +1,9 @@
 {
-"updated": "2026-11-22T09:19:13.446995+01:00",
+"updated": "2026-11-22T09:31:13.447255+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
-"synced": "2026-11-22T09:07:13.446739+01:00",
+"synced": "2026-11-22T09:23:13.447084+01:00",
 "pruned": "2026-11-22",
 "calls": {
 "2026-11-15": 93,
@@ -13,12 +13,24 @@
 "2026-11-19": 164,
 "2026-11-20": 147,
 "2026-11-21": 93,
-"2026-11-22": 43
+"2026-11-22": 46
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAjejFMP+AJjuZWVvBwGITvH9eF828b",
+"snapshot": "AAAje0wL9uT1Fp3C3gU3RyfPhRAt2dZK",
 "playlist": [
+[
+"2026-11-22T09:14|The Black Seeds|The Answer",
+"spotify:track:132tGcro2Skjg97d3odhzo"
+],
+[
+"2026-11-22T09:09|Aurora|All My Demons Greeting Me As A Friend",
+"spotify:track:5O1tikYb6HKrP5cxSQv0iV"
+],
+[
+"2026-11-22T09:03|Hot Chip|Eleanor (Edit)",
+"spotify:track:4kLyAbRTMMfmAH5Fjm3cYU"
+],
 [
 "2026-11-22T08:57|Tracy Chapman|Fast Car",
 "spotify:track:2M9ro2krNb7nr7HSprkEgo"
@@ -3617,6 +3629,18 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-11-22T09:24|MC Solaar|Caroline",
+"t": "2026-11-22T09:24:00+01:00",
+"artist": "MC Solaar",
+"title": "Caroline"
+},
+{
+"id": "2026-11-22T09:14|The Black Seeds|The Answer",
+"t": "2026-11-22T09:14:00+01:00",
+"artist": "The Black Seeds",
+"title": "The Answer"
+},
 {
 "id": "2026-11-22T09:09|Aurora|All My Demons Greeting Me As A Friend",
 "t": "2026-11-22T09:09:00+01:00",
@@ -9016,18 +9040,6 @@
 "t": "2026-11-15T09:32:00+01:00",
 "artist": "The Drums feat. Mareux",
 "title": "It Didn't Matter"
-},
-{
-"id": "2026-11-15T09:27|The Stranglers|Strange Little Girl",
-"t": "2026-11-15T09:27:00+01:00",
-"artist": "The Stranglers",
-"title": "Strange Little Girl"
-},
-{
-"id": "2026-11-15T09:24|Tom Misch|Slow Tonight",
-"t": "2026-11-15T09:24:00+01:00",
-"artist": "Tom Misch",
-"title": "Slow Tonight"
 }
 ]
 }
