@@ -1,5 +1,5 @@
 {
-"updated": "2026-11-22T10:43:13.448815+01:00",
+"updated": "2026-11-22T10:55:13.449079+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
@@ -13,7 +13,7 @@
 "2026-11-19": 164,
 "2026-11-20": 147,
 "2026-11-21": 93,
-"2026-11-22": 61
+"2026-11-22": 64
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
@@ -3669,6 +3669,18 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-11-22T10:51|David Bowie|Everyone Says 'Hi'",
+"t": "2026-11-22T10:51:00+01:00",
+"artist": "David Bowie",
+"title": "Everyone Says 'Hi'"
+},
+{
+"id": "2026-11-22T10:42|Alice Boman|Don't Forget About Me",
+"t": "2026-11-22T10:42:00+01:00",
+"artist": "Alice Boman",
+"title": "Don't Forget About Me"
+},
 {
 "id": "2026-11-22T10:31|Tikhet|Burndowner",
 "t": "2026-11-22T10:31:00+01:00",
@@ -9062,18 +9074,6 @@
 "t": "2026-11-15T11:04:00+01:00",
 "artist": "Get Well Soon",
 "title": "Siri, What Ruined The West ?"
-},
-{
-"id": "2026-11-15T10:55|Chet Faker|Over You (Radio Edit)",
-"t": "2026-11-15T10:55:00+01:00",
-"artist": "Chet Faker",
-"title": "Over You (Radio Edit)"
-},
-{
-"id": "2026-11-15T10:51|Robin Kester (feat. Rozi Plain)|Departure",
-"t": "2026-11-15T10:51:00+01:00",
-"artist": "Robin Kester (feat. Rozi Plain)",
-"title": "Departure"
 }
 ]
 }
