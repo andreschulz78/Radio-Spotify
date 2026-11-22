@@ -1,9 +1,9 @@
 {
-"updated": "2026-11-22T08:43:13.446215+01:00",
+"updated": "2026-11-22T08:55:13.446479+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
-"synced": "2026-11-22T08:35:13.445993+01:00",
+"synced": "2026-11-22T08:51:13.446393+01:00",
 "pruned": "2026-11-22",
 "calls": {
 "2026-11-15": 93,
@@ -13,12 +13,24 @@
 "2026-11-19": 164,
 "2026-11-20": 147,
 "2026-11-21": 93,
-"2026-11-22": 32
+"2026-11-22": 41
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAjcmNoW0HMyy4lWq8p5OxnwbTppPph",
+"snapshot": "AAAjeSP0BSSNTTa6JeEq29gzq2/OiyX9",
 "playlist": [
+[
+"2026-11-22T08:47|SOFY|50/50",
+"spotify:track:16QLv8xt9nPNBZCBDm3Gkv"
+],
+[
+"2026-11-22T08:43|The Specials|Ghost Town",
+"spotify:track:6ewN9MaFbi78oDLT9wYDgn"
+],
+[
+"2026-11-22T08:40|Joan As Police Woman|Holy City",
+"spotify:track:45jTkoVU4JglkUeZNfSfkG"
+],
 [
 "2026-11-22T08:32|Oliver Koletzki|Heart On Hold",
 "spotify:track:7klqcPyFmka0E9aqTsul7t"
@@ -3540,10 +3552,6 @@
 "spotify:track:3Kwdvrz5PTUpAObYKNPlz0"
 ],
 [
-"2026-11-15T08:51|Boy Harsher|Tough Luck (When You Don't Call)",
-"spotify:track:109AVLNWp2BnTXTzF4j6XE"
-],
-[
 "2026-11-15T08:49|Karel Svoboda|Drei Haselnüsse für Aschenbrödel (Titelthema)",
 "spotify:track:0lQUcdbllruP3TSVrsNGnC"
 ],
@@ -3601,6 +3609,24 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-11-22T08:47|SOFY|50/50",
+"t": "2026-11-22T08:47:00+01:00",
+"artist": "SOFY",
+"title": "50/50"
+},
+{
+"id": "2026-11-22T08:43|The Specials|Ghost Town",
+"t": "2026-11-22T08:43:00+01:00",
+"artist": "The Specials",
+"title": "Ghost Town"
+},
+{
+"id": "2026-11-22T08:40|Joan As Police Woman|Holy City",
+"t": "2026-11-22T08:40:00+01:00",
+"artist": "Joan As Police Woman",
+"title": "Holy City"
+},
 {
 "id": "2026-11-22T08:32|Oliver Koletzki|Heart On Hold",
 "t": "2026-11-22T08:32:00+01:00",
@@ -8988,30 +9014,6 @@
 "t": "2026-11-15T09:05:00+01:00",
 "artist": "The Roots feat. Dice Raw",
 "title": "How I Got Over"
-},
-{
-"id": "2026-11-15T08:55|Jamie T|Tallahassee",
-"t": "2026-11-15T08:55:00+01:00",
-"artist": "Jamie T",
-"title": "Tallahassee"
-},
-{
-"id": "2026-11-15T08:51|Boy Harsher|Tough Luck (When You Don't Call)",
-"t": "2026-11-15T08:51:00+01:00",
-"artist": "Boy Harsher",
-"title": "Tough Luck (When You Don't Call)"
-},
-{
-"id": "2026-11-15T08:49|Karel Svoboda|Drei Haselnüsse für Aschenbrödel (Titelthema)",
-"t": "2026-11-15T08:49:00+01:00",
-"artist": "Karel Svoboda",
-"title": "Drei Haselnüsse für Aschenbrödel (Titelthema)"
-},
-{
-"id": "2026-11-15T08:45|David Byrne & Brian Eno|Strange Overtones",
-"t": "2026-11-15T08:45:00+01:00",
-"artist": "David Byrne & Brian Eno",
-"title": "Strange Overtones"
 }
 ]
 }
