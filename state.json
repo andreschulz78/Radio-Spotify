@@ -1,9 +1,9 @@
 {
-"updated": "2026-11-22T11:07:13.449339+01:00",
+"updated": "2026-11-22T11:19:13.449598+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
-"synced": "2026-11-22T10:59:13.449170+01:00",
+"synced": "2026-11-22T11:15:13.449511+01:00",
 "pruned": "2026-11-22",
 "calls": {
 "2026-11-15": 93,
@@ -13,12 +13,28 @@
 "2026-11-19": 164,
 "2026-11-20": 147,
 "2026-11-21": 93,
-"2026-11-22": 65
+"2026-11-22": 68
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAjhYtF5Ul2cVym0mthY+HD4ZGsVM/P",
+"snapshot": "AAAjhv/AUGI5eqePyPdqxBkfFAfjr5m9",
 "playlist": [
+[
+"2026-11-22T11:07|Ayele|Fractured (Radio Edit)",
+"spotify:track:5EGnOBL2qoUNard3Oaq5Hc"
+],
+[
+"2026-11-22T11:04|The Notwist|Pilot",
+"spotify:track:6s5tcWumg0ApmXV17mjMmT"
+],
+[
+"2026-11-22T10:58|Everything But The Girl|Young and Dumb",
+"spotify:track:4b3EgGk2hdOQwBHvFQUTmJ"
+],
+[
+"2026-11-22T10:55|Linka Moja|Men R Dogs",
+"spotify:track:7AgfOLYDB7GrgIWg60PBw7"
+],
 [
 "2026-11-22T10:51|David Bowie|Everyone Says 'Hi'",
 "spotify:track:58pKavT4l7Zuae0xo5Sj5d"
@@ -3677,6 +3693,18 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-11-22T11:07|Ayele|Fractured (Radio Edit)",
+"t": "2026-11-22T11:07:00+01:00",
+"artist": "Ayele",
+"title": "Fractured (Radio Edit)"
+},
+{
+"id": "2026-11-22T11:04|The Notwist|Pilot",
+"t": "2026-11-22T11:04:00+01:00",
+"artist": "The Notwist",
+"title": "Pilot"
+},
 {
 "id": "2026-11-22T10:58|Everything But The Girl|Young and Dumb",
 "t": "2026-11-22T10:58:00+01:00",
@@ -9076,12 +9104,6 @@
 "t": "2026-11-15T11:25:00+01:00",
 "artist": "Golden Bug feat. The Limiñanas & Vega Voga",
 "title": "Hi No Tori"
-},
-{
-"id": "2026-11-15T11:14|Meshell Ndegeocello feat. Cat Power|Don’t You Want Me",
-"t": "2026-11-15T11:14:00+01:00",
-"artist": "Meshell Ndegeocello feat. Cat Power",
-"title": "Don’t You Want Me"
 }
 ]
 }
