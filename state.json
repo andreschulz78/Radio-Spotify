@@ -1,9 +1,9 @@
 {
-"updated": "2026-11-23T08:09:34.253987+01:00",
+"updated": "2026-11-23T10:42:29.789706+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
-"synced": "2026-11-23T07:57:34.253646+01:00",
+"synced": "2026-11-23T10:42:29.789706+01:00",
 "pruned": "2026-11-23",
 "calls": {
 "2026-11-16": 163,
@@ -13,12 +13,80 @@
 "2026-11-20": 147,
 "2026-11-21": 93,
 "2026-11-22": 104,
-"2026-11-23": 26
+"2026-11-23": 31
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAjpPHtnOcGBu4d8opUzPY1yMQ/ExcT",
+"snapshot": "AAAjpZggrxZbnXdniId2Mx+FgE1P7XaQ",
 "playlist": [
+[
+"2026-11-23T10:33|Slowdive|Alife",
+"spotify:track:2ceUzieIOIwYKA9zOiWkto"
+],
+[
+"2026-11-23T10:27|Grandmaster Flash|White Lines",
+"spotify:track:7GvZtpqEouSERLuYl4HJ78"
+],
+[
+"2026-11-23T10:23|ODESZA feat. Ólafur Arnalds|Light Of Day (Radio Edit)",
+"spotify:track:58sa3HUZL71gpMB6XvhaUo"
+],
+[
+"2026-11-23T10:18|Yard Act|Janey Said (Edit)",
+"spotify:track:0mV0B0SbcF6CMSdDyDNYpR"
+],
+[
+"2026-11-23T10:08|2raumwohnung|Lass die Pferde frei (Radio Edit)",
+"spotify:track:6iKF2dQJNLjEAvNjIYAreO"
+],
+[
+"2026-11-23T10:04|Moscoman feat. Tom Sanders|What Do We Care",
+"spotify:track:2AeJDk8SG8OmffAO7YkdDm"
+],
+[
+"2026-11-23T09:55|MODERAT|Easy Prey (Edit)",
+"spotify:track:3mgJYuqeyyr0CRJFriv7KO"
+],
+[
+"2026-11-23T09:49|Bilderbuch|Baby Junkie",
+"spotify:track:1bPs9oNEaAEUYfCL7tH79W"
+],
+[
+"2026-11-23T09:42|Kelela|the bridge (feat. PinkPantheress)",
+"spotify:track:4Og22Djtd18AVqNgijpLsX"
+],
+[
+"2026-11-23T09:26|Friedberg|Goodwife",
+"spotify:track:1H89j9NLse1E0Kmjb3tzW6"
+],
+[
+"2026-11-23T08:57|Joy Wellboy|Birds",
+"spotify:track:642171jGo2HkiteFwIH8Rm"
+],
+[
+"2026-11-23T08:47|The Black Keys|On Repeat",
+"spotify:track:2B5ZNovTMGMW50ml95BP7L"
+],
+[
+"2026-11-23T08:42|Gena feat. Liv.e, Karriem Riggins|Circlesz",
+"spotify:track:5jFt1do9B6cGoM0vhErWHO"
+],
+[
+"2026-11-23T08:33|Chinese American Bear|Dance Dance Dance (Edit)",
+"spotify:track:3Ct3ro3LnsTHjeRVPNSG5s"
+],
+[
+"2026-11-23T08:13|Ibeyi|Hurry Hurry",
+"spotify:track:4BGA7VW330Eu1kaFNi98cG"
+],
+[
+"2026-11-23T08:05|Smidley feat. Lucy Dacus|Capstone",
+"spotify:track:0YosJMrYxYQP7mLXfFo0p1"
+],
+[
+"2026-11-23T07:56|Death Cab For Cutie|Pep Talk",
+"spotify:track:3ra7fDLqfUHBWBL702fOAn"
+],
 [
 "2026-11-23T07:48|Meshell Ndegeocello feat. Cat Power|Don’t You Want Me",
 "spotify:track:5sbCqST9M4Q1sRSJM6L6oT"
@@ -3697,6 +3765,150 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-11-23T10:33|Slowdive|Alife",
+"t": "2026-11-23T10:33:00+01:00",
+"artist": "Slowdive",
+"title": "Alife"
+},
+{
+"id": "2026-11-23T10:27|Grandmaster Flash|White Lines",
+"t": "2026-11-23T10:27:00+01:00",
+"artist": "Grandmaster Flash",
+"title": "White Lines"
+},
+{
+"id": "2026-11-23T10:23|ODESZA feat. Ólafur Arnalds|Light Of Day (Radio Edit)",
+"t": "2026-11-23T10:23:00+01:00",
+"artist": "ODESZA feat. Ólafur Arnalds",
+"title": "Light Of Day (Radio Edit)"
+},
+{
+"id": "2026-11-23T10:18|Yard Act|Janey Said (Edit)",
+"t": "2026-11-23T10:18:00+01:00",
+"artist": "Yard Act",
+"title": "Janey Said (Edit)"
+},
+{
+"id": "2026-11-23T10:08|2raumwohnung|Lass die Pferde frei (Radio Edit)",
+"t": "2026-11-23T10:08:00+01:00",
+"artist": "2raumwohnung",
+"title": "Lass die Pferde frei (Radio Edit)"
+},
+{
+"id": "2026-11-23T10:04|Moscoman feat. Tom Sanders|What Do We Care",
+"t": "2026-11-23T10:04:00+01:00",
+"artist": "Moscoman feat. Tom Sanders",
+"title": "What Do We Care"
+},
+{
+"id": "2026-11-23T09:55|MODERAT|Easy Prey (Edit)",
+"t": "2026-11-23T09:55:00+01:00",
+"artist": "MODERAT",
+"title": "Easy Prey (Edit)"
+},
+{
+"id": "2026-11-23T09:49|Bilderbuch|Baby Junkie",
+"t": "2026-11-23T09:49:00+01:00",
+"artist": "Bilderbuch",
+"title": "Baby Junkie"
+},
+{
+"id": "2026-11-23T09:46|The Raconteurs|Now That You're Gone",
+"t": "2026-11-23T09:46:00+01:00",
+"artist": "The Raconteurs",
+"title": "Now That You're Gone"
+},
+{
+"id": "2026-11-23T09:42|Kelela|the bridge (feat. PinkPantheress)",
+"t": "2026-11-23T09:42:00+01:00",
+"artist": "Kelela",
+"title": "the bridge (feat. PinkPantheress)"
+},
+{
+"id": "2026-11-23T09:34|The Neighbourhood|Private",
+"t": "2026-11-23T09:34:00+01:00",
+"artist": "The Neighbourhood",
+"title": "Private"
+},
+{
+"id": "2026-11-23T09:26|Friedberg|Goodwife",
+"t": "2026-11-23T09:26:00+01:00",
+"artist": "Friedberg",
+"title": "Goodwife"
+},
+{
+"id": "2026-11-23T09:20|Bentley Rhythm Ace|Bentley's Gonna Sort It Out",
+"t": "2026-11-23T09:20:00+01:00",
+"artist": "Bentley Rhythm Ace",
+"title": "Bentley's Gonna Sort It Out"
+},
+{
+"id": "2026-11-23T09:15|Rainald Grebe|Meganice Zeit (Edit)",
+"t": "2026-11-23T09:15:00+01:00",
+"artist": "Rainald Grebe",
+"title": "Meganice Zeit (Edit)"
+},
+{
+"id": "2026-11-23T09:06|Jürgen Paape feat. Hella|Grace (A Tale)",
+"t": "2026-11-23T09:06:00+01:00",
+"artist": "Jürgen Paape feat. Hella",
+"title": "Grace (A Tale)"
+},
+{
+"id": "2026-11-23T08:57|Joy Wellboy|Birds",
+"t": "2026-11-23T08:57:00+01:00",
+"artist": "Joy Wellboy",
+"title": "Birds"
+},
+{
+"id": "2026-11-23T08:50|Black Palms Orchestra|Twin Peaks Theme",
+"t": "2026-11-23T08:50:00+01:00",
+"artist": "Black Palms Orchestra",
+"title": "Twin Peaks Theme"
+},
+{
+"id": "2026-11-23T08:47|The Black Keys|On Repeat",
+"t": "2026-11-23T08:47:00+01:00",
+"artist": "The Black Keys",
+"title": "On Repeat"
+},
+{
+"id": "2026-11-23T08:42|Gena feat. Liv.e, Karriem Riggins|Circlesz",
+"t": "2026-11-23T08:42:00+01:00",
+"artist": "Gena feat. Liv.e, Karriem Riggins",
+"title": "Circlesz"
+},
+{
+"id": "2026-11-23T08:33|Chinese American Bear|Dance Dance Dance (Edit)",
+"t": "2026-11-23T08:33:00+01:00",
+"artist": "Chinese American Bear",
+"title": "Dance Dance Dance (Edit)"
+},
+{
+"id": "2026-11-23T08:25|Alberta Cross|So Far Out Of Reach",
+"t": "2026-11-23T08:25:00+01:00",
+"artist": "Alberta Cross",
+"title": "So Far Out Of Reach"
+},
+{
+"id": "2026-11-23T08:17|Fine Young Cannibals|I'm Not The Man I Used To Be",
+"t": "2026-11-23T08:17:00+01:00",
+"artist": "Fine Young Cannibals",
+"title": "I'm Not The Man I Used To Be"
+},
+{
+"id": "2026-11-23T08:13|Ibeyi|Hurry Hurry",
+"t": "2026-11-23T08:13:00+01:00",
+"artist": "Ibeyi",
+"title": "Hurry Hurry"
+},
+{
+"id": "2026-11-23T08:05|Smidley feat. Lucy Dacus|Capstone",
+"t": "2026-11-23T08:05:00+01:00",
+"artist": "Smidley feat. Lucy Dacus",
+"title": "Capstone"
+},
 {
 "id": "2026-11-23T07:56|Death Cab For Cutie|Pep Talk",
 "t": "2026-11-23T07:56:00+01:00",
@@ -9030,156 +9242,6 @@
 "t": "2026-11-16T10:50:00+01:00",
 "artist": "1-800 Girls feat. Art School Girlfriend",
 "title": "sometimes"
-},
-{
-"id": "2026-11-16T10:38|Beck|It Ends Right Here",
-"t": "2026-11-16T10:38:00+01:00",
-"artist": "Beck",
-"title": "It Ends Right Here"
-},
-{
-"id": "2026-11-16T10:34|Tracey Thorn|Raise The Roof",
-"t": "2026-11-16T10:34:00+01:00",
-"artist": "Tracey Thorn",
-"title": "Raise The Roof"
-},
-{
-"id": "2026-11-16T10:29|Midlake|Roscoe",
-"t": "2026-11-16T10:29:00+01:00",
-"artist": "Midlake",
-"title": "Roscoe"
-},
-{
-"id": "2026-11-16T10:23|Stan Ridgway & Wall Of Voodoo|Mexican Radio",
-"t": "2026-11-16T10:23:00+01:00",
-"artist": "Stan Ridgway & Wall Of Voodoo",
-"title": "Mexican Radio"
-},
-{
-"id": "2026-11-16T10:21|Σtella|Belinda",
-"t": "2026-11-16T10:21:00+01:00",
-"artist": "Σtella",
-"title": "Belinda"
-},
-{
-"id": "2026-11-16T10:18|Boards of Canada|Roygbiv",
-"t": "2026-11-16T10:18:00+01:00",
-"artist": "Boards of Canada",
-"title": "Roygbiv"
-},
-{
-"id": "2026-11-16T10:16|Alewya|Maktoub",
-"t": "2026-11-16T10:16:00+01:00",
-"artist": "Alewya",
-"title": "Maktoub"
-},
-{
-"id": "2026-11-16T10:09|Bonobo feat. Joy Crookes|Always on Your Side",
-"t": "2026-11-16T10:09:00+01:00",
-"artist": "Bonobo feat. Joy Crookes",
-"title": "Always on Your Side"
-},
-{
-"id": "2026-11-16T10:05|Jacob Bellens|Back To You",
-"t": "2026-11-16T10:05:00+01:00",
-"artist": "Jacob Bellens",
-"title": "Back To You"
-},
-{
-"id": "2026-11-16T09:55|Ibibio Sound Machine|Love",
-"t": "2026-11-16T09:55:00+01:00",
-"artist": "Ibibio Sound Machine",
-"title": "Love"
-},
-{
-"id": "2026-11-16T09:47|Ginuwine|Pony",
-"t": "2026-11-16T09:47:00+01:00",
-"artist": "Ginuwine",
-"title": "Pony"
-},
-{
-"id": "2026-11-16T09:43|Sylvan Esso|Right to Left",
-"t": "2026-11-16T09:43:00+01:00",
-"artist": "Sylvan Esso",
-"title": "Right to Left"
-},
-{
-"id": "2026-11-16T09:38|Ibeyi|Hurry Hurry",
-"t": "2026-11-16T09:38:00+01:00",
-"artist": "Ibeyi",
-"title": "Hurry Hurry"
-},
-{
-"id": "2026-11-16T09:34|Wild Beasts|Wanderlust",
-"t": "2026-11-16T09:34:00+01:00",
-"artist": "Wild Beasts",
-"title": "Wanderlust"
-},
-{
-"id": "2026-11-16T09:25|EELS|Congratulations To Me",
-"t": "2026-11-16T09:25:00+01:00",
-"artist": "EELS",
-"title": "Congratulations To Me"
-},
-{
-"id": "2026-11-16T09:18|Joyce Sims|Come into my life",
-"t": "2026-11-16T09:18:00+01:00",
-"artist": "Joyce Sims",
-"title": "Come into my life"
-},
-{
-"id": "2026-11-16T09:13|Extra Credit|It's Over (Edit)",
-"t": "2026-11-16T09:13:00+01:00",
-"artist": "Extra Credit",
-"title": "It's Over (Edit)"
-},
-{
-"id": "2026-11-16T09:06|Tikhet|Burndowner",
-"t": "2026-11-16T09:06:00+01:00",
-"artist": "Tikhet",
-"title": "Burndowner"
-},
-{
-"id": "2026-11-16T08:57|Alexander IV & IYAMAH|About Us",
-"t": "2026-11-16T08:57:00+01:00",
-"artist": "Alexander IV & IYAMAH",
-"title": "About Us"
-},
-{
-"id": "2026-11-16T08:44|Interpol|Iron City",
-"t": "2026-11-16T08:44:00+01:00",
-"artist": "Interpol",
-"title": "Iron City"
-},
-{
-"id": "2026-11-16T08:42|Joshua Idehen|Could Be Forever",
-"t": "2026-11-16T08:42:00+01:00",
-"artist": "Joshua Idehen",
-"title": "Could Be Forever"
-},
-{
-"id": "2026-11-16T08:35|Bat For Lashes|Daniel",
-"t": "2026-11-16T08:35:00+01:00",
-"artist": "Bat For Lashes",
-"title": "Daniel"
-},
-{
-"id": "2026-11-16T08:26|Saigon Soul Revival|Ai Thật Lòng Yêu Ai",
-"t": "2026-11-16T08:26:00+01:00",
-"artist": "Saigon Soul Revival",
-"title": "Ai Thật Lòng Yêu Ai"
-},
-{
-"id": "2026-11-16T08:19|Led Zeppelin|D'yer Mak'er",
-"t": "2026-11-16T08:19:00+01:00",
-"artist": "Led Zeppelin",
-"title": "D'yer Mak'er"
-},
-{
-"id": "2026-11-16T08:16|Jungle|Someday, Somewhere",
-"t": "2026-11-16T08:16:00+01:00",
-"artist": "Jungle",
-"title": "Someday, Somewhere"
 }
 ]
 }
