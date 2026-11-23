@@ -1,5 +1,5 @@
 {
-"updated": "2026-11-23T11:30:29.790975+01:00",
+"updated": "2026-11-23T11:42:29.791310+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
@@ -13,7 +13,7 @@
 "2026-11-20": 147,
 "2026-11-21": 93,
 "2026-11-22": 104,
-"2026-11-23": 51
+"2026-11-23": 53
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
@@ -3829,6 +3829,24 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-11-23T11:36|K. D. Lang|Constant Craving",
+"t": "2026-11-23T11:36:00+01:00",
+"artist": "K. D. Lang",
+"title": "Constant Craving"
+},
+{
+"id": "2026-11-23T11:31|Nia Archives|There Goes Ma Head",
+"t": "2026-11-23T11:31:00+01:00",
+"artist": "Nia Archives",
+"title": "There Goes Ma Head"
+},
+{
+"id": "2026-11-23T11:29|The Dig|Million Dollar Man",
+"t": "2026-11-23T11:29:00+01:00",
+"artist": "The Dig",
+"title": "Million Dollar Man"
+},
 {
 "id": "2026-11-23T11:24|EELS|Congratulations To Me",
 "t": "2026-11-23T11:24:00+01:00",
@@ -9300,18 +9318,6 @@
 "t": "2026-11-16T11:45:00+01:00",
 "artist": "Coldplay",
 "title": "Atlas"
-},
-{
-"id": "2026-11-16T11:39|CECI feat. Lords of Lounge|Honey Honey",
-"t": "2026-11-16T11:39:00+01:00",
-"artist": "CECI feat. Lords of Lounge",
-"title": "Honey Honey"
-},
-{
-"id": "2026-11-16T11:33|José González|Heartbeats",
-"t": "2026-11-16T11:33:00+01:00",
-"artist": "José González",
-"title": "Heartbeats"
 }
 ]
 }
