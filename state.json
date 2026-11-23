@@ -1,10 +1,10 @@
 {
-"updated": "2026-11-23T03:57:34.246812+01:00",
+"updated": "2026-11-23T04:09:34.247152+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
-"synced": "2026-11-22T15:50:49.928087+01:00",
-"pruned": "2026-11-22",
+"synced": "2026-11-23T04:01:34.246918+01:00",
+"pruned": "2026-11-23",
 "calls": {
 "2026-11-16": 163,
 "2026-11-17": 194,
@@ -12,11 +12,11 @@
 "2026-11-19": 164,
 "2026-11-20": 147,
 "2026-11-21": 93,
-"2026-11-22": 88
+"2026-11-22": 98
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAjkPqWdBbtgcAJ3m6ch3/2AlaNBrAc",
+"snapshot": "AAAjmWeSEFKdXt8qydhAa4XQ0MyC+PLD",
 "playlist": [
 [
 "2026-11-22T13:52|Suzanne Vega|Witch",
@@ -3601,166 +3601,6 @@
 [
 "2026-11-16T05:03|Kelela|Contact",
 "spotify:track:02uslYmKRGArhSEe3Z72qm"
-],
-[
-"2026-11-15T11:57|Johnny Cash|If You Could Read My Mind",
-"spotify:track:0xTggtP2weZNXgY7s0dh2b"
-],
-[
-"2026-11-15T11:50|Automatic|Shadowplay",
-"spotify:track:0pT1m2UpNBliUb6W7S7YzA"
-],
-[
-"2026-11-15T11:43|JGrrey feat. Bel Cobain|Take My Hand",
-"spotify:track:0i4SCqKHjbBrPjUX4RPRq3"
-],
-[
-"2026-11-15T11:36|Benjamin Biolay|Dans La Merco Benz",
-"spotify:track:4qTqmiLn1nFzuREnQaxLma"
-],
-[
-"2026-11-15T11:25|Golden Bug feat. The Limiñanas & Vega Voga|Hi No Tori",
-"spotify:track:3bwUf5ieZ8zDhqhb9riS0O"
-],
-[
-"2026-11-15T11:14|Meshell Ndegeocello feat. Cat Power|Don’t You Want Me",
-"spotify:track:5sbCqST9M4Q1sRSJM6L6oT"
-],
-[
-"2026-11-15T11:07|Masha Qrella|DJ",
-"spotify:track:1KaOD2vOA0xihDShLwSnYB"
-],
-[
-"2026-11-15T11:04|Get Well Soon|Siri, What Ruined The West ?",
-"spotify:track:3XY1xxFHeGHDDt33V6GoE2"
-],
-[
-"2026-11-15T10:55|Chet Faker|Over You (Radio Edit)",
-"spotify:track:036QOmnlr52hgeH1WmQ5OB"
-],
-[
-"2026-11-15T10:51|Robin Kester (feat. Rozi Plain)|Departure",
-"spotify:track:5SzAXugSyV4nN9LxvnIiFp"
-],
-[
-"2026-11-15T10:33|Fastball|The Way",
-"spotify:track:7IsEXPk6qqt30FfQv4SZMa"
-],
-[
-"2026-11-15T10:28|SYML|Where's My Love",
-"spotify:track:5IH7HQEWhToZnMQTZRzp1H"
-],
-[
-"2026-11-15T10:17|Aretha Franklin|I Say A Little Prayer",
-"spotify:track:3NfxSdJnVdon1axzloJgba"
-],
-[
-"2026-11-15T10:09|Dekker|Pick It Up, Put It Back",
-"spotify:track:0LhuToBNSlvYc4IwVJpYWH"
-],
-[
-"2026-11-15T10:06|Fantastic Negrito|The Duffler",
-"spotify:track:6uAMmbcKykXTDODpYb8VR0"
-],
-[
-"2026-11-15T09:58|The Avalanches feat. Karen O|Blue Shadows",
-"spotify:track:5bN5To0VLbNBKQDzJ1Lk6c"
-],
-[
-"2026-11-15T09:53|Compuphonic|Metropolis",
-"spotify:track:7x1ImHNHZq22LRlcGXGCjy"
-],
-[
-"2026-11-15T09:51|Empire Of The Sun|Walking On A Dream",
-"spotify:track:5oOKU4RiAMyqUoOKICb92j"
-],
-[
-"2026-11-15T09:40|Natalie Bergmann|White Oak (Kosta G. Remix)",
-"spotify:track:18PftHVAUSO5vTwdeRa7Lv"
-],
-[
-"2026-11-15T09:32|The Drums feat. Mareux|It Didn't Matter",
-"spotify:track:10kxTiNUTo4nlEbH1EzoX1"
-],
-[
-"2026-11-15T09:27|The Stranglers|Strange Little Girl",
-"spotify:track:2JvyPKDLGlVaxWHS3y1FZ3"
-],
-[
-"2026-11-15T09:24|Tom Misch|Slow Tonight",
-"spotify:track:7cpoZVJlz9euhcgUfQBMRL"
-],
-[
-"2026-11-15T09:15|Linka Moja|Men R Dogs",
-"spotify:track:7AgfOLYDB7GrgIWg60PBw7"
-],
-[
-"2026-11-15T09:11|Keane|Everybody's Changing",
-"spotify:track:2OfKkndS0V0ZhP5irwCHhy"
-],
-[
-"2026-11-15T09:05|The Roots feat. Dice Raw|How I Got Over",
-"spotify:track:51bnnsURQ9bITMraBp4Vbu"
-],
-[
-"2026-11-15T08:55|Jamie T|Tallahassee",
-"spotify:track:3Kwdvrz5PTUpAObYKNPlz0"
-],
-[
-"2026-11-15T08:49|Karel Svoboda|Drei Haselnüsse für Aschenbrödel (Titelthema)",
-"spotify:track:0lQUcdbllruP3TSVrsNGnC"
-],
-[
-"2026-11-15T08:45|David Byrne & Brian Eno|Strange Overtones",
-"spotify:track:7wXJyWtRktzx7shORVNX5B"
-],
-[
-"2026-11-15T08:31|The Notwist|Projectors",
-"spotify:track:6ndNhNpPvowtCtjHkMVAgi"
-],
-[
-"2026-11-15T08:26|Nelly Furtado feat. Rea Garvey|All Good Things (Come To An End)",
-"spotify:track:3BEIE2U4nh9J8nGyGXipvH"
-],
-[
-"2026-11-15T08:23|Antony Szmierek|Seminal (Edit)",
-"spotify:track:3E4Tw3ilp8Ms4a5hHWsIxO"
-],
-[
-"2026-11-15T08:15|Kings Of Leon|My Whole World",
-"spotify:track:2tfc81XZfVReM0kYQqv7o3"
-],
-[
-"2026-11-15T08:10|2raumwohnung|Wir werden sehen (Remix)",
-"spotify:track:2zMedDPWxhxBqaEJLV3gyE"
-],
-[
-"2026-11-15T08:05|Gorillaz feat. Bizarrap, Kara Jackson and Anoushka Shankar|Orange County",
-"spotify:track:5l4Gq3UC0dHKSExIf5xD9N"
-],
-[
-"2026-11-15T07:57|Kate Bush|Babooshka",
-"spotify:track:53Mz9H5UvWMQUXHZnaZYKQ"
-],
-[
-"2026-11-15T07:52|Kakkmaddafakka|Gangsta",
-"spotify:track:7glqdycLDCMVVRG8jw5iQl"
-],
-[
-"2026-11-15T07:48|Fritz Kalkbrenner|In This Game",
-"spotify:track:5LGPmloPgFEDuUFBaFV1CU"
-],
-[
-"2026-11-15T07:44|Beastie Boys|No Sleep Till Brooklyn",
-"spotify:track:5qxChyzKLEyoPJ5qGrdurN"
-],
-[
-"2026-11-15T07:39|Nourished by Time|When The War Is Over",
-"spotify:track:6CSpmRlGT82RrGNJotD9gJ"
-],
-[
-"2026-11-15T07:35|Kelela|the bridge (feat. PinkPantheress)",
-"spotify:track:4Og22Djtd18AVqNgijpLsX"
 ]
 ],
 "entries": [
