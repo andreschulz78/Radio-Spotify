@@ -1,9 +1,9 @@
 {
-"updated": "2026-11-23T13:30:29.794234+01:00",
+"updated": "2026-11-23T13:42:29.794546+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
-"synced": "2026-11-23T13:22:29.794039+01:00",
+"synced": "2026-11-23T13:38:29.794447+01:00",
 "pruned": "2026-11-23",
 "calls": {
 "2026-11-16": 163,
@@ -13,12 +13,28 @@
 "2026-11-20": 147,
 "2026-11-21": 93,
 "2026-11-22": 104,
-"2026-11-23": 76
+"2026-11-23": 78
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAjtKJ/4PYMmYTtNtV9yEz3cnr9X6a9",
+"snapshot": "AAAjte0d6y221FK/M0juAi4rQDWxxIyn",
 "playlist": [
+[
+"2026-11-23T13:32|John Maus|No Title (Molly)",
+"spotify:track:1JLHc5b7wSxHpuIA8qbMNh"
+],
+[
+"2026-11-23T13:26|Agnes Obel|Laymelli (Edit)",
+"spotify:track:0VzMHjWcs2P24LHLekZ8Qa"
+],
+[
+"2026-11-23T13:22|Talk Talk|Such A Shame",
+"spotify:track:35JhxrwW2bBAiMcnrmuLEN"
+],
+[
+"2026-11-23T13:18|Kid Fonque feat. Sio|Rekindled",
+"spotify:track:6tYcwTCS7qtLFoKhBwcpAP"
+],
 [
 "2026-11-23T13:11|Erika De Casier|Delusional",
 "spotify:track:6M5Y8sn5cXePK58bH1WKon"
@@ -3905,6 +3921,18 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-11-23T13:35|Bonaparte|KiOSKO",
+"t": "2026-11-23T13:35:00+01:00",
+"artist": "Bonaparte",
+"title": "KiOSKO"
+},
+{
+"id": "2026-11-23T13:32|John Maus|No Title (Molly)",
+"t": "2026-11-23T13:32:00+01:00",
+"artist": "John Maus",
+"title": "No Title (Molly)"
+},
 {
 "id": "2026-11-23T13:26|Agnes Obel|Laymelli (Edit)",
 "t": "2026-11-23T13:26:00+01:00",
@@ -9388,24 +9416,6 @@
 "t": "2026-11-16T13:44:00+01:00",
 "artist": "Arlo Parks",
 "title": "Heaven"
-},
-{
-"id": "2026-11-16T13:41|Flora Hibberd|Bowling Ball",
-"t": "2026-11-16T13:41:00+01:00",
-"artist": "Flora Hibberd",
-"title": "Bowling Ball"
-},
-{
-"id": "2026-11-16T13:34|Camel Power Club|Thundergarou",
-"t": "2026-11-16T13:34:00+01:00",
-"artist": "Camel Power Club",
-"title": "Thundergarou"
-},
-{
-"id": "2026-11-16T13:31|Jim James|Here In Spirit",
-"t": "2026-11-16T13:31:00+01:00",
-"artist": "Jim James",
-"title": "Here In Spirit"
 }
 ]
 }
