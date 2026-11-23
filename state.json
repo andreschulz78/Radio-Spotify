@@ -1,5 +1,5 @@
 {
-"updated": "2026-11-23T05:45:34.249855+01:00",
+"updated": "2026-11-23T05:57:34.250181+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
@@ -13,7 +13,7 @@
 "2026-11-20": 147,
 "2026-11-21": 93,
 "2026-11-22": 104,
-"2026-11-23": 5
+"2026-11-23": 8
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
@@ -3633,6 +3633,18 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-11-23T05:51|Django Django|Swimming At Night",
+"t": "2026-11-23T05:51:00+01:00",
+"artist": "Django Django",
+"title": "Swimming At Night"
+},
+{
+"id": "2026-11-23T05:47|Automatic|Shadowplay",
+"t": "2026-11-23T05:47:00+01:00",
+"artist": "Automatic",
+"title": "Shadowplay"
+},
 {
 "id": "2026-11-23T05:42|Stella|Charmed",
 "t": "2026-11-23T05:42:00+01:00",
@@ -9110,24 +9122,6 @@
 "t": "2026-11-16T06:07:00+01:00",
 "artist": "Moscoman & Tom Sanders",
 "title": "In Stereo"
-},
-{
-"id": "2026-11-16T05:57|Skinny Pelembe feat. Beth Orton|Who By Fire",
-"t": "2026-11-16T05:57:00+01:00",
-"artist": "Skinny Pelembe feat. Beth Orton",
-"title": "Who By Fire"
-},
-{
-"id": "2026-11-16T05:51|Hot Chip|Over And Over",
-"t": "2026-11-16T05:51:00+01:00",
-"artist": "Hot Chip",
-"title": "Over And Over"
-},
-{
-"id": "2026-11-16T05:48|Tessa Rose Jackson|Built To Collide",
-"t": "2026-11-16T05:48:00+01:00",
-"artist": "Tessa Rose Jackson",
-"title": "Built To Collide"
 }
 ]
 }
