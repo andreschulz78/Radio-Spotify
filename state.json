@@ -1,9 +1,9 @@
 {
-"updated": "2026-11-23T07:33:34.252980+01:00",
+"updated": "2026-11-23T07:45:34.253316+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
-"synced": "2026-11-23T07:21:34.252637+01:00",
+"synced": "2026-11-23T07:37:34.253094+01:00",
 "pruned": "2026-11-23",
 "calls": {
 "2026-11-16": 163,
@@ -13,12 +13,24 @@
 "2026-11-20": 147,
 "2026-11-21": 93,
 "2026-11-22": 104,
-"2026-11-23": 23
+"2026-11-23": 25
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAjoujCpKUc+Bp/yNuNhLMA/OKGxwHp",
+"snapshot": "AAAjo6cd125d1qvBsMGoMqpwpLsP04Fo",
 "playlist": [
+[
+"2026-11-23T07:33|Metronomy|Everything Goes My Way",
+"spotify:track:67wcAJeaNwGm0fcB4HzzYm"
+],
+[
+"2026-11-23T07:25|Eilis Frawley|Taken, Never Erased",
+"spotify:track:5a3IV4xiA81Ucn98CHtJzb"
+],
+[
+"2026-11-23T07:17|Fatboy Slim|Sunset (Bird Of Prey)",
+"spotify:track:3gYirViZoSFeJg7l80g0gs"
+],
 [
 "2026-11-23T07:14|Melanie De Biasio|Gold Junkies",
 "spotify:track:060SpUvFgCgJbJeNbwTe63"
@@ -3681,6 +3693,12 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-11-23T07:33|Metronomy|Everything Goes My Way",
+"t": "2026-11-23T07:33:00+01:00",
+"artist": "Metronomy",
+"title": "Everything Goes My Way"
+},
 {
 "id": "2026-11-23T07:25|Eilis Frawley|Taken, Never Erased",
 "t": "2026-11-23T07:25:00+01:00",
@@ -9164,18 +9182,6 @@
 "t": "2026-11-16T07:50:00+01:00",
 "artist": "Anderson .Paak & Cordae",
 "title": "A Good Day"
-},
-{
-"id": "2026-11-16T07:43|The All Seeing I|Beat Goes On",
-"t": "2026-11-16T07:43:00+01:00",
-"artist": "The All Seeing I",
-"title": "Beat Goes On"
-},
-{
-"id": "2026-11-16T07:35|Django Django|Cameos",
-"t": "2026-11-16T07:35:00+01:00",
-"artist": "Django Django",
-"title": "Cameos"
 }
 ]
 }
