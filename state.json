@@ -1,9 +1,9 @@
 {
-"updated": "2026-11-23T11:54:29.791680+01:00",
+"updated": "2026-11-23T12:06:29.792055+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
-"synced": "2026-11-23T11:46:29.791413+01:00",
+"synced": "2026-11-23T12:02:29.791925+01:00",
 "pruned": "2026-11-23",
 "calls": {
 "2026-11-16": 163,
@@ -13,12 +13,24 @@
 "2026-11-20": 147,
 "2026-11-21": 93,
 "2026-11-22": 104,
-"2026-11-23": 56
+"2026-11-23": 57
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAjrqxdFGyc+6b6nR3Ph62fEG9rRuys",
+"snapshot": "AAAjrxok+0AYv7a0yg1OZ3TUPpS2Muug",
 "playlist": [
+[
+"2026-11-23T11:57|Ibibio Sound Machine|Love",
+"spotify:track:0JGa4KrhqriWUuPcni3I8D"
+],
+[
+"2026-11-23T11:51|Get Well Soon|Siri, What Ruined The West ?",
+"spotify:track:3XY1xxFHeGHDDt33V6GoE2"
+],
+[
+"2026-11-23T11:47|Unknown Mortal Orchestra|Nadja",
+"spotify:track:2AojQfi1k8pgwyg1Ii0Ly8"
+],
 [
 "2026-11-23T11:43|Udo Jürgens|Ein ehrenwertes Haus",
 "spotify:track:2DpCxiddPgG8z4OlpGoxBc"
@@ -3845,6 +3857,18 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-11-23T11:57|Ibibio Sound Machine|Love",
+"t": "2026-11-23T11:57:00+01:00",
+"artist": "Ibibio Sound Machine",
+"title": "Love"
+},
+{
+"id": "2026-11-23T11:51|Get Well Soon|Siri, What Ruined The West ?",
+"t": "2026-11-23T11:51:00+01:00",
+"artist": "Get Well Soon",
+"title": "Siri, What Ruined The West ?"
+},
 {
 "id": "2026-11-23T11:47|Unknown Mortal Orchestra|Nadja",
 "t": "2026-11-23T11:47:00+01:00",
@@ -9322,18 +9346,6 @@
 "t": "2026-11-16T12:08:00+01:00",
 "artist": "Villagers",
 "title": "Mountain Out Of A Molehill"
-},
-{
-"id": "2026-11-16T12:05|Angel Olsen|What It Is",
-"t": "2026-11-16T12:05:00+01:00",
-"artist": "Angel Olsen",
-"title": "What It Is"
-},
-{
-"id": "2026-11-16T11:55|Sofia Kourtesis|Corazón",
-"t": "2026-11-16T11:55:00+01:00",
-"artist": "Sofia Kourtesis",
-"title": "Corazón"
 }
 ]
 }
