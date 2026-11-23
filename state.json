@@ -1,9 +1,9 @@
 {
-"updated": "2026-11-23T14:30:29.795994+01:00",
+"updated": "2026-11-23T14:42:29.796335+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
-"synced": "2026-11-23T14:26:29.795841+01:00",
+"synced": "2026-11-23T14:42:29.796335+01:00",
 "pruned": "2026-11-23",
 "calls": {
 "2026-11-16": 163,
@@ -13,12 +13,24 @@
 "2026-11-20": 147,
 "2026-11-21": 93,
 "2026-11-22": 104,
-"2026-11-23": 92
+"2026-11-23": 93
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAjvfhrkdEciCBGo4DyoE3SWTKAzUJY",
+"snapshot": "AAAjvgW3Tad6J7TJzoLmQKyT29ryMea7",
 "playlist": [
+[
+"2026-11-23T14:34|BICEP feat. SOARR|Air (Radio Edit)",
+"spotify:track:2infXICqVSUM3bbGSOgFOY"
+],
+[
+"2026-11-23T14:30|Keshavara|Moondram Sevi",
+"spotify:track:0jpeIdUkge4S8dMS0nkZ6r"
+],
+[
+"2026-11-23T14:25|Black Marble|Jim Carol New Year",
+"spotify:track:3UhXNJjt6Y0sNCEwwhoJnT"
+],
 [
 "2026-11-23T14:21|Natacha Atlas|It's A Man's World",
 "spotify:track:1ldLIYoRF5IVsWveYjDMCn"
@@ -3957,6 +3969,18 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-11-23T14:34|BICEP feat. SOARR|Air (Radio Edit)",
+"t": "2026-11-23T14:34:00+01:00",
+"artist": "BICEP feat. SOARR",
+"title": "Air (Radio Edit)"
+},
+{
+"id": "2026-11-23T14:30|Keshavara|Moondram Sevi",
+"t": "2026-11-23T14:30:00+01:00",
+"artist": "Keshavara",
+"title": "Moondram Sevi"
+},
 {
 "id": "2026-11-23T14:25|Black Marble|Jim Carol New Year",
 "t": "2026-11-23T14:25:00+01:00",
@@ -9446,18 +9470,6 @@
 "t": "2026-11-16T14:43:00+01:00",
 "artist": "Chelsea Wolfe",
 "title": "Seethe"
-},
-{
-"id": "2026-11-16T14:37|Tori Amos|Growin Up",
-"t": "2026-11-16T14:37:00+01:00",
-"artist": "Tori Amos",
-"title": "Growin Up"
-},
-{
-"id": "2026-11-16T14:33|The Flaming Lips|God Will Control The Werewolves (Radio Edit)",
-"t": "2026-11-16T14:33:00+01:00",
-"artist": "The Flaming Lips",
-"title": "God Will Control The Werewolves (Radio Edit)"
 }
 ]
 }
