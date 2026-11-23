@@ -1,9 +1,9 @@
 {
-"updated": "2026-11-23T16:06:29.798784+01:00",
+"updated": "2026-11-23T16:18:29.799175+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
-"synced": "2026-11-23T15:50:29.798294+01:00",
+"synced": "2026-11-23T16:14:29.799034+01:00",
 "pruned": "2026-11-23",
 "calls": {
 "2026-11-16": 163,
@@ -13,12 +13,52 @@
 "2026-11-20": 147,
 "2026-11-21": 93,
 "2026-11-22": 104,
-"2026-11-23": 102
+"2026-11-23": 107
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAjwnoKgzc7VHtVotwUvMMMqpBRVPAX",
+"snapshot": "AAAjw697YdwpgoAoT/GEfA+R4cOgQ/+1",
 "playlist": [
+[
+"2026-11-23T16:06|Sister Sledge|Thinking Of You",
+"spotify:track:7mimnm2QlSzW3J38FRMETP"
+],
+[
+"2026-11-23T15:57|Sam Burton|I'm A Stranger",
+"spotify:track:4hAYraVhSzgMTdvftCcqKo"
+],
+[
+"2026-11-23T15:53|Jorja Smith|Blue Lights",
+"spotify:track:2is3sT9juWji2uUZk63g5E"
+],
+[
+"2026-11-23T15:45|Roxy Music|Love Is The Drug",
+"spotify:track:1dSKlvsF5OfSgJOPslLDYf"
+],
+[
+"2026-11-23T15:32|Overmono feat. Ruthven|Gem Lingo (ovr now)",
+"spotify:track:6dSqM0tWJPlchpmGrEwC1c"
+],
+[
+"2026-11-23T15:24|Diplo feat. Elderbrook & Andhim|One By One (Sofia Kourtesis Remix)",
+"spotify:track:2jsjMCChlnHQ3RwqO626bk"
+],
+[
+"2026-11-23T15:21|Cassia|lovedrunk",
+"spotify:track:73HM4oXqEBDbeKn8GexF3c"
+],
+[
+"2026-11-23T15:17|DJ Koze|Spiralen (Radio Edit)",
+"spotify:track:03ra0kWWPT8fW3sy6onMfc"
+],
+[
+"2026-11-23T15:08|Flora Hibberd|Bowling Ball",
+"spotify:track:2Bqy2DIYw0DXkZj8gHTg2p"
+],
+[
+"2026-11-23T15:05|Niki & The Dove|Empires",
+"spotify:track:5rkmOa4PAh1aBMFph5Jdqa"
+],
 [
 "2026-11-23T14:55|Niklas Paschburg feat. luisa|Dark Side Of The Hill",
 "spotify:track:6tthQj4l0bgkXOjIMoFhGC"
@@ -3985,6 +4025,72 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-11-23T16:10|1-800 Girls feat. Art School Girlfriend|sometimes",
+"t": "2026-11-23T16:10:00+01:00",
+"artist": "1-800 Girls feat. Art School Girlfriend",
+"title": "sometimes"
+},
+{
+"id": "2026-11-23T16:06|Sister Sledge|Thinking Of You",
+"t": "2026-11-23T16:06:00+01:00",
+"artist": "Sister Sledge",
+"title": "Thinking Of You"
+},
+{
+"id": "2026-11-23T15:57|Sam Burton|I'm A Stranger",
+"t": "2026-11-23T15:57:00+01:00",
+"artist": "Sam Burton",
+"title": "I'm A Stranger"
+},
+{
+"id": "2026-11-23T15:53|Jorja Smith|Blue Lights",
+"t": "2026-11-23T15:53:00+01:00",
+"artist": "Jorja Smith",
+"title": "Blue Lights"
+},
+{
+"id": "2026-11-23T15:45|Roxy Music|Love Is The Drug",
+"t": "2026-11-23T15:45:00+01:00",
+"artist": "Roxy Music",
+"title": "Love Is The Drug"
+},
+{
+"id": "2026-11-23T15:32|Overmono feat. Ruthven|Gem Lingo (ovr now)",
+"t": "2026-11-23T15:32:00+01:00",
+"artist": "Overmono feat. Ruthven",
+"title": "Gem Lingo (ovr now)"
+},
+{
+"id": "2026-11-23T15:24|Diplo feat. Elderbrook & Andhim|One By One (Sofia Kourtesis Remix)",
+"t": "2026-11-23T15:24:00+01:00",
+"artist": "Diplo feat. Elderbrook & Andhim",
+"title": "One By One (Sofia Kourtesis Remix)"
+},
+{
+"id": "2026-11-23T15:21|Cassia|lovedrunk",
+"t": "2026-11-23T15:21:00+01:00",
+"artist": "Cassia",
+"title": "lovedrunk"
+},
+{
+"id": "2026-11-23T15:17|DJ Koze|Spiralen (Radio Edit)",
+"t": "2026-11-23T15:17:00+01:00",
+"artist": "DJ Koze",
+"title": "Spiralen (Radio Edit)"
+},
+{
+"id": "2026-11-23T15:08|Flora Hibberd|Bowling Ball",
+"t": "2026-11-23T15:08:00+01:00",
+"artist": "Flora Hibberd",
+"title": "Bowling Ball"
+},
+{
+"id": "2026-11-23T15:05|Niki & The Dove|Empires",
+"t": "2026-11-23T15:05:00+01:00",
+"artist": "Niki & The Dove",
+"title": "Empires"
+},
 {
 "id": "2026-11-23T14:55|Niklas Paschburg feat. luisa|Dark Side Of The Hill",
 "t": "2026-11-23T14:55:00+01:00",
@@ -9420,24 +9526,6 @@
 "t": "2026-11-16T16:24:00+01:00",
 "artist": "Adele",
 "title": "Skyfall"
-},
-{
-"id": "2026-11-16T16:18|MRCY feat. Yazmin Lacey|Better Days",
-"t": "2026-11-16T16:18:00+01:00",
-"artist": "MRCY feat. Yazmin Lacey",
-"title": "Better Days"
-},
-{
-"id": "2026-11-16T16:15|Harp|Throne Of Amber (Edit)",
-"t": "2026-11-16T16:15:00+01:00",
-"artist": "Harp",
-"title": "Throne Of Amber (Edit)"
-},
-{
-"id": "2026-11-16T16:07|RAYE|Where is my husband!",
-"t": "2026-11-16T16:07:00+01:00",
-"artist": "RAYE",
-"title": "Where is my husband!"
 }
 ]
 }
