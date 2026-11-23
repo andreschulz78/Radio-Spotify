@@ -1,9 +1,9 @@
 {
-"updated": "2026-11-23T14:06:29.795221+01:00",
+"updated": "2026-11-23T14:18:29.795592+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
-"synced": "2026-11-23T13:54:29.794873+01:00",
+"synced": "2026-11-23T14:10:29.795338+01:00",
 "pruned": "2026-11-23",
 "calls": {
 "2026-11-16": 163,
@@ -13,12 +13,28 @@
 "2026-11-20": 147,
 "2026-11-21": 93,
 "2026-11-22": 104,
-"2026-11-23": 81
+"2026-11-23": 89
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAjtqZHfrQE2j0ZNylX+bxtTvSHjLnb",
+"snapshot": "AAAjvFbkr+U0kT955QObEybXJIAlz6tg",
 "playlist": [
+[
+"2026-11-23T14:05|Kraak & Smaak feat. Ben Westbeech|Squeeze Me",
+"spotify:track:1gaLHzVXNgbxswzVwdAfTY"
+],
+[
+"2026-11-23T13:57|The Drums feat. Mareux|It Didn't Matter",
+"spotify:track:10kxTiNUTo4nlEbH1EzoX1"
+],
+[
+"2026-11-23T13:50|Sylvan Esso|Right to Left",
+"spotify:track:78xiuouD9dMXKXGKdDnjqB"
+],
+[
+"2026-11-23T13:45|Neneh Cherry|I've Got You Under My Skin",
+"spotify:track:6byGjGICQgmQNh1v9IVqzj"
+],
 [
 "2026-11-23T13:41|Boards Of Canada|Prophecy At 1420 MHz (Edit)",
 "spotify:track:4gYaI1S9Qug6B96E2HwxeN"
@@ -3572,10 +3588,6 @@
 "spotify:track:2ojL9cOWfePbVRM4YZYD4B"
 ],
 [
-"2026-11-16T14:10|Automatic|Shadowplay",
-"spotify:track:0pT1m2UpNBliUb6W7S7YzA"
-],
-[
 "2026-11-16T14:05|Yard Act|You're Gonna Need A Little Music",
 "spotify:track:43KS2LpjMVkvJdprLaoQxQ"
 ],
@@ -3929,6 +3941,24 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-11-23T14:10|Otto von Bismarck|Nicht Hier Nicht Heute",
+"t": "2026-11-23T14:10:00+01:00",
+"artist": "Otto von Bismarck",
+"title": "Nicht Hier Nicht Heute"
+},
+{
+"id": "2026-11-23T14:08|Modeselektor|IWUDLYK",
+"t": "2026-11-23T14:08:00+01:00",
+"artist": "Modeselektor",
+"title": "IWUDLYK"
+},
+{
+"id": "2026-11-23T14:05|Kraak & Smaak feat. Ben Westbeech|Squeeze Me",
+"t": "2026-11-23T14:05:00+01:00",
+"artist": "Kraak & Smaak feat. Ben Westbeech",
+"title": "Squeeze Me"
+},
 {
 "id": "2026-11-23T13:57|The Drums feat. Mareux|It Didn't Matter",
 "t": "2026-11-23T13:57:00+01:00",
@@ -9412,18 +9442,6 @@
 "t": "2026-11-16T14:20:00+01:00",
 "artist": "The Roots feat. Joanna Newsom",
 "title": "Right On"
-},
-{
-"id": "2026-11-16T14:17|Faithless|Miss U Less, See U More",
-"t": "2026-11-16T14:17:00+01:00",
-"artist": "Faithless",
-"title": "Miss U Less, See U More"
-},
-{
-"id": "2026-11-16T14:10|Automatic|Shadowplay",
-"t": "2026-11-16T14:10:00+01:00",
-"artist": "Automatic",
-"title": "Shadowplay"
 }
 ]
 }
