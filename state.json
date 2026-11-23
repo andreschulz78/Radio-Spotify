@@ -1,9 +1,9 @@
 {
-"updated": "2026-11-23T23:11:22.725291+01:00",
+"updated": "2026-11-23T23:23:22.725662+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
-"synced": "2026-11-23T22:59:22.724925+01:00",
+"synced": "2026-11-23T23:15:22.725428+01:00",
 "pruned": "2026-11-23",
 "calls": {
 "2026-11-16": 163,
@@ -13,11 +13,11 @@
 "2026-11-20": 147,
 "2026-11-21": 93,
 "2026-11-22": 104,
-"2026-11-23": 120
+"2026-11-23": 140
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAjxA5c0HZ9Q9uhuv475+SApm5PMXsR",
+"snapshot": "AAAjzb2QFa9KMoTrTdmxQbuO3J2NtV5d",
 "playlist": [
 [
 "2026-11-23T20:56|A Certain Ratio|SAMO",
@@ -36,6 +36,10 @@
 "spotify:track:7kmqdgrgrMBnVNhoLyVNWC"
 ],
 [
+"2026-11-23T20:25|Mittekill|Der Gönner",
+"spotify:track:4hs9EAQ8t9Ch4WrlnMG8ac"
+],
+[
 "2026-11-23T20:17|Daft Punk|Voyager",
 "spotify:track:7cMFjxhbXBpOlais7KMF3j"
 ],
@@ -52,6 +56,10 @@
 "spotify:track:5bN5To0VLbNBKQDzJ1Lk6c"
 ],
 [
+"2026-11-23T19:49|Travis|The Beautiful Occupation",
+"spotify:track:7I3bIdkyKPb37g6WKWnSwJ"
+],
+[
 "2026-11-23T19:41|Vince Staples|Tulsa, OK",
 "spotify:track:4lyK8sT0dLpxSBv14wtVet"
 ],
@@ -64,12 +72,28 @@
 "spotify:track:1kjdZI17F6ONf5iluLS0in"
 ],
 [
+"2026-11-23T18:56|M/A/R/R/S (MARRS)|Pump Up The Volume",
+"spotify:track:6rsPAZHDOhzjbbgnODls3Y"
+],
+[
 "2026-11-23T18:49|Benjamin Clementine|In Fact You Know You Gotto Go",
 "spotify:track:4cWEdRTQ8sg4QaTBIGn06j"
 ],
 [
+"2026-11-23T18:46|Nightcrawlers|Push The Feeling On",
+"spotify:track:1yFM7HgktMNF4x7zgNuHT4"
+],
+[
+"2026-11-23T18:42|Delays|Hey Girl",
+"spotify:track:1PgqUPtsPsQxucFNLM0BxS"
+],
+[
 "2026-11-23T18:36|Kaeto|Distance",
 "spotify:track:62pL71pOrLHUoZ2ak7biKM"
+],
+[
+"2026-11-23T18:33|Christine And The Queens feat. Dam-Funk|Damn, dis-moi",
+"spotify:track:3UdpmDD7psclT8I1vltIbp"
 ],
 [
 "2026-11-23T18:26|Ásgeir|Against The Current",
@@ -84,12 +108,24 @@
 "spotify:track:5O1tikYb6HKrP5cxSQv0iV"
 ],
 [
+"2026-11-23T18:06|Gorillaz|Baby Queen",
+"spotify:track:0dFwiyWPwC2yML3ZH7B56V"
+],
+[
+"2026-11-23T17:56|Gang Starr|Lovesick",
+"spotify:track:6biAvuLvtDrIZI9kKKkhgC"
+],
+[
 "2026-11-23T17:49|Bonobo|Shokoufeh",
 "spotify:track:5cZ6iDczIvnNezs5sqdgU8"
 ],
 [
 "2026-11-23T17:45|The Big Moon|F.O.R.E.V.E.R",
 "spotify:track:0UaPOdi1O83vr1oTXaGqgx"
+],
+[
+"2026-11-23T17:37|Malcolm McLaren|Waltz Darling",
+"spotify:track:6aFashqJgI4KEGK8x2qlTM"
 ],
 [
 "2026-11-23T17:32|Johnny Marr|Hi Hello",
@@ -100,12 +136,24 @@
 "spotify:track:5CGkv2xYLtHRrq5gbGlv4n"
 ],
 [
+"2026-11-23T17:16|Sade|By Your Side",
+"spotify:track:50AzDsOwxZucIkyAfoPOgR"
+],
+[
 "2026-11-23T17:06|Antony Szmierek|Chalk (Radio Edit)",
 "spotify:track:5HdeMdzAlNKwCM4L9cjehN"
 ],
 [
 "2026-11-23T16:57|Moscoman & Tom Sanders|In Stereo",
 "spotify:track:6VBbmDuYFGj4xAxLM79JB7"
+],
+[
+"2026-11-23T16:50|Natasha Bedingfield|These Words",
+"spotify:track:3zgx4lzPow9i0Ms3wzuOLd"
+],
+[
+"2026-11-23T16:47|Jimi Tenor|Take Me Baby",
+"spotify:track:4FrZW51thy9bB0ZKj6kvWE"
 ],
 [
 "2026-11-23T16:44|Beck|It Ends Right Here",
