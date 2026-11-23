@@ -1,9 +1,9 @@
 {
-"updated": "2026-11-23T14:54:29.796742+01:00",
+"updated": "2026-11-23T15:06:29.797089+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
-"synced": "2026-11-23T14:42:29.796335+01:00",
+"synced": "2026-11-23T14:58:29.796878+01:00",
 "pruned": "2026-11-23",
 "calls": {
 "2026-11-16": 163,
@@ -13,12 +13,28 @@
 "2026-11-20": 147,
 "2026-11-21": 93,
 "2026-11-22": 104,
-"2026-11-23": 94
+"2026-11-23": 99
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAjvgW3Tad6J7TJzoLmQKyT29ryMea7",
+"snapshot": "AAAjv1Pco2xGapIWCXX7g7VXjwOG8IFV",
 "playlist": [
+[
+"2026-11-23T14:49|Sonny & Cher|The Beat Goes On",
+"spotify:track:6WIh0P8aupqSHeqUULThF0"
+],
+[
+"2026-11-23T14:47|Benjamin Booker & Benjamin Evans & Kenny Segal|Show And Tell",
+"spotify:track:1ql85BPlY53nyhSaktas59"
+],
+[
+"2026-11-23T14:43|Austra|Math Equation",
+"spotify:track:2r6yEYmV8vu1pjVHmKEr0f"
+],
+[
+"2026-11-23T14:39|The Flaming Lips|Flowers Of Neptune 6 (Edit)",
+"spotify:track:5b1vz9671RQaDF2VF4gt4Y"
+],
 [
 "2026-11-23T14:34|BICEP feat. SOARR|Air (Radio Edit)",
 "spotify:track:2infXICqVSUM3bbGSOgFOY"
@@ -3969,6 +3985,24 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-11-23T14:55|Niklas Paschburg feat. luisa|Dark Side Of The Hill",
+"t": "2026-11-23T14:55:00+01:00",
+"artist": "Niklas Paschburg feat. luisa",
+"title": "Dark Side Of The Hill"
+},
+{
+"id": "2026-11-23T14:49|Sonny & Cher|The Beat Goes On",
+"t": "2026-11-23T14:49:00+01:00",
+"artist": "Sonny & Cher",
+"title": "The Beat Goes On"
+},
+{
+"id": "2026-11-23T14:47|Benjamin Booker & Benjamin Evans & Kenny Segal|Show And Tell",
+"t": "2026-11-23T14:47:00+01:00",
+"artist": "Benjamin Booker & Benjamin Evans & Kenny Segal",
+"title": "Show And Tell"
+},
 {
 "id": "2026-11-23T14:43|Austra|Math Equation",
 "t": "2026-11-23T14:43:00+01:00",
@@ -9452,18 +9486,6 @@
 "t": "2026-11-16T15:08:00+01:00",
 "artist": "Natalie Bergmann",
 "title": "White Oak (Kosta G. Remix)"
-},
-{
-"id": "2026-11-16T15:05|Sydney Minsky Sargeant|I Don't Wanna",
-"t": "2026-11-16T15:05:00+01:00",
-"artist": "Sydney Minsky Sargeant",
-"title": "I Don't Wanna"
-},
-{
-"id": "2026-11-16T14:56|Odd Beholder|Your Emancipation",
-"t": "2026-11-16T14:56:00+01:00",
-"artist": "Odd Beholder",
-"title": "Your Emancipation"
 }
 ]
 }
