@@ -1,9 +1,9 @@
 {
-"updated": "2026-11-23T11:42:29.791310+01:00",
+"updated": "2026-11-23T11:54:29.791680+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
-"synced": "2026-11-23T11:30:29.790975+01:00",
+"synced": "2026-11-23T11:46:29.791413+01:00",
 "pruned": "2026-11-23",
 "calls": {
 "2026-11-16": 163,
@@ -13,12 +13,28 @@
 "2026-11-20": 147,
 "2026-11-21": 93,
 "2026-11-22": 104,
-"2026-11-23": 53
+"2026-11-23": 56
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAjrV/uXSE7AJlrPCVNV/71Pd0/72aB",
+"snapshot": "AAAjrqxdFGyc+6b6nR3Ph62fEG9rRuys",
 "playlist": [
+[
+"2026-11-23T11:43|Udo Jürgens|Ein ehrenwertes Haus",
+"spotify:track:2DpCxiddPgG8z4OlpGoxBc"
+],
+[
+"2026-11-23T11:36|K. D. Lang|Constant Craving",
+"spotify:track:1Hh0zS3b9pszJA7wnNeWG0"
+],
+[
+"2026-11-23T11:31|Nia Archives|There Goes Ma Head",
+"spotify:track:0ceKqpXrrC3CtFwFiLJeoY"
+],
+[
+"2026-11-23T11:29|The Dig|Million Dollar Man",
+"spotify:track:3u1c4BJRtbS08gRTEjzK49"
+],
 [
 "2026-11-23T11:24|EELS|Congratulations To Me",
 "spotify:track:0PsZbSqZk6s6bEw5Ff3xrS"
@@ -3829,6 +3845,18 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-11-23T11:47|Unknown Mortal Orchestra|Nadja",
+"t": "2026-11-23T11:47:00+01:00",
+"artist": "Unknown Mortal Orchestra",
+"title": "Nadja"
+},
+{
+"id": "2026-11-23T11:43|Udo Jürgens|Ein ehrenwertes Haus",
+"t": "2026-11-23T11:43:00+01:00",
+"artist": "Udo Jürgens",
+"title": "Ein ehrenwertes Haus"
+},
 {
 "id": "2026-11-23T11:36|K. D. Lang|Constant Craving",
 "t": "2026-11-23T11:36:00+01:00",
@@ -9306,18 +9334,6 @@
 "t": "2026-11-16T11:55:00+01:00",
 "artist": "Sofia Kourtesis",
 "title": "Corazón"
-},
-{
-"id": "2026-11-16T11:49|Jessie Ware|110%",
-"t": "2026-11-16T11:49:00+01:00",
-"artist": "Jessie Ware",
-"title": "110%"
-},
-{
-"id": "2026-11-16T11:45|Coldplay|Atlas",
-"t": "2026-11-16T11:45:00+01:00",
-"artist": "Coldplay",
-"title": "Atlas"
 }
 ]
 }
