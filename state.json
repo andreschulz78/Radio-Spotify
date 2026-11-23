@@ -1,9 +1,9 @@
 {
-"updated": "2026-11-23T12:06:29.792055+01:00",
+"updated": "2026-11-23T12:18:29.792396+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
-"synced": "2026-11-23T12:02:29.791925+01:00",
+"synced": "2026-11-23T12:18:29.792396+01:00",
 "pruned": "2026-11-23",
 "calls": {
 "2026-11-16": 163,
@@ -13,12 +13,20 @@
 "2026-11-20": 147,
 "2026-11-21": 93,
 "2026-11-22": 104,
-"2026-11-23": 57
+"2026-11-23": 60
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAjrxok+0AYv7a0yg1OZ3TUPpS2Muug",
+"snapshot": "AAAjsFBnbsnr3MyT3yNRkJaseuy0mTDg",
 "playlist": [
+[
+"2026-11-23T12:09|Ane Brun feat. Röyksopp|Eat The Fruit (Radio Edit)",
+"spotify:track:6QTVocXJIT6QomBx2QuBBm"
+],
+[
+"2026-11-23T12:06|Woodkid|I Love You",
+"spotify:track:47sP9utcdOeL1zD6mEeFiU"
+],
 [
 "2026-11-23T11:57|Ibibio Sound Machine|Love",
 "spotify:track:0JGa4KrhqriWUuPcni3I8D"
@@ -3857,6 +3865,18 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-11-23T12:09|Ane Brun feat. Röyksopp|Eat The Fruit (Radio Edit)",
+"t": "2026-11-23T12:09:00+01:00",
+"artist": "Ane Brun feat. Röyksopp",
+"title": "Eat The Fruit (Radio Edit)"
+},
+{
+"id": "2026-11-23T12:06|Woodkid|I Love You",
+"t": "2026-11-23T12:06:00+01:00",
+"artist": "Woodkid",
+"title": "I Love You"
+},
 {
 "id": "2026-11-23T11:57|Ibibio Sound Machine|Love",
 "t": "2026-11-23T11:57:00+01:00",
@@ -9334,18 +9354,6 @@
 "t": "2026-11-16T12:22:00+01:00",
 "artist": "Phoebe Bridgers",
 "title": "Lost Boys (Radio Edit)"
-},
-{
-"id": "2026-11-16T12:16|Jamie Woon|Heavy Going...",
-"t": "2026-11-16T12:16:00+01:00",
-"artist": "Jamie Woon",
-"title": "Heavy Going..."
-},
-{
-"id": "2026-11-16T12:08|Villagers|Mountain Out Of A Molehill",
-"t": "2026-11-16T12:08:00+01:00",
-"artist": "Villagers",
-"title": "Mountain Out Of A Molehill"
 }
 ]
 }
