@@ -1,9 +1,9 @@
 {
-"updated": "2026-11-23T15:06:29.797089+01:00",
+"updated": "2026-11-23T15:18:29.797393+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
-"synced": "2026-11-23T14:58:29.796878+01:00",
+"synced": "2026-11-23T15:14:29.797299+01:00",
 "pruned": "2026-11-23",
 "calls": {
 "2026-11-16": 163,
@@ -13,12 +13,16 @@
 "2026-11-20": 147,
 "2026-11-21": 93,
 "2026-11-22": 104,
-"2026-11-23": 99
+"2026-11-23": 100
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAjv1Pco2xGapIWCXX7g7VXjwOG8IFV",
+"snapshot": "AAAjwEbtOvc/JNzfr0Rx+hyGmZiyfx67",
 "playlist": [
+[
+"2026-11-23T14:55|Niklas Paschburg feat. luisa|Dark Side Of The Hill",
+"spotify:track:6tthQj4l0bgkXOjIMoFhGC"
+],
 [
 "2026-11-23T14:49|Sonny & Cher|The Beat Goes On",
 "spotify:track:6WIh0P8aupqSHeqUULThF0"
@@ -9474,18 +9478,6 @@
 "t": "2026-11-16T15:21:00+01:00",
 "artist": "Fun Lovin' Criminals",
 "title": "Love Unlimited"
-},
-{
-"id": "2026-11-16T15:18|Dekker|Pick It Up, Put It Back",
-"t": "2026-11-16T15:18:00+01:00",
-"artist": "Dekker",
-"title": "Pick It Up, Put It Back"
-},
-{
-"id": "2026-11-16T15:08|Natalie Bergmann|White Oak (Kosta G. Remix)",
-"t": "2026-11-16T15:08:00+01:00",
-"artist": "Natalie Bergmann",
-"title": "White Oak (Kosta G. Remix)"
 }
 ]
 }
