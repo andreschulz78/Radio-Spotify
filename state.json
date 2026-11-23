@@ -1,9 +1,9 @@
 {
-"updated": "2026-11-23T06:57:34.251990+01:00",
+"updated": "2026-11-23T07:09:34.252317+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
-"synced": "2026-11-23T06:49:34.251759+01:00",
+"synced": "2026-11-23T07:05:34.252207+01:00",
 "pruned": "2026-11-23",
 "calls": {
 "2026-11-16": 163,
@@ -13,12 +13,20 @@
 "2026-11-20": 147,
 "2026-11-21": 93,
 "2026-11-22": 104,
-"2026-11-23": 18
+"2026-11-23": 19
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAjoB9kAjZWcEgXJtMJYtAiHk5PVRIV",
+"snapshot": "AAAjob5KEiYCWc3tHF2Wvu2l6DoW2hqU",
 "playlist": [
+[
+"2026-11-23T06:55|Dina Ögon|Det läcker",
+"spotify:track:6GffMzseDk8LgpRNFW9Hca"
+],
+[
+"2026-11-23T06:47|Vince Staples|Cotton",
+"spotify:track:2Dh62ulfuwM2lOWPy4TLEb"
+],
 [
 "2026-11-23T06:42|Mishlawi|All Night",
 "spotify:track:4jvhvr8QBAlC85ovP8zTph"
@@ -3665,6 +3673,12 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-11-23T06:55|Dina Ögon|Det läcker",
+"t": "2026-11-23T06:55:00+01:00",
+"artist": "Dina Ögon",
+"title": "Det läcker"
+},
 {
 "id": "2026-11-23T06:47|Vince Staples|Cotton",
 "t": "2026-11-23T06:47:00+01:00",
@@ -9148,12 +9162,6 @@
 "t": "2026-11-16T07:13:00+01:00",
 "artist": "Ian Brown",
 "title": "The World Is Yours"
-},
-{
-"id": "2026-11-16T07:06|Sassy 009 feat. Blood Orange|Tell Me (Jam City Remix) (Edit)",
-"t": "2026-11-16T07:06:00+01:00",
-"artist": "Sassy 009 feat. Blood Orange",
-"title": "Tell Me (Jam City Remix) (Edit)"
 }
 ]
 }
