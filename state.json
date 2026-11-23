@@ -1,9 +1,9 @@
 {
-"updated": "2026-11-23T23:23:22.725662+01:00",
+"updated": "2026-11-23T23:35:22.726049+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
-"synced": "2026-11-23T23:15:22.725428+01:00",
+"synced": "2026-11-23T23:31:22.725929+01:00",
 "pruned": "2026-11-23",
 "calls": {
 "2026-11-16": 163,
@@ -13,11 +13,11 @@
 "2026-11-20": 147,
 "2026-11-21": 93,
 "2026-11-22": 104,
-"2026-11-23": 140
+"2026-11-23": 145
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAjzb2QFa9KMoTrTdmxQbuO3J2NtV5d",
+"snapshot": "AAAj0J/du7SUBa+q7xAEsPw1EfMVzaWs",
 "playlist": [
 [
 "2026-11-23T20:56|A Certain Ratio|SAMO",
@@ -164,8 +164,16 @@
 "spotify:track:5Bdn8RyTqz4dV7F07EFBP5"
 ],
 [
+"2026-11-23T16:33|Romy|She's On My Mind",
+"spotify:track:4heve4ydl1u6V3AD4moZq9"
+],
+[
 "2026-11-23T16:24|UFOs|UFO (Radio Edit)",
 "spotify:track:7pA7CZIJUpcD5X0QpLlESx"
+],
+[
+"2026-11-23T16:18|Radiohead|Reckoner",
+"spotify:track:02ppMPbg1OtEdHgoPqoqju"
 ],
 [
 "2026-11-23T16:10|1-800 Girls feat. Art School Girlfriend|sometimes",
@@ -1322,6 +1330,10 @@
 [
 "2026-11-20T21:28|B O D I E S|The Observable Universe",
 "spotify:track:1lmzuwoKY6MWurqsZ3Nc5W"
+],
+[
+"2026-11-20T21:10|B O D I E S|Innocence",
+"spotify:track:7uGnjOXHsHfuRKInuW68FE"
 ],
 [
 "2026-11-20T21:03|Kisser|Bad Boy Mountain",
