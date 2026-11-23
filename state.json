@@ -1,9 +1,9 @@
 {
-"updated": "2026-11-23T11:18:29.790670+01:00",
+"updated": "2026-11-23T11:30:29.790975+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
-"synced": "2026-11-23T11:14:29.790548+01:00",
+"synced": "2026-11-23T11:30:29.790975+01:00",
 "pruned": "2026-11-23",
 "calls": {
 "2026-11-16": 163,
@@ -13,12 +13,32 @@
 "2026-11-20": 147,
 "2026-11-21": 93,
 "2026-11-22": 104,
-"2026-11-23": 50
+"2026-11-23": 51
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAjrE6/JatJcC018jSK/lNBSo36jWfw",
+"snapshot": "AAAjrV/uXSE7AJlrPCVNV/71Pd0/72aB",
 "playlist": [
+[
+"2026-11-23T11:24|EELS|Congratulations To Me",
+"spotify:track:0PsZbSqZk6s6bEw5Ff3xrS"
+],
+[
+"2026-11-23T11:20|Loma|How It Starts (Radio Edit)",
+"spotify:track:0X9wvHNouiEKb1mq375aVr"
+],
+[
+"2026-11-23T11:16|Bonobo|Me And You (Radio Edit)",
+"spotify:track:3K3yAN6QVsLNM3tNkn8zuo"
+],
+[
+"2026-11-23T11:13|Kraftwerk|Tour de France",
+"spotify:track:7JryYiDLZ8fBKu6yBbu5aH"
+],
+[
+"2026-11-23T11:09|Alewya|Maktoub",
+"spotify:track:56DYNKo3QHkakqOUkWi3vl"
+],
 [
 "2026-11-23T11:05|Tame Impala|Dracula",
 "spotify:track:709ZIqPHyFOpx2QdjmeWAM"
@@ -3809,6 +3829,24 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-11-23T11:24|EELS|Congratulations To Me",
+"t": "2026-11-23T11:24:00+01:00",
+"artist": "EELS",
+"title": "Congratulations To Me"
+},
+{
+"id": "2026-11-23T11:20|Loma|How It Starts (Radio Edit)",
+"t": "2026-11-23T11:20:00+01:00",
+"artist": "Loma",
+"title": "How It Starts (Radio Edit)"
+},
+{
+"id": "2026-11-23T11:16|Bonobo|Me And You (Radio Edit)",
+"t": "2026-11-23T11:16:00+01:00",
+"artist": "Bonobo",
+"title": "Me And You (Radio Edit)"
+},
 {
 "id": "2026-11-23T11:13|Kraftwerk|Tour de France",
 "t": "2026-11-23T11:13:00+01:00",
@@ -9274,24 +9312,6 @@
 "t": "2026-11-16T11:33:00+01:00",
 "artist": "José González",
 "title": "Heartbeats"
-},
-{
-"id": "2026-11-16T11:29|The Black Keys|On Repeat",
-"t": "2026-11-16T11:29:00+01:00",
-"artist": "The Black Keys",
-"title": "On Repeat"
-},
-{
-"id": "2026-11-16T11:23|Grace Cummings|I'm Not Crazy",
-"t": "2026-11-16T11:23:00+01:00",
-"artist": "Grace Cummings",
-"title": "I'm Not Crazy"
-},
-{
-"id": "2026-11-16T11:19|America|A Horse With No Name",
-"t": "2026-11-16T11:19:00+01:00",
-"artist": "America",
-"title": "A Horse With No Name"
 }
 ]
 }
