@@ -1,5 +1,5 @@
 {
-"updated": "2026-11-23T12:18:29.792396+01:00",
+"updated": "2026-11-23T12:30:29.792702+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
@@ -13,7 +13,7 @@
 "2026-11-20": 147,
 "2026-11-21": 93,
 "2026-11-22": 104,
-"2026-11-23": 60
+"2026-11-23": 61
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
@@ -3865,6 +3865,18 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-11-23T12:22|Wallners|Movie Stars",
+"t": "2026-11-23T12:22:00+01:00",
+"artist": "Wallners",
+"title": "Movie Stars"
+},
+{
+"id": "2026-11-23T12:17|Sugar Ray|Spinning Away",
+"t": "2026-11-23T12:17:00+01:00",
+"artist": "Sugar Ray",
+"title": "Spinning Away"
+},
 {
 "id": "2026-11-23T12:09|Ane Brun feat. Röyksopp|Eat The Fruit (Radio Edit)",
 "t": "2026-11-23T12:09:00+01:00",
@@ -9336,24 +9348,6 @@
 "t": "2026-11-16T12:35:00+01:00",
 "artist": "Jean-Michel Jarre & Laurie Anderson",
 "title": "Rely On Me"
-},
-{
-"id": "2026-11-16T12:30|Skeleten|Walking On Your Name",
-"t": "2026-11-16T12:30:00+01:00",
-"artist": "Skeleten",
-"title": "Walking On Your Name"
-},
-{
-"id": "2026-11-16T12:26|Nia Archives|Vertical",
-"t": "2026-11-16T12:26:00+01:00",
-"artist": "Nia Archives",
-"title": "Vertical"
-},
-{
-"id": "2026-11-16T12:22|Phoebe Bridgers|Lost Boys (Radio Edit)",
-"t": "2026-11-16T12:22:00+01:00",
-"artist": "Phoebe Bridgers",
-"title": "Lost Boys (Radio Edit)"
 }
 ]
 }
