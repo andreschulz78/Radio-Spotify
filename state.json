@@ -1,9 +1,9 @@
 {
-"updated": "2026-11-23T13:42:29.794546+01:00",
+"updated": "2026-11-23T13:54:29.794873+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
-"synced": "2026-11-23T13:38:29.794447+01:00",
+"synced": "2026-11-23T13:54:29.794873+01:00",
 "pruned": "2026-11-23",
 "calls": {
 "2026-11-16": 163,
@@ -13,12 +13,20 @@
 "2026-11-20": 147,
 "2026-11-21": 93,
 "2026-11-22": 104,
-"2026-11-23": 78
+"2026-11-23": 80
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAjte0d6y221FK/M0juAi4rQDWxxIyn",
+"snapshot": "AAAjtqZHfrQE2j0ZNylX+bxtTvSHjLnb",
 "playlist": [
+[
+"2026-11-23T13:41|Boards Of Canada|Prophecy At 1420 MHz (Edit)",
+"spotify:track:4gYaI1S9Qug6B96E2HwxeN"
+],
+[
+"2026-11-23T13:35|Bonaparte|KiOSKO",
+"spotify:track:5seYGZRYuD3oPMxryJdvOk"
+],
 [
 "2026-11-23T13:32|John Maus|No Title (Molly)",
 "spotify:track:1JLHc5b7wSxHpuIA8qbMNh"
@@ -3921,6 +3929,12 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-11-23T13:41|Boards Of Canada|Prophecy At 1420 MHz (Edit)",
+"t": "2026-11-23T13:41:00+01:00",
+"artist": "Boards Of Canada",
+"title": "Prophecy At 1420 MHz (Edit)"
+},
 {
 "id": "2026-11-23T13:35|Bonaparte|KiOSKO",
 "t": "2026-11-23T13:35:00+01:00",
@@ -9404,18 +9418,6 @@
 "t": "2026-11-16T13:55:00+01:00",
 "artist": "Father John Misty",
 "title": "The Old Law"
-},
-{
-"id": "2026-11-16T13:48|Sparkling & COMA|It Won't Be Like This Forever",
-"t": "2026-11-16T13:48:00+01:00",
-"artist": "Sparkling & COMA",
-"title": "It Won't Be Like This Forever"
-},
-{
-"id": "2026-11-16T13:44|Arlo Parks|Heaven",
-"t": "2026-11-16T13:44:00+01:00",
-"artist": "Arlo Parks",
-"title": "Heaven"
 }
 ]
 }
