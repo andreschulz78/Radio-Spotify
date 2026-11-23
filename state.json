@@ -1,9 +1,9 @@
 {
-"updated": "2026-11-23T12:42:29.792995+01:00",
+"updated": "2026-11-23T12:54:29.793288+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
-"synced": "2026-11-23T12:34:29.792798+01:00",
+"synced": "2026-11-23T12:50:29.793190+01:00",
 "pruned": "2026-11-23",
 "calls": {
 "2026-11-16": 163,
@@ -13,12 +13,32 @@
 "2026-11-20": 147,
 "2026-11-21": 93,
 "2026-11-22": 104,
-"2026-11-23": 63
+"2026-11-23": 70
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAjsY8RtPdbvibH8BIzhpktCQdjk+2o",
+"snapshot": "AAAjsrPzdcaoqzuW2uruXsCBTI5MLaDN",
 "playlist": [
+[
+"2026-11-23T12:42|Air|Playground Love",
+"spotify:track:6L5RI9isQPvFyl1yCxnFFb"
+],
+[
+"2026-11-23T12:38|Ex:Re|Sleep",
+"spotify:track:31hSy1c6SWABIV3W1LqjMz"
+],
+[
+"2026-11-23T12:35|Loverman|Differences Aside",
+"spotify:track:0olICfJFNxKfPeZtNgPa7G"
+],
+[
+"2026-11-23T12:31|L'Rain|Elmyra (Edit)",
+"spotify:track:5pedzmyyKGTs8PV23dnvbc"
+],
+[
+"2026-11-23T12:28|Moloko|The Time Is Now",
+"spotify:track:3tuLL88krXBbkE8rjPWrRs"
+],
 [
 "2026-11-23T12:22|Wallners|Movie Stars",
 "spotify:track:7xesRbRs3O1MLOgWqMSN7a"
@@ -3869,6 +3889,24 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-11-23T12:46|Djuma Soundsystems|Les djinns (Trentemoller Remix)",
+"t": "2026-11-23T12:46:00+01:00",
+"artist": "Djuma Soundsystems",
+"title": "Les djinns (Trentemoller Remix)"
+},
+{
+"id": "2026-11-23T12:42|Air|Playground Love",
+"t": "2026-11-23T12:42:00+01:00",
+"artist": "Air",
+"title": "Playground Love"
+},
+{
+"id": "2026-11-23T12:38|Ex:Re|Sleep",
+"t": "2026-11-23T12:38:00+01:00",
+"artist": "Ex:Re",
+"title": "Sleep"
+},
 {
 "id": "2026-11-23T12:35|Loverman|Differences Aside",
 "t": "2026-11-23T12:35:00+01:00",
@@ -9334,24 +9372,6 @@
 "t": "2026-11-16T13:05:00+01:00",
 "artist": "Jamie XX feat. Romy & Oliver Sim",
 "title": "Waited All Night"
-},
-{
-"id": "2026-11-16T12:54|Serebii|Even In The Quiet",
-"t": "2026-11-16T12:54:00+01:00",
-"artist": "Serebii",
-"title": "Even In The Quiet"
-},
-{
-"id": "2026-11-16T12:51|Sam Burton|I'm A Stranger",
-"t": "2026-11-16T12:51:00+01:00",
-"artist": "Sam Burton",
-"title": "I'm A Stranger"
-},
-{
-"id": "2026-11-16T12:47|Les Rita Mitsouko|Marcia Baila",
-"t": "2026-11-16T12:47:00+01:00",
-"artist": "Les Rita Mitsouko",
-"title": "Marcia Baila"
 }
 ]
 }
