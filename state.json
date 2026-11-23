@@ -1,9 +1,9 @@
 {
-"updated": "2026-11-23T11:06:29.790361+01:00",
+"updated": "2026-11-23T11:18:29.790670+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
-"synced": "2026-11-23T10:58:29.790098+01:00",
+"synced": "2026-11-23T11:14:29.790548+01:00",
 "pruned": "2026-11-23",
 "calls": {
 "2026-11-16": 163,
@@ -13,12 +13,20 @@
 "2026-11-20": 147,
 "2026-11-21": 93,
 "2026-11-22": 104,
-"2026-11-23": 49
+"2026-11-23": 50
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAjq9SwcNunqsMpEjyi0SHE23aZ2chq",
+"snapshot": "AAAjrE6/JatJcC018jSK/lNBSo36jWfw",
 "playlist": [
+[
+"2026-11-23T11:05|Tame Impala|Dracula",
+"spotify:track:709ZIqPHyFOpx2QdjmeWAM"
+],
+[
+"2026-11-23T10:56|Boundzound|Louder",
+"spotify:track:5xj6oVUhSt0AIvDJbAUJbI"
+],
 [
 "2026-11-23T10:49|Fun Lovin' Criminals|Up On The Hill",
 "spotify:track:1CBg1jbeiBf6c8OmaVilwv"
@@ -3801,6 +3809,24 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-11-23T11:13|Kraftwerk|Tour de France",
+"t": "2026-11-23T11:13:00+01:00",
+"artist": "Kraftwerk",
+"title": "Tour de France"
+},
+{
+"id": "2026-11-23T11:09|Alewya|Maktoub",
+"t": "2026-11-23T11:09:00+01:00",
+"artist": "Alewya",
+"title": "Maktoub"
+},
+{
+"id": "2026-11-23T11:05|Tame Impala|Dracula",
+"t": "2026-11-23T11:05:00+01:00",
+"artist": "Tame Impala",
+"title": "Dracula"
+},
 {
 "id": "2026-11-23T10:56|Boundzound|Louder",
 "t": "2026-11-23T10:56:00+01:00",
@@ -9266,18 +9292,6 @@
 "t": "2026-11-16T11:19:00+01:00",
 "artist": "America",
 "title": "A Horse With No Name"
-},
-{
-"id": "2026-11-16T11:16|Kelela|the bridge (feat. PinkPantheress)",
-"t": "2026-11-16T11:16:00+01:00",
-"artist": "Kelela",
-"title": "the bridge (feat. PinkPantheress)"
-},
-{
-"id": "2026-11-16T11:09|Boy & Bear|Tripping Over Time",
-"t": "2026-11-16T11:09:00+01:00",
-"artist": "Boy & Bear",
-"title": "Tripping Over Time"
 }
 ]
 }
