@@ -1,9 +1,9 @@
 {
-"updated": "2026-11-23T12:30:29.792702+01:00",
+"updated": "2026-11-23T12:42:29.792995+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
-"synced": "2026-11-23T12:18:29.792396+01:00",
+"synced": "2026-11-23T12:34:29.792798+01:00",
 "pruned": "2026-11-23",
 "calls": {
 "2026-11-16": 163,
@@ -13,12 +13,16 @@
 "2026-11-20": 147,
 "2026-11-21": 93,
 "2026-11-22": 104,
-"2026-11-23": 61
+"2026-11-23": 63
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAjsFBnbsnr3MyT3yNRkJaseuy0mTDg",
+"snapshot": "AAAjsY8RtPdbvibH8BIzhpktCQdjk+2o",
 "playlist": [
+[
+"2026-11-23T12:22|Wallners|Movie Stars",
+"spotify:track:7xesRbRs3O1MLOgWqMSN7a"
+],
 [
 "2026-11-23T12:09|Ane Brun feat. Röyksopp|Eat The Fruit (Radio Edit)",
 "spotify:track:6QTVocXJIT6QomBx2QuBBm"
@@ -3865,6 +3869,24 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-11-23T12:35|Loverman|Differences Aside",
+"t": "2026-11-23T12:35:00+01:00",
+"artist": "Loverman",
+"title": "Differences Aside"
+},
+{
+"id": "2026-11-23T12:31|L'Rain|Elmyra (Edit)",
+"t": "2026-11-23T12:31:00+01:00",
+"artist": "L'Rain",
+"title": "Elmyra (Edit)"
+},
+{
+"id": "2026-11-23T12:28|Moloko|The Time Is Now",
+"t": "2026-11-23T12:28:00+01:00",
+"artist": "Moloko",
+"title": "The Time Is Now"
+},
 {
 "id": "2026-11-23T12:22|Wallners|Movie Stars",
 "t": "2026-11-23T12:22:00+01:00",
@@ -9330,24 +9352,6 @@
 "t": "2026-11-16T12:47:00+01:00",
 "artist": "Les Rita Mitsouko",
 "title": "Marcia Baila"
-},
-{
-"id": "2026-11-16T12:42|Escape From New York|Fire In My Heart",
-"t": "2026-11-16T12:42:00+01:00",
-"artist": "Escape From New York",
-"title": "Fire In My Heart"
-},
-{
-"id": "2026-11-16T12:38|Khruangbin|August 10",
-"t": "2026-11-16T12:38:00+01:00",
-"artist": "Khruangbin",
-"title": "August 10"
-},
-{
-"id": "2026-11-16T12:35|Jean-Michel Jarre & Laurie Anderson|Rely On Me",
-"t": "2026-11-16T12:35:00+01:00",
-"artist": "Jean-Michel Jarre & Laurie Anderson",
-"title": "Rely On Me"
 }
 ]
 }
