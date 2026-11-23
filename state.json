@@ -1,9 +1,9 @@
 {
-"updated": "2026-11-23T12:54:29.793288+01:00",
+"updated": "2026-11-23T13:06:29.793653+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
-"synced": "2026-11-23T12:50:29.793190+01:00",
+"synced": "2026-11-23T13:06:29.793653+01:00",
 "pruned": "2026-11-23",
 "calls": {
 "2026-11-16": 163,
@@ -13,12 +13,20 @@
 "2026-11-20": 147,
 "2026-11-21": 93,
 "2026-11-22": 104,
-"2026-11-23": 70
+"2026-11-23": 72
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAjsrPzdcaoqzuW2uruXsCBTI5MLaDN",
+"snapshot": "AAAjs6avjsxEbccJjau31/YKDMJznMtc",
 "playlist": [
+[
+"2026-11-23T12:55|Mykki Blanco feat. ANOHNI & Kelsey Lu|French Lessons",
+"spotify:track:7kivbAAHjxCOnBtkQzRO8p"
+],
+[
+"2026-11-23T12:51|Dina Summer|Who Am I",
+"spotify:track:3ogp9WuXzBCfWVN7ZMwHIA"
+],
 [
 "2026-11-23T12:42|Air|Playground Love",
 "spotify:track:6L5RI9isQPvFyl1yCxnFFb"
@@ -3889,6 +3897,18 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-11-23T12:55|Mykki Blanco feat. ANOHNI & Kelsey Lu|French Lessons",
+"t": "2026-11-23T12:55:00+01:00",
+"artist": "Mykki Blanco feat. ANOHNI & Kelsey Lu",
+"title": "French Lessons"
+},
+{
+"id": "2026-11-23T12:51|Dina Summer|Who Am I",
+"t": "2026-11-23T12:51:00+01:00",
+"artist": "Dina Summer",
+"title": "Who Am I"
+},
 {
 "id": "2026-11-23T12:46|Djuma Soundsystems|Les djinns (Trentemoller Remix)",
 "t": "2026-11-23T12:46:00+01:00",
@@ -9366,12 +9386,6 @@
 "t": "2026-11-16T13:09:00+01:00",
 "artist": "INNENRÄUME",
 "title": "Zwischen den Spuren (Radio Edit)"
-},
-{
-"id": "2026-11-16T13:05|Jamie XX feat. Romy & Oliver Sim|Waited All Night",
-"t": "2026-11-16T13:05:00+01:00",
-"artist": "Jamie XX feat. Romy & Oliver Sim",
-"title": "Waited All Night"
 }
 ]
 }
