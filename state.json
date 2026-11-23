@@ -1,9 +1,9 @@
 {
-"updated": "2026-11-23T10:54:29.789997+01:00",
+"updated": "2026-11-23T11:06:29.790361+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
-"synced": "2026-11-23T10:42:29.789706+01:00",
+"synced": "2026-11-23T10:58:29.790098+01:00",
 "pruned": "2026-11-23",
 "calls": {
 "2026-11-16": 163,
@@ -13,12 +13,20 @@
 "2026-11-20": 147,
 "2026-11-21": 93,
 "2026-11-22": 104,
-"2026-11-23": 41
+"2026-11-23": 49
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAjpZggrxZbnXdniId2Mx+FgE1P7XaQ",
+"snapshot": "AAAjq9SwcNunqsMpEjyi0SHE23aZ2chq",
 "playlist": [
+[
+"2026-11-23T10:49|Fun Lovin' Criminals|Up On The Hill",
+"spotify:track:1CBg1jbeiBf6c8OmaVilwv"
+],
+[
+"2026-11-23T10:38|CECI feat. Lords of Lounge|Honey Honey",
+"spotify:track:1I3D3G5pwYFKNYGIYTLRCq"
+],
 [
 "2026-11-23T10:33|Slowdive|Alife",
 "spotify:track:2ceUzieIOIwYKA9zOiWkto"
@@ -52,16 +60,36 @@
 "spotify:track:1bPs9oNEaAEUYfCL7tH79W"
 ],
 [
+"2026-11-23T09:46|The Raconteurs|Now That You're Gone",
+"spotify:track:6jk6eCkFvfEJZkQnZ8F2W2"
+],
+[
 "2026-11-23T09:42|Kelela|the bridge (feat. PinkPantheress)",
 "spotify:track:4Og22Djtd18AVqNgijpLsX"
+],
+[
+"2026-11-23T09:34|The Neighbourhood|Private",
+"spotify:track:1735xgk2J8CHCGY2LS1HM6"
 ],
 [
 "2026-11-23T09:26|Friedberg|Goodwife",
 "spotify:track:1H89j9NLse1E0Kmjb3tzW6"
 ],
 [
+"2026-11-23T09:15|Rainald Grebe|Meganice Zeit (Edit)",
+"spotify:track:10RQomV6eOIvheZrOz4RKw"
+],
+[
+"2026-11-23T09:06|Jürgen Paape feat. Hella|Grace (A Tale)",
+"spotify:track:1YlGQvoDePtFI0SjRazsvC"
+],
+[
 "2026-11-23T08:57|Joy Wellboy|Birds",
 "spotify:track:642171jGo2HkiteFwIH8Rm"
+],
+[
+"2026-11-23T08:50|Black Palms Orchestra|Twin Peaks Theme",
+"spotify:track:0WbmDP8LILca17ycA65104"
 ],
 [
 "2026-11-23T08:47|The Black Keys|On Repeat",
@@ -74,6 +102,14 @@
 [
 "2026-11-23T08:33|Chinese American Bear|Dance Dance Dance (Edit)",
 "spotify:track:3Ct3ro3LnsTHjeRVPNSG5s"
+],
+[
+"2026-11-23T08:25|Alberta Cross|So Far Out Of Reach",
+"spotify:track:5XxeZuypZ7WCbxUeLX6iIC"
+],
+[
+"2026-11-23T08:17|Fine Young Cannibals|I'm Not The Man I Used To Be",
+"spotify:track:0ce4Ru8pHOZKijojglD4JS"
 ],
 [
 "2026-11-23T08:13|Ibeyi|Hurry Hurry",
@@ -3765,6 +3801,18 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-11-23T10:56|Boundzound|Louder",
+"t": "2026-11-23T10:56:00+01:00",
+"artist": "Boundzound",
+"title": "Louder"
+},
+{
+"id": "2026-11-23T10:49|Fun Lovin' Criminals|Up On The Hill",
+"t": "2026-11-23T10:49:00+01:00",
+"artist": "Fun Lovin' Criminals",
+"title": "Up On The Hill"
+},
 {
 "id": "2026-11-23T10:38|CECI feat. Lords of Lounge|Honey Honey",
 "t": "2026-11-23T10:38:00+01:00",
@@ -9230,18 +9278,6 @@
 "t": "2026-11-16T11:09:00+01:00",
 "artist": "Boy & Bear",
 "title": "Tripping Over Time"
-},
-{
-"id": "2026-11-16T11:06|Amanda Blank|DJ",
-"t": "2026-11-16T11:06:00+01:00",
-"artist": "Amanda Blank",
-"title": "DJ"
-},
-{
-"id": "2026-11-16T10:56|Smidley feat. Lucy Dacus|Capstone",
-"t": "2026-11-16T10:56:00+01:00",
-"artist": "Smidley feat. Lucy Dacus",
-"title": "Capstone"
 }
 ]
 }
