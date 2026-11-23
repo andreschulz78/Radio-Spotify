@@ -1,9 +1,9 @@
 {
-"updated": "2026-11-23T05:33:34.249515+01:00",
+"updated": "2026-11-23T05:45:34.249855+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
-"synced": "2026-11-23T05:29:34.249405+01:00",
+"synced": "2026-11-23T05:45:34.249855+01:00",
 "pruned": "2026-11-23",
 "calls": {
 "2026-11-16": 163,
@@ -13,12 +13,28 @@
 "2026-11-20": 147,
 "2026-11-21": 93,
 "2026-11-22": 104,
-"2026-11-23": 0
+"2026-11-23": 5
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAjm9tQG+NJYgNUQNdrl56FCsm3Ytwo",
+"snapshot": "AAAjnDpV3V84XM0ZzGkzeCj1TvaVWgiM",
 "playlist": [
+[
+"2026-11-23T05:42|Stella|Charmed",
+"spotify:track:1vKuECX3fkzJmkJjOUpAVF"
+],
+[
+"2026-11-23T05:36|Gomez|Here Comes The Breeze",
+"spotify:track:7oJcjscFfvG5SL0o65cpfs"
+],
+[
+"2026-11-23T05:31|Prince|Raspberry Beret",
+"spotify:track:69WMtlQZLc9zw537JOMFE2"
+],
+[
+"2026-11-23T05:25|Mano Le Tough|Aye Aye Mi Mi (Radio Edit)",
+"spotify:track:0z3tkvYZ6wudpfiPLad50j"
+],
 [
 "2026-11-23T05:18|Fontaines D.C. & ROSALIA|Where Is Gone?",
 "spotify:track:6ZH1yeWUf3Xp2XO0EZk91i"
@@ -3617,6 +3633,24 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-11-23T05:42|Stella|Charmed",
+"t": "2026-11-23T05:42:00+01:00",
+"artist": "Stella",
+"title": "Charmed"
+},
+{
+"id": "2026-11-23T05:36|Gomez|Here Comes The Breeze",
+"t": "2026-11-23T05:36:00+01:00",
+"artist": "Gomez",
+"title": "Here Comes The Breeze"
+},
+{
+"id": "2026-11-23T05:31|Prince|Raspberry Beret",
+"t": "2026-11-23T05:31:00+01:00",
+"artist": "Prince",
+"title": "Raspberry Beret"
+},
 {
 "id": "2026-11-23T05:25|Mano Le Tough|Aye Aye Mi Mi (Radio Edit)",
 "t": "2026-11-23T05:25:00+01:00",
@@ -9094,18 +9128,6 @@
 "t": "2026-11-16T05:48:00+01:00",
 "artist": "Tessa Rose Jackson",
 "title": "Built To Collide"
-},
-{
-"id": "2026-11-16T05:41|Ayele|Fractured (Radio Edit)",
-"t": "2026-11-16T05:41:00+01:00",
-"artist": "Ayele",
-"title": "Fractured (Radio Edit)"
-},
-{
-"id": "2026-11-16T05:38|Electric Beat Crew|Here We Come",
-"t": "2026-11-16T05:38:00+01:00",
-"artist": "Electric Beat Crew",
-"title": "Here We Come"
 }
 ]
 }
