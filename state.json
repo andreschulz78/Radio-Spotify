@@ -1,9 +1,9 @@
 {
-"updated": "2026-11-24T08:54:44.547426+01:00",
+"updated": "2026-11-24T09:06:44.547758+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
-"synced": "2026-11-24T08:46:44.547205+01:00",
+"synced": "2026-11-24T09:02:44.547647+01:00",
 "pruned": "2026-11-24",
 "calls": {
 "2026-11-17": 194,
@@ -13,12 +13,20 @@
 "2026-11-21": 93,
 "2026-11-22": 104,
 "2026-11-23": 155,
-"2026-11-24": 34
+"2026-11-24": 38
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAj6I0O3uDwGTgXAONUV0ag73CzYbsd",
+"snapshot": "AAAj6QR6arUVvQluhezzCKMMHfgY6URT",
 "playlist": [
+[
+"2026-11-24T08:54|Yard Act|You're Gonna Need A Little Music",
+"spotify:track:43KS2LpjMVkvJdprLaoQxQ"
+],
+[
+"2026-11-24T08:47|Art d'Ecco|Survival Of The Fittest",
+"spotify:track:2p66RxPoZQd6E8fbq2QOIF"
+],
 [
 "2026-11-24T08:41|Francis|Bridges",
 "spotify:track:0PGSNNvtNxWCB2j2k9ZOqu"
@@ -3725,6 +3733,12 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-11-24T08:54|Yard Act|You're Gonna Need A Little Music",
+"t": "2026-11-24T08:54:00+01:00",
+"artist": "Yard Act",
+"title": "You're Gonna Need A Little Music"
+},
 {
 "id": "2026-11-24T08:47|Art d'Ecco|Survival Of The Fittest",
 "t": "2026-11-24T08:47:00+01:00",
@@ -9202,18 +9216,6 @@
 "t": "2026-11-17T09:15:00+01:00",
 "artist": "Nichtseattle",
 "title": "Ich mit Brille"
-},
-{
-"id": "2026-11-17T09:06|Modest Mouse|Dashboard",
-"t": "2026-11-17T09:06:00+01:00",
-"artist": "Modest Mouse",
-"title": "Dashboard"
-},
-{
-"id": "2026-11-17T08:56|Die Sauna|ich liebe dich",
-"t": "2026-11-17T08:56:00+01:00",
-"artist": "Die Sauna",
-"title": "ich liebe dich"
 }
 ]
 }
