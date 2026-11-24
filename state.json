@@ -1,9 +1,9 @@
 {
-"updated": "2026-11-24T07:18:44.544622+01:00",
+"updated": "2026-11-24T07:30:44.545002+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
-"synced": "2026-11-24T07:10:44.544446+01:00",
+"synced": "2026-11-24T07:26:44.544893+01:00",
 "pruned": "2026-11-24",
 "calls": {
 "2026-11-17": 194,
@@ -13,12 +13,20 @@
 "2026-11-21": 93,
 "2026-11-22": 104,
 "2026-11-23": 155,
-"2026-11-24": 14
+"2026-11-24": 17
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAj3iXbBp/yf4cF4eoP38yP3X1D9FN+",
+"snapshot": "AAAj4OoeK1pDzz/iDfPy+Mo1bIAEK+s5",
 "playlist": [
+[
+"2026-11-24T07:17|Amanda Blank|Something Bigger, Something Better",
+"spotify:track:5vbQTYKhisqfRgAx9kulKt"
+],
+[
+"2026-11-24T07:12|Chris Rea|Driving home for Christmas",
+"spotify:track:2TXUjpTBXJWPL1BCAXJWfI"
+],
 [
 "2026-11-24T07:05|Haim|Los Angeles",
 "spotify:track:3hX1EXJNHVKev5gpwG4FXb"
@@ -3576,10 +3584,6 @@
 "spotify:track:3etbPFMXnAuShtcImz4UXW"
 ],
 [
-"2026-11-17T07:26|Peter Cruseder|Love",
-"spotify:track:7mc6omD0uFBGHeiwdtFzY2"
-],
-[
 "2026-11-17T07:18|Nelly|Dilemma",
 "spotify:track:0ARK753YaiJbpLUk7z5yIM"
 ],
@@ -3673,6 +3677,18 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-11-24T07:25|Leon Bridges|Light The Way",
+"t": "2026-11-24T07:25:00+01:00",
+"artist": "Leon Bridges",
+"title": "Light The Way"
+},
+{
+"id": "2026-11-24T07:17|Amanda Blank|Something Bigger, Something Better",
+"t": "2026-11-24T07:17:00+01:00",
+"artist": "Amanda Blank",
+"title": "Something Bigger, Something Better"
+},
 {
 "id": "2026-11-24T07:12|Chris Rea|Driving home for Christmas",
 "t": "2026-11-24T07:12:00+01:00",
@@ -9150,12 +9166,6 @@
 "t": "2026-11-17T07:34:00+01:00",
 "artist": "Lola Young",
 "title": "Flicker Of Light"
-},
-{
-"id": "2026-11-17T07:26|Peter Cruseder|Love",
-"t": "2026-11-17T07:26:00+01:00",
-"artist": "Peter Cruseder",
-"title": "Love"
 }
 ]
 }
