@@ -1,9 +1,9 @@
 {
-"updated": "2026-11-24T07:06:44.544333+01:00",
+"updated": "2026-11-24T07:18:44.544622+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
-"synced": "2026-11-24T06:54:44.544010+01:00",
+"synced": "2026-11-24T07:10:44.544446+01:00",
 "pruned": "2026-11-24",
 "calls": {
 "2026-11-17": 194,
@@ -13,12 +13,24 @@
 "2026-11-21": 93,
 "2026-11-22": 104,
 "2026-11-23": 155,
-"2026-11-24": 8
+"2026-11-24": 14
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAj2g39MtU8iyI5VrNtbCYq+q2y0twS",
+"snapshot": "AAAj3iXbBp/yf4cF4eoP38yP3X1D9FN+",
 "playlist": [
+[
+"2026-11-24T07:05|Haim|Los Angeles",
+"spotify:track:3hX1EXJNHVKev5gpwG4FXb"
+],
+[
+"2026-11-24T06:56|Jim James|Come Again",
+"spotify:track:6S3Ao3HkuLpHffHWL8oRsz"
+],
+[
+"2026-11-24T06:49|Barry Can't Swim feat. O'Flynn|Kimpton",
+"spotify:track:1wxZ9pAu1nW79Toy255OFz"
+],
 [
 "2026-11-24T06:45|Overmono feat. Ruthven|Gem Lingo (ovr now)",
 "spotify:track:6dSqM0tWJPlchpmGrEwC1c"
@@ -48,12 +60,24 @@
 "spotify:track:4xT742OmuB5WOoN9OEdBe8"
 ],
 [
+"2026-11-24T05:56|Devendra Banhart|I Feel Just Like A Child",
+"spotify:track:6FKKWmZLSVgfGBDUncBo9K"
+],
+[
 "2026-11-24T05:51|Wallners|Movie Stars",
 "spotify:track:7xesRbRs3O1MLOgWqMSN7a"
 ],
 [
+"2026-11-24T05:48|Peaches|Dumb Fuck",
+"spotify:track:2ppQmPVeuIEnWT3bo26WdP"
+],
+[
 "2026-11-24T05:42|New German Cinema|Water Drops",
 "spotify:track:65SwobxDwUigYvd91PIAuF"
+],
+[
+"2026-11-24T05:37|Erasure|Love To Hate You",
+"spotify:track:4gmRCtp5sbGMyUlaluAM7l"
 ],
 [
 "2026-11-23T20:56|A Certain Ratio|SAMO",
@@ -3649,6 +3673,18 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-11-24T07:12|Chris Rea|Driving home for Christmas",
+"t": "2026-11-24T07:12:00+01:00",
+"artist": "Chris Rea",
+"title": "Driving home for Christmas"
+},
+{
+"id": "2026-11-24T07:05|Haim|Los Angeles",
+"t": "2026-11-24T07:05:00+01:00",
+"artist": "Haim",
+"title": "Los Angeles"
+},
 {
 "id": "2026-11-24T06:56|Jim James|Come Again",
 "t": "2026-11-24T06:56:00+01:00",
@@ -9120,18 +9156,6 @@
 "t": "2026-11-17T07:26:00+01:00",
 "artist": "Peter Cruseder",
 "title": "Love"
-},
-{
-"id": "2026-11-17T07:18|Nelly|Dilemma",
-"t": "2026-11-17T07:18:00+01:00",
-"artist": "Nelly",
-"title": "Dilemma"
-},
-{
-"id": "2026-11-17T07:14|Steve Lacy|Show You Me",
-"t": "2026-11-17T07:14:00+01:00",
-"artist": "Steve Lacy",
-"title": "Show You Me"
 }
 ]
 }
