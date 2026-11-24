@@ -1,9 +1,9 @@
 {
-"updated": "2026-11-24T18:41:29.177185+01:00",
+"updated": "2026-11-24T18:53:29.177511+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
-"synced": "2026-11-24T18:29:29.176861+01:00",
+"synced": "2026-11-24T18:45:29.177296+01:00",
 "pruned": "2026-11-24",
 "calls": {
 "2026-11-17": 194,
@@ -13,12 +13,36 @@
 "2026-11-21": 93,
 "2026-11-22": 104,
 "2026-11-23": 155,
-"2026-11-24": 81
+"2026-11-24": 98
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAj+SG3WBShggQia7WB5fkIz0HBc4A9",
+"snapshot": "AAAkAYtoHqlgOvSwb67DGVK5SWRM51zN",
 "playlist": [
+[
+"2026-11-24T18:41|Justice|Starting From Zero (feat. Michael McDonald)",
+"spotify:track:1akuT1qSIAoOhpPhUxGpyR"
+],
+[
+"2026-11-24T18:39|The Doobie Brothers|What A Fool Believes",
+"spotify:track:2yBVeksU2EtrPJbTu4ZslK"
+],
+[
+"2026-11-24T18:36|Suki Waterhouse|Blackout Drunk",
+"spotify:track:0PyN8JswfA5otVomw09V5Q"
+],
+[
+"2026-11-24T18:32|Hot Chip|Random Violence (Radio Edit)",
+"spotify:track:0T3vTM8KUAwGMukdAhNVj2"
+],
+[
+"2026-11-24T18:26|Isaac Hayes|Ike's Rap II",
+"spotify:track:2UzZI2ncxaiWrpzZtIzzSP"
+],
+[
+"2026-11-24T18:25|Isaac Hayes|Ike's Rap II",
+"spotify:track:2UzZI2ncxaiWrpzZtIzzSP"
+],
 [
 "2026-11-24T18:21|Σtella|Belinda",
 "spotify:track:1rs2lOYfBKNW5OCpeTIiVf"
@@ -60,12 +84,32 @@
 "spotify:track:0i4SCqKHjbBrPjUX4RPRq3"
 ],
 [
+"2026-11-24T17:16|James Blake|Thrown Around",
+"spotify:track:6hEiEWEgAuFvEJduuSQLiw"
+],
+[
+"2026-11-24T17:12|Destroyer|Times Square",
+"spotify:track:72LMOmKn1g6flUXhHTMiza"
+],
+[
 "2026-11-24T17:06|Madonna|Danceteria",
 "spotify:track:6oFNBxTVpYNpNCRehH05Ly"
 ],
 [
+"2026-11-24T16:57|The Specials|Monkey Man",
+"spotify:track:4hWvyCR50Almswxjif4lwh"
+],
+[
 "2026-11-24T16:50|Automatic|Shadowplay",
 "spotify:track:0pT1m2UpNBliUb6W7S7YzA"
+],
+[
+"2026-11-24T16:46|Pixies|Where Is My Mind",
+"spotify:track:7wCmS9TTVUcIhRalDYFgPy"
+],
+[
+"2026-11-24T16:43|Devendra Banhart|Foolin'",
+"spotify:track:1XBP3VGw5DS5sWfCS3LmQ2"
 ],
 [
 "2026-11-24T16:36|Rosie Lowe|In My Head",
@@ -76,6 +120,10 @@
 "spotify:track:5cgK6Kvd1rLMqLbZIwytnh"
 ],
 [
+"2026-11-24T16:24|Inga|Frau Adolf",
+"spotify:track:3tp4cxMbJgioEDLHnwZW4P"
+],
+[
 "2026-11-24T16:21|Linka Moja|Men R Dogs",
 "spotify:track:7AgfOLYDB7GrgIWg60PBw7"
 ],
@@ -84,8 +132,16 @@
 "spotify:track:5nbq4CyzheTl7BLPR3caJY"
 ],
 [
+"2026-11-24T16:09|My Morning Jacket|Time Waited",
+"spotify:track:3dEUbj4PIm3Ci1V7acL1EI"
+],
+[
 "2026-11-24T16:06|Anderson .Paak & Cordae|A Good Day",
 "spotify:track:4CrnExkcZkg6Aek113hAWl"
+],
+[
+"2026-11-24T15:57|Doja Cat|Woman",
+"spotify:track:6Uj1ctrBOjOas8xZXGqKk4"
 ],
 [
 "2026-11-24T15:52|SOFY|50/50",
@@ -94,6 +150,10 @@
 [
 "2026-11-24T15:45|Ayele|Fractured (Radio Edit)",
 "spotify:track:5EGnOBL2qoUNard3Oaq5Hc"
+],
+[
+"2026-11-24T15:31|Mark Ronson feat. Mystikal|Feel Right",
+"spotify:track:2ENBaEOC0Jgi2au9Jt7y7d"
 ],
 [
 "2026-11-24T15:23|Fontaines D.C. & ROSALIA|Where Is Gone?",
@@ -4009,6 +4069,24 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-11-24T18:44|Aimee Mann|One",
+"t": "2026-11-24T18:44:00+01:00",
+"artist": "Aimee Mann",
+"title": "One"
+},
+{
+"id": "2026-11-24T18:41|Justice|Starting From Zero (feat. Michael McDonald)",
+"t": "2026-11-24T18:41:00+01:00",
+"artist": "Justice",
+"title": "Starting From Zero (feat. Michael McDonald)"
+},
+{
+"id": "2026-11-24T18:39|The Doobie Brothers|What A Fool Believes",
+"t": "2026-11-24T18:39:00+01:00",
+"artist": "The Doobie Brothers",
+"title": "What A Fool Believes"
+},
 {
 "id": "2026-11-24T18:36|Suki Waterhouse|Blackout Drunk",
 "t": "2026-11-24T18:36:00+01:00",
@@ -9456,24 +9534,6 @@
 "t": "2026-11-17T18:55:00+01:00",
 "artist": "Benjamin Clementine",
 "title": "Nemesis (Radio Edit)"
-},
-{
-"id": "2026-11-17T18:51|Eilis Frawley|Taken, Never Erased",
-"t": "2026-11-17T18:51:00+01:00",
-"artist": "Eilis Frawley",
-"title": "Taken, Never Erased"
-},
-{
-"id": "2026-11-17T18:46|Tristan Brusch|Vierzehn",
-"t": "2026-11-17T18:46:00+01:00",
-"artist": "Tristan Brusch",
-"title": "Vierzehn"
-},
-{
-"id": "2026-11-17T18:43|SOFY|50/50",
-"t": "2026-11-17T18:43:00+01:00",
-"artist": "SOFY",
-"title": "50/50"
 }
 ]
 }
