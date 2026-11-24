@@ -1,9 +1,9 @@
 {
-"updated": "2026-11-24T09:42:44.548760+01:00",
+"updated": "2026-11-24T09:54:44.549119+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
-"synced": "2026-11-24T09:34:44.548535+01:00",
+"synced": "2026-11-24T09:50:44.549011+01:00",
 "pruned": "2026-11-24",
 "calls": {
 "2026-11-17": 194,
@@ -13,12 +13,24 @@
 "2026-11-21": 93,
 "2026-11-22": 104,
 "2026-11-23": 155,
-"2026-11-24": 43
+"2026-11-24": 45
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAj67RLFT3uNh7zT/St40LW1ad7Mqd2",
+"snapshot": "AAAj7CZa10SQulJPORNBXHbBxejiIjXu",
 "playlist": [
+[
+"2026-11-24T09:44|Gossip|Crazy Again",
+"spotify:track:1zEwPwgdkD5bKuiovSKi23"
+],
+[
+"2026-11-24T09:41|Django Django|Cameos",
+"spotify:track:6q1og9CkTnFTTYqOSN9ed3"
+],
+[
+"2026-11-24T09:32|MorMor feat. Celeste|Like Heaven",
+"spotify:track:5pZGuhprytXKB7QRMul3jq"
+],
 [
 "2026-11-24T09:23|Rufus Wainwright|14th Street",
 "spotify:track:6m7RPmtcYfM1Zhytjn3ICL"
@@ -3749,6 +3761,18 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-11-24T09:44|Gossip|Crazy Again",
+"t": "2026-11-24T09:44:00+01:00",
+"artist": "Gossip",
+"title": "Crazy Again"
+},
+{
+"id": "2026-11-24T09:41|Django Django|Cameos",
+"t": "2026-11-24T09:41:00+01:00",
+"artist": "Django Django",
+"title": "Cameos"
+},
 {
 "id": "2026-11-24T09:32|MorMor feat. Celeste|Like Heaven",
 "t": "2026-11-24T09:32:00+01:00",
@@ -9220,24 +9244,6 @@
 "t": "2026-11-17T09:56:00+01:00",
 "artist": "Roisín Murphy",
 "title": "Murphy's Law"
-},
-{
-"id": "2026-11-17T09:51|Dizzy Fae|Try",
-"t": "2026-11-17T09:51:00+01:00",
-"artist": "Dizzy Fae",
-"title": "Try"
-},
-{
-"id": "2026-11-17T09:47|Peter Fox|Zukunft Pink",
-"t": "2026-11-17T09:47:00+01:00",
-"artist": "Peter Fox",
-"title": "Zukunft Pink"
-},
-{
-"id": "2026-11-17T09:44|Peki Momés|Ahşap Kutu",
-"t": "2026-11-17T09:44:00+01:00",
-"artist": "Peki Momés",
-"title": "Ahşap Kutu"
 }
 ]
 }
