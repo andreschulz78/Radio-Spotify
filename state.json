@@ -1,9 +1,9 @@
 {
-"updated": "2026-11-24T08:06:44.546025+01:00",
+"updated": "2026-11-24T08:18:44.546353+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
-"synced": "2026-11-24T07:58:44.545780+01:00",
+"synced": "2026-11-24T08:14:44.546245+01:00",
 "pruned": "2026-11-24",
 "calls": {
 "2026-11-17": 194,
@@ -13,12 +13,20 @@
 "2026-11-21": 93,
 "2026-11-22": 104,
 "2026-11-23": 155,
-"2026-11-24": 25
+"2026-11-24": 26
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAj5Y/rY8+FnXOZXqU0Mdp3gYMMQpIq",
+"snapshot": "AAAj5ik+43mbh79A18MPCcD5dXhke0iK",
 "playlist": [
+[
+"2026-11-24T08:05|Natalie Bergmann|White Oak (Kosta G. Remix)",
+"spotify:track:18PftHVAUSO5vTwdeRa7Lv"
+],
+[
+"2026-11-24T07:56|Black Marble|Jim Carol New Year",
+"spotify:track:3UhXNJjt6Y0sNCEwwhoJnT"
+],
 [
 "2026-11-24T07:48|Jackson, Joe|Be my number two",
 "spotify:track:5UFBEYaigXPoScwPOK4Wft"
@@ -3693,6 +3701,12 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-11-24T08:05|Natalie Bergmann|White Oak (Kosta G. Remix)",
+"t": "2026-11-24T08:05:00+01:00",
+"artist": "Natalie Bergmann",
+"title": "White Oak (Kosta G. Remix)"
+},
 {
 "id": "2026-11-24T07:56|Black Marble|Jim Carol New Year",
 "t": "2026-11-24T07:56:00+01:00",
@@ -9170,12 +9184,6 @@
 "t": "2026-11-17T08:19:00+01:00",
 "artist": "DJ Koze feat. Arnim Teutoburg-Weiß & The Düsseldorf Düsterboys",
 "title": "Wie schön du bist"
-},
-{
-"id": "2026-11-17T08:15|Agnes Obel|Laymelli (Edit)",
-"t": "2026-11-17T08:15:00+01:00",
-"artist": "Agnes Obel",
-"title": "Laymelli (Edit)"
 }
 ]
 }
