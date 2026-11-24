@@ -1,9 +1,9 @@
 {
-"updated": "2026-11-24T11:54:44.552649+01:00",
+"updated": "2026-11-24T12:06:44.552991+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
-"synced": "2026-11-24T11:42:44.552298+01:00",
+"synced": "2026-11-24T11:58:44.552772+01:00",
 "pruned": "2026-11-24",
 "calls": {
 "2026-11-17": 194,
@@ -13,12 +13,20 @@
 "2026-11-21": 93,
 "2026-11-22": 104,
 "2026-11-23": 155,
-"2026-11-24": 63
+"2026-11-24": 64
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAj9Y9/ulfyiFq+ci6pYlDhY3pVeiyH",
+"snapshot": "AAAj9tU8M4diOQQtkjQxxG/TgEXYM4kO",
 "playlist": [
+[
+"2026-11-24T11:50|James Blake|I Had a Dream She Took My Hand",
+"spotify:track:2hUOnJj6B7938kFBcPO6l5"
+],
+[
+"2026-11-24T11:47|SIND|Keine Zeit",
+"spotify:track:3K0mHfItY579Frw6uhinhB"
+],
 [
 "2026-11-24T11:35|Aurora|All My Demons Greeting Me As A Friend",
 "spotify:track:5O1tikYb6HKrP5cxSQv0iV"
@@ -3829,6 +3837,18 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-11-24T11:56|Raphael Saadiq|Rikers Island",
+"t": "2026-11-24T11:56:00+01:00",
+"artist": "Raphael Saadiq",
+"title": "Rikers Island"
+},
+{
+"id": "2026-11-24T11:50|James Blake|I Had a Dream She Took My Hand",
+"t": "2026-11-24T11:50:00+01:00",
+"artist": "James Blake",
+"title": "I Had a Dream She Took My Hand"
+},
 {
 "id": "2026-11-24T11:47|SIND|Keine Zeit",
 "t": "2026-11-24T11:47:00+01:00",
@@ -9300,18 +9320,6 @@
 "t": "2026-11-17T12:09:00+01:00",
 "artist": "A.G. Sully",
 "title": "Psyche"
-},
-{
-"id": "2026-11-17T12:06|Damien Jurado|Percy Faith",
-"t": "2026-11-17T12:06:00+01:00",
-"artist": "Damien Jurado",
-"title": "Percy Faith"
-},
-{
-"id": "2026-11-17T11:55|Santigold|Disparate Youth",
-"t": "2026-11-17T11:55:00+01:00",
-"artist": "Santigold",
-"title": "Disparate Youth"
 }
 ]
 }
