@@ -1,9 +1,9 @@
 {
-"updated": "2026-11-24T07:30:44.545002+01:00",
+"updated": "2026-11-24T07:42:44.545311+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
-"synced": "2026-11-24T07:26:44.544893+01:00",
+"synced": "2026-11-24T07:42:44.545311+01:00",
 "pruned": "2026-11-24",
 "calls": {
 "2026-11-17": 194,
@@ -13,12 +13,20 @@
 "2026-11-21": 93,
 "2026-11-22": 104,
 "2026-11-23": 155,
-"2026-11-24": 17
+"2026-11-24": 18
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAj4OoeK1pDzz/iDfPy+Mo1bIAEK+s5",
+"snapshot": "AAAj4dM8otS/aiVec+y9ZZ/Zjj0mE8hh",
 "playlist": [
+[
+"2026-11-24T07:33|Two Door Cinema Club|Happy Customers",
+"spotify:track:5BQV6zDJ8lRr8nN6lV2WWi"
+],
+[
+"2026-11-24T07:25|Leon Bridges|Light The Way",
+"spotify:track:3G1hTUddM2diIyYA0yy9kS"
+],
 [
 "2026-11-24T07:17|Amanda Blank|Something Bigger, Something Better",
 "spotify:track:5vbQTYKhisqfRgAx9kulKt"
@@ -3677,6 +3685,12 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-11-24T07:33|Two Door Cinema Club|Happy Customers",
+"t": "2026-11-24T07:33:00+01:00",
+"artist": "Two Door Cinema Club",
+"title": "Happy Customers"
+},
 {
 "id": "2026-11-24T07:25|Leon Bridges|Light The Way",
 "t": "2026-11-24T07:25:00+01:00",
@@ -9154,18 +9168,6 @@
 "t": "2026-11-17T07:47:00+01:00",
 "artist": "Working Men's Club",
 "title": "Circumference (Radio Edit)"
-},
-{
-"id": "2026-11-17T07:41|Overmono feat. Ruthven|Gem Lingo (ovr now)",
-"t": "2026-11-17T07:41:00+01:00",
-"artist": "Overmono feat. Ruthven",
-"title": "Gem Lingo (ovr now)"
-},
-{
-"id": "2026-11-17T07:34|Lola Young|Flicker Of Light",
-"t": "2026-11-17T07:34:00+01:00",
-"artist": "Lola Young",
-"title": "Flicker Of Light"
 }
 ]
 }
