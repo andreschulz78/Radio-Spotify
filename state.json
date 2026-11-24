@@ -1,9 +1,9 @@
 {
-"updated": "2026-11-24T08:42:44.547085+01:00",
+"updated": "2026-11-24T08:54:44.547426+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
-"synced": "2026-11-24T08:30:44.546748+01:00",
+"synced": "2026-11-24T08:46:44.547205+01:00",
 "pruned": "2026-11-24",
 "calls": {
 "2026-11-17": 194,
@@ -13,12 +13,20 @@
 "2026-11-21": 93,
 "2026-11-22": 104,
 "2026-11-23": 155,
-"2026-11-24": 32
+"2026-11-24": 34
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAj5x7nLztdnf51YkTAccooWtyYlCkh",
+"snapshot": "AAAj6I0O3uDwGTgXAONUV0ag73CzYbsd",
 "playlist": [
+[
+"2026-11-24T08:41|Francis|Bridges",
+"spotify:track:0PGSNNvtNxWCB2j2k9ZOqu"
+],
+[
+"2026-11-24T08:34|Pulp|Spike Island (Radio Edit)",
+"spotify:track:6g6DnHs3W4U6qMERbKwpDd"
+],
 [
 "2026-11-24T08:26|Dahi feat. Kendrick Lamar & Amber Mark|How To Pray",
 "spotify:track:5M8eNQ6wLYPT9D60hbcxVU"
@@ -3717,6 +3725,18 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-11-24T08:47|Art d'Ecco|Survival Of The Fittest",
+"t": "2026-11-24T08:47:00+01:00",
+"artist": "Art d'Ecco",
+"title": "Survival Of The Fittest"
+},
+{
+"id": "2026-11-24T08:41|Francis|Bridges",
+"t": "2026-11-24T08:41:00+01:00",
+"artist": "Francis",
+"title": "Bridges"
+},
 {
 "id": "2026-11-24T08:34|Pulp|Spike Island (Radio Edit)",
 "t": "2026-11-24T08:34:00+01:00",
@@ -9194,18 +9214,6 @@
 "t": "2026-11-17T08:56:00+01:00",
 "artist": "Die Sauna",
 "title": "ich liebe dich"
-},
-{
-"id": "2026-11-17T08:51|Erika De Casier|Delusional",
-"t": "2026-11-17T08:51:00+01:00",
-"artist": "Erika De Casier",
-"title": "Delusional"
-},
-{
-"id": "2026-11-17T08:44|The Streets|I Love You More Than You Like Me",
-"t": "2026-11-17T08:44:00+01:00",
-"artist": "The Streets",
-"title": "I Love You More Than You Like Me"
 }
 ]
 }
