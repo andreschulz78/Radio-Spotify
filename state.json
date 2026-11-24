@@ -1,9 +1,9 @@
 {
-"updated": "2026-11-24T10:18:44.549797+01:00",
+"updated": "2026-11-24T10:30:44.550151+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
-"synced": "2026-11-24T10:06:44.549456+01:00",
+"synced": "2026-11-24T10:22:44.549931+01:00",
 "pruned": "2026-11-24",
 "calls": {
 "2026-11-17": 194,
@@ -13,12 +13,20 @@
 "2026-11-21": 93,
 "2026-11-22": 104,
 "2026-11-23": 155,
-"2026-11-24": 51
+"2026-11-24": 53
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAj75LvPsJBl4JIF9JPEk+ovzA+9svA",
+"snapshot": "AAAj8D4DUFMLKxD9MpJW3S8ztQp9/sEc",
 "playlist": [
+[
+"2026-11-24T10:09|The Teskey Brothers|Never Tear Us Apart",
+"spotify:track:69f9M3HycGvWEApwjD4Jp1"
+],
+[
+"2026-11-24T10:05|The Big Moon|F.O.R.E.V.E.R",
+"spotify:track:0UaPOdi1O83vr1oTXaGqgx"
+],
 [
 "2026-11-24T09:55|Jamila Woods|Tiny Garden",
 "spotify:track:40ke1BOmv6yyUrfbchPr3P"
@@ -3765,6 +3773,24 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-11-24T10:25|A$AP Rocky|Punk Rocky",
+"t": "2026-11-24T10:25:00+01:00",
+"artist": "A$AP Rocky",
+"title": "Punk Rocky"
+},
+{
+"id": "2026-11-24T10:22|Pizzicato Five|Mon Amour Tokyo",
+"t": "2026-11-24T10:22:00+01:00",
+"artist": "Pizzicato Five",
+"title": "Mon Amour Tokyo"
+},
+{
+"id": "2026-11-24T10:18|Portugal. The Man|So American",
+"t": "2026-11-24T10:18:00+01:00",
+"artist": "Portugal. The Man",
+"title": "So American"
+},
 {
 "id": "2026-11-24T10:09|The Teskey Brothers|Never Tear Us Apart",
 "t": "2026-11-24T10:09:00+01:00",
@@ -9236,24 +9262,6 @@
 "t": "2026-11-17T10:34:00+01:00",
 "artist": "Austra",
 "title": "Math Equation"
-},
-{
-"id": "2026-11-17T10:30|Phoenix|After Midnight",
-"t": "2026-11-17T10:30:00+01:00",
-"artist": "Phoenix",
-"title": "After Midnight"
-},
-{
-"id": "2026-11-17T10:24|Poliça|Carlines",
-"t": "2026-11-17T10:24:00+01:00",
-"artist": "Poliça",
-"title": "Carlines"
-},
-{
-"id": "2026-11-17T10:19|Anna von Hausswolff feat. Iggy Pop|The Whole Woman",
-"t": "2026-11-17T10:19:00+01:00",
-"artist": "Anna von Hausswolff feat. Iggy Pop",
-"title": "The Whole Woman"
 }
 ]
 }
