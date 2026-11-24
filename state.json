@@ -1,5 +1,5 @@
 {
-"updated": "2026-11-24T07:42:44.545311+01:00",
+"updated": "2026-11-24T07:54:44.545644+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
@@ -13,7 +13,7 @@
 "2026-11-21": 93,
 "2026-11-22": 104,
 "2026-11-23": 155,
-"2026-11-24": 18
+"2026-11-24": 19
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
@@ -3685,6 +3685,18 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-11-24T07:45|Keane|Somewhere Only We Know",
+"t": "2026-11-24T07:45:00+01:00",
+"artist": "Keane",
+"title": "Somewhere Only We Know"
+},
+{
+"id": "2026-11-24T07:40|Fuffifufzich|New Era",
+"t": "2026-11-24T07:40:00+01:00",
+"artist": "Fuffifufzich",
+"title": "New Era"
+},
 {
 "id": "2026-11-24T07:33|Two Door Cinema Club|Happy Customers",
 "t": "2026-11-24T07:33:00+01:00",
@@ -9156,18 +9168,6 @@
 "t": "2026-11-17T07:58:00+01:00",
 "artist": "Σtella",
 "title": "Belinda"
-},
-{
-"id": "2026-11-17T07:51|Grim104|Monstera",
-"t": "2026-11-17T07:51:00+01:00",
-"artist": "Grim104",
-"title": "Monstera"
-},
-{
-"id": "2026-11-17T07:47|Working Men's Club|Circumference (Radio Edit)",
-"t": "2026-11-17T07:47:00+01:00",
-"artist": "Working Men's Club",
-"title": "Circumference (Radio Edit)"
 }
 ]
 }
