@@ -157,7 +157,7 @@
 },
 "al green|love is a beautiful thing": {
 "u": null,
-"d": "2026-11-21T14:56:10.236693+01:00"
+"d": "2026-11-24T19:05:29.177790+01:00"
 },
 "alabama 3|ain t goin to goa": {
 "u": "spotify:track:4Xa8swQPorL6e1ZF91PxIv",
@@ -1237,7 +1237,7 @@
 },
 "bomb the bass featuring paul conboy|so special": {
 "u": null,
-"d": "2026-11-21T15:28:10.237581+01:00"
+"d": "2026-11-24T19:05:29.177790+01:00"
 },
 "bombay bicycle club|come to": {
 "u": "spotify:track:6bv0EXeNvAwxNAod6KlJSW",
@@ -1774,6 +1774,10 @@
 "corey hart|sunglasses at night": {
 "u": "spotify:track:6Ja520cxXWoZu8UPrFj7Oe",
 "d": "2026-10-31T00:00:00.233654+01:00"
+},
+"courtney barnett|dead fox": {
+"u": "spotify:track:3iUC0SXddJ69QSFlW1QMWk",
+"d": "2026-11-24T19:01:29.177703+01:00"
 },
 "courtney barnett|wonder": {
 "u": "spotify:track:5QraYxwAgy8LloNZeIiuQ5",
@@ -3239,6 +3243,10 @@
 "u": "spotify:track:2lRRbmXwKXGAvqxmKhMA0P",
 "d": "2026-11-20T00:45:34.596430+01:00"
 },
+"gordi|sandwiches": {
+"u": "spotify:track:1HbADTJXUFXqJsBQR1Ef4P",
+"d": "2026-11-24T18:57:29.177591+01:00"
+},
 "gordon lightfoot|if you could read my mind": {
 "u": "spotify:track:57ct8jKi6trntXiRV0NnXi",
 "d": "2026-11-11T00:01:59.827254+01:00"
@@ -3254,6 +3262,10 @@
 "gorillaz feat mos def bobby womack|stylo": {
 "u": "spotify:track:0gxwiSddQ6JQG8XM50fqHg",
 "d": "2026-11-18T00:02:52.681681+01:00"
+},
+"gorillaz|andromeda": {
+"u": "spotify:track:0V5zAGdvO780GT3gtdxzLt",
+"d": "2026-11-24T18:57:29.177591+01:00"
 },
 "gorillaz|baby queen": {
 "u": "spotify:track:0dFwiyWPwC2yML3ZH7B56V",
@@ -4297,7 +4309,7 @@
 },
 "jungle|keep me satisfied": {
 "u": "spotify:track:4OxDppy29ZuxXgQ1kMEjCr",
-"d": "2026-11-16T00:03:31.317805+01:00"
+"d": "2026-11-24T19:05:29.177790+01:00"
 },
 "jungle|someday somewhere": {
 "u": "spotify:track:20FqWsyuUaQTU5tk4nP6eN",
@@ -7555,6 +7567,10 @@
 "u": "spotify:track:5FdeKWbwhnjsGmIxkeRJ7t",
 "d": "2026-11-24T00:03:22.726853+01:00"
 },
+"soko|we might be dead by tomorrow": {
+"u": "spotify:track:49A10weBfgwg4TUM3My7iv",
+"d": "2026-11-24T19:01:29.177703+01:00"
+},
 "sonny cher|i got you babe": {
 "u": "spotify:track:4SGBuq37Ol4HJr7pQqFMKa",
 "d": "2026-11-03T00:03:16.597546+01:00"
@@ -8451,6 +8467,10 @@
 "u": "spotify:track:0RwXCC1iiZEfoKCtuGhrHS",
 "d": "2026-11-03T00:03:16.597546+01:00"
 },
+"the last shadow puppets|seperate and ever deadly": {
+"u": "spotify:track:4zEQzXsUHwepnZRuBbJAhI",
+"d": "2026-11-24T18:57:29.177591+01:00"
+},
 "the last shadow puppets|the age of the understatement": {
 "u": "spotify:track:4fsWlej0WwmeCIRYY5xIir",
 "d": "2026-10-30T00:03:26.162794+01:00"
@@ -8626,6 +8646,10 @@
 "the rapture|sail away": {
 "u": "spotify:track:7m07Cu2yMYtHn31iSQKGo2",
 "d": "2026-11-05T00:02:15.684801+01:00"
+},
+"the raveonettes|dead sound": {
+"u": "spotify:track:0sGEbgy98b4517rMrJpEdQ",
+"d": "2026-11-24T19:01:29.177703+01:00"
 },
 "the rodeo|l hymne a la moue": {
 "u": "spotify:track:4S0Gn3Fm9cNDmvN5ggzglQ",
@@ -9506,6 +9530,10 @@
 "white lies|bigger than us": {
 "u": "spotify:track:16qk14k2wCyCWggv6kRATF",
 "d": "2026-11-05T00:02:15.684801+01:00"
+},
+"white lies|death": {
+"u": "spotify:track:3MSuo4vHv2zMTPomERER6w",
+"d": "2026-11-24T19:05:29.177790+01:00"
 },
 "white lies|to lose my life": {
 "u": "spotify:track:1bSRdNo2alwkSqo2HPjDc5",

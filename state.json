@@ -1,9 +1,9 @@
 {
-"updated": "2026-11-24T18:53:29.177511+01:00",
+"updated": "2026-11-24T19:05:29.177790+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
-"synced": "2026-11-24T18:45:29.177296+01:00",
+"synced": "2026-11-24T19:01:29.177703+01:00",
 "pruned": "2026-11-24",
 "calls": {
 "2026-11-17": 194,
@@ -13,12 +13,24 @@
 "2026-11-21": 93,
 "2026-11-22": 104,
 "2026-11-23": 155,
-"2026-11-24": 98
+"2026-11-24": 115
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAkAYtoHqlgOvSwb67DGVK5SWRM51zN",
+"snapshot": "AAAkCX1PrDHYYvj9LGB0mnKKaun/VTlW",
 "playlist": [
+[
+"2026-11-24T18:53|Modeselektor|IWUDLYK",
+"spotify:track:0ETCwiSL7d6N9Wg4jJn5Gz"
+],
+[
+"2026-11-24T18:48|Michael Kiwanuka|Stars",
+"spotify:track:0l4VyfqezAxzuYU4aeNt6i"
+],
+[
+"2026-11-24T18:44|Aimee Mann|One",
+"spotify:track:5e7OZ8PyDJYQdGAiidCPad"
+],
 [
 "2026-11-24T18:41|Justice|Starting From Zero (feat. Michael McDonald)",
 "spotify:track:1akuT1qSIAoOhpPhUxGpyR"
@@ -168,12 +180,20 @@
 "spotify:track:23i10hKRFFtyNN801D2AYz"
 ],
 [
+"2026-11-24T15:06|Benjamin Biolay|L'espoir fait vivre",
+"spotify:track:7jPugh0knXlmaU61MaUrxu"
+],
+[
 "2026-11-24T14:56|Emma-Jean Thackray|Save Me",
 "spotify:track:6cyceLjnnc8JzkhhqGTbGz"
 ],
 [
 "2026-11-24T14:50|Interpol|Iron City",
 "spotify:track:7o9gwmscHBXh6sUEYkWQ4e"
+],
+[
+"2026-11-24T14:48|Wet Leg|Wet Dream",
+"spotify:track:6pjJUY0O4XgrYFGf9SwD7u"
 ],
 [
 "2026-11-24T14:43|RAR|Kannst du bei mir bleiben?",
@@ -196,6 +216,10 @@
 "spotify:track:58EdbjtDOhgX3T1IoHGt5N"
 ],
 [
+"2026-11-24T14:10|New Order|True Faith '94",
+"spotify:track:4fpxnJGDWFxjGvLJOqPPt8"
+],
+[
 "2026-11-24T14:06|Tyler Ballgame|I Believe In Love",
 "spotify:track:6AtEQ14ER32D5Fk8QzIp3t"
 ],
@@ -204,8 +228,20 @@
 "spotify:track:4BGA7VW330Eu1kaFNi98cG"
 ],
 [
+"2026-11-24T13:51|Della Reese|Come On, A My House",
+"spotify:track:2YSKZSdG6JnhvqjwrOiq4N"
+],
+[
 "2026-11-24T13:37|Kaktus Einarsson feat. John Grant|Follow",
 "spotify:track:0bbPqdrMN94XmIlBQS21B3"
+],
+[
+"2026-11-24T13:33|Beatsteaks vs. Dirk von Lowtzow|French Disko",
+"spotify:track:62kyviLIKq7P7YC5RyESFz"
+],
+[
+"2026-11-24T13:27|Gordi|Sandwiches",
+"spotify:track:1HbADTJXUFXqJsBQR1Ef4P"
 ],
 [
 "2026-11-24T13:22|Yard Act|Janey Said (Edit)",
@@ -224,12 +260,32 @@
 "spotify:track:6iKF2dQJNLjEAvNjIYAreO"
 ],
 [
+"2026-11-24T13:07|Gorillaz|Andromeda",
+"spotify:track:0V5zAGdvO780GT3gtdxzLt"
+],
+[
+"2026-11-24T12:55|The Last Shadow Puppets|Seperate And Ever Deadly",
+"spotify:track:4zEQzXsUHwepnZRuBbJAhI"
+],
+[
 "2026-11-24T12:51|Tunng|Scared To Death",
 "spotify:track:7L03LXn3gpwoI3HJ5VeoBZ"
 ],
 [
 "2026-11-24T12:47|Charlotte Gainsbourg|Deadly Valentine",
 "spotify:track:0NHCPU8QNMJUUdIkd9qhro"
+],
+[
+"2026-11-24T12:40|Soko|We Might Be Dead By Tomorrow",
+"spotify:track:49A10weBfgwg4TUM3My7iv"
+],
+[
+"2026-11-24T12:37|The Raveonettes|Dead Sound",
+"spotify:track:0sGEbgy98b4517rMrJpEdQ"
+],
+[
+"2026-11-24T12:33|Courtney Barnett|Dead Fox",
+"spotify:track:3iUC0SXddJ69QSFlW1QMWk"
 ],
 [
 "2026-11-24T12:23|Tikhet|Burndowner",
@@ -4069,6 +4125,24 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-11-24T18:58|Jungle|Keep Me Satisfied",
+"t": "2026-11-24T18:58:00+01:00",
+"artist": "Jungle",
+"title": "Keep Me Satisfied"
+},
+{
+"id": "2026-11-24T18:53|Modeselektor|IWUDLYK",
+"t": "2026-11-24T18:53:00+01:00",
+"artist": "Modeselektor",
+"title": "IWUDLYK"
+},
+{
+"id": "2026-11-24T18:48|Michael Kiwanuka|Stars",
+"t": "2026-11-24T18:48:00+01:00",
+"artist": "Michael Kiwanuka",
+"title": "Stars"
+},
 {
 "id": "2026-11-24T18:44|Aimee Mann|One",
 "t": "2026-11-24T18:44:00+01:00",
@@ -9528,12 +9602,6 @@
 "t": "2026-11-17T19:06:00+01:00",
 "artist": "Fuffifufzich",
 "title": "New Era"
-},
-{
-"id": "2026-11-17T18:55|Benjamin Clementine|Nemesis (Radio Edit)",
-"t": "2026-11-17T18:55:00+01:00",
-"artist": "Benjamin Clementine",
-"title": "Nemesis (Radio Edit)"
 }
 ]
 }
