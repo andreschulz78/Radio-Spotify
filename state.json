@@ -1,9 +1,9 @@
 {
-"updated": "2026-11-24T12:06:44.552991+01:00",
+"updated": "2026-11-24T12:18:44.553373+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
-"synced": "2026-11-24T11:58:44.552772+01:00",
+"synced": "2026-11-24T12:14:44.553232+01:00",
 "pruned": "2026-11-24",
 "calls": {
 "2026-11-17": 194,
@@ -13,12 +13,20 @@
 "2026-11-21": 93,
 "2026-11-22": 104,
 "2026-11-23": 155,
-"2026-11-24": 64
+"2026-11-24": 66
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAj9tU8M4diOQQtkjQxxG/TgEXYM4kO",
+"snapshot": "AAAj90eUatcYSuPTI2mSJtXEIGDfPtl0",
 "playlist": [
+[
+"2026-11-24T12:05|Westside Cowboy|Kick Stones (The Boys)",
+"spotify:track:6qIdkfxjme3OEkdgsA8ANp"
+],
+[
+"2026-11-24T11:56|Raphael Saadiq|Rikers Island",
+"spotify:track:4IbyFZD9KRujoYzHUxWKef"
+],
 [
 "2026-11-24T11:50|James Blake|I Had a Dream She Took My Hand",
 "spotify:track:2hUOnJj6B7938kFBcPO6l5"
@@ -3837,6 +3845,18 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-11-24T12:10|Sassy 009 feat. Blood Orange|Tell Me (Jam City Remix) (Edit)",
+"t": "2026-11-24T12:10:00+01:00",
+"artist": "Sassy 009 feat. Blood Orange",
+"title": "Tell Me (Jam City Remix) (Edit)"
+},
+{
+"id": "2026-11-24T12:05|Westside Cowboy|Kick Stones (The Boys)",
+"t": "2026-11-24T12:05:00+01:00",
+"artist": "Westside Cowboy",
+"title": "Kick Stones (The Boys)"
+},
 {
 "id": "2026-11-24T11:56|Raphael Saadiq|Rikers Island",
 "t": "2026-11-24T11:56:00+01:00",
@@ -9308,18 +9328,6 @@
 "t": "2026-11-17T12:21:00+01:00",
 "artist": "Barbara Acklin",
 "title": "Am I The Same Girl"
-},
-{
-"id": "2026-11-17T12:17|Benjamin Clementine|In Fact You Know You Gotto Go",
-"t": "2026-11-17T12:17:00+01:00",
-"artist": "Benjamin Clementine",
-"title": "In Fact You Know You Gotto Go"
-},
-{
-"id": "2026-11-17T12:09|A.G. Sully|Psyche",
-"t": "2026-11-17T12:09:00+01:00",
-"artist": "A.G. Sully",
-"title": "Psyche"
 }
 ]
 }
