@@ -1,9 +1,9 @@
 {
-"updated": "2026-11-24T19:05:29.177790+01:00",
+"updated": "2026-11-24T19:17:29.178104+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
-"synced": "2026-11-24T19:01:29.177703+01:00",
+"synced": "2026-11-24T19:17:29.178104+01:00",
 "pruned": "2026-11-24",
 "calls": {
 "2026-11-17": 194,
@@ -13,12 +13,20 @@
 "2026-11-21": 93,
 "2026-11-22": 104,
 "2026-11-23": 155,
-"2026-11-24": 115
+"2026-11-24": 117
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAkCX1PrDHYYvj9LGB0mnKKaun/VTlW",
+"snapshot": "AAAkC9FgbZ5ZnV4GOoL8cK3ui+pbdH76",
 "playlist": [
+[
+"2026-11-24T19:06|Billy Nomates|The Test",
+"spotify:track:5MCtwpg6FCHEM8gFb0erM1"
+],
+[
+"2026-11-24T18:58|Jungle|Keep Me Satisfied",
+"spotify:track:4OxDppy29ZuxXgQ1kMEjCr"
+],
 [
 "2026-11-24T18:53|Modeselektor|IWUDLYK",
 "spotify:track:0ETCwiSL7d6N9Wg4jJn5Gz"
@@ -286,6 +294,10 @@
 [
 "2026-11-24T12:33|Courtney Barnett|Dead Fox",
 "spotify:track:3iUC0SXddJ69QSFlW1QMWk"
+],
+[
+"2026-11-24T12:29|White Lies|Death",
+"spotify:track:3MSuo4vHv2zMTPomERER6w"
 ],
 [
 "2026-11-24T12:23|Tikhet|Burndowner",
@@ -4125,6 +4137,12 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-11-24T19:06|Billy Nomates|The Test",
+"t": "2026-11-24T19:06:00+01:00",
+"artist": "Billy Nomates",
+"title": "The Test"
+},
 {
 "id": "2026-11-24T18:58|Jungle|Keep Me Satisfied",
 "t": "2026-11-24T18:58:00+01:00",
@@ -9596,12 +9614,6 @@
 "t": "2026-11-17T19:38:00+01:00",
 "artist": "Hannah Jadagu",
 "title": "My Love"
-},
-{
-"id": "2026-11-17T19:06|Fuffifufzich|New Era",
-"t": "2026-11-17T19:06:00+01:00",
-"artist": "Fuffifufzich",
-"title": "New Era"
 }
 ]
 }
