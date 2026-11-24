@@ -1,5 +1,5 @@
 {
-"updated": "2026-11-24T18:29:29.176861+01:00",
+"updated": "2026-11-24T18:41:29.177185+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
@@ -13,7 +13,7 @@
 "2026-11-21": 93,
 "2026-11-22": 104,
 "2026-11-23": 155,
-"2026-11-24": 72
+"2026-11-24": 81
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
@@ -4009,6 +4009,30 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-11-24T18:36|Suki Waterhouse|Blackout Drunk",
+"t": "2026-11-24T18:36:00+01:00",
+"artist": "Suki Waterhouse",
+"title": "Blackout Drunk"
+},
+{
+"id": "2026-11-24T18:32|Hot Chip|Random Violence (Radio Edit)",
+"t": "2026-11-24T18:32:00+01:00",
+"artist": "Hot Chip",
+"title": "Random Violence (Radio Edit)"
+},
+{
+"id": "2026-11-24T18:26|Isaac Hayes|Ike's Rap II",
+"t": "2026-11-24T18:26:00+01:00",
+"artist": "Isaac Hayes",
+"title": "Ike's Rap II"
+},
+{
+"id": "2026-11-24T18:25|Isaac Hayes|Ike's Rap II",
+"t": "2026-11-24T18:25:00+01:00",
+"artist": "Isaac Hayes",
+"title": "Ike's Rap II"
+},
 {
 "id": "2026-11-24T18:21|Σtella|Belinda",
 "t": "2026-11-24T18:21:00+01:00",
@@ -9450,18 +9474,6 @@
 "t": "2026-11-17T18:43:00+01:00",
 "artist": "SOFY",
 "title": "50/50"
-},
-{
-"id": "2026-11-17T18:37|Common feat. PJ|Imagine",
-"t": "2026-11-17T18:37:00+01:00",
-"artist": "Common feat. PJ",
-"title": "Imagine"
-},
-{
-"id": "2026-11-17T18:34|Kaktus Einarsson feat. John Grant|Follow",
-"t": "2026-11-17T18:34:00+01:00",
-"artist": "Kaktus Einarsson feat. John Grant",
-"title": "Follow"
 }
 ]
 }
