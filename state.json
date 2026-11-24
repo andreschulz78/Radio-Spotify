@@ -1,9 +1,9 @@
 {
-"updated": "2026-11-24T04:35:22.734902+01:00",
+"updated": "2026-11-24T06:54:44.544010+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
-"synced": "2026-11-24T04:03:22.734014+01:00",
+"synced": "2026-11-24T06:54:44.544010+01:00",
 "pruned": "2026-11-24",
 "calls": {
 "2026-11-17": 194,
@@ -12,12 +12,49 @@
 "2026-11-20": 147,
 "2026-11-21": 93,
 "2026-11-22": 104,
-"2026-11-23": 155
+"2026-11-23": 155,
+"2026-11-24": 4
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAj2R1cNpIwUcG5nqs11t6zCxyyBdyO",
+"snapshot": "AAAj2g39MtU8iyI5VrNtbCYq+q2y0twS",
 "playlist": [
+[
+"2026-11-24T06:45|Overmono feat. Ruthven|Gem Lingo (ovr now)",
+"spotify:track:6dSqM0tWJPlchpmGrEwC1c"
+],
+[
+"2026-11-24T06:38|Dry Cleaning|Let Me Grow and You'll See The Fruit",
+"spotify:track:5SsRe29Ua89yh6vVJHJC6x"
+],
+[
+"2026-11-24T06:33|Arctic Monkeys|Fluorescent Adolescent",
+"spotify:track:2x8evxqUlF0eRabbW2JBJd"
+],
+[
+"2026-11-24T06:23|Tristan Brusch|Vierzehn",
+"spotify:track:6bauquMrawP7ZfZ6qsmOtr"
+],
+[
+"2026-11-24T06:17|R.E.M.|Daysleeper",
+"spotify:track:7chTzkbpS16xJqyhJWQlmt"
+],
+[
+"2026-11-24T06:14|Jordan Rakei|Enemies",
+"spotify:track:0X9GwAax0c0HPe3iIoDVW6"
+],
+[
+"2026-11-24T06:05|Freedom Fry|Corde Sensible",
+"spotify:track:4xT742OmuB5WOoN9OEdBe8"
+],
+[
+"2026-11-24T05:51|Wallners|Movie Stars",
+"spotify:track:7xesRbRs3O1MLOgWqMSN7a"
+],
+[
+"2026-11-24T05:42|New German Cinema|Water Drops",
+"spotify:track:65SwobxDwUigYvd91PIAuF"
+],
 [
 "2026-11-23T20:56|A Certain Ratio|SAMO",
 "spotify:track:3Wq2wvnuNvaThXm2qTdpTc"
@@ -3612,6 +3649,78 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-11-24T06:45|Overmono feat. Ruthven|Gem Lingo (ovr now)",
+"t": "2026-11-24T06:45:00+01:00",
+"artist": "Overmono feat. Ruthven",
+"title": "Gem Lingo (ovr now)"
+},
+{
+"id": "2026-11-24T06:38|Dry Cleaning|Let Me Grow and You'll See The Fruit",
+"t": "2026-11-24T06:38:00+01:00",
+"artist": "Dry Cleaning",
+"title": "Let Me Grow and You'll See The Fruit"
+},
+{
+"id": "2026-11-24T06:33|Arctic Monkeys|Fluorescent Adolescent",
+"t": "2026-11-24T06:33:00+01:00",
+"artist": "Arctic Monkeys",
+"title": "Fluorescent Adolescent"
+},
+{
+"id": "2026-11-24T06:23|Tristan Brusch|Vierzehn",
+"t": "2026-11-24T06:23:00+01:00",
+"artist": "Tristan Brusch",
+"title": "Vierzehn"
+},
+{
+"id": "2026-11-24T06:17|R.E.M.|Daysleeper",
+"t": "2026-11-24T06:17:00+01:00",
+"artist": "R.E.M.",
+"title": "Daysleeper"
+},
+{
+"id": "2026-11-24T06:14|Jordan Rakei|Enemies",
+"t": "2026-11-24T06:14:00+01:00",
+"artist": "Jordan Rakei",
+"title": "Enemies"
+},
+{
+"id": "2026-11-24T06:05|Freedom Fry|Corde Sensible",
+"t": "2026-11-24T06:05:00+01:00",
+"artist": "Freedom Fry",
+"title": "Corde Sensible"
+},
+{
+"id": "2026-11-24T05:56|Devendra Banhart|I Feel Just Like A Child",
+"t": "2026-11-24T05:56:00+01:00",
+"artist": "Devendra Banhart",
+"title": "I Feel Just Like A Child"
+},
+{
+"id": "2026-11-24T05:51|Wallners|Movie Stars",
+"t": "2026-11-24T05:51:00+01:00",
+"artist": "Wallners",
+"title": "Movie Stars"
+},
+{
+"id": "2026-11-24T05:48|Peaches|Dumb Fuck",
+"t": "2026-11-24T05:48:00+01:00",
+"artist": "Peaches",
+"title": "Dumb Fuck"
+},
+{
+"id": "2026-11-24T05:42|New German Cinema|Water Drops",
+"t": "2026-11-24T05:42:00+01:00",
+"artist": "New German Cinema",
+"title": "Water Drops"
+},
+{
+"id": "2026-11-24T05:37|Erasure|Love To Hate You",
+"t": "2026-11-24T05:37:00+01:00",
+"artist": "Erasure",
+"title": "Love To Hate You"
+},
 {
 "id": "2026-11-23T20:56|A Certain Ratio|SAMO",
 "t": "2026-11-23T20:56:00+01:00",
@@ -9023,120 +9132,6 @@
 "t": "2026-11-17T06:57:00+01:00",
 "artist": "Dekker",
 "title": "Pick It Up, Put It Back"
-},
-{
-"id": "2026-11-17T06:50|Band Of Horses|Is There A Ghost",
-"t": "2026-11-17T06:50:00+01:00",
-"artist": "Band Of Horses",
-"title": "Is There A Ghost"
-},
-{
-"id": "2026-11-17T06:44|Keshavara|Oracular",
-"t": "2026-11-17T06:44:00+01:00",
-"artist": "Keshavara",
-"title": "Oracular"
-},
-{
-"id": "2026-11-17T06:35|The Mountain Goats|Charlie Sheen Reaches Out To The Feds",
-"t": "2026-11-17T06:35:00+01:00",
-"artist": "The Mountain Goats",
-"title": "Charlie Sheen Reaches Out To The Feds"
-},
-{
-"id": "2026-11-17T06:25|Janelle Monáe|Make Me Feel",
-"t": "2026-11-17T06:25:00+01:00",
-"artist": "Janelle Monáe",
-"title": "Make Me Feel"
-},
-{
-"id": "2026-11-17T06:19|Leon Bridges|Light The Way",
-"t": "2026-11-17T06:19:00+01:00",
-"artist": "Leon Bridges",
-"title": "Light The Way"
-},
-{
-"id": "2026-11-17T06:13|Automatic|Shadowplay",
-"t": "2026-11-17T06:13:00+01:00",
-"artist": "Automatic",
-"title": "Shadowplay"
-},
-{
-"id": "2026-11-17T06:05|Genesis Owusu|Human Again",
-"t": "2026-11-17T06:05:00+01:00",
-"artist": "Genesis Owusu",
-"title": "Human Again"
-},
-{
-"id": "2026-11-17T05:56|Madonna|Music",
-"t": "2026-11-17T05:56:00+01:00",
-"artist": "Madonna",
-"title": "Music"
-},
-{
-"id": "2026-11-17T05:52|The Avener|Fade Out Lines",
-"t": "2026-11-17T05:52:00+01:00",
-"artist": "The Avener",
-"title": "Fade Out Lines"
-},
-{
-"id": "2026-11-17T05:48|Smidley feat. Lucy Dacus|Capstone",
-"t": "2026-11-17T05:48:00+01:00",
-"artist": "Smidley feat. Lucy Dacus",
-"title": "Capstone"
-},
-{
-"id": "2026-11-17T05:43|Jamie T|90s Cars",
-"t": "2026-11-17T05:43:00+01:00",
-"artist": "Jamie T",
-"title": "90s Cars"
-},
-{
-"id": "2026-11-17T05:41|Mutter|Wenn du da bist",
-"t": "2026-11-17T05:41:00+01:00",
-"artist": "Mutter",
-"title": "Wenn du da bist"
-},
-{
-"id": "2026-11-17T05:33|Red Hot Chili Peppers|Dani California",
-"t": "2026-11-17T05:33:00+01:00",
-"artist": "Red Hot Chili Peppers",
-"title": "Dani California"
-},
-{
-"id": "2026-11-17T05:28|Nia Archives|Vertical",
-"t": "2026-11-17T05:28:00+01:00",
-"artist": "Nia Archives",
-"title": "Vertical"
-},
-{
-"id": "2026-11-17T05:26|Georg Auf Lieder|Kranfahrer",
-"t": "2026-11-17T05:26:00+01:00",
-"artist": "Georg Auf Lieder",
-"title": "Kranfahrer"
-},
-{
-"id": "2026-11-17T05:19|Supertramp|The Logical Song",
-"t": "2026-11-17T05:19:00+01:00",
-"artist": "Supertramp",
-"title": "The Logical Song"
-},
-{
-"id": "2026-11-17T05:14|Suede|Beautiful Ones",
-"t": "2026-11-17T05:14:00+01:00",
-"artist": "Suede",
-"title": "Beautiful Ones"
-},
-{
-"id": "2026-11-17T05:09|Chinese American Bear|Dance Dance Dance (Edit)",
-"t": "2026-11-17T05:09:00+01:00",
-"artist": "Chinese American Bear",
-"title": "Dance Dance Dance (Edit)"
-},
-{
-"id": "2026-11-17T05:03|Black Sea Dahu|Ruth (Edit)",
-"t": "2026-11-17T05:03:00+01:00",
-"artist": "Black Sea Dahu",
-"title": "Ruth (Edit)"
 }
 ]
 }
