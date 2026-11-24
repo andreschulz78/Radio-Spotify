@@ -1,9 +1,9 @@
 {
-"updated": "2026-11-24T09:06:44.547758+01:00",
+"updated": "2026-11-24T09:18:44.548068+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
-"synced": "2026-11-24T09:02:44.547647+01:00",
+"synced": "2026-11-24T09:18:44.548068+01:00",
 "pruned": "2026-11-24",
 "calls": {
 "2026-11-17": 194,
@@ -13,12 +13,20 @@
 "2026-11-21": 93,
 "2026-11-22": 104,
 "2026-11-23": 155,
-"2026-11-24": 38
+"2026-11-24": 39
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAj6QR6arUVvQluhezzCKMMHfgY6URT",
+"snapshot": "AAAj6iqxRpGWBUmpqdE5KoZSgiMMA18P",
 "playlist": [
+[
+"2026-11-24T09:12|Ex:Re|Radio Station",
+"spotify:track:2ixKxWKW6ejtIVr5gm00K7"
+],
+[
+"2026-11-24T09:05|Young Franco w/ EARTHGANG & Jafunk|Lose Control",
+"spotify:track:6xl52ErKTebAhTyH01MiE1"
+],
 [
 "2026-11-24T08:54|Yard Act|You're Gonna Need A Little Music",
 "spotify:track:43KS2LpjMVkvJdprLaoQxQ"
@@ -3733,6 +3741,18 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-11-24T09:12|Ex:Re|Radio Station",
+"t": "2026-11-24T09:12:00+01:00",
+"artist": "Ex:Re",
+"title": "Radio Station"
+},
+{
+"id": "2026-11-24T09:05|Young Franco w/ EARTHGANG & Jafunk|Lose Control",
+"t": "2026-11-24T09:05:00+01:00",
+"artist": "Young Franco w/ EARTHGANG & Jafunk",
+"title": "Lose Control"
+},
 {
 "id": "2026-11-24T08:54|Yard Act|You're Gonna Need A Little Music",
 "t": "2026-11-24T08:54:00+01:00",
@@ -9210,12 +9230,6 @@
 "t": "2026-11-17T09:20:00+01:00",
 "artist": "Reyna Tropical",
 "title": "Conexión Ancestral"
-},
-{
-"id": "2026-11-17T09:15|Nichtseattle|Ich mit Brille",
-"t": "2026-11-17T09:15:00+01:00",
-"artist": "Nichtseattle",
-"title": "Ich mit Brille"
 }
 ]
 }
