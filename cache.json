@@ -367,10 +367,6 @@
 "u": "spotify:track:1zlclNkERGFrCxznXOgkD3",
 "d": "2026-11-19T00:00:40.586677+01:00"
 },
-"anderson paak|fire in the sky": {
-"u": null,
-"d": "2026-11-23T12:50:29.793190+01:00"
-},
 "andrew bird|make a picture": {
 "u": "spotify:track:79nKml4A4m5KINlosGJNli",
 "d": "2026-11-24T00:03:22.726853+01:00"
@@ -566,6 +562,10 @@
 "aretha franklin|i say a little prayer": {
 "u": "spotify:track:3NfxSdJnVdon1axzloJgba",
 "d": "2026-11-22T00:01:03.284133+01:00"
+},
+"aretha franklin|rock steady": {
+"u": "spotify:track:7rvGZDlfqCjY9EWEUg3Xs6",
+"d": "2026-11-24T18:29:29.176861+01:00"
 },
 "aretha franklin|walk on by": {
 "u": "spotify:track:4bYc0A3yv4gc0596xuCbPU",
@@ -853,7 +853,7 @@
 },
 "bedouine|deghma cheega": {
 "u": "spotify:track:5mz2vo9T3jeGlnLcbfFhjG",
-"d": "2026-11-09T00:00:51.957349+01:00"
+"d": "2026-11-24T18:29:29.176861+01:00"
 },
 "beirut|fisher island sound": {
 "u": "spotify:track:3XHtGQBlfMHfKcXdTX7Mt0",
@@ -1931,6 +1931,10 @@
 "u": "spotify:track:4KshJfh2M1sS6Js5wSupwU",
 "d": "2026-11-05T00:02:15.684801+01:00"
 },
+"david bowie|modern love": {
+"u": "spotify:track:3gxEZXUjrNbl3TlSrTGbR5",
+"d": "2026-11-24T18:29:29.176861+01:00"
+},
 "david bowie|sound and vision": {
 "u": "spotify:track:5a0Rkl6Hmgk7e2LDAD6yNY",
 "d": "2026-11-06T00:02:55.176430+01:00"
@@ -2457,7 +2461,7 @@
 },
 "elderbrook|body": {
 "u": "spotify:track:5nbq4CyzheTl7BLPR3caJY",
-"d": "2026-11-12T00:03:43.161136+01:00"
+"d": "2026-11-24T18:29:29.176861+01:00"
 },
 "electric guest|stand back for you": {
 "u": "spotify:track:6eJ8C0GftRIGq98zLaxrAz",
@@ -2549,7 +2553,7 @@
 },
 "emma jean thackray|save me": {
 "u": "spotify:track:6cyceLjnnc8JzkhhqGTbGz",
-"d": "2026-11-23T02:33:34.244456+01:00"
+"d": "2026-11-24T18:29:29.176861+01:00"
 },
 "emma louise|jungle": {
 "u": "spotify:track:54zwuYIW4H4HuHGdI2jxUC",
@@ -2587,10 +2591,6 @@
 "u": "spotify:track:02d0oBalqguYlV4QVmmGwm",
 "d": "2026-11-24T00:03:22.726853+01:00"
 },
-"erlend ye|fine day": {
-"u": null,
-"d": "2026-11-23T23:27:22.725845+01:00"
-},
 "ernie k doe|here comes the girls uk hit single version": {
 "u": "spotify:track:32J8ktrFcwNzclHeCKqunf",
 "d": "2026-11-05T00:02:15.684801+01:00"
@@ -2601,7 +2601,7 @@
 },
 "erobique jacques palminger|discoroller": {
 "u": "spotify:track:1BliShBL9LONVP8oiuofpk",
-"d": "2026-11-13T00:01:31.520817+01:00"
+"d": "2026-11-24T18:29:29.176861+01:00"
 },
 "eroc|wolkenreise": {
 "u": "spotify:track:0Qko1btZ8Db6j3tBMQVmLZ",
@@ -3186,6 +3186,10 @@
 "golden bug feat the liminanas vega voga|hi no tori": {
 "u": "spotify:track:3bwUf5ieZ8zDhqhb9riS0O",
 "d": "2026-11-22T00:01:03.284133+01:00"
+},
+"goldfrapp|drew": {
+"u": "spotify:track:0sK0PpNvxXIgcCUjiHfr3O",
+"d": "2026-11-24T18:29:29.176861+01:00"
 },
 "goldfrapp|happiness": {
 "u": "spotify:track:7FDzRpkPni2z2g4cptbfVx",
@@ -4543,10 +4547,6 @@
 "u": "spotify:track:30CHepNhUAml9rw1Z0qPRf",
 "d": "2026-11-09T00:00:51.957349+01:00"
 },
-"king gizzard the lizard wizard|hate dancin": {
-"u": null,
-"d": "2026-11-23T13:22:29.794039+01:00"
-},
 "king hannah|new york let s do nothing": {
 "u": "spotify:track:43TN8zLpTz75TIvWSZ6cr3",
 "d": "2026-11-12T00:03:43.161136+01:00"
@@ -5197,7 +5197,7 @@
 },
 "madonna|danceteria": {
 "u": "spotify:track:6oFNBxTVpYNpNCRehH05Ly",
-"d": "2026-11-19T00:00:40.586677+01:00"
+"d": "2026-11-24T18:29:29.176861+01:00"
 },
 "madonna|frozen": {
 "u": "spotify:track:5P1qYxFEcGteX6a2vkSMQC",
@@ -5321,7 +5321,7 @@
 },
 "marlon williams|my boy": {
 "u": "spotify:track:5PHbusMmCka1GbXiYoSD47",
-"d": "2026-11-17T02:00:38.631113+01:00"
+"d": "2026-11-24T18:29:29.176861+01:00"
 },
 "marlon williams|thinking of nina": {
 "u": "spotify:track:4g3dRdPPil0iHxsb9NIYh0",
@@ -6225,7 +6225,7 @@
 },
 "oslo twins|i wake up slowly": {
 "u": "spotify:track:22CUrCtZeg4jR7d7BO34oa",
-"d": "2026-11-20T00:45:34.596430+01:00"
+"d": "2026-11-24T18:29:29.176861+01:00"
 },
 "other lives|hey hey i": {
 "u": "spotify:track:3gE14bhOcfJz7HDaZ0CdGk",
@@ -6485,7 +6485,7 @@
 },
 "philipp johann thimm|have you ever feat koka": {
 "u": "spotify:track:4W2O5dHVnDH6suuhh0PjAS",
-"d": "2026-11-09T00:00:51.957349+01:00"
+"d": "2026-11-24T18:29:29.176861+01:00"
 },
 "phillip boa and the voodooclub|cruising": {
 "u": "spotify:track:0V8l2AZJPHSEDg5PlbJaUj",
@@ -6841,11 +6841,11 @@
 },
 "rar|kannst du bei mir bleiben": {
 "u": "spotify:track:6P2p63GZxlsvoegju9iH1Z",
-"d": "2026-11-17T02:00:38.631113+01:00"
+"d": "2026-11-24T18:29:29.176861+01:00"
 },
 "ray lozano|late night": {
 "u": "spotify:track:23i10hKRFFtyNN801D2AYz",
-"d": "2026-11-12T00:03:43.161136+01:00"
+"d": "2026-11-24T18:29:29.176861+01:00"
 },
 "raye feat al green|goodbye henry": {
 "u": "spotify:track:5lBL8xRTXIDpPDJcuPL9UH",
@@ -6989,7 +6989,7 @@
 },
 "rosie lowe|in my head": {
 "u": "spotify:track:6VBNhjwLvHkpQmhlhofBGX",
-"d": "2026-11-20T00:45:34.596430+01:00"
+"d": "2026-11-24T18:29:29.176861+01:00"
 },
 "roxy music|jealous guy": {
 "u": "spotify:track:0UBxAoUn07blHHdmLo9par",
@@ -7081,7 +7081,7 @@
 },
 "sade|soldier of love": {
 "u": "spotify:track:0bgsj8kz5zWbQ6njk2Oqoz",
-"d": "2026-11-13T00:01:31.520817+01:00"
+"d": "2026-11-24T18:29:29.176861+01:00"
 },
 "saigon soul revival|ai that long yeu ai": {
 "u": "spotify:track:3bnmNiAUsg93LesWjgi2OM",
@@ -7861,7 +7861,7 @@
 },
 "tame impala|is it true": {
 "u": "spotify:track:6RZmhpvukfyeSURhf4kZ0d",
-"d": "2026-11-17T02:00:38.631113+01:00"
+"d": "2026-11-24T18:29:29.176861+01:00"
 },
 "tame impala|no choice": {
 "u": "spotify:track:3kI3vRDwTbYs9O8svalUWu",
@@ -9117,7 +9117,7 @@
 },
 "tunng|scared to death": {
 "u": "spotify:track:7L03LXn3gpwoI3HJ5VeoBZ",
-"d": "2026-11-17T02:00:38.631113+01:00"
+"d": "2026-11-24T18:29:29.176861+01:00"
 },
 "tuvaband|im safely passing in time": {
 "u": "spotify:track:4j4DRKqZ0wUeKMLSkFZ8O5",
@@ -9137,7 +9137,7 @@
 },
 "twin shadow|dominoes": {
 "u": "spotify:track:5cgK6Kvd1rLMqLbZIwytnh",
-"d": "2026-11-17T02:00:38.631113+01:00"
+"d": "2026-11-24T18:29:29.176861+01:00"
 },
 "twin shadow|five seconds": {
 "u": "spotify:track:61f7YLWbVgGfCfbROgWiqR",
@@ -9173,7 +9173,7 @@
 },
 "tyler ballgame|i believe in love": {
 "u": "spotify:track:6AtEQ14ER32D5Fk8QzIp3t",
-"d": "2026-11-20T00:45:34.596430+01:00"
+"d": "2026-11-24T18:29:29.176861+01:00"
 },
 "tyler ballgame|live it down": {
 "u": "spotify:track:46LMLiMIgmpftDNsEirs02",
