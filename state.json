@@ -1,9 +1,9 @@
 {
-"updated": "2026-11-24T11:30:44.551925+01:00",
+"updated": "2026-11-24T11:42:44.552298+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
-"synced": "2026-11-24T11:26:44.551813+01:00",
+"synced": "2026-11-24T11:42:44.552298+01:00",
 "pruned": "2026-11-24",
 "calls": {
 "2026-11-17": 194,
@@ -13,12 +13,24 @@
 "2026-11-21": 93,
 "2026-11-22": 104,
 "2026-11-23": 155,
-"2026-11-24": 59
+"2026-11-24": 62
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAj9PccQcK19oR3mV7RAyPb5I5BbXY6",
+"snapshot": "AAAj9Y9/ulfyiFq+ci6pYlDhY3pVeiyH",
 "playlist": [
+[
+"2026-11-24T11:35|Aurora|All My Demons Greeting Me As A Friend",
+"spotify:track:5O1tikYb6HKrP5cxSQv0iV"
+],
+[
+"2026-11-24T11:31|Jack Peñate|Tonight's Today",
+"spotify:track:6vyHXbEn2UOl78HMZNnt83"
+],
+[
+"2026-11-24T11:26|Kirsty MacColl|They Don't Know",
+"spotify:track:38v32YonCt7Ln8KDLS5Ioe"
+],
 [
 "2026-11-24T11:23|Steve Lacy|Show You Me",
 "spotify:track:4f50UTC41M2Ah5itifSGE5"
@@ -3817,6 +3829,24 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-11-24T11:35|Aurora|All My Demons Greeting Me As A Friend",
+"t": "2026-11-24T11:35:00+01:00",
+"artist": "Aurora",
+"title": "All My Demons Greeting Me As A Friend"
+},
+{
+"id": "2026-11-24T11:31|Jack Peñate|Tonight's Today",
+"t": "2026-11-24T11:31:00+01:00",
+"artist": "Jack Peñate",
+"title": "Tonight's Today"
+},
+{
+"id": "2026-11-24T11:26|Kirsty MacColl|They Don't Know",
+"t": "2026-11-24T11:26:00+01:00",
+"artist": "Kirsty MacColl",
+"title": "They Don't Know"
+},
 {
 "id": "2026-11-24T11:23|Steve Lacy|Show You Me",
 "t": "2026-11-24T11:23:00+01:00",
@@ -9288,24 +9318,6 @@
 "t": "2026-11-17T11:46:00+01:00",
 "artist": "Sylvan Esso",
 "title": "Right to Left"
-},
-{
-"id": "2026-11-17T11:38|Jordan Rakei|Enemies",
-"t": "2026-11-17T11:38:00+01:00",
-"artist": "Jordan Rakei",
-"title": "Enemies"
-},
-{
-"id": "2026-11-17T11:34|The Jezabels|Rosebud",
-"t": "2026-11-17T11:34:00+01:00",
-"artist": "The Jezabels",
-"title": "Rosebud"
-},
-{
-"id": "2026-11-17T11:31|Kevin Morby|Javelin",
-"t": "2026-11-17T11:31:00+01:00",
-"artist": "Kevin Morby",
-"title": "Javelin"
 }
 ]
 }
