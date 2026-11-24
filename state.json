@@ -1,9 +1,9 @@
 {
-"updated": "2026-11-24T08:18:44.546353+01:00",
+"updated": "2026-11-24T08:30:44.546748+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
-"synced": "2026-11-24T08:14:44.546245+01:00",
+"synced": "2026-11-24T08:30:44.546748+01:00",
 "pruned": "2026-11-24",
 "calls": {
 "2026-11-17": 194,
@@ -13,12 +13,28 @@
 "2026-11-21": 93,
 "2026-11-22": 104,
 "2026-11-23": 155,
-"2026-11-24": 26
+"2026-11-24": 32
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAj5ik+43mbh79A18MPCcD5dXhke0iK",
+"snapshot": "AAAj5x7nLztdnf51YkTAccooWtyYlCkh",
 "playlist": [
+[
+"2026-11-24T08:26|Dahi feat. Kendrick Lamar & Amber Mark|How To Pray",
+"spotify:track:5M8eNQ6wLYPT9D60hbcxVU"
+],
+[
+"2026-11-24T08:21|John Grant|Pale Green Ghosts",
+"spotify:track:3shc9OgNJggFfyS0TdHheA"
+],
+[
+"2026-11-24T08:18|Carwyn Ellis & Rio 18 feat. Elan Rhys|Hei Ti",
+"spotify:track:2v7twRk9QPaUyrSrx8zWPu"
+],
+[
+"2026-11-24T08:13|Teleman|Düsseldorf",
+"spotify:track:2VZVu7r22naLfuKU10jKaj"
+],
 [
 "2026-11-24T08:05|Natalie Bergmann|White Oak (Kosta G. Remix)",
 "spotify:track:18PftHVAUSO5vTwdeRa7Lv"
@@ -3701,6 +3717,30 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-11-24T08:26|Dahi feat. Kendrick Lamar & Amber Mark|How To Pray",
+"t": "2026-11-24T08:26:00+01:00",
+"artist": "Dahi feat. Kendrick Lamar & Amber Mark",
+"title": "How To Pray"
+},
+{
+"id": "2026-11-24T08:21|John Grant|Pale Green Ghosts",
+"t": "2026-11-24T08:21:00+01:00",
+"artist": "John Grant",
+"title": "Pale Green Ghosts"
+},
+{
+"id": "2026-11-24T08:18|Carwyn Ellis & Rio 18 feat. Elan Rhys|Hei Ti",
+"t": "2026-11-24T08:18:00+01:00",
+"artist": "Carwyn Ellis & Rio 18 feat. Elan Rhys",
+"title": "Hei Ti"
+},
+{
+"id": "2026-11-24T08:13|Teleman|Düsseldorf",
+"t": "2026-11-24T08:13:00+01:00",
+"artist": "Teleman",
+"title": "Düsseldorf"
+},
 {
 "id": "2026-11-24T08:05|Natalie Bergmann|White Oak (Kosta G. Remix)",
 "t": "2026-11-24T08:05:00+01:00",
@@ -9166,24 +9206,6 @@
 "t": "2026-11-17T08:35:00+01:00",
 "artist": "The xx",
 "title": "On Hold"
-},
-{
-"id": "2026-11-17T08:26|Lumidee|Never Leave You (Uh-Oooh)",
-"t": "2026-11-17T08:26:00+01:00",
-"artist": "Lumidee",
-"title": "Never Leave You (Uh-Oooh)"
-},
-{
-"id": "2026-11-17T08:22|Lou Reed|Vicious",
-"t": "2026-11-17T08:22:00+01:00",
-"artist": "Lou Reed",
-"title": "Vicious"
-},
-{
-"id": "2026-11-17T08:19|DJ Koze feat. Arnim Teutoburg-Weiß & The Düsseldorf Düsterboys|Wie schön du bist",
-"t": "2026-11-17T08:19:00+01:00",
-"artist": "DJ Koze feat. Arnim Teutoburg-Weiß & The Düsseldorf Düsterboys",
-"title": "Wie schön du bist"
 }
 ]
 }
