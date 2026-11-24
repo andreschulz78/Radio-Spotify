@@ -1,9 +1,9 @@
 {
-"updated": "2026-11-24T07:54:44.545644+01:00",
+"updated": "2026-11-24T08:06:44.546025+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
-"synced": "2026-11-24T07:42:44.545311+01:00",
+"synced": "2026-11-24T07:58:44.545780+01:00",
 "pruned": "2026-11-24",
 "calls": {
 "2026-11-17": 194,
@@ -13,12 +13,24 @@
 "2026-11-21": 93,
 "2026-11-22": 104,
 "2026-11-23": 155,
-"2026-11-24": 19
+"2026-11-24": 25
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAj4dM8otS/aiVec+y9ZZ/Zjj0mE8hh",
+"snapshot": "AAAj5Y/rY8+FnXOZXqU0Mdp3gYMMQpIq",
 "playlist": [
+[
+"2026-11-24T07:48|Jackson, Joe|Be my number two",
+"spotify:track:5UFBEYaigXPoScwPOK4Wft"
+],
+[
+"2026-11-24T07:45|Keane|Somewhere Only We Know",
+"spotify:track:2Jblrgxbq1I9KcSudUDc6Z"
+],
+[
+"2026-11-24T07:40|Fuffifufzich|New Era",
+"spotify:track:0sF1TJMDGYxKvu9pp1JQkQ"
+],
 [
 "2026-11-24T07:33|Two Door Cinema Club|Happy Customers",
 "spotify:track:5BQV6zDJ8lRr8nN6lV2WWi"
@@ -3572,10 +3584,6 @@
 "spotify:track:61f7YLWbVgGfCfbROgWiqR"
 ],
 [
-"2026-11-17T07:58|Σtella|Belinda",
-"spotify:track:1rs2lOYfBKNW5OCpeTIiVf"
-],
-[
 "2026-11-17T07:51|Grim104|Monstera",
 "spotify:track:3rSiXUS27EJxisY62sEqmJ"
 ],
@@ -3685,6 +3693,18 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-11-24T07:56|Black Marble|Jim Carol New Year",
+"t": "2026-11-24T07:56:00+01:00",
+"artist": "Black Marble",
+"title": "Jim Carol New Year"
+},
+{
+"id": "2026-11-24T07:48|Jackson, Joe|Be my number two",
+"t": "2026-11-24T07:48:00+01:00",
+"artist": "Jackson, Joe",
+"title": "Be my number two"
+},
 {
 "id": "2026-11-24T07:45|Keane|Somewhere Only We Know",
 "t": "2026-11-24T07:45:00+01:00",
@@ -9156,18 +9176,6 @@
 "t": "2026-11-17T08:15:00+01:00",
 "artist": "Agnes Obel",
 "title": "Laymelli (Edit)"
-},
-{
-"id": "2026-11-17T08:06|Twin Shadow|Five Seconds",
-"t": "2026-11-17T08:06:00+01:00",
-"artist": "Twin Shadow",
-"title": "Five Seconds"
-},
-{
-"id": "2026-11-17T07:58|Σtella|Belinda",
-"t": "2026-11-17T07:58:00+01:00",
-"artist": "Σtella",
-"title": "Belinda"
 }
 ]
 }
