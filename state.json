@@ -1,9 +1,9 @@
 {
-"updated": "2026-11-25T16:24:00.829303+01:00",
+"updated": "2026-11-25T16:36:00.829621+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
-"synced": "2026-11-25T16:12:00.828901+01:00",
+"synced": "2026-11-25T16:28:00.829414+01:00",
 "pruned": "2026-11-25",
 "calls": {
 "2026-11-18": 180,
@@ -13,12 +13,24 @@
 "2026-11-22": 104,
 "2026-11-23": 155,
 "2026-11-24": 144,
-"2026-11-25": 109
+"2026-11-25": 111
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAkR3SBbt4Nv/QBWyZBtLNBzoI5vlsI",
+"snapshot": "AAAkSGbnY8NNQL1Zo8AxNFEj7wDPve9t",
 "playlist": [
+[
+"2026-11-25T16:21|Cage The Elephant|Skin And Bones (2020 Mix)",
+"spotify:track:6ubPFMzlIg73d1jzzWcC8B"
+],
+[
+"2026-11-25T16:18|Faithless|Insomnia (Radio Edit)",
+"spotify:track:5z5wYWL1IO6y2yEFBOiGt0"
+],
+[
+"2026-11-25T16:09|The Avalanches feat. Karen O|Blue Shadows",
+"spotify:track:5bN5To0VLbNBKQDzJ1Lk6c"
+],
 [
 "2026-11-25T16:06|2raumwohnung|Lass die Pferde frei (Radio Edit)",
 "spotify:track:6iKF2dQJNLjEAvNjIYAreO"
@@ -3941,6 +3953,24 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-11-25T16:26|Claptone feat. Zola Blood|Birdsong",
+"t": "2026-11-25T16:26:00+01:00",
+"artist": "Claptone feat. Zola Blood",
+"title": "Birdsong"
+},
+{
+"id": "2026-11-25T16:21|Cage The Elephant|Skin And Bones (2020 Mix)",
+"t": "2026-11-25T16:21:00+01:00",
+"artist": "Cage The Elephant",
+"title": "Skin And Bones (2020 Mix)"
+},
+{
+"id": "2026-11-25T16:18|Faithless|Insomnia (Radio Edit)",
+"t": "2026-11-25T16:18:00+01:00",
+"artist": "Faithless",
+"title": "Insomnia (Radio Edit)"
+},
 {
 "id": "2026-11-25T16:09|The Avalanches feat. Karen O|Blue Shadows",
 "t": "2026-11-25T16:09:00+01:00",
