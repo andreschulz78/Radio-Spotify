@@ -1,5 +1,5 @@
 {
-"updated": "2026-11-25T12:12:00.821382+01:00",
+"updated": "2026-11-25T12:24:00.821782+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
@@ -13,7 +13,7 @@
 "2026-11-22": 104,
 "2026-11-23": 155,
 "2026-11-24": 144,
-"2026-11-25": 67
+"2026-11-25": 69
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
@@ -3773,6 +3773,18 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-11-25T12:16|Die Fantastischen Vier|MfG (Mit freundlichen Grüßen)",
+"t": "2026-11-25T12:16:00+01:00",
+"artist": "Die Fantastischen Vier",
+"title": "MfG (Mit freundlichen Grüßen)"
+},
+{
+"id": "2026-11-25T12:10|Black Marble|Jim Carol New Year",
+"t": "2026-11-25T12:10:00+01:00",
+"artist": "Black Marble",
+"title": "Jim Carol New Year"
+},
 {
 "id": "2026-11-25T12:06|Red Hot Chili Peppers|Dark Necessities",
 "t": "2026-11-25T12:06:00+01:00",
@@ -9136,18 +9148,6 @@
 "t": "2026-11-18T12:26:00+01:00",
 "artist": "Fuffifufzich",
 "title": "New Era"
-},
-{
-"id": "2026-11-18T12:22|Fontaines D.C.|Marianne",
-"t": "2026-11-18T12:22:00+01:00",
-"artist": "Fontaines D.C.",
-"title": "Marianne"
-},
-{
-"id": "2026-11-18T12:16|Primal Scream|Movin' On Up",
-"t": "2026-11-18T12:16:00+01:00",
-"artist": "Primal Scream",
-"title": "Movin' On Up"
 }
 ]
 }
