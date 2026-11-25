@@ -1,5 +1,5 @@
 {
-"updated": "2026-11-25T13:00:00.822918+01:00",
+"updated": "2026-11-25T13:12:00.823357+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
@@ -13,7 +13,7 @@
 "2026-11-22": 104,
 "2026-11-23": 155,
 "2026-11-24": 144,
-"2026-11-25": 79
+"2026-11-25": 80
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
@@ -3809,6 +3809,18 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-11-25T13:04|Rainbirds|Blueprint (Album Version)",
+"t": "2026-11-25T13:04:00+01:00",
+"artist": "Rainbirds",
+"title": "Blueprint (Album Version)"
+},
+{
+"id": "2026-11-25T12:54|Dekker|Pick It Up, Put It Back",
+"t": "2026-11-25T12:54:00+01:00",
+"artist": "Dekker",
+"title": "Pick It Up, Put It Back"
+},
 {
 "id": "2026-11-25T12:49|Father John Misty|The Payoff (Radio Edit)",
 "t": "2026-11-25T12:49:00+01:00",
@@ -9166,18 +9178,6 @@
 "t": "2026-11-18T13:16:00+01:00",
 "artist": "The Stone Roses",
 "title": "Fools Gold (Edit)"
-},
-{
-"id": "2026-11-18T13:08|Cherry Glazerr|Bad Habit",
-"t": "2026-11-18T13:08:00+01:00",
-"artist": "Cherry Glazerr",
-"title": "Bad Habit"
-},
-{
-"id": "2026-11-18T13:05|Death Cab For Cutie|Pep Talk",
-"t": "2026-11-18T13:05:00+01:00",
-"artist": "Death Cab For Cutie",
-"title": "Pep Talk"
 }
 ]
 }
