@@ -1,9 +1,9 @@
 {
-"updated": "2026-11-25T11:36:00.820267+01:00",
+"updated": "2026-11-25T11:48:00.820697+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
-"synced": "2026-11-25T11:24:00.819901+01:00",
+"synced": "2026-11-25T11:40:00.820408+01:00",
 "pruned": "2026-11-25",
 "calls": {
 "2026-11-18": 180,
@@ -13,12 +13,32 @@
 "2026-11-22": 104,
 "2026-11-23": 155,
 "2026-11-24": 144,
-"2026-11-25": 44
+"2026-11-25": 58
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAkLExGW7gku03TY3/aejaa90xa2F2K",
+"snapshot": "AAAkMBdYzTlGxTblFWUIJ1OnbPTXWLGO",
 "playlist": [
+[
+"2026-11-25T11:35|Hundreds|Song For A Sailor",
+"spotify:track:162OHeztqDBb2OFWtz7OJd"
+],
+[
+"2026-11-25T11:31|Sophia Kennedy|Schenke mir ein",
+"spotify:track:1nh7tFgkfO0Q7B6EAdUaJ2"
+],
+[
+"2026-11-25T11:26|Modeselektor|IWUDLYK",
+"spotify:track:0ETCwiSL7d6N9Wg4jJn5Gz"
+],
+[
+"2026-11-25T11:24|Σtella|Belinda",
+"spotify:track:1rs2lOYfBKNW5OCpeTIiVf"
+],
+[
+"2026-11-25T11:21|Stevie Wonder|For Once In My Life",
+"spotify:track:4kP69y3GKHi9tXckfgp4bK"
+],
 [
 "2026-11-25T11:09|Fontaines D.C.|Marianne",
 "spotify:track:69rHKcrQpYGfToPThOV1UB"
@@ -40,12 +60,48 @@
 "spotify:track:4lKxJDJ5dxXIsoZbNb1zdg"
 ],
 [
+"2026-11-25T10:32|Skunk Anansie|Hedonism",
+"spotify:track:0KPWi8mDRagwxnwaA0di8a"
+],
+[
+"2026-11-25T10:26|Dan Auerbach|King Of A One Horse Town",
+"spotify:track:0oj5JM0cis8u55MqSfO8w4"
+],
+[
+"2026-11-25T10:22|Hachiku|A portrait of the artist as a young woman",
+"spotify:track:5gHhuKBjZQn4xUjWSUQooU"
+],
+[
 "2026-11-25T10:17|The War On Drugs|Who's That",
 "spotify:track:2YPP52aPZiFUxTmbQTUiR6"
 ],
 [
+"2026-11-25T10:08|The Smiths|How Soon Is Now? (Single Edit)",
+"spotify:track:1YrnDTqvcnUKxAIeXyaEmU"
+],
+[
 "2026-11-25T10:04|Lydmor & Bon Homme|Dream Of Fire",
 "spotify:track:72PNVrCqm2SjdaCAXznZI5"
+],
+[
+"2026-11-25T09:53|Rio Reiser|Für immer und dich",
+"spotify:track:1HeMFHVSCBCB2YHQWZjfMo"
+],
+[
+"2026-11-25T09:48|B O D I E S feat. Kat Frankie|The Dream",
+"spotify:track:6yXr7ficDnBqxEDiZaY89D"
+],
+[
+"2026-11-25T09:44|Johnny Cash|One",
+"spotify:track:1sueD22EyCamMjdQu9Kuo3"
+],
+[
+"2026-11-25T09:27|Lump|Animal (Radio Edit)",
+"spotify:track:1cRvKWI5fSg25f4LUZQLXL"
+],
+[
+"2026-11-25T09:18|The Vaccines|Minimal Affection",
+"spotify:track:5MoEjHgtxcUk3UlpCQM6zl"
 ],
 [
 "2026-11-25T09:13|Anderson .Paak & Cordae|A Good Day",
@@ -3689,6 +3745,24 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-11-25T11:43|The Drums feat. Mareux|It Didn't Matter",
+"t": "2026-11-25T11:43:00+01:00",
+"artist": "The Drums feat. Mareux",
+"title": "It Didn't Matter"
+},
+{
+"id": "2026-11-25T11:38|Todd Rundgren|Hello It's Me",
+"t": "2026-11-25T11:38:00+01:00",
+"artist": "Todd Rundgren",
+"title": "Hello It's Me"
+},
+{
+"id": "2026-11-25T11:35|Hundreds|Song For A Sailor",
+"t": "2026-11-25T11:35:00+01:00",
+"artist": "Hundreds",
+"title": "Song For A Sailor"
+},
 {
 "id": "2026-11-25T11:31|Sophia Kennedy|Schenke mir ein",
 "t": "2026-11-25T11:31:00+01:00",
@@ -9052,24 +9126,6 @@
 "t": "2026-11-18T11:51:00+01:00",
 "artist": "The Avalanches feat. Karen O",
 "title": "Blue Shadows"
-},
-{
-"id": "2026-11-18T11:47|Gabriels|Break It",
-"t": "2026-11-18T11:47:00+01:00",
-"artist": "Gabriels",
-"title": "Break It"
-},
-{
-"id": "2026-11-18T11:43|Bobby Womack|Please Forgive My Heart",
-"t": "2026-11-18T11:43:00+01:00",
-"artist": "Bobby Womack",
-"title": "Please Forgive My Heart"
-},
-{
-"id": "2026-11-18T11:39|Keane|Is It Any Wonder",
-"t": "2026-11-18T11:39:00+01:00",
-"artist": "Keane",
-"title": "Is It Any Wonder"
 }
 ]
 }
