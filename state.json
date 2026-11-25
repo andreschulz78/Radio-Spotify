@@ -1,9 +1,9 @@
 {
-"updated": "2026-11-25T12:00:00.821051+01:00",
+"updated": "2026-11-25T12:12:00.821382+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
-"synced": "2026-11-25T11:56:00.820943+01:00",
+"synced": "2026-11-25T12:12:00.821382+01:00",
 "pruned": "2026-11-25",
 "calls": {
 "2026-11-18": 180,
@@ -13,12 +13,20 @@
 "2026-11-22": 104,
 "2026-11-23": 155,
 "2026-11-24": 144,
-"2026-11-25": 63
+"2026-11-25": 67
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAkNJwXorezUmE19bEr6rPb7vjfKRkp",
+"snapshot": "AAAkNb/z2W4RHAmqLsnmam/BpMaufn6S",
 "playlist": [
+[
+"2026-11-25T12:06|Red Hot Chili Peppers|Dark Necessities",
+"spotify:track:1cjiLJacTKtJbdCtMk1XeV"
+],
+[
+"2026-11-25T11:57|Coldcut x On-U Sound feat. Ce'cile, Toddla T|Make Up Your Mind",
+"spotify:track:0ucZM2up8gdc82vFDdatZu"
+],
 [
 "2026-11-25T11:52|JGrrey feat. Bel Cobain|Take My Hand",
 "spotify:track:0i4SCqKHjbBrPjUX4RPRq3"
@@ -3765,6 +3773,18 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-11-25T12:06|Red Hot Chili Peppers|Dark Necessities",
+"t": "2026-11-25T12:06:00+01:00",
+"artist": "Red Hot Chili Peppers",
+"title": "Dark Necessities"
+},
+{
+"id": "2026-11-25T11:57|Coldcut x On-U Sound feat. Ce'cile, Toddla T|Make Up Your Mind",
+"t": "2026-11-25T11:57:00+01:00",
+"artist": "Coldcut x On-U Sound feat. Ce'cile, Toddla T",
+"title": "Make Up Your Mind"
+},
 {
 "id": "2026-11-25T11:52|JGrrey feat. Bel Cobain|Take My Hand",
 "t": "2026-11-25T11:52:00+01:00",
@@ -9128,18 +9148,6 @@
 "t": "2026-11-18T12:16:00+01:00",
 "artist": "Primal Scream",
 "title": "Movin' On Up"
-},
-{
-"id": "2026-11-18T12:10|Natalie Bergmann|White Oak (Kosta G. Remix)",
-"t": "2026-11-18T12:10:00+01:00",
-"artist": "Natalie Bergmann",
-"title": "White Oak (Kosta G. Remix)"
-},
-{
-"id": "2026-11-18T12:06|Oliver Koletzki & Fran|Hypnotized",
-"t": "2026-11-18T12:06:00+01:00",
-"artist": "Oliver Koletzki & Fran",
-"title": "Hypnotized"
 }
 ]
 }
