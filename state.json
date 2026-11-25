@@ -1,9 +1,9 @@
 {
-"updated": "2026-11-25T06:57:22.483975+01:00",
+"updated": "2026-11-25T07:09:22.484337+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
-"synced": "2026-11-25T06:49:22.483741+01:00",
+"synced": "2026-11-25T07:05:22.484210+01:00",
 "pruned": "2026-11-25",
 "calls": {
 "2026-11-18": 180,
@@ -13,12 +13,24 @@
 "2026-11-22": 104,
 "2026-11-23": 155,
 "2026-11-24": 144,
-"2026-11-25": 20
+"2026-11-25": 21
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAkJpbQYWxOo/1Njf2WYqemGzx9QOgO",
+"snapshot": "AAAkJ4mhCHV4G9A0ES87zXKalBEy0e50",
 "playlist": [
+[
+"2026-11-25T06:56|Sam Burton|I'm A Stranger",
+"spotify:track:4hAYraVhSzgMTdvftCcqKo"
+],
+[
+"2026-11-25T06:50|ÄTNA|Hiatus",
+"spotify:track:6mAJTxk3J3ifwnCKKjKBMK"
+],
+[
+"2026-11-25T06:47|Keshavara|Oracular",
+"spotify:track:41sGSIiPi1QAYaL6nUWSDg"
+],
 [
 "2026-11-25T06:38|Die Toten Hosen mit Vicky Leandros|Ich liebe das Leben",
 "spotify:track:64CfepZg5obiuxnRfDCkAd"
@@ -3589,6 +3601,12 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-11-25T06:56|Sam Burton|I'm A Stranger",
+"t": "2026-11-25T06:56:00+01:00",
+"artist": "Sam Burton",
+"title": "I'm A Stranger"
+},
 {
 "id": "2026-11-25T06:50|ÄTNA|Hiatus",
 "t": "2026-11-25T06:50:00+01:00",
@@ -8964,12 +8982,6 @@
 "t": "2026-11-18T07:12:00+01:00",
 "artist": "Tikhet",
 "title": "Burndowner"
-},
-{
-"id": "2026-11-18T07:06|Linka Moja|Men R Dogs",
-"t": "2026-11-18T07:06:00+01:00",
-"artist": "Linka Moja",
-"title": "Men R Dogs"
 }
 ]
 }
