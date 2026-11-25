@@ -1,9 +1,9 @@
 {
-"updated": "2026-11-25T15:00:00.826674+01:00",
+"updated": "2026-11-25T15:12:00.827014+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
-"synced": "2026-11-25T14:52:00.826438+01:00",
+"synced": "2026-11-25T15:08:00.826890+01:00",
 "pruned": "2026-11-25",
 "calls": {
 "2026-11-18": 180,
@@ -13,12 +13,24 @@
 "2026-11-22": 104,
 "2026-11-23": 155,
 "2026-11-24": 144,
-"2026-11-25": 100
+"2026-11-25": 103
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAkQp7tw/P3KA4DEKrMgtBWmOlN0DOg",
+"snapshot": "AAAkQ4iYVNX9B+ottp1lxTuX+8vCCj8z",
 "playlist": [
+[
+"2026-11-25T14:57|Niconé feat. Abby|Still Young",
+"spotify:track:2biysQrNkyquDfksiV26uC"
+],
+[
+"2026-11-25T14:51|EMF|Unbelievable",
+"spotify:track:5VYTKiOnHw4iTrB9pG3yum"
+],
+[
+"2026-11-25T14:49|dEUS|Constant Now",
+"spotify:track:4Fosen0PdCnYGV9Cp8hkfc"
+],
 [
 "2026-11-25T14:43|Meshell Ndegeocello feat. Cat Power|Don’t You Want Me",
 "spotify:track:5sbCqST9M4Q1sRSJM6L6oT"
@@ -3889,6 +3901,18 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-11-25T15:05|Die Ärzte|Waldspaziergang mit Folgen",
+"t": "2026-11-25T15:05:00+01:00",
+"artist": "Die Ärzte",
+"title": "Waldspaziergang mit Folgen"
+},
+{
+"id": "2026-11-25T14:57|Niconé feat. Abby|Still Young",
+"t": "2026-11-25T14:57:00+01:00",
+"artist": "Niconé feat. Abby",
+"title": "Still Young"
+},
 {
 "id": "2026-11-25T14:51|EMF|Unbelievable",
 "t": "2026-11-25T14:51:00+01:00",
@@ -9246,18 +9270,6 @@
 "t": "2026-11-18T15:18:00+01:00",
 "artist": "Faithless",
 "title": "I Need Someone (Edit)"
-},
-{
-"id": "2026-11-18T15:09|Kaktus Einarsson feat. John Grant|Follow",
-"t": "2026-11-18T15:09:00+01:00",
-"artist": "Kaktus Einarsson feat. John Grant",
-"title": "Follow"
-},
-{
-"id": "2026-11-18T15:06|Editors|Ocean Of Night",
-"t": "2026-11-18T15:06:00+01:00",
-"artist": "Editors",
-"title": "Ocean Of Night"
 }
 ]
 }
