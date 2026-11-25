@@ -1,9 +1,9 @@
 {
-"updated": "2026-11-25T16:36:00.829621+01:00",
+"updated": "2026-11-25T17:00:00.830308+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
-"synced": "2026-11-25T16:28:00.829414+01:00",
+"synced": "2026-11-25T17:00:00.830308+01:00",
 "pruned": "2026-11-25",
 "calls": {
 "2026-11-18": 180,
@@ -13,12 +13,28 @@
 "2026-11-22": 104,
 "2026-11-23": 155,
 "2026-11-24": 144,
-"2026-11-25": 111
+"2026-11-25": 116
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAkSGbnY8NNQL1Zo8AxNFEj7wDPve9t",
+"snapshot": "AAAkSgXwaxJXTC9SpK3hs1SVTaoaDlLi",
 "playlist": [
+[
+"2026-11-25T16:47|Phillip Boa and The Voodooclub|Cruising",
+"spotify:track:0V8l2AZJPHSEDg5PlbJaUj"
+],
+[
+"2026-11-25T16:44|Raphael Saadiq|Good Man",
+"spotify:track:53t0aD0Suwofba0q4aY0B3"
+],
+[
+"2026-11-25T16:34|Dire Straits|Sultans Of Swing",
+"spotify:track:37Tmv4NnfQeb0ZgUC4fOJj"
+],
+[
+"2026-11-25T16:26|Claptone feat. Zola Blood|Birdsong",
+"spotify:track:7djWhNhXS4KhIi4DKA113M"
+],
 [
 "2026-11-25T16:21|Cage The Elephant|Skin And Bones (2020 Mix)",
 "spotify:track:6ubPFMzlIg73d1jzzWcC8B"
@@ -3953,6 +3969,24 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-11-25T16:47|Phillip Boa and The Voodooclub|Cruising",
+"t": "2026-11-25T16:47:00+01:00",
+"artist": "Phillip Boa and The Voodooclub",
+"title": "Cruising"
+},
+{
+"id": "2026-11-25T16:44|Raphael Saadiq|Good Man",
+"t": "2026-11-25T16:44:00+01:00",
+"artist": "Raphael Saadiq",
+"title": "Good Man"
+},
+{
+"id": "2026-11-25T16:34|Dire Straits|Sultans Of Swing",
+"t": "2026-11-25T16:34:00+01:00",
+"artist": "Dire Straits",
+"title": "Sultans Of Swing"
+},
 {
 "id": "2026-11-25T16:26|Claptone feat. Zola Blood|Birdsong",
 "t": "2026-11-25T16:26:00+01:00",
@@ -9316,30 +9350,6 @@
 "t": "2026-11-18T17:06:00+01:00",
 "artist": "The Chemical Brothers & Beck",
 "title": "Wide Open"
-},
-{
-"id": "2026-11-18T16:58|Aurora|All My Demons Greeting Me As A Friend",
-"t": "2026-11-18T16:58:00+01:00",
-"artist": "Aurora",
-"title": "All My Demons Greeting Me As A Friend"
-},
-{
-"id": "2026-11-18T16:51|Leron Thomas|Don't You Know",
-"t": "2026-11-18T16:51:00+01:00",
-"artist": "Leron Thomas",
-"title": "Don't You Know"
-},
-{
-"id": "2026-11-18T16:48|Kavinsky feat. Lovefoxxx|Nightcall",
-"t": "2026-11-18T16:48:00+01:00",
-"artist": "Kavinsky feat. Lovefoxxx",
-"title": "Nightcall"
-},
-{
-"id": "2026-11-18T16:39|Heather Nova|Walk This World",
-"t": "2026-11-18T16:39:00+01:00",
-"artist": "Heather Nova",
-"title": "Walk This World"
 }
 ]
 }
