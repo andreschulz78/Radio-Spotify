@@ -1,9 +1,9 @@
 {
-"updated": "2026-11-25T21:19:41.429905+01:00",
+"updated": "2026-11-25T21:31:41.430254+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
-"synced": "2026-11-25T21:07:41.429566+01:00",
+"synced": "2026-11-25T21:23:41.430041+01:00",
 "pruned": "2026-11-25",
 "calls": {
 "2026-11-18": 180,
@@ -13,11 +13,11 @@
 "2026-11-22": 104,
 "2026-11-23": 155,
 "2026-11-24": 144,
-"2026-11-25": 129
+"2026-11-25": 138
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAkS8e8CmsG9F8rghT5MVGrqt6mpA1/",
+"snapshot": "AAAkUpthPFP1cMrF5cLj7Qf5LOUsakdE",
 "playlist": [
 [
 "2026-11-25T20:52|A.G. Sully|Psyche",
@@ -52,12 +52,24 @@
 "spotify:track:3gTFvJDumrDyWrlrIYcxGs"
 ],
 [
+"2026-11-25T19:31|Röyksopp|Here She Comes Again",
+"spotify:track:74yc92Sz8uASKnWdLmls6w"
+],
+[
 "2026-11-25T19:28|Beck|It Ends Right Here",
 "spotify:track:3PmyDf7Zu4vveCnayueVYX"
 ],
 [
+"2026-11-25T19:25|Delilah Holliday|Long Time Coming",
+"spotify:track:4i3XQsIWvJ9uLJaz7W26PI"
+],
+[
 "2026-11-25T19:06|Django Django|Cameos",
 "spotify:track:6q1og9CkTnFTTYqOSN9ed3"
+],
+[
+"2026-11-25T18:57|Maya Jane Coles feat. Claudia Kane|Run To You",
+"spotify:track:4t5VKxcXUwJ9cPLUIT2By2"
 ],
 [
 "2026-11-25T18:50|Apparat|Little Feet (Radio Edit)",
@@ -68,8 +80,20 @@
 "spotify:track:2PJfN3cFFzfJu78cI5B2Si"
 ],
 [
+"2026-11-25T18:43|John K. Samson|Postdoc Blues",
+"spotify:track:5l1AMUJEA43GYqxpfTyhoT"
+],
+[
 "2026-11-25T18:39|Flora Hibberd|Bowling Ball",
 "spotify:track:2Bqy2DIYw0DXkZj8gHTg2p"
+],
+[
+"2026-11-25T18:34|Prince Buster|Whine & Grine",
+"spotify:track:78VVLciDsGZKw5m1OtPDrA"
+],
+[
+"2026-11-25T18:25|Death Cab For Cutie|Stay Young, Go Dancing",
+"spotify:track:0IdSLM492Hmt6jn3agLJis"
 ],
 [
 "2026-11-25T18:18|Arlo Parks|Heaven",
@@ -84,12 +108,32 @@
 "spotify:track:3G1hTUddM2diIyYA0yy9kS"
 ],
 [
+"2026-11-25T17:55|The Style Council featuring Tracey Thor|The Paris Match",
+"spotify:track:7aqpQ5B6SJtcpfFKoF6T0W"
+],
+[
+"2026-11-25T17:48|Paul Simon|Graceland",
+"spotify:track:6AHP18ssSnTqnO1W5vYx7L"
+],
+[
 "2026-11-25T17:44|Kelela|the bridge (feat. PinkPantheress)",
 "spotify:track:4Og22Djtd18AVqNgijpLsX"
 ],
 [
 "2026-11-25T17:37|Blonde Redhead|Sit Down For Dinner, Pt. 2",
 "spotify:track:6C393MXzBetRIrLN3CqgqK"
+],
+[
+"2026-11-25T17:33|The Last Shadow Puppets|Aviation",
+"spotify:track:2cop62KNgi55QqIozb5bMf"
+],
+[
+"2026-11-25T17:25|Wir sind Helden|Denkmal",
+"spotify:track:1j9kF0AsbFV7B25Lsw7vV8"
+],
+[
+"2026-11-25T17:19|Erykah Badu|Phone Down",
+"spotify:track:3aapF0aOexc3GMvVuu2Wdw"
 ],
 [
 "2026-11-25T17:15|Bleachers|Blood Brothers",
