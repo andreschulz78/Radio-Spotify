@@ -1,9 +1,9 @@
 {
-"updated": "2026-11-25T06:21:22.482893+01:00",
+"updated": "2026-11-25T06:33:22.483241+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
-"synced": "2026-11-25T06:17:22.482759+01:00",
+"synced": "2026-11-25T06:33:22.483241+01:00",
 "pruned": "2026-11-25",
 "calls": {
 "2026-11-18": 180,
@@ -13,12 +13,24 @@
 "2026-11-22": 104,
 "2026-11-23": 155,
 "2026-11-24": 144,
-"2026-11-25": 11
+"2026-11-25": 13
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAkILUq0TQqu7yYrhyzUVL8zHSBYm8j",
+"snapshot": "AAAkIl4P4GVsvDJaRppXP/PRp8Zn1Kyh",
 "playlist": [
+[
+"2026-11-25T06:25|Kaktus Einarsson feat. John Grant|Follow",
+"spotify:track:0bbPqdrMN94XmIlBQS21B3"
+],
+[
+"2026-11-25T06:21|Lola Young|From Down Here (Radio Edit)",
+"spotify:track:7Hg7l5aOygIHuaNDVFp3ox"
+],
+[
+"2026-11-25T06:15|Noel Gallagher's High Flying Birds|AKA... What A Life",
+"spotify:track:3v4My1UDxIBWVtJiajPTsJ"
+],
 [
 "2026-11-25T06:10|Aurora|All My Demons Greeting Me As A Friend",
 "spotify:track:5O1tikYb6HKrP5cxSQv0iV"
@@ -3512,10 +3524,6 @@
 "spotify:track:6cAbIQ5tachruXGBnXNuQ1"
 ],
 [
-"2026-11-18T06:33|DJ Seinfeld feat. TS Graye|U Can't Come Home (Radio Edit)",
-"spotify:track:6cB7xUxRQgx1k9WwvRNoPr"
-],
-[
 "2026-11-18T06:23|Madness|Bullingdon Boys",
 "spotify:track:6NgUbs4JTjq465CUbG7yag"
 ],
@@ -3577,6 +3585,18 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-11-25T06:25|Kaktus Einarsson feat. John Grant|Follow",
+"t": "2026-11-25T06:25:00+01:00",
+"artist": "Kaktus Einarsson feat. John Grant",
+"title": "Follow"
+},
+{
+"id": "2026-11-25T06:21|Lola Young|From Down Here (Radio Edit)",
+"t": "2026-11-25T06:21:00+01:00",
+"artist": "Lola Young",
+"title": "From Down Here (Radio Edit)"
+},
 {
 "id": "2026-11-25T06:15|Noel Gallagher's High Flying Birds|AKA... What A Life",
 "t": "2026-11-25T06:15:00+01:00",
@@ -8946,18 +8966,6 @@
 "t": "2026-11-18T06:42:00+01:00",
 "artist": "Blonde Redhead feat. David Sylvian",
 "title": "Messenger"
-},
-{
-"id": "2026-11-18T06:33|DJ Seinfeld feat. TS Graye|U Can't Come Home (Radio Edit)",
-"t": "2026-11-18T06:33:00+01:00",
-"artist": "DJ Seinfeld feat. TS Graye",
-"title": "U Can't Come Home (Radio Edit)"
-},
-{
-"id": "2026-11-18T06:23|Madness|Bullingdon Boys",
-"t": "2026-11-18T06:23:00+01:00",
-"artist": "Madness",
-"title": "Bullingdon Boys"
 }
 ]
 }
