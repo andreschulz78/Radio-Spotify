@@ -1,9 +1,9 @@
 {
-"updated": "2026-11-25T07:33:22.485024+01:00",
+"updated": "2026-11-25T07:45:22.485390+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
-"synced": "2026-11-25T07:21:22.484685+01:00",
+"synced": "2026-11-25T07:37:22.485133+01:00",
 "pruned": "2026-11-25",
 "calls": {
 "2026-11-18": 180,
@@ -13,12 +13,20 @@
 "2026-11-22": 104,
 "2026-11-23": 155,
 "2026-11-24": 144,
-"2026-11-25": 25
+"2026-11-25": 27
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAkKB104fBSrSPLhyVLRg4Xk3pfhR/d",
+"snapshot": "AAAkKSAXhrqhs0caNobSwhV4P+HYwpCU",
 "playlist": [
+[
+"2026-11-25T07:25|Gorillaz feat. Bizarrap, Kara Jackson and Anoushka Shankar|Orange County",
+"spotify:track:5l4Gq3UC0dHKSExIf5xD9N"
+],
+[
+"2026-11-25T07:18|Elvis Costello|Oliver's Army",
+"spotify:track:1fK4o91ATUTpvBCOZ2GKDh"
+],
 [
 "2026-11-25T07:13|The Big Moon|F.O.R.E.V.E.R",
 "spotify:track:0UaPOdi1O83vr1oTXaGqgx"
@@ -3609,6 +3617,18 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-11-25T07:42|Bluestaeb|Rush (feat. Rayana Jay, Ric Wilson, Kamal Wilson)",
+"t": "2026-11-25T07:42:00+01:00",
+"artist": "Bluestaeb",
+"title": "Rush (feat. Rayana Jay, Ric Wilson, Kamal Wilson)"
+},
+{
+"id": "2026-11-25T07:33|Benjamin Clementine|In Fact You Know You Gotto Go",
+"t": "2026-11-25T07:33:00+01:00",
+"artist": "Benjamin Clementine",
+"title": "In Fact You Know You Gotto Go"
+},
 {
 "id": "2026-11-25T07:25|Gorillaz feat. Bizarrap, Kara Jackson and Anoushka Shankar|Orange County",
 "t": "2026-11-25T07:25:00+01:00",
@@ -8984,18 +9004,6 @@
 "t": "2026-11-18T07:48:00+01:00",
 "artist": "US3",
 "title": "Cantaloop"
-},
-{
-"id": "2026-11-18T07:40|Wallners|Movie Stars",
-"t": "2026-11-18T07:40:00+01:00",
-"artist": "Wallners",
-"title": "Movie Stars"
-},
-{
-"id": "2026-11-18T07:34|49th & Main|Insomnia",
-"t": "2026-11-18T07:34:00+01:00",
-"artist": "49th & Main",
-"title": "Insomnia"
 }
 ]
 }
