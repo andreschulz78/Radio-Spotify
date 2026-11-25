@@ -1,9 +1,9 @@
 {
-"updated": "2026-11-25T14:12:00.825245+01:00",
+"updated": "2026-11-25T14:24:00.825569+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
-"synced": "2026-11-25T14:04:00.825043+01:00",
+"synced": "2026-11-25T14:20:00.825458+01:00",
 "pruned": "2026-11-25",
 "calls": {
 "2026-11-18": 180,
@@ -13,12 +13,24 @@
 "2026-11-22": 104,
 "2026-11-23": 155,
 "2026-11-24": 144,
-"2026-11-25": 90
+"2026-11-25": 93
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAkPya0cQUbEcD1xJ/xo/CiX0VGt9zh",
+"snapshot": "AAAkQFfbLOEMeLZJtpUsPPpz33mWCSob",
 "playlist": [
+[
+"2026-11-25T14:12|The National|Anyone's Ghost",
+"spotify:track:6gDxooqoAysQMNMDSXyzvD"
+],
+[
+"2026-11-25T14:10|Fat White Family|Feet",
+"spotify:track:0bDGRgM2M8D1rIjjJKeDnK"
+],
+[
+"2026-11-25T14:06|Ane Brun feat. Röyksopp|Eat The Fruit (Radio Edit)",
+"spotify:track:6QTVocXJIT6QomBx2QuBBm"
+],
 [
 "2026-11-25T13:55|Stereo MC's|Ground Level",
 "spotify:track:1UgsbIteej4QpAcX3aUFeV"
@@ -3853,6 +3865,18 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-11-25T14:12|The National|Anyone's Ghost",
+"t": "2026-11-25T14:12:00+01:00",
+"artist": "The National",
+"title": "Anyone's Ghost"
+},
+{
+"id": "2026-11-25T14:10|Fat White Family|Feet",
+"t": "2026-11-25T14:10:00+01:00",
+"artist": "Fat White Family",
+"title": "Feet"
+},
 {
 "id": "2026-11-25T14:06|Ane Brun feat. Röyksopp|Eat The Fruit (Radio Edit)",
 "t": "2026-11-25T14:06:00+01:00",
@@ -9198,24 +9222,6 @@
 "t": "2026-11-18T14:31:00+01:00",
 "artist": "Mando Diao",
 "title": "Down In The Past (Unplugged)"
-},
-{
-"id": "2026-11-18T14:24|Babyshambles|Dr. No",
-"t": "2026-11-18T14:24:00+01:00",
-"artist": "Babyshambles",
-"title": "Dr. No"
-},
-{
-"id": "2026-11-18T14:22|Dry Cleaning|Gary Ashby",
-"t": "2026-11-18T14:22:00+01:00",
-"artist": "Dry Cleaning",
-"title": "Gary Ashby"
-},
-{
-"id": "2026-11-18T14:18|Morcheeba|Blindfold",
-"t": "2026-11-18T14:18:00+01:00",
-"artist": "Morcheeba",
-"title": "Blindfold"
 }
 ]
 }
