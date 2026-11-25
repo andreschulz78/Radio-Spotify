@@ -1,9 +1,9 @@
 {
-"updated": "2026-11-25T13:12:00.823357+01:00",
+"updated": "2026-11-25T13:24:00.823712+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
-"synced": "2026-11-25T13:00:00.822918+01:00",
+"synced": "2026-11-25T13:16:00.823457+01:00",
 "pruned": "2026-11-25",
 "calls": {
 "2026-11-18": 180,
@@ -13,12 +13,24 @@
 "2026-11-22": 104,
 "2026-11-23": 155,
 "2026-11-24": 144,
-"2026-11-25": 80
+"2026-11-25": 83
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAkOZxI+PBDsnbPTaNmqFwDgtNLDXaD",
+"snapshot": "AAAkO30cZrKjKSseedScUMa8NQsHG5mJ",
 "playlist": [
+[
+"2026-11-25T13:09|Linka Moja|Men R Dogs",
+"spotify:track:7AgfOLYDB7GrgIWg60PBw7"
+],
+[
+"2026-11-25T13:04|Rainbirds|Blueprint (Album Version)",
+"spotify:track:72zOETQxh17gpQbYmEhzTM"
+],
+[
+"2026-11-25T12:54|Dekker|Pick It Up, Put It Back",
+"spotify:track:0LhuToBNSlvYc4IwVJpYWH"
+],
 [
 "2026-11-25T12:49|Father John Misty|The Payoff (Radio Edit)",
 "spotify:track:2WIcSjSoGt78KKBnzViTdC"
@@ -3496,10 +3508,6 @@
 "spotify:track:0FsApA1lcgdcUHFlwEnTfE"
 ],
 [
-"2026-11-18T13:16|The Stone Roses|Fools Gold (Edit)",
-"spotify:track:2mv6GY70UsHiTCGQZ4JfgC"
-],
-[
 "2026-11-18T13:08|Cherry Glazerr|Bad Habit",
 "spotify:track:3O7ij6i8NmdxxmOrpHDVJV"
 ],
@@ -3809,6 +3817,24 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-11-25T13:17|Kadebostany|Mind If I Stay",
+"t": "2026-11-25T13:17:00+01:00",
+"artist": "Kadebostany",
+"title": "Mind If I Stay"
+},
+{
+"id": "2026-11-25T13:14|AGASSI|The Whole Shebang",
+"t": "2026-11-25T13:14:00+01:00",
+"artist": "AGASSI",
+"title": "The Whole Shebang"
+},
+{
+"id": "2026-11-25T13:09|Linka Moja|Men R Dogs",
+"t": "2026-11-25T13:09:00+01:00",
+"artist": "Linka Moja",
+"title": "Men R Dogs"
+},
 {
 "id": "2026-11-25T13:04|Rainbirds|Blueprint (Album Version)",
 "t": "2026-11-25T13:04:00+01:00",
@@ -9160,24 +9186,6 @@
 "t": "2026-11-18T13:28:00+01:00",
 "artist": "Florence + The Machine",
 "title": "Buckle"
-},
-{
-"id": "2026-11-18T13:24|Smidley feat. Lucy Dacus|Capstone",
-"t": "2026-11-18T13:24:00+01:00",
-"artist": "Smidley feat. Lucy Dacus",
-"title": "Capstone"
-},
-{
-"id": "2026-11-18T13:21|Madison McFerrin|(Please Don't) Leave Me Now",
-"t": "2026-11-18T13:21:00+01:00",
-"artist": "Madison McFerrin",
-"title": "(Please Don't) Leave Me Now"
-},
-{
-"id": "2026-11-18T13:16|The Stone Roses|Fools Gold (Edit)",
-"t": "2026-11-18T13:16:00+01:00",
-"artist": "The Stone Roses",
-"title": "Fools Gold (Edit)"
 }
 ]
 }
