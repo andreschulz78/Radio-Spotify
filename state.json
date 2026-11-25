@@ -1,9 +1,9 @@
 {
-"updated": "2026-11-25T14:00:00.824929+01:00",
+"updated": "2026-11-25T14:12:00.825245+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
-"synced": "2026-11-25T13:48:00.824492+01:00",
+"synced": "2026-11-25T14:04:00.825043+01:00",
 "pruned": "2026-11-25",
 "calls": {
 "2026-11-18": 180,
@@ -13,12 +13,20 @@
 "2026-11-22": 104,
 "2026-11-23": 155,
 "2026-11-24": 144,
-"2026-11-25": 88
+"2026-11-25": 90
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAkPuffx3Q/Kgyy9xDtxpMrNhHEOofL",
+"snapshot": "AAAkPya0cQUbEcD1xJ/xo/CiX0VGt9zh",
 "playlist": [
+[
+"2026-11-25T13:55|Stereo MC's|Ground Level",
+"spotify:track:1UgsbIteej4QpAcX3aUFeV"
+],
+[
+"2026-11-25T13:48|Khruangbin|Time (You And I)",
+"spotify:track:1y9hFN1CsG28HXYg4Tn5k9"
+],
 [
 "2026-11-25T13:43|Nichtseattle|Ich mit Brille",
 "spotify:track:1C0Lpji3kKe7rZie1LC4bx"
@@ -3845,6 +3853,18 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-11-25T14:06|Ane Brun feat. Röyksopp|Eat The Fruit (Radio Edit)",
+"t": "2026-11-25T14:06:00+01:00",
+"artist": "Ane Brun feat. Röyksopp",
+"title": "Eat The Fruit (Radio Edit)"
+},
+{
+"id": "2026-11-25T13:55|Stereo MC's|Ground Level",
+"t": "2026-11-25T13:55:00+01:00",
+"artist": "Stereo MC's",
+"title": "Ground Level"
+},
 {
 "id": "2026-11-25T13:48|Khruangbin|Time (You And I)",
 "t": "2026-11-25T13:48:00+01:00",
@@ -9196,18 +9216,6 @@
 "t": "2026-11-18T14:18:00+01:00",
 "artist": "Morcheeba",
 "title": "Blindfold"
-},
-{
-"id": "2026-11-18T14:10|Django Django|Cameos",
-"t": "2026-11-18T14:10:00+01:00",
-"artist": "Django Django",
-"title": "Cameos"
-},
-{
-"id": "2026-11-18T14:05|Jamiroquai|Shake It On",
-"t": "2026-11-18T14:05:00+01:00",
-"artist": "Jamiroquai",
-"title": "Shake It On"
 }
 ]
 }
