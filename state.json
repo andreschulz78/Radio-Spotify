@@ -1,9 +1,9 @@
 {
-"updated": "2026-11-25T14:24:00.825569+01:00",
+"updated": "2026-11-25T14:36:00.825949+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
-"synced": "2026-11-25T14:20:00.825458+01:00",
+"synced": "2026-11-25T14:36:00.825949+01:00",
 "pruned": "2026-11-25",
 "calls": {
 "2026-11-18": 180,
@@ -13,12 +13,28 @@
 "2026-11-22": 104,
 "2026-11-23": 155,
 "2026-11-24": 144,
-"2026-11-25": 93
+"2026-11-25": 96
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAkQFfbLOEMeLZJtpUsPPpz33mWCSob",
+"snapshot": "AAAkQSTZDuJlvaoXtAmM44/Yd7dWaDqn",
 "playlist": [
+[
+"2026-11-25T14:32|Donkey Kid|Goldmine",
+"spotify:track:69FHTmDAbvdCOlRqV49R3L"
+],
+[
+"2026-11-25T14:29|Natalie Bergmann|White Oak (Kosta G. Remix)",
+"spotify:track:18PftHVAUSO5vTwdeRa7Lv"
+],
+[
+"2026-11-25T14:25|Dream Boat|Real!",
+"spotify:track:1yxpRDrcK5ExwNiThPa9Uh"
+],
+[
+"2026-11-25T14:21|Laura Marling|Gurdjieff's Daughter",
+"spotify:track:05GSDktyjmGl4j4sJoHzcq"
+],
 [
 "2026-11-25T14:12|The National|Anyone's Ghost",
 "spotify:track:6gDxooqoAysQMNMDSXyzvD"
@@ -3865,6 +3881,30 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-11-25T14:32|Donkey Kid|Goldmine",
+"t": "2026-11-25T14:32:00+01:00",
+"artist": "Donkey Kid",
+"title": "Goldmine"
+},
+{
+"id": "2026-11-25T14:29|Natalie Bergmann|White Oak (Kosta G. Remix)",
+"t": "2026-11-25T14:29:00+01:00",
+"artist": "Natalie Bergmann",
+"title": "White Oak (Kosta G. Remix)"
+},
+{
+"id": "2026-11-25T14:25|Dream Boat|Real!",
+"t": "2026-11-25T14:25:00+01:00",
+"artist": "Dream Boat",
+"title": "Real!"
+},
+{
+"id": "2026-11-25T14:21|Laura Marling|Gurdjieff's Daughter",
+"t": "2026-11-25T14:21:00+01:00",
+"artist": "Laura Marling",
+"title": "Gurdjieff's Daughter"
+},
 {
 "id": "2026-11-25T14:12|The National|Anyone's Ghost",
 "t": "2026-11-25T14:12:00+01:00",
@@ -9210,18 +9250,6 @@
 "t": "2026-11-18T14:44:00+01:00",
 "artist": "Jules Ahoi",
 "title": "Magnolia (Radio Edit)"
-},
-{
-"id": "2026-11-18T14:35|Nichtseattle|Ich mit Brille",
-"t": "2026-11-18T14:35:00+01:00",
-"artist": "Nichtseattle",
-"title": "Ich mit Brille"
-},
-{
-"id": "2026-11-18T14:31|Mando Diao|Down In The Past (Unplugged)",
-"t": "2026-11-18T14:31:00+01:00",
-"artist": "Mando Diao",
-"title": "Down In The Past (Unplugged)"
 }
 ]
 }
