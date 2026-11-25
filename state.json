@@ -1,9 +1,9 @@
 {
-"updated": "2026-11-25T06:45:22.483616+01:00",
+"updated": "2026-11-25T06:57:22.483975+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
-"synced": "2026-11-25T06:33:22.483241+01:00",
+"synced": "2026-11-25T06:49:22.483741+01:00",
 "pruned": "2026-11-25",
 "calls": {
 "2026-11-18": 180,
@@ -13,12 +13,20 @@
 "2026-11-22": 104,
 "2026-11-23": 155,
 "2026-11-24": 144,
-"2026-11-25": 15
+"2026-11-25": 20
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAkIl4P4GVsvDJaRppXP/PRp8Zn1Kyh",
+"snapshot": "AAAkJpbQYWxOo/1Njf2WYqemGzx9QOgO",
 "playlist": [
+[
+"2026-11-25T06:38|Die Toten Hosen mit Vicky Leandros|Ich liebe das Leben",
+"spotify:track:64CfepZg5obiuxnRfDCkAd"
+],
+[
+"2026-11-25T06:33|Diamond Nights|The Girl's Attractive",
+"spotify:track:58bY8oM5FvhvwTe8sib7IB"
+],
 [
 "2026-11-25T06:25|Kaktus Einarsson feat. John Grant|Follow",
 "spotify:track:0bbPqdrMN94XmIlBQS21B3"
@@ -3512,10 +3520,6 @@
 "spotify:track:1W7xGjZUgJ9am0QwO1MDVa"
 ],
 [
-"2026-11-18T06:49|Hot Chip|Random Violence (Radio Edit)",
-"spotify:track:0T3vTM8KUAwGMukdAhNVj2"
-],
-[
 "2026-11-18T06:45|Alison Goldfrapp|So hard so hot - Radio Edit",
 "spotify:track:4duew98Np4voE0rFdSdrfG"
 ],
@@ -3585,6 +3589,18 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-11-25T06:50|ÄTNA|Hiatus",
+"t": "2026-11-25T06:50:00+01:00",
+"artist": "ÄTNA",
+"title": "Hiatus"
+},
+{
+"id": "2026-11-25T06:47|Keshavara|Oracular",
+"t": "2026-11-25T06:47:00+01:00",
+"artist": "Keshavara",
+"title": "Oracular"
+},
 {
 "id": "2026-11-25T06:38|Die Toten Hosen mit Vicky Leandros|Ich liebe das Leben",
 "t": "2026-11-25T06:38:00+01:00",
@@ -8954,18 +8970,6 @@
 "t": "2026-11-18T07:06:00+01:00",
 "artist": "Linka Moja",
 "title": "Men R Dogs"
-},
-{
-"id": "2026-11-18T06:56|Rialto|Monday Morning 5:19 (Radio Edit)",
-"t": "2026-11-18T06:56:00+01:00",
-"artist": "Rialto",
-"title": "Monday Morning 5:19 (Radio Edit)"
-},
-{
-"id": "2026-11-18T06:49|Hot Chip|Random Violence (Radio Edit)",
-"t": "2026-11-18T06:49:00+01:00",
-"artist": "Hot Chip",
-"title": "Random Violence (Radio Edit)"
 }
 ]
 }
