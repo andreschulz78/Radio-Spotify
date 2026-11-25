@@ -1,9 +1,9 @@
 {
-"updated": "2026-11-25T05:57:22.482119+01:00",
+"updated": "2026-11-25T06:09:22.482512+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
-"synced": "2026-11-25T05:45:22.481763+01:00",
+"synced": "2026-11-25T06:01:22.482246+01:00",
 "pruned": "2026-11-25",
 "calls": {
 "2026-11-18": 180,
@@ -13,12 +13,24 @@
 "2026-11-22": 104,
 "2026-11-23": 155,
 "2026-11-24": 144,
-"2026-11-25": 5
+"2026-11-25": 7
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAkHmuteKLoOmQm7FkqZORbonTMwlRJ",
+"snapshot": "AAAkH31EQcL7lOkJzBKf0BTZi3ymnC9q",
 "playlist": [
+[
+"2026-11-25T05:55|Groove Armada|Just For Tonight",
+"spotify:track:3P884E08aroqcUBo3SpcFX"
+],
+[
+"2026-11-25T05:49|Masha Qrella|Geister",
+"spotify:track:0UhEbIFHOpkUHxvuMW0n5e"
+],
+[
+"2026-11-25T05:45|Seamus Fogarty|Fire (Edit)",
+"spotify:track:383q4d3j4gnvNN6dtlxyvM"
+],
 [
 "2026-11-25T05:39|Odd Beholder|Your Emancipation",
 "spotify:track:1uLBaUVurwbtHnyAlD7ExO"
@@ -3557,6 +3569,12 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-11-25T05:55|Groove Armada|Just For Tonight",
+"t": "2026-11-25T05:55:00+01:00",
+"artist": "Groove Armada",
+"title": "Just For Tonight"
+},
 {
 "id": "2026-11-25T05:49|Masha Qrella|Geister",
 "t": "2026-11-25T05:49:00+01:00",
@@ -8926,12 +8944,6 @@
 "t": "2026-11-18T06:14:00+01:00",
 "artist": "The Duke Spirit",
 "title": "My Sunken Treasure"
-},
-{
-"id": "2026-11-18T06:06|Beth Ditto|In And Out",
-"t": "2026-11-18T06:06:00+01:00",
-"artist": "Beth Ditto",
-"title": "In And Out"
 }
 ]
 }
