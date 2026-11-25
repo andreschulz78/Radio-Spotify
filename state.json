@@ -1,24 +1,55 @@
 {
-"updated": "2026-11-24T20:05:29.179322+01:00",
+"updated": "2026-11-25T02:33:22.476024+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
-"synced": "2026-11-24T19:53:29.179039+01:00",
+"synced": "2026-11-25T02:33:22.476024+01:00",
 "pruned": "2026-11-24",
 "calls": {
-"2026-11-17": 194,
 "2026-11-18": 180,
 "2026-11-19": 164,
 "2026-11-20": 147,
 "2026-11-21": 93,
 "2026-11-22": 104,
 "2026-11-23": 155,
-"2026-11-24": 123
+"2026-11-24": 127
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAkDZSxeV88IMFNaCzkVdJVoSetC3Uw",
+"snapshot": "AAAkDmFMBhfAZ7e/Uf7XhysMpgneUehe",
 "playlist": [
+[
+"2026-11-24T20:53|Zoh Amba|Another Time",
+"spotify:track:77Ukfo8YLUQg17odJF4brC"
+],
+[
+"2026-11-24T20:41|Jamie T|Tallahassee",
+"spotify:track:3Kwdvrz5PTUpAObYKNPlz0"
+],
+[
+"2026-11-24T20:26|UCHE YARA|Hello Hello",
+"spotify:track:3hadpAb0vS5uYSrfidLaDr"
+],
+[
+"2026-11-24T20:22|Asaf Avidan|Lost Horse",
+"spotify:track:6lpM6vQHjCi3LD2UV7BEyE"
+],
+[
+"2026-11-24T20:19|Keshavara|Oracular",
+"spotify:track:41sGSIiPi1QAYaL6nUWSDg"
+],
+[
+"2026-11-24T20:05|Bonobo feat. Joy Crookes|Always on Your Side",
+"spotify:track:6jJTpzMquQLVuUkM2vVEIF"
+],
+[
+"2026-11-24T19:55|Sergio Torales feat. Der Assistent|Veo",
+"spotify:track:6k1tMxv0y7hJJsQMMfnE6p"
+],
+[
+"2026-11-24T19:51|Kings Of Leon|My Whole World",
+"spotify:track:2tfc81XZfVReM0kYQqv7o3"
+],
 [
 "2026-11-24T19:47|The Association|Never my love",
 "spotify:track:32ssNweOtmacNBEC2kHzA8"
@@ -4153,6 +4184,42 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-11-24T20:53|Zoh Amba|Another Time",
+"t": "2026-11-24T20:53:00+01:00",
+"artist": "Zoh Amba",
+"title": "Another Time"
+},
+{
+"id": "2026-11-24T20:41|Jamie T|Tallahassee",
+"t": "2026-11-24T20:41:00+01:00",
+"artist": "Jamie T",
+"title": "Tallahassee"
+},
+{
+"id": "2026-11-24T20:26|UCHE YARA|Hello Hello",
+"t": "2026-11-24T20:26:00+01:00",
+"artist": "UCHE YARA",
+"title": "Hello Hello"
+},
+{
+"id": "2026-11-24T20:22|Asaf Avidan|Lost Horse",
+"t": "2026-11-24T20:22:00+01:00",
+"artist": "Asaf Avidan",
+"title": "Lost Horse"
+},
+{
+"id": "2026-11-24T20:19|Keshavara|Oracular",
+"t": "2026-11-24T20:19:00+01:00",
+"artist": "Keshavara",
+"title": "Oracular"
+},
+{
+"id": "2026-11-24T20:05|Bonobo feat. Joy Crookes|Always on Your Side",
+"t": "2026-11-24T20:05:00+01:00",
+"artist": "Bonobo feat. Joy Crookes",
+"title": "Always on Your Side"
+},
 {
 "id": "2026-11-24T19:55|Sergio Torales feat. Der Assistent|Veo",
 "t": "2026-11-24T19:55:00+01:00",
@@ -9498,168 +9565,6 @@
 "t": "2026-11-18T05:03:00+01:00",
 "artist": "Get Well Soon",
 "title": "Mantra (Edit)"
-},
-{
-"id": "2026-11-17T22:51|Berend|Die Zukunft Wie Sie War",
-"t": "2026-11-17T22:51:00+01:00",
-"artist": "Berend",
-"title": "Die Zukunft Wie Sie War"
-},
-{
-"id": "2026-11-17T22:48|Duilio Radici|Io Per Te",
-"t": "2026-11-17T22:48:00+01:00",
-"artist": "Duilio Radici",
-"title": "Io Per Te"
-},
-{
-"id": "2026-11-17T22:43|Elvio Monti e Mario Molino|For Harpsichord",
-"t": "2026-11-17T22:43:00+01:00",
-"artist": "Elvio Monti e Mario Molino",
-"title": "For Harpsichord"
-},
-{
-"id": "2026-11-17T22:39|Riz Ortolani|L'intoccabile Mr Clif",
-"t": "2026-11-17T22:39:00+01:00",
-"artist": "Riz Ortolani",
-"title": "L'intoccabile Mr Clif"
-},
-{
-"id": "2026-11-17T22:30|Grim104|Haus In Lübars",
-"t": "2026-11-17T22:30:00+01:00",
-"artist": "Grim104",
-"title": "Haus In Lübars"
-},
-{
-"id": "2026-11-17T22:27|Run The Jewels|Ooh la la (mit DJ P)",
-"t": "2026-11-17T22:27:00+01:00",
-"artist": "Run The Jewels",
-"title": "Ooh la la (mit DJ P)"
-},
-{
-"id": "2026-11-17T22:22|Sam Cooke|(Ain’t That) Good News",
-"t": "2026-11-17T22:22:00+01:00",
-"artist": "Sam Cooke",
-"title": "(Ain’t That) Good News"
-},
-{
-"id": "2026-11-17T22:14|Bing Crosby|Do You Hear What I Hear",
-"t": "2026-11-17T22:14:00+01:00",
-"artist": "Bing Crosby",
-"title": "Do You Hear What I Hear"
-},
-{
-"id": "2026-11-17T22:12|The Platters|Sixteen Tons",
-"t": "2026-11-17T22:12:00+01:00",
-"artist": "The Platters",
-"title": "Sixteen Tons"
-},
-{
-"id": "2026-11-17T22:05|Trio Ternura|A Gira",
-"t": "2026-11-17T22:05:00+01:00",
-"artist": "Trio Ternura",
-"title": "A Gira"
-},
-{
-"id": "2026-11-17T21:56|Beck|In the night",
-"t": "2026-11-17T21:56:00+01:00",
-"artist": "Beck",
-"title": "In the night"
-},
-{
-"id": "2026-11-17T21:53|Gotti und Sabrina u.a.|Die Party Suite",
-"t": "2026-11-17T21:53:00+01:00",
-"artist": "Gotti und Sabrina u.a.",
-"title": "Die Party Suite"
-},
-{
-"id": "2026-11-17T21:47|Elton John|It's Me That You Need",
-"t": "2026-11-17T21:47:00+01:00",
-"artist": "Elton John",
-"title": "It's Me That You Need"
-},
-{
-"id": "2026-11-17T21:40|Sven van Thom|Stolz auf mein Land (Live)",
-"t": "2026-11-17T21:40:00+01:00",
-"artist": "Sven van Thom",
-"title": "Stolz auf mein Land (Live)"
-},
-{
-"id": "2026-11-17T21:31|Sergio Mendes (feat. Carlinhos)|Magalenha",
-"t": "2026-11-17T21:31:00+01:00",
-"artist": "Sergio Mendes (feat. Carlinhos)",
-"title": "Magalenha"
-},
-{
-"id": "2026-11-17T21:25|Kris Kristofferson|Casey's Last Ride",
-"t": "2026-11-17T21:25:00+01:00",
-"artist": "Kris Kristofferson",
-"title": "Casey's Last Ride"
-},
-{
-"id": "2026-11-17T21:19|Willy Hagara|Lasst den Weg uns gehen",
-"t": "2026-11-17T21:19:00+01:00",
-"artist": "Willy Hagara",
-"title": "Lasst den Weg uns gehen"
-},
-{
-"id": "2026-11-17T21:05|Public Enemy|Harder Than You Think",
-"t": "2026-11-17T21:05:00+01:00",
-"artist": "Public Enemy",
-"title": "Harder Than You Think"
-},
-{
-"id": "2026-11-17T21:03|Bruno Canfora|Dirty Gang",
-"t": "2026-11-17T21:03:00+01:00",
-"artist": "Bruno Canfora",
-"title": "Dirty Gang"
-},
-{
-"id": "2026-11-17T20:56|The Head And The Heart|Winter Song",
-"t": "2026-11-17T20:56:00+01:00",
-"artist": "The Head And The Heart",
-"title": "Winter Song"
-},
-{
-"id": "2026-11-17T20:51|The War On Drugs|Who's That",
-"t": "2026-11-17T20:51:00+01:00",
-"artist": "The War On Drugs",
-"title": "Who's That"
-},
-{
-"id": "2026-11-17T20:47|Ex:Re|Radio Station",
-"t": "2026-11-17T20:47:00+01:00",
-"artist": "Ex:Re",
-"title": "Radio Station"
-},
-{
-"id": "2026-11-17T20:43|James Vincent McMorrow|Hurricane",
-"t": "2026-11-17T20:43:00+01:00",
-"artist": "James Vincent McMorrow",
-"title": "Hurricane"
-},
-{
-"id": "2026-11-17T20:30|Grace Cummings|I'm Not Crazy",
-"t": "2026-11-17T20:30:00+01:00",
-"artist": "Grace Cummings",
-"title": "I'm Not Crazy"
-},
-{
-"id": "2026-11-17T20:24|PJ Harvey|The Wheel",
-"t": "2026-11-17T20:24:00+01:00",
-"artist": "PJ Harvey",
-"title": "The Wheel"
-},
-{
-"id": "2026-11-17T20:20|Kelela|the bridge (feat. PinkPantheress)",
-"t": "2026-11-17T20:20:00+01:00",
-"artist": "Kelela",
-"title": "the bridge (feat. PinkPantheress)"
-},
-{
-"id": "2026-11-17T20:06|Electric Guest|This Head I Hold",
-"t": "2026-11-17T20:06:00+01:00",
-"artist": "Electric Guest",
-"title": "This Head I Hold"
 }
 ]
 }
