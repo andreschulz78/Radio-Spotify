@@ -1,9 +1,9 @@
 {
-"updated": "2026-11-25T05:09:22.480704+01:00",
+"updated": "2026-11-25T05:21:22.481053+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
-"synced": "2026-11-25T04:01:22.478676+01:00",
+"synced": "2026-11-25T05:13:22.480821+01:00",
 "pruned": "2026-11-25",
 "calls": {
 "2026-11-18": 180,
@@ -12,12 +12,20 @@
 "2026-11-21": 93,
 "2026-11-22": 104,
 "2026-11-23": 155,
-"2026-11-24": 137
+"2026-11-24": 143
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAkF1wdGl9hFl/nHVqNKIpzQjaNgrMS",
+"snapshot": "AAAkHDMY9K1wFDez0Ntd6yzPAc1GvbAg",
 "playlist": [
+[
+"2026-11-25T05:06|Sofie Royer|Cowboy Mouth",
+"spotify:track:7qgYR8fHsHyyS5WKvA9srS"
+],
+[
+"2026-11-25T05:03|Jonathan Jeremiah|Kolkata Bear",
+"spotify:track:6GVyNJOivLDoFeQ6hhttwb"
+],
 [
 "2026-11-24T20:53|Zoh Amba|Another Time",
 "spotify:track:77Ukfo8YLUQg17odJF4brC"
@@ -3511,10 +3519,6 @@
 "spotify:track:7Hg7l5aOygIHuaNDVFp3ox"
 ],
 [
-"2026-11-18T05:13|Bilderbuch|Baby Junkie",
-"spotify:track:1bPs9oNEaAEUYfCL7tH79W"
-],
-[
 "2026-11-18T05:08|Aretha Franklin|Walk On By",
 "spotify:track:4bYc0A3yv4gc0596xuCbPU"
 ],
@@ -3524,6 +3528,30 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-11-25T05:16|Depeche Mode|Personal Jesus",
+"t": "2026-11-25T05:16:00+01:00",
+"artist": "Depeche Mode",
+"title": "Personal Jesus"
+},
+{
+"id": "2026-11-25T05:09|Bonaparte|KiOSKO",
+"t": "2026-11-25T05:09:00+01:00",
+"artist": "Bonaparte",
+"title": "KiOSKO"
+},
+{
+"id": "2026-11-25T05:06|Sofie Royer|Cowboy Mouth",
+"t": "2026-11-25T05:06:00+01:00",
+"artist": "Sofie Royer",
+"title": "Cowboy Mouth"
+},
+{
+"id": "2026-11-25T05:03|Jonathan Jeremiah|Kolkata Bear",
+"t": "2026-11-25T05:03:00+01:00",
+"artist": "Jonathan Jeremiah",
+"title": "Kolkata Bear"
+},
 {
 "id": "2026-11-24T20:53|Zoh Amba|Another Time",
 "t": "2026-11-24T20:53:00+01:00",
@@ -8881,18 +8909,6 @@
 "t": "2026-11-18T05:22:00+01:00",
 "artist": "Boy Harsher",
 "title": "Tough Luck (When You Don't Call)"
-},
-{
-"id": "2026-11-18T05:16|Lola Young|From Down Here (Radio Edit)",
-"t": "2026-11-18T05:16:00+01:00",
-"artist": "Lola Young",
-"title": "From Down Here (Radio Edit)"
-},
-{
-"id": "2026-11-18T05:13|Bilderbuch|Baby Junkie",
-"t": "2026-11-18T05:13:00+01:00",
-"artist": "Bilderbuch",
-"title": "Baby Junkie"
 }
 ]
 }
