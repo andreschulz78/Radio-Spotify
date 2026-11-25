@@ -1,9 +1,9 @@
 {
-"updated": "2026-11-25T06:09:22.482512+01:00",
+"updated": "2026-11-25T06:21:22.482893+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
-"synced": "2026-11-25T06:01:22.482246+01:00",
+"synced": "2026-11-25T06:17:22.482759+01:00",
 "pruned": "2026-11-25",
 "calls": {
 "2026-11-18": 180,
@@ -13,12 +13,20 @@
 "2026-11-22": 104,
 "2026-11-23": 155,
 "2026-11-24": 144,
-"2026-11-25": 7
+"2026-11-25": 11
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAkH31EQcL7lOkJzBKf0BTZi3ymnC9q",
+"snapshot": "AAAkILUq0TQqu7yYrhyzUVL8zHSBYm8j",
 "playlist": [
+[
+"2026-11-25T06:10|Aurora|All My Demons Greeting Me As A Friend",
+"spotify:track:5O1tikYb6HKrP5cxSQv0iV"
+],
+[
+"2026-11-25T06:04|Portugal. The Man|Feel It Still",
+"spotify:track:6QgjcU0zLnzq5OrUoSZ3OK"
+],
 [
 "2026-11-25T05:55|Groove Armada|Just For Tonight",
 "spotify:track:3P884E08aroqcUBo3SpcFX"
@@ -3569,6 +3577,24 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-11-25T06:15|Noel Gallagher's High Flying Birds|AKA... What A Life",
+"t": "2026-11-25T06:15:00+01:00",
+"artist": "Noel Gallagher's High Flying Birds",
+"title": "AKA... What A Life"
+},
+{
+"id": "2026-11-25T06:10|Aurora|All My Demons Greeting Me As A Friend",
+"t": "2026-11-25T06:10:00+01:00",
+"artist": "Aurora",
+"title": "All My Demons Greeting Me As A Friend"
+},
+{
+"id": "2026-11-25T06:04|Portugal. The Man|Feel It Still",
+"t": "2026-11-25T06:04:00+01:00",
+"artist": "Portugal. The Man",
+"title": "Feel It Still"
+},
 {
 "id": "2026-11-25T05:55|Groove Armada|Just For Tonight",
 "t": "2026-11-25T05:55:00+01:00",
@@ -8932,18 +8958,6 @@
 "t": "2026-11-18T06:23:00+01:00",
 "artist": "Madness",
 "title": "Bullingdon Boys"
-},
-{
-"id": "2026-11-18T06:18|Everything But The Girl|Young and Dumb",
-"t": "2026-11-18T06:18:00+01:00",
-"artist": "Everything But The Girl",
-"title": "Young and Dumb"
-},
-{
-"id": "2026-11-18T06:14|The Duke Spirit|My Sunken Treasure",
-"t": "2026-11-18T06:14:00+01:00",
-"artist": "The Duke Spirit",
-"title": "My Sunken Treasure"
 }
 ]
 }
