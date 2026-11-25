@@ -1,9 +1,9 @@
 {
-"updated": "2026-11-25T08:09:22.486118+01:00",
+"updated": "2026-11-25T11:24:00.819901+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
-"synced": "2026-11-25T08:09:22.486118+01:00",
+"synced": "2026-11-25T11:24:00.819901+01:00",
 "pruned": "2026-11-25",
 "calls": {
 "2026-11-18": 180,
@@ -13,12 +13,68 @@
 "2026-11-22": 104,
 "2026-11-23": 155,
 "2026-11-24": 144,
-"2026-11-25": 29
+"2026-11-25": 33
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAkKybwOrWquupB+0UZjU571rRzYZbJ",
+"snapshot": "AAAkLExGW7gku03TY3/aejaa90xa2F2K",
 "playlist": [
+[
+"2026-11-25T11:09|Fontaines D.C.|Marianne",
+"spotify:track:69rHKcrQpYGfToPThOV1UB"
+],
+[
+"2026-11-25T10:55|Cass McCombs|Peace",
+"spotify:track:0HJuwBpU9bpH3Zt5r1PtNS"
+],
+[
+"2026-11-25T10:49|Can|She Brings The Rain",
+"spotify:track:4Ia8JCgnKe6bOcCwK5oQw9"
+],
+[
+"2026-11-25T10:46|Vince Staples|Tulsa, OK",
+"spotify:track:4lyK8sT0dLpxSBv14wtVet"
+],
+[
+"2026-11-25T10:35|Kovacs|My Love",
+"spotify:track:4lKxJDJ5dxXIsoZbNb1zdg"
+],
+[
+"2026-11-25T10:17|The War On Drugs|Who's That",
+"spotify:track:2YPP52aPZiFUxTmbQTUiR6"
+],
+[
+"2026-11-25T10:04|Lydmor & Bon Homme|Dream Of Fire",
+"spotify:track:72PNVrCqm2SjdaCAXznZI5"
+],
+[
+"2026-11-25T09:13|Anderson .Paak & Cordae|A Good Day",
+"spotify:track:4CrnExkcZkg6Aek113hAWl"
+],
+[
+"2026-11-25T09:05|Get Well Soon|Siri, What Ruined The West ?",
+"spotify:track:3XY1xxFHeGHDDt33V6GoE2"
+],
+[
+"2026-11-25T08:49|Everything But The Girl|Young and Dumb",
+"spotify:track:4b3EgGk2hdOQwBHvFQUTmJ"
+],
+[
+"2026-11-25T08:43|DJ Seinfeld feat. TS Graye|U Can't Come Home (Radio Edit)",
+"spotify:track:6cB7xUxRQgx1k9WwvRNoPr"
+],
+[
+"2026-11-25T08:18|Patti Smith|April Fool",
+"spotify:track:7b9FS2uvbKobrnM2RyJDsB"
+],
+[
+"2026-11-25T08:14|Tikhet|Burndowner",
+"spotify:track:76iRkapw7dHIlJhSoy7PCv"
+],
+[
+"2026-11-25T08:05|SBTRKT feat. Toro y Moi|Days Go By (Radio Edit)",
+"spotify:track:0IngWDycujRx7MPYCqImO0"
+],
 [
 "2026-11-25T07:56|Hayley Williams|Simmer",
 "spotify:track:6PfRYKXnJAM0Wpvmh4mHId"
@@ -3633,6 +3689,174 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-11-25T11:09|Fontaines D.C.|Marianne",
+"t": "2026-11-25T11:09:00+01:00",
+"artist": "Fontaines D.C.",
+"title": "Marianne"
+},
+{
+"id": "2026-11-25T11:05|Lessons|Tempest",
+"t": "2026-11-25T11:05:00+01:00",
+"artist": "Lessons",
+"title": "Tempest"
+},
+{
+"id": "2026-11-25T10:55|Cass McCombs|Peace",
+"t": "2026-11-25T10:55:00+01:00",
+"artist": "Cass McCombs",
+"title": "Peace"
+},
+{
+"id": "2026-11-25T10:49|Can|She Brings The Rain",
+"t": "2026-11-25T10:49:00+01:00",
+"artist": "Can",
+"title": "She Brings The Rain"
+},
+{
+"id": "2026-11-25T10:46|Vince Staples|Tulsa, OK",
+"t": "2026-11-25T10:46:00+01:00",
+"artist": "Vince Staples",
+"title": "Tulsa, OK"
+},
+{
+"id": "2026-11-25T10:35|Kovacs|My Love",
+"t": "2026-11-25T10:35:00+01:00",
+"artist": "Kovacs",
+"title": "My Love"
+},
+{
+"id": "2026-11-25T10:32|Skunk Anansie|Hedonism",
+"t": "2026-11-25T10:32:00+01:00",
+"artist": "Skunk Anansie",
+"title": "Hedonism"
+},
+{
+"id": "2026-11-25T10:26|Dan Auerbach|King Of A One Horse Town",
+"t": "2026-11-25T10:26:00+01:00",
+"artist": "Dan Auerbach",
+"title": "King Of A One Horse Town"
+},
+{
+"id": "2026-11-25T10:22|Hachiku|A portrait of the artist as a young woman",
+"t": "2026-11-25T10:22:00+01:00",
+"artist": "Hachiku",
+"title": "A portrait of the artist as a young woman"
+},
+{
+"id": "2026-11-25T10:17|The War On Drugs|Who's That",
+"t": "2026-11-25T10:17:00+01:00",
+"artist": "The War On Drugs",
+"title": "Who's That"
+},
+{
+"id": "2026-11-25T10:08|The Smiths|How Soon Is Now? (Single Edit)",
+"t": "2026-11-25T10:08:00+01:00",
+"artist": "The Smiths",
+"title": "How Soon Is Now? (Single Edit)"
+},
+{
+"id": "2026-11-25T10:04|Lydmor & Bon Homme|Dream Of Fire",
+"t": "2026-11-25T10:04:00+01:00",
+"artist": "Lydmor & Bon Homme",
+"title": "Dream Of Fire"
+},
+{
+"id": "2026-11-25T09:53|Rio Reiser|Für immer und dich",
+"t": "2026-11-25T09:53:00+01:00",
+"artist": "Rio Reiser",
+"title": "Für immer und dich"
+},
+{
+"id": "2026-11-25T09:48|B O D I E S feat. Kat Frankie|The Dream",
+"t": "2026-11-25T09:48:00+01:00",
+"artist": "B O D I E S feat. Kat Frankie",
+"title": "The Dream"
+},
+{
+"id": "2026-11-25T09:44|Johnny Cash|One",
+"t": "2026-11-25T09:44:00+01:00",
+"artist": "Johnny Cash",
+"title": "One"
+},
+{
+"id": "2026-11-25T09:34|Freebass|The God Machine",
+"t": "2026-11-25T09:34:00+01:00",
+"artist": "Freebass",
+"title": "The God Machine"
+},
+{
+"id": "2026-11-25T09:27|Lump|Animal (Radio Edit)",
+"t": "2026-11-25T09:27:00+01:00",
+"artist": "Lump",
+"title": "Animal (Radio Edit)"
+},
+{
+"id": "2026-11-25T09:18|The Vaccines|Minimal Affection",
+"t": "2026-11-25T09:18:00+01:00",
+"artist": "The Vaccines",
+"title": "Minimal Affection"
+},
+{
+"id": "2026-11-25T09:13|Anderson .Paak & Cordae|A Good Day",
+"t": "2026-11-25T09:13:00+01:00",
+"artist": "Anderson .Paak & Cordae",
+"title": "A Good Day"
+},
+{
+"id": "2026-11-25T09:05|Get Well Soon|Siri, What Ruined The West ?",
+"t": "2026-11-25T09:05:00+01:00",
+"artist": "Get Well Soon",
+"title": "Siri, What Ruined The West ?"
+},
+{
+"id": "2026-11-25T08:55|Oliver Koletzki feat. Axel Bosse|U-Bahn",
+"t": "2026-11-25T08:55:00+01:00",
+"artist": "Oliver Koletzki feat. Axel Bosse",
+"title": "U-Bahn"
+},
+{
+"id": "2026-11-25T08:49|Everything But The Girl|Young and Dumb",
+"t": "2026-11-25T08:49:00+01:00",
+"artist": "Everything But The Girl",
+"title": "Young and Dumb"
+},
+{
+"id": "2026-11-25T08:43|DJ Seinfeld feat. TS Graye|U Can't Come Home (Radio Edit)",
+"t": "2026-11-25T08:43:00+01:00",
+"artist": "DJ Seinfeld feat. TS Graye",
+"title": "U Can't Come Home (Radio Edit)"
+},
+{
+"id": "2026-11-25T08:35|The Strokes|Bad Decisions",
+"t": "2026-11-25T08:35:00+01:00",
+"artist": "The Strokes",
+"title": "Bad Decisions"
+},
+{
+"id": "2026-11-25T08:25|Phoenix feat. Ezra Koenig|Tonight (Radio Edit)",
+"t": "2026-11-25T08:25:00+01:00",
+"artist": "Phoenix feat. Ezra Koenig",
+"title": "Tonight (Radio Edit)"
+},
+{
+"id": "2026-11-25T08:18|Patti Smith|April Fool",
+"t": "2026-11-25T08:18:00+01:00",
+"artist": "Patti Smith",
+"title": "April Fool"
+},
+{
+"id": "2026-11-25T08:14|Tikhet|Burndowner",
+"t": "2026-11-25T08:14:00+01:00",
+"artist": "Tikhet",
+"title": "Burndowner"
+},
+{
+"id": "2026-11-25T08:05|SBTRKT feat. Toro y Moi|Days Go By (Radio Edit)",
+"t": "2026-11-25T08:05:00+01:00",
+"artist": "SBTRKT feat. Toro y Moi",
+"title": "Days Go By (Radio Edit)"
+},
 {
 "id": "2026-11-25T07:56|Hayley Williams|Simmer",
 "t": "2026-11-25T07:56:00+01:00",
@@ -8840,180 +9064,6 @@
 "t": "2026-11-18T11:26:00+01:00",
 "artist": "Donkey Kid",
 "title": "Goldmine"
-},
-{
-"id": "2026-11-18T11:23|Sepalot|My Own Way",
-"t": "2026-11-18T11:23:00+01:00",
-"artist": "Sepalot",
-"title": "My Own Way"
-},
-{
-"id": "2026-11-18T11:17|Queen|Bohemian Rhapsody",
-"t": "2026-11-18T11:17:00+01:00",
-"artist": "Queen",
-"title": "Bohemian Rhapsody"
-},
-{
-"id": "2026-11-18T11:07|Overmono feat. Ruthven|Gem Lingo (ovr now)",
-"t": "2026-11-18T11:07:00+01:00",
-"artist": "Overmono feat. Ruthven",
-"title": "Gem Lingo (ovr now)"
-},
-{
-"id": "2026-11-18T10:55|Automatic|Shadowplay",
-"t": "2026-11-18T10:55:00+01:00",
-"artist": "Automatic",
-"title": "Shadowplay"
-},
-{
-"id": "2026-11-18T10:49|MS MR|Hurricane",
-"t": "2026-11-18T10:49:00+01:00",
-"artist": "MS MR",
-"title": "Hurricane"
-},
-{
-"id": "2026-11-18T10:35|Harry Styles|Aperture",
-"t": "2026-11-18T10:35:00+01:00",
-"artist": "Harry Styles",
-"title": "Aperture"
-},
-{
-"id": "2026-11-18T10:31|The Mavericks|Dance The Night Away",
-"t": "2026-11-18T10:31:00+01:00",
-"artist": "The Mavericks",
-"title": "Dance The Night Away"
-},
-{
-"id": "2026-11-18T10:26|L'Impératrice|Me da igual",
-"t": "2026-11-18T10:26:00+01:00",
-"artist": "L'Impératrice",
-"title": "Me da igual"
-},
-{
-"id": "2026-11-18T10:23|The Clash|This Is England",
-"t": "2026-11-18T10:23:00+01:00",
-"artist": "The Clash",
-"title": "This Is England"
-},
-{
-"id": "2026-11-18T10:19|INNENRÄUME|Zwischen den Spuren (Radio Edit)",
-"t": "2026-11-18T10:19:00+01:00",
-"artist": "INNENRÄUME",
-"title": "Zwischen den Spuren (Radio Edit)"
-},
-{
-"id": "2026-11-18T10:09|Girl Ray|Love Is Enough (Radio Edit)",
-"t": "2026-11-18T10:09:00+01:00",
-"artist": "Girl Ray",
-"title": "Love Is Enough (Radio Edit)"
-},
-{
-"id": "2026-11-18T10:05|Blur|Barbaric",
-"t": "2026-11-18T10:05:00+01:00",
-"artist": "Blur",
-"title": "Barbaric"
-},
-{
-"id": "2026-11-18T09:55|Arctic Monkeys|Opening Night",
-"t": "2026-11-18T09:55:00+01:00",
-"artist": "Arctic Monkeys",
-"title": "Opening Night"
-},
-{
-"id": "2026-11-18T09:49|Billie Eilish|Bad Guy",
-"t": "2026-11-18T09:49:00+01:00",
-"artist": "Billie Eilish",
-"title": "Bad Guy"
-},
-{
-"id": "2026-11-18T09:45|Sampha|Blood On Me",
-"t": "2026-11-18T09:45:00+01:00",
-"artist": "Sampha",
-"title": "Blood On Me"
-},
-{
-"id": "2026-11-18T09:42|Marcy Playground|Sex And Candy",
-"t": "2026-11-18T09:42:00+01:00",
-"artist": "Marcy Playground",
-"title": "Sex And Candy"
-},
-{
-"id": "2026-11-18T09:33|Sassy 009 feat. Blood Orange|Tell Me (Jam City Remix) (Edit)",
-"t": "2026-11-18T09:33:00+01:00",
-"artist": "Sassy 009 feat. Blood Orange",
-"title": "Tell Me (Jam City Remix) (Edit)"
-},
-{
-"id": "2026-11-18T09:25|Drangsal|Allan Align",
-"t": "2026-11-18T09:25:00+01:00",
-"artist": "Drangsal",
-"title": "Allan Align"
-},
-{
-"id": "2026-11-18T09:19|TTRRUUCES|Sensations Of Cool",
-"t": "2026-11-18T09:19:00+01:00",
-"artist": "TTRRUUCES",
-"title": "Sensations Of Cool"
-},
-{
-"id": "2026-11-18T09:14|Ayele|Fractured (Radio Edit)",
-"t": "2026-11-18T09:14:00+01:00",
-"artist": "Ayele",
-"title": "Fractured (Radio Edit)"
-},
-{
-"id": "2026-11-18T09:06|Allah-Las|Dust",
-"t": "2026-11-18T09:06:00+01:00",
-"artist": "Allah-Las",
-"title": "Dust"
-},
-{
-"id": "2026-11-18T08:56|Bill Withers|Use me",
-"t": "2026-11-18T08:56:00+01:00",
-"artist": "Bill Withers",
-"title": "Use me"
-},
-{
-"id": "2026-11-18T08:49|Metronomy feat. Biig Piig|405 (Radio Edit)",
-"t": "2026-11-18T08:49:00+01:00",
-"artist": "Metronomy feat. Biig Piig",
-"title": "405 (Radio Edit)"
-},
-{
-"id": "2026-11-18T08:45|New German Cinema|Water Drops",
-"t": "2026-11-18T08:45:00+01:00",
-"artist": "New German Cinema",
-"title": "Water Drops"
-},
-{
-"id": "2026-11-18T08:42|Ane Brun feat. Röyksopp|Eat The Fruit (Radio Edit)",
-"t": "2026-11-18T08:42:00+01:00",
-"artist": "Ane Brun feat. Röyksopp",
-"title": "Eat The Fruit (Radio Edit)"
-},
-{
-"id": "2026-11-18T08:34|Zaho de Sagazan|Ô travers",
-"t": "2026-11-18T08:34:00+01:00",
-"artist": "Zaho de Sagazan",
-"title": "Ô travers"
-},
-{
-"id": "2026-11-18T08:25|Jordan Rakei|Enemies",
-"t": "2026-11-18T08:25:00+01:00",
-"artist": "Jordan Rakei",
-"title": "Enemies"
-},
-{
-"id": "2026-11-18T08:17|Simple Minds|Home",
-"t": "2026-11-18T08:17:00+01:00",
-"artist": "Simple Minds",
-"title": "Home"
-},
-{
-"id": "2026-11-18T08:13|The Preatures|Is This How You Feel",
-"t": "2026-11-18T08:13:00+01:00",
-"artist": "The Preatures",
-"title": "Is This How You Feel"
 }
 ]
 }
