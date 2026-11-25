@@ -1,9 +1,9 @@
 {
-"updated": "2026-11-25T11:48:00.820697+01:00",
+"updated": "2026-11-25T12:00:00.821051+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
-"synced": "2026-11-25T11:40:00.820408+01:00",
+"synced": "2026-11-25T11:56:00.820943+01:00",
 "pruned": "2026-11-25",
 "calls": {
 "2026-11-18": 180,
@@ -13,12 +13,24 @@
 "2026-11-22": 104,
 "2026-11-23": 155,
 "2026-11-24": 144,
-"2026-11-25": 58
+"2026-11-25": 63
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAkMBdYzTlGxTblFWUIJ1OnbPTXWLGO",
+"snapshot": "AAAkNJwXorezUmE19bEr6rPb7vjfKRkp",
 "playlist": [
+[
+"2026-11-25T11:52|JGrrey feat. Bel Cobain|Take My Hand",
+"spotify:track:0i4SCqKHjbBrPjUX4RPRq3"
+],
+[
+"2026-11-25T11:43|The Drums feat. Mareux|It Didn't Matter",
+"spotify:track:10kxTiNUTo4nlEbH1EzoX1"
+],
+[
+"2026-11-25T11:38|Todd Rundgren|Hello It's Me",
+"spotify:track:20OPtTXspuUTRVTROMZHnF"
+],
 [
 "2026-11-25T11:35|Hundreds|Song For A Sailor",
 "spotify:track:162OHeztqDBb2OFWtz7OJd"
@@ -112,12 +124,24 @@
 "spotify:track:3XY1xxFHeGHDDt33V6GoE2"
 ],
 [
+"2026-11-25T08:55|Oliver Koletzki feat. Axel Bosse|U-Bahn",
+"spotify:track:51lq1JlxFQztlTJpJYsyWL"
+],
+[
 "2026-11-25T08:49|Everything But The Girl|Young and Dumb",
 "spotify:track:4b3EgGk2hdOQwBHvFQUTmJ"
 ],
 [
 "2026-11-25T08:43|DJ Seinfeld feat. TS Graye|U Can't Come Home (Radio Edit)",
 "spotify:track:6cB7xUxRQgx1k9WwvRNoPr"
+],
+[
+"2026-11-25T08:35|The Strokes|Bad Decisions",
+"spotify:track:55N8cxpE1QDoeaaNqUnoZ2"
+],
+[
+"2026-11-25T08:25|Phoenix feat. Ezra Koenig|Tonight (Radio Edit)",
+"spotify:track:4JvFNFTjEtZyEzh8w0YzHF"
 ],
 [
 "2026-11-25T08:18|Patti Smith|April Fool",
@@ -3488,10 +3512,6 @@
 "spotify:track:0V2GX0aukyZMt6nSMxfOJk"
 ],
 [
-"2026-11-18T11:56|Gladys Knight & The Pips|Midnight Train To Georgia",
-"spotify:track:2UdLtaqJyNbhISi9aPjsjY"
-],
-[
 "2026-11-18T11:51|The Avalanches feat. Karen O|Blue Shadows",
 "spotify:track:5bN5To0VLbNBKQDzJ1Lk6c"
 ],
@@ -3745,6 +3765,12 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-11-25T11:52|JGrrey feat. Bel Cobain|Take My Hand",
+"t": "2026-11-25T11:52:00+01:00",
+"artist": "JGrrey feat. Bel Cobain",
+"title": "Take My Hand"
+},
 {
 "id": "2026-11-25T11:43|The Drums feat. Mareux|It Didn't Matter",
 "t": "2026-11-25T11:43:00+01:00",
@@ -9114,18 +9140,6 @@
 "t": "2026-11-18T12:06:00+01:00",
 "artist": "Oliver Koletzki & Fran",
 "title": "Hypnotized"
-},
-{
-"id": "2026-11-18T11:56|Gladys Knight & The Pips|Midnight Train To Georgia",
-"t": "2026-11-18T11:56:00+01:00",
-"artist": "Gladys Knight & The Pips",
-"title": "Midnight Train To Georgia"
-},
-{
-"id": "2026-11-18T11:51|The Avalanches feat. Karen O|Blue Shadows",
-"t": "2026-11-18T11:51:00+01:00",
-"artist": "The Avalanches feat. Karen O",
-"title": "Blue Shadows"
 }
 ]
 }
