@@ -1,9 +1,9 @@
 {
-"updated": "2026-11-25T13:36:00.824153+01:00",
+"updated": "2026-11-25T13:48:00.824492+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
-"synced": "2026-11-25T13:32:00.823964+01:00",
+"synced": "2026-11-25T13:48:00.824492+01:00",
 "pruned": "2026-11-25",
 "calls": {
 "2026-11-18": 180,
@@ -13,12 +13,28 @@
 "2026-11-22": 104,
 "2026-11-23": 155,
 "2026-11-24": 144,
-"2026-11-25": 85
+"2026-11-25": 88
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAkPOnKmjVTlKyrnkW66apxdUfXr76D",
+"snapshot": "AAAkPuffx3Q/Kgyy9xDtxpMrNhHEOofL",
 "playlist": [
+[
+"2026-11-25T13:43|Nichtseattle|Ich mit Brille",
+"spotify:track:1C0Lpji3kKe7rZie1LC4bx"
+],
+[
+"2026-11-25T13:39|Arcade Fire|Deep Blue",
+"spotify:track:3S3ET4OgClctpND30pOTqp"
+],
+[
+"2026-11-25T13:32|54 Ultra|Tell Me",
+"spotify:track:6iXIvHGsLMJ89TuW1S9E3C"
+],
+[
+"2026-11-25T13:29|Friedberg|Goodwife",
+"spotify:track:1H89j9NLse1E0Kmjb3tzW6"
+],
 [
 "2026-11-25T13:23|Black Pumas|Colors",
 "spotify:track:7mzocQrHwKd19aLrjT3isS"
@@ -3492,10 +3508,6 @@
 "spotify:track:1H89j9NLse1E0Kmjb3tzW6"
 ],
 [
-"2026-11-18T13:48|Johnny Cash|Solitary Man",
-"spotify:track:3UMXhDBYe7eIXUe2HLUn0v"
-],
-[
 "2026-11-18T13:44|Doechii|Anxiety",
 "spotify:track:1musbempyJAw5gfSKZHXP9"
 ],
@@ -3833,6 +3845,18 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-11-25T13:43|Nichtseattle|Ich mit Brille",
+"t": "2026-11-25T13:43:00+01:00",
+"artist": "Nichtseattle",
+"title": "Ich mit Brille"
+},
+{
+"id": "2026-11-25T13:39|Arcade Fire|Deep Blue",
+"t": "2026-11-25T13:39:00+01:00",
+"artist": "Arcade Fire",
+"title": "Deep Blue"
+},
 {
 "id": "2026-11-25T13:32|54 Ultra|Tell Me",
 "t": "2026-11-25T13:32:00+01:00",
@@ -9190,24 +9214,6 @@
 "t": "2026-11-18T13:50:00+01:00",
 "artist": "Friedberg",
 "title": "Goodwife"
-},
-{
-"id": "2026-11-18T13:48|Johnny Cash|Solitary Man",
-"t": "2026-11-18T13:48:00+01:00",
-"artist": "Johnny Cash",
-"title": "Solitary Man"
-},
-{
-"id": "2026-11-18T13:44|Doechii|Anxiety",
-"t": "2026-11-18T13:44:00+01:00",
-"artist": "Doechii",
-"title": "Anxiety"
-},
-{
-"id": "2026-11-18T13:38|Major Lazer|Get Free",
-"t": "2026-11-18T13:38:00+01:00",
-"artist": "Major Lazer",
-"title": "Get Free"
 }
 ]
 }
