@@ -1,5 +1,5 @@
 {
-"updated": "2026-11-25T05:45:22.481763+01:00",
+"updated": "2026-11-25T05:57:22.482119+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
@@ -13,7 +13,7 @@
 "2026-11-22": 104,
 "2026-11-23": 155,
 "2026-11-24": 144,
-"2026-11-25": 4
+"2026-11-25": 5
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
@@ -3557,6 +3557,18 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-11-25T05:49|Masha Qrella|Geister",
+"t": "2026-11-25T05:49:00+01:00",
+"artist": "Masha Qrella",
+"title": "Geister"
+},
+{
+"id": "2026-11-25T05:45|Seamus Fogarty|Fire (Edit)",
+"t": "2026-11-25T05:45:00+01:00",
+"artist": "Seamus Fogarty",
+"title": "Fire (Edit)"
+},
 {
 "id": "2026-11-25T05:39|Odd Beholder|Your Emancipation",
 "t": "2026-11-25T05:39:00+01:00",
@@ -8920,24 +8932,6 @@
 "t": "2026-11-18T06:06:00+01:00",
 "artist": "Beth Ditto",
 "title": "In And Out"
-},
-{
-"id": "2026-11-18T05:56|Nilüfer Yanya|The Dealer",
-"t": "2026-11-18T05:56:00+01:00",
-"artist": "Nilüfer Yanya",
-"title": "The Dealer"
-},
-{
-"id": "2026-11-18T05:51|Alice Costelloe|How Can I",
-"t": "2026-11-18T05:51:00+01:00",
-"artist": "Alice Costelloe",
-"title": "How Can I"
-},
-{
-"id": "2026-11-18T05:47|Moderat|Running",
-"t": "2026-11-18T05:47:00+01:00",
-"artist": "Moderat",
-"title": "Running"
 }
 ]
 }
