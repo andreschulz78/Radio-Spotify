@@ -1,9 +1,9 @@
 {
-"updated": "2026-11-25T07:09:22.484337+01:00",
+"updated": "2026-11-25T07:21:22.484685+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
-"synced": "2026-11-25T07:05:22.484210+01:00",
+"synced": "2026-11-25T07:21:22.484685+01:00",
 "pruned": "2026-11-25",
 "calls": {
 "2026-11-18": 180,
@@ -13,12 +13,20 @@
 "2026-11-22": 104,
 "2026-11-23": 155,
 "2026-11-24": 144,
-"2026-11-25": 21
+"2026-11-25": 24
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAkJ4mhCHV4G9A0ES87zXKalBEy0e50",
+"snapshot": "AAAkKB104fBSrSPLhyVLRg4Xk3pfhR/d",
 "playlist": [
+[
+"2026-11-25T07:13|The Big Moon|F.O.R.E.V.E.R",
+"spotify:track:0UaPOdi1O83vr1oTXaGqgx"
+],
+[
+"2026-11-25T07:05|Vance Joy|Riptide",
+"spotify:track:2eS0nsVY7gmzwPbLC28dAs"
+],
 [
 "2026-11-25T06:56|Sam Burton|I'm A Stranger",
 "spotify:track:4hAYraVhSzgMTdvftCcqKo"
@@ -3601,6 +3609,18 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-11-25T07:13|The Big Moon|F.O.R.E.V.E.R",
+"t": "2026-11-25T07:13:00+01:00",
+"artist": "The Big Moon",
+"title": "F.O.R.E.V.E.R"
+},
+{
+"id": "2026-11-25T07:05|Vance Joy|Riptide",
+"t": "2026-11-25T07:05:00+01:00",
+"artist": "Vance Joy",
+"title": "Riptide"
+},
 {
 "id": "2026-11-25T06:56|Sam Burton|I'm A Stranger",
 "t": "2026-11-25T06:56:00+01:00",
@@ -8970,18 +8990,6 @@
 "t": "2026-11-18T07:26:00+01:00",
 "artist": "Lily Allen",
 "title": "Dallas Major"
-},
-{
-"id": "2026-11-18T07:17|Talking Heads|Once In A Lifetime",
-"t": "2026-11-18T07:17:00+01:00",
-"artist": "Talking Heads",
-"title": "Once In A Lifetime"
-},
-{
-"id": "2026-11-18T07:12|Tikhet|Burndowner",
-"t": "2026-11-18T07:12:00+01:00",
-"artist": "Tikhet",
-"title": "Burndowner"
 }
 ]
 }
