@@ -1,9 +1,9 @@
 {
-"updated": "2026-11-25T12:24:00.821782+01:00",
+"updated": "2026-11-25T12:36:00.822165+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
-"synced": "2026-11-25T12:12:00.821382+01:00",
+"synced": "2026-11-25T12:28:00.821913+01:00",
 "pruned": "2026-11-25",
 "calls": {
 "2026-11-18": 180,
@@ -13,12 +13,24 @@
 "2026-11-22": 104,
 "2026-11-23": 155,
 "2026-11-24": 144,
-"2026-11-25": 69
+"2026-11-25": 73
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAkNb/z2W4RHAmqLsnmam/BpMaufn6S",
+"snapshot": "AAAkNl/70RTE7sMS1w+j5nduRu8TG5z5",
 "playlist": [
+[
+"2026-11-25T12:20|Grateful Dead|Touch Of Grey",
+"spotify:track:7vLgjhf9wK6u6s97muIk4M"
+],
+[
+"2026-11-25T12:16|Die Fantastischen Vier|MfG (Mit freundlichen Grüßen)",
+"spotify:track:64yuUMk79bbdwpFVhuVjNT"
+],
+[
+"2026-11-25T12:10|Black Marble|Jim Carol New Year",
+"spotify:track:3UhXNJjt6Y0sNCEwwhoJnT"
+],
 [
 "2026-11-25T12:06|Red Hot Chili Peppers|Dark Necessities",
 "spotify:track:1cjiLJacTKtJbdCtMk1XeV"
@@ -3773,6 +3785,24 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-11-25T12:30|The Sugarcubes|Top Of The World",
+"t": "2026-11-25T12:30:00+01:00",
+"artist": "The Sugarcubes",
+"title": "Top Of The World"
+},
+{
+"id": "2026-11-25T12:27|Boy Harsher|Tough Luck (When You Don't Call)",
+"t": "2026-11-25T12:27:00+01:00",
+"artist": "Boy Harsher",
+"title": "Tough Luck (When You Don't Call)"
+},
+{
+"id": "2026-11-25T12:20|Grateful Dead|Touch Of Grey",
+"t": "2026-11-25T12:20:00+01:00",
+"artist": "Grateful Dead",
+"title": "Touch Of Grey"
+},
 {
 "id": "2026-11-25T12:16|Die Fantastischen Vier|MfG (Mit freundlichen Grüßen)",
 "t": "2026-11-25T12:16:00+01:00",
@@ -9130,24 +9160,6 @@
 "t": "2026-11-18T12:37:00+01:00",
 "artist": "Danger Mouse & Daniele Luppi",
 "title": "Season's Trees"
-},
-{
-"id": "2026-11-18T12:35|Dahi feat. Kendrick Lamar & Amber Mark|How To Pray",
-"t": "2026-11-18T12:35:00+01:00",
-"artist": "Dahi feat. Kendrick Lamar & Amber Mark",
-"title": "How To Pray"
-},
-{
-"id": "2026-11-18T12:31|Mini Mansions|Monk",
-"t": "2026-11-18T12:31:00+01:00",
-"artist": "Mini Mansions",
-"title": "Monk"
-},
-{
-"id": "2026-11-18T12:26|Fuffifufzich|New Era",
-"t": "2026-11-18T12:26:00+01:00",
-"artist": "Fuffifufzich",
-"title": "New Era"
 }
 ]
 }
