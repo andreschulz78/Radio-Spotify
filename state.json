@@ -1,9 +1,9 @@
 {
-"updated": "2026-11-25T05:21:22.481053+01:00",
+"updated": "2026-11-25T05:33:22.481427+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
-"synced": "2026-11-25T05:13:22.480821+01:00",
+"synced": "2026-11-25T05:29:22.481308+01:00",
 "pruned": "2026-11-25",
 "calls": {
 "2026-11-18": 180,
@@ -12,12 +12,25 @@
 "2026-11-21": 93,
 "2026-11-22": 104,
 "2026-11-23": 155,
-"2026-11-24": 143
+"2026-11-24": 144,
+"2026-11-25": 1
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAkHDMY9K1wFDez0Ntd6yzPAc1GvbAg",
+"snapshot": "AAAkHYVWqVQzYb2/1YongeddEhIeZUW1",
 "playlist": [
+[
+"2026-11-25T05:21|Nightbus|Angles Mortz",
+"spotify:track:5XvRng3X26Q3oGMEoFKsWo"
+],
+[
+"2026-11-25T05:16|Depeche Mode|Personal Jesus",
+"spotify:track:2wUlYDGGXlSvm2NkGj0Qio"
+],
+[
+"2026-11-25T05:09|Bonaparte|KiOSKO",
+"spotify:track:5seYGZRYuD3oPMxryJdvOk"
+],
 [
 "2026-11-25T05:06|Sofie Royer|Cowboy Mouth",
 "spotify:track:7qgYR8fHsHyyS5WKvA9srS"
@@ -3528,6 +3541,18 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-11-25T05:25|Rachel Chinouriri|All I Ever Asked",
+"t": "2026-11-25T05:25:00+01:00",
+"artist": "Rachel Chinouriri",
+"title": "All I Ever Asked"
+},
+{
+"id": "2026-11-25T05:21|Nightbus|Angles Mortz",
+"t": "2026-11-25T05:21:00+01:00",
+"artist": "Nightbus",
+"title": "Angles Mortz"
+},
 {
 "id": "2026-11-25T05:16|Depeche Mode|Personal Jesus",
 "t": "2026-11-25T05:16:00+01:00",
@@ -8891,24 +8916,6 @@
 "t": "2026-11-18T05:37:00+01:00",
 "artist": "Creedence Clearwater Revival",
 "title": "Have you ever seen the rain?"
-},
-{
-"id": "2026-11-18T05:32|Thomas Dybdahl|45",
-"t": "2026-11-18T05:32:00+01:00",
-"artist": "Thomas Dybdahl",
-"title": "45"
-},
-{
-"id": "2026-11-18T05:26|Asian Dub Foundation feat. Sinéad O'Connor|1000 Mirrors",
-"t": "2026-11-18T05:26:00+01:00",
-"artist": "Asian Dub Foundation feat. Sinéad O'Connor",
-"title": "1000 Mirrors"
-},
-{
-"id": "2026-11-18T05:22|Boy Harsher|Tough Luck (When You Don't Call)",
-"t": "2026-11-18T05:22:00+01:00",
-"artist": "Boy Harsher",
-"title": "Tough Luck (When You Don't Call)"
 }
 ]
 }
