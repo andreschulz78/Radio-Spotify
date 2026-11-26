@@ -1,9 +1,9 @@
 {
-"updated": "2026-11-26T08:01:29.507770+01:00",
+"updated": "2026-11-26T08:13:29.508143+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
-"synced": "2026-11-26T07:53:29.507555+01:00",
+"synced": "2026-11-26T08:09:29.508017+01:00",
 "pruned": "2026-11-26",
 "calls": {
 "2026-11-19": 164,
@@ -13,12 +13,20 @@
 "2026-11-23": 155,
 "2026-11-24": 144,
 "2026-11-25": 153,
-"2026-11-26": 33
+"2026-11-26": 34
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAkaVSI7RrwAia53xmg6v6OjKVBZEv2",
+"snapshot": "AAAkauE8HEiJXwKuflvValebMh4bf5vd",
 "playlist": [
+[
+"2026-11-26T07:57|Shabazz Palaces feat. Thaddillac|Shine A Light",
+"spotify:track:3VKr3eoiQr0Iy10ek3KAG8"
+],
+[
+"2026-11-26T07:50|Udo Lindenberg feat. Jan Delay|Ganz anders",
+"spotify:track:2GYIxBLwSZogzJA9qJnAXD"
+],
 [
 "2026-11-26T07:45|The Last Shadow Puppets|Standing Next To Me",
 "spotify:track:03F0Hspx6mEkiiYqEzVu5u"
@@ -3641,6 +3649,12 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-11-26T08:05|The Asteroids Galaxy Tour|The Golden Age",
+"t": "2026-11-26T08:05:00+01:00",
+"artist": "The Asteroids Galaxy Tour",
+"title": "The Golden Age"
+},
 {
 "id": "2026-11-26T07:57|Shabazz Palaces feat. Thaddillac|Shine A Light",
 "t": "2026-11-26T07:57:00+01:00",
@@ -9052,12 +9066,6 @@
 "t": "2026-11-19T08:15:00+01:00",
 "artist": "Death Cab For Cutie",
 "title": "Pep Talk"
-},
-{
-"id": "2026-11-19T08:07|Dawes|When My Time Comes",
-"t": "2026-11-19T08:07:00+01:00",
-"artist": "Dawes",
-"title": "When My Time Comes"
 }
 ]
 }
