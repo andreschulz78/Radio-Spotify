@@ -1,9 +1,9 @@
 {
-"updated": "2026-11-26T18:50:17.573460+01:00",
+"updated": "2026-11-26T22:52:16.726476+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
-"synced": "2026-11-26T18:38:17.573160+01:00",
+"synced": "2026-11-26T22:52:16.726476+01:00",
 "pruned": "2026-11-26",
 "calls": {
 "2026-11-19": 164,
@@ -13,12 +13,72 @@
 "2026-11-23": 155,
 "2026-11-24": 144,
 "2026-11-25": 153,
-"2026-11-26": 139
+"2026-11-26": 144
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAklRBa6zcUWuKc2W3Y1wEwNKT9RVOV",
+"snapshot": "AAAklvPwdx82cPtVVTPlc2rMaZ2IJK9g",
 "playlist": [
+[
+"2026-11-26T20:52|Karl die Große|Liebeslied",
+"spotify:track:352doOTLR1AdwssKpas5Pk"
+],
+[
+"2026-11-26T20:47|Danger Dan|Dass es hier so schön ist",
+"spotify:track:1HGb9YabpkJHq6i8A1HY6n"
+],
+[
+"2026-11-26T20:37|Ray Lozano|Late Night",
+"spotify:track:23i10hKRFFtyNN801D2AYz"
+],
+[
+"2026-11-26T20:34|Interpol|Iron City",
+"spotify:track:7o9gwmscHBXh6sUEYkWQ4e"
+],
+[
+"2026-11-26T20:26|Bonaparte|KiOSKO",
+"spotify:track:5seYGZRYuD3oPMxryJdvOk"
+],
+[
+"2026-11-26T20:21|The Godfathers|Birth, School, Work, Death",
+"spotify:track:6PS0LuJ9rmEHEL4LZxIZzF"
+],
+[
+"2026-11-26T20:18|Stella Donnelly|Laying Low",
+"spotify:track:0jWZDtZgmV2LZ2iW4c3yB7"
+],
+[
+"2026-11-26T20:05|Pearl Jam|The Fixer",
+"spotify:track:6Kal7jdYHPctEtWMS1KfLd"
+],
+[
+"2026-11-26T19:55|Ayele|Fractured (Radio Edit)",
+"spotify:track:5EGnOBL2qoUNard3Oaq5Hc"
+],
+[
+"2026-11-26T19:50|Mumford & Sons|I Will Wait",
+"spotify:track:4kbYevkszYmMhoQcwnR7cZ"
+],
+[
+"2026-11-26T19:31|Bleachers|Blood Brothers",
+"spotify:track:7aMdmpShbYFRbdJigosY7C"
+],
+[
+"2026-11-26T19:06|Tom Misch|Slow Tonight",
+"spotify:track:7cpoZVJlz9euhcgUfQBMRL"
+],
+[
+"2026-11-26T18:51|Noga Erez|Come Back Home",
+"spotify:track:7mo91mH70LRf4NMUs717c3"
+],
+[
+"2026-11-26T18:47|Oasis|Supersonic (Remastered)",
+"spotify:track:3X0Qk0NoygYUpGSLaIa8qP"
+],
+[
+"2026-11-26T18:40|Natalie Bergmann|White Oak (Kosta G. Remix)",
+"spotify:track:18PftHVAUSO5vTwdeRa7Lv"
+],
 [
 "2026-11-26T18:33|Balu Brigada|Backseat (Edit)",
 "spotify:track:7yT4NJt5rgmVoMJMGPULcj"
@@ -4025,6 +4085,96 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-11-26T20:52|Karl die Große|Liebeslied",
+"t": "2026-11-26T20:52:00+01:00",
+"artist": "Karl die Große",
+"title": "Liebeslied"
+},
+{
+"id": "2026-11-26T20:47|Danger Dan|Dass es hier so schön ist",
+"t": "2026-11-26T20:47:00+01:00",
+"artist": "Danger Dan",
+"title": "Dass es hier so schön ist"
+},
+{
+"id": "2026-11-26T20:37|Ray Lozano|Late Night",
+"t": "2026-11-26T20:37:00+01:00",
+"artist": "Ray Lozano",
+"title": "Late Night"
+},
+{
+"id": "2026-11-26T20:34|Interpol|Iron City",
+"t": "2026-11-26T20:34:00+01:00",
+"artist": "Interpol",
+"title": "Iron City"
+},
+{
+"id": "2026-11-26T20:26|Bonaparte|KiOSKO",
+"t": "2026-11-26T20:26:00+01:00",
+"artist": "Bonaparte",
+"title": "KiOSKO"
+},
+{
+"id": "2026-11-26T20:21|The Godfathers|Birth, School, Work, Death",
+"t": "2026-11-26T20:21:00+01:00",
+"artist": "The Godfathers",
+"title": "Birth, School, Work, Death"
+},
+{
+"id": "2026-11-26T20:18|Stella Donnelly|Laying Low",
+"t": "2026-11-26T20:18:00+01:00",
+"artist": "Stella Donnelly",
+"title": "Laying Low"
+},
+{
+"id": "2026-11-26T20:05|Pearl Jam|The Fixer",
+"t": "2026-11-26T20:05:00+01:00",
+"artist": "Pearl Jam",
+"title": "The Fixer"
+},
+{
+"id": "2026-11-26T19:55|Ayele|Fractured (Radio Edit)",
+"t": "2026-11-26T19:55:00+01:00",
+"artist": "Ayele",
+"title": "Fractured (Radio Edit)"
+},
+{
+"id": "2026-11-26T19:50|Mumford & Sons|I Will Wait",
+"t": "2026-11-26T19:50:00+01:00",
+"artist": "Mumford & Sons",
+"title": "I Will Wait"
+},
+{
+"id": "2026-11-26T19:43|Bob Dylan|The Times They Are a-Changin'",
+"t": "2026-11-26T19:43:00+01:00",
+"artist": "Bob Dylan",
+"title": "The Times They Are a-Changin'"
+},
+{
+"id": "2026-11-26T19:31|Bleachers|Blood Brothers",
+"t": "2026-11-26T19:31:00+01:00",
+"artist": "Bleachers",
+"title": "Blood Brothers"
+},
+{
+"id": "2026-11-26T19:06|Tom Misch|Slow Tonight",
+"t": "2026-11-26T19:06:00+01:00",
+"artist": "Tom Misch",
+"title": "Slow Tonight"
+},
+{
+"id": "2026-11-26T18:56|X-Press 2 feat. David Byrne|Lazy",
+"t": "2026-11-26T18:56:00+01:00",
+"artist": "X-Press 2 feat. David Byrne",
+"title": "Lazy"
+},
+{
+"id": "2026-11-26T18:51|Noga Erez|Come Back Home",
+"t": "2026-11-26T18:51:00+01:00",
+"artist": "Noga Erez",
+"title": "Come Back Home"
+},
 {
 "id": "2026-11-26T18:47|Oasis|Supersonic (Remastered)",
 "t": "2026-11-26T18:47:00+01:00",
@@ -9370,60 +9520,6 @@
 "t": "2026-11-20T05:03:00+01:00",
 "artist": "Ephemera",
 "title": "Girls Keep Secrets In The Strangest Ways"
-},
-{
-"id": "2026-11-19T20:43|Kalle Zeier|Asteroid",
-"t": "2026-11-19T20:43:00+01:00",
-"artist": "Kalle Zeier",
-"title": "Asteroid"
-},
-{
-"id": "2026-11-19T20:40|Jungle|Someday, Somewhere",
-"t": "2026-11-19T20:40:00+01:00",
-"artist": "Jungle",
-"title": "Someday, Somewhere"
-},
-{
-"id": "2026-11-19T20:29|Sassy 009 feat. Blood Orange|Tell Me (Jam City Remix) (Edit)",
-"t": "2026-11-19T20:29:00+01:00",
-"artist": "Sassy 009 feat. Blood Orange",
-"title": "Tell Me (Jam City Remix) (Edit)"
-},
-{
-"id": "2026-11-19T20:06|The Killers|This Is Your Life",
-"t": "2026-11-19T20:06:00+01:00",
-"artist": "The Killers",
-"title": "This Is Your Life"
-},
-{
-"id": "2026-11-19T19:55|Barenaked Ladies|Pinch Me",
-"t": "2026-11-19T19:55:00+01:00",
-"artist": "Barenaked Ladies",
-"title": "Pinch Me"
-},
-{
-"id": "2026-11-19T19:44|Angela Aux|Schöne Replikantin",
-"t": "2026-11-19T19:44:00+01:00",
-"artist": "Angela Aux",
-"title": "Schöne Replikantin"
-},
-{
-"id": "2026-11-19T19:24|Alewya|Maktoub",
-"t": "2026-11-19T19:24:00+01:00",
-"artist": "Alewya",
-"title": "Maktoub"
-},
-{
-"id": "2026-11-19T19:06|Cass McCombs|Peace",
-"t": "2026-11-19T19:06:00+01:00",
-"artist": "Cass McCombs",
-"title": "Peace"
-},
-{
-"id": "2026-11-19T18:56|Sergio Torales feat. Der Assistent|Veo",
-"t": "2026-11-19T18:56:00+01:00",
-"artist": "Sergio Torales feat. Der Assistent",
-"title": "Veo"
 }
 ]
 }
