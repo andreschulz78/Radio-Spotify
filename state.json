@@ -1,9 +1,9 @@
 {
-"updated": "2026-11-26T23:16:16.727120+01:00",
+"updated": "2026-11-26T23:28:16.727432+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
-"synced": "2026-11-26T23:08:16.726937+01:00",
+"synced": "2026-11-26T23:24:16.727304+01:00",
 "pruned": "2026-11-26",
 "calls": {
 "2026-11-19": 164,
@@ -13,11 +13,11 @@
 "2026-11-23": 155,
 "2026-11-24": 144,
 "2026-11-25": 153,
-"2026-11-26": 149
+"2026-11-26": 156
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAkmJivfwic176/9U+FoZEnx/pU57pA",
+"snapshot": "AAAkmodXKWslRHqFyDEU9jg+CEszDAlC",
 "playlist": [
 [
 "2026-11-26T20:52|Karl die Große|Liebeslied",
@@ -2080,6 +2080,10 @@
 "spotify:track:6tYcwTCS7qtLFoKhBwcpAP"
 ],
 [
+"2026-11-23T13:16|B O D I E S|The Dream",
+"spotify:track:6yXr7ficDnBqxEDiZaY89D"
+],
+[
 "2026-11-23T13:11|Erika De Casier|Delusional",
 "spotify:track:6M5Y8sn5cXePK58bH1WKon"
 ],
@@ -3102,6 +3106,10 @@
 [
 "2026-11-20T21:28|B O D I E S|The Observable Universe",
 "spotify:track:1lmzuwoKY6MWurqsZ3Nc5W"
+],
+[
+"2026-11-20T21:21|B O D I E S|The Dream",
+"spotify:track:6yXr7ficDnBqxEDiZaY89D"
 ],
 [
 "2026-11-20T21:10|B O D I E S|Innocence",
