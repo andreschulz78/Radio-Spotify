@@ -1,9 +1,9 @@
 {
-"updated": "2026-11-26T06:25:29.505006+01:00",
+"updated": "2026-11-26T06:37:29.505349+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
-"synced": "2026-11-26T06:17:29.504768+01:00",
+"synced": "2026-11-26T06:33:29.505230+01:00",
 "pruned": "2026-11-26",
 "calls": {
 "2026-11-19": 164,
@@ -13,12 +13,20 @@
 "2026-11-23": 155,
 "2026-11-24": 144,
 "2026-11-25": 153,
-"2026-11-26": 17
+"2026-11-26": 18
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAkYD+v/Sdq2Q0RrmS8cg8GXWkzL3OW",
+"snapshot": "AAAkYeXJRaVw8gQQtHITJvEVjWTsY0Id",
 "playlist": [
+[
+"2026-11-26T06:25|Sassy 009 feat. Blood Orange|Tell Me (Jam City Remix) (Edit)",
+"spotify:track:1pDiRrLro0tlhsPSexB3Zv"
+],
+[
+"2026-11-26T06:17|Bayuk|Old June",
+"spotify:track:5S3zgu4cHRy9T7IDXrH0FB"
+],
 [
 "2026-11-26T06:12|Blackstreet feat Dr. Dre|No Diggity",
 "spotify:track:6MdqqkQ8sSC0WB4i8PyRuQ"
@@ -3589,6 +3597,12 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-11-26T06:25|Sassy 009 feat. Blood Orange|Tell Me (Jam City Remix) (Edit)",
+"t": "2026-11-26T06:25:00+01:00",
+"artist": "Sassy 009 feat. Blood Orange",
+"title": "Tell Me (Jam City Remix) (Edit)"
+},
 {
 "id": "2026-11-26T06:17|Bayuk|Old June",
 "t": "2026-11-26T06:17:00+01:00",
@@ -8988,12 +9002,6 @@
 "t": "2026-11-19T06:45:00+01:00",
 "artist": "Yazmin Lacey",
 "title": "Summer Haze"
-},
-{
-"id": "2026-11-19T06:36|Yeah Yeah Yeahs|Down Boy",
-"t": "2026-11-19T06:36:00+01:00",
-"artist": "Yeah Yeah Yeahs",
-"title": "Down Boy"
 }
 ]
 }
