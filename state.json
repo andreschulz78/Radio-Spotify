@@ -1,5 +1,5 @@
 {
-"updated": "2026-11-26T08:25:29.508485+01:00",
+"updated": "2026-11-26T08:37:29.508834+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
@@ -3661,6 +3661,12 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-11-26T08:25|Donkey Kid|Goldmine",
+"t": "2026-11-26T08:25:00+01:00",
+"artist": "Donkey Kid",
+"title": "Goldmine"
+},
 {
 "id": "2026-11-26T08:17|Ideal|Blaue Augen",
 "t": "2026-11-26T08:17:00+01:00",
@@ -9066,18 +9072,6 @@
 "t": "2026-11-19T08:46:00+01:00",
 "artist": "Automatic",
 "title": "Shadowplay"
-},
-{
-"id": "2026-11-19T08:35|Albert Hammond Jr.|Far Away Truths",
-"t": "2026-11-19T08:35:00+01:00",
-"artist": "Albert Hammond Jr.",
-"title": "Far Away Truths"
-},
-{
-"id": "2026-11-19T08:26|Sparkling & COMA|It Won't Be Like This Forever",
-"t": "2026-11-19T08:26:00+01:00",
-"artist": "Sparkling & COMA",
-"title": "It Won't Be Like This Forever"
 }
 ]
 }
