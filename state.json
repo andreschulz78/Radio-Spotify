@@ -1,5 +1,5 @@
 {
-"updated": "2026-11-26T05:13:29.502861+01:00",
+"updated": "2026-11-26T05:25:29.503200+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
@@ -12,7 +12,7 @@
 "2026-11-22": 104,
 "2026-11-23": 155,
 "2026-11-24": 144,
-"2026-11-25": 149
+"2026-11-25": 152
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
@@ -3536,6 +3536,24 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-11-26T05:19|FredAtlast|One Day (Radio Edit)",
+"t": "2026-11-26T05:19:00+01:00",
+"artist": "FredAtlast",
+"title": "One Day (Radio Edit)"
+},
+{
+"id": "2026-11-26T05:15|The Drums feat. Mareux|It Didn't Matter",
+"t": "2026-11-26T05:15:00+01:00",
+"artist": "The Drums feat. Mareux",
+"title": "It Didn't Matter"
+},
+{
+"id": "2026-11-26T05:10|Whirlpool Productions|The Cold Song",
+"t": "2026-11-26T05:10:00+01:00",
+"artist": "Whirlpool Productions",
+"title": "The Cold Song"
+},
 {
 "id": "2026-11-26T05:06|Fuffifufzich|New Era",
 "t": "2026-11-26T05:06:00+01:00",
@@ -8911,18 +8929,6 @@
 "t": "2026-11-19T05:30:00+01:00",
 "artist": "Phoenix",
 "title": "If I Ever Feel Better"
-},
-{
-"id": "2026-11-19T05:25|Ann Peebles|I Can't Stand The Rain",
-"t": "2026-11-19T05:25:00+01:00",
-"artist": "Ann Peebles",
-"title": "I Can't Stand The Rain"
-},
-{
-"id": "2026-11-19T05:19|The Dandy Warhols|Not If You Were The Last Junkie On Earth",
-"t": "2026-11-19T05:19:00+01:00",
-"artist": "The Dandy Warhols",
-"title": "Not If You Were The Last Junkie On Earth"
 }
 ]
 }
