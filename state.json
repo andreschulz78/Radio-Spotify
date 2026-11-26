@@ -1,9 +1,9 @@
 {
-"updated": "2026-11-26T06:13:29.504655+01:00",
+"updated": "2026-11-26T06:25:29.505006+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
-"synced": "2026-11-26T06:01:29.504311+01:00",
+"synced": "2026-11-26T06:17:29.504768+01:00",
 "pruned": "2026-11-26",
 "calls": {
 "2026-11-19": 164,
@@ -13,12 +13,24 @@
 "2026-11-23": 155,
 "2026-11-24": 144,
 "2026-11-25": 153,
-"2026-11-26": 11
+"2026-11-26": 17
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAkX/TXatOHtTxZWiEy6F1/gH3Azbit",
+"snapshot": "AAAkYD+v/Sdq2Q0RrmS8cg8GXWkzL3OW",
 "playlist": [
+[
+"2026-11-26T06:12|Blackstreet feat Dr. Dre|No Diggity",
+"spotify:track:6MdqqkQ8sSC0WB4i8PyRuQ"
+],
+[
+"2026-11-26T06:04|Still Blank|Ain't Quite Right (Edit)",
+"spotify:track:5nWOtBZtVpDEhPBhDZzudd"
+],
+[
+"2026-11-26T05:57|Eels|Hey Man (Now You're Really Living)",
+"spotify:track:7gnVmjhMOjYUwakNVKKDti"
+],
 [
 "2026-11-26T05:51|Divine Fits|Would That Not Be Nice",
 "spotify:track:5QTE0kZALPoNN5s8ACLiAj"
@@ -3577,6 +3589,18 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-11-26T06:17|Bayuk|Old June",
+"t": "2026-11-26T06:17:00+01:00",
+"artist": "Bayuk",
+"title": "Old June"
+},
+{
+"id": "2026-11-26T06:12|Blackstreet feat Dr. Dre|No Diggity",
+"t": "2026-11-26T06:12:00+01:00",
+"artist": "Blackstreet feat Dr. Dre",
+"title": "No Diggity"
+},
 {
 "id": "2026-11-26T06:04|Still Blank|Ain't Quite Right (Edit)",
 "t": "2026-11-26T06:04:00+01:00",
@@ -8970,24 +8994,6 @@
 "t": "2026-11-19T06:36:00+01:00",
 "artist": "Yeah Yeah Yeahs",
 "title": "Down Boy"
-},
-{
-"id": "2026-11-19T06:25|The Streets|You Are Not The Voice In Your Head",
-"t": "2026-11-19T06:25:00+01:00",
-"artist": "The Streets",
-"title": "You Are Not The Voice In Your Head"
-},
-{
-"id": "2026-11-19T06:18|Propellerheads feat. Shirley Bassey|History Repeating",
-"t": "2026-11-19T06:18:00+01:00",
-"artist": "Propellerheads feat. Shirley Bassey",
-"title": "History Repeating"
-},
-{
-"id": "2026-11-19T06:14|Fuffifufzich|New Era",
-"t": "2026-11-19T06:14:00+01:00",
-"artist": "Fuffifufzich",
-"title": "New Era"
 }
 ]
 }
