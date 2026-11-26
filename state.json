@@ -1,5 +1,5 @@
 {
-"updated": "2026-11-26T14:50:17.566830+01:00",
+"updated": "2026-11-26T15:02:17.567196+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
@@ -13,7 +13,7 @@
 "2026-11-23": 155,
 "2026-11-24": 144,
 "2026-11-25": 153,
-"2026-11-26": 93
+"2026-11-26": 95
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
@@ -3917,6 +3917,18 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-11-26T14:55|The Big Pink|Velvet",
+"t": "2026-11-26T14:55:00+01:00",
+"artist": "The Big Pink",
+"title": "Velvet"
+},
+{
+"id": "2026-11-26T14:48|Rose Royce|Car Wash",
+"t": "2026-11-26T14:48:00+01:00",
+"artist": "Rose Royce",
+"title": "Car Wash"
+},
 {
 "id": "2026-11-26T14:45|Leon Bridges|Talk it over",
 "t": "2026-11-26T14:45:00+01:00",
@@ -9328,12 +9340,6 @@
 "t": "2026-11-19T15:06:00+01:00",
 "artist": "TV On The Radio",
 "title": "Dancing Choose"
-},
-{
-"id": "2026-11-19T14:56|Fleet Foxes|He Doesn't Know Why",
-"t": "2026-11-19T14:56:00+01:00",
-"artist": "Fleet Foxes",
-"title": "He Doesn't Know Why"
 }
 ]
 }
