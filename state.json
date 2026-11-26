@@ -1,9 +1,9 @@
 {
-"updated": "2026-11-26T15:50:17.568477+01:00",
+"updated": "2026-11-26T16:02:17.568797+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
-"synced": "2026-11-26T15:38:17.568171+01:00",
+"synced": "2026-11-26T15:58:17.568671+01:00",
 "pruned": "2026-11-26",
 "calls": {
 "2026-11-19": 164,
@@ -13,12 +13,16 @@
 "2026-11-23": 155,
 "2026-11-24": 144,
 "2026-11-25": 153,
-"2026-11-26": 104
+"2026-11-26": 108
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAkhCF92a7d4hN+MzhmP9k/2OJC5OiH",
+"snapshot": "AAAkhuvcRdTW/iRgY7Ye75SMsfBBJXFs",
 "playlist": [
+[
+"2026-11-26T15:49|Blumfeld|Der Apfelmann",
+"spotify:track:1bx5oIaQbuKVSBtnFY1U5P"
+],
 [
 "2026-11-26T15:32|Tribalistas|Já Sei Namorar",
 "spotify:track:352FuGmGJClPjojSYjNrXG"
@@ -3540,10 +3544,6 @@
 "spotify:track:0ZUKth5xg7UM6Q73YhDq2w"
 ],
 [
-"2026-11-19T15:58|Godford|The Beast",
-"spotify:track:4TcgJozSkcBjOugERDLmZD"
-],
-[
 "2026-11-19T15:53|Sharon Jones & The Dap-Kings|Little By Little",
 "spotify:track:2OpwPyGcyy84QI1rnw0lg7"
 ],
@@ -3945,6 +3945,18 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-11-26T15:56|Stars|The Night Starts Here",
+"t": "2026-11-26T15:56:00+01:00",
+"artist": "Stars",
+"title": "The Night Starts Here"
+},
+{
+"id": "2026-11-26T15:49|Blumfeld|Der Apfelmann",
+"t": "2026-11-26T15:49:00+01:00",
+"artist": "Blumfeld",
+"title": "Der Apfelmann"
+},
 {
 "id": "2026-11-26T15:32|Tribalistas|Já Sei Namorar",
 "t": "2026-11-26T15:32:00+01:00",
@@ -9350,18 +9362,6 @@
 "t": "2026-11-19T16:05:00+01:00",
 "artist": "Joshua Idehen",
 "title": "Could Be Forever"
-},
-{
-"id": "2026-11-19T15:58|Godford|The Beast",
-"t": "2026-11-19T15:58:00+01:00",
-"artist": "Godford",
-"title": "The Beast"
-},
-{
-"id": "2026-11-19T15:53|Sharon Jones & The Dap-Kings|Little By Little",
-"t": "2026-11-19T15:53:00+01:00",
-"artist": "Sharon Jones & The Dap-Kings",
-"title": "Little By Little"
 }
 ]
 }
