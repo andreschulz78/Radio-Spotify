@@ -1,9 +1,9 @@
 {
-"updated": "2026-11-26T16:02:17.568797+01:00",
+"updated": "2026-11-26T16:14:17.569120+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
-"synced": "2026-11-26T15:58:17.568671+01:00",
+"synced": "2026-11-26T16:14:17.569120+01:00",
 "pruned": "2026-11-26",
 "calls": {
 "2026-11-19": 164,
@@ -13,12 +13,16 @@
 "2026-11-23": 155,
 "2026-11-24": 144,
 "2026-11-25": 153,
-"2026-11-26": 108
+"2026-11-26": 109
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAkhuvcRdTW/iRgY7Ye75SMsfBBJXFs",
+"snapshot": "AAAkhwFeVPu9tphIB5pL3QTl5MQ8Puvp",
 "playlist": [
+[
+"2026-11-26T15:56|Stars|The Night Starts Here",
+"spotify:track:2jBWraeAbImYmC7rRLPnXR"
+],
 [
 "2026-11-26T15:49|Blumfeld|Der Apfelmann",
 "spotify:track:1bx5oIaQbuKVSBtnFY1U5P"
@@ -9350,18 +9354,6 @@
 "t": "2026-11-19T16:16:00+01:00",
 "artist": "Depeche Mode",
 "title": "Blasphemous Rumours"
-},
-{
-"id": "2026-11-19T16:08|The Pierces|You'll Be Mine",
-"t": "2026-11-19T16:08:00+01:00",
-"artist": "The Pierces",
-"title": "You'll Be Mine"
-},
-{
-"id": "2026-11-19T16:05|Joshua Idehen|Could Be Forever",
-"t": "2026-11-19T16:05:00+01:00",
-"artist": "Joshua Idehen",
-"title": "Could Be Forever"
 }
 ]
 }
