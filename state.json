@@ -1,9 +1,9 @@
 {
-"updated": "2026-11-26T07:01:29.506000+01:00",
+"updated": "2026-11-26T07:13:29.506369+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
-"synced": "2026-11-26T06:49:29.505648+01:00",
+"synced": "2026-11-26T07:05:29.506136+01:00",
 "pruned": "2026-11-26",
 "calls": {
 "2026-11-19": 164,
@@ -13,12 +13,24 @@
 "2026-11-23": 155,
 "2026-11-24": 144,
 "2026-11-25": 153,
-"2026-11-26": 24
+"2026-11-26": 25
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAkZQnR+OqtYpPe2DVM0jEtOX3IeI09",
+"snapshot": "AAAkZrFaUMVx4Q6nF3YYAoxWacP8J40+",
 "playlist": [
+[
+"2026-11-26T06:56|Bulgarian Cartrader|Golden Rope",
+"spotify:track:30mL21iWL4aJ17ynNBV4aL"
+],
+[
+"2026-11-26T06:48|Fat Freddy's Drop|Slings And Arrows",
+"spotify:track:6CkVTBIQZbmpU7PkcMuluh"
+],
+[
+"2026-11-26T06:46|Bilderbuch|Baby Junkie",
+"spotify:track:1bPs9oNEaAEUYfCL7tH79W"
+],
 [
 "2026-11-26T06:40|LCD Soundsystem|I Can Change",
 "spotify:track:2073QOEC8rBtSyTsRyaWiP"
@@ -3601,6 +3613,12 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-11-26T07:05|COMA|Beyond You And Me (feat. Dillon) (Ada Remix)",
+"t": "2026-11-26T07:05:00+01:00",
+"artist": "COMA",
+"title": "Beyond You And Me (feat. Dillon) (Ada Remix)"
+},
 {
 "id": "2026-11-26T06:56|Bulgarian Cartrader|Golden Rope",
 "t": "2026-11-26T06:56:00+01:00",
@@ -9006,18 +9024,6 @@
 "t": "2026-11-19T07:15:00+01:00",
 "artist": "Moloko",
 "title": "The Time Is Now"
-},
-{
-"id": "2026-11-19T07:11|Kaktus Einarsson feat. John Grant|Follow",
-"t": "2026-11-19T07:11:00+01:00",
-"artist": "Kaktus Einarsson feat. John Grant",
-"title": "Follow"
-},
-{
-"id": "2026-11-19T07:06|Bel Cobain|Am I Dumb",
-"t": "2026-11-19T07:06:00+01:00",
-"artist": "Bel Cobain",
-"title": "Am I Dumb"
 }
 ]
 }
