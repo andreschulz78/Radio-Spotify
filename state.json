@@ -1,9 +1,9 @@
 {
-"updated": "2026-11-26T17:26:17.571163+01:00",
+"updated": "2026-11-26T17:38:17.571493+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
-"synced": "2026-11-26T17:18:17.570900+01:00",
+"synced": "2026-11-26T17:34:17.571353+01:00",
 "pruned": "2026-11-26",
 "calls": {
 "2026-11-19": 164,
@@ -13,12 +13,20 @@
 "2026-11-23": 155,
 "2026-11-24": 144,
 "2026-11-25": 153,
-"2026-11-26": 120
+"2026-11-26": 124
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAki7MvI30d4iPLAGiMuLFdNaL0hsIE",
+"snapshot": "AAAkjgnYZdmefoEXH8clouuGALGIS/q6",
 "playlist": [
+[
+"2026-11-26T17:17|Aurora|All My Demons Greeting Me As A Friend",
+"spotify:track:5O1tikYb6HKrP5cxSQv0iV"
+],
+[
+"2026-11-26T17:14|Ibeyi|I Wanna Be Like You",
+"spotify:track:72dQDmIiS3bHuRstBJKXUe"
+],
 [
 "2026-11-26T17:05|AA Sessions|Please Please",
 "spotify:track:1R3WkiivNT2ZexFNqFHuIt"
@@ -3522,10 +3530,6 @@
 [
 "2026-11-19T17:38|Ramones|Pet Sematary",
 "spotify:track:07b5vArZtW08PuEqCw61Ei"
-],
-[
-"2026-11-19T17:34|A$AP Rocky|Punk Rocky",
-"spotify:track:5FSvy2wYKnurBi0Nq3wR9F"
 ],
 [
 "2026-11-19T17:25|Bonaparte|KiOSKO",
@@ -9378,18 +9382,6 @@
 "t": "2026-11-19T17:47:00+01:00",
 "artist": "Beirut",
 "title": "Santa Fe"
-},
-{
-"id": "2026-11-19T17:38|Ramones|Pet Sematary",
-"t": "2026-11-19T17:38:00+01:00",
-"artist": "Ramones",
-"title": "Pet Sematary"
-},
-{
-"id": "2026-11-19T17:34|A$AP Rocky|Punk Rocky",
-"t": "2026-11-19T17:34:00+01:00",
-"artist": "A$AP Rocky",
-"title": "Punk Rocky"
 }
 ]
 }
