@@ -1,5 +1,5 @@
 {
-"updated": "2026-11-26T06:01:29.504311+01:00",
+"updated": "2026-11-26T06:13:29.504655+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
@@ -13,7 +13,7 @@
 "2026-11-23": 155,
 "2026-11-24": 144,
 "2026-11-25": 153,
-"2026-11-26": 10
+"2026-11-26": 11
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
@@ -3577,6 +3577,18 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-11-26T06:04|Still Blank|Ain't Quite Right (Edit)",
+"t": "2026-11-26T06:04:00+01:00",
+"artist": "Still Blank",
+"title": "Ain't Quite Right (Edit)"
+},
+{
+"id": "2026-11-26T05:57|Eels|Hey Man (Now You're Really Living)",
+"t": "2026-11-26T05:57:00+01:00",
+"artist": "Eels",
+"title": "Hey Man (Now You're Really Living)"
+},
 {
 "id": "2026-11-26T05:51|Divine Fits|Would That Not Be Nice",
 "t": "2026-11-26T05:51:00+01:00",
@@ -8976,12 +8988,6 @@
 "t": "2026-11-19T06:14:00+01:00",
 "artist": "Fuffifufzich",
 "title": "New Era"
-},
-{
-"id": "2026-11-19T06:06|1-800 Girls feat. Art School Girlfriend|sometimes",
-"t": "2026-11-19T06:06:00+01:00",
-"artist": "1-800 Girls feat. Art School Girlfriend",
-"title": "sometimes"
 }
 ]
 }
