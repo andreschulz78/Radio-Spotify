@@ -1,9 +1,9 @@
 {
-"updated": "2026-11-26T07:25:29.506725+01:00",
+"updated": "2026-11-26T07:37:29.507084+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
-"synced": "2026-11-26T07:21:29.506614+01:00",
+"synced": "2026-11-26T07:37:29.507084+01:00",
 "pruned": "2026-11-26",
 "calls": {
 "2026-11-19": 164,
@@ -13,12 +13,20 @@
 "2026-11-23": 155,
 "2026-11-24": 144,
 "2026-11-25": 153,
-"2026-11-26": 27
+"2026-11-26": 29
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAkZwTb0jjaKWUQOWPbbBcmLWTnMib4",
+"snapshot": "AAAkaObjjivqg+KOnZzHZaa9Ujumzm9M",
 "playlist": [
+[
+"2026-11-26T07:25|Dekker|Not Feeling Up",
+"spotify:track:14ZkouDiiCbDHLNOPqYTZ5"
+],
+[
+"2026-11-26T07:17|Jamiroquai|You Give Me Something",
+"spotify:track:1x6jPyUfLuTNQ3o5zykG2x"
+],
 [
 "2026-11-26T07:14|Alewya|Cairo FM",
 "spotify:track:6v7hCIRoJkuYShT0wls1gD"
@@ -3621,6 +3629,12 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-11-26T07:25|Dekker|Not Feeling Up",
+"t": "2026-11-26T07:25:00+01:00",
+"artist": "Dekker",
+"title": "Not Feeling Up"
+},
 {
 "id": "2026-11-26T07:17|Jamiroquai|You Give Me Something",
 "t": "2026-11-26T07:17:00+01:00",
@@ -9026,12 +9040,6 @@
 "t": "2026-11-19T07:43:00+01:00",
 "artist": "Ibeyi",
 "title": "Hurry Hurry"
-},
-{
-"id": "2026-11-19T07:34|Car Seat Headrest|Martin",
-"t": "2026-11-19T07:34:00+01:00",
-"artist": "Car Seat Headrest",
-"title": "Martin"
 }
 ]
 }
