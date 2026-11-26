@@ -1,9 +1,9 @@
 {
-"updated": "2026-11-26T17:14:17.570755+01:00",
+"updated": "2026-11-26T17:26:17.571163+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
-"synced": "2026-11-26T17:02:17.570427+01:00",
+"synced": "2026-11-26T17:18:17.570900+01:00",
 "pruned": "2026-11-26",
 "calls": {
 "2026-11-19": 164,
@@ -13,12 +13,16 @@
 "2026-11-23": 155,
 "2026-11-24": 144,
 "2026-11-25": 153,
-"2026-11-26": 118
+"2026-11-26": 120
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAkig8k+6svWm43RH/ahASNdeqlukSU",
+"snapshot": "AAAki7MvI30d4iPLAGiMuLFdNaL0hsIE",
 "playlist": [
+[
+"2026-11-26T17:05|AA Sessions|Please Please",
+"spotify:track:1R3WkiivNT2ZexFNqFHuIt"
+],
 [
 "2026-11-26T16:56|Tikhet|Burndowner",
 "spotify:track:76iRkapw7dHIlJhSoy7PCv"
@@ -3981,6 +3985,18 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-11-26T17:17|Aurora|All My Demons Greeting Me As A Friend",
+"t": "2026-11-26T17:17:00+01:00",
+"artist": "Aurora",
+"title": "All My Demons Greeting Me As A Friend"
+},
+{
+"id": "2026-11-26T17:14|Ibeyi|I Wanna Be Like You",
+"t": "2026-11-26T17:14:00+01:00",
+"artist": "Ibeyi",
+"title": "I Wanna Be Like You"
+},
 {
 "id": "2026-11-26T17:05|AA Sessions|Please Please",
 "t": "2026-11-26T17:05:00+01:00",
@@ -9374,18 +9390,6 @@
 "t": "2026-11-19T17:34:00+01:00",
 "artist": "A$AP Rocky",
 "title": "Punk Rocky"
-},
-{
-"id": "2026-11-19T17:25|Bonaparte|KiOSKO",
-"t": "2026-11-19T17:25:00+01:00",
-"artist": "Bonaparte",
-"title": "KiOSKO"
-},
-{
-"id": "2026-11-19T17:16|54 Ultra|Tell Me",
-"t": "2026-11-19T17:16:00+01:00",
-"artist": "54 Ultra",
-"title": "Tell Me"
 }
 ]
 }
