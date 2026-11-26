@@ -1,9 +1,9 @@
 {
-"updated": "2026-11-26T16:38:17.569807+01:00",
+"updated": "2026-11-26T16:50:17.570125+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
-"synced": "2026-11-26T16:30:17.569584+01:00",
+"synced": "2026-11-26T16:46:17.570027+01:00",
 "pruned": "2026-11-26",
 "calls": {
 "2026-11-19": 164,
@@ -13,12 +13,20 @@
 "2026-11-23": 155,
 "2026-11-24": 144,
 "2026-11-25": 153,
-"2026-11-26": 113
+"2026-11-26": 115
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAkiFL74Au9D1PX5tZjXQ12mBDT4cmb",
+"snapshot": "AAAkiecWCPUc7Y4qlTsLVzTNxwCMeKHM",
 "playlist": [
+[
+"2026-11-26T16:37|Andreas Dorau|Meine Lieder",
+"spotify:track:5pOLJTuK7PrdKypOtMqKxn"
+],
+[
+"2026-11-26T16:34|Velar Prana|No Need To Hide",
+"spotify:track:18ROv1EYf2tvOonCRrTq19"
+],
 [
 "2026-11-26T16:24|Santigold|Disparate Youth",
 "spotify:track:7d23MhPFE9eB3U8DPRirnL"
@@ -3965,6 +3973,18 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-11-26T16:37|Andreas Dorau|Meine Lieder",
+"t": "2026-11-26T16:37:00+01:00",
+"artist": "Andreas Dorau",
+"title": "Meine Lieder"
+},
+{
+"id": "2026-11-26T16:34|Velar Prana|No Need To Hide",
+"t": "2026-11-26T16:34:00+01:00",
+"artist": "Velar Prana",
+"title": "No Need To Hide"
+},
 {
 "id": "2026-11-26T16:24|Santigold|Disparate Youth",
 "t": "2026-11-26T16:24:00+01:00",
@@ -9358,30 +9378,6 @@
 "t": "2026-11-19T16:58:00+01:00",
 "artist": "Ghost Woman",
 "title": "The End of a Gun"
-},
-{
-"id": "2026-11-19T16:50|The Big Moon|F.O.R.E.V.E.R",
-"t": "2026-11-19T16:50:00+01:00",
-"artist": "The Big Moon",
-"title": "F.O.R.E.V.E.R"
-},
-{
-"id": "2026-11-19T16:47|Superfunk feat. Ron Carroll|Lucky Star",
-"t": "2026-11-19T16:47:00+01:00",
-"artist": "Superfunk feat. Ron Carroll",
-"title": "Lucky Star"
-},
-{
-"id": "2026-11-19T16:43|Nightbus|Angles Mortz",
-"t": "2026-11-19T16:43:00+01:00",
-"artist": "Nightbus",
-"title": "Angles Mortz"
-},
-{
-"id": "2026-11-19T16:39|Mocky feat. Taylor Savvy|Catch A Moment In Time",
-"t": "2026-11-19T16:39:00+01:00",
-"artist": "Mocky feat. Taylor Savvy",
-"title": "Catch A Moment In Time"
 }
 ]
 }
