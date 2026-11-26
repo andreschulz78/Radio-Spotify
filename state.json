@@ -1,9 +1,9 @@
 {
-"updated": "2026-11-26T13:26:17.564429+01:00",
+"updated": "2026-11-26T13:38:17.564724+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
-"synced": "2026-11-26T13:14:17.564118+01:00",
+"synced": "2026-11-26T13:30:17.564536+01:00",
 "pruned": "2026-11-26",
 "calls": {
 "2026-11-19": 164,
@@ -13,12 +13,24 @@
 "2026-11-23": 155,
 "2026-11-24": 144,
 "2026-11-25": 153,
-"2026-11-26": 60
+"2026-11-26": 75
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAkcNxtuZ3F728xERyjaMK4KvNy/5u3",
+"snapshot": "AAAkd9Ud7eyNs+/FT8CMnQmMUSbgWrJe",
 "playlist": [
+[
+"2026-11-26T13:25|Paul Weller|Thinking Of You",
+"spotify:track:3AiGqxUUZZnVeRVShzutsy"
+],
+[
+"2026-11-26T13:19|Mittekill|Jungejungejunge feat. Drunk at Your Wedding",
+"spotify:track:2fAWRrqzJAdHAszWZdrsf2"
+],
+[
+"2026-11-26T13:15|Anderson .Paak & Cordae|A Good Day",
+"spotify:track:4CrnExkcZkg6Aek113hAWl"
+],
 [
 "2026-11-26T13:05|Jesse Mac Cormack|Let it go",
 "spotify:track:33CAV33y6SsYSyF13t46Jz"
@@ -40,12 +52,24 @@
 "spotify:track:5cZ6iDczIvnNezs5sqdgU8"
 ],
 [
+"2026-11-26T12:38|Wintersleep|Weighty ghost",
+"spotify:track:1RBXohVxCKn4zWDVRp4WJv"
+],
+[
 "2026-11-26T12:35|Natalie Jane Hill|Never Left Me",
 "spotify:track:5mYV6uf5S0ChjFoLJWUJHI"
 ],
 [
 "2026-11-26T12:32|The Avalanches feat. Karen O|Blue Shadows",
 "spotify:track:5bN5To0VLbNBKQDzJ1Lk6c"
+],
+[
+"2026-11-26T12:28|Odd Beholder|Disaster Movies",
+"spotify:track:6k1h9aqQCgr5b9EtHkRAXs"
+],
+[
+"2026-11-26T12:21|Fat Freddy’s Drop|Trickle Down",
+"spotify:track:669XSi7gy4LaS5pVfNUehf"
 ],
 [
 "2026-11-26T12:17|Hether|Falling For The Feeling",
@@ -62,6 +86,10 @@
 [
 "2026-11-26T12:05|Passion Mango|Bloody Eyes",
 "spotify:track:4YUBcBSUIXfCNNFAaWQcyG"
+],
+[
+"2026-11-26T11:55|Gus Gus|Crossfade",
+"spotify:track:0sq4bhOMAC0Zae8XtNDkuD"
 ],
 [
 "2026-11-26T11:49|2raumwohnung|Lass die Pferde frei (Radio Edit)",
@@ -92,6 +120,10 @@
 "spotify:track:0YosJMrYxYQP7mLXfFo0p1"
 ],
 [
+"2026-11-26T11:17|The Rolling Stones|Start Me Up",
+"spotify:track:7HKez549fwJQDzx3zLjHKC"
+],
+[
 "2026-11-26T11:09|Parov Stelar feat. Marvin Gaye|Keep On Dancing",
 "spotify:track:6x9QLjnRsyvf1jJN2KsqmT"
 ],
@@ -104,8 +136,32 @@
 "spotify:track:4hs9EAQ8t9Ch4WrlnMG8ac"
 ],
 [
+"2026-11-26T10:49|Ilgen-Nur|Purple Moon",
+"spotify:track:0O1S4dPj32c91BpyiHdo7L"
+],
+[
+"2026-11-26T10:38|Gregory Porter|Revival",
+"spotify:track:0uW9gZMn6SVBSVp39umUy7"
+],
+[
 "2026-11-26T10:34|Automatic|Mercury",
 "spotify:track:0koaXm11b7sizUYJ67ebyn"
+],
+[
+"2026-11-26T10:27|Richard Ashcroft|C'mon People (We're Making It Now)",
+"spotify:track:0el3oEi0JhpxGiaovdaeny"
+],
+[
+"2026-11-26T10:22|Sans Parade|Hyperborea",
+"spotify:track:6vDXYPCir2yfvwG3AVZv5w"
+],
+[
+"2026-11-26T10:18|Nirvana|All Apologies",
+"spotify:track:3bH8PZsfbCRIoeNiFm7JmU"
+],
+[
+"2026-11-26T10:09|Kaiser Chiefs|Love's Not A Competition (But I'm Winning)",
+"spotify:track:1xtvsB3EXwyM5broVA0CMU"
 ],
 [
 "2026-11-26T10:05|Kaktus Einarsson feat. John Grant|Follow",
@@ -3805,6 +3861,18 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-11-26T13:32|The Big Moon|F.O.R.E.V.E.R",
+"t": "2026-11-26T13:32:00+01:00",
+"artist": "The Big Moon",
+"title": "F.O.R.E.V.E.R"
+},
+{
+"id": "2026-11-26T13:25|Paul Weller|Thinking Of You",
+"t": "2026-11-26T13:25:00+01:00",
+"artist": "Paul Weller",
+"title": "Thinking Of You"
+},
 {
 "id": "2026-11-26T13:19|Mittekill|Jungejungejunge feat. Drunk at Your Wedding",
 "t": "2026-11-26T13:19:00+01:00",
@@ -9204,24 +9272,6 @@
 "t": "2026-11-19T13:41:00+01:00",
 "artist": "Etienne de Crécy",
 "title": "Prix Choc"
-},
-{
-"id": "2026-11-19T13:38|Gabriels|Break It",
-"t": "2026-11-19T13:38:00+01:00",
-"artist": "Gabriels",
-"title": "Break It"
-},
-{
-"id": "2026-11-19T13:33|K. Flay|Bad Things",
-"t": "2026-11-19T13:33:00+01:00",
-"artist": "K. Flay",
-"title": "Bad Things"
-},
-{
-"id": "2026-11-19T13:27|Interpol|Iron City",
-"t": "2026-11-19T13:27:00+01:00",
-"artist": "Interpol",
-"title": "Iron City"
 }
 ]
 }
