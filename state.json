@@ -1,5 +1,5 @@
 {
-"updated": "2026-11-26T06:49:29.505648+01:00",
+"updated": "2026-11-26T07:01:29.506000+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
@@ -13,7 +13,7 @@
 "2026-11-23": 155,
 "2026-11-24": 144,
 "2026-11-25": 153,
-"2026-11-26": 23
+"2026-11-26": 24
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
@@ -3601,6 +3601,24 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-11-26T06:56|Bulgarian Cartrader|Golden Rope",
+"t": "2026-11-26T06:56:00+01:00",
+"artist": "Bulgarian Cartrader",
+"title": "Golden Rope"
+},
+{
+"id": "2026-11-26T06:48|Fat Freddy's Drop|Slings And Arrows",
+"t": "2026-11-26T06:48:00+01:00",
+"artist": "Fat Freddy's Drop",
+"title": "Slings And Arrows"
+},
+{
+"id": "2026-11-26T06:46|Bilderbuch|Baby Junkie",
+"t": "2026-11-26T06:46:00+01:00",
+"artist": "Bilderbuch",
+"title": "Baby Junkie"
+},
 {
 "id": "2026-11-26T06:40|LCD Soundsystem|I Can Change",
 "t": "2026-11-26T06:40:00+01:00",
@@ -9000,12 +9018,6 @@
 "t": "2026-11-19T07:06:00+01:00",
 "artist": "Bel Cobain",
 "title": "Am I Dumb"
-},
-{
-"id": "2026-11-19T06:56|Roots Manuva|Don't Breathe Out",
-"t": "2026-11-19T06:56:00+01:00",
-"artist": "Roots Manuva",
-"title": "Don't Breathe Out"
 }
 ]
 }
