@@ -1,5 +1,5 @@
 {
-"updated": "2026-11-26T17:50:17.571843+01:00",
+"updated": "2026-11-26T18:02:17.572160+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
@@ -13,7 +13,7 @@
 "2026-11-23": 155,
 "2026-11-24": 144,
 "2026-11-25": 153,
-"2026-11-26": 127
+"2026-11-26": 129
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
@@ -4001,6 +4001,18 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-11-26T17:56|Musa Dagh|Plural Me",
+"t": "2026-11-26T17:56:00+01:00",
+"artist": "Musa Dagh",
+"title": "Plural Me"
+},
+{
+"id": "2026-11-26T17:49|Herbie Hancock|Rockit",
+"t": "2026-11-26T17:49:00+01:00",
+"artist": "Herbie Hancock",
+"title": "Rockit"
+},
 {
 "id": "2026-11-26T17:45|L'Impératrice feat. Rejjie Snow|Everything Eventually Ends",
 "t": "2026-11-26T17:45:00+01:00",
@@ -9394,18 +9406,6 @@
 "t": "2026-11-19T18:06:00+01:00",
 "artist": "Fontaines D.C. & ROSALIA",
 "title": "Where Is Gone?"
-},
-{
-"id": "2026-11-19T17:57|Peter Doherty & Frédéric Lo|You Can’t Keep It From Me Forever",
-"t": "2026-11-19T17:57:00+01:00",
-"artist": "Peter Doherty & Frédéric Lo",
-"title": "You Can’t Keep It From Me Forever"
-},
-{
-"id": "2026-11-19T17:51|Django Django|Headrush",
-"t": "2026-11-19T17:51:00+01:00",
-"artist": "Django Django",
-"title": "Headrush"
 }
 ]
 }
