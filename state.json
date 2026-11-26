@@ -1,5 +1,5 @@
 {
-"updated": "2026-11-26T16:14:17.569120+01:00",
+"updated": "2026-11-26T16:26:17.569443+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
@@ -13,7 +13,7 @@
 "2026-11-23": 155,
 "2026-11-24": 144,
 "2026-11-25": 153,
-"2026-11-26": 109
+"2026-11-26": 112
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
@@ -3949,6 +3949,30 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-11-26T16:22|Mancini, Henry & His Orchestra|Baby elephant walk",
+"t": "2026-11-26T16:22:00+01:00",
+"artist": "Mancini, Henry & His Orchestra",
+"title": "Baby elephant walk"
+},
+{
+"id": "2026-11-26T16:17|Inner City|Good Life",
+"t": "2026-11-26T16:17:00+01:00",
+"artist": "Inner City",
+"title": "Good Life"
+},
+{
+"id": "2026-11-26T16:09|Agnes Obel|Laymelli (Edit)",
+"t": "2026-11-26T16:09:00+01:00",
+"artist": "Agnes Obel",
+"title": "Laymelli (Edit)"
+},
+{
+"id": "2026-11-26T16:06|Olivia Dean|Nice To Each Other (Radio Edit)",
+"t": "2026-11-26T16:06:00+01:00",
+"artist": "Olivia Dean",
+"title": "Nice To Each Other (Radio Edit)"
+},
 {
 "id": "2026-11-26T15:56|Stars|The Night Starts Here",
 "t": "2026-11-26T15:56:00+01:00",
@@ -9342,18 +9366,6 @@
 "t": "2026-11-19T16:32:00+01:00",
 "artist": "Antony Szmierek",
 "title": "Seminal (Edit)"
-},
-{
-"id": "2026-11-19T16:21|MGMT|Little Dark Age",
-"t": "2026-11-19T16:21:00+01:00",
-"artist": "MGMT",
-"title": "Little Dark Age"
-},
-{
-"id": "2026-11-19T16:16|Depeche Mode|Blasphemous Rumours",
-"t": "2026-11-19T16:16:00+01:00",
-"artist": "Depeche Mode",
-"title": "Blasphemous Rumours"
 }
 ]
 }
