@@ -1,9 +1,9 @@
 {
-"updated": "2026-11-26T14:38:17.566430+01:00",
+"updated": "2026-11-26T14:50:17.566830+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
-"synced": "2026-11-26T14:34:17.566319+01:00",
+"synced": "2026-11-26T14:50:17.566830+01:00",
 "pruned": "2026-11-26",
 "calls": {
 "2026-11-19": 164,
@@ -13,12 +13,28 @@
 "2026-11-23": 155,
 "2026-11-24": 144,
 "2026-11-25": 153,
-"2026-11-26": 86
+"2026-11-26": 93
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAke0HbnGP/TODfscPTYnifhiy1Y613",
+"snapshot": "AAAkgCa4WQpoBOblnNYCZel2VDeOXjry",
 "playlist": [
+[
+"2026-11-26T14:45|Leon Bridges|Talk it over",
+"spotify:track:5Bdn8RyTqz4dV7F07EFBP5"
+],
+[
+"2026-11-26T14:41|Leonard Cohen|Hallelujah",
+"spotify:track:25MGkEU5c68sOY4kiLaR5z"
+],
+[
+"2026-11-26T14:34|Iggy Pop|Gardenia",
+"spotify:track:3iE5qFA9uxW8V97GTEUMUL"
+],
+[
+"2026-11-26T14:30|Abigail Rose|Run Girl",
+"spotify:track:1EXPvLOe03nO09WF0LNSwg"
+],
 [
 "2026-11-26T14:23|The Strokes|On The Other Side",
 "spotify:track:6oqJLFTbJ6PkgPfU0Mtjix"
@@ -3532,10 +3548,6 @@
 "spotify:track:4FlNj8oEuikVspfVWzMZVz"
 ],
 [
-"2026-11-19T14:50|Overmono feat. Ruthven|Gem Lingo (ovr now)",
-"spotify:track:6dSqM0tWJPlchpmGrEwC1c"
-],
-[
 "2026-11-19T14:47|Ladaniva|Margarita",
 "spotify:track:6J0xM2E9cQsStwo340IlJa"
 ],
@@ -3905,6 +3917,24 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-11-26T14:45|Leon Bridges|Talk it over",
+"t": "2026-11-26T14:45:00+01:00",
+"artist": "Leon Bridges",
+"title": "Talk it over"
+},
+{
+"id": "2026-11-26T14:41|Leonard Cohen|Hallelujah",
+"t": "2026-11-26T14:41:00+01:00",
+"artist": "Leonard Cohen",
+"title": "Hallelujah"
+},
+{
+"id": "2026-11-26T14:34|Iggy Pop|Gardenia",
+"t": "2026-11-26T14:34:00+01:00",
+"artist": "Iggy Pop",
+"title": "Gardenia"
+},
 {
 "id": "2026-11-26T14:30|Abigail Rose|Run Girl",
 "t": "2026-11-26T14:30:00+01:00",
@@ -9304,30 +9334,6 @@
 "t": "2026-11-19T14:56:00+01:00",
 "artist": "Fleet Foxes",
 "title": "He Doesn't Know Why"
-},
-{
-"id": "2026-11-19T14:50|Overmono feat. Ruthven|Gem Lingo (ovr now)",
-"t": "2026-11-19T14:50:00+01:00",
-"artist": "Overmono feat. Ruthven",
-"title": "Gem Lingo (ovr now)"
-},
-{
-"id": "2026-11-19T14:47|Ladaniva|Margarita",
-"t": "2026-11-19T14:47:00+01:00",
-"artist": "Ladaniva",
-"title": "Margarita"
-},
-{
-"id": "2026-11-19T14:43|Maribou State feat. Khruangbin|Feel Good",
-"t": "2026-11-19T14:43:00+01:00",
-"artist": "Maribou State feat. Khruangbin",
-"title": "Feel Good"
-},
-{
-"id": "2026-11-19T14:39|Muse|Plug In Baby",
-"t": "2026-11-19T14:39:00+01:00",
-"artist": "Muse",
-"title": "Plug In Baby"
 }
 ]
 }
