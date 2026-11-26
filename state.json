@@ -1,9 +1,9 @@
 {
-"updated": "2026-11-26T18:02:17.572160+01:00",
+"updated": "2026-11-26T18:14:17.572432+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
-"synced": "2026-11-26T17:50:17.571843+01:00",
+"synced": "2026-11-26T18:06:17.572257+01:00",
 "pruned": "2026-11-26",
 "calls": {
 "2026-11-19": 164,
@@ -13,12 +13,20 @@
 "2026-11-23": 155,
 "2026-11-24": 144,
 "2026-11-25": 153,
-"2026-11-26": 129
+"2026-11-26": 134
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAkj2NSKnw9D7cobVyRgr7H4sKmZy52",
+"snapshot": "AAAkkw6d8E85GL5EFgqN4LeQ9e9YwrCk",
 "playlist": [
+[
+"2026-11-26T17:56|Musa Dagh|Plural Me",
+"spotify:track:6m6OsRtEfTAOcNQvjf2dbY"
+],
+[
+"2026-11-26T17:49|Herbie Hancock|Rockit",
+"spotify:track:2nWHzbBWBOePUvAImQv2So"
+],
 [
 "2026-11-26T17:45|L'Impératrice feat. Rejjie Snow|Everything Eventually Ends",
 "spotify:track:5LInOGDHqrgetnMlnvaDNq"
@@ -3524,10 +3532,6 @@
 "spotify:track:6zsGbLCYfowCehwxHdpHlG"
 ],
 [
-"2026-11-19T18:06|Fontaines D.C. & ROSALIA|Where Is Gone?",
-"spotify:track:6ZH1yeWUf3Xp2XO0EZk91i"
-],
-[
 "2026-11-19T17:57|Peter Doherty & Frédéric Lo|You Can’t Keep It From Me Forever",
 "spotify:track:2l8j0MVvaz0bPvMRp9PTWz"
 ],
@@ -4001,6 +4005,12 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-11-26T18:06|Grandaddy|Evermore",
+"t": "2026-11-26T18:06:00+01:00",
+"artist": "Grandaddy",
+"title": "Evermore"
+},
 {
 "id": "2026-11-26T17:56|Musa Dagh|Plural Me",
 "t": "2026-11-26T17:56:00+01:00",
@@ -9400,12 +9410,6 @@
 "t": "2026-11-19T18:17:00+01:00",
 "artist": "Monkey Safari",
 "title": "Shelter (Radio-Edit)"
-},
-{
-"id": "2026-11-19T18:06|Fontaines D.C. & ROSALIA|Where Is Gone?",
-"t": "2026-11-19T18:06:00+01:00",
-"artist": "Fontaines D.C. & ROSALIA",
-"title": "Where Is Gone?"
 }
 ]
 }
