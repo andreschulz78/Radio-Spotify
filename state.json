@@ -1,5 +1,5 @@
 {
-"updated": "2026-11-26T15:38:17.568171+01:00",
+"updated": "2026-11-26T15:50:17.568477+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
@@ -9362,12 +9362,6 @@
 "t": "2026-11-19T15:53:00+01:00",
 "artist": "Sharon Jones & The Dap-Kings",
 "title": "Little By Little"
-},
-{
-"id": "2026-11-19T15:45|Ash|Shining Light (Radio Edit)",
-"t": "2026-11-19T15:45:00+01:00",
-"artist": "Ash",
-"title": "Shining Light (Radio Edit)"
 }
 ]
 }
