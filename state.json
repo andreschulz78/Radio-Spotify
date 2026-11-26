@@ -1,9 +1,9 @@
 {
-"updated": "2026-11-26T14:26:17.566055+01:00",
+"updated": "2026-11-26T14:38:17.566430+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
-"synced": "2026-11-26T14:18:17.565809+01:00",
+"synced": "2026-11-26T14:34:17.566319+01:00",
 "pruned": "2026-11-26",
 "calls": {
 "2026-11-19": 164,
@@ -13,12 +13,20 @@
 "2026-11-23": 155,
 "2026-11-24": 144,
 "2026-11-25": 153,
-"2026-11-26": 83
+"2026-11-26": 86
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAkeqbtC3gF2GkiwOxxAoOw9Z3Fada/",
+"snapshot": "AAAke0HbnGP/TODfscPTYnifhiy1Y613",
 "playlist": [
+[
+"2026-11-26T14:23|The Strokes|On The Other Side",
+"spotify:track:6oqJLFTbJ6PkgPfU0Mtjix"
+],
+[
+"2026-11-26T14:19|Coolio|C U when U get there (See you when you get there)",
+"spotify:track:6uWez0py1zc17F7hjp7jIt"
+],
 [
 "2026-11-26T14:10|Lola Young|Not Like That Anymore",
 "spotify:track:6ugu9WpCEHXmns0PiqYTU1"
@@ -3897,6 +3905,18 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-11-26T14:30|Abigail Rose|Run Girl",
+"t": "2026-11-26T14:30:00+01:00",
+"artist": "Abigail Rose",
+"title": "Run Girl"
+},
+{
+"id": "2026-11-26T14:23|The Strokes|On The Other Side",
+"t": "2026-11-26T14:23:00+01:00",
+"artist": "The Strokes",
+"title": "On The Other Side"
+},
 {
 "id": "2026-11-26T14:19|Coolio|C U when U get there (See you when you get there)",
 "t": "2026-11-26T14:19:00+01:00",
@@ -9308,12 +9328,6 @@
 "t": "2026-11-19T14:39:00+01:00",
 "artist": "Muse",
 "title": "Plug In Baby"
-},
-{
-"id": "2026-11-19T14:31|Balu Brigada|Backseat (Edit)",
-"t": "2026-11-19T14:31:00+01:00",
-"artist": "Balu Brigada",
-"title": "Backseat (Edit)"
 }
 ]
 }
