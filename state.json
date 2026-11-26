@@ -1,9 +1,9 @@
 {
-"updated": "2026-11-26T05:37:29.503541+01:00",
+"updated": "2026-11-26T05:49:29.503893+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
-"synced": "2026-11-26T05:29:29.503317+01:00",
+"synced": "2026-11-26T05:45:29.503780+01:00",
 "pruned": "2026-11-26",
 "calls": {
 "2026-11-19": 164,
@@ -13,12 +13,32 @@
 "2026-11-23": 155,
 "2026-11-24": 144,
 "2026-11-25": 153,
-"2026-11-26": 2
+"2026-11-26": 5
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAkXVzM/jPoSN6OCV7UKFe+EiZYfKL5",
+"snapshot": "AAAkXgFkIuKyjWSDDIE32xL8XNuON4lD",
 "playlist": [
+[
+"2026-11-26T05:40|Goldfrapp|A & E",
+"spotify:track:4wcMXhlzsb5H8puFcvwQga"
+],
+[
+"2026-11-26T05:36|Nylon|Ein Tag, den du magst",
+"spotify:track:4siBHSrzSgBuCuzShBk6FN"
+],
+[
+"2026-11-26T05:31|Die Sauna|ich liebe dich",
+"spotify:track:6hlw9o1GgUSSummPTKacU0"
+],
+[
+"2026-11-26T05:27|Beatsteaks|I Do.",
+"spotify:track:1zP1ZFlTK9D425XHGwKORp"
+],
+[
+"2026-11-26T05:24|John Lennon & Plastic Ono Band|Instant Karma!",
+"spotify:track:0NgFZWdvnv218PVnY4I8UT"
+],
 [
 "2026-11-26T05:15|The Drums feat. Mareux|It Didn't Matter",
 "spotify:track:10kxTiNUTo4nlEbH1EzoX1"
@@ -3545,6 +3565,18 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-11-26T05:40|Goldfrapp|A & E",
+"t": "2026-11-26T05:40:00+01:00",
+"artist": "Goldfrapp",
+"title": "A & E"
+},
+{
+"id": "2026-11-26T05:36|Nylon|Ein Tag, den du magst",
+"t": "2026-11-26T05:36:00+01:00",
+"artist": "Nylon",
+"title": "Ein Tag, den du magst"
+},
 {
 "id": "2026-11-26T05:31|Die Sauna|ich liebe dich",
 "t": "2026-11-26T05:31:00+01:00",
@@ -8932,18 +8964,6 @@
 "t": "2026-11-19T05:52:00+01:00",
 "artist": "Ibibio Sound Machine",
 "title": "Love"
-},
-{
-"id": "2026-11-19T05:47|Bing Austria & The Flippin' Soul Stompers|Ruined Heart (Rocksteady)",
-"t": "2026-11-19T05:47:00+01:00",
-"artist": "Bing Austria & The Flippin' Soul Stompers",
-"title": "Ruined Heart (Rocksteady)"
-},
-{
-"id": "2026-11-19T05:41|MorMor feat. Celeste|Like Heaven",
-"t": "2026-11-19T05:41:00+01:00",
-"artist": "MorMor feat. Celeste",
-"title": "Like Heaven"
 }
 ]
 }
