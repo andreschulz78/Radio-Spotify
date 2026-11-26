@@ -1,9 +1,9 @@
 {
-"updated": "2026-11-26T07:49:29.507471+01:00",
+"updated": "2026-11-26T08:01:29.507770+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
-"synced": "2026-11-26T07:37:29.507084+01:00",
+"synced": "2026-11-26T07:53:29.507555+01:00",
 "pruned": "2026-11-26",
 "calls": {
 "2026-11-19": 164,
@@ -13,12 +13,24 @@
 "2026-11-23": 155,
 "2026-11-24": 144,
 "2026-11-25": 153,
-"2026-11-26": 29
+"2026-11-26": 33
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAkaObjjivqg+KOnZzHZaa9Ujumzm9M",
+"snapshot": "AAAkaVSI7RrwAia53xmg6v6OjKVBZEv2",
 "playlist": [
+[
+"2026-11-26T07:45|The Last Shadow Puppets|Standing Next To Me",
+"spotify:track:03F0Hspx6mEkiiYqEzVu5u"
+],
+[
+"2026-11-26T07:38|Madanii|Dast",
+"spotify:track:5SSr4HGGR8XtEbpV9tDPHx"
+],
+[
+"2026-11-26T07:32|Bonobo feat. Joy Crookes|Always on Your Side",
+"spotify:track:6jJTpzMquQLVuUkM2vVEIF"
+],
 [
 "2026-11-26T07:25|Dekker|Not Feeling Up",
 "spotify:track:14ZkouDiiCbDHLNOPqYTZ5"
@@ -3629,6 +3641,24 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-11-26T07:57|Shabazz Palaces feat. Thaddillac|Shine A Light",
+"t": "2026-11-26T07:57:00+01:00",
+"artist": "Shabazz Palaces feat. Thaddillac",
+"title": "Shine A Light"
+},
+{
+"id": "2026-11-26T07:50|Udo Lindenberg feat. Jan Delay|Ganz anders",
+"t": "2026-11-26T07:50:00+01:00",
+"artist": "Udo Lindenberg feat. Jan Delay",
+"title": "Ganz anders"
+},
+{
+"id": "2026-11-26T07:45|The Last Shadow Puppets|Standing Next To Me",
+"t": "2026-11-26T07:45:00+01:00",
+"artist": "The Last Shadow Puppets",
+"title": "Standing Next To Me"
+},
 {
 "id": "2026-11-26T07:38|Madanii|Dast",
 "t": "2026-11-26T07:38:00+01:00",
@@ -9028,18 +9058,6 @@
 "t": "2026-11-19T08:07:00+01:00",
 "artist": "Dawes",
 "title": "When My Time Comes"
-},
-{
-"id": "2026-11-19T07:56|Florence + The Machine|Hunger",
-"t": "2026-11-19T07:56:00+01:00",
-"artist": "Florence + The Machine",
-"title": "Hunger"
-},
-{
-"id": "2026-11-19T07:51|Vince Staples|Tulsa, OK",
-"t": "2026-11-19T07:51:00+01:00",
-"artist": "Vince Staples",
-"title": "Tulsa, OK"
 }
 ]
 }
