@@ -1,9 +1,9 @@
 {
-"updated": "2026-11-26T17:38:17.571493+01:00",
+"updated": "2026-11-26T17:50:17.571843+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
-"synced": "2026-11-26T17:34:17.571353+01:00",
+"synced": "2026-11-26T17:50:17.571843+01:00",
 "pruned": "2026-11-26",
 "calls": {
 "2026-11-19": 164,
@@ -13,12 +13,24 @@
 "2026-11-23": 155,
 "2026-11-24": 144,
 "2026-11-25": 153,
-"2026-11-26": 124
+"2026-11-26": 127
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAkjgnYZdmefoEXH8clouuGALGIS/q6",
+"snapshot": "AAAkj2NSKnw9D7cobVyRgr7H4sKmZy52",
 "playlist": [
+[
+"2026-11-26T17:45|L'Impératrice feat. Rejjie Snow|Everything Eventually Ends",
+"spotify:track:5LInOGDHqrgetnMlnvaDNq"
+],
+[
+"2026-11-26T17:37|FEMME|Fever Boy",
+"spotify:track:5QdmA7Ilf4TSKAlLQYjVzb"
+],
+[
+"2026-11-26T17:34|Ibibio Sound Machine|Love",
+"spotify:track:0JGa4KrhqriWUuPcni3I8D"
+],
 [
 "2026-11-26T17:17|Aurora|All My Demons Greeting Me As A Friend",
 "spotify:track:5O1tikYb6HKrP5cxSQv0iV"
@@ -3989,6 +4001,24 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-11-26T17:45|L'Impératrice feat. Rejjie Snow|Everything Eventually Ends",
+"t": "2026-11-26T17:45:00+01:00",
+"artist": "L'Impératrice feat. Rejjie Snow",
+"title": "Everything Eventually Ends"
+},
+{
+"id": "2026-11-26T17:37|FEMME|Fever Boy",
+"t": "2026-11-26T17:37:00+01:00",
+"artist": "FEMME",
+"title": "Fever Boy"
+},
+{
+"id": "2026-11-26T17:34|Ibibio Sound Machine|Love",
+"t": "2026-11-26T17:34:00+01:00",
+"artist": "Ibibio Sound Machine",
+"title": "Love"
+},
 {
 "id": "2026-11-26T17:17|Aurora|All My Demons Greeting Me As A Friend",
 "t": "2026-11-26T17:17:00+01:00",
@@ -9376,12 +9406,6 @@
 "t": "2026-11-19T17:51:00+01:00",
 "artist": "Django Django",
 "title": "Headrush"
-},
-{
-"id": "2026-11-19T17:47|Beirut|Santa Fe",
-"t": "2026-11-19T17:47:00+01:00",
-"artist": "Beirut",
-"title": "Santa Fe"
 }
 ]
 }
