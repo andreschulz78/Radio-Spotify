@@ -1,9 +1,9 @@
 {
-"updated": "2026-11-26T14:14:17.565714+01:00",
+"updated": "2026-11-26T14:26:17.566055+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
-"synced": "2026-11-26T14:02:17.565391+01:00",
+"synced": "2026-11-26T14:18:17.565809+01:00",
 "pruned": "2026-11-26",
 "calls": {
 "2026-11-19": 164,
@@ -13,12 +13,24 @@
 "2026-11-23": 155,
 "2026-11-24": 144,
 "2026-11-25": 153,
-"2026-11-26": 80
+"2026-11-26": 83
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAkeeLWIi5pySUbEAKO2ntzFAg7WF4z",
+"snapshot": "AAAkeqbtC3gF2GkiwOxxAoOw9Z3Fada/",
 "playlist": [
+[
+"2026-11-26T14:10|Lola Young|Not Like That Anymore",
+"spotify:track:6ugu9WpCEHXmns0PiqYTU1"
+],
+[
+"2026-11-26T14:06|Overmono feat. Ruthven|Gem Lingo (ovr now)",
+"spotify:track:6dSqM0tWJPlchpmGrEwC1c"
+],
+[
+"2026-11-26T13:58|Modeselektor|IWUDLYK",
+"spotify:track:0ETCwiSL7d6N9Wg4jJn5Gz"
+],
 [
 "2026-11-26T13:55|Jordan Rakei|Enemies",
 "spotify:track:0X9GwAax0c0HPe3iIoDVW6"
@@ -3885,6 +3897,18 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-11-26T14:19|Coolio|C U when U get there (See you when you get there)",
+"t": "2026-11-26T14:19:00+01:00",
+"artist": "Coolio",
+"title": "C U when U get there (See you when you get there)"
+},
+{
+"id": "2026-11-26T14:10|Lola Young|Not Like That Anymore",
+"t": "2026-11-26T14:10:00+01:00",
+"artist": "Lola Young",
+"title": "Not Like That Anymore"
+},
 {
 "id": "2026-11-26T14:06|Overmono feat. Ruthven|Gem Lingo (ovr now)",
 "t": "2026-11-26T14:06:00+01:00",
@@ -9290,18 +9314,6 @@
 "t": "2026-11-19T14:31:00+01:00",
 "artist": "Balu Brigada",
 "title": "Backseat (Edit)"
-},
-{
-"id": "2026-11-19T14:24|New Order|Blue Monday (1988)",
-"t": "2026-11-19T14:24:00+01:00",
-"artist": "New Order",
-"title": "Blue Monday (1988)"
-},
-{
-"id": "2026-11-19T14:19|Vampire Weekend|One (Blake's Got A New Face)",
-"t": "2026-11-19T14:19:00+01:00",
-"artist": "Vampire Weekend",
-"title": "One (Blake's Got A New Face)"
 }
 ]
 }
