@@ -1,9 +1,9 @@
 {
-"updated": "2026-11-26T23:04:16.726837+01:00",
+"updated": "2026-11-26T23:16:16.727120+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
-"synced": "2026-11-26T22:52:16.726476+01:00",
+"synced": "2026-11-26T23:08:16.726937+01:00",
 "pruned": "2026-11-26",
 "calls": {
 "2026-11-19": 164,
@@ -13,11 +13,11 @@
 "2026-11-23": 155,
 "2026-11-24": 144,
 "2026-11-25": 153,
-"2026-11-26": 147
+"2026-11-26": 149
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAklvPwdx82cPtVVTPlc2rMaZ2IJK9g",
+"snapshot": "AAAkmJivfwic176/9U+FoZEnx/pU57pA",
 "playlist": [
 [
 "2026-11-26T20:52|Karl die Große|Liebeslied",
@@ -60,12 +60,20 @@
 "spotify:track:4kbYevkszYmMhoQcwnR7cZ"
 ],
 [
+"2026-11-26T19:43|Bob Dylan|The Times They Are a-Changin'",
+"spotify:track:52vA3CYKZqZVdQnzRrdZt6"
+],
+[
 "2026-11-26T19:31|Bleachers|Blood Brothers",
 "spotify:track:7aMdmpShbYFRbdJigosY7C"
 ],
 [
 "2026-11-26T19:06|Tom Misch|Slow Tonight",
 "spotify:track:7cpoZVJlz9euhcgUfQBMRL"
+],
+[
+"2026-11-26T18:56|X-Press 2 feat. David Byrne|Lazy",
+"spotify:track:2kupxQWxq4mmfAICjsqEnP"
 ],
 [
 "2026-11-26T18:51|Noga Erez|Come Back Home",
