@@ -1,9 +1,9 @@
 {
-"updated": "2026-11-26T16:26:17.569443+01:00",
+"updated": "2026-11-26T16:38:17.569807+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
-"synced": "2026-11-26T16:14:17.569120+01:00",
+"synced": "2026-11-26T16:30:17.569584+01:00",
 "pruned": "2026-11-26",
 "calls": {
 "2026-11-19": 164,
@@ -13,12 +13,28 @@
 "2026-11-23": 155,
 "2026-11-24": 144,
 "2026-11-25": 153,
-"2026-11-26": 112
+"2026-11-26": 113
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAkhwFeVPu9tphIB5pL3QTl5MQ8Puvp",
+"snapshot": "AAAkiFL74Au9D1PX5tZjXQ12mBDT4cmb",
 "playlist": [
+[
+"2026-11-26T16:24|Santigold|Disparate Youth",
+"spotify:track:7d23MhPFE9eB3U8DPRirnL"
+],
+[
+"2026-11-26T16:17|Inner City|Good Life",
+"spotify:track:5sJiLlgQKBL81QCTOkoLB5"
+],
+[
+"2026-11-26T16:09|Agnes Obel|Laymelli (Edit)",
+"spotify:track:0VzMHjWcs2P24LHLekZ8Qa"
+],
+[
+"2026-11-26T16:06|Olivia Dean|Nice To Each Other (Radio Edit)",
+"spotify:track:7gKxCvTDWwV9wBhdeBbr3l"
+],
 [
 "2026-11-26T15:56|Stars|The Night Starts Here",
 "spotify:track:2jBWraeAbImYmC7rRLPnXR"
@@ -3949,6 +3965,12 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-11-26T16:24|Santigold|Disparate Youth",
+"t": "2026-11-26T16:24:00+01:00",
+"artist": "Santigold",
+"title": "Disparate Youth"
+},
 {
 "id": "2026-11-26T16:22|Mancini, Henry & His Orchestra|Baby elephant walk",
 "t": "2026-11-26T16:22:00+01:00",
@@ -9360,12 +9382,6 @@
 "t": "2026-11-19T16:39:00+01:00",
 "artist": "Mocky feat. Taylor Savvy",
 "title": "Catch A Moment In Time"
-},
-{
-"id": "2026-11-19T16:32|Antony Szmierek|Seminal (Edit)",
-"t": "2026-11-19T16:32:00+01:00",
-"artist": "Antony Szmierek",
-"title": "Seminal (Edit)"
 }
 ]
 }
