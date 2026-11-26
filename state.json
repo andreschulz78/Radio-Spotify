@@ -1,9 +1,9 @@
 {
-"updated": "2026-11-26T05:01:29.502471+01:00",
+"updated": "2026-11-26T05:13:29.502861+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
-"synced": "2026-11-26T04:01:29.500750+01:00",
+"synced": "2026-11-26T05:13:29.502861+01:00",
 "pruned": "2026-11-26",
 "calls": {
 "2026-11-19": 164,
@@ -12,12 +12,20 @@
 "2026-11-22": 104,
 "2026-11-23": 155,
 "2026-11-24": 144,
-"2026-11-25": 147
+"2026-11-25": 149
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAkW+30PTQNqU10SnDUOMeUfeRrvAIw",
+"snapshot": "AAAkXKwqtO78X7KVDD/vAq1jYCh9ZDtI",
 "playlist": [
+[
+"2026-11-26T05:06|Fuffifufzich|New Era",
+"spotify:track:0sF1TJMDGYxKvu9pp1JQkQ"
+],
+[
+"2026-11-26T05:03|MRCY feat. Yazmin Lacey|Better Days",
+"spotify:track:04LrMPgfrbskqRMeTPeZlJ"
+],
 [
 "2026-11-25T20:52|A.G. Sully|Psyche",
 "spotify:track:58EdbjtDOhgX3T1IoHGt5N"
@@ -3528,6 +3536,18 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-11-26T05:06|Fuffifufzich|New Era",
+"t": "2026-11-26T05:06:00+01:00",
+"artist": "Fuffifufzich",
+"title": "New Era"
+},
+{
+"id": "2026-11-26T05:03|MRCY feat. Yazmin Lacey|Better Days",
+"t": "2026-11-26T05:03:00+01:00",
+"artist": "MRCY feat. Yazmin Lacey",
+"title": "Better Days"
+},
 {
 "id": "2026-11-25T20:52|A.G. Sully|Psyche",
 "t": "2026-11-25T20:52:00+01:00",
@@ -8903,24 +8923,6 @@
 "t": "2026-11-19T05:19:00+01:00",
 "artist": "The Dandy Warhols",
 "title": "Not If You Were The Last Junkie On Earth"
-},
-{
-"id": "2026-11-19T05:12|Kelela|the bridge (feat. PinkPantheress)",
-"t": "2026-11-19T05:12:00+01:00",
-"artist": "Kelela",
-"title": "the bridge (feat. PinkPantheress)"
-},
-{
-"id": "2026-11-19T05:07|Odd Beholder|Your Emancipation",
-"t": "2026-11-19T05:07:00+01:00",
-"artist": "Odd Beholder",
-"title": "Your Emancipation"
-},
-{
-"id": "2026-11-19T05:03|Nihils|Lavender",
-"t": "2026-11-19T05:03:00+01:00",
-"artist": "Nihils",
-"title": "Lavender"
 }
 ]
 }
