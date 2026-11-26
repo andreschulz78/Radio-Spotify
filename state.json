@@ -1,9 +1,9 @@
 {
-"updated": "2026-11-26T05:25:29.503200+01:00",
+"updated": "2026-11-26T05:37:29.503541+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
-"synced": "2026-11-26T05:13:29.502861+01:00",
+"synced": "2026-11-26T05:29:29.503317+01:00",
 "pruned": "2026-11-26",
 "calls": {
 "2026-11-19": 164,
@@ -12,12 +12,21 @@
 "2026-11-22": 104,
 "2026-11-23": 155,
 "2026-11-24": 144,
-"2026-11-25": 152
+"2026-11-25": 153,
+"2026-11-26": 2
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAkXKwqtO78X7KVDD/vAq1jYCh9ZDtI",
+"snapshot": "AAAkXVzM/jPoSN6OCV7UKFe+EiZYfKL5",
 "playlist": [
+[
+"2026-11-26T05:15|The Drums feat. Mareux|It Didn't Matter",
+"spotify:track:10kxTiNUTo4nlEbH1EzoX1"
+],
+[
+"2026-11-26T05:10|Whirlpool Productions|The Cold Song",
+"spotify:track:55e8f1eVF4mgnnSgIxDZ42"
+],
 [
 "2026-11-26T05:06|Fuffifufzich|New Era",
 "spotify:track:0sF1TJMDGYxKvu9pp1JQkQ"
@@ -3536,6 +3545,24 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-11-26T05:31|Die Sauna|ich liebe dich",
+"t": "2026-11-26T05:31:00+01:00",
+"artist": "Die Sauna",
+"title": "ich liebe dich"
+},
+{
+"id": "2026-11-26T05:27|Beatsteaks|I Do.",
+"t": "2026-11-26T05:27:00+01:00",
+"artist": "Beatsteaks",
+"title": "I Do."
+},
+{
+"id": "2026-11-26T05:24|John Lennon & Plastic Ono Band|Instant Karma!",
+"t": "2026-11-26T05:24:00+01:00",
+"artist": "John Lennon & Plastic Ono Band",
+"title": "Instant Karma!"
+},
 {
 "id": "2026-11-26T05:19|FredAtlast|One Day (Radio Edit)",
 "t": "2026-11-26T05:19:00+01:00",
@@ -8917,18 +8944,6 @@
 "t": "2026-11-19T05:41:00+01:00",
 "artist": "MorMor feat. Celeste",
 "title": "Like Heaven"
-},
-{
-"id": "2026-11-19T05:36|Frank Turner|Four Simple Words",
-"t": "2026-11-19T05:36:00+01:00",
-"artist": "Frank Turner",
-"title": "Four Simple Words"
-},
-{
-"id": "2026-11-19T05:30|Phoenix|If I Ever Feel Better",
-"t": "2026-11-19T05:30:00+01:00",
-"artist": "Phoenix",
-"title": "If I Ever Feel Better"
 }
 ]
 }
