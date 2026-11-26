@@ -653,7 +653,7 @@
 },
 "automatic|mercury": {
 "u": "spotify:track:0koaXm11b7sizUYJ67ebyn",
-"d": "2026-10-31T00:00:00.233654+01:00"
+"d": "2026-11-26T13:14:17.564118+01:00"
 },
 "automatic|shadowplay": {
 "u": "spotify:track:0pT1m2UpNBliUb6W7S7YzA",
@@ -2777,7 +2777,7 @@
 },
 "ethan french|reckless and arranged day 56 extended": {
 "u": "spotify:track:6H2ZSdZkYYW63UM6K2GcFh",
-"d": "2026-11-10T00:02:37.457510+01:00"
+"d": "2026-11-26T13:14:17.564118+01:00"
 },
 "etienne daho|des attractions desastre": {
 "u": "spotify:track:26OB7Wz0T7vbYZDQHiRvAG",
@@ -4165,11 +4165,15 @@
 },
 "jenny lewis the watson twins|you are what you love": {
 "u": "spotify:track:30BarLQM6SA6zs8wFEsiCj",
-"d": "2026-11-18T00:02:52.681681+01:00"
+"d": "2026-11-26T13:14:17.564118+01:00"
 },
 "jenny thiele|loonie": {
 "u": "spotify:track:4FoyvIdfT3co8perWVa30M",
 "d": "2026-11-23T02:33:34.244456+01:00"
+},
+"jesse mac cormack|let it go": {
+"u": "spotify:track:33CAV33y6SsYSyF13t46Jz",
+"d": "2026-11-26T13:14:17.564118+01:00"
 },
 "jessie ware|selfish love": {
 "u": "spotify:track:2Qa39Jw2bWBGrCuILbj1z2",
@@ -5523,10 +5527,6 @@
 "u": "spotify:track:0kwBU2XaybI0RI4tK5avsQ",
 "d": "2026-10-29T00:02:55.368937+01:00"
 },
-"marcus mumford|ted lasso theme": {
-"u": null,
-"d": "2026-11-25T11:48:00.820697+01:00"
-},
 "marcy playground|sex and candy": {
 "u": "spotify:track:5mkGfmJGFZpwK9nA5amOhv",
 "d": "2026-11-25T02:33:22.476024+01:00"
@@ -6145,7 +6145,7 @@
 },
 "natalie jane hill|never left me": {
 "u": "spotify:track:5mYV6uf5S0ChjFoLJWUJHI",
-"d": "2026-11-18T00:02:52.681681+01:00"
+"d": "2026-11-26T13:14:17.564118+01:00"
 },
 "natasha bedingfield|these words": {
 "u": "spotify:track:3zgx4lzPow9i0Ms3wzuOLd",
@@ -6589,7 +6589,7 @@
 },
 "parov stelar feat marvin gaye|keep on dancing": {
 "u": "spotify:track:6x9QLjnRsyvf1jJN2KsqmT",
-"d": "2026-11-19T00:00:40.586677+01:00"
+"d": "2026-11-26T13:14:17.564118+01:00"
 },
 "parquet courts|dust": {
 "u": "spotify:track:0nrKYNsFnzS5URc1vVdra5",
@@ -7831,6 +7831,10 @@
 "u": "spotify:track:4pNlEl7y5pT9f9zFy0oxXb",
 "d": "2026-11-17T02:00:38.631113+01:00"
 },
+"sofia portanet|i trust": {
+"u": "spotify:track:2lZCNtNMwJHwzH0isGB2TT",
+"d": "2026-11-26T13:14:17.564118+01:00"
+},
 "sofie royer|cowboy mouth": {
 "u": "spotify:track:7qgYR8fHsHyyS5WKvA9srS",
 "d": "2026-11-26T00:03:41.434869+01:00"
@@ -8314,6 +8318,10 @@
 "temper city|sex drugs": {
 "u": "spotify:track:7CsXW2mwJHmItiGJuxwjwW",
 "d": "2026-10-31T00:00:00.233654+01:00"
+},
+"temples|strange or be forgotten": {
+"u": "spotify:track:0CXE6rzzj6uR9myHFx9L0A",
+"d": "2026-11-26T13:14:17.564118+01:00"
 },
 "ten fe|candidate": {
 "u": "spotify:track:5wjRZRpkGpfZHXLXuVHQaW",
@@ -9105,7 +9113,7 @@
 },
 "the streets|it s too late": {
 "u": "spotify:track:6E3I9LiVvrGD7Ooy97zUSW",
-"d": "2026-11-05T00:02:15.684801+01:00"
+"d": "2026-11-26T13:14:17.564118+01:00"
 },
 "the streets|you are not the voice in your head": {
 "u": "spotify:track:6As25xy6XmVb0Lv72z314I",
@@ -9454,10 +9462,6 @@
 "tosca|heidi bruehl": {
 "u": "spotify:track:2f91f4rs35hXt5RhGF5bmj",
 "d": "2026-11-14T00:02:43.953012+01:00"
-},
-"totally enormous extinct dinosaurs|the distance edit": {
-"u": null,
-"d": "2026-11-25T11:52:00.820843+01:00"
 },
 "tracey thorn|hormones": {
 "u": "spotify:track:7jRJdMlHLICvWTrdrDDkd0",
