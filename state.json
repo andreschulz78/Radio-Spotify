@@ -1,9 +1,9 @@
 {
-"updated": "2026-11-27T06:05:52.071140+01:00",
+"updated": "2026-11-27T06:17:52.071504+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
-"synced": "2026-11-27T06:01:52.071008+01:00",
+"synced": "2026-11-27T06:17:52.071504+01:00",
 "pruned": "2026-11-27",
 "calls": {
 "2026-11-20": 147,
@@ -13,12 +13,20 @@
 "2026-11-24": 144,
 "2026-11-25": 153,
 "2026-11-26": 171,
-"2026-11-27": 7
+"2026-11-27": 12
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAkpxor1lVBxusAJmkJ8SOuFhgjiAfv",
+"snapshot": "AAAkqxOqyE/sWTsHeceIqVIatg2WdDZP",
 "playlist": [
+[
+"2026-11-27T06:10|Kelela|the bridge (feat. PinkPantheress)",
+"spotify:track:4Og22Djtd18AVqNgijpLsX"
+],
+[
+"2026-11-27T06:04|Eno & Hyde|Daddy's Car",
+"spotify:track:4e7NJEl8Zz43kENPviycjY"
+],
 [
 "2026-11-27T05:55|Ásgeir|Against The Current",
 "spotify:track:5udQbIlHLaD6QRDJmv0bjX"
@@ -3552,10 +3560,6 @@
 "spotify:track:79PrPZu9zWyc1qwUwXchVl"
 ],
 [
-"2026-11-20T06:17|Fontaines D.C.|Marianne",
-"spotify:track:69rHKcrQpYGfToPThOV1UB"
-],
-[
 "2026-11-20T06:14|Jake Bugg|Never Can Tell",
 "spotify:track:6LE0zFXclaKKFooqm4delR"
 ],
@@ -3605,6 +3609,18 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-11-27T06:10|Kelela|the bridge (feat. PinkPantheress)",
+"t": "2026-11-27T06:10:00+01:00",
+"artist": "Kelela",
+"title": "the bridge (feat. PinkPantheress)"
+},
+{
+"id": "2026-11-27T06:04|Eno & Hyde|Daddy's Car",
+"t": "2026-11-27T06:04:00+01:00",
+"artist": "Eno & Hyde",
+"title": "Daddy's Car"
+},
 {
 "id": "2026-11-27T05:55|Ásgeir|Against The Current",
 "t": "2026-11-27T05:55:00+01:00",
@@ -9022,24 +9038,6 @@
 "t": "2026-11-20T06:25:00+01:00",
 "artist": "Blur",
 "title": "Out Of Time"
-},
-{
-"id": "2026-11-20T06:17|Fontaines D.C.|Marianne",
-"t": "2026-11-20T06:17:00+01:00",
-"artist": "Fontaines D.C.",
-"title": "Marianne"
-},
-{
-"id": "2026-11-20T06:14|Jake Bugg|Never Can Tell",
-"t": "2026-11-20T06:14:00+01:00",
-"artist": "Jake Bugg",
-"title": "Never Can Tell"
-},
-{
-"id": "2026-11-20T06:06|Tori Amos|Spies (UK Radio Edit)",
-"t": "2026-11-20T06:06:00+01:00",
-"artist": "Tori Amos",
-"title": "Spies (UK Radio Edit)"
 }
 ]
 }
