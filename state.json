@@ -1,9 +1,9 @@
 {
-"updated": "2026-11-27T05:53:52.070757+01:00",
+"updated": "2026-11-27T06:05:52.071140+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
-"synced": "2026-11-27T05:45:52.070507+01:00",
+"synced": "2026-11-27T06:01:52.071008+01:00",
 "pruned": "2026-11-27",
 "calls": {
 "2026-11-20": 147,
@@ -13,12 +13,24 @@
 "2026-11-24": 144,
 "2026-11-25": 153,
 "2026-11-26": 171,
-"2026-11-27": 5
+"2026-11-27": 7
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAkpmh4khxPSoq11gJQEuf190xM/lde",
+"snapshot": "AAAkpxor1lVBxusAJmkJ8SOuFhgjiAfv",
 "playlist": [
+[
+"2026-11-27T05:55|Ásgeir|Against The Current",
+"spotify:track:5udQbIlHLaD6QRDJmv0bjX"
+],
+[
+"2026-11-27T05:50|The Cranberries|Animal Instinct",
+"spotify:track:3J58Ccc5iTbCRnYx2xjo6d"
+],
+[
+"2026-11-27T05:46|Keshavara|Satori",
+"spotify:track:0AC4SNPMRexmroNpGj2XET"
+],
 [
 "2026-11-27T05:39|Fontaines D.C.|Marianne",
 "spotify:track:69rHKcrQpYGfToPThOV1UB"
@@ -3593,6 +3605,18 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-11-27T05:55|Ásgeir|Against The Current",
+"t": "2026-11-27T05:55:00+01:00",
+"artist": "Ásgeir",
+"title": "Against The Current"
+},
+{
+"id": "2026-11-27T05:50|The Cranberries|Animal Instinct",
+"t": "2026-11-27T05:50:00+01:00",
+"artist": "The Cranberries",
+"title": "Animal Instinct"
+},
 {
 "id": "2026-11-27T05:46|Keshavara|Satori",
 "t": "2026-11-27T05:46:00+01:00",
@@ -9016,12 +9040,6 @@
 "t": "2026-11-20T06:06:00+01:00",
 "artist": "Tori Amos",
 "title": "Spies (UK Radio Edit)"
-},
-{
-"id": "2026-11-20T05:56|The Shins|New Slang",
-"t": "2026-11-20T05:56:00+01:00",
-"artist": "The Shins",
-"title": "New Slang"
 }
 ]
 }
