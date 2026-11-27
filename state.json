@@ -1,5 +1,5 @@
 {
-"updated": "2026-11-27T17:57:30.859214+01:00",
+"updated": "2026-11-27T18:09:30.859490+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
@@ -9434,12 +9434,6 @@
 "t": "2026-11-20T18:56:00+01:00",
 "artist": "Pachyman",
 "title": "Trago Coqueto"
-},
-{
-"id": "2026-11-20T17:58|New German Cinema|Water Drops",
-"t": "2026-11-20T17:58:00+01:00",
-"artist": "New German Cinema",
-"title": "Water Drops"
 }
 ]
 }
