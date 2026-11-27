@@ -1,9 +1,9 @@
 {
-"updated": "2026-11-27T08:05:52.074923+01:00",
+"updated": "2026-11-27T08:17:52.075291+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
-"synced": "2026-11-27T07:53:52.074534+01:00",
+"synced": "2026-11-27T08:09:52.075040+01:00",
 "pruned": "2026-11-27",
 "calls": {
 "2026-11-20": 147,
@@ -13,12 +13,16 @@
 "2026-11-24": 144,
 "2026-11-25": 153,
 "2026-11-26": 171,
-"2026-11-27": 34
+"2026-11-27": 36
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAktL5LLKaGRcHczbNLhOi0fC4fEHYx",
+"snapshot": "AAAktQjHFoWGykDT2XO3KwBnvo/sPQ7s",
 "playlist": [
+[
+"2026-11-27T07:49|Foo Fighters|Big Me",
+"spotify:track:6pb5BBnIM5IM7R1cqag6rE"
+],
 [
 "2026-11-27T07:45|Moscoman & SCUDFM|Low Blood Sugar",
 "spotify:track:20ex9eLFDV8Jg3A2cTY2Ho"
@@ -3665,6 +3669,18 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-11-27T08:12|Florence + The Machine|Buckle",
+"t": "2026-11-27T08:12:00+01:00",
+"artist": "Florence + The Machine",
+"title": "Buckle"
+},
+{
+"id": "2026-11-27T08:05|Obi|Somewhere Nicer",
+"t": "2026-11-27T08:05:00+01:00",
+"artist": "Obi",
+"title": "Somewhere Nicer"
+},
 {
 "id": "2026-11-27T07:55|King Gizzard & The Lizard Wizard|Magenta Mountain (Edit)",
 "t": "2026-11-27T07:55:00+01:00",
@@ -9106,12 +9122,6 @@
 "t": "2026-11-20T08:18:00+01:00",
 "artist": "The Cult",
 "title": "She Sells Sanctuary"
-},
-{
-"id": "2026-11-20T08:13|Phoebe Bridgers|Lost Boys (Radio Edit)",
-"t": "2026-11-20T08:13:00+01:00",
-"artist": "Phoebe Bridgers",
-"title": "Lost Boys (Radio Edit)"
 }
 ]
 }
