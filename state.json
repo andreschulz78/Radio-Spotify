@@ -1,9 +1,9 @@
 {
-"updated": "2026-11-27T09:41:52.077844+01:00",
+"updated": "2026-11-27T09:53:52.078247+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
-"synced": "2026-11-27T09:29:52.077475+01:00",
+"synced": "2026-11-27T09:45:52.078002+01:00",
 "pruned": "2026-11-27",
 "calls": {
 "2026-11-20": 147,
@@ -13,12 +13,24 @@
 "2026-11-24": 144,
 "2026-11-25": 153,
 "2026-11-26": 171,
-"2026-11-27": 57
+"2026-11-27": 59
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAkv/zwPguUd4wvgSkYCU+eY8UzZvMU",
+"snapshot": "AAAkwOfYzxQi3tPROUq1VV1jlFFDyxVk",
 "playlist": [
+[
+"2026-11-27T09:41|Alexander IV & IYAMAH|About Us",
+"spotify:track:0c3tXpFKZilDSR3yAphPZt"
+],
+[
+"2026-11-27T09:34|Boy Harsher|Tough Luck (When You Don't Call)",
+"spotify:track:109AVLNWp2BnTXTzF4j6XE"
+],
+[
+"2026-11-27T09:26|Wanda|Bussi Baby",
+"spotify:track:63YOzhwlZunLlQttevj5XT"
+],
 [
 "2026-11-27T09:18|Fleet Foxes|Can I Believe You",
 "spotify:track:3pYB28IRzhtR5cHXLINchp"
@@ -3713,6 +3725,18 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-11-27T09:44|Sophie Hunger|Twilight Room",
+"t": "2026-11-27T09:44:00+01:00",
+"artist": "Sophie Hunger",
+"title": "Twilight Room"
+},
+{
+"id": "2026-11-27T09:41|Alexander IV & IYAMAH|About Us",
+"t": "2026-11-27T09:41:00+01:00",
+"artist": "Alexander IV & IYAMAH",
+"title": "About Us"
+},
 {
 "id": "2026-11-27T09:34|Boy Harsher|Tough Luck (When You Don't Call)",
 "t": "2026-11-27T09:34:00+01:00",
@@ -9148,18 +9172,6 @@
 "t": "2026-11-20T09:56:00+01:00",
 "artist": "JGrrey feat. Bel Cobain",
 "title": "Take My Hand"
-},
-{
-"id": "2026-11-20T09:50|Sleep Sleep|The City",
-"t": "2026-11-20T09:50:00+01:00",
-"artist": "Sleep Sleep",
-"title": "The City"
-},
-{
-"id": "2026-11-20T09:46|CECI feat. Lords of Lounge|Honey Honey",
-"t": "2026-11-20T09:46:00+01:00",
-"artist": "CECI feat. Lords of Lounge",
-"title": "Honey Honey"
 }
 ]
 }
