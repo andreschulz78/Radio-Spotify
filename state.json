@@ -1,9 +1,9 @@
 {
-"updated": "2026-11-27T07:29:52.073784+01:00",
+"updated": "2026-11-27T07:41:52.074158+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
-"synced": "2026-11-27T07:21:52.073517+01:00",
+"synced": "2026-11-27T07:37:52.074040+01:00",
 "pruned": "2026-11-27",
 "calls": {
 "2026-11-20": 147,
@@ -13,12 +13,24 @@
 "2026-11-24": 144,
 "2026-11-25": 153,
 "2026-11-26": 171,
-"2026-11-27": 28
+"2026-11-27": 30
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAkstL9Czz6yxXOx+IEUlvRTDZ9o1Qs",
+"snapshot": "AAAks2KcRpPzxhKHOaC0MkEKNtUzXnAY",
 "playlist": [
+[
+"2026-11-27T07:32|The Avalanches feat. Karen O|Blue Shadows",
+"spotify:track:5bN5To0VLbNBKQDzJ1Lk6c"
+],
+[
+"2026-11-27T07:25|Siriusmo feat. Erobique & Dana|Lehm",
+"spotify:track:3gdvOEMyp0UkJ7za238o8R"
+],
+[
+"2026-11-27T07:21|The Flaming Lips|God Will Control The Werewolves (Radio Edit)",
+"spotify:track:63hixy83eOlSRb4JFnmnpg"
+],
 [
 "2026-11-27T07:14|The Cure|In Between Days",
 "spotify:track:4uexN8lwDjGX5SQycpz97I"
@@ -3645,6 +3657,24 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-11-27T07:37|Karl die Große|Liebeslied",
+"t": "2026-11-27T07:37:00+01:00",
+"artist": "Karl die Große",
+"title": "Liebeslied"
+},
+{
+"id": "2026-11-27T07:32|The Avalanches feat. Karen O|Blue Shadows",
+"t": "2026-11-27T07:32:00+01:00",
+"artist": "The Avalanches feat. Karen O",
+"title": "Blue Shadows"
+},
+{
+"id": "2026-11-27T07:25|Siriusmo feat. Erobique & Dana|Lehm",
+"t": "2026-11-27T07:25:00+01:00",
+"artist": "Siriusmo feat. Erobique & Dana",
+"title": "Lehm"
+},
 {
 "id": "2026-11-27T07:21|The Flaming Lips|God Will Control The Werewolves (Radio Edit)",
 "t": "2026-11-27T07:21:00+01:00",
@@ -9080,12 +9110,6 @@
 "t": "2026-11-20T07:43:00+01:00",
 "artist": "Boy Harsher",
 "title": "Tough Luck (When You Don't Call)"
-},
-{
-"id": "2026-11-20T07:34|Dottie Andersson|Wind That Makes The Subway Sound",
-"t": "2026-11-20T07:34:00+01:00",
-"artist": "Dottie Andersson",
-"title": "Wind That Makes The Subway Sound"
 }
 ]
 }
