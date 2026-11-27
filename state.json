@@ -1,5 +1,5 @@
 {
-"updated": "2026-11-27T08:41:52.075996+01:00",
+"updated": "2026-11-27T08:53:52.076377+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
@@ -3685,6 +3685,18 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-11-27T08:46|J.Bernardt|Love Is On My Mind",
+"t": "2026-11-27T08:46:00+01:00",
+"artist": "J.Bernardt",
+"title": "Love Is On My Mind"
+},
+{
+"id": "2026-11-27T08:41|Grim104|Monstera",
+"t": "2026-11-27T08:41:00+01:00",
+"artist": "Grim104",
+"title": "Monstera"
+},
 {
 "id": "2026-11-27T08:34|The White Stripes|The Denial Twist",
 "t": "2026-11-27T08:34:00+01:00",
@@ -9120,18 +9132,6 @@
 "t": "2026-11-20T08:56:00+01:00",
 "artist": "Matt Corby feat. Tash Sultana",
 "title": "Talk It Out"
-},
-{
-"id": "2026-11-20T08:50|Thundercat|I Wish I Didn’t Waste Your Time (Radio Edit)",
-"t": "2026-11-20T08:50:00+01:00",
-"artist": "Thundercat",
-"title": "I Wish I Didn’t Waste Your Time (Radio Edit)"
-},
-{
-"id": "2026-11-20T08:45|Stereophonics|Have A Nice Day",
-"t": "2026-11-20T08:45:00+01:00",
-"artist": "Stereophonics",
-"title": "Have A Nice Day"
 }
 ]
 }
