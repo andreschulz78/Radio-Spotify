@@ -1,9 +1,9 @@
 {
-"updated": "2026-11-27T05:05:52.069297+01:00",
+"updated": "2026-11-27T05:17:52.069673+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
-"synced": "2026-11-27T04:00:16.734592+01:00",
+"synced": "2026-11-27T05:13:52.069550+01:00",
 "pruned": "2026-11-27",
 "calls": {
 "2026-11-20": 147,
@@ -12,12 +12,16 @@
 "2026-11-23": 155,
 "2026-11-24": 144,
 "2026-11-25": 153,
-"2026-11-26": 166
+"2026-11-26": 170
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAko31Zv0wi3spotMhzjTs03YAQOu/5",
+"snapshot": "AAAkpBymMaWROhmxiR2MuKfUM8OnB84z",
 "playlist": [
+[
+"2026-11-27T05:03|Saint Etienne|Heart Failed (In The Back Of A Taxi)",
+"spotify:track:3EFUJF9xf5lRnwMbZI3LU6"
+],
 [
 "2026-11-26T20:52|Karl die Große|Liebeslied",
 "spotify:track:352doOTLR1AdwssKpas5Pk"
@@ -3564,6 +3568,24 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-11-27T05:11|Massive Attack feat. Tracey Thorn|Protection (7inch Edit)",
+"t": "2026-11-27T05:11:00+01:00",
+"artist": "Massive Attack feat. Tracey Thorn",
+"title": "Protection (7inch Edit)"
+},
+{
+"id": "2026-11-27T05:07|Boy & Bear|Tripping Over Time",
+"t": "2026-11-27T05:07:00+01:00",
+"artist": "Boy & Bear",
+"title": "Tripping Over Time"
+},
+{
+"id": "2026-11-27T05:03|Saint Etienne|Heart Failed (In The Back Of A Taxi)",
+"t": "2026-11-27T05:03:00+01:00",
+"artist": "Saint Etienne",
+"title": "Heart Failed (In The Back Of A Taxi)"
+},
 {
 "id": "2026-11-26T20:52|Karl die Große|Liebeslied",
 "t": "2026-11-26T20:52:00+01:00",
@@ -8981,18 +9003,6 @@
 "t": "2026-11-20T05:18:00+01:00",
 "artist": "Norah Jones",
 "title": "Chasing Pirates"
-},
-{
-"id": "2026-11-20T05:14|Crash Test Dummies|Mmm Mmm Mmm Mmm",
-"t": "2026-11-20T05:14:00+01:00",
-"artist": "Crash Test Dummies",
-"title": "Mmm Mmm Mmm Mmm"
-},
-{
-"id": "2026-11-20T05:07|Andrew Collberg|Hi Hopes (Edit)",
-"t": "2026-11-20T05:07:00+01:00",
-"artist": "Andrew Collberg",
-"title": "Hi Hopes (Edit)"
 }
 ]
 }
