@@ -1,9 +1,9 @@
 {
-"updated": "2026-11-27T15:09:30.855118+01:00",
+"updated": "2026-11-27T15:21:30.855432+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
-"synced": "2026-11-27T15:01:30.854937+01:00",
+"synced": "2026-11-27T15:17:30.855325+01:00",
 "pruned": "2026-11-27",
 "calls": {
 "2026-11-20": 147,
@@ -13,12 +13,28 @@
 "2026-11-24": 144,
 "2026-11-25": 153,
 "2026-11-26": 171,
-"2026-11-27": 96
+"2026-11-27": 103
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAkynh91G3sVaW2n5Yh7RcQj3JSwuEt",
+"snapshot": "AAAkz+NqSOH9Fs3ADb0AeRrwZIBy4x4M",
 "playlist": [
+[
+"2026-11-27T15:08|Sofi O|Breezin 4ever",
+"spotify:track:317uzShQHVqZ3aEseBTolK"
+],
+[
+"2026-11-27T15:05|When Saints Go Machine|Kelly",
+"spotify:track:4C39zJ6Fuujo6d8ZTiBztT"
+],
+[
+"2026-11-27T14:56|MorMor feat. Celeste|Like Heaven",
+"spotify:track:5pZGuhprytXKB7QRMul3jq"
+],
+[
+"2026-11-27T14:53|Sepalot|My Own Way",
+"spotify:track:1fZWCdpLnT98Lf5DeGkMSB"
+],
 [
 "2026-11-27T14:47|Sylvan Esso|Right to Left",
 "spotify:track:78xiuouD9dMXKXGKdDnjqB"
@@ -128,16 +144,32 @@
 "spotify:track:1g9o6MNw8DQEFGmKQwbyYa"
 ],
 [
+"2026-11-27T11:55|Fujiya & Miyagi|Knickerbocker",
+"spotify:track:2LaxQIT4heN80xHBuKOhHY"
+],
+[
 "2026-11-27T11:48|Ex:Re|Radio Station",
 "spotify:track:2ixKxWKW6ejtIVr5gm00K7"
+],
+[
+"2026-11-27T11:44|Jeff Buckley|Last Goodbye",
+"spotify:track:0y5CnV2idm2KkQEudDjfDT"
 ],
 [
 "2026-11-27T11:35|Yazmin Lacey|Summer Haze",
 "spotify:track:465QjZo1z1JAuLTTC7DnuK"
 ],
 [
+"2026-11-27T11:31|Michael Kiwanuka|The Rest Of Me",
+"spotify:track:4xyZ8TMuWWlSCN3NRUsOCq"
+],
+[
 "2026-11-27T11:25|Erykah Badu & Alchemist|Witch Doctor (Edit)",
 "spotify:track:7H2FmMnHfLRj8yoJpdl6A6"
+],
+[
+"2026-11-27T11:21|Zoot Woman|Grey Day",
+"spotify:track:63FQ1HxgsuogOVqcnY8d3T"
 ],
 [
 "2026-11-27T11:11|Brittany Howard|Stay High",
@@ -3897,6 +3929,24 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-11-27T15:15|Oasis|Go Let It Out",
+"t": "2026-11-27T15:15:00+01:00",
+"artist": "Oasis",
+"title": "Go Let It Out"
+},
+{
+"id": "2026-11-27T15:08|Sofi O|Breezin 4ever",
+"t": "2026-11-27T15:08:00+01:00",
+"artist": "Sofi O",
+"title": "Breezin 4ever"
+},
+{
+"id": "2026-11-27T15:05|When Saints Go Machine|Kelly",
+"t": "2026-11-27T15:05:00+01:00",
+"artist": "When Saints Go Machine",
+"title": "Kelly"
+},
 {
 "id": "2026-11-27T14:56|MorMor feat. Celeste|Like Heaven",
 "t": "2026-11-27T14:56:00+01:00",
@@ -9314,12 +9364,6 @@
 "t": "2026-11-20T15:24:00+01:00",
 "artist": "Public Image Limited (P.I.L.)",
 "title": "This Is Not A Love Song"
-},
-{
-"id": "2026-11-20T15:20|Rahill feat. Beck|Fables",
-"t": "2026-11-20T15:20:00+01:00",
-"artist": "Rahill feat. Beck",
-"title": "Fables"
 }
 ]
 }
