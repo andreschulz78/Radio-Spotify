@@ -1,5 +1,5 @@
 {
-"updated": "2026-11-27T18:45:30.860299+01:00",
+"updated": "2026-11-27T18:57:30.860563+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
@@ -9428,12 +9428,6 @@
 "t": "2026-11-20T21:03:00+01:00",
 "artist": "Kisser",
 "title": "Bad Boy Mountain"
-},
-{
-"id": "2026-11-20T18:56|Pachyman|Trago Coqueto",
-"t": "2026-11-20T18:56:00+01:00",
-"artist": "Pachyman",
-"title": "Trago Coqueto"
 }
 ]
 }
