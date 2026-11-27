@@ -1,9 +1,9 @@
 {
-"updated": "2026-11-27T06:53:52.072624+01:00",
+"updated": "2026-11-27T07:05:52.073002+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
-"synced": "2026-11-27T06:49:52.072508+01:00",
+"synced": "2026-11-27T07:05:52.073002+01:00",
 "pruned": "2026-11-27",
 "calls": {
 "2026-11-20": 147,
@@ -13,12 +13,24 @@
 "2026-11-24": 144,
 "2026-11-25": 153,
 "2026-11-26": 171,
-"2026-11-27": 19
+"2026-11-27": 23
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAkrsciA56Fcc2NyCrgIoOl1KsylEQB",
+"snapshot": "AAAksY5xp5OnV6dd5HDPN4O3n7MaLL2S",
 "playlist": [
+[
+"2026-11-27T06:57|Dream Boat|Real!",
+"spotify:track:1yxpRDrcK5ExwNiThPa9Uh"
+],
+[
+"2026-11-27T06:49|Lava La Rue|Humanity",
+"spotify:track:7IjLwKOvFCNxy59yZ5sVRb"
+],
+[
+"2026-11-27T06:46|Laing|Nieselregen",
+"spotify:track:5aqP9iFVPM3GOL5yJcS018"
+],
 [
 "2026-11-27T06:41|Travis|Flowers In The Window",
 "spotify:track:7H8Ga5vDJKhgxQ0uTiScUf"
@@ -3552,10 +3564,6 @@
 "spotify:track:7r9fTuD3JEyUwi3vD7XZDh"
 ],
 [
-"2026-11-20T07:05|J.Bernardt|Love Is On My Mind",
-"spotify:track:4LuP3veDBkqnyLQvgDQpJb"
-],
-[
 "2026-11-20T06:56|Ciara Lea|Feel It",
 "spotify:track:2pgT2k8GEnq6ITpy3lVJmi"
 ],
@@ -3625,6 +3633,18 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-11-27T06:57|Dream Boat|Real!",
+"t": "2026-11-27T06:57:00+01:00",
+"artist": "Dream Boat",
+"title": "Real!"
+},
+{
+"id": "2026-11-27T06:49|Lava La Rue|Humanity",
+"t": "2026-11-27T06:49:00+01:00",
+"artist": "Lava La Rue",
+"title": "Humanity"
+},
 {
 "id": "2026-11-27T06:46|Laing|Nieselregen",
 "t": "2026-11-27T06:46:00+01:00",
@@ -9048,18 +9068,6 @@
 "t": "2026-11-20T07:13:00+01:00",
 "artist": "Lana Del Rey",
 "title": "Blue Jeans"
-},
-{
-"id": "2026-11-20T07:05|J.Bernardt|Love Is On My Mind",
-"t": "2026-11-20T07:05:00+01:00",
-"artist": "J.Bernardt",
-"title": "Love Is On My Mind"
-},
-{
-"id": "2026-11-20T06:56|Ciara Lea|Feel It",
-"t": "2026-11-20T06:56:00+01:00",
-"artist": "Ciara Lea",
-"title": "Feel It"
 }
 ]
 }
