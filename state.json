@@ -1,5 +1,5 @@
 {
-"updated": "2026-11-27T10:17:52.079036+01:00",
+"updated": "2026-11-27T10:29:52.079389+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
@@ -13,7 +13,7 @@
 "2026-11-24": 144,
 "2026-11-25": 153,
 "2026-11-26": 171,
-"2026-11-27": 64
+"2026-11-27": 68
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
@@ -3745,6 +3745,18 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-11-27T10:21|Coldplay|X & Y",
+"t": "2026-11-27T10:21:00+01:00",
+"artist": "Coldplay",
+"title": "X & Y"
+},
+{
+"id": "2026-11-27T10:17|Vivir Quintana, Gabigar, Arantza, Renee Mooi, ...|Canción Sin Miedo - Versiòn El Palomar",
+"t": "2026-11-27T10:17:00+01:00",
+"artist": "Vivir Quintana, Gabigar, Arantza, Renee Mooi, ...",
+"title": "Canción Sin Miedo - Versiòn El Palomar"
+},
 {
 "id": "2026-11-27T10:11|Donkey Kid|Goldmine",
 "t": "2026-11-27T10:11:00+01:00",
@@ -9180,18 +9192,6 @@
 "t": "2026-11-20T10:31:00+01:00",
 "artist": "Grim104",
 "title": "Monstera"
-},
-{
-"id": "2026-11-20T10:25|All Saints|Pure Shores",
-"t": "2026-11-20T10:25:00+01:00",
-"artist": "All Saints",
-"title": "Pure Shores"
-},
-{
-"id": "2026-11-20T10:20|Courtney Barnett|Wonder",
-"t": "2026-11-20T10:20:00+01:00",
-"artist": "Courtney Barnett",
-"title": "Wonder"
 }
 ]
 }
