@@ -1,9 +1,9 @@
 {
-"updated": "2026-11-27T06:41:52.072267+01:00",
+"updated": "2026-11-27T06:53:52.072624+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
-"synced": "2026-11-27T06:33:52.071998+01:00",
+"synced": "2026-11-27T06:49:52.072508+01:00",
 "pruned": "2026-11-27",
 "calls": {
 "2026-11-20": 147,
@@ -13,12 +13,20 @@
 "2026-11-24": 144,
 "2026-11-25": 153,
 "2026-11-26": 171,
-"2026-11-27": 15
+"2026-11-27": 19
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAkrGJTiNmHVmhuY5kf/9WuX2jl5sUh",
+"snapshot": "AAAkrsciA56Fcc2NyCrgIoOl1KsylEQB",
 "playlist": [
+[
+"2026-11-27T06:41|Travis|Flowers In The Window",
+"spotify:track:7H8Ga5vDJKhgxQ0uTiScUf"
+],
+[
+"2026-11-27T06:33|Django Django ft. Max Pope|Feel Alright",
+"spotify:track:1TU9gJekTIXiu3RVb9wrzN"
+],
 [
 "2026-11-27T06:25|Fun Boy Three|Our Lips Are Sealed",
 "spotify:track:6su4BGoEQIhclaNzUosUye"
@@ -3552,10 +3560,6 @@
 "spotify:track:2pgT2k8GEnq6ITpy3lVJmi"
 ],
 [
-"2026-11-20T06:49|Loaded Honey|Don't Speak",
-"spotify:track:2sKjOX72UX1HiCDhI2HdlR"
-],
-[
 "2026-11-20T06:45|EELS|Congratulations To Me",
 "spotify:track:0PsZbSqZk6s6bEw5Ff3xrS"
 ],
@@ -3621,6 +3625,18 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-11-27T06:46|Laing|Nieselregen",
+"t": "2026-11-27T06:46:00+01:00",
+"artist": "Laing",
+"title": "Nieselregen"
+},
+{
+"id": "2026-11-27T06:41|Travis|Flowers In The Window",
+"t": "2026-11-27T06:41:00+01:00",
+"artist": "Travis",
+"title": "Flowers In The Window"
+},
 {
 "id": "2026-11-27T06:33|Django Django ft. Max Pope|Feel Alright",
 "t": "2026-11-27T06:33:00+01:00",
@@ -9044,18 +9060,6 @@
 "t": "2026-11-20T06:56:00+01:00",
 "artist": "Ciara Lea",
 "title": "Feel It"
-},
-{
-"id": "2026-11-20T06:49|Loaded Honey|Don't Speak",
-"t": "2026-11-20T06:49:00+01:00",
-"artist": "Loaded Honey",
-"title": "Don't Speak"
-},
-{
-"id": "2026-11-20T06:45|EELS|Congratulations To Me",
-"t": "2026-11-20T06:45:00+01:00",
-"artist": "EELS",
-"title": "Congratulations To Me"
 }
 ]
 }
