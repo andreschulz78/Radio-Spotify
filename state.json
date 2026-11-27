@@ -1,9 +1,9 @@
 {
-"updated": "2026-11-27T16:57:30.857859+01:00",
+"updated": "2026-11-27T17:09:30.858134+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
-"synced": "2026-11-27T16:53:30.857771+01:00",
+"synced": "2026-11-27T17:09:30.858134+01:00",
 "pruned": "2026-11-27",
 "calls": {
 "2026-11-20": 147,
@@ -13,12 +13,20 @@
 "2026-11-24": 144,
 "2026-11-25": 153,
 "2026-11-26": 171,
-"2026-11-27": 116
+"2026-11-27": 118
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAk1fKoMGjnj4QCMx1lRYoMrTZu2grv",
+"snapshot": "AAAk1lZWRpX3izgWI9WCT8M1I8oSSfwt",
 "playlist": [
+[
+"2026-11-27T16:50|The Human League|Being Boiled",
+"spotify:track:2xN8RYKg69sdfoqtvYnwwM"
+],
+[
+"2026-11-27T16:47|Underworld|Bird 1",
+"spotify:track:5opyNgOYUjQ5k9hHXbrNcn"
+],
 [
 "2026-11-27T16:35|The Big Moon|F.O.R.E.V.E.R",
 "spotify:track:0UaPOdi1O83vr1oTXaGqgx"
@@ -3985,6 +3993,12 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-11-27T16:58|!!! (Chk Chk Chk)|Lucy Mongoosey",
+"t": "2026-11-27T16:58:00+01:00",
+"artist": "!!! (Chk Chk Chk)",
+"title": "Lucy Mongoosey"
+},
 {
 "id": "2026-11-27T16:50|The Human League|Being Boiled",
 "t": "2026-11-27T16:50:00+01:00",
@@ -9426,12 +9440,6 @@
 "t": "2026-11-20T17:58:00+01:00",
 "artist": "New German Cinema",
 "title": "Water Drops"
-},
-{
-"id": "2026-11-20T16:58|The Black Seeds|Love Is A Radiation",
-"t": "2026-11-20T16:58:00+01:00",
-"artist": "The Black Seeds",
-"title": "Love Is A Radiation"
 }
 ]
 }
