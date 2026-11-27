@@ -1,9 +1,9 @@
 {
-"updated": "2026-11-27T08:29:52.075668+01:00",
+"updated": "2026-11-27T08:41:52.075996+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
-"synced": "2026-11-27T08:25:52.075553+01:00",
+"synced": "2026-11-27T08:41:52.075996+01:00",
 "pruned": "2026-11-27",
 "calls": {
 "2026-11-20": 147,
@@ -13,12 +13,20 @@
 "2026-11-24": 144,
 "2026-11-25": 153,
 "2026-11-26": 171,
-"2026-11-27": 41
+"2026-11-27": 48
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAktiOoX8nHbHDnlZzddgb15k8xeM7X",
+"snapshot": "AAAkvHYlN/QS6a6vWjbLnQVmHoY3jklY",
 "playlist": [
+[
+"2026-11-27T08:34|The White Stripes|The Denial Twist",
+"spotify:track:4K4I0UAJ1lCNamIOLp8Hkj"
+],
+[
+"2026-11-27T08:24|CECI feat. Lords of Lounge|Honey Honey",
+"spotify:track:1I3D3G5pwYFKNYGIYTLRCq"
+],
 [
 "2026-11-27T08:16|Fleetwood Mac|Rhiannon",
 "spotify:track:3kZUnG3jVpgwh3TQFdTv18"
@@ -3560,10 +3568,6 @@
 "spotify:track:6JWddKPdqvDc2WkPEi9grC"
 ],
 [
-"2026-11-20T08:41|2raumwohnung|Lass die Pferde frei (Radio Edit)",
-"spotify:track:6iKF2dQJNLjEAvNjIYAreO"
-],
-[
 "2026-11-20T08:34|Hannah Jadagu|My Love",
 "spotify:track:4XM4c3zMS0orMhblnrZwnS"
 ],
@@ -3681,6 +3685,18 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-11-27T08:34|The White Stripes|The Denial Twist",
+"t": "2026-11-27T08:34:00+01:00",
+"artist": "The White Stripes",
+"title": "The Denial Twist"
+},
+{
+"id": "2026-11-27T08:24|CECI feat. Lords of Lounge|Honey Honey",
+"t": "2026-11-27T08:24:00+01:00",
+"artist": "CECI feat. Lords of Lounge",
+"title": "Honey Honey"
+},
 {
 "id": "2026-11-27T08:16|Fleetwood Mac|Rhiannon",
 "t": "2026-11-27T08:16:00+01:00",
@@ -9116,18 +9132,6 @@
 "t": "2026-11-20T08:45:00+01:00",
 "artist": "Stereophonics",
 "title": "Have A Nice Day"
-},
-{
-"id": "2026-11-20T08:41|2raumwohnung|Lass die Pferde frei (Radio Edit)",
-"t": "2026-11-20T08:41:00+01:00",
-"artist": "2raumwohnung",
-"title": "Lass die Pferde frei (Radio Edit)"
-},
-{
-"id": "2026-11-20T08:34|Hannah Jadagu|My Love",
-"t": "2026-11-20T08:34:00+01:00",
-"artist": "Hannah Jadagu",
-"title": "My Love"
 }
 ]
 }
