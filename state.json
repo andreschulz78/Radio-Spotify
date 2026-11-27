@@ -1,9 +1,9 @@
 {
-"updated": "2026-11-27T14:57:30.854840+01:00",
+"updated": "2026-11-27T15:09:30.855118+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
-"synced": "2026-11-27T14:45:30.854510+01:00",
+"synced": "2026-11-27T15:01:30.854937+01:00",
 "pruned": "2026-11-27",
 "calls": {
 "2026-11-20": 147,
@@ -13,12 +13,20 @@
 "2026-11-24": 144,
 "2026-11-25": 153,
 "2026-11-26": 171,
-"2026-11-27": 84
+"2026-11-27": 96
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAkxYAj6vX4nExIjigNQBuGe3CT+fy7",
+"snapshot": "AAAkynh91G3sVaW2n5Yh7RcQj3JSwuEt",
 "playlist": [
+[
+"2026-11-27T14:47|Sylvan Esso|Right to Left",
+"spotify:track:78xiuouD9dMXKXGKdDnjqB"
+],
+[
+"2026-11-27T14:43|Garbage|Stupid Girl",
+"spotify:track:0ezoKbJegQvIzPY3yCkqdu"
+],
 [
 "2026-11-27T14:32|The Haunted Youth|Teen Rebel (Edit)",
 "spotify:track:3x20zcKUu6rKKsaHdGhyL9"
@@ -44,6 +52,14 @@
 "spotify:track:5jFt1do9B6cGoM0vhErWHO"
 ],
 [
+"2026-11-27T13:54|Moderat|A New Error (Edit)",
+"spotify:track:1fmoCZ6mtMiqA5GHWPcZz9"
+],
+[
+"2026-11-27T13:48|Washed Out|Amor Fati",
+"spotify:track:4XYxBgTd33PjJeiXnwVLwL"
+],
+[
 "2026-11-27T13:44|De La Soul feat. Otis Redding|Eye Know",
 "spotify:track:1q1AdQLArP7xxM5phOTUki"
 ],
@@ -54,6 +70,10 @@
 [
 "2026-11-27T13:31|SOFY|50/50",
 "spotify:track:16QLv8xt9nPNBZCBDm3Gkv"
+],
+[
+"2026-11-27T13:24|Fuffifufzich|Lack Again",
+"spotify:track:0csuheZz5qd87BbKZjJgTe"
 ],
 [
 "2026-11-27T13:21|Kevin Morby|PBJ (Edit)",
@@ -68,8 +88,40 @@
 "spotify:track:3Lww3IVo0ZfY8gpstVdzj1"
 ],
 [
+"2026-11-27T12:55|Marvin Gaye|Inner City Blues (Make Me Wanna Holler)",
+"spotify:track:3YuITg7r7NeG4Wb8S8GOHy"
+],
+[
+"2026-11-27T12:50|Supershy & Tom Misch|Don't Let Go",
+"spotify:track:4s3xXkjGYSwI01zTp5f1by"
+],
+[
+"2026-11-27T12:47|The Strokes|12:51 (Twelve Fiftyone)",
+"spotify:track:6Yu1OL8I0D4vjOzYdsXYGK"
+],
+[
+"2026-11-27T12:43|Mother Soki|Much Cry, Little Wool",
+"spotify:track:2YwVYsnmnSdiFYMBBk5sXF"
+],
+[
+"2026-11-27T12:35|Idles|Grace (Radio Edit)",
+"spotify:track:6rToVOpguiIYGabUf4VG3R"
+],
+[
 "2026-11-27T12:30|Pamela.|Better than Before",
 "spotify:track:30ewsn0jSF9Jme7Altrz9X"
+],
+[
+"2026-11-27T12:24|Lauryn Hill|Everything Is Everything",
+"spotify:track:7t86fVeDAd63ThaR0ZkxXS"
+],
+[
+"2026-11-27T12:17|Moderat|Rusty Nails",
+"spotify:track:0aUtDDfbI5EKUJDaUKRM9B"
+],
+[
+"2026-11-27T12:12|Natalie Bergman|Gunslinger",
+"spotify:track:1Is6GwdWFuEXCbzkoEatb4"
 ],
 [
 "2026-11-27T12:04|Tunde Adebimpe|God Knows",
@@ -3845,6 +3897,18 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-11-27T14:56|MorMor feat. Celeste|Like Heaven",
+"t": "2026-11-27T14:56:00+01:00",
+"artist": "MorMor feat. Celeste",
+"title": "Like Heaven"
+},
+{
+"id": "2026-11-27T14:53|Sepalot|My Own Way",
+"t": "2026-11-27T14:53:00+01:00",
+"artist": "Sepalot",
+"title": "My Own Way"
+},
 {
 "id": "2026-11-27T14:47|Sylvan Esso|Right to Left",
 "t": "2026-11-27T14:47:00+01:00",
@@ -9256,24 +9320,6 @@
 "t": "2026-11-20T15:20:00+01:00",
 "artist": "Rahill feat. Beck",
 "title": "Fables"
-},
-{
-"id": "2026-11-20T15:07|Ane Brun feat. Röyksopp|Eat The Fruit (Radio Edit)",
-"t": "2026-11-20T15:07:00+01:00",
-"artist": "Ane Brun feat. Röyksopp",
-"title": "Eat The Fruit (Radio Edit)"
-},
-{
-"id": "2026-11-20T15:05|Viagra Boys|Uno II",
-"t": "2026-11-20T15:05:00+01:00",
-"artist": "Viagra Boys",
-"title": "Uno II"
-},
-{
-"id": "2026-11-20T14:58|Die Fantastischen Vier|Nur in deinem Kopf",
-"t": "2026-11-20T14:58:00+01:00",
-"artist": "Die Fantastischen Vier",
-"title": "Nur in deinem Kopf"
 }
 ]
 }
