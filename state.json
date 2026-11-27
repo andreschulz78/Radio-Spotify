@@ -1,9 +1,9 @@
 {
-"updated": "2026-11-27T15:21:30.855432+01:00",
+"updated": "2026-11-27T15:33:30.855755+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
-"synced": "2026-11-27T15:17:30.855325+01:00",
+"synced": "2026-11-27T15:33:30.855755+01:00",
 "pruned": "2026-11-27",
 "calls": {
 "2026-11-20": 147,
@@ -13,12 +13,24 @@
 "2026-11-24": 144,
 "2026-11-25": 153,
 "2026-11-26": 171,
-"2026-11-27": 103
+"2026-11-27": 104
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAkz+NqSOH9Fs3ADb0AeRrwZIBy4x4M",
+"snapshot": "AAAk0D/Ip/jxwBkvLHibA6IJjD0vko4S",
 "playlist": [
+[
+"2026-11-27T15:24|EELS|Congratulations To Me",
+"spotify:track:0PsZbSqZk6s6bEw5Ff3xrS"
+],
+[
+"2026-11-27T15:19|Skeleten|Walking On Your Name",
+"spotify:track:0sbcE7ltIt3tM47UTK0mmP"
+],
+[
+"2026-11-27T15:15|Oasis|Go Let It Out",
+"spotify:track:550p36erUmJ1UFfmHH8eFp"
+],
 [
 "2026-11-27T15:08|Sofi O|Breezin 4ever",
 "spotify:track:317uzShQHVqZ3aEseBTolK"
@@ -3929,6 +3941,18 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-11-27T15:24|EELS|Congratulations To Me",
+"t": "2026-11-27T15:24:00+01:00",
+"artist": "EELS",
+"title": "Congratulations To Me"
+},
+{
+"id": "2026-11-27T15:19|Skeleten|Walking On Your Name",
+"t": "2026-11-27T15:19:00+01:00",
+"artist": "Skeleten",
+"title": "Walking On Your Name"
+},
 {
 "id": "2026-11-27T15:15|Oasis|Go Let It Out",
 "t": "2026-11-27T15:15:00+01:00",
@@ -9352,18 +9376,6 @@
 "t": "2026-11-20T15:35:00+01:00",
 "artist": "School Of Seven Bells",
 "title": "Windstorm"
-},
-{
-"id": "2026-11-20T15:32|Bloc Party|Banquet",
-"t": "2026-11-20T15:32:00+01:00",
-"artist": "Bloc Party",
-"title": "Banquet"
-},
-{
-"id": "2026-11-20T15:24|Public Image Limited (P.I.L.)|This Is Not A Love Song",
-"t": "2026-11-20T15:24:00+01:00",
-"artist": "Public Image Limited (P.I.L.)",
-"title": "This Is Not A Love Song"
 }
 ]
 }
