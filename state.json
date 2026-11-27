@@ -1,9 +1,9 @@
 {
-"updated": "2026-11-27T08:17:52.075291+01:00",
+"updated": "2026-11-27T08:29:52.075668+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
-"synced": "2026-11-27T08:09:52.075040+01:00",
+"synced": "2026-11-27T08:25:52.075553+01:00",
 "pruned": "2026-11-27",
 "calls": {
 "2026-11-20": 147,
@@ -13,12 +13,24 @@
 "2026-11-24": 144,
 "2026-11-25": 153,
 "2026-11-26": 171,
-"2026-11-27": 36
+"2026-11-27": 41
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAktQjHFoWGykDT2XO3KwBnvo/sPQ7s",
+"snapshot": "AAAktiOoX8nHbHDnlZzddgb15k8xeM7X",
 "playlist": [
+[
+"2026-11-27T08:16|Fleetwood Mac|Rhiannon",
+"spotify:track:3kZUnG3jVpgwh3TQFdTv18"
+],
+[
+"2026-11-27T08:12|Florence + The Machine|Buckle",
+"spotify:track:2Ea5Qh9ijEt8og1ZNBgqhR"
+],
+[
+"2026-11-27T08:05|Obi|Somewhere Nicer",
+"spotify:track:2B1cyd5DtS8H0WgWYFVmbE"
+],
 [
 "2026-11-27T07:49|Foo Fighters|Big Me",
 "spotify:track:6pb5BBnIM5IM7R1cqag6rE"
@@ -3669,6 +3681,12 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-11-27T08:16|Fleetwood Mac|Rhiannon",
+"t": "2026-11-27T08:16:00+01:00",
+"artist": "Fleetwood Mac",
+"title": "Rhiannon"
+},
 {
 "id": "2026-11-27T08:12|Florence + The Machine|Buckle",
 "t": "2026-11-27T08:12:00+01:00",
@@ -9110,18 +9128,6 @@
 "t": "2026-11-20T08:34:00+01:00",
 "artist": "Hannah Jadagu",
 "title": "My Love"
-},
-{
-"id": "2026-11-20T08:26|Blackhaine|The Wind",
-"t": "2026-11-20T08:26:00+01:00",
-"artist": "Blackhaine",
-"title": "The Wind"
-},
-{
-"id": "2026-11-20T08:18|The Cult|She Sells Sanctuary",
-"t": "2026-11-20T08:18:00+01:00",
-"artist": "The Cult",
-"title": "She Sells Sanctuary"
 }
 ]
 }
