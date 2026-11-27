@@ -1,9 +1,9 @@
 {
-"updated": "2026-11-27T05:17:52.069673+01:00",
+"updated": "2026-11-27T05:29:52.070052+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
-"synced": "2026-11-27T05:13:52.069550+01:00",
+"synced": "2026-11-27T05:29:52.070052+01:00",
 "pruned": "2026-11-27",
 "calls": {
 "2026-11-20": 147,
@@ -12,12 +12,24 @@
 "2026-11-23": 155,
 "2026-11-24": 144,
 "2026-11-25": 153,
-"2026-11-26": 170
+"2026-11-26": 171
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAkpBymMaWROhmxiR2MuKfUM8OnB84z",
+"snapshot": "AAAkpcV6C0RNIleiKee8C7VA+aSwrOYU",
 "playlist": [
+[
+"2026-11-27T05:18|Danger Dan|Dass es hier so schön ist",
+"spotify:track:1HGb9YabpkJHq6i8A1HY6n"
+],
+[
+"2026-11-27T05:11|Massive Attack feat. Tracey Thorn|Protection (7inch Edit)",
+"spotify:track:3kKVqFF4pv4EXeQe428zl2"
+],
+[
+"2026-11-27T05:07|Boy & Bear|Tripping Over Time",
+"spotify:track:0s3R2UEykTPuilo5QTzH7P"
+],
 [
 "2026-11-27T05:03|Saint Etienne|Heart Failed (In The Back Of A Taxi)",
 "spotify:track:3EFUJF9xf5lRnwMbZI3LU6"
@@ -3568,6 +3580,12 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-11-27T05:18|Danger Dan|Dass es hier so schön ist",
+"t": "2026-11-27T05:18:00+01:00",
+"artist": "Danger Dan",
+"title": "Dass es hier so schön ist"
+},
 {
 "id": "2026-11-27T05:11|Massive Attack feat. Tracey Thorn|Protection (7inch Edit)",
 "t": "2026-11-27T05:11:00+01:00",
@@ -8985,24 +9003,6 @@
 "t": "2026-11-20T05:34:00+01:00",
 "artist": "Faye Webster",
 "title": "Cheers"
-},
-{
-"id": "2026-11-20T05:27|Zaho De Sagazan|Je rêve",
-"t": "2026-11-20T05:27:00+01:00",
-"artist": "Zaho De Sagazan",
-"title": "Je rêve"
-},
-{
-"id": "2026-11-20T05:24|Black Marble|Jim Carol New Year",
-"t": "2026-11-20T05:24:00+01:00",
-"artist": "Black Marble",
-"title": "Jim Carol New Year"
-},
-{
-"id": "2026-11-20T05:18|Norah Jones|Chasing Pirates",
-"t": "2026-11-20T05:18:00+01:00",
-"artist": "Norah Jones",
-"title": "Chasing Pirates"
 }
 ]
 }
