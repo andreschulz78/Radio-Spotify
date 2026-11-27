@@ -1,5 +1,5 @@
 {
-"updated": "2026-11-27T07:53:52.074534+01:00",
+"updated": "2026-11-27T08:05:52.074923+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
@@ -13,7 +13,7 @@
 "2026-11-24": 144,
 "2026-11-25": 153,
 "2026-11-26": 171,
-"2026-11-27": 31
+"2026-11-27": 34
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
@@ -3665,6 +3665,18 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-11-27T07:55|King Gizzard & The Lizard Wizard|Magenta Mountain (Edit)",
+"t": "2026-11-27T07:55:00+01:00",
+"artist": "King Gizzard & The Lizard Wizard",
+"title": "Magenta Mountain (Edit)"
+},
+{
+"id": "2026-11-27T07:49|Foo Fighters|Big Me",
+"t": "2026-11-27T07:49:00+01:00",
+"artist": "Foo Fighters",
+"title": "Big Me"
+},
 {
 "id": "2026-11-27T07:45|Moscoman & SCUDFM|Low Blood Sugar",
 "t": "2026-11-27T07:45:00+01:00",
@@ -9100,18 +9112,6 @@
 "t": "2026-11-20T08:13:00+01:00",
 "artist": "Phoebe Bridgers",
 "title": "Lost Boys (Radio Edit)"
-},
-{
-"id": "2026-11-20T08:05|Kevin Morby|PBJ (Edit)",
-"t": "2026-11-20T08:05:00+01:00",
-"artist": "Kevin Morby",
-"title": "PBJ (Edit)"
-},
-{
-"id": "2026-11-20T07:56|Donkey Kid|Goldmine",
-"t": "2026-11-20T07:56:00+01:00",
-"artist": "Donkey Kid",
-"title": "Goldmine"
 }
 ]
 }
