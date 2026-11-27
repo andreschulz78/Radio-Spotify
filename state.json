@@ -1,9 +1,9 @@
 {
-"updated": "2026-11-27T06:29:52.071875+01:00",
+"updated": "2026-11-27T06:41:52.072267+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
-"synced": "2026-11-27T06:17:52.071504+01:00",
+"synced": "2026-11-27T06:33:52.071998+01:00",
 "pruned": "2026-11-27",
 "calls": {
 "2026-11-20": 147,
@@ -13,12 +13,24 @@
 "2026-11-24": 144,
 "2026-11-25": 153,
 "2026-11-26": 171,
-"2026-11-27": 13
+"2026-11-27": 15
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAkqxOqyE/sWTsHeceIqVIatg2WdDZP",
+"snapshot": "AAAkrGJTiNmHVmhuY5kf/9WuX2jl5sUh",
 "playlist": [
+[
+"2026-11-27T06:25|Fun Boy Three|Our Lips Are Sealed",
+"spotify:track:6su4BGoEQIhclaNzUosUye"
+],
+[
+"2026-11-27T06:22|Elfi|A2",
+"spotify:track:4AX1PLLr5l0HxhktmFSEk3"
+],
+[
+"2026-11-27T06:15|Nation of Language|On Division St.",
+"spotify:track:353uoaeULMS88FV1HXETXo"
+],
 [
 "2026-11-27T06:10|Kelela|the bridge (feat. PinkPantheress)",
 "spotify:track:4Og22Djtd18AVqNgijpLsX"
@@ -3609,6 +3621,18 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-11-27T06:33|Django Django ft. Max Pope|Feel Alright",
+"t": "2026-11-27T06:33:00+01:00",
+"artist": "Django Django ft. Max Pope",
+"title": "Feel Alright"
+},
+{
+"id": "2026-11-27T06:25|Fun Boy Three|Our Lips Are Sealed",
+"t": "2026-11-27T06:25:00+01:00",
+"artist": "Fun Boy Three",
+"title": "Our Lips Are Sealed"
+},
 {
 "id": "2026-11-27T06:22|Elfi|A2",
 "t": "2026-11-27T06:22:00+01:00",
@@ -9032,18 +9056,6 @@
 "t": "2026-11-20T06:45:00+01:00",
 "artist": "EELS",
 "title": "Congratulations To Me"
-},
-{
-"id": "2026-11-20T06:37|Billie Eilish|Birds Of A Feather",
-"t": "2026-11-20T06:37:00+01:00",
-"artist": "Billie Eilish",
-"title": "Birds Of A Feather"
-},
-{
-"id": "2026-11-20T06:34|Tommy Richman|Million Dollar Baby (Main Version)",
-"t": "2026-11-20T06:34:00+01:00",
-"artist": "Tommy Richman",
-"title": "Million Dollar Baby (Main Version)"
 }
 ]
 }
