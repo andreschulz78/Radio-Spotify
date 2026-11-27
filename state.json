@@ -1,9 +1,9 @@
 {
-"updated": "2026-11-27T10:41:52.079770+01:00",
+"updated": "2026-11-27T14:45:30.854510+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
-"synced": "2026-11-27T10:33:52.079515+01:00",
+"synced": "2026-11-27T14:45:30.854510+01:00",
 "pruned": "2026-11-27",
 "calls": {
 "2026-11-20": 147,
@@ -13,12 +13,104 @@
 "2026-11-24": 144,
 "2026-11-25": 153,
 "2026-11-26": 171,
-"2026-11-27": 70
+"2026-11-27": 75
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAkwxxEd7NsViio2XhdN/RChdGSzpoE",
+"snapshot": "AAAkxYAj6vX4nExIjigNQBuGe3CT+fy7",
 "playlist": [
+[
+"2026-11-27T14:32|The Haunted Youth|Teen Rebel (Edit)",
+"spotify:track:3x20zcKUu6rKKsaHdGhyL9"
+],
+[
+"2026-11-27T14:28|Róisín Murphy|Incapable (Edit)",
+"spotify:track:5us7s2ORQ1w4jozfxdhADQ"
+],
+[
+"2026-11-27T14:22|Automatic|Shadowplay",
+"spotify:track:0pT1m2UpNBliUb6W7S7YzA"
+],
+[
+"2026-11-27T14:19|Jungle|Happy Man",
+"spotify:track:50pEmS593x4xb305XdICSP"
+],
+[
+"2026-11-27T14:09|Jamiroquai|Seven Days In Sunny June",
+"spotify:track:2bwxqGKS5GPXfNanAIRe2p"
+],
+[
+"2026-11-27T14:05|Gena feat. Liv.e, Karriem Riggins|Circlesz",
+"spotify:track:5jFt1do9B6cGoM0vhErWHO"
+],
+[
+"2026-11-27T13:44|De La Soul feat. Otis Redding|Eye Know",
+"spotify:track:1q1AdQLArP7xxM5phOTUki"
+],
+[
+"2026-11-27T13:34|Bilderbuch|Zahlen als Beweis",
+"spotify:track:4DMzOq4TEfN1brCgM0wKVg"
+],
+[
+"2026-11-27T13:31|SOFY|50/50",
+"spotify:track:16QLv8xt9nPNBZCBDm3Gkv"
+],
+[
+"2026-11-27T13:21|Kevin Morby|PBJ (Edit)",
+"spotify:track:5rjtzSA5VBWg7zmuOGg5Dz"
+],
+[
+"2026-11-27T13:09|Eskobar|On the ground",
+"spotify:track:76ucFr2xhp9g41JuG1bRRL"
+],
+[
+"2026-11-27T13:04|Kitty Solaris|Follow the Beatniks",
+"spotify:track:3Lww3IVo0ZfY8gpstVdzj1"
+],
+[
+"2026-11-27T12:30|Pamela.|Better than Before",
+"spotify:track:30ewsn0jSF9Jme7Altrz9X"
+],
+[
+"2026-11-27T12:04|Tunde Adebimpe|God Knows",
+"spotify:track:1g9o6MNw8DQEFGmKQwbyYa"
+],
+[
+"2026-11-27T11:48|Ex:Re|Radio Station",
+"spotify:track:2ixKxWKW6ejtIVr5gm00K7"
+],
+[
+"2026-11-27T11:35|Yazmin Lacey|Summer Haze",
+"spotify:track:465QjZo1z1JAuLTTC7DnuK"
+],
+[
+"2026-11-27T11:25|Erykah Badu & Alchemist|Witch Doctor (Edit)",
+"spotify:track:7H2FmMnHfLRj8yoJpdl6A6"
+],
+[
+"2026-11-27T11:11|Brittany Howard|Stay High",
+"spotify:track:10dqWdhsDBjltY1B4TPnMd"
+],
+[
+"2026-11-27T11:05|Ane Brun feat. Röyksopp|Eat The Fruit (Radio Edit)",
+"spotify:track:6QTVocXJIT6QomBx2QuBBm"
+],
+[
+"2026-11-27T10:53|Tristan Brusch|Baggersee",
+"spotify:track:1dm6gJGAPtctVriOGCTqS0"
+],
+[
+"2026-11-27T10:46|Bleachers|the van",
+"spotify:track:4C2o68XUoLpjvncsNsgwjA"
+],
+[
+"2026-11-27T10:37|The Weather Station|Window",
+"spotify:track:0ytUz2JhGYQhN9d4oYyU2o"
+],
+[
+"2026-11-27T10:31|Chinese American Bear|Dance Dance Dance (Edit)",
+"spotify:track:3Ct3ro3LnsTHjeRVPNSG5s"
+],
 [
 "2026-11-27T10:25|Ruti|Luh Luh Love",
 "spotify:track:2GrcwGYt4V1yP7Yjx32udG"
@@ -3412,10 +3504,6 @@
 "spotify:track:3r8jMGukBwtwapk6C8QrA3"
 ],
 [
-"2026-11-20T14:45|Falco|Brillantin' Brutal'",
-"spotify:track:5CAmDCxCwpJkhQd7vOww4B"
-],
-[
 "2026-11-20T14:42|Fatboy Slim|Praise You",
 "spotify:track:1FS21kclHQ2vVi3U1ZxETc"
 ],
@@ -3757,6 +3845,222 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-11-27T14:32|The Haunted Youth|Teen Rebel (Edit)",
+"t": "2026-11-27T14:32:00+01:00",
+"artist": "The Haunted Youth",
+"title": "Teen Rebel (Edit)"
+},
+{
+"id": "2026-11-27T14:28|Róisín Murphy|Incapable (Edit)",
+"t": "2026-11-27T14:28:00+01:00",
+"artist": "Róisín Murphy",
+"title": "Incapable (Edit)"
+},
+{
+"id": "2026-11-27T14:22|Automatic|Shadowplay",
+"t": "2026-11-27T14:22:00+01:00",
+"artist": "Automatic",
+"title": "Shadowplay"
+},
+{
+"id": "2026-11-27T14:19|Jungle|Happy Man",
+"t": "2026-11-27T14:19:00+01:00",
+"artist": "Jungle",
+"title": "Happy Man"
+},
+{
+"id": "2026-11-27T14:09|Jamiroquai|Seven Days In Sunny June",
+"t": "2026-11-27T14:09:00+01:00",
+"artist": "Jamiroquai",
+"title": "Seven Days In Sunny June"
+},
+{
+"id": "2026-11-27T14:05|Gena feat. Liv.e, Karriem Riggins|Circlesz",
+"t": "2026-11-27T14:05:00+01:00",
+"artist": "Gena feat. Liv.e, Karriem Riggins",
+"title": "Circlesz"
+},
+{
+"id": "2026-11-27T13:54|Moderat|A New Error (Edit)",
+"t": "2026-11-27T13:54:00+01:00",
+"artist": "Moderat",
+"title": "A New Error (Edit)"
+},
+{
+"id": "2026-11-27T13:48|Washed Out|Amor Fati",
+"t": "2026-11-27T13:48:00+01:00",
+"artist": "Washed Out",
+"title": "Amor Fati"
+},
+{
+"id": "2026-11-27T13:44|De La Soul feat. Otis Redding|Eye Know",
+"t": "2026-11-27T13:44:00+01:00",
+"artist": "De La Soul feat. Otis Redding",
+"title": "Eye Know"
+},
+{
+"id": "2026-11-27T13:34|Bilderbuch|Zahlen als Beweis",
+"t": "2026-11-27T13:34:00+01:00",
+"artist": "Bilderbuch",
+"title": "Zahlen als Beweis"
+},
+{
+"id": "2026-11-27T13:31|SOFY|50/50",
+"t": "2026-11-27T13:31:00+01:00",
+"artist": "SOFY",
+"title": "50/50"
+},
+{
+"id": "2026-11-27T13:24|Fuffifufzich|Lack Again",
+"t": "2026-11-27T13:24:00+01:00",
+"artist": "Fuffifufzich",
+"title": "Lack Again"
+},
+{
+"id": "2026-11-27T13:21|Kevin Morby|PBJ (Edit)",
+"t": "2026-11-27T13:21:00+01:00",
+"artist": "Kevin Morby",
+"title": "PBJ (Edit)"
+},
+{
+"id": "2026-11-27T13:09|Eskobar|On the ground",
+"t": "2026-11-27T13:09:00+01:00",
+"artist": "Eskobar",
+"title": "On the ground"
+},
+{
+"id": "2026-11-27T13:04|Kitty Solaris|Follow the Beatniks",
+"t": "2026-11-27T13:04:00+01:00",
+"artist": "Kitty Solaris",
+"title": "Follow the Beatniks"
+},
+{
+"id": "2026-11-27T12:55|Marvin Gaye|Inner City Blues (Make Me Wanna Holler)",
+"t": "2026-11-27T12:55:00+01:00",
+"artist": "Marvin Gaye",
+"title": "Inner City Blues (Make Me Wanna Holler)"
+},
+{
+"id": "2026-11-27T12:50|Supershy & Tom Misch|Don't Let Go",
+"t": "2026-11-27T12:50:00+01:00",
+"artist": "Supershy & Tom Misch",
+"title": "Don't Let Go"
+},
+{
+"id": "2026-11-27T12:47|The Strokes|12:51 (Twelve Fiftyone)",
+"t": "2026-11-27T12:47:00+01:00",
+"artist": "The Strokes",
+"title": "12:51 (Twelve Fiftyone)"
+},
+{
+"id": "2026-11-27T12:43|Mother Soki|Much Cry, Little Wool",
+"t": "2026-11-27T12:43:00+01:00",
+"artist": "Mother Soki",
+"title": "Much Cry, Little Wool"
+},
+{
+"id": "2026-11-27T12:35|Idles|Grace (Radio Edit)",
+"t": "2026-11-27T12:35:00+01:00",
+"artist": "Idles",
+"title": "Grace (Radio Edit)"
+},
+{
+"id": "2026-11-27T12:30|Pamela.|Better than Before",
+"t": "2026-11-27T12:30:00+01:00",
+"artist": "Pamela.",
+"title": "Better than Before"
+},
+{
+"id": "2026-11-27T12:24|Lauryn Hill|Everything Is Everything",
+"t": "2026-11-27T12:24:00+01:00",
+"artist": "Lauryn Hill",
+"title": "Everything Is Everything"
+},
+{
+"id": "2026-11-27T12:17|Moderat|Rusty Nails",
+"t": "2026-11-27T12:17:00+01:00",
+"artist": "Moderat",
+"title": "Rusty Nails"
+},
+{
+"id": "2026-11-27T12:12|Natalie Bergman|Gunslinger",
+"t": "2026-11-27T12:12:00+01:00",
+"artist": "Natalie Bergman",
+"title": "Gunslinger"
+},
+{
+"id": "2026-11-27T12:04|Tunde Adebimpe|God Knows",
+"t": "2026-11-27T12:04:00+01:00",
+"artist": "Tunde Adebimpe",
+"title": "God Knows"
+},
+{
+"id": "2026-11-27T11:55|Fujiya & Miyagi|Knickerbocker",
+"t": "2026-11-27T11:55:00+01:00",
+"artist": "Fujiya & Miyagi",
+"title": "Knickerbocker"
+},
+{
+"id": "2026-11-27T11:48|Ex:Re|Radio Station",
+"t": "2026-11-27T11:48:00+01:00",
+"artist": "Ex:Re",
+"title": "Radio Station"
+},
+{
+"id": "2026-11-27T11:44|Jeff Buckley|Last Goodbye",
+"t": "2026-11-27T11:44:00+01:00",
+"artist": "Jeff Buckley",
+"title": "Last Goodbye"
+},
+{
+"id": "2026-11-27T11:35|Yazmin Lacey|Summer Haze",
+"t": "2026-11-27T11:35:00+01:00",
+"artist": "Yazmin Lacey",
+"title": "Summer Haze"
+},
+{
+"id": "2026-11-27T11:31|Michael Kiwanuka|The Rest Of Me",
+"t": "2026-11-27T11:31:00+01:00",
+"artist": "Michael Kiwanuka",
+"title": "The Rest Of Me"
+},
+{
+"id": "2026-11-27T11:25|Erykah Badu & Alchemist|Witch Doctor (Edit)",
+"t": "2026-11-27T11:25:00+01:00",
+"artist": "Erykah Badu & Alchemist",
+"title": "Witch Doctor (Edit)"
+},
+{
+"id": "2026-11-27T11:21|Zoot Woman|Grey Day",
+"t": "2026-11-27T11:21:00+01:00",
+"artist": "Zoot Woman",
+"title": "Grey Day"
+},
+{
+"id": "2026-11-27T11:11|Brittany Howard|Stay High",
+"t": "2026-11-27T11:11:00+01:00",
+"artist": "Brittany Howard",
+"title": "Stay High"
+},
+{
+"id": "2026-11-27T11:05|Ane Brun feat. Röyksopp|Eat The Fruit (Radio Edit)",
+"t": "2026-11-27T11:05:00+01:00",
+"artist": "Ane Brun feat. Röyksopp",
+"title": "Eat The Fruit (Radio Edit)"
+},
+{
+"id": "2026-11-27T10:53|Tristan Brusch|Baggersee",
+"t": "2026-11-27T10:53:00+01:00",
+"artist": "Tristan Brusch",
+"title": "Baggersee"
+},
+{
+"id": "2026-11-27T10:46|Bleachers|the van",
+"t": "2026-11-27T10:46:00+01:00",
+"artist": "Bleachers",
+"title": "the van"
+},
 {
 "id": "2026-11-27T10:37|The Weather Station|Window",
 "t": "2026-11-27T10:37:00+01:00",
@@ -8970,246 +9274,6 @@
 "t": "2026-11-20T14:49:00+01:00",
 "artist": "Kim Gordon",
 "title": "Play Me"
-},
-{
-"id": "2026-11-20T14:45|Falco|Brillantin' Brutal'",
-"t": "2026-11-20T14:45:00+01:00",
-"artist": "Falco",
-"title": "Brillantin' Brutal'"
-},
-{
-"id": "2026-11-20T14:42|Fatboy Slim|Praise You",
-"t": "2026-11-20T14:42:00+01:00",
-"artist": "Fatboy Slim",
-"title": "Praise You"
-},
-{
-"id": "2026-11-20T14:32|Tame Impala|The Less I Know The Better",
-"t": "2026-11-20T14:32:00+01:00",
-"artist": "Tame Impala",
-"title": "The Less I Know The Better"
-},
-{
-"id": "2026-11-20T14:29|The Slow Show|Breathe (Edit)",
-"t": "2026-11-20T14:29:00+01:00",
-"artist": "The Slow Show",
-"title": "Breathe (Edit)"
-},
-{
-"id": "2026-11-20T14:23|Eilis Frawley|Taken, Never Erased",
-"t": "2026-11-20T14:23:00+01:00",
-"artist": "Eilis Frawley",
-"title": "Taken, Never Erased"
-},
-{
-"id": "2026-11-20T14:21|The Avalanches feat. Karen O|Blue Shadows",
-"t": "2026-11-20T14:21:00+01:00",
-"artist": "The Avalanches feat. Karen O",
-"title": "Blue Shadows"
-},
-{
-"id": "2026-11-20T14:12|Gary Numan|Cars",
-"t": "2026-11-20T14:12:00+01:00",
-"artist": "Gary Numan",
-"title": "Cars"
-},
-{
-"id": "2026-11-20T14:06|Moonlight Breakfast|If Not Now, Then When?!",
-"t": "2026-11-20T14:06:00+01:00",
-"artist": "Moonlight Breakfast",
-"title": "If Not Now, Then When?!"
-},
-{
-"id": "2026-11-20T13:58|Yard Act|You're Gonna Need A Little Music",
-"t": "2026-11-20T13:58:00+01:00",
-"artist": "Yard Act",
-"title": "You're Gonna Need A Little Music"
-},
-{
-"id": "2026-11-20T13:50|Pixx|Andean condor",
-"t": "2026-11-20T13:50:00+01:00",
-"artist": "Pixx",
-"title": "Andean condor"
-},
-{
-"id": "2026-11-20T13:45|Peter Tosh|Legalize It",
-"t": "2026-11-20T13:45:00+01:00",
-"artist": "Peter Tosh",
-"title": "Legalize It"
-},
-{
-"id": "2026-11-20T13:33|Lola Young|From Down Here (Radio Edit)",
-"t": "2026-11-20T13:33:00+01:00",
-"artist": "Lola Young",
-"title": "From Down Here (Radio Edit)"
-},
-{
-"id": "2026-11-20T13:30|NEIKED feat. Portugal. The Man|Glide",
-"t": "2026-11-20T13:30:00+01:00",
-"artist": "NEIKED feat. Portugal. The Man",
-"title": "Glide"
-},
-{
-"id": "2026-11-20T13:23|Nation of Language|Inept Apollo",
-"t": "2026-11-20T13:23:00+01:00",
-"artist": "Nation of Language",
-"title": "Inept Apollo"
-},
-{
-"id": "2026-11-20T13:10|Vega 4|A Billion Tons of Light",
-"t": "2026-11-20T13:10:00+01:00",
-"artist": "Vega 4",
-"title": "A Billion Tons of Light"
-},
-{
-"id": "2026-11-20T13:05|Phoenix|1901",
-"t": "2026-11-20T13:05:00+01:00",
-"artist": "Phoenix",
-"title": "1901"
-},
-{
-"id": "2026-11-20T12:56|Aztec Camera|All I need is everything",
-"t": "2026-11-20T12:56:00+01:00",
-"artist": "Aztec Camera",
-"title": "All I need is everything"
-},
-{
-"id": "2026-11-20T12:48|Stevie Wonder|Higher Ground",
-"t": "2026-11-20T12:48:00+01:00",
-"artist": "Stevie Wonder",
-"title": "Higher Ground"
-},
-{
-"id": "2026-11-20T12:46|Chanel Beads|Police Scanner",
-"t": "2026-11-20T12:46:00+01:00",
-"artist": "Chanel Beads",
-"title": "Police Scanner"
-},
-{
-"id": "2026-11-20T12:43|Joy Division|Love Will Tear Us Apart",
-"t": "2026-11-20T12:43:00+01:00",
-"artist": "Joy Division",
-"title": "Love Will Tear Us Apart"
-},
-{
-"id": "2026-11-20T12:34|Keshavara|Satori",
-"t": "2026-11-20T12:34:00+01:00",
-"artist": "Keshavara",
-"title": "Satori"
-},
-{
-"id": "2026-11-20T12:31|Django Django|Cameos",
-"t": "2026-11-20T12:31:00+01:00",
-"artist": "Django Django",
-"title": "Cameos"
-},
-{
-"id": "2026-11-20T12:27|Ada|Moon Rider",
-"t": "2026-11-20T12:27:00+01:00",
-"artist": "Ada",
-"title": "Moon Rider"
-},
-{
-"id": "2026-11-20T12:24|Obongjayar|Sweet Danger",
-"t": "2026-11-20T12:24:00+01:00",
-"artist": "Obongjayar",
-"title": "Sweet Danger"
-},
-{
-"id": "2026-11-20T12:17|Daft Punk|Digital Love",
-"t": "2026-11-20T12:17:00+01:00",
-"artist": "Daft Punk",
-"title": "Digital Love"
-},
-{
-"id": "2026-11-20T12:12|Neneh Cherry feat. Robyn|Out Of The Black",
-"t": "2026-11-20T12:12:00+01:00",
-"artist": "Neneh Cherry feat. Robyn",
-"title": "Out Of The Black"
-},
-{
-"id": "2026-11-20T12:07|Kaktus Einarsson feat. John Grant|Follow",
-"t": "2026-11-20T12:07:00+01:00",
-"artist": "Kaktus Einarsson feat. John Grant",
-"title": "Follow"
-},
-{
-"id": "2026-11-20T11:58|Warren G Feat. Nate Dogg|Regulate",
-"t": "2026-11-20T11:58:00+01:00",
-"artist": "Warren G Feat. Nate Dogg",
-"title": "Regulate"
-},
-{
-"id": "2026-11-20T11:52|Ann Peebles|I Can't Stand The Rain",
-"t": "2026-11-20T11:52:00+01:00",
-"artist": "Ann Peebles",
-"title": "I Can't Stand The Rain"
-},
-{
-"id": "2026-11-20T11:49|Holybones And Hak Baker|Englishman",
-"t": "2026-11-20T11:49:00+01:00",
-"artist": "Holybones And Hak Baker",
-"title": "Englishman"
-},
-{
-"id": "2026-11-20T11:43|Charlotte Gainsbourg|Anna",
-"t": "2026-11-20T11:43:00+01:00",
-"artist": "Charlotte Gainsbourg",
-"title": "Anna"
-},
-{
-"id": "2026-11-20T11:34|Peki Momés|Ahşap Kutu",
-"t": "2026-11-20T11:34:00+01:00",
-"artist": "Peki Momés",
-"title": "Ahşap Kutu"
-},
-{
-"id": "2026-11-20T11:30|Rio Kosta|One With You",
-"t": "2026-11-20T11:30:00+01:00",
-"artist": "Rio Kosta",
-"title": "One With You"
-},
-{
-"id": "2026-11-20T11:25|Tomberlin|Wasted",
-"t": "2026-11-20T11:25:00+01:00",
-"artist": "Tomberlin",
-"title": "Wasted"
-},
-{
-"id": "2026-11-20T11:21|Gurr|She Says",
-"t": "2026-11-20T11:21:00+01:00",
-"artist": "Gurr",
-"title": "She Says"
-},
-{
-"id": "2026-11-20T11:11|Bonaparte|KiOSKO",
-"t": "2026-11-20T11:11:00+01:00",
-"artist": "Bonaparte",
-"title": "KiOSKO"
-},
-{
-"id": "2026-11-20T11:06|Booker T. & The M.G.'s|Green Onions",
-"t": "2026-11-20T11:06:00+01:00",
-"artist": "Booker T. & The M.G.'s",
-"title": "Green Onions"
-},
-{
-"id": "2026-11-20T10:58|Aldous Harding|Venus In The Zinnia",
-"t": "2026-11-20T10:58:00+01:00",
-"artist": "Aldous Harding",
-"title": "Venus In The Zinnia"
-},
-{
-"id": "2026-11-20T10:52|Jungle|The Wave",
-"t": "2026-11-20T10:52:00+01:00",
-"artist": "Jungle",
-"title": "The Wave"
-},
-{
-"id": "2026-11-20T10:48|Elefant|Now That I Miss Her",
-"t": "2026-11-20T10:48:00+01:00",
-"artist": "Elefant",
-"title": "Now That I Miss Her"
 }
 ]
 }
