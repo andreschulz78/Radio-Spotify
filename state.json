@@ -1,9 +1,9 @@
 {
-"updated": "2026-11-27T07:41:52.074158+01:00",
+"updated": "2026-11-27T07:53:52.074534+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
-"synced": "2026-11-27T07:37:52.074040+01:00",
+"synced": "2026-11-27T07:53:52.074534+01:00",
 "pruned": "2026-11-27",
 "calls": {
 "2026-11-20": 147,
@@ -13,12 +13,20 @@
 "2026-11-24": 144,
 "2026-11-25": 153,
 "2026-11-26": 171,
-"2026-11-27": 30
+"2026-11-27": 31
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAks2KcRpPzxhKHOaC0MkEKNtUzXnAY",
+"snapshot": "AAAktL5LLKaGRcHczbNLhOi0fC4fEHYx",
 "playlist": [
+[
+"2026-11-27T07:45|Moscoman & SCUDFM|Low Blood Sugar",
+"spotify:track:20ex9eLFDV8Jg3A2cTY2Ho"
+],
+[
+"2026-11-27T07:37|Karl die Große|Liebeslied",
+"spotify:track:352doOTLR1AdwssKpas5Pk"
+],
 [
 "2026-11-27T07:32|The Avalanches feat. Karen O|Blue Shadows",
 "spotify:track:5bN5To0VLbNBKQDzJ1Lk6c"
@@ -3657,6 +3665,12 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-11-27T07:45|Moscoman & SCUDFM|Low Blood Sugar",
+"t": "2026-11-27T07:45:00+01:00",
+"artist": "Moscoman & SCUDFM",
+"title": "Low Blood Sugar"
+},
 {
 "id": "2026-11-27T07:37|Karl die Große|Liebeslied",
 "t": "2026-11-27T07:37:00+01:00",
@@ -9098,18 +9112,6 @@
 "t": "2026-11-20T07:56:00+01:00",
 "artist": "Donkey Kid",
 "title": "Goldmine"
-},
-{
-"id": "2026-11-20T07:49|OutKast|Ms. Jackson",
-"t": "2026-11-20T07:49:00+01:00",
-"artist": "OutKast",
-"title": "Ms. Jackson"
-},
-{
-"id": "2026-11-20T07:43|Boy Harsher|Tough Luck (When You Don't Call)",
-"t": "2026-11-20T07:43:00+01:00",
-"artist": "Boy Harsher",
-"title": "Tough Luck (When You Don't Call)"
 }
 ]
 }
