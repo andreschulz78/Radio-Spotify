@@ -1,5 +1,5 @@
 {
-"updated": "2026-11-27T14:45:30.854510+01:00",
+"updated": "2026-11-27T14:57:30.854840+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
@@ -13,7 +13,7 @@
 "2026-11-24": 144,
 "2026-11-25": 153,
 "2026-11-26": 171,
-"2026-11-27": 75
+"2026-11-27": 84
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
@@ -3845,6 +3845,18 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-11-27T14:47|Sylvan Esso|Right to Left",
+"t": "2026-11-27T14:47:00+01:00",
+"artist": "Sylvan Esso",
+"title": "Right to Left"
+},
+{
+"id": "2026-11-27T14:43|Garbage|Stupid Girl",
+"t": "2026-11-27T14:43:00+01:00",
+"artist": "Garbage",
+"title": "Stupid Girl"
+},
 {
 "id": "2026-11-27T14:32|The Haunted Youth|Teen Rebel (Edit)",
 "t": "2026-11-27T14:32:00+01:00",
@@ -9262,18 +9274,6 @@
 "t": "2026-11-20T14:58:00+01:00",
 "artist": "Die Fantastischen Vier",
 "title": "Nur in deinem Kopf"
-},
-{
-"id": "2026-11-20T14:55|Ibeyi|Hurry Hurry",
-"t": "2026-11-20T14:55:00+01:00",
-"artist": "Ibeyi",
-"title": "Hurry Hurry"
-},
-{
-"id": "2026-11-20T14:49|Kim Gordon|Play Me",
-"t": "2026-11-20T14:49:00+01:00",
-"artist": "Kim Gordon",
-"title": "Play Me"
 }
 ]
 }
