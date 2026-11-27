@@ -1,9 +1,9 @@
 {
-"updated": "2026-11-27T07:17:52.073374+01:00",
+"updated": "2026-11-27T07:29:52.073784+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
-"synced": "2026-11-27T07:05:52.073002+01:00",
+"synced": "2026-11-27T07:21:52.073517+01:00",
 "pruned": "2026-11-27",
 "calls": {
 "2026-11-20": 147,
@@ -13,12 +13,24 @@
 "2026-11-24": 144,
 "2026-11-25": 153,
 "2026-11-26": 171,
-"2026-11-27": 25
+"2026-11-27": 28
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAksY5xp5OnV6dd5HDPN4O3n7MaLL2S",
+"snapshot": "AAAkstL9Czz6yxXOx+IEUlvRTDZ9o1Qs",
 "playlist": [
+[
+"2026-11-27T07:14|The Cure|In Between Days",
+"spotify:track:4uexN8lwDjGX5SQycpz97I"
+],
+[
+"2026-11-27T07:09|Farin Urlaub|Sie",
+"spotify:track:00Kf2FQT0amEQ5GgK0oCbT"
+],
+[
+"2026-11-27T07:05|Cherry Glazerr|Bad Habit",
+"spotify:track:3O7ij6i8NmdxxmOrpHDVJV"
+],
 [
 "2026-11-27T06:57|Dream Boat|Real!",
 "spotify:track:1yxpRDrcK5ExwNiThPa9Uh"
@@ -3633,6 +3645,18 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-11-27T07:21|The Flaming Lips|God Will Control The Werewolves (Radio Edit)",
+"t": "2026-11-27T07:21:00+01:00",
+"artist": "The Flaming Lips",
+"title": "God Will Control The Werewolves (Radio Edit)"
+},
+{
+"id": "2026-11-27T07:14|The Cure|In Between Days",
+"t": "2026-11-27T07:14:00+01:00",
+"artist": "The Cure",
+"title": "In Between Days"
+},
 {
 "id": "2026-11-27T07:09|Farin Urlaub|Sie",
 "t": "2026-11-27T07:09:00+01:00",
@@ -9062,12 +9086,6 @@
 "t": "2026-11-20T07:34:00+01:00",
 "artist": "Dottie Andersson",
 "title": "Wind That Makes The Subway Sound"
-},
-{
-"id": "2026-11-20T07:25|Flora Hibberd|Bowling Ball",
-"t": "2026-11-20T07:25:00+01:00",
-"artist": "Flora Hibberd",
-"title": "Bowling Ball"
 }
 ]
 }
