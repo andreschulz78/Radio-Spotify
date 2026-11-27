@@ -1,9 +1,9 @@
 {
-"updated": "2026-11-27T16:33:30.857297+01:00",
+"updated": "2026-11-27T16:45:30.857590+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
-"synced": "2026-11-27T16:21:30.857019+01:00",
+"synced": "2026-11-27T16:37:30.857404+01:00",
 "pruned": "2026-11-27",
 "calls": {
 "2026-11-20": 147,
@@ -13,12 +13,16 @@
 "2026-11-24": 144,
 "2026-11-25": 153,
 "2026-11-26": 171,
-"2026-11-27": 111
+"2026-11-27": 113
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAk02I/pPJd/UwsaEW1W2MMwp36yfXg",
+"snapshot": "AAAk1ExX4MPrfzoGxRHkY9uK8sSEcbLm",
 "playlist": [
+[
+"2026-11-27T16:21|Arrested Development|Honeymoon Day",
+"spotify:track:2LXaCTVfKr7tmydxrlz6pu"
+],
 [
 "2026-11-27T16:13|Arrested Development|Honeymoon Day",
 "spotify:track:2LXaCTVfKr7tmydxrlz6pu"
@@ -3977,6 +3981,18 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-11-27T16:35|The Big Moon|F.O.R.E.V.E.R",
+"t": "2026-11-27T16:35:00+01:00",
+"artist": "The Big Moon",
+"title": "F.O.R.E.V.E.R"
+},
+{
+"id": "2026-11-27T16:32|Tom Liwa|Für die linke Spur zu langsam",
+"t": "2026-11-27T16:32:00+01:00",
+"artist": "Tom Liwa",
+"title": "Für die linke Spur zu langsam"
+},
 {
 "id": "2026-11-27T16:21|Arrested Development|Honeymoon Day",
 "t": "2026-11-27T16:21:00+01:00",
@@ -9412,18 +9428,6 @@
 "t": "2026-11-20T16:50:00+01:00",
 "artist": "Sophia Kennedy",
 "title": "Hot Match"
-},
-{
-"id": "2026-11-20T16:39|The Good, The Bad & The Queen|Kingdom Of Doom",
-"t": "2026-11-20T16:39:00+01:00",
-"artist": "The Good, The Bad & The Queen",
-"title": "Kingdom Of Doom"
-},
-{
-"id": "2026-11-20T16:35|Kelela|the bridge (feat. PinkPantheress)",
-"t": "2026-11-20T16:35:00+01:00",
-"artist": "Kelela",
-"title": "the bridge (feat. PinkPantheress)"
 }
 ]
 }
