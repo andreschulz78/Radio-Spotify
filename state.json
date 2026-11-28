@@ -1,9 +1,9 @@
 {
-"updated": "2026-11-28T08:52:47.414605+01:00",
+"updated": "2026-11-28T09:04:47.414910+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
-"synced": "2026-11-28T08:44:47.414428+01:00",
+"synced": "2026-11-28T09:00:47.414811+01:00",
 "pruned": "2026-11-28",
 "calls": {
 "2026-11-21": 93,
@@ -13,12 +13,36 @@
 "2026-11-25": 153,
 "2026-11-26": 171,
 "2026-11-27": 131,
-"2026-11-28": 33
+"2026-11-28": 39
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAk9IWCS5OjZcUbYCnhTvbZILgLIMsd",
+"snapshot": "AAAk9TbOJAeSYp9r6Qxb91LqqaFjrAV5",
 "playlist": [
+[
+"2026-11-28T08:57|Gry|Princess Crocodile",
+"spotify:track:5nsPHwcAGA0WuecR2XyZuj"
+],
+[
+"2026-11-28T08:52|Babe Rainbow|Waterfall",
+"spotify:track:6b7xtvXFuODSbW4uq9IxBw"
+],
+[
+"2026-11-28T08:49|The Roots|The Seed (Radio Edit)",
+"spotify:track:6HxweNytuEQdmGeVtZPZz3"
+],
+[
+"2026-11-28T08:46|Faithless|Dirty Ol' Man",
+"spotify:track:3CZaWzSb8LFVJb4u9uPVcY"
+],
+[
+"2026-11-28T08:42|Sassy 009 feat. Blood Orange|Tell Me (Jam City Remix) (Edit)",
+"spotify:track:1pDiRrLro0tlhsPSexB3Zv"
+],
+[
+"2026-11-28T08:40|Sophia Kennedy|Being Special",
+"spotify:track:5XAoSMs4PY590w0QOhKAnC"
+],
 [
 "2026-11-28T08:32|Bonaparte|KiOSKO",
 "spotify:track:5seYGZRYuD3oPMxryJdvOk"
@@ -3597,6 +3621,24 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-11-28T08:57|Gry|Princess Crocodile",
+"t": "2026-11-28T08:57:00+01:00",
+"artist": "Gry",
+"title": "Princess Crocodile"
+},
+{
+"id": "2026-11-28T08:52|Babe Rainbow|Waterfall",
+"t": "2026-11-28T08:52:00+01:00",
+"artist": "Babe Rainbow",
+"title": "Waterfall"
+},
+{
+"id": "2026-11-28T08:49|The Roots|The Seed (Radio Edit)",
+"t": "2026-11-28T08:49:00+01:00",
+"artist": "The Roots",
+"title": "The Seed (Radio Edit)"
+},
 {
 "id": "2026-11-28T08:46|Faithless|Dirty Ol' Man",
 "t": "2026-11-28T08:46:00+01:00",
@@ -8930,18 +8972,6 @@
 "t": "2026-11-21T09:10:00+01:00",
 "artist": "Perel",
 "title": "Alles"
-},
-{
-"id": "2026-11-21T09:04|Westside Cowboy|Kick Stones (The Boys)",
-"t": "2026-11-21T09:04:00+01:00",
-"artist": "Westside Cowboy",
-"title": "Kick Stones (The Boys)"
-},
-{
-"id": "2026-11-21T08:56|Weekend Players|21st Century",
-"t": "2026-11-21T08:56:00+01:00",
-"artist": "Weekend Players",
-"title": "21st Century"
 }
 ]
 }
