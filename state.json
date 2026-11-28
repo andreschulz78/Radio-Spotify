@@ -1,9 +1,9 @@
 {
-"updated": "2026-11-28T06:28:47.411143+01:00",
+"updated": "2026-11-28T06:40:47.411420+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
-"synced": "2026-11-28T06:20:47.410950+01:00",
+"synced": "2026-11-28T06:36:47.411347+01:00",
 "pruned": "2026-11-28",
 "calls": {
 "2026-11-21": 93,
@@ -13,12 +13,24 @@
 "2026-11-25": 153,
 "2026-11-26": 171,
 "2026-11-27": 131,
-"2026-11-28": 6
+"2026-11-28": 7
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAk4Wj3jRz5APiIAgrYYYYBZUBE4hHg",
+"snapshot": "AAAk4ulYetyxUMvjUpqpPWO3DjzZtjwK",
 "playlist": [
+[
+"2026-11-28T06:30|Kevin Morby|Javelin",
+"spotify:track:66GKPLUMYSsSWirLHvEr0q"
+],
+[
+"2026-11-28T06:25|Interpol|Iron City",
+"spotify:track:7o9gwmscHBXh6sUEYkWQ4e"
+],
+[
+"2026-11-28T06:21|Róisín Murphy|Ten Miles High",
+"spotify:track:4G7vdJ9HaOtH7Ahab1to0S"
+],
 [
 "2026-11-28T06:15|Jamie T|Tallahassee",
 "spotify:track:3Kwdvrz5PTUpAObYKNPlz0"
@@ -3521,6 +3533,24 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-11-28T06:34|L'Rain|Elmyra (Edit)",
+"t": "2026-11-28T06:34:00+01:00",
+"artist": "L'Rain",
+"title": "Elmyra (Edit)"
+},
+{
+"id": "2026-11-28T06:30|Kevin Morby|Javelin",
+"t": "2026-11-28T06:30:00+01:00",
+"artist": "Kevin Morby",
+"title": "Javelin"
+},
+{
+"id": "2026-11-28T06:25|Interpol|Iron City",
+"t": "2026-11-28T06:25:00+01:00",
+"artist": "Interpol",
+"title": "Iron City"
+},
 {
 "id": "2026-11-28T06:21|Róisín Murphy|Ten Miles High",
 "t": "2026-11-28T06:21:00+01:00",
@@ -8848,18 +8878,6 @@
 "t": "2026-11-21T06:48:00+01:00",
 "artist": "Hether",
 "title": "Falling For The Feeling"
-},
-{
-"id": "2026-11-21T06:40|Klee|Erinner Dich",
-"t": "2026-11-21T06:40:00+01:00",
-"artist": "Klee",
-"title": "Erinner Dich"
-},
-{
-"id": "2026-11-21T06:33|Bonaparte|KiOSKO",
-"t": "2026-11-21T06:33:00+01:00",
-"artist": "Bonaparte",
-"title": "KiOSKO"
 }
 ]
 }
