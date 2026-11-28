@@ -1,9 +1,9 @@
 {
-"updated": "2026-11-28T05:52:47.410358+01:00",
+"updated": "2026-11-28T06:04:47.410606+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
-"synced": "2026-11-28T04:01:57.995204+01:00",
+"synced": "2026-11-28T06:04:47.410606+01:00",
 "pruned": "2026-11-28",
 "calls": {
 "2026-11-21": 93,
@@ -13,11 +13,11 @@
 "2026-11-25": 153,
 "2026-11-26": 171,
 "2026-11-27": 131,
-"2026-11-28": 0
+"2026-11-28": 1
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAk39YJkilYZI3iC6UnXNDXb//BgEh/",
+"snapshot": "AAAk4JL72Zrhj12FuruFj9W+CMApjodq",
 "playlist": [
 [
 "2026-11-27T16:50|The Human League|Being Boiled",
@@ -3502,10 +3502,6 @@
 [
 "2026-11-21T06:08|Bangles|In Your Room",
 "spotify:track:6axG4eA9hzRqblAZMMhvGw"
-],
-[
-"2026-11-21T06:04|Simen Mitlid|It's Okay",
-"spotify:track:549pALoY8HiYnE3QFpRw43"
 ]
 ],
 "entries": [
@@ -8848,12 +8844,6 @@
 "t": "2026-11-21T06:08:00+01:00",
 "artist": "Bangles",
 "title": "In Your Room"
-},
-{
-"id": "2026-11-21T06:04|Simen Mitlid|It's Okay",
-"t": "2026-11-21T06:04:00+01:00",
-"artist": "Simen Mitlid",
-"title": "It's Okay"
 }
 ]
 }
