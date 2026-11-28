@@ -1,9 +1,9 @@
 {
-"updated": "2026-11-28T06:40:47.411420+01:00",
+"updated": "2026-11-28T06:52:47.411695+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
-"synced": "2026-11-28T06:36:47.411347+01:00",
+"synced": "2026-11-28T06:52:47.411695+01:00",
 "pruned": "2026-11-28",
 "calls": {
 "2026-11-21": 93,
@@ -13,12 +13,20 @@
 "2026-11-25": 153,
 "2026-11-26": 171,
 "2026-11-27": 131,
-"2026-11-28": 7
+"2026-11-28": 10
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAk4ulYetyxUMvjUpqpPWO3DjzZtjwK",
+"snapshot": "AAAk5NlB20cJVSwgy+VTzfvJztbWHpqy",
 "playlist": [
+[
+"2026-11-28T06:44|Black Marble|Jim Carol New Year",
+"spotify:track:3UhXNJjt6Y0sNCEwwhoJnT"
+],
+[
+"2026-11-28T06:34|L'Rain|Elmyra (Edit)",
+"spotify:track:5pedzmyyKGTs8PV23dnvbc"
+],
 [
 "2026-11-28T06:30|Kevin Morby|Javelin",
 "spotify:track:66GKPLUMYSsSWirLHvEr0q"
@@ -3496,10 +3504,6 @@
 "spotify:track:3d4oFlaGNE7OoBE3HXE2w7"
 ],
 [
-"2026-11-21T06:52|Nick Drake|Pink Moon",
-"spotify:track:4KROoGIaPaR1pBHPnR3bwC"
-],
-[
 "2026-11-21T06:48|Hether|Falling For The Feeling",
 "spotify:track:2JPMgyBJhIBE5vzKa7jaK6"
 ],
@@ -3533,6 +3537,12 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-11-28T06:44|Black Marble|Jim Carol New Year",
+"t": "2026-11-28T06:44:00+01:00",
+"artist": "Black Marble",
+"title": "Jim Carol New Year"
+},
 {
 "id": "2026-11-28T06:34|L'Rain|Elmyra (Edit)",
 "t": "2026-11-28T06:34:00+01:00",
@@ -8866,18 +8876,6 @@
 "t": "2026-11-21T06:55:00+01:00",
 "artist": "The Liminanas",
 "title": "The Gift"
-},
-{
-"id": "2026-11-21T06:52|Nick Drake|Pink Moon",
-"t": "2026-11-21T06:52:00+01:00",
-"artist": "Nick Drake",
-"title": "Pink Moon"
-},
-{
-"id": "2026-11-21T06:48|Hether|Falling For The Feeling",
-"t": "2026-11-21T06:48:00+01:00",
-"artist": "Hether",
-"title": "Falling For The Feeling"
 }
 ]
 }
