@@ -1,9 +1,9 @@
 {
-"updated": "2026-11-28T10:16:47.416745+01:00",
+"updated": "2026-11-28T10:28:47.417034+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
-"synced": "2026-11-28T10:04:47.416361+01:00",
+"synced": "2026-11-28T10:20:47.416845+01:00",
 "pruned": "2026-11-28",
 "calls": {
 "2026-11-21": 93,
@@ -13,12 +13,20 @@
 "2026-11-25": 153,
 "2026-11-26": 171,
 "2026-11-27": 131,
-"2026-11-28": 48
+"2026-11-28": 50
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAk+Rb8wq8+4KJOdvZ70qv4jPT1s4Au",
+"snapshot": "AAAk+jKNFf38qlpExISPmEe8I0u4/PYT",
 "playlist": [
+[
+"2026-11-28T10:08|Hubbabubbaklubb|Mopedbart",
+"spotify:track:7xHxDE898j1kfvcWlRfQy5"
+],
+[
+"2026-11-28T10:05|SOFY|50/50",
+"spotify:track:16QLv8xt9nPNBZCBDm3Gkv"
+],
 [
 "2026-11-28T09:56|Kronstad 23|Høytrykk",
 "spotify:track:6B44D99N2FplJvlfUBIdzV"
@@ -3649,6 +3657,12 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-11-28T10:20|Ultravox|Vienna",
+"t": "2026-11-28T10:20:00+01:00",
+"artist": "Ultravox",
+"title": "Vienna"
+},
 {
 "id": "2026-11-28T10:08|Hubbabubbaklubb|Mopedbart",
 "t": "2026-11-28T10:08:00+01:00",
@@ -8994,24 +9008,6 @@
 "t": "2026-11-21T10:33:00+01:00",
 "artist": "Coma",
 "title": "Start/Stop/Rewind"
-},
-{
-"id": "2026-11-21T10:26|Smith & Mighty feat. Tammy Payne|Believers",
-"t": "2026-11-21T10:26:00+01:00",
-"artist": "Smith & Mighty feat. Tammy Payne",
-"title": "Believers"
-},
-{
-"id": "2026-11-21T10:23|Eilis Frawley|Taken, Never Erased",
-"t": "2026-11-21T10:23:00+01:00",
-"artist": "Eilis Frawley",
-"title": "Taken, Never Erased"
-},
-{
-"id": "2026-11-21T10:18|Villagers|You Lucky One",
-"t": "2026-11-21T10:18:00+01:00",
-"artist": "Villagers",
-"title": "You Lucky One"
 }
 ]
 }
