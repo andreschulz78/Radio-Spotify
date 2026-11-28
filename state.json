@@ -1,9 +1,9 @@
 {
-"updated": "2026-11-28T07:04:47.411977+01:00",
+"updated": "2026-11-28T07:16:47.412234+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
-"synced": "2026-11-28T06:52:47.411695+01:00",
+"synced": "2026-11-28T07:08:47.412057+01:00",
 "pruned": "2026-11-28",
 "calls": {
 "2026-11-21": 93,
@@ -13,12 +13,20 @@
 "2026-11-25": 153,
 "2026-11-26": 171,
 "2026-11-27": 131,
-"2026-11-28": 10
+"2026-11-28": 12
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAk5NlB20cJVSwgy+VTzfvJztbWHpqy",
+"snapshot": "AAAk5Z+FuGzuBg73Sh+Mei2qYya/yQyf",
 "playlist": [
+[
+"2026-11-28T06:56|Tom Misch feat. De La Soul|It Runs Through Me  (Radio Edit)",
+"spotify:track:34E503ICqrdbhDGHwlBwLg"
+],
+[
+"2026-11-28T06:50|Bleachers|Blood Brothers",
+"spotify:track:7aMdmpShbYFRbdJigosY7C"
+],
 [
 "2026-11-28T06:44|Black Marble|Jim Carol New Year",
 "spotify:track:3UhXNJjt6Y0sNCEwwhoJnT"
@@ -3537,6 +3545,18 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-11-28T07:11|Day one|Waiting For A Break",
+"t": "2026-11-28T07:11:00+01:00",
+"artist": "Day one",
+"title": "Waiting For A Break"
+},
+{
+"id": "2026-11-28T07:04|Nabihah Iqbal|This World Couldn't See Us",
+"t": "2026-11-28T07:04:00+01:00",
+"artist": "Nabihah Iqbal",
+"title": "This World Couldn't See Us"
+},
 {
 "id": "2026-11-28T06:56|Tom Misch feat. De La Soul|It Runs Through Me  (Radio Edit)",
 "t": "2026-11-28T06:56:00+01:00",
@@ -8864,18 +8884,6 @@
 "t": "2026-11-21T07:21:00+01:00",
 "artist": "Ane Brun feat. Röyksopp",
 "title": "Eat The Fruit (Radio Edit)"
-},
-{
-"id": "2026-11-21T07:16|54 Ultra|Tell Me",
-"t": "2026-11-21T07:16:00+01:00",
-"artist": "54 Ultra",
-"title": "Tell Me"
-},
-{
-"id": "2026-11-21T07:12|Bonobo|Shokoufeh",
-"t": "2026-11-21T07:12:00+01:00",
-"artist": "Bonobo",
-"title": "Shokoufeh"
 }
 ]
 }
