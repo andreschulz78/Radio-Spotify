@@ -1,9 +1,9 @@
 {
-"updated": "2026-11-28T09:40:47.415760+01:00",
+"updated": "2026-11-28T09:52:47.416070+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
-"synced": "2026-11-28T09:32:47.415578+01:00",
+"synced": "2026-11-28T09:48:47.415968+01:00",
 "pruned": "2026-11-28",
 "calls": {
 "2026-11-21": 93,
@@ -13,12 +13,20 @@
 "2026-11-25": 153,
 "2026-11-26": 171,
 "2026-11-27": 131,
-"2026-11-28": 44
+"2026-11-28": 46
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAk9zpUgwYWscEkInlGdB6nvFWQckVo",
+"snapshot": "AAAk+KOy9JMjGQsb9Hb29uzFSw2jxkDL",
 "playlist": [
+[
+"2026-11-28T09:36|Odd Beholder|Rifle Club",
+"spotify:track:1rbi6zbXWPPHR96m8SyI6p"
+],
+[
+"2026-11-28T09:32|Thus Love|In Tandem",
+"spotify:track:5AfzXDe1ySB7J8QrtjMJef"
+],
 [
 "2026-11-28T09:24|The Avalanches|Frontier Psychiatrist",
 "spotify:track:32VXSNLZd0Z1ec7L075V3F"
@@ -3629,6 +3637,12 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-11-28T09:45|U2|Red Hill Mining Town",
+"t": "2026-11-28T09:45:00+01:00",
+"artist": "U2",
+"title": "Red Hill Mining Town"
+},
 {
 "id": "2026-11-28T09:36|Odd Beholder|Rifle Club",
 "t": "2026-11-28T09:36:00+01:00",
@@ -8980,12 +8994,6 @@
 "t": "2026-11-21T09:56:00+01:00",
 "artist": "Kaktus Einarsson feat. John Grant",
 "title": "Follow"
-},
-{
-"id": "2026-11-21T09:50|Wallners|Movie Stars",
-"t": "2026-11-21T09:50:00+01:00",
-"artist": "Wallners",
-"title": "Movie Stars"
 }
 ]
 }
