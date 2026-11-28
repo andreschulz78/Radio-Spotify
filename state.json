@@ -1,9 +1,9 @@
 {
-"updated": "2026-11-28T11:16:47.418245+01:00",
+"updated": "2026-11-28T15:03:34.385199+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
-"synced": "2026-11-28T11:08:47.417968+01:00",
+"synced": "2026-11-28T15:03:34.385199+01:00",
 "pruned": "2026-11-28",
 "calls": {
 "2026-11-21": 93,
@@ -13,12 +13,100 @@
 "2026-11-25": 153,
 "2026-11-26": 171,
 "2026-11-27": 131,
-"2026-11-28": 58
+"2026-11-28": 62
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAk/gD/PpNZgxZQGdaPJGVwlmXxiZZg",
+"snapshot": "AAAk/6F5wYGY64zUtzImsrKLX1g5Oesy",
 "playlist": [
+[
+"2026-11-28T14:54|Brian Eno & John Cale|Spinning Away",
+"spotify:track:1aMJTyCRfxfp8luej4rjAC"
+],
+[
+"2026-11-28T14:48|Austra & Patrick Holland|Siren Reprise",
+"spotify:track:678wI419HyRL4qSTbXdyLu"
+],
+[
+"2026-11-28T14:43|2raumwohnung|Lass die Pferde frei (Radio Edit)",
+"spotify:track:6iKF2dQJNLjEAvNjIYAreO"
+],
+[
+"2026-11-28T14:39|Portugal. The Man|Got It All (This Can't Be Living Now)",
+"spotify:track:0jGNZ4924W6YYB5Rg7FdYw"
+],
+[
+"2026-11-28T14:34|Dekker|Pick It Up, Put It Back",
+"spotify:track:0LhuToBNSlvYc4IwVJpYWH"
+],
+[
+"2026-11-28T14:30|Wet Leg|Chaise Longue",
+"spotify:track:7iqAuZe5yS0suLQcFfVK39"
+],
+[
+"2026-11-28T14:24|Benjamin Clementine|In Fact You Know You Gotto Go",
+"spotify:track:4cWEdRTQ8sg4QaTBIGn06j"
+],
+[
+"2026-11-28T14:20|Orbital feat. Zola Jesus|New France",
+"spotify:track:2XnAPkp0DJYoXnj9rRkTWE"
+],
+[
+"2026-11-28T14:13|Fleetwood Mac|The Chain",
+"spotify:track:7Dm3dV3WPNdTgxoNY7YFnc"
+],
+[
+"2026-11-28T14:10|Get Well Soon|Siri, What Ruined The West ?",
+"spotify:track:3XY1xxFHeGHDDt33V6GoE2"
+],
+[
+"2026-11-28T13:56|Nightbus|Angles Mortz",
+"spotify:track:5XvRng3X26Q3oGMEoFKsWo"
+],
+[
+"2026-11-28T13:50|Living Colour|Solace Of You",
+"spotify:track:1vSGsBEbcSS3EZKxTv6msz"
+],
+[
+"2026-11-28T13:41|Antony Szmierek|Chalk (Radio Edit)",
+"spotify:track:5HdeMdzAlNKwCM4L9cjehN"
+],
+[
+"2026-11-28T13:33|New German Cinema|Water Drops",
+"spotify:track:65SwobxDwUigYvd91PIAuF"
+],
+[
+"2026-11-28T12:56|Kelela|the bridge (feat. PinkPantheress)",
+"spotify:track:4Og22Djtd18AVqNgijpLsX"
+],
+[
+"2026-11-28T12:16|Nneka|This Life",
+"spotify:track:7ImxwM9krvsFNUUpjDxZwU"
+],
+[
+"2026-11-28T11:49|Yard Act|You're Gonna Need A Little Music",
+"spotify:track:43KS2LpjMVkvJdprLaoQxQ"
+],
+[
+"2026-11-28T11:35|Lola Young|Flicker Of Light",
+"spotify:track:3etbPFMXnAuShtcImz4UXW"
+],
+[
+"2026-11-28T11:32|Leon Bridges|Talk it over",
+"spotify:track:5Bdn8RyTqz4dV7F07EFBP5"
+],
+[
+"2026-11-28T11:24|Hot Chip|Random Violence (Radio Edit)",
+"spotify:track:0T3vTM8KUAwGMukdAhNVj2"
+],
+[
+"2026-11-28T11:08|Theophilius London feat. Sara Quin|Why Even Try",
+"spotify:track:2rrPQMdDbRZyMtQooLaIKO"
+],
+[
+"2026-11-28T11:04|The Limiñanas feat. Peter Hook|Garden Of Love",
+"spotify:track:6kcRLo7m05rbaWkM2kApiY"
+],
 [
 "2026-11-28T10:56|Skee-Lo|I Wish",
 "spotify:track:1fLbQTv0qljtN4WZpLpk1O"
@@ -3685,6 +3773,162 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-11-28T14:54|Brian Eno & John Cale|Spinning Away",
+"t": "2026-11-28T14:54:00+01:00",
+"artist": "Brian Eno & John Cale",
+"title": "Spinning Away"
+},
+{
+"id": "2026-11-28T14:48|Austra & Patrick Holland|Siren Reprise",
+"t": "2026-11-28T14:48:00+01:00",
+"artist": "Austra & Patrick Holland",
+"title": "Siren Reprise"
+},
+{
+"id": "2026-11-28T14:43|2raumwohnung|Lass die Pferde frei (Radio Edit)",
+"t": "2026-11-28T14:43:00+01:00",
+"artist": "2raumwohnung",
+"title": "Lass die Pferde frei (Radio Edit)"
+},
+{
+"id": "2026-11-28T14:39|Portugal. The Man|Got It All (This Can't Be Living Now)",
+"t": "2026-11-28T14:39:00+01:00",
+"artist": "Portugal. The Man",
+"title": "Got It All (This Can't Be Living Now)"
+},
+{
+"id": "2026-11-28T14:34|Dekker|Pick It Up, Put It Back",
+"t": "2026-11-28T14:34:00+01:00",
+"artist": "Dekker",
+"title": "Pick It Up, Put It Back"
+},
+{
+"id": "2026-11-28T14:30|Wet Leg|Chaise Longue",
+"t": "2026-11-28T14:30:00+01:00",
+"artist": "Wet Leg",
+"title": "Chaise Longue"
+},
+{
+"id": "2026-11-28T14:24|Benjamin Clementine|In Fact You Know You Gotto Go",
+"t": "2026-11-28T14:24:00+01:00",
+"artist": "Benjamin Clementine",
+"title": "In Fact You Know You Gotto Go"
+},
+{
+"id": "2026-11-28T14:20|Orbital feat. Zola Jesus|New France",
+"t": "2026-11-28T14:20:00+01:00",
+"artist": "Orbital feat. Zola Jesus",
+"title": "New France"
+},
+{
+"id": "2026-11-28T14:13|Fleetwood Mac|The Chain",
+"t": "2026-11-28T14:13:00+01:00",
+"artist": "Fleetwood Mac",
+"title": "The Chain"
+},
+{
+"id": "2026-11-28T14:10|Get Well Soon|Siri, What Ruined The West ?",
+"t": "2026-11-28T14:10:00+01:00",
+"artist": "Get Well Soon",
+"title": "Siri, What Ruined The West ?"
+},
+{
+"id": "2026-11-28T14:05|Jim Noir|Eanie Meany",
+"t": "2026-11-28T14:05:00+01:00",
+"artist": "Jim Noir",
+"title": "Eanie Meany"
+},
+{
+"id": "2026-11-28T13:56|Nightbus|Angles Mortz",
+"t": "2026-11-28T13:56:00+01:00",
+"artist": "Nightbus",
+"title": "Angles Mortz"
+},
+{
+"id": "2026-11-28T13:50|Living Colour|Solace Of You",
+"t": "2026-11-28T13:50:00+01:00",
+"artist": "Living Colour",
+"title": "Solace Of You"
+},
+{
+"id": "2026-11-28T13:41|Antony Szmierek|Chalk (Radio Edit)",
+"t": "2026-11-28T13:41:00+01:00",
+"artist": "Antony Szmierek",
+"title": "Chalk (Radio Edit)"
+},
+{
+"id": "2026-11-28T13:33|New German Cinema|Water Drops",
+"t": "2026-11-28T13:33:00+01:00",
+"artist": "New German Cinema",
+"title": "Water Drops"
+},
+{
+"id": "2026-11-28T12:56|Kelela|the bridge (feat. PinkPantheress)",
+"t": "2026-11-28T12:56:00+01:00",
+"artist": "Kelela",
+"title": "the bridge (feat. PinkPantheress)"
+},
+{
+"id": "2026-11-28T12:25|Curtis Mayfield|Pusherman",
+"t": "2026-11-28T12:25:00+01:00",
+"artist": "Curtis Mayfield",
+"title": "Pusherman"
+},
+{
+"id": "2026-11-28T12:16|Nneka|This Life",
+"t": "2026-11-28T12:16:00+01:00",
+"artist": "Nneka",
+"title": "This Life"
+},
+{
+"id": "2026-11-28T12:05|CATT|Jungle Of Abundance",
+"t": "2026-11-28T12:05:00+01:00",
+"artist": "CATT",
+"title": "Jungle Of Abundance"
+},
+{
+"id": "2026-11-28T11:56|Wham!|Everything She Wants (Edit)",
+"t": "2026-11-28T11:56:00+01:00",
+"artist": "Wham!",
+"title": "Everything She Wants (Edit)"
+},
+{
+"id": "2026-11-28T11:49|Yard Act|You're Gonna Need A Little Music",
+"t": "2026-11-28T11:49:00+01:00",
+"artist": "Yard Act",
+"title": "You're Gonna Need A Little Music"
+},
+{
+"id": "2026-11-28T11:44|Daft Punk feat. Pharrell Williams|Lose Yourself To Dance",
+"t": "2026-11-28T11:44:00+01:00",
+"artist": "Daft Punk feat. Pharrell Williams",
+"title": "Lose Yourself To Dance"
+},
+{
+"id": "2026-11-28T11:35|Lola Young|Flicker Of Light",
+"t": "2026-11-28T11:35:00+01:00",
+"artist": "Lola Young",
+"title": "Flicker Of Light"
+},
+{
+"id": "2026-11-28T11:32|Leon Bridges|Talk it over",
+"t": "2026-11-28T11:32:00+01:00",
+"artist": "Leon Bridges",
+"title": "Talk it over"
+},
+{
+"id": "2026-11-28T11:24|Hot Chip|Random Violence (Radio Edit)",
+"t": "2026-11-28T11:24:00+01:00",
+"artist": "Hot Chip",
+"title": "Random Violence (Radio Edit)"
+},
+{
+"id": "2026-11-28T11:19|Siouxsie and The Banshees|Cities In Dust",
+"t": "2026-11-28T11:19:00+01:00",
+"artist": "Siouxsie and The Banshees",
+"title": "Cities In Dust"
+},
 {
 "id": "2026-11-28T11:08|Theophilius London feat. Sara Quin|Why Even Try",
 "t": "2026-11-28T11:08:00+01:00",
@@ -8934,120 +9178,6 @@
 "t": "2026-11-21T15:07:00+01:00",
 "artist": "MorMor feat. Celeste",
 "title": "Like Heaven"
-},
-{
-"id": "2026-11-21T14:57|Dope Lemon|Streets Of Your Town",
-"t": "2026-11-21T14:57:00+01:00",
-"artist": "Dope Lemon",
-"title": "Streets Of Your Town"
-},
-{
-"id": "2026-11-21T14:51|Bonobo|Age of Phase (Radio Edit)",
-"t": "2026-11-21T14:51:00+01:00",
-"artist": "Bonobo",
-"title": "Age of Phase (Radio Edit)"
-},
-{
-"id": "2026-11-21T14:48|Bulgarian Cartrader|In My Zone (Radio Edit)",
-"t": "2026-11-21T14:48:00+01:00",
-"artist": "Bulgarian Cartrader",
-"title": "In My Zone (Radio Edit)"
-},
-{
-"id": "2026-11-21T14:45|Vince Staples|Tulsa, OK",
-"t": "2026-11-21T14:45:00+01:00",
-"artist": "Vince Staples",
-"title": "Tulsa, OK"
-},
-{
-"id": "2026-11-21T14:42|Chinese American Bear|Dance Dance Dance (Edit)",
-"t": "2026-11-21T14:42:00+01:00",
-"artist": "Chinese American Bear",
-"title": "Dance Dance Dance (Edit)"
-},
-{
-"id": "2026-11-21T14:35|Mine|Dunkel",
-"t": "2026-11-21T14:35:00+01:00",
-"artist": "Mine",
-"title": "Dunkel"
-},
-{
-"id": "2026-11-21T14:32|Erland & The Carnival|The Derby Ram",
-"t": "2026-11-21T14:32:00+01:00",
-"artist": "Erland & The Carnival",
-"title": "The Derby Ram"
-},
-{
-"id": "2026-11-21T14:24|Boy Harsher|Tough Luck (When You Don't Call)",
-"t": "2026-11-21T14:24:00+01:00",
-"artist": "Boy Harsher",
-"title": "Tough Luck (When You Don't Call)"
-},
-{
-"id": "2026-11-21T14:16|10CC|I'm Not In Love (Edit)",
-"t": "2026-11-21T14:16:00+01:00",
-"artist": "10CC",
-"title": "I'm Not In Love (Edit)"
-},
-{
-"id": "2026-11-21T14:13|Alewya|Cairo FM",
-"t": "2026-11-21T14:13:00+01:00",
-"artist": "Alewya",
-"title": "Cairo FM"
-},
-{
-"id": "2026-11-21T14:06|Hot Hot Heat|Middle Of Nowhere",
-"t": "2026-11-21T14:06:00+01:00",
-"artist": "Hot Hot Heat",
-"title": "Middle Of Nowhere"
-},
-{
-"id": "2026-11-21T11:56|Zaho de Sagazan|Modern Love",
-"t": "2026-11-21T11:56:00+01:00",
-"artist": "Zaho de Sagazan",
-"title": "Modern Love"
-},
-{
-"id": "2026-11-21T11:51|Anderson .Paak & Cordae|A Good Day",
-"t": "2026-11-21T11:51:00+01:00",
-"artist": "Anderson .Paak & Cordae",
-"title": "A Good Day"
-},
-{
-"id": "2026-11-21T11:45|Simple Minds|Theme For Great Cities",
-"t": "2026-11-21T11:45:00+01:00",
-"artist": "Simple Minds",
-"title": "Theme For Great Cities"
-},
-{
-"id": "2026-11-21T11:35|Agoria feat. Noemie & Rami Khalifé|Teardrops",
-"t": "2026-11-21T11:35:00+01:00",
-"artist": "Agoria feat. Noemie & Rami Khalifé",
-"title": "Teardrops"
-},
-{
-"id": "2026-11-21T11:31|Smidley feat. Lucy Dacus|Capstone",
-"t": "2026-11-21T11:31:00+01:00",
-"artist": "Smidley feat. Lucy Dacus",
-"title": "Capstone"
-},
-{
-"id": "2026-11-21T11:26|Sam Fender feat. Olivia Dean|Rein Me In (Edit)",
-"t": "2026-11-21T11:26:00+01:00",
-"artist": "Sam Fender feat. Olivia Dean",
-"title": "Rein Me In (Edit)"
-},
-{
-"id": "2026-11-21T11:22|Apparat|Arcadia",
-"t": "2026-11-21T11:22:00+01:00",
-"artist": "Apparat",
-"title": "Arcadia"
-},
-{
-"id": "2026-11-21T11:18|Ibeyi|Hurry Hurry",
-"t": "2026-11-21T11:18:00+01:00",
-"artist": "Ibeyi",
-"title": "Hurry Hurry"
 }
 ]
 }
