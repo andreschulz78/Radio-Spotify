@@ -1,9 +1,9 @@
 {
-"updated": "2026-11-28T08:16:47.413674+01:00",
+"updated": "2026-11-28T08:28:47.413972+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
-"synced": "2026-11-28T08:12:47.413587+01:00",
+"synced": "2026-11-28T08:28:47.413972+01:00",
 "pruned": "2026-11-28",
 "calls": {
 "2026-11-21": 93,
@@ -13,12 +13,24 @@
 "2026-11-25": 153,
 "2026-11-26": 171,
 "2026-11-27": 131,
-"2026-11-28": 28
+"2026-11-28": 30
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAk8ioOwXmwiESw0tDzvr87ccesj5YV",
+"snapshot": "AAAk8+iLzKFlfLB+gpwCoPGf7CkkaiLf",
 "playlist": [
+[
+"2026-11-28T08:22|Ex:Re|Sleep",
+"spotify:track:31hSy1c6SWABIV3W1LqjMz"
+],
+[
+"2026-11-28T08:20|Kaktus Einarsson feat. John Grant|Follow",
+"spotify:track:0bbPqdrMN94XmIlBQS21B3"
+],
+[
+"2026-11-28T08:16|Django Django|In Your Beat",
+"spotify:track:1I5RbhNvpm8V1KbI2rjTIB"
+],
 [
 "2026-11-28T08:07|Vince Staples|Cotton",
 "spotify:track:2Dh62ulfuwM2lOWPy4TLEb"
@@ -3577,6 +3589,24 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-11-28T08:22|Ex:Re|Sleep",
+"t": "2026-11-28T08:22:00+01:00",
+"artist": "Ex:Re",
+"title": "Sleep"
+},
+{
+"id": "2026-11-28T08:20|Kaktus Einarsson feat. John Grant|Follow",
+"t": "2026-11-28T08:20:00+01:00",
+"artist": "Kaktus Einarsson feat. John Grant",
+"title": "Follow"
+},
+{
+"id": "2026-11-28T08:16|Django Django|In Your Beat",
+"t": "2026-11-28T08:16:00+01:00",
+"artist": "Django Django",
+"title": "In Your Beat"
+},
 {
 "id": "2026-11-28T08:07|Vince Staples|Cotton",
 "t": "2026-11-28T08:07:00+01:00",
@@ -8898,18 +8928,6 @@
 "t": "2026-11-21T08:32:00+01:00",
 "artist": "Soulwax",
 "title": "Run Free (Radio Edit)"
-},
-{
-"id": "2026-11-21T08:25|Jordan Rakei|Enemies",
-"t": "2026-11-21T08:25:00+01:00",
-"artist": "Jordan Rakei",
-"title": "Enemies"
-},
-{
-"id": "2026-11-21T08:22|Karl die Große|Gefällt",
-"t": "2026-11-21T08:22:00+01:00",
-"artist": "Karl die Große",
-"title": "Gefällt"
 }
 ]
 }
