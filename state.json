@@ -1,9 +1,9 @@
 {
-"updated": "2026-11-28T15:15:34.385559+01:00",
+"updated": "2026-11-28T15:27:34.385868+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
-"synced": "2026-11-28T15:03:34.385199+01:00",
+"synced": "2026-11-28T15:19:34.385668+01:00",
 "pruned": "2026-11-28",
 "calls": {
 "2026-11-21": 93,
@@ -13,12 +13,20 @@
 "2026-11-25": 153,
 "2026-11-26": 171,
 "2026-11-27": 131,
-"2026-11-28": 73
+"2026-11-28": 82
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAk/6F5wYGY64zUtzImsrKLX1g5Oesy",
+"snapshot": "AAAlBOgXlagcoNOlUykdFoodZ/QM4keY",
 "playlist": [
+[
+"2026-11-28T15:08|Alexander IV feat. Pete Josef|Long Way From Home",
+"spotify:track:341lEzv6QCuY1xnfx3LusT"
+],
+[
+"2026-11-28T15:05|The Rakes|We Danced Together",
+"spotify:track:4jUqjHS9fOjGYNGzG2Txsr"
+],
 [
 "2026-11-28T14:54|Brian Eno & John Cale|Spinning Away",
 "spotify:track:1aMJTyCRfxfp8luej4rjAC"
@@ -60,6 +68,10 @@
 "spotify:track:3XY1xxFHeGHDDt33V6GoE2"
 ],
 [
+"2026-11-28T14:05|Jim Noir|Eanie Meany",
+"spotify:track:2NtCyAe3VnE962CxUh42K2"
+],
+[
 "2026-11-28T13:56|Nightbus|Angles Mortz",
 "spotify:track:5XvRng3X26Q3oGMEoFKsWo"
 ],
@@ -80,12 +92,28 @@
 "spotify:track:4Og22Djtd18AVqNgijpLsX"
 ],
 [
+"2026-11-28T12:25|Curtis Mayfield|Pusherman",
+"spotify:track:7zrPswSV1yxrill5OyCuaU"
+],
+[
 "2026-11-28T12:16|Nneka|This Life",
 "spotify:track:7ImxwM9krvsFNUUpjDxZwU"
 ],
 [
+"2026-11-28T12:05|CATT|Jungle Of Abundance",
+"spotify:track:7cDL31s4Hws6Nvp85ymghW"
+],
+[
+"2026-11-28T11:56|Wham!|Everything She Wants (Edit)",
+"spotify:track:4GSIXi1NcsvfWQtZXyPYfy"
+],
+[
 "2026-11-28T11:49|Yard Act|You're Gonna Need A Little Music",
 "spotify:track:43KS2LpjMVkvJdprLaoQxQ"
+],
+[
+"2026-11-28T11:44|Daft Punk feat. Pharrell Williams|Lose Yourself To Dance",
+"spotify:track:7tvz58QxYKRLDpGn53i8TG"
 ],
 [
 "2026-11-28T11:35|Lola Young|Flicker Of Light",
@@ -3773,6 +3801,24 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-11-28T15:21|The Drums feat. Mareux|It Didn't Matter",
+"t": "2026-11-28T15:21:00+01:00",
+"artist": "The Drums feat. Mareux",
+"title": "It Didn't Matter"
+},
+{
+"id": "2026-11-28T15:18|Vince Staples|Tulsa, OK",
+"t": "2026-11-28T15:18:00+01:00",
+"artist": "Vince Staples",
+"title": "Tulsa, OK"
+},
+{
+"id": "2026-11-28T15:15|John Howard & The Night Mail|Intact & Smiling",
+"t": "2026-11-28T15:15:00+01:00",
+"artist": "John Howard & The Night Mail",
+"title": "Intact & Smiling"
+},
 {
 "id": "2026-11-28T15:08|Alexander IV feat. Pete Josef|Long Way From Home",
 "t": "2026-11-28T15:08:00+01:00",
@@ -9160,24 +9206,6 @@
 "t": "2026-11-21T15:32:00+01:00",
 "artist": "Soft Cell",
 "title": "Tainted Love"
-},
-{
-"id": "2026-11-21T15:25|Donkey Kid|Goldmine",
-"t": "2026-11-21T15:25:00+01:00",
-"artist": "Donkey Kid",
-"title": "Goldmine"
-},
-{
-"id": "2026-11-21T15:22|Bomb The Bass featuring Paul Conboy|So Special",
-"t": "2026-11-21T15:22:00+01:00",
-"artist": "Bomb The Bass featuring Paul Conboy",
-"title": "So Special"
-},
-{
-"id": "2026-11-21T15:18|A Projection|Transition",
-"t": "2026-11-21T15:18:00+01:00",
-"artist": "A Projection",
-"title": "Transition"
 }
 ]
 }
