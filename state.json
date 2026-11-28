@@ -1,9 +1,9 @@
 {
-"updated": "2026-11-28T10:28:47.417034+01:00",
+"updated": "2026-11-28T10:40:47.417315+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
-"synced": "2026-11-28T10:20:47.416845+01:00",
+"synced": "2026-11-28T10:36:47.417217+01:00",
 "pruned": "2026-11-28",
 "calls": {
 "2026-11-21": 93,
@@ -13,12 +13,24 @@
 "2026-11-25": 153,
 "2026-11-26": 171,
 "2026-11-27": 131,
-"2026-11-28": 50
+"2026-11-28": 53
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAk+jKNFf38qlpExISPmEe8I0u4/PYT",
+"snapshot": "AAAk/Ll8YTPPurTSk5+sHhlelownD+nM",
 "playlist": [
+[
+"2026-11-28T10:32|Bilderbuch|Baby Junkie",
+"spotify:track:1bPs9oNEaAEUYfCL7tH79W"
+],
+[
+"2026-11-28T10:25|Joshua Idehen|Could Be Forever",
+"spotify:track:0ZUKth5xg7UM6Q73YhDq2w"
+],
+[
+"2026-11-28T10:20|Ultravox|Vienna",
+"spotify:track:7ioy6ppmN9Rn8Pm5axNzUP"
+],
 [
 "2026-11-28T10:08|Hubbabubbaklubb|Mopedbart",
 "spotify:track:7xHxDE898j1kfvcWlRfQy5"
@@ -3504,10 +3516,6 @@
 "spotify:track:41sGSIiPi1QAYaL6nUWSDg"
 ],
 [
-"2026-11-21T10:36|College feat. Electric Youth|A Real Hero",
-"spotify:track:1aJrVsHwcQMZ8TZ6mlvT5J"
-],
-[
 "2026-11-21T10:33|Coma|Start/Stop/Rewind",
 "spotify:track:11L3mSwEwt7AJ39jh4Crbd"
 ],
@@ -3657,6 +3665,24 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-11-28T10:34|Patrick Watson|Peter And The Wolf (Radio Edit)",
+"t": "2026-11-28T10:34:00+01:00",
+"artist": "Patrick Watson",
+"title": "Peter And The Wolf (Radio Edit)"
+},
+{
+"id": "2026-11-28T10:32|Bilderbuch|Baby Junkie",
+"t": "2026-11-28T10:32:00+01:00",
+"artist": "Bilderbuch",
+"title": "Baby Junkie"
+},
+{
+"id": "2026-11-28T10:25|Joshua Idehen|Could Be Forever",
+"t": "2026-11-28T10:25:00+01:00",
+"artist": "Joshua Idehen",
+"title": "Could Be Forever"
+},
 {
 "id": "2026-11-28T10:20|Ultravox|Vienna",
 "t": "2026-11-28T10:20:00+01:00",
@@ -8996,18 +9022,6 @@
 "t": "2026-11-21T10:48:00+01:00",
 "artist": "Keshavara",
 "title": "Oracular"
-},
-{
-"id": "2026-11-21T10:36|College feat. Electric Youth|A Real Hero",
-"t": "2026-11-21T10:36:00+01:00",
-"artist": "College feat. Electric Youth",
-"title": "A Real Hero"
-},
-{
-"id": "2026-11-21T10:33|Coma|Start/Stop/Rewind",
-"t": "2026-11-21T10:33:00+01:00",
-"artist": "Coma",
-"title": "Start/Stop/Rewind"
 }
 ]
 }
