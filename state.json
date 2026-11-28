@@ -1,9 +1,9 @@
 {
-"updated": "2026-11-28T15:39:34.386206+01:00",
+"updated": "2026-11-28T15:51:34.386515+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
-"synced": "2026-11-28T15:35:34.386078+01:00",
+"synced": "2026-11-28T15:51:34.386515+01:00",
 "pruned": "2026-11-28",
 "calls": {
 "2026-11-21": 93,
@@ -13,12 +13,20 @@
 "2026-11-25": 153,
 "2026-11-26": 171,
 "2026-11-27": 131,
-"2026-11-28": 83
+"2026-11-28": 85
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAlBXuMKlEPyskWJMVGnWiiwj6GSYin",
+"snapshot": "AAAlBt3OjWCogsyYQJFVLkSyza99FKsv",
 "playlist": [
+[
+"2026-11-28T15:44|Fatoni|Wann werd ich endlich ausgetauscht?",
+"spotify:track:4a7eliu528rEJyI23MrzHT"
+],
+[
+"2026-11-28T15:34|Meshell Ndegeocello feat. Cat Power|Don’t You Want Me",
+"spotify:track:5sbCqST9M4Q1sRSJM6L6oT"
+],
 [
 "2026-11-28T15:32|Anthea|Run",
 "spotify:track:5q6UJFWsjGjJUw33MkcZcn"
@@ -3821,6 +3829,18 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-11-28T15:44|Fatoni|Wann werd ich endlich ausgetauscht?",
+"t": "2026-11-28T15:44:00+01:00",
+"artist": "Fatoni",
+"title": "Wann werd ich endlich ausgetauscht?"
+},
+{
+"id": "2026-11-28T15:34|Meshell Ndegeocello feat. Cat Power|Don’t You Want Me",
+"t": "2026-11-28T15:34:00+01:00",
+"artist": "Meshell Ndegeocello feat. Cat Power",
+"title": "Don’t You Want Me"
+},
 {
 "id": "2026-11-28T15:32|Anthea|Run",
 "t": "2026-11-28T15:32:00+01:00",
@@ -9208,24 +9228,6 @@
 "t": "2026-11-21T15:52:00+01:00",
 "artist": "Steve Lacy",
 "title": "Show You Me"
-},
-{
-"id": "2026-11-21T15:48|Get Well Soon|Siri, What Ruined The West ?",
-"t": "2026-11-21T15:48:00+01:00",
-"artist": "Get Well Soon",
-"title": "Siri, What Ruined The West ?"
-},
-{
-"id": "2026-11-21T15:45|The Love Affair|Everlasting Love",
-"t": "2026-11-21T15:45:00+01:00",
-"artist": "The Love Affair",
-"title": "Everlasting Love"
-},
-{
-"id": "2026-11-21T15:40|Die Höchste Eisenbahn|Bürotage",
-"t": "2026-11-21T15:40:00+01:00",
-"artist": "Die Höchste Eisenbahn",
-"title": "Bürotage"
 }
 ]
 }
