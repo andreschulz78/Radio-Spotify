@@ -1,5 +1,5 @@
 {
-"updated": "2026-11-28T16:39:34.387899+01:00",
+"updated": "2026-11-28T16:51:34.388251+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
@@ -13,7 +13,7 @@
 "2026-11-25": 153,
 "2026-11-26": 171,
 "2026-11-27": 131,
-"2026-11-28": 90
+"2026-11-28": 92
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
@@ -3853,6 +3853,18 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-11-28T16:43|Foo Fighters|Baker Street",
+"t": "2026-11-28T16:43:00+01:00",
+"artist": "Foo Fighters",
+"title": "Baker Street"
+},
+{
+"id": "2026-11-28T16:37|Helge Schneider and The Firefuckers|Copacabana (at the Copa)",
+"t": "2026-11-28T16:37:00+01:00",
+"artist": "Helge Schneider and The Firefuckers",
+"title": "Copacabana (at the Copa)"
+},
 {
 "id": "2026-11-28T16:32|Parquet Courts|Dust",
 "t": "2026-11-28T16:32:00+01:00",
@@ -9228,24 +9240,6 @@
 "t": "2026-11-21T16:54:00+01:00",
 "artist": "Theophilus London feat. Ariel Pink",
 "title": "Revenge"
-},
-{
-"id": "2026-11-21T16:51|Toro y Moi feat. Kenny Beats|Daria",
-"t": "2026-11-21T16:51:00+01:00",
-"artist": "Toro y Moi feat. Kenny Beats",
-"title": "Daria"
-},
-{
-"id": "2026-11-21T16:46|Σtella|Belinda",
-"t": "2026-11-21T16:46:00+01:00",
-"artist": "Σtella",
-"title": "Belinda"
-},
-{
-"id": "2026-11-21T16:40|Drangsal|Bergab",
-"t": "2026-11-21T16:40:00+01:00",
-"artist": "Drangsal",
-"title": "Bergab"
 }
 ]
 }
