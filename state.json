@@ -1,9 +1,9 @@
 {
-"updated": "2026-11-28T09:04:47.414910+01:00",
+"updated": "2026-11-28T09:16:47.415178+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
-"synced": "2026-11-28T09:00:47.414811+01:00",
+"synced": "2026-11-28T09:16:47.415178+01:00",
 "pruned": "2026-11-28",
 "calls": {
 "2026-11-21": 93,
@@ -13,12 +13,16 @@
 "2026-11-25": 153,
 "2026-11-26": 171,
 "2026-11-27": 131,
-"2026-11-28": 39
+"2026-11-28": 41
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAk9TbOJAeSYp9r6Qxb91LqqaFjrAV5",
+"snapshot": "AAAk9ot0uR0JzlF1YyBj2KdOFebzPUDp",
 "playlist": [
+[
+"2026-11-28T09:04|Andrew Collberg|Hi Hopes (Edit)",
+"spotify:track:1kjdZI17F6ONf5iluLS0in"
+],
 [
 "2026-11-28T08:57|Gry|Princess Crocodile",
 "spotify:track:5nsPHwcAGA0WuecR2XyZuj"
@@ -3621,6 +3625,18 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-11-28T09:10|Robert Plant & Alison Krauss|Searching For My Lover",
+"t": "2026-11-28T09:10:00+01:00",
+"artist": "Robert Plant & Alison Krauss",
+"title": "Searching For My Lover"
+},
+{
+"id": "2026-11-28T09:04|Andrew Collberg|Hi Hopes (Edit)",
+"t": "2026-11-28T09:04:00+01:00",
+"artist": "Andrew Collberg",
+"title": "Hi Hopes (Edit)"
+},
 {
 "id": "2026-11-28T08:57|Gry|Princess Crocodile",
 "t": "2026-11-28T08:57:00+01:00",
@@ -8966,12 +8982,6 @@
 "t": "2026-11-21T09:21:00+01:00",
 "artist": "The Big Moon",
 "title": "F.O.R.E.V.E.R"
-},
-{
-"id": "2026-11-21T09:10|Perel|Alles",
-"t": "2026-11-21T09:10:00+01:00",
-"artist": "Perel",
-"title": "Alles"
 }
 ]
 }
