@@ -1,9 +1,9 @@
 {
-"updated": "2026-11-28T15:27:34.385868+01:00",
+"updated": "2026-11-28T15:39:34.386206+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
-"synced": "2026-11-28T15:19:34.385668+01:00",
+"synced": "2026-11-28T15:35:34.386078+01:00",
 "pruned": "2026-11-28",
 "calls": {
 "2026-11-21": 93,
@@ -13,12 +13,32 @@
 "2026-11-25": 153,
 "2026-11-26": 171,
 "2026-11-27": 131,
-"2026-11-28": 82
+"2026-11-28": 83
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAlBOgXlagcoNOlUykdFoodZ/QM4keY",
+"snapshot": "AAAlBXuMKlEPyskWJMVGnWiiwj6GSYin",
 "playlist": [
+[
+"2026-11-28T15:32|Anthea|Run",
+"spotify:track:5q6UJFWsjGjJUw33MkcZcn"
+],
+[
+"2026-11-28T15:25|Getdown Services|I'm Not Feeling It",
+"spotify:track:7xvlfxgCGYonQklS547AgR"
+],
+[
+"2026-11-28T15:21|The Drums feat. Mareux|It Didn't Matter",
+"spotify:track:10kxTiNUTo4nlEbH1EzoX1"
+],
+[
+"2026-11-28T15:18|Vince Staples|Tulsa, OK",
+"spotify:track:4lyK8sT0dLpxSBv14wtVet"
+],
+[
+"2026-11-28T15:15|John Howard & The Night Mail|Intact & Smiling",
+"spotify:track:2WKxOIzEeaLCtbKYk05pqb"
+],
 [
 "2026-11-28T15:08|Alexander IV feat. Pete Josef|Long Way From Home",
 "spotify:track:341lEzv6QCuY1xnfx3LusT"
@@ -3801,6 +3821,18 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-11-28T15:32|Anthea|Run",
+"t": "2026-11-28T15:32:00+01:00",
+"artist": "Anthea",
+"title": "Run"
+},
+{
+"id": "2026-11-28T15:25|Getdown Services|I'm Not Feeling It",
+"t": "2026-11-28T15:25:00+01:00",
+"artist": "Getdown Services",
+"title": "I'm Not Feeling It"
+},
 {
 "id": "2026-11-28T15:21|The Drums feat. Mareux|It Didn't Matter",
 "t": "2026-11-28T15:21:00+01:00",
@@ -9194,18 +9226,6 @@
 "t": "2026-11-21T15:40:00+01:00",
 "artist": "Die Höchste Eisenbahn",
 "title": "Bürotage"
-},
-{
-"id": "2026-11-21T15:34|Nilüfer Yanya|Kneel",
-"t": "2026-11-21T15:34:00+01:00",
-"artist": "Nilüfer Yanya",
-"title": "Kneel"
-},
-{
-"id": "2026-11-21T15:32|Soft Cell|Tainted Love",
-"t": "2026-11-21T15:32:00+01:00",
-"artist": "Soft Cell",
-"title": "Tainted Love"
 }
 ]
 }
