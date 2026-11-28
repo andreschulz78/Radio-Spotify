@@ -1,9 +1,9 @@
 {
-"updated": "2026-11-28T06:16:47.410855+01:00",
+"updated": "2026-11-28T06:28:47.411143+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
-"synced": "2026-11-28T06:04:47.410606+01:00",
+"synced": "2026-11-28T06:20:47.410950+01:00",
 "pruned": "2026-11-28",
 "calls": {
 "2026-11-21": 93,
@@ -13,12 +13,28 @@
 "2026-11-25": 153,
 "2026-11-26": 171,
 "2026-11-27": 131,
-"2026-11-28": 4
+"2026-11-28": 6
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAk4JL72Zrhj12FuruFj9W+CMApjodq",
+"snapshot": "AAAk4Wj3jRz5APiIAgrYYYYBZUBE4hHg",
 "playlist": [
+[
+"2026-11-28T06:15|Jamie T|Tallahassee",
+"spotify:track:3Kwdvrz5PTUpAObYKNPlz0"
+],
+[
+"2026-11-28T06:12|Divorce|Antarctica",
+"spotify:track:0XMpYsWmc3s0ajUP3rij75"
+],
+[
+"2026-11-28T06:07|Carole King|You Make Me Feel Like A Natural Woman",
+"spotify:track:0LXljhKMUgoLv8tLwZ1hmf"
+],
+[
+"2026-11-28T06:04|Jungle|Let's Go Back",
+"spotify:track:3fvZo45Y28ly1QBo05pujJ"
+],
 [
 "2026-11-27T16:50|The Human League|Being Boiled",
 "spotify:track:2xN8RYKg69sdfoqtvYnwwM"
@@ -3505,6 +3521,18 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-11-28T06:21|Róisín Murphy|Ten Miles High",
+"t": "2026-11-28T06:21:00+01:00",
+"artist": "Róisín Murphy",
+"title": "Ten Miles High"
+},
+{
+"id": "2026-11-28T06:15|Jamie T|Tallahassee",
+"t": "2026-11-28T06:15:00+01:00",
+"artist": "Jamie T",
+"title": "Tallahassee"
+},
 {
 "id": "2026-11-28T06:12|Divorce|Antarctica",
 "t": "2026-11-28T06:12:00+01:00",
@@ -8832,24 +8860,6 @@
 "t": "2026-11-21T06:33:00+01:00",
 "artist": "Bonaparte",
 "title": "KiOSKO"
-},
-{
-"id": "2026-11-21T06:27|Len|Steal My Sunshine",
-"t": "2026-11-21T06:27:00+01:00",
-"artist": "Len",
-"title": "Steal My Sunshine"
-},
-{
-"id": "2026-11-21T06:21|Sophia Kennedy|Schenke mir ein",
-"t": "2026-11-21T06:21:00+01:00",
-"artist": "Sophia Kennedy",
-"title": "Schenke mir ein"
-},
-{
-"id": "2026-11-21T06:17|Kings Of Convenience|Rocky Trail",
-"t": "2026-11-21T06:17:00+01:00",
-"artist": "Kings Of Convenience",
-"title": "Rocky Trail"
 }
 ]
 }
