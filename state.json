@@ -1,9 +1,9 @@
 {
-"updated": "2026-11-28T08:04:47.413403+01:00",
+"updated": "2026-11-28T08:16:47.413674+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
-"synced": "2026-11-28T07:56:47.413203+01:00",
+"synced": "2026-11-28T08:12:47.413587+01:00",
 "pruned": "2026-11-28",
 "calls": {
 "2026-11-21": 93,
@@ -13,12 +13,20 @@
 "2026-11-25": 153,
 "2026-11-26": 171,
 "2026-11-27": 131,
-"2026-11-28": 24
+"2026-11-28": 28
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAk7otubI5acutt2tZ5sSHJW5jwZ2bE",
+"snapshot": "AAAk8ioOwXmwiESw0tDzvr87ccesj5YV",
 "playlist": [
+[
+"2026-11-28T08:07|Vince Staples|Cotton",
+"spotify:track:2Dh62ulfuwM2lOWPy4TLEb"
+],
+[
+"2026-11-28T07:56|Girlwoman|Rote Riesen schlafen nicht",
+"spotify:track:7s4GjEd7pqjsjoyFtR6Hh0"
+],
 [
 "2026-11-28T07:50|Beck|It Ends Right Here",
 "spotify:track:3PmyDf7Zu4vveCnayueVYX"
@@ -3496,10 +3504,6 @@
 "spotify:track:0dFzX2dvgmlN4tEnLoK8zQ"
 ],
 [
-"2026-11-21T08:12|Ibibio Sound Machine|Love",
-"spotify:track:0JGa4KrhqriWUuPcni3I8D"
-],
-[
 "2026-11-21T08:04|Oum Shatt|Gold To Straw",
 "spotify:track:1McTZhC5JeEmEm0AbiAefJ"
 ],
@@ -3573,6 +3577,12 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-11-28T08:07|Vince Staples|Cotton",
+"t": "2026-11-28T08:07:00+01:00",
+"artist": "Vince Staples",
+"title": "Cotton"
+},
 {
 "id": "2026-11-28T07:56|Girlwoman|Rote Riesen schlafen nicht",
 "t": "2026-11-28T07:56:00+01:00",
@@ -8900,18 +8910,6 @@
 "t": "2026-11-21T08:22:00+01:00",
 "artist": "Karl die Große",
 "title": "Gefällt"
-},
-{
-"id": "2026-11-21T08:16|The Psychedelic Furs|Until She Comes",
-"t": "2026-11-21T08:16:00+01:00",
-"artist": "The Psychedelic Furs",
-"title": "Until She Comes"
-},
-{
-"id": "2026-11-21T08:12|Ibibio Sound Machine|Love",
-"t": "2026-11-21T08:12:00+01:00",
-"artist": "Ibibio Sound Machine",
-"title": "Love"
 }
 ]
 }
