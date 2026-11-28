@@ -1,9 +1,9 @@
 {
-"updated": "2026-11-28T17:39:34.389696+01:00",
+"updated": "2026-11-28T17:51:34.390098+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
-"synced": "2026-11-28T17:31:34.389423+01:00",
+"synced": "2026-11-28T17:47:34.389952+01:00",
 "pruned": "2026-11-28",
 "calls": {
 "2026-11-21": 93,
@@ -13,12 +13,20 @@
 "2026-11-25": 153,
 "2026-11-26": 171,
 "2026-11-27": 131,
-"2026-11-28": 98
+"2026-11-28": 101
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAlC7v5T4E8f1t9/CRSdCoGH2sD6Gia",
+"snapshot": "AAAlDK8vIUZ8kaYU6cnkkXSc7pmtaSjr",
 "playlist": [
+[
+"2026-11-28T17:39|Martin Kohlstedt|RAH",
+"spotify:track:3zLNI7ESzLsSkWEJauAVAb"
+],
+[
+"2026-11-28T17:33|Christine And The Queens|Je disparais dans tes bras",
+"spotify:track:2P96XdauZc5DlJFtlFT9Rt"
+],
 [
 "2026-11-28T17:27|Σtella|Belinda",
 "spotify:track:1rs2lOYfBKNW5OCpeTIiVf"
@@ -3873,6 +3881,18 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-11-28T17:45|Suzanne Vega|Left Of Center",
+"t": "2026-11-28T17:45:00+01:00",
+"artist": "Suzanne Vega",
+"title": "Left Of Center"
+},
+{
+"id": "2026-11-28T17:39|Martin Kohlstedt|RAH",
+"t": "2026-11-28T17:39:00+01:00",
+"artist": "Martin Kohlstedt",
+"title": "RAH"
+},
 {
 "id": "2026-11-28T17:33|Christine And The Queens|Je disparais dans tes bras",
 "t": "2026-11-28T17:33:00+01:00",
@@ -9242,30 +9262,6 @@
 "t": "2026-11-22T06:04:00+01:00",
 "artist": "Lola Young",
 "title": "Not Like That Anymore"
-},
-{
-"id": "2026-11-21T17:51|Agnes Obel|Laymelli (Edit)",
-"t": "2026-11-21T17:51:00+01:00",
-"artist": "Agnes Obel",
-"title": "Laymelli (Edit)"
-},
-{
-"id": "2026-11-21T17:48|Air|Don't Be Light",
-"t": "2026-11-21T17:48:00+01:00",
-"artist": "Air",
-"title": "Don't Be Light"
-},
-{
-"id": "2026-11-21T17:44|Whitney Houston|Million Dollar Bill",
-"t": "2026-11-21T17:44:00+01:00",
-"artist": "Whitney Houston",
-"title": "Million Dollar Bill"
-},
-{
-"id": "2026-11-21T17:40|Future Islands|The Tower",
-"t": "2026-11-21T17:40:00+01:00",
-"artist": "Future Islands",
-"title": "The Tower"
 }
 ]
 }
