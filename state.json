@@ -1,9 +1,9 @@
 {
-"updated": "2026-11-28T08:40:47.414315+01:00",
+"updated": "2026-11-28T08:52:47.414605+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
-"synced": "2026-11-28T08:28:47.413972+01:00",
+"synced": "2026-11-28T08:44:47.414428+01:00",
 "pruned": "2026-11-28",
 "calls": {
 "2026-11-21": 93,
@@ -13,12 +13,20 @@
 "2026-11-25": 153,
 "2026-11-26": 171,
 "2026-11-27": 131,
-"2026-11-28": 30
+"2026-11-28": 33
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAk8+iLzKFlfLB+gpwCoPGf7CkkaiLf",
+"snapshot": "AAAk9IWCS5OjZcUbYCnhTvbZILgLIMsd",
 "playlist": [
+[
+"2026-11-28T08:32|Bonaparte|KiOSKO",
+"spotify:track:5seYGZRYuD3oPMxryJdvOk"
+],
+[
+"2026-11-28T08:26|Ibibio Sound Machine|Love",
+"spotify:track:0JGa4KrhqriWUuPcni3I8D"
+],
 [
 "2026-11-28T08:22|Ex:Re|Sleep",
 "spotify:track:31hSy1c6SWABIV3W1LqjMz"
@@ -3589,6 +3597,24 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-11-28T08:46|Faithless|Dirty Ol' Man",
+"t": "2026-11-28T08:46:00+01:00",
+"artist": "Faithless",
+"title": "Dirty Ol' Man"
+},
+{
+"id": "2026-11-28T08:42|Sassy 009 feat. Blood Orange|Tell Me (Jam City Remix) (Edit)",
+"t": "2026-11-28T08:42:00+01:00",
+"artist": "Sassy 009 feat. Blood Orange",
+"title": "Tell Me (Jam City Remix) (Edit)"
+},
+{
+"id": "2026-11-28T08:40|Sophia Kennedy|Being Special",
+"t": "2026-11-28T08:40:00+01:00",
+"artist": "Sophia Kennedy",
+"title": "Being Special"
+},
 {
 "id": "2026-11-28T08:32|Bonaparte|KiOSKO",
 "t": "2026-11-28T08:32:00+01:00",
@@ -8916,24 +8942,6 @@
 "t": "2026-11-21T08:56:00+01:00",
 "artist": "Weekend Players",
 "title": "21st Century"
-},
-{
-"id": "2026-11-21T08:49|Kutiman & Dekel|Hope",
-"t": "2026-11-21T08:49:00+01:00",
-"artist": "Kutiman & Dekel",
-"title": "Hope"
-},
-{
-"id": "2026-11-21T08:46|The Avalanches feat. Karen O|Blue Shadows",
-"t": "2026-11-21T08:46:00+01:00",
-"artist": "The Avalanches feat. Karen O",
-"title": "Blue Shadows"
-},
-{
-"id": "2026-11-21T08:41|Hayden Thorpe|Golden Ratio",
-"t": "2026-11-21T08:41:00+01:00",
-"artist": "Hayden Thorpe",
-"title": "Golden Ratio"
 }
 ]
 }
