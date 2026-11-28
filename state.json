@@ -1,5 +1,5 @@
 {
-"updated": "2026-11-28T15:03:34.385199+01:00",
+"updated": "2026-11-28T15:15:34.385559+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
@@ -13,7 +13,7 @@
 "2026-11-25": 153,
 "2026-11-26": 171,
 "2026-11-27": 131,
-"2026-11-28": 62
+"2026-11-28": 73
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
@@ -3773,6 +3773,18 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-11-28T15:08|Alexander IV feat. Pete Josef|Long Way From Home",
+"t": "2026-11-28T15:08:00+01:00",
+"artist": "Alexander IV feat. Pete Josef",
+"title": "Long Way From Home"
+},
+{
+"id": "2026-11-28T15:05|The Rakes|We Danced Together",
+"t": "2026-11-28T15:05:00+01:00",
+"artist": "The Rakes",
+"title": "We Danced Together"
+},
 {
 "id": "2026-11-28T14:54|Brian Eno & John Cale|Spinning Away",
 "t": "2026-11-28T14:54:00+01:00",
@@ -9166,18 +9178,6 @@
 "t": "2026-11-21T15:18:00+01:00",
 "artist": "A Projection",
 "title": "Transition"
-},
-{
-"id": "2026-11-21T15:15|Aurora|All My Demons Greeting Me As A Friend",
-"t": "2026-11-21T15:15:00+01:00",
-"artist": "Aurora",
-"title": "All My Demons Greeting Me As A Friend"
-},
-{
-"id": "2026-11-21T15:07|MorMor feat. Celeste|Like Heaven",
-"t": "2026-11-21T15:07:00+01:00",
-"artist": "MorMor feat. Celeste",
-"title": "Like Heaven"
 }
 ]
 }
