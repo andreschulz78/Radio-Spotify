@@ -1,9 +1,9 @@
 {
-"updated": "2026-11-28T07:16:47.412234+01:00",
+"updated": "2026-11-28T07:28:47.412535+01:00",
 "matcher": 4,
 "blocked_until": "2026-10-29T05:18:14.296159+01:00",
 "details": "51e4e36c2ea1",
-"synced": "2026-11-28T07:08:47.412057+01:00",
+"synced": "2026-11-28T07:24:47.412441+01:00",
 "pruned": "2026-11-28",
 "calls": {
 "2026-11-21": 93,
@@ -13,12 +13,20 @@
 "2026-11-25": 153,
 "2026-11-26": 171,
 "2026-11-27": 131,
-"2026-11-28": 12
+"2026-11-28": 16
 },
 "fresh": "2026-10-15T12:35:00+02:00",
 "start": "2026-10-15T12:35:52.074302+02:00",
-"snapshot": "AAAk5Z+FuGzuBg73Sh+Mei2qYya/yQyf",
+"snapshot": "AAAk6JPIXdEaqVf+6XgHg9TEJbKUXPxD",
 "playlist": [
+[
+"2026-11-28T07:11|Day one|Waiting For A Break",
+"spotify:track:0r4RyzEwbNSnyfdcdk1NI3"
+],
+[
+"2026-11-28T07:04|Nabihah Iqbal|This World Couldn't See Us",
+"spotify:track:13cQU9GKHqSDInv3s7h9fm"
+],
 [
 "2026-11-28T06:56|Tom Misch feat. De La Soul|It Runs Through Me  (Radio Edit)",
 "spotify:track:34E503ICqrdbhDGHwlBwLg"
@@ -3488,10 +3496,6 @@
 "spotify:track:0jWZDtZgmV2LZ2iW4c3yB7"
 ],
 [
-"2026-11-21T07:24|Sergio Torales feat. Der Assistent|Veo",
-"spotify:track:6k1tMxv0y7hJJsQMMfnE6p"
-],
-[
 "2026-11-21T07:21|Ane Brun feat. Röyksopp|Eat The Fruit (Radio Edit)",
 "spotify:track:6QTVocXJIT6QomBx2QuBBm"
 ],
@@ -3545,6 +3549,18 @@
 ]
 ],
 "entries": [
+{
+"id": "2026-11-28T07:22|Keshavara|Der Spiegelmann",
+"t": "2026-11-28T07:22:00+01:00",
+"artist": "Keshavara",
+"title": "Der Spiegelmann"
+},
+{
+"id": "2026-11-28T07:19|Aurora|All My Demons Greeting Me As A Friend",
+"t": "2026-11-28T07:19:00+01:00",
+"artist": "Aurora",
+"title": "All My Demons Greeting Me As A Friend"
+},
 {
 "id": "2026-11-28T07:11|Day one|Waiting For A Break",
 "t": "2026-11-28T07:11:00+01:00",
@@ -8872,18 +8888,6 @@
 "t": "2026-11-21T07:31:00+01:00",
 "artist": "Stella Donnelly",
 "title": "Laying Low"
-},
-{
-"id": "2026-11-21T07:24|Sergio Torales feat. Der Assistent|Veo",
-"t": "2026-11-21T07:24:00+01:00",
-"artist": "Sergio Torales feat. Der Assistent",
-"title": "Veo"
-},
-{
-"id": "2026-11-21T07:21|Ane Brun feat. Röyksopp|Eat The Fruit (Radio Edit)",
-"t": "2026-11-21T07:21:00+01:00",
-"artist": "Ane Brun feat. Röyksopp",
-"title": "Eat The Fruit (Radio Edit)"
 }
 ]
 }
